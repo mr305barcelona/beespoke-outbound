@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://outbound-lead-generation.com/sitemap.xml
