@@ -596,6 +596,70 @@
 
     .logo-card.small { font-size: 15px; letter-spacing: -0.02em; }
 
+    .enhanced-logo-grid {
+      align-items: stretch;
+    }
+    
+    .logo-card-enhanced {
+      position: relative;
+      min-height: 132px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 12px;
+      overflow: hidden;
+    }
+    
+    .logo-card-enhanced::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(circle at 50% 0%, rgba(240, 180, 41, 0.12), transparent 42%),
+        linear-gradient(180deg, rgba(255,255,255,0.98), rgba(255,255,255,0.74));
+      opacity: 0;
+      transition: opacity 180ms ease;
+    }
+    
+    .logo-card-enhanced:hover::before {
+      opacity: 1;
+    }
+    
+    .logo-card-enhanced img,
+    .logo-card-enhanced span {
+      position: relative;
+      z-index: 1;
+    }
+    
+    .logo-card-enhanced img {
+      max-width: 132px;
+      max-height: 46px;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+      filter: grayscale(100%);
+      opacity: 0.78;
+      transition: filter 180ms ease, opacity 180ms ease, transform 180ms ease;
+    }
+    
+    .logo-card-enhanced:hover img {
+      filter: grayscale(0%);
+      opacity: 1;
+      transform: translateY(-2px);
+    }
+    
+    .logo-card-enhanced span {
+      color: #344054;
+      font-weight: 850;
+      letter-spacing: -0.035em;
+      font-size: 17px;
+    }
+    
+    .logo-card-enhanced.small span {
+      font-size: 14px;
+      letter-spacing: -0.02em;
+    }
+
     .and-more {
       text-align: center;
       margin-top: 22px;
@@ -1007,6 +1071,30 @@
         padding: 16px;
         border-radius: 28px;
         margin-top: 8px;
+        .logo-grid.enhanced-logo-grid {
+          grid-template-columns: repeat(2, 1fr);
+          gap: 12px;
+        }
+        
+        .logo-card-enhanced {
+          min-height: 120px;
+          padding: 14px;
+          border-radius: 20px;
+          gap: 10px;
+        }
+        
+        .logo-card-enhanced img {
+          max-width: 100px;
+          max-height: 36px;
+        }
+        
+        .logo-card-enhanced span {
+          font-size: 15px;
+        }
+        
+        .logo-card-enhanced.small span {
+          font-size: 12px;
+        }
       }
       
       .reply-card {
@@ -1157,17 +1245,56 @@
           <h2 id="trust-title">We have booked meetings with senior executives at leading organizations</h2>
           <p class="section-copy">For our clients, we have secured conversations with C-suite leaders, VPs, Directors, and senior decision-makers at organizations including:</p>
         </div>
-        <div class="logo-grid" aria-label="Organizations where meetings have been booked">
-          <div class="logo-card">Nestlé</div>
-          <div class="logo-card">Danone</div>
-          <div class="logo-card small">Crate&amp;Barrel</div>
-          <div class="logo-card">Bimbo</div>
-          <div class="logo-card">PayPal</div>
-          <div class="logo-card small">Belgium Federal Police</div>
-          <div class="logo-card">Maserati</div>
-          <div class="logo-card small">Republic Bank Trinidad</div>
-          <div class="logo-card small">Orange Cyberdefense</div>
-          <div class="logo-card">Presidio</div>
+        <div class="logo-grid enhanced-logo-grid" aria-label="Organizations where meetings have been booked">
+          <div class="logo-card logo-card-enhanced">
+            <img src="nestle_logo.png" alt="Nestlé logo" />
+            <span>Nestlé</span>
+          </div>
+        
+          <div class="logo-card logo-card-enhanced">
+            <img src="danone_logo.png" alt="Danone logo" />
+            <span>Danone</span>
+          </div>
+        
+          <div class="logo-card logo-card-enhanced small">
+            <img src="crate_barrel_logo.png" alt="Crate&amp;Barrel logo" />
+            <span>Crate&amp;Barrel</span>
+          </div>
+        
+          <div class="logo-card logo-card-enhanced">
+            <img src="bimbo_logo.png" alt="Grupo Bimbo logo" />
+            <span>Bimbo</span>
+          </div>
+        
+          <div class="logo-card logo-card-enhanced">
+            <img src="paypal_logo.png" alt="PayPal logo" />
+            <span>PayPal</span>
+          </div>
+        
+          <div class="logo-card logo-card-enhanced small">
+            <img src="belgium_federal_police_logo.png" alt="Belgium Federal Police logo" />
+            <span>Belgium Federal Police</span>
+          </div>
+        
+          <div class="logo-card logo-card-enhanced">
+            <img src="maserati_logo.png" alt="Maserati logo" />
+            <span>Maserati</span>
+          </div>
+        
+          <div class="logo-card logo-card-enhanced small">
+            <img src="republic_bank_logo.png" alt="Republic Bank Limited logo" />
+            <span>Republic Bank Trinidad</span>
+          </div>
+        
+          <div class="logo-card logo-card-enhanced small">
+            <img src="orange_cyberdefense_logo.png" alt="Orange Cyberdefense logo" />
+            <span>Orange Cyberdefense</span>
+          </div>
+        
+          <div class="logo-card logo-card-enhanced">
+            <img src="presidio_logo.webp" alt="Presidio logo" />
+            <span>Presidio</span>
+          </div>
         </div>
         <p class="and-more">…and more.</p>
       </div>
