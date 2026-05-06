@@ -264,7 +264,149 @@
     }
 
     .micro-proof span { color: var(--muted); font-size: 13px; }
+    
+    .reply-visual {
+  position: relative;
+  border-radius: 36px;
+  padding: 28px;
+  background:
+    linear-gradient(145deg, rgba(255,255,255,0.95), rgba(255,255,255,0.74)),
+    radial-gradient(circle at 20% 15%, rgba(240, 180, 41, 0.22), transparent 30%),
+    radial-gradient(circle at 85% 10%, rgba(20, 61, 89, 0.16), transparent 28%);
+  border: 1px solid rgba(228, 231, 236, 0.86);
+  box-shadow: var(--shadow);
+}
 
+    .reply-card {
+      border-radius: 30px;
+      padding: 26px;
+      background: rgba(255, 255, 255, 0.86);
+      border: 1px solid rgba(228, 231, 236, 0.94);
+      box-shadow: var(--shadow-sm);
+    }
+    
+    .reply-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      align-items: flex-start;
+      margin-bottom: 20px;
+    }
+    
+    .reply-label {
+      display: inline-flex;
+      margin-bottom: 10px;
+      padding: 7px 11px;
+      border-radius: 999px;
+      background: var(--amber-soft);
+      color: #8a5b0a;
+      font-size: 12px;
+      font-weight: 850;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    
+    .reply-top h3 {
+      margin: 0;
+      max-width: 410px;
+      font-size: 24px;
+    }
+    
+    .reply-status {
+      flex: 0 0 auto;
+      padding: 9px 12px;
+      border-radius: 999px;
+      background: #ecfdf3;
+      color: #027a48;
+      font-size: 12px;
+      font-weight: 850;
+    }
+    
+    .email-window {
+      overflow: hidden;
+      border-radius: 24px;
+      background: #ffffff;
+      border: 1px solid #e4e7ec;
+      box-shadow: 0 18px 44px rgba(16, 24, 40, 0.08);
+    }
+    
+    .email-header {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: center;
+      padding: 18px 20px;
+      border-bottom: 1px solid #edf0f4;
+      background: #f9fafb;
+    }
+    
+    .email-subject {
+      display: block;
+      color: var(--ink);
+      font-size: 18px;
+      font-weight: 850;
+      letter-spacing: -0.03em;
+      margin-bottom: 4px;
+    }
+    
+    .email-meta {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    
+    .email-icons {
+      display: flex;
+      gap: 6px;
+    }
+    
+    .email-icons span {
+      width: 9px;
+      height: 9px;
+      border-radius: 999px;
+      background: #d0d5dd;
+    }
+    
+    .email-body {
+      padding: 22px 22px 24px;
+    }
+    
+    .email-body p {
+      color: #344054;
+      font-size: 16px;
+      line-height: 1.65;
+      margin-bottom: 16px;
+    }
+    
+    .times-box {
+      display: grid;
+      gap: 8px;
+      margin-top: 18px;
+      padding: 16px;
+      border-radius: 18px;
+      background: var(--blue-soft);
+      border: 1px solid rgba(20, 61, 89, 0.12);
+    }
+    
+    .times-box strong {
+      color: var(--blue);
+      margin-bottom: 2px;
+    }
+    
+    .times-box span {
+      color: #344054;
+      font-size: 14px;
+    }
+    
+    .reply-proof {
+      margin: 18px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.5;
+      padding-left: 14px;
+      border-left: 3px solid var(--honey);
+    }
+    
     .pipeline-visual {
       position: relative;
       min-height: 585px;
@@ -861,6 +1003,65 @@
       .price { font-size: 36px; }
       .stats-row { grid-template-columns: 1fr; }
       .footer-inner { flex-direction: column; }
+      .reply-visual {
+        padding: 16px;
+        border-radius: 28px;
+        margin-top: 8px;
+      }
+      
+      .reply-card {
+        padding: 18px;
+        border-radius: 24px;
+      }
+      
+      .reply-top {
+        display: block;
+        margin-bottom: 16px;
+      }
+      
+      .reply-top h3 {
+        font-size: 20px;
+        line-height: 1.18;
+      }
+      
+      .reply-status {
+        display: inline-flex;
+        margin-top: 12px;
+      }
+      
+      .email-header {
+        padding: 15px 16px;
+      }
+      
+      .email-subject {
+        font-size: 16px;
+      }
+      
+      .email-meta {
+        font-size: 12px;
+      }
+      
+      .email-icons {
+        display: none;
+      }
+      
+      .email-body {
+        padding: 18px 16px 20px;
+      }
+      
+      .email-body p {
+        font-size: 15px;
+        line-height: 1.55;
+        margin-bottom: 14px;
+      }
+      
+      .times-box {
+        padding: 14px;
+      }
+      
+      .reply-proof {
+        font-size: 12px;
+      }
     }
   </style>
 </head>
@@ -898,54 +1099,54 @@
           </div>
         </div>
 
-        <div class="pipeline-visual" aria-label="Outbound pipeline dashboard illustration">
-          <div class="dashboard-top">
-            <div>
-              <strong>Pipeline dashboard</strong><br />
-              <span class="dashboard-label">Prospects → replies → booked meetings</span>
+        <div class="reply-visual" aria-label="Example positive reply from an outbound campaign">
+          <div class="reply-card">
+            <div class="reply-top">
+              <div>
+                <span class="reply-label">Real campaign reply</span>
+                <h3>Positive response from a senior banking executive</h3>
+              </div>
+              <span class="reply-status">Meeting requested</span>
             </div>
-            <span class="status-pill">Live campaign</span>
-          </div>
-
-          <div class="pipeline-card">
-            <div class="pipeline-row">
-              <div class="avatar">C</div>
-              <div><strong>CISO prospect identified</strong><span>500+ employee cybersecurity target</span></div>
-              <div class="tag">ICP match</div>
+        
+            <div class="email-window">
+              <div class="email-header">
+                <div>
+                  <span class="email-subject">Fw: AI &amp; Org Transformation</span>
+                  <span class="email-meta">From: Senior stakeholder at Republic Bank Limited</span>
+                </div>
+                <div class="email-icons">
+                  <span></span><span></span><span></span>
+                </div>
+              </div>
+        
+              <div class="email-body">
+                <p>Nice to e-meet you.</p>
+        
+                <p>
+                  With regard to your email below, I am writing on behalf of the General Manager
+                  of the Data Governance &amp; Management Unit at Republic Bank Limited.
+                </p>
+        
+                <p>
+                  We would like to arrange an initial meeting to discuss options based on your
+                  company’s services.
+                </p>
+        
+                <div class="times-box">
+                  <strong>Proposed meeting times</strong>
+                  <span>March 2 · 2:00–3:00 PM AST</span>
+                  <span>March 5 · 11:00 AM–12:00 PM AST</span>
+                  <span>March 5 · 2:00–3:00 PM AST</span>
+                </div>
+              </div>
             </div>
-            <div class="pipeline-row">
-              <div class="avatar">VP</div>
-              <div><strong>VP responds to follow-up</strong><span>Personalized LinkedIn sequence</span></div>
-              <div class="tag">Reply</div>
-            </div>
-            <div class="pipeline-row" style="margin-bottom:0;">
-              <div class="avatar">M</div>
-              <div><strong>Meeting booked</strong><span>Calendar invite confirmed</span></div>
-              <div class="tag">Booked</div>
-            </div>
+        
+            <p class="reply-proof">
+              An anonymized real example of the type of reply BeeSpoke has helped generate for a client.
+            </p>
           </div>
-
-          <div class="pipeline-card">
-            <strong>Booked meeting calendar</strong>
-            <div class="calendar" style="margin-top:14px;">
-              <div>Mon<br />Prospecting</div>
-              <div class="booked">Tue<br /><strong>10:30</strong><br />CISO intro</div>
-              <div>Wed<br />Follow-ups</div>
-              <div class="booked">Thu<br /><strong>15:00</strong><br />PR leader</div>
-              <div>Fri<br />Optimization</div>
-            </div>
-          </div>
-
-          <div class="flow">
-            <div class="flow-item"><strong>Targeting</strong><span>Industries, titles, triggers, company fit.</span></div>
-            <div class="flow-item"><strong>Messaging</strong><span>Clear offer, concise copy, relevant angles.</span></div>
-            <div class="flow-item"><strong>Booking</strong><span>Follow-up, qualification, calendar handoff.</span></div>
-          </div>
-
-          <div class="floating-note">
-            <strong>Qualified conversations, not activity reports.</strong>
-            <span>Every campaign is built around booked meetings with the decision-makers your company actually wants to reach.</span>
-          </div>
+        </div>
         </div>
       </div>
     </section>
