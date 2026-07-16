@@ -17,6 +17,8 @@ for (const page of pages) {
   if ((html.match(/class="inline-cta"/g) || []).length < 2) failures.push(`${page.path}: fewer than two contextual inline CTAs`);
   if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g) || []).length < 5) failures.push(`${page.path}: insufficient booking CTA coverage`);
   if (!html.includes("class=\"original-tool")) failures.push(`${page.path}: missing original page utility`);
+  if (!html.includes("class=\"competitive-depth\"")) failures.push(`${page.path}: missing buyer decision depth`);
+  if ((html.match(/<table>/g) || []).length < (page.path === "/about/noah-levy/" ? 0 : 1)) failures.push(`${page.path}: missing decision table`);
 }
 
 if (failures.length) {

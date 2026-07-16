@@ -10,6 +10,8 @@ The controllable on-page work now reaches the ready-to-compete standard. This do
 
 ## Current SERP pattern
 
+The July 16 review benchmarks all eight URLs against 19 current competitor or authoritative references recorded in `data/seo-serp-benchmark.json`. Broad service queries are rated very high difficulty; brand-intent pages are low difficulty; the two case-study queries are narrower and less crowded. The gate does not pretend these query classes have equal ranking difficulty.
+
 The reviewed results reward:
 
 - explicit deliverables and channel scope;
@@ -21,6 +23,8 @@ The reviewed results reward:
 - concrete process visuals, dashboards, calculators or templates.
 
 Beespoke is differentiated by transparent low-friction pricing, founder involvement, LinkedIn specialization, a written qualification standard, and real senior-buyer examples. Its main constraint is not prose. It is verifiable first-party evidence and original interactive utility.
+
+The post-review pages now add the decision coverage repeatedly present in leading results: explicit channel boundaries, provider-selection tables, appointment-model comparisons, reporting criteria, platform-risk questions, fully loaded cost scenarios, evidence ledgers, and clear circumstances where Beespoke is not the right provider.
 
 ## Page-level gate
 
@@ -57,3 +61,11 @@ The automated SEO QA fails if a page has fewer than two contextual inline CTAs o
 ## Deployment rule
 
 The pages now pass the controllable rank-one readiness gate. They may proceed to the separate owner-accuracy, production QA, deployment and indexing gates. Ranking first still depends on authority, competition, user behavior and time; the phrase “rank-one quality” must never be presented as a ranking guarantee.
+
+Automated checks:
+
+```bash
+npm test
+```
+
+This regenerates the pages, checks technical/on-page requirements, and verifies that every page has a current SERP benchmark, at least one competitor reference, a sufficiently complete intent checklist, explicit Beespoke differentiation, original utility, buyer-decision depth, CTAs, reading UX, and structured data.
