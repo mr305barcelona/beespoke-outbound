@@ -22,6 +22,24 @@ function labelFor(link) {
   return page ? page.h1 : link.split("/").filter(Boolean).pop().replace(/-/g, " ");
 }
 
+function renderInlineCta(page, position) {
+  const isPricing = page.path === "/pricing/" || page.path.includes("cost");
+  const isCaseStudy = page.path.startsWith("/case-studies/");
+  const heading = isPricing
+    ? "Want to compare the numbers for your market?"
+    : isCaseStudy
+      ? "Could this approach fit your buyers?"
+      : position === "middle"
+        ? "Not sure whether outbound fits your offer?"
+        : "Turn the framework into a focused campaign";
+  const copy = isPricing
+    ? "Bring your contract value, buyer, current pipeline and internal alternatives. We will help you identify the assumptions that actually change the economics."
+    : isCaseStudy
+      ? "We will look at your target accounts, proof, buying committee and reason for contact before recommending a campaign."
+      : "A short fit call covers your ICP, offer, available proof and the smallest credible test—without pretending every market needs the same outbound system.";
+  return `<aside class="inline-cta"><div><span>${position === "middle" ? "Practical next step" : "Apply this guide"}</span><h2>${heading}</h2><p>${copy}</p></div><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a></aside>`;
+}
+
 function renderPage(page) {
   const url = `${origin}${page.path}`;
   const schema = {
@@ -45,7 +63,7 @@ function renderPage(page) {
 <main><div class="breadcrumbs"><a href="/">Home</a><span>/</span><span>${escapeHtml(page.eyebrow)}</span></div>
 <header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="/pricing/">See transparent pricing</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated July 16, 2026</p></header>
 <details class="mobile-toc"><summary><span><small>On this page</small><strong class="current-section">${escapeHtml(page.sections[0].heading)}</strong></span><span class="toc-action">Sections</span></summary><nav aria-label="Page sections">${toc}</nav></details>
-<div class="article-grid"><aside class="toc"><div class="toc-label"><span>Article guide</span><strong>On this page</strong></div>${toc}<div class="toc-progress"><span></span></div></aside><article>${page.sections.map(renderSection).join("")}</article></div>
+<div class="article-grid"><aside class="toc"><div class="toc-label"><span>Article guide</span><strong>On this page</strong></div>${toc}<div class="toc-progress"><span></span></div></aside><article>${page.sections.map((section, index) => `${renderSection(section)}${index === 1 ? renderInlineCta(page, "middle") : index === 3 ? renderInlineCta(page, "late") : ""}`).join("")}</article></div>
 <section class="related"><p class="eyebrow">Continue researching</p><h2>Related Beespoke resources</h2><div class="related-grid">${related}</div></section>
 <section class="final-cta"><h2>See whether focused outbound fits your market</h2><p>Bring your offer, target buyer and current pipeline. We will have a practical conversation about fit, constraints and the next sensible test.</p><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></section></main>
 <footer>© 2026 Beespoke Outbound Lead Generation · Barcelona · <a href="/">outbound-lead-generation.com</a></footer>

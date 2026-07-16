@@ -54,6 +54,11 @@ a { color: var(--navy); text-underline-offset: 3px; }
 .article-grid li { margin: 9px 0; color: #344054; }
 .callout { margin: 26px 0; padding: 21px 23px; border: 1px solid rgba(240,180,41,.27); border-left: 5px solid var(--honey); border-radius: 0 15px 15px 0; background: linear-gradient(135deg,#fff8e8,#fffdf8); color: #4d3b16; font-weight: 680; box-shadow: 0 13px 32px rgba(168,107,8,.07); }
 .text-links { display: grid; gap: 8px; margin-top: 22px; font-weight: 760; }
+.inline-cta { display: grid; grid-template-columns: 1fr auto; gap: 28px; align-items: center; margin: 10px 0 18px; padding: 28px; border: 1px solid rgba(20,61,89,.13); border-radius: 22px; background: radial-gradient(circle at 100% 0,rgba(240,180,41,.16),transparent 14rem),linear-gradient(145deg,#fff,#f5f8fb); box-shadow: 0 18px 46px rgba(16,24,40,.07); }
+.inline-cta span { color: var(--honey-deep); font-size: .68rem; font-weight: 860; letter-spacing: .11em; text-transform: uppercase; }
+.inline-cta h2 { margin: 4px 0 7px; font-size: 1.35rem; letter-spacing: -.03em; }
+.inline-cta p { margin: 0; color: var(--muted); font-size: .94rem; }
+.inline-cta .button { white-space: nowrap; }
 .table-wrap { overflow-x: auto; margin: 26px 0; border: 1px solid var(--line); border-radius: 17px; box-shadow: 0 13px 34px rgba(16,24,40,.05); }
 table { width: 100%; border-collapse: collapse; background: #fff; }
 caption { text-align: left; padding: 19px; font-weight: 820; }
@@ -88,6 +93,8 @@ footer { padding: 28px 0 48px; border-top: 1px solid var(--line); color: var(--m
   .mobile-toc nav a { display: block; padding: 11px 12px; border-radius: 10px; color: var(--muted); font-size: .9rem; text-decoration: none; }
   .mobile-toc nav a.is-active { background: linear-gradient(90deg,rgba(240,180,41,.19),transparent); color: var(--navy); font-weight: 760; }
   .article-grid article section { scroll-margin-top: calc(var(--header) + var(--mobile-toc) + 18px); }
+  .inline-cta { grid-template-columns: 1fr; }
+  .inline-cta .button { justify-self: start; }
   .related-grid { grid-template-columns: 1fr; }
   .hero { padding-top: 46px; }
   .final-cta { padding: 36px 28px; }
