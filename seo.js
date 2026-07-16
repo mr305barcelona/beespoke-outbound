@@ -54,4 +54,45 @@
   document.addEventListener("click", (event) => {
     if (mobileToc?.open && !mobileToc.contains(event.target)) mobileToc.open = false;
   });
+
+  const money = new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
+  const calculator = document.querySelector(".calculator");
+  if (calculator) {
+    const calculate = () => {
+      const value = (name) => Math.max(0, Number(calculator.querySelector(`[data-calc="${name}"]`)?.value) || 0);
+      const cost = value("cost");
+      const meetings = value("meetings");
+      const oppRate = value("oppRate") / 100;
+      const winRate = value("winRate") / 100;
+      const revenue = value("revenue");
+      const margin = value("margin") / 100;
+      const customers = meetings * oppRate * winRate;
+      const profit = customers * revenue * margin;
+      const profitPerMeeting = oppRate * winRate * revenue * margin;
+      const set = (name, content) => { const node = calculator.querySelector(`[data-result="${name}"]`); if (node) node.textContent = content; };
+      set("customers", customers.toFixed(2));
+      set("profit", money.format(profit));
+      set("roi", cost ? `${(profit / cost).toFixed(1)}×` : "—");
+      set("breakEven", profitPerMeeting ? (cost / profitPerMeeting).toFixed(1) : "—");
+    };
+    calculator.querySelectorAll("input").forEach((input) => input.addEventListener("input", calculate));
+    calculate();
+  }
+
+  const bindChecklist = (selector, scoreSelector, copySelector, messages) => {
+    const inputs = [...document.querySelectorAll(selector)];
+    const score = document.querySelector(scoreSelector);
+    const copy = copySelector ? document.querySelector(copySelector) : null;
+    if (!inputs.length || !score) return;
+    const update = () => {
+      const checked = inputs.filter((input) => input.checked).length;
+      score.textContent = `${checked} of ${inputs.length}${scoreSelector.includes("qualification") ? " conditions defined" : scoreSelector.includes("fit") ? " signals" : ""}`;
+      if (copy && messages) copy.textContent = checked >= 7 ? messages[2] : checked >= 4 ? messages[1] : messages[0];
+    };
+    inputs.forEach((input) => input.addEventListener("change", update));
+    update();
+  };
+  bindChecklist("[data-fit]", "[data-fit-score]", "[data-fit-copy]", ["Start by clarifying the buyer and problem before paying for campaign execution.", "The foundations are partly present; close the remaining gaps before scaling.", "The offer appears ready for a focused outbound test, subject to market and proof review."]);
+  bindChecklist("[data-qualify]", "[data-qualification-score]", "[data-qualification-copy]", ["The meeting definition is too loose to support performance pricing.", "Add the missing conditions and write every accepted value and exclusion down.", "The definition covers the core fit, interest and attendance conditions."]);
+  bindChecklist("[data-risk]", "[data-risk-score]");
 })();

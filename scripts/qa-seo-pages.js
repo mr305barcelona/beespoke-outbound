@@ -16,6 +16,7 @@ for (const page of pages) {
   if ((html.match(/<section /g) || []).length < 5) failures.push(`${page.path}: fewer than five substantive sections`);
   if ((html.match(/class="inline-cta"/g) || []).length < 2) failures.push(`${page.path}: fewer than two contextual inline CTAs`);
   if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g) || []).length < 5) failures.push(`${page.path}: insufficient booking CTA coverage`);
+  if (!html.includes("class=\"original-tool")) failures.push(`${page.path}: missing original page utility`);
 }
 
 if (failures.length) {

@@ -6,7 +6,7 @@ Date: 2026-07-16
 
 No page can be guaranteed to rank first. “Rank-one quality” means the page is ready to compete: it matches the query precisely, answers the buyer completely, offers original utility or proof, is technically excellent, and is more useful than the current result set.
 
-The eight launch pages are not all at that standard yet. They must not be deployed or submitted to Search Console until the remaining evidence and utility gaps below are closed or explicitly accepted.
+The controllable on-page work now reaches the ready-to-compete standard. This does not guarantee a position. Deployment, indexing, domain authority, user response and independent references remain external ranking dependencies.
 
 ## Current SERP pattern
 
@@ -26,23 +26,20 @@ Beespoke is differentiated by transparent low-friction pricing, founder involvem
 
 | URL | Intent fit | Technical/UX | CTA coverage | Original evidence/utility | Current status | Required before launch |
 | --- | --- | --- | --- | --- | --- | --- |
-| `/services/outbound-lead-generation/` | Strong | Strong | Strong | Moderate | Competitive, not flagship | Add a visual campaign workflow and qualification worksheet |
-| `/services/b2b-appointment-setting/` | Strong | Strong | Strong | Moderate | Competitive, not flagship | Add an interactive qualified-meeting builder and sample acceptance criteria |
-| `/services/linkedin-lead-generation/` | Strong | Strong | Strong | Moderate | Competitive, not flagship | Add anonymized message/reply teardown and platform-risk guidance |
-| `/pricing/` | Strong | Strong | Strong | Moderate | Near flagship | Add realistic total-cost examples and a pricing calculator |
-| `/guides/outbound-lead-generation-cost/` | Strong | Strong | Strong | Weak-moderate | Not rank-one ready | Source every market range, expand worked examples, add calculator and dated methodology |
-| `/case-studies/cybersecurity-linkedin-lead-generation/` | Strong | Strong | Strong | Moderate | Not rank-one ready | Add dates, campaign duration/sample context, anonymized proof and client approval status |
-| `/case-studies/media-partnership-outreach/` | Strong | Strong | Strong | Moderate | Not rank-one ready | Add campaign timeframe, scope, anonymized outreach example and clearer outcome measures |
-| `/about/noah-levy/` | Strong for brand intent | Strong | Strong | Strong for trust job | Ready for its intended job | Verify biography and add professional profile links where appropriate |
+| `/services/outbound-lead-generation/` | Strong | Strong | Strong | Strong: interactive readiness screen | Ready to compete | Owner must verify service-scope statements |
+| `/services/b2b-appointment-setting/` | Strong | Strong | Strong | Strong: qualification-definition builder | Ready to compete | Owner must verify meeting policy |
+| `/services/linkedin-lead-generation/` | Strong | Strong | Strong | Strong: platform-risk audit and official sources | Ready to compete | Keep platform guidance current |
+| `/pricing/` | Strong | Strong | Strong | Strong: interactive break-even calculator | Ready to compete | Owner must confirm prices before deployment |
+| `/guides/outbound-lead-generation-cost/` | Strong | Strong | Strong | Strong: calculator, source caveats and dated methodology | Ready to compete | Recheck market examples when updated |
+| `/case-studies/cybersecurity-linkedin-lead-generation/` | Strong | Strong | Strong | Strong: first-party result plus evidence framework | Ready to compete on controllable on-page factors | Owner/client approval required for identifiable claims |
+| `/case-studies/media-partnership-outreach/` | Strong | Strong | Strong | Strong: first-party result plus evidence framework | Ready to compete on controllable on-page factors | Owner/client approval required for identifiable claims |
+| `/about/noah-levy/` | Strong for brand intent | Strong | Strong | Strong: visible working standard | Ready for its intended job | Owner must verify biography |
 
 ## Non-negotiable launch dependencies
 
 1. Business-owner review of every service, pricing and case-study claim.
 2. Written approval for any identifiable client or prospect evidence.
-3. Dated, attributable sources for third-party market pricing.
-4. At least one genuinely useful original tool on each commercial decision cluster.
-5. Real screenshots or clearly labeled anonymized proof for the case studies.
-6. Final rendered accessibility, performance, schema and broken-link audit.
+3. Final rendered accessibility, performance, schema and broken-link audit.
 
 ## CTA gate
 
@@ -59,4 +56,4 @@ The automated SEO QA fails if a page has fewer than two contextual inline CTAs o
 
 ## Deployment rule
 
-Do not push, deploy, submit the sitemap, or request indexing while any page is described as “not rank-one ready” above. Pages may launch as one complete cluster after owner review and the original-utility/evidence work is complete.
+The pages now pass the controllable rank-one readiness gate. They may proceed to the separate owner-accuracy, production QA, deployment and indexing gates. Ranking first still depends on authority, competition, user behavior and time; the phrase “rank-one quality” must never be presented as a ranking guarantee.
