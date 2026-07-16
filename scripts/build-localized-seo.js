@@ -76,6 +76,7 @@ function localizeHtml(source, page, locale, dictionary) {
   html = html.replace(/<div class="language-switcher">[\s\S]*?<\/div><\/div>/, languageLinks(page.path, locale));
   const terminology = {
     es: [
+      [/\bDEG\b/g, "SDR"], [/generación de leads de fabricación/gi, "generación de leads para fabricantes"],
       [/\| a medida/g, "| Beespoke"], [/Saliente a medida/g, "Beespoke Outbound"], [/Noé Levy/g, "Noah Levy"],
       [/Precios a medida/g, "Precios de Beespoke"], [/generación-de-leads-salientes\.com/g, "outbound-lead-generation.com"], [/\bHogar\b/g, "Inicio"],
       [/Generación de leads salientes/g, "Generación de leads outbound"], [/generación de leads salientes/g, "generación de leads outbound"],
@@ -114,6 +115,7 @@ function localizeHtml(source, page, locale, dictionary) {
       [/Reserva una conversación/g, "Reservar una conversación"], [/guía de artículos/g, "Guía del artículo"], [/guía de decisión del comprador/g, "Guía de decisión del comprador"]
     ],
     ca: [
+      [/generació de clients potencials/gi, "generació de leads"], [/generació de contactes de fabricació/gi, "generació de leads per a fabricants"],
       [/\| Va dir abelles/g, "| Beespoke"], [/Sortida d'abelles/g, "Beespoke Outbound"], [/Beesspoke/g, "Beespoke"], [/Preus Beespoke/g, "Preus de Beespoke"], [/\bCasa\b/g, "Inici"],
       [/Generació de leads de sortida/g, "Generació de leads outbound"], [/generació de leads de sortida/g, "generació de leads outbound"],
       [/Generació de contactes de sortida/g, "Generació de contactes outbound"], [/generació de contactes de sortida/g, "generació de contactes outbound"],
@@ -145,6 +147,7 @@ function localizeHtml(source, page, locale, dictionary) {
       [/Guia d'articles/g, "Guia de l'article"]
     ],
     fr: [
+      [/support aux ventes fractionnées/gi, "direction commerciale à temps partagé"], [/génération de leads pour la fabrication/gi, "génération de leads pour l'industrie"],
       [/Beespoke sortant/g, "Beespoke Outbound"], [/Tarification sur mesure/g, "Tarifs Beespoke"], [/Noah Lévy/g, "Noah Levy"], [/Noé Levy/g, "Noah Levy"], [/\bMaison\b/g, "Accueil"],
       [/Génération de leads sortants/g, "Génération de leads outbound"], [/génération de leads sortants/g, "génération de leads outbound"],
       [/Gestion sortante B2B/g, "Prospection outbound B2B"], [/campagne sortante/g, "campagne outbound"],
