@@ -135,7 +135,24 @@ for (const page of pages) {
   fs.writeFileSync(output, renderPage(page));
 }
 
-const sitemapEntries = [{ path: "/", updated: "2026-07-16" }, ...pages.map((page) => ({ path: page.path, updated }))];
+// Keep existing indexed proposal routes when regenerating the SEO sitemap.
+const existingSitemapEntries = [
+  "/proposal-for-haver-boecker/",
+  "/proposal-for-weber-group/",
+  "/proposal-for-eldan-recycling/",
+  "/proposal-for-tummers/",
+  "/proposal-for-bollegraaf/",
+  "/proposal-for-vecoplan/",
+  "/proposal-for-haith/",
+  "/proposal-for-ottevanger/",
+  "/proposal-for-syntegon/",
+  "/proposal-for-weber-food-technology/"
+].map((entryPath) => ({ path: entryPath, updated: "2026-07-13" }));
+const sitemapEntries = [
+  { path: "/", updated: "2026-07-16" },
+  ...pages.map((page) => ({ path: page.path, updated })),
+  ...existingSitemapEntries
+];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapEntries.map((entry) => `  <url><loc>${origin}${entry.path}</loc><lastmod>${entry.updated}</lastmod></url>`).join("\n")}\n</urlset>\n`;
 fs.writeFileSync(path.join(root, "sitemap.xml"), sitemap);
 console.log(`Built ${pages.length} SEO pages and ${sitemapEntries.length} sitemap entries.`);
