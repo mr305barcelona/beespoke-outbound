@@ -2,8 +2,8 @@
   "name": "beespoke-outbound-site",
   "private": true,
   "scripts": {
-    "build:seo": "node scripts/build-seo-pages.js",
-    "qa:seo": "node scripts/qa-seo-pages.js && node scripts/qa-serp-readiness.js",
+    "build:seo": "node scripts/build-seo-pages.js && node scripts/build-localized-seo.js",
+    "qa:seo": "node scripts/qa-seo-pages.js && node scripts/qa-localized-seo.js && node scripts/qa-serp-readiness.js",
     "test": "npm run build:seo && npm run qa:seo"
   }
 }
