@@ -10,7 +10,7 @@ for (const page of pages) {
   const html = fs.readFileSync(file, "utf8");
   if (seenTitles.has(page.title)) failures.push(`${page.path}: duplicate title`);
   seenTitles.add(page.title);
-  for (const required of ["<h1>", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\""]) {
+  for (const required of ["<h1>", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "src=\"/seo.js\""]) {
     if (!html.includes(required)) failures.push(`${page.path}: missing ${required}`);
   }
   if ((html.match(/<section /g) || []).length < 5) failures.push(`${page.path}: fewer than five substantive sections`);
