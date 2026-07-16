@@ -3,7 +3,13 @@ const path = require("path");
 const root = path.join(__dirname, "..");
 const pages = require(path.join(root, "data", "seo-pages.json"));
 const locales = ["es", "ca", "fr"];
+const editorialForbidden = {
+  es: ["saliente", "salida", "divulgación", "llamada de ajuste", "retenedor", "PCI", "PIC", "Noé Levy", "precios a medida"],
+  ca: ["sortida", "sortint", "divulgació", "trucada de fit", "retenedor", "PCI", "Va dir abelles"],
+  fr: ["sortant", "sortante", "sensibilisation", "appel d'ajustement", "dispositif de retenue", "PCI", "Noah Lévy"]
+};
 const failures = [];
+const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
 for (const locale of locales) {
   for (const page of pages) {
@@ -22,6 +28,9 @@ for (const locale of locales) {
     if (!html.includes("Noah Levy") || !html.includes("Beespoke")) failures.push(`${localizedPath}: proper noun altered`);
     for (const forbidden of ["Va dir abelles", "Sortida d'abelles", "Saliente a medida", "Beespoke sortant", "Noé Levy", "Noah Lévy", "generación-de-leads-salientes.com"]) {
       if (html.includes(forbidden)) failures.push(`${localizedPath}: bad translation '${forbidden}'`);
+    }
+    for (const forbidden of editorialForbidden[locale]) {
+      if (new RegExp(`\\b${escapeRegExp(forbidden)}\\b`, "i").test(html.replace(/<script[\s\S]*?<\/script>/g, ""))) failures.push(`${localizedPath}: literal translation '${forbidden}'`);
     }
   }
 }
