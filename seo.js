@@ -1,6 +1,26 @@
 (() => {
   const supportedLocales = ["en", "es", "ca", "fr"];
   const locale = document.documentElement.lang || "en";
+  const track = (eventName, parameters = {}) => {
+    const payload = { page_path: location.pathname, page_language: locale, ...parameters };
+    if (typeof window.gtag === "function") window.gtag("event", eventName, payload);
+    else { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: eventName, ...payload }); }
+  };
+  document.addEventListener("click", (event) => {
+    const link = event.target.closest("a");
+    if (!link) return;
+    const href = link.getAttribute("href") || "";
+    if (href.includes("calendly.com")) track("calendly_click", { cta_text: link.textContent.trim(), cta_location: link.closest(".hero") ? "hero" : link.closest(".inline-cta") ? "article" : link.closest(".final-cta") ? "final" : "navigation" });
+    if (link.closest(".language-switcher")) track("language_switch", { destination_language: link.lang || "unknown", destination_path: href });
+    if (link.classList.contains("secondary") || link.classList.contains("related-card")) track("internal_cta_click", { link_text: link.textContent.trim(), destination_path: href });
+  });
+  const reached = new Set();
+  addEventListener("scroll", () => {
+    const scrollable = document.documentElement.scrollHeight - innerHeight;
+    if (scrollable <= 0) return;
+    const depth = Math.round((scrollY / scrollable) * 100);
+    [25, 50, 75, 90].forEach((mark) => { if (depth >= mark && !reached.has(mark)) { reached.add(mark); track("reading_depth", { percent_scrolled: mark }); } });
+  }, { passive: true });
   const interactiveCopy = {
     en: {
       fit: ["Start by clarifying the buyer and problem before paying for campaign execution.", "The foundations are partly present; close the remaining gaps before scaling.", "The offer appears ready for a focused outbound test, subject to market and proof review."],
@@ -142,7 +162,7 @@
       score.textContent = `${checked} ${wording.of} ${inputs.length}${scoreSelector.includes("qualification") ? ` ${wording.conditions}` : scoreSelector.includes("fit") ? ` ${wording.signals}` : ""}`;
       if (copy && messages) copy.textContent = checked >= 7 ? messages[2] : checked >= 4 ? messages[1] : messages[0];
     };
-    inputs.forEach((input) => input.addEventListener("change", update));
+    inputs.forEach((input) => input.addEventListener("change", () => { update(); track("interactive_tool_use", { tool: scoreSelector.replace(/\[|\]|data-|-/g, " ").trim() }); }));
     update();
   };
   bindChecklist("[data-fit]", "[data-fit-score]", "[data-fit-copy]", interactiveCopy?.fit || ["Start by clarifying the buyer and problem before paying for campaign execution.", "The foundations are partly present; close the remaining gaps before scaling.", "The offer appears ready for a focused outbound test, subject to market and proof review."]);
