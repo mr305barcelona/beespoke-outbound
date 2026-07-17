@@ -4,7 +4,8 @@ const path = require("path");
 const root = path.resolve(__dirname, "..");
 const pages = JSON.parse(fs.readFileSync(path.join(root, "data", "seo-pages.json"), "utf8"));
 const origin = "https://outbound-lead-generation.com";
-const updated = "2026-07-16";
+const updated = "2026-07-17";
+const modifiedDateTime = "2026-07-17T09:00:00+02:00";
 
 const escapeHtml = (value = "") => String(value).replace(/[&<>\"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[char]));
 
@@ -100,10 +101,38 @@ function renderCompetitiveDepth(page) {
 function renderPage(page) {
   const url = `${origin}${page.path}`;
   const alternates = ["es", "ca", "fr"].map((locale) => `<link rel="alternate" hreflang="${locale}" href="${origin}/${locale}${page.path}">`).join("");
+  const isProfilePage = page.path.startsWith("/about/");
+  const pageSchema = isProfilePage
+    ? {
+        "@type": "ProfilePage",
+        "@id": `${url}#page`,
+        url,
+        name: page.h1,
+        description: page.description,
+        dateModified: modifiedDateTime,
+        mainEntity: {
+          "@type": "Person",
+          "@id": `${url}#person`,
+          name: "Noah Levy",
+          description: "Founder of Beespoke Outbound Lead Generation",
+          url,
+          sameAs: ["https://www.linkedin.com/in/noahlevywriter/"]
+        }
+      }
+    : {
+        "@type": page.path.startsWith("/services/") ? "Service" : "Article",
+        "@id": `${url}#page`,
+        url,
+        name: page.h1,
+        description: page.description,
+        dateModified: modifiedDateTime,
+        author: { "@type": "Person", name: "Noah Levy", url: `${origin}/about/noah-levy/` },
+        provider: { "@type": "ProfessionalService", name: "Beespoke Outbound Lead Generation", url: `${origin}/` }
+      };
   const schema = {
     "@context": "https://schema.org",
     "@graph": [
-      { "@type": page.path.startsWith("/services/") ? "Service" : page.path.startsWith("/about/") ? "ProfilePage" : "Article", "@id": `${url}#page`, url, name: page.h1, description: page.description, dateModified: updated, author: { "@type": "Person", name: "Noah Levy", url: `${origin}/about/noah-levy/` }, provider: { "@type": "ProfessionalService", name: "Beespoke Outbound Lead Generation", url: `${origin}/` } },
+      pageSchema,
       { "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: `${origin}/` }, { "@type": "ListItem", position: 2, name: page.h1, item: url }] }
     ]
   };
