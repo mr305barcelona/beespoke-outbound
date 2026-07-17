@@ -19,6 +19,16 @@ for (const page of pages) {
   if (!html.includes("class=\"original-tool")) failures.push(`${page.path}: missing original page utility`);
   if (!html.includes("class=\"competitive-depth\"")) failures.push(`${page.path}: missing buyer decision depth`);
   if ((html.match(/<table>/g) || []).length < (page.path === "/about/noah-levy/" ? 0 : 1)) failures.push(`${page.path}: missing decision table`);
+  const jsonLd = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
+  if (!jsonLd) continue;
+  const graph = JSON.parse(jsonLd[1])["@graph"] || [];
+  const pageNode = graph[0];
+  if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|[+-]\d{2}:\d{2})$/.test(pageNode.dateModified || "")) failures.push(`${page.path}: dateModified is not an ISO 8601 DateTime with timezone`);
+  if (page.path === "/about/noah-levy/") {
+    if (pageNode["@type"] !== "ProfilePage") failures.push(`${page.path}: missing ProfilePage type`);
+    if (pageNode.author) failures.push(`${page.path}: ProfilePage must not use unsupported author field`);
+    if (pageNode.mainEntity?.["@type"] !== "Person" || !pageNode.mainEntity?.name) failures.push(`${page.path}: ProfilePage requires a named Person mainEntity`);
+  }
 }
 
 if (failures.length) {
