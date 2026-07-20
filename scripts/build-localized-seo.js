@@ -77,6 +77,9 @@ function localizeHtml(source, page, locale, dictionary) {
   const terminology = {
     es: [
       [/\$10,000/g, "10.000 $"],
+      [/Servicios SDR subcontratados para salidas B2B enfocadas/g, "Servicios SDR externalizados para outbound B2B focalizado"],
+      [/Servicios de SDR subcontratados: alcance, adecuación y compensaciones/g, "Servicios SDR externalizados: alcance, encaje y limitaciones"],
+      [/salidas B2B/gi, "outbound B2B"],
       [/\bDEG\b/g, "SDR"], [/generación de leads de fabricación/gi, "generación de leads para fabricantes"],
       [/\| a medida/g, "| Beespoke"], [/Saliente a medida/g, "Beespoke Outbound"], [/Noé Levy/g, "Noah Levy"],
       [/Precios a medida/g, "Precios de Beespoke"], [/generación-de-leads-salientes\.com/g, "outbound-lead-generation.com"], [/\bHogar\b/g, "Inicio"],
@@ -117,6 +120,9 @@ function localizeHtml(source, page, locale, dictionary) {
     ],
     ca: [
       [/\$10,000/g, "10.000 $"], [/agències sortints/gi, "agències outbound"], [/On s'asseu Beespoke/g, "On se situa Beespoke"],
+      [/Serveis SDR externalitzats per a sortides B2B enfocades/g, "Serveis SDR externalitzats per a outbound B2B focalitzat"],
+      [/Serveis de SDR externalitzats: abast, encaix i compensacions/g, "Serveis SDR externalitzats: abast, encaix i limitacions"],
+      [/\bDEG\b/g, "SDR"], [/sortides B2B/gi, "outbound B2B"], [/\bsortides\b/gi, "outbound"], [/>agència outbound/g, ">Agència outbound"],
       [/generació de clients potencials/gi, "generació de leads"], [/generació de contactes de fabricació/gi, "generació de leads per a fabricants"],
       [/\| Va dir abelles/g, "| Beespoke"], [/Sortida d'abelles/g, "Beespoke Outbound"], [/Beesspoke/g, "Beespoke"], [/Preus Beespoke/g, "Preus de Beespoke"], [/\bCasa\b/g, "Inici"],
       [/Generació de leads de sortida/g, "Generació de leads outbound"], [/generació de leads de sortida/g, "generació de leads outbound"],
@@ -150,6 +156,8 @@ function localizeHtml(source, page, locale, dictionary) {
     ],
     fr: [
       [/\$10,000/g, "10 000 $"],
+      [/Services SDR externalisés pour les sorties B2B ciblées/g, "Services SDR externalisés pour une prospection B2B ciblée"],
+      [/\bDTS\b/g, "SDR"], [/Sorties industrielles et manufacturières/g, "Prospection industrielle et manufacturière"], [/sorties B2B/gi, "prospection B2B"], [/\bsorties\b/gi, "outbound"], [/>agence outbound/g, ">Agence outbound"],
       [/support aux ventes fractionnées/gi, "direction commerciale à temps partagé"], [/génération de leads pour la fabrication/gi, "génération de leads pour l'industrie"],
       [/Beespoke sortant/g, "Beespoke Outbound"], [/Tarification sur mesure/g, "Tarifs Beespoke"], [/Noah Lévy/g, "Noah Levy"], [/Noé Levy/g, "Noah Levy"], [/\bMaison\b/g, "Accueil"],
       [/Génération de leads sortants/g, "Génération de leads outbound"], [/génération de leads sortants/g, "génération de leads outbound"],

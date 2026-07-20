@@ -5,8 +5,8 @@ const pages = require(path.join(root, "data", "seo-pages.json"));
 const locales = ["es", "ca", "fr"];
 const editorialForbidden = {
   es: ["saliente", "salida", "divulgación", "llamada de ajuste", "retenedor", "PCI", "PIC", "Noé Levy", "precios a medida"],
-  ca: ["sortida", "sortint", "divulgació", "trucada de fit", "retenedor", "PCI", "Va dir abelles"],
-  fr: ["sortant", "sortante", "sensibilisation", "appel d'ajustement", "dispositif de retenue", "PCI", "Noah Lévy"]
+  ca: ["sortida", "sortides", "sortint", "divulgació", "trucada de fit", "retenedor", "PCI", "DEG", "Va dir abelles"],
+  fr: ["sortant", "sortante", "sorties", "sensibilisation", "appel d'ajustement", "dispositif de retenue", "PCI", "DTS", "Noah Lévy"]
 };
 const failures = [];
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");

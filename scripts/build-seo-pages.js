@@ -4,8 +4,8 @@ const path = require("path");
 const root = path.resolve(__dirname, "..");
 const pages = JSON.parse(fs.readFileSync(path.join(root, "data", "seo-pages.json"), "utf8"));
 const origin = "https://outbound-lead-generation.com";
-const updated = "2026-07-17";
-const modifiedDateTime = "2026-07-17T09:00:00+02:00";
+const updated = "2026-07-20";
+const modifiedDateTime = "2026-07-20T09:00:00+02:00";
 
 const escapeHtml = (value = "") => String(value).replace(/[&<>\"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[char]));
 
@@ -42,10 +42,33 @@ function renderInlineCta(page, position) {
 }
 
 function renderOriginalTool(page) {
+  if (page.path === "/guides/appointment-setting-pricing/") {
+    return `<section class="original-tool evidence-method" id="quote-normalizer"><div class="tool-heading"><span>Original quote-normalization tool</span><h2>Turn three different quotes into one comparable unit</h2><p>Ask every provider for these four numbers before comparing price.</p></div><div class="evidence-grid"><div><span>1 · Total cost</span><strong>All monthly fees</strong><p>Retainer, setup allocation, data, software, performance fees and internal management.</p></div><div><span>2 · Attendance</span><strong>Qualified meetings held</strong><p>Exclude cancellations, no-shows, duplicates and meetings that fail written criteria.</p></div><div><span>3 · Progression</span><strong>Accepted opportunities</strong><p>Record which held meetings sales accepts for active progression and why.</p></div></div><p class="tool-note">Comparable cost per held meeting = total monthly cost ÷ qualified meetings held. Comparable cost per opportunity = total monthly cost ÷ accepted opportunities.</p></section>`;
+  }
+  if (page.path === "/guides/pay-per-meeting-lead-generation/") {
+    const clauses = ["Payment requires attendance, not only a booking","Company-fit criteria are written","Accepted roles or buying responsibility are written","Duplicate and existing-opportunity windows are defined","No-show, reschedule and cancellation rules are defined","The provider supplies evidence for qualification","Disputes have a deadline and named reviewer","Credits and replacements are shown separately in reporting"];
+    return `<section class="original-tool checklist-tool" id="meeting-contract-audit"><div class="tool-heading"><span>Original contract-risk audit</span><h2>Would your pay-per-meeting definition survive a dispute?</h2><p>Check only clauses that appear clearly in the proposed agreement.</p></div><div class="check-grid">${clauses.map((item) => `<label><input type="checkbox" data-risk>${item}</label>`).join("")}</div><div class="tool-output"><span>Contract controls confirmed</span><strong data-risk-score>0 of 8</strong><p>Unwritten quality expectations become billing disputes. Resolve missing controls before launch.</p></div></section>`;
+  }
+  if (page.path === "/services/outsourced-sdr/") {
+    const scope = ["Named people and management owner","Exact weekly capacity","Included channels and sender identities","Data and software responsibility","ICP, list and message ownership","Reply and qualification workflow","CRM and reporting expectations","Ramp, replacement and exit plan"];
+    return `<section class="original-tool checklist-tool" id="outsourced-sdr-scope"><div class="tool-heading"><span>Original scope audit</span><h2>Is the outsourced SDR offer operationally complete?</h2><p>A proposal is not comparable until these responsibilities are explicit.</p></div><div class="check-grid">${scope.map((item) => `<label><input type="checkbox" data-fit>${item}</label>`).join("")}</div><div class="tool-output"><span>Scope controls confirmed</span><strong data-fit-score>0 of 8 signals</strong><p data-fit-copy>Start by naming the people, capacity, channels and ownership before comparing retainers.</p></div></section>`;
+  }
+  if (page.path === "/guides/outsourced-sdr-cost/") {
+    return `<section class="original-tool evidence-method" id="fully-loaded-sdr-cost"><div class="tool-heading"><span>Original cost stack</span><h2>Build the fully loaded monthly SDR number</h2><p>Add every layer; do not compare a salary with an all-inclusive provider fee.</p></div><div class="evidence-grid"><div><span>Provider layer</span><strong>Retainer + variable fees</strong><p>Setup allocation, base fee, per-meeting fees, minimums and currency effects.</p></div><div><span>Operating layer</span><strong>Tools + data + infrastructure</strong><p>CRM, contact data, dialer, sending domains, LinkedIn and reporting systems.</p></div><div><span>Client layer</span><strong>Management + enablement</strong><p>Strategy, training, reviews, sales follow-up and time spent correcting work.</p></div></div><p class="tool-note">Fully loaded cost per accepted opportunity = all three layers ÷ opportunities accepted by sales in the same period.</p></section>`;
+  }
+  if (page.path === "/compare/outbound-agency-vs-freelancer/") {
+    return `<section class="original-tool evidence-method" id="continuity-test"><div class="tool-heading"><span>Original continuity test</span><h2>What happens if the primary operator disappears?</h2><p>Use the answer to expose key-person and handover risk.</p></div><div class="evidence-grid"><div><span>Access</span><strong>Can you reach the operator?</strong><p>Confirm who actually researches, writes, sends, handles replies and reports.</p></div><div><span>Assets</span><strong>Can another person continue?</strong><p>Lists, copy, decisions, credentials and campaign history should remain usable.</p></div><div><span>Coverage</span><strong>Is backup real or theoretical?</strong><p>Name the replacement, handover time and quality-control owner before signing.</p></div></div><p class="tool-note">A solo expert can be the best choice when continuity risk is visible and acceptable. A team is valuable only when coverage is documented.</p></section>`;
+  }
+  if (page.path === "/editorial-policy/") {
+    return `<section class="original-tool evidence-method" id="claim-label"><div class="tool-heading"><span>Reader verification tool</span><h2>How to classify a claim on this site</h2><p>Use the label closest to the evidence shown beside the claim.</p></div><div class="evidence-grid"><div><span>Observed</span><strong>Firsthand but bounded</strong><p>A real Beespoke campaign observation with client and sample limitations stated.</p></div><div><span>Sourced</span><strong>Externally verifiable</strong><p>A dated official, primary or provider-published source linked for inspection.</p></div><div><span>Interpreted</span><strong>Professional judgment</strong><p>Beespoke's practical conclusion, clearly separated from guarantees or universal facts.</p></div></div><p class="tool-note">If a material factual claim lacks enough context to classify, it should be corrected or clarified.</p></section>`;
+  }
   if (page.path.startsWith("/industries/")) {
     const cyber = page.path.includes("cybersecurity");
-    const items = cyber ? ["The security category is narrowly defined","Target accounts share relevant technical context","The buying committee is mapped beyond job titles","Claims are supported by credible proof","The sender can handle security objections","Meeting criteria are written","Exclusions protect poor-fit accounts","A technical discovery owner is available"] : ["Target accounts share a defined process or application","The buying group is mapped","Technical capability is translated into business value","Account exclusions are written","Relevant proof is available","The sender can route technical questions","Customer value supports human acquisition","Sales can progress complex opportunities"];
-    return `<section class="original-tool checklist-tool" id="industry-fit-check"><div class="tool-heading"><span>Original market-readiness tool</span><h2>${cyber ? "Cybersecurity" : "Manufacturing"} outbound readiness check</h2><p>Check only the conditions that are already true. Gaps indicate work to complete before scaling contact volume.</p></div><div class="check-grid">${items.map((item) => `<label><input type="checkbox" data-risk>${item}</label>`).join("")}</div><div class="tool-output"><span>Readiness signals confirmed</span><strong data-risk-score>0 of 8</strong><p>A narrow market, defensible proof and an available sales owner matter more than list size.</p></div></section>`;
+    const saas = page.path.includes("b2b-saas");
+    const consulting = page.path.includes("consulting");
+    const label = cyber ? "Cybersecurity" : saas ? "B2B SaaS" : consulting ? "Consulting" : "Manufacturing";
+    const items = cyber ? ["The security category is narrowly defined","Target accounts share relevant technical context","The buying committee is mapped beyond job titles","Claims are supported by credible proof","The sender can handle security objections","Meeting criteria are written","Exclusions protect poor-fit accounts","A technical discovery owner is available"] : saas ? ["The use case is narrower than 'all B2B companies'","Customer value supports human acquisition","The account universe is large enough to test","Economic and technical buyers are mapped","Relevant proof exists","The offer has paying customers","Sales follows up quickly","Exclusions protect poor-fit accounts"] : consulting ? ["One business problem is campaign-ready","A narrow market wedge is defined","The buying committee is mapped","The firm has relevant proof","The sender has a credible point of view","Project value supports human acquisition","A diagnostic call owner is available","Poor-fit accounts are excluded"] : ["Target accounts share a defined process or application","The buying group is mapped","Technical capability is translated into business value","Account exclusions are written","Relevant proof is available","The sender can route technical questions","Customer value supports human acquisition","Sales can progress complex opportunities"];
+    return `<section class="original-tool checklist-tool" id="industry-fit-check"><div class="tool-heading"><span>Original market-readiness tool</span><h2>${label} outbound readiness check</h2><p>Check only the conditions that are already true. Gaps indicate work to complete before scaling contact volume.</p></div><div class="check-grid">${items.map((item) => `<label><input type="checkbox" data-risk>${item}</label>`).join("")}</div><div class="tool-output"><span>Readiness signals confirmed</span><strong data-risk-score>0 of 8</strong><p>A narrow market, defensible proof and an available sales owner matter more than list size.</p></div></section>`;
   }
   if (page.path.includes("outsourced-sdr-vs")) {
     return `<section class="original-tool evidence-method" id="model-selector"><div class="tool-heading"><span>Operating-model selector</span><h2>Start with the capability you actually need</h2><p>Use the primary gap—not the provider's label—to shortlist a model.</p></div><div class="evidence-grid"><div><span>Capacity gap</span><strong>Outsourced SDR</strong><p>Dedicated rep capacity integrated with your team and systems.</p></div><div><span>Campaign gap</span><strong>Lead generation agency</strong><p>A defined channel or campaign managed toward qualified meetings.</p></div><div><span>Leadership gap</span><strong>Fractional sales leader</strong><p>Senior design, coaching and operating rhythm for an existing team.</p></div></div><p class="tool-note">If the offer and buyer are still unclear, validate them before adding any full-time or outsourced execution model.</p></section>`;
@@ -79,11 +102,26 @@ function renderSources(page) {
       ["LinkedIn User Agreement", "https://www.linkedin.com/legal/user-agreement"],
       ["LinkedIn prohibited software and extensions", "https://www.linkedin.com/help/linkedin/answer/a1341387/prohibited-software-and-extensions"],
       ["Official Sales Navigator advanced-search guidance", "https://business.linkedin.com/sell/sales-navigator/how-to-use"]
+    ],
+    "/guides/appointment-setting-pricing/": [
+      ["Alleyoop 2026 appointment-setting cost analysis", "https://alleyoop.io/appointment-setting-cost"],
+      ["Leadriver 2026 appointment-setting benchmarks", "https://www.leadriver.io/blog/b2b-appointment-setting-cost-benchmarks"],
+      ["ViaMetric published appointment pricing", "https://viametric.com/pricing/"]
+    ],
+    "/guides/pay-per-meeting-lead-generation/": [
+      ["Leads to Green published pay-per-meeting scope", "https://leadstogreen.com/"],
+      ["MeetCold pay-per-show-up definition", "https://meetcold.com/pricing"],
+      ["GrowQuikr published pay-per-appointment terms", "https://growquikr.com/pay-per-lead"]
+    ],
+    "/guides/outsourced-sdr-cost/": [
+      ["RhemaVox 2026 outsourced SDR cost guide", "https://rhemavox.com/blog/how-much-does-an-outsourced-sdr-cost/"],
+      ["Outbound Sales Pro 2026 outsourced SDR pricing", "https://outboundsalespro.com/outsourced-sdr-pricing-2025/"],
+      ["Rose Talent Solutions 2026 SDR cost comparison", "https://rosetalentsolutions.io/blog/how-much-does-an-outsourced-sales-development-rep-cost"]
     ]
   };
   const sources = sourceMap[page.path];
   if (!sources) return "";
-  return `<section class="sources" id="sources"><h2>Sources and methodology</h2><p>Third-party prices and platform rules can change. These sources were checked on July 16, 2026. Provider-published prices describe their own offers and are used as market examples, not independent averages.</p><ol>${sources.map(([label, href]) => `<li><a href="${href}">${escapeHtml(label)}</a></li>`).join("")}</ol></section>`;
+  return `<section class="sources" id="sources"><h2>Sources and methodology</h2><p>Third-party prices and platform rules can change. These sources were checked on July 20, 2026. Provider-published prices describe their own offers and are used as market examples, not independent averages.</p><ol>${sources.map(([label, href]) => `<li><a href="${href}">${escapeHtml(label)}</a></li>`).join("")}</ol></section>`;
 }
 
 function renderCompetitiveDepth(page) {
@@ -151,7 +189,7 @@ function renderPage(page) {
           : page.path.startsWith("/case-studies/")
             ? ["evidence-method", "Evidence standard"]
             : ["working-principles", "Working principles"];
-  const hasSources = page.path === "/guides/outbound-lead-generation-cost/" || page.path === "/services/linkedin-lead-generation/";
+  const hasSources = ["/guides/outbound-lead-generation-cost/", "/services/linkedin-lead-generation/", "/guides/appointment-setting-pricing/", "/guides/pay-per-meeting-lead-generation/", "/guides/outsourced-sdr-cost/"].includes(page.path);
   const toc = `${page.sections.slice(0, 1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#${toolNav[0]}">${toolNav[1]}</a>${page.sections.slice(1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#buyer-decision-guide">Buyer decision guide</a>${hasSources ? '<a href="#sources">Sources and methodology</a>' : ""}`;
   const related = page.related.map((link) => `<a class="related-card" href="${escapeHtml(link)}"><span>Related</span><strong>${escapeHtml(labelFor(link))}</strong></a>`).join("");
   return `<!doctype html>
@@ -165,7 +203,7 @@ function renderPage(page) {
 </head><body>
 <header class="site-header"><nav><a class="brand" href="/"><span>B</span>Beespoke Outbound</a><div><a href="/services/outbound-lead-generation/">Services</a><a href="/case-studies/cybersecurity-linkedin-lead-generation/">Case studies</a><a href="/pricing/">Pricing</a><a class="nav-cta" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></div></nav><div class="language-switcher"><button type="button" aria-expanded="false" aria-label="Language">EN</button><div><a href="${page.path}" lang="en" aria-current="page">English</a><a href="/es${page.path}" lang="es">Español</a><a href="/ca${page.path}" lang="ca">Català</a><a href="/fr${page.path}" lang="fr">Français</a></div></div><div class="reading-progress" aria-hidden="true"><span></span></div></header>
 <main><div class="breadcrumbs"><a href="/">Home</a><span>/</span><span>${escapeHtml(page.eyebrow)}</span></div>
-<header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="/pricing/">See transparent pricing</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated July 16, 2026</p></header>
+<header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="/pricing/">See transparent pricing</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated July 20, 2026</p></header>
 <details class="mobile-toc"><summary><span><small>On this page</small><strong class="current-section">${escapeHtml(page.sections[0].heading)}</strong></span><span class="toc-action">Sections</span></summary><nav aria-label="Page sections">${toc}</nav></details>
 <div class="article-grid"><aside class="toc"><div class="toc-label"><span>Article guide</span><strong>On this page</strong></div>${toc}<div class="toc-progress"><span></span></div></aside><article>${page.sections.map((section, index) => `${renderSection(section)}${index === 0 ? renderOriginalTool(page) : ""}${index === 1 ? renderInlineCta(page, "middle") : index === 3 ? renderInlineCta(page, "late") : ""}`).join("")}${renderCompetitiveDepth(page)}${renderSources(page)}</article></div>
 <section class="related"><p class="eyebrow">Continue researching</p><h2>Related Beespoke resources</h2><div class="related-grid">${related}</div></section>
