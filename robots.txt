@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /proposal-for-
-Disallow: /logistimax-proposal.html
-Disallow: /smart_robotics_outbound_proposal_heico_sandee.html
 
 Sitemap: https://outbound-lead-generation.com/sitemap.xml

@@ -3,6 +3,9 @@ const path = require("path");
 const pages = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "data", "seo-pages.json"), "utf8"));
 const failures = [];
 const seenTitles = new Set();
+const sitemap = fs.readFileSync(path.join(__dirname, "..", "sitemap.xml"), "utf8");
+
+if (/proposal|microsite/i.test(sitemap)) failures.push("sitemap: private proposal or microsite URL detected");
 
 for (const page of pages) {
   const file = path.join(__dirname, "..", page.path.replace(/^\//, ""), "index.html");
