@@ -788,6 +788,20 @@
 
     .case-card p { color: var(--muted); font-size: 16px; }
 
+    .resource-card {
+      display: block;
+      transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+    }
+
+    .resource-card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(240, 180, 41, 0.55);
+      box-shadow: 0 26px 60px rgba(16, 24, 40, 0.12);
+    }
+
+    .resource-card h3 { font-size: 23px; margin-bottom: 10px; letter-spacing: -0.035em; }
+    .resource-card .resource-link { color: var(--blue); font-weight: 800; margin-top: 18px; }
+
     .results {
       display: grid;
       gap: 12px;
@@ -1233,6 +1247,7 @@
         <a href="#how-it-works">How it works</a>
         <a href="#case-studies">Case studies</a>
         <a href="#pricing">Pricing</a>
+        <a href="#resources">Resources</a>
         <a class="btn btn-primary" href="https://calendly.com/noahlevybuilds/30min" target="_blank" rel="noopener">Book a conversation</a>
       </div>
     </div>
@@ -1549,6 +1564,38 @@
               <div><strong>4</strong><span>person team</span></div>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="resources" aria-labelledby="resources-title">
+      <div class="container">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">Buyer resources</div>
+            <h2 id="resources-title">Explore the service before you book</h2>
+            <p class="section-copy">Use our practical guides, service pages and campaign evidence to compare options and decide whether focused outbound fits your market.</p>
+          </div>
+        </div>
+        <div class="case-grid">
+          <a class="case-card resource-card" href="/services/outbound-lead-generation/">
+            <span class="case-label">Service</span><h3>Outbound lead generation</h3><p>See the operating model, deliverables, qualification standards and situations where Beespoke is—or is not—the right fit.</p><div class="resource-link">Explore the service →</div>
+          </a>
+          <a class="case-card resource-card" href="/guides/outbound-lead-generation-cost/">
+            <span class="case-label">Pricing guide</span><h3>What does outbound cost?</h3><p>Compare agency pricing models, calculate break-even economics and evaluate whether a larger monthly retainer makes sense.</p><div class="resource-link">Use the cost guide →</div>
+          </a>
+          <a class="case-card resource-card" href="/guides/outsourced-sdr-vs-lead-generation-agency/">
+            <span class="case-label">Decision guide</span><h3>Outsourced SDR vs agency</h3><p>Choose between an internal hire, outsourced SDR team and specialist agency based on control, speed, cost and management needs.</p><div class="resource-link">Compare the models →</div>
+          </a>
+          <a class="case-card resource-card" href="/case-studies/cybersecurity-linkedin-lead-generation/">
+            <span class="case-label">Case study</span><h3>Cybersecurity campaign evidence</h3><p>Review the audience, campaign approach, observed results and limitations from a real cybersecurity engagement.</p><div class="resource-link">Read the case study →</div>
+          </a>
+          <a class="case-card resource-card" href="/industries/manufacturing-lead-generation/">
+            <span class="case-label">Industry</span><h3>Manufacturing lead generation</h3><p>Learn how focused outbound can support manufacturers selling technical, high-consideration products into named accounts.</p><div class="resource-link">Explore manufacturing →</div>
+          </a>
+          <a class="case-card resource-card" href="/pricing/">
+            <span class="case-label">Pricing</span><h3>Transparent Beespoke plans</h3><p>Review our flat monthly and hybrid performance options, what is included and which third-party costs remain separate.</p><div class="resource-link">See pricing →</div>
+          </a>
         </div>
       </div>
     </section>
