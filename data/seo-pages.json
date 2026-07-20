@@ -13,7 +13,7 @@
       {"heading":"How launch works","body":["We begin by diagnosing the offer, buyer, current pipeline, and previous outreach. Then we build the target logic and message angles, prepare the campaign, and launch a controlled first segment.","Replies—not opens or connection counts—guide iteration. We review who responds, which objections recur, where the message is misunderstood, and whether the selected accounts genuinely fit."],"items":["Week 1: ICP, offer, exclusions, and campaign hypothesis","Week 2: list logic, copy, profile preparation, and review","Week 3 onward: launch, response handling, meetings, and iteration"]},
       {"heading":"Evidence from real campaigns","body":["For an 80-person Silicon Valley cybersecurity company, Beespoke has booked meetings with senior security leaders at companies with more than 500 employees, including high-level conversations at PayPal UK and Orange Cyberdefense.","For an NBC Peacock travel show, Beespoke opened conversations with senior PR and brand leaders connected to companies including Nestlé, Maserati, and major agency groups."],"links":[{"label":"Read the cybersecurity campaign case study","href":"/case-studies/cybersecurity-linkedin-lead-generation/"},{"label":"Read the media partnership outreach case study","href":"/case-studies/media-partnership-outreach/"}]}
     ],
-    "related":["/services/b2b-appointment-setting/","/services/linkedin-lead-generation/","/pricing/"]
+    "related":["/guides/outbound-lead-generation-cost/","/services/linkedin-lead-generation/","/pricing/"]
   },
   {
     "path": "/services/b2b-appointment-setting/",
@@ -45,7 +45,7 @@
       {"heading":"Where LinkedIn fits","body":["LinkedIn is a strong choice when buyers are identifiable by employer, role, seniority, or professional context and when a human profile adds credibility. It is weaker when the audience rarely uses the platform or the offer depends on immediate consumer demand.","Some markets need email, phone, partnerships, content, or paid acquisition alongside LinkedIn. We will not recommend LinkedIn as a universal answer when the buyer or sales motion suggests otherwise."]},
       {"heading":"What happens after a reply","body":["A positive response is only the middle of the workflow. We clarify context, handle reasonable questions, agree on a useful conversation, schedule it, and pass along the thread so your closer arrives informed.","Negative and ambiguous replies are also valuable. They reveal positioning gaps, mistimed segments, missing proof, and objections that should shape the next iteration."]}
     ],
-    "related":["/services/outbound-lead-generation/","/services/b2b-appointment-setting/","/pricing/"]
+    "related":["/case-studies/cybersecurity-linkedin-lead-generation/","/services/outbound-lead-generation/","/pricing/"]
   },
   {
     "path": "/pricing/",
@@ -65,8 +65,8 @@
   },
   {
     "path": "/guides/outbound-lead-generation-cost/",
-    "title": "Outbound Lead Generation Cost: Agency Pricing Guide (2026)",
-    "description": "What outsourced B2B lead generation costs in 2026, how retainers and pay-per-meeting models differ, and what to include in your budget.",
+    "title": "How Much Do Outbound Agencies Charge? 2026 Pricing Guide",
+    "description": "Outbound agency pricing explained: what $1,500–$10,000+ monthly programs include, when a $10k retainer is worth it, and how to compare true cost.",
     "eyebrow": "2026 buyer's guide",
     "h1": "What does outbound lead generation cost?",
     "answer": "Managed B2B outbound is commonly priced as a monthly retainer, a fee per appointment, or a hybrid of both. Public provider examples currently span roughly $1,500 for a small founder-led program to $10,000 or more for larger multichannel teams. Compare scope and qualification—not the headline fee alone.",
@@ -74,10 +74,11 @@
       {"heading":"The three common pricing models","table":{"caption":"Outbound pricing models","headers":["Model","How it works","Main advantage","Main risk"],"rows":[["Monthly retainer","Fixed fee for ongoing team and execution","Predictable and supports iteration","Activity may be disconnected from quality"],["Pay per meeting","Fee for each booked or held appointment","Output is easy to understand","Incentive can favor volume over fit"],["Hybrid","Lower base plus a meeting fee","Shares operating and output risk","Requires precise acceptance rules"]]}},
       {"heading":"What changes the price","body":["Two campaigns with the same message volume can require very different work. A narrow list of enterprise executives needs more research, proof, care, and reply handling than a broad SMB audience."],"items":["Buyer seniority and account size","Market size and data availability","Number of channels and sending profiles","Research and personalization depth","Technical email infrastructure, if included","Qualification and reply-handling complexity","Reporting, CRM, and sales-team integration"]},
       {"heading":"Calculate fully loaded cost","body":["Compare an agency fee with the full alternative, not only an employee's salary. An internal program can include salary, employment costs, management time, recruiter fees, ramp time, data, Sales Navigator, sending infrastructure, CRM seats, copy support, and the cost of turnover.","For an agency, add the retainer, setup fee, software or data charged separately, internal sales time, and any per-meeting fees. Then compare held ICP meetings, accepted opportunities, and pipeline—not send volume."],"callout":"A cheap meeting is expensive when the company cannot buy. An expensive meeting can be economical when the buyer, need, and contract value align."},
+      {"heading":"Is a $10,000 monthly outbound agency worth it?","body":["A $10,000 monthly outbound agency can be worth it when the fee buys a genuinely dedicated multichannel team, the addressable market supports sustained activity, and one or two realistic customer wins can repay several months of acquisition cost. The price alone does not establish value.","It is usually poor economics when the offer is unproven, customer value is low, the target market is small, internal sales follow-up is weak, or the provider cannot connect its fee to held ICP meetings and accepted opportunities."],"table":{"caption":"$10,000 monthly outbound retainer decision test","headers":["Question","More likely worth it","More likely premature"],"rows":[["Customer economics","One realistic win covers several months","Many wins required just to cover fees"],["Operating scope","Dedicated people, channels, data and management","Mostly automated sending with unclear ownership"],["Market readiness","Proven offer and defined buying committee","ICP or positioning still changing weekly"],["Measurement","Held meetings, opportunities and pipeline","Reports stop at sends, opens or bookings"],["Sales capacity","Fast, credible discovery and follow-up","Leads wait or receive inconsistent follow-up"]]},"callout":"The responsible question is not “Is $10,000 expensive?” It is “What capability, evidence and expected gross profit does $10,000 buy?”"},
       {"heading":"Questions to ask before signing","items":["What exact work and software are included?","Is the fee based on booked meetings or attended meetings?","How is ICP fit defined and disputed?","Who owns the domains, data, copy, accounts, and campaign history?","Who handles replies, reschedules, and no-shows?","What happens during the first month before results stabilize?","Can the provider show relevant, verifiable evidence?"]},
       {"heading":"Where Beespoke sits","body":["Beespoke's Flat Monthly plan is $1,500 per month. Its Hybrid Performance plan is $1,000 per month plus $100 for each qualified meeting held. Software is separate.","That price reflects a lean, founder-led LinkedIn service rather than a large outsourced call center or a dedicated full-time multichannel SDR pod. Companies needing high-volume cold calling or a large email infrastructure should compare providers built for that scope."],"links":[{"label":"Review Beespoke pricing","href":"/pricing/"}]}
     ],
-    "related":["/pricing/","/services/outbound-lead-generation/","/services/b2b-appointment-setting/"]
+    "related":["/pricing/","/services/outbound-lead-generation/","/guides/outsourced-sdr-vs-lead-generation-agency/"]
   },
   {
     "path": "/case-studies/cybersecurity-linkedin-lead-generation/",
@@ -157,7 +158,7 @@
       {"heading":"Outbound versus inbound RFQ generation","body":["Search and capability pages can capture buyers already looking for a supplier. Outbound reaches named companies that may fit but are not actively searching. They solve different demand states and often work better together.","Beespoke's present scope is focused outbound. We do not present it as a substitute for technical SEO, distributor development, trade shows or paid search when those channels match the market."],"table":{"caption":"Industrial demand-channel fit","headers":["Channel","Best for","Main constraint"],"rows":[["Focused outbound","Named accounts and identifiable stakeholders","Requires a credible reason to engage"],["Technical SEO","Existing process or supplier demand","Takes time and strong capability content"],["Paid search","Visible high-intent demand","Can be expensive or low-volume"],["Trade shows","Dense relationship and demo opportunities","Cost, timing and follow-up quality"]]}},
       {"heading":"When Beespoke is a sensible fit","body":["The strongest fit is a B2B industrial offer with meaningful customer value, identifiable organizations, reachable professional stakeholders, usable proof and someone capable of progressing a technical sales conversation.","We are not the right provider for consumer lead generation, tender monitoring, mass telemarketing or guaranteed RFQ volume."]}
     ],
-    "related":["/services/outbound-lead-generation/","/services/b2b-appointment-setting/","/pricing/"]
+    "related":["/guides/outbound-lead-generation-cost/","/services/outbound-lead-generation/","/pricing/"]
   },
   {
     "path":"/guides/outsourced-sdr-vs-lead-generation-agency/",

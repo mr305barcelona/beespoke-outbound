@@ -29,6 +29,11 @@ for (const page of pages) {
     if (pageNode.author) failures.push(`${page.path}: ProfilePage must not use unsupported author field`);
     if (pageNode.mainEntity?.["@type"] !== "Person" || !pageNode.mainEntity?.name) failures.push(`${page.path}: ProfilePage requires a named Person mainEntity`);
   }
+  if (page.path === "/guides/outbound-lead-generation-cost/") {
+    if (!html.includes("Is a $10,000 monthly outbound agency worth it?")) failures.push(`${page.path}: missing live-query decision section`);
+    if (!html.includes("$10,000 monthly outbound retainer decision test")) failures.push(`${page.path}: missing $10k decision table`);
+    if (!page.title.toLowerCase().includes("how much do outbound agencies charge")) failures.push(`${page.path}: title does not address the leading query`);
+  }
 }
 
 if (failures.length) {
