@@ -249,7 +249,8 @@ for (const [locale] of Object.entries(locales)) {
     fs.writeFileSync(output, localizeHtml(source, page, locale, dictionary));
   }
   const homepageSource = fs.readFileSync(path.join(root, "index.html"), "utf8")
-    .replace(/<(meta|link)([^>]*?)\s*\/>/g, "<$1$2>");
+    .replace(/<(meta|link)([^>]*?)\s*\/>/g, "<$1$2>")
+    .replace(/src="(?!\/|https?:|data:)([^"]+)"/g, 'src="/$1"');
   const localizedHomepage = localizeHomepageSchema(localizeHtml(homepageSource, { path: "/" }, locale, dictionary), locale, dictionary);
   fs.writeFileSync(path.join(root, locale, "index.html"), localizedHomepage);
 }

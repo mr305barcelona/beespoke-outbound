@@ -41,6 +41,7 @@ for (const locale of locales) {
   if (!homeHtml.includes(`lang="${locale}" aria-current="page"`)) failures.push(`${homePath}: homepage language selector missing`);
   if (!homeHtml.includes(`/${locale}/services/outbound-lead-generation/`)) failures.push(`${homePath}: localized homepage internal links missing`);
   if (!homeHtml.includes('src="/seo.js"')) failures.push(`${homePath}: homepage language behavior missing`);
+  if (/src="(?!\/|https?:|data:)[^"]+"/.test(homeHtml)) failures.push(`${homePath}: homepage contains a relative asset URL`);
   if (!homeHtml.includes("Noah Levy") || !homeHtml.includes("Beespoke")) failures.push(`${homePath}: homepage proper noun altered`);
   for (const forbidden of editorialForbidden[locale]) if (new RegExp(`\\b${escapeRegExp(forbidden)}\\b`, "i").test(homeHtml.replace(/<script[\s\S]*?<\/script>/g, ""))) failures.push(`${homePath}: homepage literal translation '${forbidden}'`);
 }
