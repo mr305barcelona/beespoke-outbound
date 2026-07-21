@@ -11,7 +11,10 @@
     if (!link) return;
     const href = link.getAttribute("href") || "";
     if (href.includes("calendly.com")) track("calendly_click", { cta_text: link.textContent.trim(), cta_location: link.closest(".hero") ? "hero" : link.closest(".inline-cta") ? "article" : link.closest(".final-cta") ? "final" : "navigation" });
-    if (link.closest(".language-switcher")) track("language_switch", { destination_language: link.lang || "unknown", destination_path: href });
+    if (link.closest(".language-switcher")) {
+      if (supportedLocales.includes(link.lang)) localStorage.setItem("beespoke-language-choice", link.lang);
+      track("language_switch", { destination_language: link.lang || "unknown", destination_path: href });
+    }
     if (link.classList.contains("secondary") || link.classList.contains("related-card")) track("internal_cta_click", { link_text: link.textContent.trim(), destination_path: href });
   });
   const reached = new Set();
@@ -55,8 +58,9 @@
       switcherButton?.setAttribute("aria-expanded", "false");
     }
   });
-  if (locale === "en" && !sessionStorage.getItem("beespoke-language-choice")) {
-    const preferred = (navigator.languages || [navigator.language || "en"])
+  if (locale === "en" && !sessionStorage.getItem("beespoke-language-suggestion-dismissed")) {
+    const savedLocale = localStorage.getItem("beespoke-language-choice");
+    const preferred = (supportedLocales.includes(savedLocale) ? [savedLocale] : (navigator.languages || [navigator.language || "en"]))
       .map((value) => value.toLowerCase().split("-")[0])
       .find((value) => supportedLocales.includes(value) && value !== "en");
     if (preferred) {
@@ -65,8 +69,9 @@
         const banner = document.createElement("aside");
         const names = { es: "Español", ca: "Català", fr: "Français" };
         banner.className = "language-suggestion";
-        banner.innerHTML = `<span>View this page in ${names[preferred]}?</span><a href="${localizedLink.getAttribute("href")}">Switch language</a><button type="button" aria-label="Dismiss language suggestion">×</button>`;
-        banner.querySelector("button").addEventListener("click", () => { sessionStorage.setItem("beespoke-language-choice", "dismissed"); banner.remove(); });
+        banner.innerHTML = `<span>View this page in ${names[preferred]}?</span><a href="${localizedLink.getAttribute("href")}" lang="${preferred}">Switch language</a><button type="button" aria-label="Dismiss language suggestion">×</button>`;
+        banner.querySelector("a").addEventListener("click", () => localStorage.setItem("beespoke-language-choice", preferred));
+        banner.querySelector("button").addEventListener("click", () => { sessionStorage.setItem("beespoke-language-suggestion-dismissed", "true"); banner.remove(); });
         document.body.appendChild(banner);
       }
     }

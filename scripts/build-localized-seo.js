@@ -61,6 +61,22 @@ function localizeSchema(html, page, locale, dictionary) {
   });
 }
 
+function localizeHomepageSchema(html, locale, dictionary) {
+  const copy = {
+    es: { description: "Beespoke ayuda a empresas B2B a generar pipeline reservando reuniones cualificadas con clientes ideales mediante campañas outbound focalizadas.", area: "Internacional", services: ["Generación de leads outbound", "Concertación de citas B2B", "Prospección outbound en LinkedIn", "Generación de pipeline comercial", "Reserva de reuniones cualificadas"] },
+    ca: { description: "Beespoke ajuda empreses B2B a generar pipeline reservant reunions qualificades amb clients ideals mitjançant campanyes outbound focalitzades.", area: "Internacional", services: ["Generació de leads outbound", "Concertació de reunions B2B", "Prospecció outbound a LinkedIn", "Generació de pipeline comercial", "Reserva de reunions qualificades"] },
+    fr: { description: "Beespoke aide les entreprises B2B à générer du pipeline en obtenant des rendez-vous qualifiés avec leurs clients idéaux grâce à des campagnes outbound ciblées.", area: "International", services: ["Génération de leads outbound", "Prise de rendez-vous B2B", "Prospection outbound sur LinkedIn", "Génération de pipeline commercial", "Prise de rendez-vous qualifiés"] }
+  }[locale];
+  return html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/, (full, raw) => {
+    const schema = JSON.parse(raw);
+    schema.url = `${origin}/${locale}/`;
+    schema.description = copy.description;
+    schema.areaServed = copy.area;
+    schema.serviceType = copy.services;
+    return `<script type="application/ld+json">${JSON.stringify(schema).replace(/</g, "\\u003c")}</script>`;
+  });
+}
+
 function localizeHtml(source, page, locale, dictionary) {
   const localizedUrl = `${origin}${localizedPath(locale, page.path)}`;
   let html = source
@@ -77,6 +93,16 @@ function localizeHtml(source, page, locale, dictionary) {
   const terminology = {
     es: [
       [/\$10,000/g, "10.000 $"],
+      [/Generación de leads outbound a medida \| Agencia de reserva de reuniones B2B/g, "Beespoke Outbound | Agencia de concertación de reuniones B2B"],
+      [/Beespoke ayuda a las empresas B2B a generar canales de ventas identificando a los tomadores de decisiones adecuados, creando un alcance convincente y reservando reuniones calificadas directamente en su calendario\./g, "Beespoke ayuda a empresas B2B a generar pipeline identificando a los responsables adecuados, creando mensajes de prospección convincentes y reservando reuniones cualificadas directamente en su calendario."],
+      [/\bcanales de ventas\b/gi, "pipeline comercial"], [/\breuniones calificadas\b/gi, "reuniones cualificadas"],
+      [/^como funciona$/gim, "Cómo funciona"], [/Cree la lista de objetivos adecuada/g, "Crea la lista de cuentas objetivo adecuada"],
+      [/Cree un alcance que genere respuestas/g, "Crea mensajes de prospección que generen respuestas"],
+      [/Victorias salientes recientes/g, "Resultados outbound recientes"], [/Plana Mensual/g, "Plan mensual"],
+      [/Boutique outbound desde Barcelona/g, "Agencia outbound boutique desde Barcelona"],
+      [/¿Cuánto cuesta la outbound\?/g, "¿Cuánto cuesta el outbound?"], [/SDR subcontratados frente a agencia/g, "SDR externalizado vs agencia"],
+      [/Planos transparentes a medida/g, "Planes transparentes de Beespoke"], [/Servicios SDR subcontratados/g, "Servicios SDR externalizados"],
+      [/Precios para concertar citas/g, "Precios de concertación de citas"], [/envíanos whatsapp/gi, "Escríbenos por WhatsApp"],
       [/Servicios SDR subcontratados para salidas B2B enfocadas/g, "Servicios SDR externalizados para outbound B2B focalizado"],
       [/Servicios de SDR subcontratados: alcance, adecuación y compensaciones/g, "Servicios SDR externalizados: alcance, encaje y limitaciones"],
       [/salidas B2B/gi, "outbound B2B"],
@@ -116,10 +142,22 @@ function localizeHtml(source, page, locale, dictionary) {
       [/Generación de leads en LinkedIn que suena como una conversación humana creíble/g, "Prospección en LinkedIn que genera conversaciones creíbles"],
       [/Generación de leads outbound basada en reuniones calificadas/g, "Generación de leads outbound orientada a reuniones cualificadas"],
       [/\bSalida\b/g, "Outbound"], [/\bsalida\b/g, "outbound"], [/\bSaliente\b/g, "Outbound"], [/\bsaliente\b/g, "outbound"],
-      [/Reserva una conversación/g, "Reservar una conversación"], [/guía de artículos/g, "Guía del artículo"], [/guía de decisión del comprador/g, "Guía de decisión del comprador"]
+      [/Reserva una conversación/g, "Reservar una conversación"], [/guía de artículos/g, "Guía del artículo"], [/guía de decisión del comprador/g, "Guía de decisión del comprador"],
+      [/Generación de leads outbound a medida \| Agencia de reserva de reuniones B2B/g, "Beespoke Outbound | Agencia de concertación de reuniones B2B"],
+      [/Generación de leads outbound que reserva reuniones reales con tus clientes ideales/g, "Generación de leads outbound que consigue reuniones reales con tus clientes ideales"],
+      [/>como funciona</gi, ">Cómo funciona<"]
     ],
     ca: [
       [/\$10,000/g, "10.000 $"], [/agències sortints/gi, "agències outbound"], [/On s'asseu Beespoke/g, "On se situa Beespoke"],
+      [/generació de leads outbound de beesspoke \| Agència de reserves de reunions B2B/gi, "Beespoke Outbound | Agència de concertació de reunions B2B"],
+      [/Beespoke ajuda a les empreses B2B a crear un canal de vendes identificant els qui prenen decisions adequats, creant una difusió atractiva i reservant reunions qualificades directament al vostre calendari\./g, "Beespoke ajuda empreses B2B a generar pipeline identificant els responsables adequats, creant missatges de prospecció convincents i reservant reunions qualificades directament al vostre calendari."],
+      [/\bcanal de vendes\b/gi, "pipeline comercial"], [/\bcanonada\b/gi, "pipeline"], [/\bdifusió\b/gi, "prospecció"],
+      [/Creeu una prospecció que obtingui respostes/g, "Crea missatges de prospecció que generin respostes"],
+      [/Un equip magre en lloc d'un altre lloguer car/g, "Un equip àgil en lloc d'una altra contractació costosa"],
+      [/Mensual plana/g, "Pla mensual"], [/Què costa la outbound\?/g, "Quant costa l'outbound?"],
+      [/Generació de leads de fabricació/g, "Generació de leads per a fabricants"], [/Preu de fixació de cita/g, "Preus de concertació de reunions"],
+      [/Estàs preparat per crear més cartera de vendes\?/g, "Preparat per generar més pipeline comercial?"],
+      [/beesspoke/gi, "Beespoke"],
       [/Serveis SDR externalitzats per a sortides B2B enfocades/g, "Serveis SDR externalitzats per a outbound B2B focalitzat"],
       [/Serveis de SDR externalitzats: abast, encaix i compensacions/g, "Serveis SDR externalitzats: abast, encaix i limitacions"],
       [/\bDEG\b/g, "SDR"], [/sortides B2B/gi, "outbound B2B"], [/\bsortides\b/gi, "outbound"], [/>agència outbound/g, ">Agència outbound"],
@@ -152,10 +190,16 @@ function localizeHtml(source, page, locale, dictionary) {
       [/Generació de contactes de LinkedIn que sona com una conversa humana creïble/g, "Prospecció a LinkedIn que genera converses creïbles"],
       [/Generació de leads outbound basada en reunions qualificades/g, "Generació de leads outbound orientada a reunions qualificades"],
       [/\bSortida\b/g, "Outbound"], [/\bsortida\b/g, "outbound"], [/\bSortint\b/g, "Outbound"], [/\bsortint\b/g, "outbound"],
-      [/Guia d'articles/g, "Guia de l'article"]
+      [/Guia d'articles/g, "Guia de l'article"],
+      [/generació de leads outbound de Beespoke \| Agència de reserves de reunions B2B/gi, "Beespoke Outbound | Agència de concertació de reunions B2B"],
+      [/Generació de leads outbound que reserva reunions reals amb els vostres clients ideals/g, "Generació de leads outbound que genera reunions reals amb els teus clients ideals"]
     ],
     fr: [
       [/\$10,000/g, "10 000 $"],
+      [/Beespoke aide les entreprises B2B à créer un pipeline de ventes en identifiant les bons décideurs, en créant une prospection convaincante et en réservant des réunions qualifiées directement dans votre calendrier\./g, "Beespoke aide les entreprises B2B à générer du pipeline en identifiant les bons décideurs, en créant des messages de prospection convaincants et en réservant des rendez-vous qualifiés directement dans votre calendrier."],
+      [/Victoires sortantes récentes/g, "Résultats outbound récents"], [/Boutique au départ de Barcelone/g, "Agence outbound boutique à Barcelone"],
+      [/Quel est le coût des outbound \?/g, "Quel est le coût de l'outbound ?"], [/Génération de leads de fabrication/g, "Génération de leads pour l'industrie"],
+      [/Tarifs sur rendez-vous/g, "Tarification de la prise de rendez-vous"], [/WhatsApp nous/g, "Écrivez-nous sur WhatsApp"],
       [/Services SDR externalisés pour les sorties B2B ciblées/g, "Services SDR externalisés pour une prospection B2B ciblée"],
       [/\bDTS\b/g, "SDR"], [/Sorties industrielles et manufacturières/g, "Prospection industrielle et manufacturière"], [/sorties B2B/gi, "prospection B2B"], [/\bsorties\b/gi, "outbound"], [/>agence outbound/g, ">Agence outbound"],
       [/support aux ventes fractionnées/gi, "direction commerciale à temps partagé"], [/génération de leads pour la fabrication/gi, "génération de leads pour l'industrie"],
@@ -186,7 +230,10 @@ function localizeHtml(source, page, locale, dictionary) {
       [/Génération de leads LinkedIn qui ressemble à une conversation humaine crédible/g, "Prospection LinkedIn qui génère des conversations crédibles"],
       [/Génération de leads outbound construite autour de rendez-vous qualifiés/g, "Génération de leads outbound axée sur des rendez-vous qualifiés"],
       [/\bSortante\b/g, "Outbound"], [/\bsortante\b/g, "outbound"], [/\bSortant\b/g, "Outbound"], [/\bsortant\b/g, "outbound"],
-      [/Guide des articles/g, "Guide de l'article"]
+      [/Guide des articles/g, "Guide de l'article"],
+      [/Beespoke aide les entreprises B2B à créer un pipeline de ventes en identifiant les bons décideurs, en créant une prospection convaincante et en réservant des réunions qualifiées directement dans votre calendrier\./g, "Beespoke aide les entreprises B2B à générer du pipeline en identifiant les bons décideurs, en créant des messages de prospection convaincants et en réservant des rendez-vous qualifiés directement dans votre calendrier."],
+      [/Génération de leads outbound Beespoke \| Agence de réservation de réunions B2B/g, "Beespoke Outbound | Agence de prise de rendez-vous B2B"],
+      [/Génération de leads outbound qui réserve de véritables réunions avec vos clients idéaux/g, "Génération de leads outbound qui obtient de vrais rendez-vous avec vos clients idéaux"]
     ]
   };
   for (const [pattern, replacement] of terminology[locale]) html = html.replace(pattern, replacement);
@@ -201,6 +248,10 @@ for (const [locale] of Object.entries(locales)) {
     fs.mkdirSync(path.dirname(output), { recursive: true });
     fs.writeFileSync(output, localizeHtml(source, page, locale, dictionary));
   }
+  const homepageSource = fs.readFileSync(path.join(root, "index.html"), "utf8")
+    .replace(/<(meta|link)([^>]*?)\s*\/>/g, "<$1$2>");
+  const localizedHomepage = localizeHomepageSchema(localizeHtml(homepageSource, { path: "/" }, locale, dictionary), locale, dictionary);
+  fs.writeFileSync(path.join(root, locale, "index.html"), localizedHomepage);
 }
 
-console.log(`Built ${pages.length * Object.keys(locales).length} localized SEO pages.`);
+console.log(`Built ${(pages.length + 1) * Object.keys(locales).length} localized pages, including homepages.`);

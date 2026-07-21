@@ -15,7 +15,7 @@ const phrases = new Set();
 collect(pages, phrases);
 
 // Template and interactive-tool copy that is not stored in seo-pages.json.
-const htmlFiles = pages.map((page) => path.join(root, page.path.replace(/^\//, ""), "index.html"));
+const htmlFiles = [path.join(root, "index.html"), ...pages.map((page) => path.join(root, page.path.replace(/^\//, ""), "index.html"))];
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, "utf8").replace(/<script[\s\S]*?<\/script>/gi, "").replace(/<style[\s\S]*?<\/style>/gi, "");
   for (const match of html.matchAll(/>([^<>]+)</g)) {

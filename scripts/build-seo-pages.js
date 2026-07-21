@@ -220,6 +220,7 @@ for (const page of pages) {
 
 const sitemapEntries = [
   { path: "/", updated: "2026-07-16" },
+  ...["es", "ca", "fr"].map((locale) => ({ path: `/${locale}/`, updated })),
   ...pages.map((page) => ({ path: page.path, updated })),
   ...["es", "ca", "fr"].flatMap((locale) => pages.map((page) => ({ path: `/${locale}${page.path}`, updated })))
 ];

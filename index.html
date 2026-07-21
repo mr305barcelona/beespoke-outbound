@@ -19,6 +19,11 @@
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='18' y1='8' x2='110' y2='120' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FFD86A'/%3E%3Cstop offset='1' stop-color='%23E29A17'/%3E%3C/linearGradient%3E%3Cfilter id='s' x='-20%25' y='-20%25' width='140%25' height='140%25'%3E%3CfeDropShadow dx='0' dy='10' stdDeviation='10' flood-color='%23F0B429' flood-opacity='.25'/%3E%3C/filter%3E%3C/defs%3E%3Crect x='18' y='18' width='92' height='92' rx='28' fill='url(%23g)' filter='url(%23s)'/%3E%3Ctext x='64' y='78' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='48' font-weight='900' fill='%232B1B00'%3EB%3C/text%3E%3C/svg%3E" />
   <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='18' y1='8' x2='110' y2='120' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FFD86A'/%3E%3Cstop offset='1' stop-color='%23E29A17'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect x='18' y='18' width='92' height='92' rx='28' fill='url(%23g)'/%3E%3Ctext x='64' y='78' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='48' font-weight='900' fill='%232B1B00'%3EB%3C/text%3E%3C/svg%3E" />
   <link rel="canonical" href="https://outbound-lead-generation.com/" />
+  <link rel="alternate" hreflang="en" href="https://outbound-lead-generation.com/" />
+  <link rel="alternate" hreflang="es" href="https://outbound-lead-generation.com/es/" />
+  <link rel="alternate" hreflang="ca" href="https://outbound-lead-generation.com/ca/" />
+  <link rel="alternate" hreflang="fr" href="https://outbound-lead-generation.com/fr/" />
+  <link rel="alternate" hreflang="x-default" href="https://outbound-lead-generation.com/" />
 
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://outbound-lead-generation.com/" />
@@ -146,6 +151,54 @@
       font-size: 14px;
       font-weight: 600;
     }
+
+    .language-switcher { position: relative; margin-left: auto; }
+    .language-switcher > button {
+      min-width: 42px;
+      min-height: 42px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      background: rgba(255,255,255,0.9);
+      color: var(--ink);
+      font-weight: 850;
+      cursor: pointer;
+    }
+    .language-switcher > div {
+      display: none;
+      position: absolute;
+      top: calc(100% + 10px);
+      right: 0;
+      min-width: 150px;
+      padding: 8px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: white;
+      box-shadow: var(--shadow-sm);
+    }
+    .language-switcher.is-open > div { display: grid; }
+    .language-switcher > div a { padding: 10px 12px; border-radius: 12px; font-size: 14px; font-weight: 700; }
+    .language-switcher > div a:hover { background: var(--soft); }
+    .language-switcher > div a[aria-current="page"] { background: var(--amber-soft); color: #7a4d00; }
+    .language-suggestion {
+      position: fixed;
+      left: 50%;
+      bottom: 22px;
+      z-index: 80;
+      transform: translateX(-50%);
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      width: min(92vw, 520px);
+      padding: 14px 16px;
+      border: 1px solid rgba(240,180,41,0.45);
+      border-radius: 18px;
+      background: #101828;
+      color: white;
+      box-shadow: 0 20px 55px rgba(16,24,40,0.25);
+      font-size: 14px;
+    }
+    .language-suggestion a { margin-left: auto; color: #ffd86a; font-weight: 800; white-space: nowrap; }
+    .language-suggestion button { border: 0; background: transparent; color: white; cursor: pointer; font-size: 20px; }
 
     .btn {
       display: inline-flex;
@@ -1127,6 +1180,7 @@
       .floating-note { position: relative; right: auto; bottom: auto; width: 100%; margin-top: 16px; }
       .nav-inner { min-height: 68px; }
       .brand span { display: none; }
+      .language-switcher > div { left: 0; right: auto; }
       h1 { letter-spacing: -0.058em; }
       .price { font-size: 36px; }
       .stats-row { grid-template-columns: 1fr; }
@@ -1243,6 +1297,7 @@
         <div class="brand-mark">B</div>
         <span>Beespoke Outbound</span>
       </a>
+      <div class="language-switcher"><button type="button" aria-expanded="false" aria-label="Language">EN</button><div><a href="/" lang="en" aria-current="page">English</a><a href="/es/" lang="es">Español</a><a href="/ca/" lang="ca">Català</a><a href="/fr/" lang="fr">Français</a></div></div>
       <div class="nav-links">
         <a href="#how-it-works">How it works</a>
         <a href="#case-studies">Case studies</a>
@@ -1670,5 +1725,6 @@
 
   <script>
 </script>
+  <script src="/seo.js" defer></script>
 </body>
 </html>
