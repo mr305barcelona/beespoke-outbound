@@ -174,21 +174,33 @@ function renderPage(page) {
       { "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: `${origin}/` }, { "@type": "ListItem", position: 2, name: page.h1, item: url }] }
     ]
   };
-  const toolNav = page.path.startsWith("/industries/")
-    ? ["industry-fit-check", "Industry readiness check"]
-    : page.path.includes("outsourced-sdr-vs")
-      ? ["model-selector", "Operating-model selector"]
-      : page.path === "/pricing/" || page.path.includes("outbound-lead-generation-cost")
-    ? ["outbound-cost-calculator", "Break-even calculator"]
-    : page.path.includes("b2b-appointment-setting")
-      ? ["qualification-builder", "Qualification builder"]
-      : page.path.includes("linkedin-lead-generation")
-        ? ["linkedin-risk-check", "LinkedIn risk audit"]
-        : page.path.includes("outbound-lead-generation") && page.path.startsWith("/services/")
-          ? ["outbound-fit-score", "Outbound fit check"]
-          : page.path.startsWith("/case-studies/")
-            ? ["evidence-method", "Evidence standard"]
-            : ["working-principles", "Working principles"];
+  const toolNav = page.path === "/guides/appointment-setting-pricing/"
+    ? ["quote-normalizer", "Quote normalizer"]
+    : page.path === "/guides/pay-per-meeting-lead-generation/"
+      ? ["meeting-contract-audit", "Contract-risk audit"]
+      : page.path === "/services/outsourced-sdr/"
+        ? ["outsourced-sdr-scope", "Scope audit"]
+        : page.path === "/guides/outsourced-sdr-cost/"
+          ? ["fully-loaded-sdr-cost", "Fully loaded cost"]
+          : page.path === "/compare/outbound-agency-vs-freelancer/"
+            ? ["continuity-test", "Continuity test"]
+            : page.path === "/editorial-policy/"
+              ? ["claim-label", "Claim verification"]
+              : page.path.startsWith("/industries/")
+                ? ["industry-fit-check", "Industry readiness check"]
+                : page.path.includes("outsourced-sdr-vs")
+                  ? ["model-selector", "Operating-model selector"]
+                  : page.path === "/pricing/" || page.path.includes("outbound-lead-generation-cost")
+                    ? ["outbound-cost-calculator", "Break-even calculator"]
+                    : page.path.includes("b2b-appointment-setting")
+                      ? ["qualification-builder", "Qualification builder"]
+                      : page.path.includes("linkedin-lead-generation")
+                        ? ["linkedin-risk-check", "LinkedIn risk audit"]
+                        : page.path.includes("outbound-lead-generation") && page.path.startsWith("/services/")
+                          ? ["outbound-fit-score", "Outbound fit check"]
+                          : page.path.startsWith("/case-studies/")
+                            ? ["evidence-method", "Evidence standard"]
+                            : ["working-principles", "Working principles"];
   const hasSources = ["/guides/outbound-lead-generation-cost/", "/services/linkedin-lead-generation/", "/guides/appointment-setting-pricing/", "/guides/pay-per-meeting-lead-generation/", "/guides/outsourced-sdr-cost/"].includes(page.path);
   const toc = `${page.sections.slice(0, 1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#${toolNav[0]}">${toolNav[1]}</a>${page.sections.slice(1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#buyer-decision-guide">Buyer decision guide</a>${hasSources ? '<a href="#sources">Sources and methodology</a>' : ""}`;
   const related = page.related.map((link) => `<a class="related-card" href="${escapeHtml(link)}"><span>Related</span><strong>${escapeHtml(labelFor(link))}</strong></a>`).join("");
@@ -201,8 +213,9 @@ function renderPage(page) {
 <meta property="og:type" content="article"><meta property="og:title" content="${escapeHtml(page.title)}"><meta property="og:description" content="${escapeHtml(page.description)}"><meta property="og:url" content="${url}"><meta property="og:site_name" content="Beespoke Outbound Lead Generation">
 <meta name="twitter:card" content="summary"><script type="application/ld+json">${JSON.stringify(schema).replace(/</g, "\\u003c")}</script>
 </head><body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
 <header class="site-header"><nav><a class="brand" href="/"><span>B</span>Beespoke Outbound</a><div><a href="/services/outbound-lead-generation/">Services</a><a href="/case-studies/cybersecurity-linkedin-lead-generation/">Case studies</a><a href="/pricing/">Pricing</a><a class="nav-cta" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></div></nav><div class="language-switcher"><button type="button" aria-expanded="false" aria-label="Language">EN</button><div><a href="${page.path}" lang="en" aria-current="page">English</a><a href="/es${page.path}" lang="es">Español</a><a href="/ca${page.path}" lang="ca">Català</a><a href="/fr${page.path}" lang="fr">Français</a></div></div><div class="reading-progress" aria-hidden="true"><span></span></div></header>
-<main><div class="breadcrumbs"><a href="/">Home</a><span>/</span><span>${escapeHtml(page.eyebrow)}</span></div>
+<main id="main-content"><div class="breadcrumbs"><a href="/">Home</a><span>/</span><span>${escapeHtml(page.eyebrow)}</span></div>
 <header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="/pricing/">See transparent pricing</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated July 20, 2026</p></header>
 <details class="mobile-toc"><summary><span><small>On this page</small><strong class="current-section">${escapeHtml(page.sections[0].heading)}</strong></span><span class="toc-action">Sections</span></summary><nav aria-label="Page sections">${toc}</nav></details>
 <div class="article-grid"><aside class="toc"><div class="toc-label"><span>Article guide</span><strong>On this page</strong></div>${toc}<div class="toc-progress"><span></span></div></aside><article>${page.sections.map((section, index) => `${renderSection(section)}${index === 0 ? renderOriginalTool(page) : ""}${index === 1 ? renderInlineCta(page, "middle") : index === 3 ? renderInlineCta(page, "late") : ""}`).join("")}${renderCompetitiveDepth(page)}${renderSources(page)}</article></div>

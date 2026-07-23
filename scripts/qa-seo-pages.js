@@ -13,8 +13,12 @@ for (const page of pages) {
   const html = fs.readFileSync(file, "utf8");
   if (seenTitles.has(page.title)) failures.push(`${page.path}: duplicate title`);
   seenTitles.add(page.title);
-  for (const required of ["<h1>", "rel=\"icon\"", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "src=\"/seo.js\""]) {
+  for (const required of ["<h1>", "rel=\"icon\"", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "class=\"skip-link\"", "<main id=\"main-content\"", "src=\"/seo.js\""]) {
     if (!html.includes(required)) failures.push(`${page.path}: missing ${required}`);
+  }
+  const ids = new Set([...html.matchAll(/\sid="([^"]+)"/g)].map((match) => match[1]));
+  for (const match of html.matchAll(/href="#([^"]+)"/g)) {
+    if (!ids.has(match[1])) failures.push(`${page.path}: broken section link #${match[1]}`);
   }
   if ((html.match(/<section /g) || []).length < 5) failures.push(`${page.path}: fewer than five substantive sections`);
   if ((html.match(/class="inline-cta"/g) || []).length < 2) failures.push(`${page.path}: fewer than two contextual inline CTAs`);

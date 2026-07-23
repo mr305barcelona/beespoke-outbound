@@ -271,6 +271,23 @@
 
     h1, h2, h3, p { margin-top: 0; }
 
+    .skip-link {
+      position: fixed;
+      top: 12px;
+      left: 20px;
+      z-index: 100;
+      padding: 10px 14px;
+      border-radius: 10px;
+      background: var(--ink);
+      color: #fff;
+      font-weight: 780;
+      text-decoration: none;
+      transform: translateY(-160%);
+      transition: transform 160ms ease;
+    }
+
+    .skip-link:focus { transform: translateY(0); }
+
     h1 {
       font-size: clamp(44px, 6vw, 76px);
       line-height: 0.96;
@@ -369,10 +386,12 @@
       letter-spacing: 0.06em;
     }
     
-    .reply-top h3 {
+    .reply-title {
       margin: 0;
       max-width: 410px;
       font-size: 24px;
+      font-weight: 800;
+      line-height: 1.2;
     }
     
     .reply-status {
@@ -1226,7 +1245,7 @@
         margin-bottom: 16px;
       }
       
-      .reply-top h3 {
+      .reply-title {
         font-size: 20px;
         line-height: 1.18;
       }
@@ -1292,6 +1311,7 @@
   </style>
 </head>
 <body>
+  <a class="skip-link" href="#top">Skip to main content</a>
   <nav class="nav" aria-label="Primary navigation">
     <div class="container nav-inner">
       <a class="brand" href="#top" aria-label="Beespoke home">
@@ -1332,7 +1352,7 @@
             <div class="reply-top">
               <div>
                 <span class="reply-label">Real campaign reply</span>
-                <h3>Positive response from a senior banking executive</h3>
+                <p class="reply-title">Positive response from a senior banking executive</p>
               </div>
               <span class="reply-status">Meeting requested</span>
             </div>
