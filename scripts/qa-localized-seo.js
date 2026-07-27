@@ -13,6 +13,16 @@ const benchmarkSchemaExpectations = {
   ca: { datasetName: "Benchmark de preus outbound B2B 2026", ogAlt: "Benchmark de preus outbound B2B 2026 de Beespoke", tableLabel: "Taula comparativa de preus outbound amb desplaçament horitzontal" },
   fr: { datasetName: "Benchmark 2026 des tarifs outbound B2B", ogAlt: "Benchmark 2026 des tarifs outbound B2B par Beespoke", tableLabel: "Tableau comparatif des tarifs outbound à défilement horizontal" }
 };
+const editorialClaimHeadings = {
+  es: "Cómo clasificar una afirmación en este sitio",
+  ca: "Com classificar una afirmació en aquest lloc",
+  fr: "Comment qualifier une affirmation sur ce site"
+};
+const costModelHeadings = {
+  es: "Cómo cobran las agencias outbound: cuota mensual, pago por reunión o modelo híbrido",
+  ca: "Com cobren les agències outbound: quota mensual, pagament per reunió o model híbrid",
+  fr: "Comment les agences de prospection facturent : forfait mensuel, paiement au rendez-vous ou modèle hybride"
+};
 const failures = [];
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
@@ -38,6 +48,8 @@ for (const locale of locales) {
     for (const forbidden of editorialForbidden[locale]) {
       if (new RegExp(`\\b${escapeRegExp(forbidden)}\\b`, "i").test(html.replace(/<script[\s\S]*?<\/script>/g, ""))) failures.push(`${localizedPath}: literal translation '${forbidden}'`);
     }
+    if (page.path === "/editorial-policy/" && !html.includes(editorialClaimHeadings[locale])) failures.push(`${localizedPath}: editorial claim terminology is incorrect`);
+    if (page.path === "/guides/outbound-lead-generation-cost/" && !html.includes(costModelHeadings[locale])) failures.push(`${localizedPath}: live-query pricing heading is not localized`);
     if (page.path === "/research/2026-b2b-outbound-pricing-benchmark/") {
       for (const provider of ["Beespoke", "OutsourcedSDR", "BitWide", "Artemis Leads", "MarknTech", "Cleverly", "SaaS Leads", "Telesales.it", "GTM Bud", "Occura", "TargetFlow", "Sales Hype"]) {
         if (!html.includes(`<strong>${provider}</strong>`)) failures.push(`${localizedPath}: provider name altered (${provider})`);

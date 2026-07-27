@@ -5,8 +5,15 @@ const root = path.resolve(__dirname, "..");
 const pages = JSON.parse(fs.readFileSync(path.join(root, "data", "seo-pages.json"), "utf8"));
 const pricingBenchmark = JSON.parse(fs.readFileSync(path.join(root, "data", "outbound-pricing-benchmark-2026.json"), "utf8"));
 const origin = "https://outbound-lead-generation.com";
-const updated = "2026-07-24";
-const modifiedDateTime = "2026-07-24T09:00:00+02:00";
+const defaultUpdated = "2026-07-24";
+const updatedOverrides = new Map([
+  ["/guides/outbound-lead-generation-cost/", "2026-07-27"],
+  ["/editorial-policy/", "2026-07-27"]
+]);
+const updatedFor = (pagePath) => updatedOverrides.get(pagePath) || defaultUpdated;
+const modifiedDateTimeFor = (pagePath) => updatedOverrides.has(pagePath)
+  ? `${updatedFor(pagePath)}T15:00:00+02:00`
+  : "2026-07-24T09:00:00+02:00";
 
 const escapeHtml = (value = "") => String(value).replace(/[&<>\"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[char]));
 
@@ -66,7 +73,7 @@ function renderOriginalTool(page) {
     return `<section class="original-tool evidence-method" id="continuity-test"><div class="tool-heading"><span>Original continuity test</span><h2>What happens if the primary operator disappears?</h2><p>Use the answer to expose key-person and handover risk.</p></div><div class="evidence-grid"><div><span>Access</span><strong>Can you reach the operator?</strong><p>Confirm who actually researches, writes, sends, handles replies and reports.</p></div><div><span>Assets</span><strong>Can another person continue?</strong><p>Lists, copy, decisions, credentials and campaign history should remain usable.</p></div><div><span>Coverage</span><strong>Is backup real or theoretical?</strong><p>Name the replacement, handover time and quality-control owner before signing.</p></div></div><p class="tool-note">A solo expert can be the best choice when continuity risk is visible and acceptable. A team is valuable only when coverage is documented.</p></section>`;
   }
   if (page.path === "/editorial-policy/") {
-    return `<section class="original-tool evidence-method" id="claim-label"><div class="tool-heading"><span>Reader verification tool</span><h2>How to classify a claim on this site</h2><p>Use the label closest to the evidence shown beside the claim.</p></div><div class="evidence-grid"><div><span>Observed</span><strong>Firsthand but bounded</strong><p>A real Beespoke campaign observation with client and sample limitations stated.</p></div><div><span>Sourced</span><strong>Externally verifiable</strong><p>A dated official, primary or provider-published source linked for inspection.</p></div><div><span>Interpreted</span><strong>Professional judgment</strong><p>Beespoke's practical conclusion, clearly separated from guarantees or universal facts.</p></div></div><p class="tool-note">If a material factual claim lacks enough context to classify, it should be corrected or clarified.</p></section>`;
+    return `<section class="original-tool evidence-method" id="claim-label"><div class="tool-heading"><span>Reader verification tool</span><h2>How to classify a claim on this site</h2><p>Use the label that best matches the evidence shown beside the assertion.</p></div><div class="evidence-grid"><div><span>Observed</span><strong>Firsthand but bounded</strong><p>A real Beespoke campaign observation with client and sample limitations stated.</p></div><div><span>Sourced</span><strong>Externally verifiable</strong><p>A dated official, primary or provider-published source linked for inspection.</p></div><div><span>Interpreted</span><strong>Professional judgment</strong><p>Beespoke's practical conclusion, clearly separated from guarantees or universal facts.</p></div></div><p class="tool-note">If a material factual claim lacks enough context to classify, it should be corrected or clarified.</p></section>`;
   }
   if (page.path.startsWith("/industries/")) {
     const cyber = page.path.includes("cybersecurity");
@@ -149,6 +156,8 @@ function renderCompetitiveDepth(page) {
 
 function renderPage(page) {
   const url = `${origin}${page.path}`;
+  const pageUpdated = updatedFor(page.path);
+  const modifiedDateTime = modifiedDateTimeFor(page.path);
   const alternates = ["es", "ca", "fr"].map((locale) => `<link rel="alternate" hreflang="${locale}" href="${origin}/${locale}${page.path}">`).join("");
   const isProfilePage = page.path.startsWith("/about/");
   const pageSchema = isProfilePage
@@ -253,7 +262,7 @@ function renderPage(page) {
 <a class="skip-link" href="#main-content">Skip to main content</a>
 <header class="site-header"><nav><a class="brand" href="/"><span>B</span>Beespoke Outbound</a><div><a href="/services/outbound-lead-generation/">Services</a><a href="/case-studies/cybersecurity-linkedin-lead-generation/">Case studies</a><a href="/pricing/">Pricing</a><a class="nav-cta" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></div></nav><div class="language-switcher"><button type="button" aria-expanded="false" aria-label="Language">EN</button><div><a href="${page.path}" lang="en" aria-current="page">English</a><a href="/es${page.path}" lang="es">Español</a><a href="/ca${page.path}" lang="ca">Català</a><a href="/fr${page.path}" lang="fr">Français</a></div></div><div class="reading-progress" aria-hidden="true"><span></span></div></header>
 <main id="main-content"><div class="breadcrumbs"><a href="/">Home</a><span>/</span><span>${escapeHtml(page.eyebrow)}</span></div>
-<header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="/pricing/">See transparent pricing</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated July 24, 2026</p></header>
+<header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="/pricing/">See transparent pricing</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated July ${pageUpdated.endsWith("-27") ? "27" : "24"}, 2026</p></header>
 <details class="mobile-toc"><summary><span><small>On this page</small><strong class="current-section">${escapeHtml(page.sections[0].heading)}</strong></span><span class="toc-action">Sections</span></summary><nav aria-label="Page sections">${toc}</nav></details>
 <div class="article-grid"><aside class="toc"><div class="toc-label"><span>Article guide</span><strong>On this page</strong></div>${toc}<div class="toc-progress"><span></span></div></aside><article>${page.sections.map((section, index) => `${renderSection(section)}${index === 0 ? renderOriginalTool(page) : ""}${index === 1 ? renderInlineCta(page, "middle") : index === 3 ? renderInlineCta(page, "late") : ""}`).join("")}${renderCompetitiveDepth(page)}${renderSources(page)}</article></div>
 <section class="related"><p class="eyebrow">Continue researching</p><h2>Related Beespoke resources</h2><div class="related-grid">${related}</div></section>
@@ -269,10 +278,10 @@ for (const page of pages) {
 }
 
 const sitemapEntries = [
-  { path: "/", updated },
-  ...["es", "ca", "fr"].map((locale) => ({ path: `/${locale}/`, updated })),
-  ...pages.map((page) => ({ path: page.path, updated })),
-  ...["es", "ca", "fr"].flatMap((locale) => pages.map((page) => ({ path: `/${locale}${page.path}`, updated })))
+  { path: "/", updated: defaultUpdated },
+  ...["es", "ca", "fr"].map((locale) => ({ path: `/${locale}/`, updated: defaultUpdated })),
+  ...pages.map((page) => ({ path: page.path, updated: updatedFor(page.path) })),
+  ...["es", "ca", "fr"].flatMap((locale) => pages.map((page) => ({ path: `/${locale}${page.path}`, updated: updatedFor(page.path) })))
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapEntries.map((entry) => `  <url><loc>${origin}${entry.path}</loc><lastmod>${entry.updated}</lastmod></url>`).join("\n")}\n</urlset>\n`;
 fs.writeFileSync(path.join(root, "sitemap.xml"), sitemap);
