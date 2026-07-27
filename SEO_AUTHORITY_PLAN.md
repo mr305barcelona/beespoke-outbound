@@ -4,6 +4,17 @@
 
 Earn relevant editorial mentions that strengthen the cost/pricing and cybersecurity clusters. Links must be earned through useful evidence, expert contribution, or a genuine commercial relationship—not purchased placements or bulk directory submissions.
 
+## Current authority acquisition status
+
+Status checked 27 July 2026:
+
+- **GoodFirms:** public company profile active, including a website citation.
+- **TechBehemoths:** complete and in manual review; do not edit or resubmit while approval is pending.
+- **Agency Spotter:** complete and in manual review. The profile includes the canonical Barcelona location, domain email, phone, Direct Marketing category, About copy, featured image, and a direct website link. It is not searchable until approved.
+- **Clutch:** account/profile synchronization is resolved. The Beespoke profile is recognized in the vendor dashboard and is under review with status `Unpublished`; do not create another profile.
+- **Google Analytics 4:** existing Beespoke property recovered under the non-Niagara Google account. Property ID `536564464`, stream ID `14827158346`, and measurement ID `G-KDXYW9W2BB` match the live website. Google reports active data collection.
+- **Google Search Console:** the Links report still shows zero external links while Google processes the new citations. Treat this as reporting lag rather than evidence that the live GoodFirms link is absent.
+
 ## Assets to promote
 
 1. **Outbound agency cost and break-even calculator**
@@ -64,4 +75,3 @@ Track monthly:
 - Impressions and average position for cost, pricing, SDR, and cybersecurity queries
 - Non-brand clicks and assisted Calendly conversions
 - Pages moving into positions 4–20, which are the first refresh and link-building priorities
-
