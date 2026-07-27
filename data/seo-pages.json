@@ -61,7 +61,7 @@
       {"heading":"How the held-meeting fee works","body":["On the hybrid plan, the $100 component applies when a prospect who matches the written ICP attends the meeting. A calendar booking that cancels or does not attend is not a held meeting.","Before launch, both sides agree on company fit, relevant roles, geography, exclusions, and any additional qualification conditions. This avoids debating meeting quality after the campaign is running."],"callout":"Performance pricing is only aligned when “qualified” and “held” are defined in writing."},
       {"heading":"Choose based on operating preference","body":["Choose Flat Monthly when budgeting simplicity matters and you want a steady campaign relationship. Choose Hybrid Performance when you value a lower base and want part of the fee connected to attended ICP meetings.","Neither model removes market risk. Results still depend on the strength of the offer, accessible market size, buyer timing, proof, and the team's ability to run and progress a good sales conversation."]}
     ],
-    "related":["/guides/outbound-lead-generation-cost/","/services/b2b-appointment-setting/","/services/outbound-lead-generation/"]
+    "related":["/research/2026-b2b-outbound-pricing-benchmark/","/guides/outbound-lead-generation-cost/","/services/outbound-lead-generation/"]
   },
   {
     "path": "/guides/outbound-lead-generation-cost/",
@@ -76,9 +76,9 @@
       {"heading":"Calculate fully loaded cost","body":["Compare an agency fee with the full alternative, not only an employee's salary. An internal program can include salary, employment costs, management time, recruiter fees, ramp time, data, Sales Navigator, sending infrastructure, CRM seats, copy support, and the cost of turnover.","For an agency, add the retainer, setup fee, software or data charged separately, internal sales time, and any per-meeting fees. Then compare held ICP meetings, accepted opportunities, and pipeline—not send volume."],"callout":"A cheap meeting is expensive when the company cannot buy. An expensive meeting can be economical when the buyer, need, and contract value align."},
       {"heading":"Is a $10,000 monthly outbound agency worth it?","body":["A $10,000 monthly outbound agency can be worth it when the fee buys a genuinely dedicated multichannel team, the addressable market supports sustained activity, and one or two realistic customer wins can repay several months of acquisition cost. The price alone does not establish value.","It is usually poor economics when the offer is unproven, customer value is low, the target market is small, internal sales follow-up is weak, or the provider cannot connect its fee to held ICP meetings and accepted opportunities."],"table":{"caption":"$10,000 monthly outbound retainer decision test","headers":["Question","More likely worth it","More likely premature"],"rows":[["Customer economics","One realistic win covers several months","Many wins required just to cover fees"],["Operating scope","Dedicated people, channels, data and management","Mostly automated sending with unclear ownership"],["Market readiness","Proven offer and defined buying committee","ICP or positioning still changing weekly"],["Measurement","Held meetings, opportunities and pipeline","Reports stop at sends, opens or bookings"],["Sales capacity","Fast, credible discovery and follow-up","Leads wait or receive inconsistent follow-up"]]},"callout":"The responsible question is not “Is $10,000 expensive?” It is “What capability, evidence and expected gross profit does $10,000 buy?”"},
       {"heading":"Questions to ask before signing","items":["What exact work and software are included?","Is the fee based on booked meetings or attended meetings?","How is ICP fit defined and disputed?","Who owns the domains, data, copy, accounts, and campaign history?","Who handles replies, reschedules, and no-shows?","What happens during the first month before results stabilize?","Can the provider show relevant, verifiable evidence?"]},
-      {"heading":"Where Beespoke sits","body":["Beespoke's Flat Monthly plan is $1,500 per month. Its Hybrid Performance plan is $1,000 per month plus $100 for each qualified meeting held. Software is separate.","That price reflects a lean, founder-led LinkedIn service rather than a large outsourced call center or a dedicated full-time multichannel SDR pod. Companies needing high-volume cold calling or a large email infrastructure should compare providers built for that scope."],"links":[{"label":"Review Beespoke pricing","href":"/pricing/"}]}
+      {"heading":"Where Beespoke sits","body":["Beespoke's Flat Monthly plan is $1,500 per month. Its Hybrid Performance plan is $1,000 per month plus $100 for each qualified meeting held. Software is separate.","That price reflects a lean, founder-led LinkedIn service rather than a large outsourced call center or a dedicated full-time multichannel SDR pod. Companies needing high-volume cold calling or a large email infrastructure should compare providers built for that scope."],"links":[{"label":"Compare 40 public outbound offers","href":"/research/2026-b2b-outbound-pricing-benchmark/"},{"label":"Review Beespoke pricing","href":"/pricing/"}]}
     ],
-    "related":["/pricing/","/services/outbound-lead-generation/","/guides/outsourced-sdr-vs-lead-generation-agency/"]
+    "related":["/research/2026-b2b-outbound-pricing-benchmark/","/pricing/","/guides/outsourced-sdr-vs-lead-generation-agency/"]
   },
   {
     "path": "/case-studies/cybersecurity-linkedin-lead-generation/",
@@ -303,5 +303,57 @@
       {"heading":"Corrections, updates and commercial interest","body":["Beespoke sells outbound lead-generation services, so our content has a commercial interest. Pages should still identify when Beespoke is not the right provider or when another operating model is more appropriate.","Material corrections are incorporated into the source and localized pages. Time-sensitive sources are rechecked before year labels or pricing claims are updated."],"links":[{"label":"Meet the founder responsible for these standards","href":"/about/noah-levy/"},{"label":"Review Beespoke’s service scope","href":"/services/outbound-lead-generation/"}]}
     ],
     "related":["/about/noah-levy/","/guides/outbound-lead-generation-cost/","/services/outbound-lead-generation/"]
+  },
+  {
+    "path":"/research/2026-b2b-outbound-pricing-benchmark/",
+    "title":"2026 B2B Outbound Pricing Benchmark: 40 Public Offers",
+    "description":"Compare 40 provider-published B2B outbound, appointment-setting and outsourced-SDR price points with scope, billing unit, output definition and source.",
+    "eyebrow":"Original research · Checked July 24, 2026",
+    "h1":"2026 B2B outbound pricing benchmark",
+    "answer":"This benchmark records 40 publicly displayed price points from 12 outbound providers in USD, EUR and GBP. Prices run from $150 per month for one AI email account to a published $12,000–$15,000 monthly managed LinkedIn tier—but those offers are not equivalent. The table preserves the billing unit, service model, channels, output definition, commitment and source so buyers can compare scope before comparing price.",
+    "sections":[
+      {
+        "heading":"What the published prices actually show",
+        "body":["Public pricing spans software-like account capacity, shared appointment setting, managed single-channel campaigns, multilingual SDR capacity, multichannel programs and full team structures. Treating all of them as one agency average would create a misleading number.","The useful finding is not a universal market price. It is that buyers must normalize delivery model, included infrastructure, output definition, variable fees and commitment before a retainer becomes comparable."],
+        "table":{
+          "caption":"Headline observations from the July 2026 dataset",
+          "headers":["Observation","What the data contains","How to interpret it"],
+          "rows":[
+            ["40 price points","12 providers across USD, EUR and GBP","A disclosed-offer sample, not a census of the industry"],
+            ["$150/month low point","One AI-assisted email account","Software-like capacity, not a managed SDR team"],
+            ["$12,000–$15,000/month high range","Six to eight dedicated LinkedIn profiles and senior support","Expansion scope, not an entry-level campaign"],
+            ["Three billing patterns","Fixed monthly, hybrid outcome fees and one-time delivery","Headline retainers alone do not show total cost"],
+            ["Multiple output definitions","Capacity, leads, booked meetings, held meetings and team delivery","Do not combine them into one cost-per-meeting claim"]
+          ]
+        }
+      },
+      {
+        "heading":"Which offers are genuinely comparable",
+        "body":["Start by grouping offers into software or AI-assisted capacity, managed campaign services, outsourced SDR capacity, hybrid performance models and system-build or training engagements. Compare within a group before comparing across groups.","Even inside one group, identify the channels, sender or seat count, list and data work, technical infrastructure, reply handling, qualification, meeting attendance rule and client management required."],
+        "callout":"A $500 platform subscription and a $5,000 human-managed campaign may both produce meetings, but they transfer very different work, risk and accountability."
+      },
+      {
+        "heading":"Build the fully loaded buyer cost",
+        "body":["Add the monthly fee, amortized setup, software, data, sending infrastructure, variable outcome fees and the client's management time. Then calculate cost per qualified meeting held and per opportunity accepted by sales over a meaningful learning period.","If a provider reports leads or bookings, do not silently treat them as attended ICP meetings. Keep booked, held, qualified and accepted-opportunity events separate."],
+        "items":["Base retainer or seat fee","Setup fee divided across the planned term","Per-lead or per-meeting charges","Required software, data and profile costs","Internal review, reply and sales-management time","Replacement, ramp and cancellation exposure"]
+      },
+      {
+        "heading":"Qualification changes the economics",
+        "body":["A low headline price is expensive when meetings miss the written company, role, geography, interest or attendance rules. A higher price can be rational when it replaces substantial research, infrastructure and management—provided the resulting conversations can progress.","Before launch, define the event that triggers billing and the event that sales accepts. Those definitions should appear in the contract and reporting, not remain implied in sales copy."],
+        "links":[{"label":"Use the appointment-setting quote normalizer","href":"/guides/appointment-setting-pricing/"},{"label":"Audit pay-per-meeting contract definitions","href":"/guides/pay-per-meeting-lead-generation/"}]
+      },
+      {
+        "heading":"Methodology and limitations",
+        "body":["Beespoke collected prices displayed on provider-controlled web pages and checked each source on July 24, 2026. The dataset records the provider's wording for the price and then classifies billing unit, model, channels, output and commitment for comparison.","No currency conversion is applied, because exchange rates change and false precision would weaken the comparison. Provider performance claims are recorded only as scope or output descriptions; they are not independently validated. Custom-price offers without a numeric public price are excluded."],
+        "items":["Primary provider pages only","One row per disclosed offer or channel-specific price","Native currency preserved","Setup and variable fees retained in the price field","Beespoke rows clearly marked as publisher offers","No claim that the sample represents every provider or final negotiated price"],
+        "callout":"Disclosure: Beespoke publishes this research and sells outbound services. Its two offers are included for completeness and are identified in every dataset view."
+      },
+      {
+        "heading":"Updates, reuse and corrections",
+        "body":["Version 1.0 was published from sources checked on July 24, 2026. Material pricing changes, broken sources and classification corrections will be added to the update record rather than silently reframed as historical fact.","You may cite or embed the chart with a visible link to this page. For a correction, include the provider, offer, source URL and the exact field that changed."],
+        "links":[{"label":"Email a pricing correction","href":"mailto:noah@outbound-lead-generation.com?subject=2026%20pricing%20benchmark%20correction"},{"label":"Review Beespoke’s editorial policy","href":"/editorial-policy/"}]
+      }
+    ],
+    "related":["/guides/outbound-lead-generation-cost/","/guides/appointment-setting-pricing/","/pricing/"]
   }
 ]

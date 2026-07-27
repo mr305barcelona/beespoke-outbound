@@ -3,9 +3,10 @@ const path = require("path");
 
 const root = path.resolve(__dirname, "..");
 const pages = JSON.parse(fs.readFileSync(path.join(root, "data", "seo-pages.json"), "utf8"));
+const pricingBenchmark = JSON.parse(fs.readFileSync(path.join(root, "data", "outbound-pricing-benchmark-2026.json"), "utf8"));
 const origin = "https://outbound-lead-generation.com";
-const updated = "2026-07-20";
-const modifiedDateTime = "2026-07-20T09:00:00+02:00";
+const updated = "2026-07-24";
+const modifiedDateTime = "2026-07-24T09:00:00+02:00";
 
 const escapeHtml = (value = "") => String(value).replace(/[&<>\"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[char]));
 
@@ -42,6 +43,11 @@ function renderInlineCta(page, position) {
 }
 
 function renderOriginalTool(page) {
+  if (page.path === "/research/2026-b2b-outbound-pricing-benchmark/") {
+    const rows = pricingBenchmark.offers.map((offer) => `<tr${offer.publisherOffer ? ' class="publisher-row"' : ""}><td><strong>${escapeHtml(offer.provider)}</strong><span>${escapeHtml(offer.offer)}</span>${offer.publisherOffer ? "<small>Publisher offer</small>" : ""}</td><td><strong>${escapeHtml(offer.price)}</strong><span>${escapeHtml(offer.billingUnit)}</span></td><td>${escapeHtml(offer.model)}</td><td>${escapeHtml(offer.channels)}</td><td>${escapeHtml(offer.output)}<span>${escapeHtml(offer.commitment)}</span></td><td><a href="${escapeHtml(offer.source)}" rel="nofollow">Source ↗</a></td></tr>`).join("");
+    const embedCode = `&lt;a href="${origin}${page.path}"&gt;&lt;img src="${origin}/assets/research/2026-outbound-pricing-benchmark-chart.svg" alt="2026 B2B outbound public pricing comparison by Beespoke"&gt;&lt;/a&gt;`;
+    return `<section class="original-tool benchmark-tool" id="public-price-dataset"><div class="tool-heading"><span>Original provider-level dataset</span><h2>40 public offers, with the comparison fields kept intact</h2><p>Checked July 24, 2026. Use the filters in your browser search or scan by provider, billing model and output definition.</p></div><div class="benchmark-stats"><div><strong>40</strong><span>Public price points</span></div><div><strong>12</strong><span>Provider websites</span></div><div><strong>3</strong><span>Native currencies</span></div><div><strong>0</strong><span>Currency conversions</span></div></div><div class="benchmark-actions"><a class="button" href="/data/outbound-pricing-benchmark-2026.json" download>Download source data (JSON)</a><a class="secondary" href="/assets/research/2026-outbound-pricing-benchmark-chart.svg" download>Download chart (SVG)</a></div><p class="table-scroll-hint"><span aria-hidden="true">↔</span> Swipe or scroll sideways to view every comparison field.</p><div class="table-wrap benchmark-table" tabindex="0" aria-label="Scrollable outbound pricing comparison table"><table><caption>Provider-published B2B outbound pricing checked July 24, 2026</caption><thead><tr><th>Provider and offer</th><th>Public price</th><th>Delivery model</th><th>Channels</th><th>Published output and commitment</th><th>Evidence</th></tr></thead><tbody>${rows}</tbody></table></div><figure class="research-chart"><img src="/assets/research/2026-outbound-pricing-benchmark-chart.svg" alt="USD monthly public prices grouped by software-like capacity, managed campaign and outsourced SDR scope"><figcaption>Selected fixed monthly USD prices only. Hybrid, one-time, EUR and GBP rows remain in the table but are excluded from this chart.</figcaption></figure><div class="embed-panel"><label for="benchmark-embed">Embed this chart with attribution</label><textarea id="benchmark-embed" readonly rows="4">${embedCode}</textarea><p>Keep the image linked to this page so readers can inspect the source table, methodology and retrieval date.</p></div><div class="download-grid"><a href="/downloads/beespoke-icp-scorecard/" class="download-card"><span>Buyer planning asset</span><strong>ICP scorecard</strong><p>Score market fit, evidence, accessibility and campaign readiness before scaling outreach.</p></a><a href="/downloads/beespoke-outbound-campaign-brief/" class="download-card"><span>Buyer planning asset</span><strong>Outbound campaign brief</strong><p>Define audience, proof, messages, qualification, responsibilities and measurement in one printable brief.</p></a></div></section>`;
+  }
   if (page.path === "/guides/appointment-setting-pricing/") {
     return `<section class="original-tool evidence-method" id="quote-normalizer"><div class="tool-heading"><span>Original quote-normalization tool</span><h2>Turn three different quotes into one comparable unit</h2><p>Ask every provider for these four numbers before comparing price.</p></div><div class="evidence-grid"><div><span>1 · Total cost</span><strong>All monthly fees</strong><p>Retainer, setup allocation, data, software, performance fees and internal management.</p></div><div><span>2 · Attendance</span><strong>Qualified meetings held</strong><p>Exclude cancellations, no-shows, duplicates and meetings that fail written criteria.</p></div><div><span>3 · Progression</span><strong>Accepted opportunities</strong><p>Record which held meetings sales accepts for active progression and why.</p></div></div><p class="tool-note">Comparable cost per held meeting = total monthly cost ÷ qualified meetings held. Comparable cost per opportunity = total monthly cost ÷ accepted opportunities.</p></section>`;
   }
@@ -92,6 +98,10 @@ function renderOriginalTool(page) {
 }
 
 function renderSources(page) {
+  if (page.path === "/research/2026-b2b-outbound-pricing-benchmark/") {
+    const providers = [...new Map(pricingBenchmark.offers.map((offer) => [offer.provider, offer.source])).entries()];
+    return `<section class="sources" id="sources"><h2>Sources and methodology</h2><p>Every row comes from a provider-controlled page checked on July 24, 2026. Prices are shown in their native currency and retain setup, variable-fee and minimum-term details. The sample is descriptive, not an audited industry census.</p><ol>${providers.map(([provider, href]) => `<li><a href="${escapeHtml(href)}"><span>${escapeHtml(provider)}</span> published pricing</a></li>`).join("")}</ol></section>`;
+  }
   const sourceMap = {
     "/guides/outbound-lead-generation-cost/": [
       ["Leadium appointment-setting pricing guide (2026)", "https://www.leadium.com/blog/appointment-setting-services"],
@@ -125,6 +135,7 @@ function renderSources(page) {
 }
 
 function renderCompetitiveDepth(page) {
+  if (page.path === "/research/2026-b2b-outbound-pricing-benchmark/") return `<section class="competitive-depth" id="buyer-decision-guide"><h2>Use the benchmark without misreading it</h2><div class="table-wrap"><table><caption>Normalization checks before comparing two offers</caption><thead><tr><th>Field</th><th>Comparable only when</th><th>Common mistake</th></tr></thead><tbody><tr><td>Delivery model</td><td>Both transfer a similar amount of execution and management</td><td>Comparing software with a human-managed team</td></tr><tr><td>Billing event</td><td>Lead, booked meeting, held meeting and accepted opportunity are defined the same way</td><td>Calling every positive reply a meeting</td></tr><tr><td>Channel scope</td><td>Sender count, channels and infrastructure are aligned</td><td>Ignoring domains, data, profiles or dialer costs</td></tr><tr><td>Commitment</td><td>Setup and minimum term are included in the evaluation period</td><td>Comparing month one against a mature monthly run rate</td></tr><tr><td>Client work</td><td>Reply handling, sales follow-up and management burden are accounted for</td><td>Treating internal time as free</td></tr></tbody></table></div><h3>A defensible buying sequence</h3><ol><li>Shortlist offers by delivery model and channel fit.</li><li>Normalize fixed, setup, variable and required third-party costs.</li><li>Write the qualified-and-held meeting definition.</li><li>Model pessimistic, expected and optimistic opportunity progression.</li><li>Choose the smallest test that can produce a credible learning signal.</li></ol></section>`;
   if (page.path.startsWith("/industries/")) return `<section class="competitive-depth" id="buyer-decision-guide"><h2>Questions to use when comparing specialist agencies</h2><div class="table-wrap"><table><caption>Industry lead-generation provider check</caption><thead><tr><th>Question</th><th>Strong evidence</th><th>Warning sign</th></tr></thead><tbody><tr><td>How will you segment this market?</td><td>Account context, problem and buying-group logic</td><td>Industry label plus job-title list</td></tr><tr><td>What proof supports the approach?</td><td>Relevant, bounded evidence with limitations</td><td>Unverifiable logos or guaranteed outcomes</td></tr><tr><td>How are technical replies handled?</td><td>Named routing and response process</td><td>Generic scripts continue after objections</td></tr><tr><td>What counts as qualified?</td><td>Written company, role, interest and attendance rules</td><td>Every booking is billed or reported equally</td></tr><tr><td>When would you recommend another channel?</td><td>Clear non-fit conditions</td><td>One channel presented as universal</td></tr></tbody></table></div><h3>What Beespoke does differently</h3><p>Beespoke keeps strategy close to campaign replies, exposes channel limitations and tests a small defensible segment before expansion. That is a focused operating choice, not a claim to fit every industrial or cybersecurity sales motion.</p></section>`;
   if (page.path.includes("outsourced-sdr-vs")) return `<section class="competitive-depth" id="buyer-decision-guide"><h2>A procurement checklist for any model</h2><ul><li>Name the people who will perform and supervise the work.</li><li>Write the exact channels, markets, sender profiles and systems included.</li><li>Define booked, held, qualified and accepted-opportunity metrics separately.</li><li>Confirm ownership of data, copy, accounts, domains and campaign history.</li><li>Model ramp time, management time and replacement risk.</li><li>Agree on the evidence that triggers expansion, revision or cancellation.</li></ul><p>A sound provider should make the operating tradeoffs clearer even when that comparison points away from its own service.</p></section>`;
   if (page.path === "/services/outbound-lead-generation/") return `<section class="competitive-depth" id="buyer-decision-guide"><h2>How to compare outbound agencies</h2><p>The right provider depends on the sales motion, not the largest activity promise. Use the operating differences below before comparing retainers.</p><div class="table-wrap"><table><caption>Outbound agency evaluation framework</caption><thead><tr><th>Question</th><th>Strong answer</th><th>Warning sign</th></tr></thead><tbody><tr><td>Which channels are actually included?</td><td>Exact current scope, owners and third-party costs</td><td>“Omnichannel” without deliverables</td></tr><tr><td>How is a qualified meeting defined?</td><td>Written company, role, interest and attendance rules</td><td>Any calendar booking counts</td></tr><tr><td>Who controls strategy and replies?</td><td>Named senior operator close to campaign evidence</td><td>Strategy disappears after onboarding</td></tr><tr><td>What does the client own?</td><td>Clear ownership of data, copy, accounts and history</td><td>Campaign assets vanish at cancellation</td></tr><tr><td>How is performance reviewed?</td><td>Held meetings, fit, opportunity progression and learning</td><td>Reports stop at sends, opens or connections</td></tr></tbody></table></div><h3>When Beespoke is not the right choice</h3><p>Beespoke is currently centered on focused LinkedIn-led execution. A company needing a large cold-calling floor, high-volume email infrastructure, 24-hour multilingual coverage, or a dedicated full-time SDR pod should choose a provider built for that scope.</p></section>`;
@@ -167,10 +178,32 @@ function renderPage(page) {
         author: { "@type": "Person", name: "Noah Levy", url: `${origin}/about/noah-levy/` },
         provider: { "@type": "ProfessionalService", name: "Beespoke Outbound Lead Generation", url: `${origin}/` }
       };
+  const datasetSchema = page.path === "/research/2026-b2b-outbound-pricing-benchmark/"
+    ? [{
+        "@type": "Dataset",
+        "@id": `${url}#dataset`,
+        name: "2026 B2B Outbound Pricing Benchmark",
+        description: "Forty provider-published B2B outbound pricing offers with native currency, billing unit, delivery model, channels, output definition, commitment and source.",
+        url,
+        creator: { "@type": "Organization", name: "Beespoke Outbound Lead Generation", url: `${origin}/` },
+        datePublished: "2026-07-24",
+        dateModified: modifiedDateTime,
+        temporalCoverage: "2026",
+        spatialCoverage: "International",
+        measurementTechnique: "Manual collection from provider-controlled public pricing pages",
+        variableMeasured: ["Public price", "Billing unit", "Delivery model", "Channels", "Published output", "Commitment"],
+        distribution: [{
+          "@type": "DataDownload",
+          encodingFormat: "application/json",
+          contentUrl: `${origin}/data/outbound-pricing-benchmark-2026.json`
+        }]
+      }]
+    : [];
   const schema = {
     "@context": "https://schema.org",
     "@graph": [
       pageSchema,
+      ...datasetSchema,
       { "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: `${origin}/` }, { "@type": "ListItem", position: 2, name: page.h1, item: url }] }
     ]
   };
@@ -200,23 +233,27 @@ function renderPage(page) {
                           ? ["outbound-fit-score", "Outbound fit check"]
                           : page.path.startsWith("/case-studies/")
                             ? ["evidence-method", "Evidence standard"]
-                            : ["working-principles", "Working principles"];
-  const hasSources = ["/guides/outbound-lead-generation-cost/", "/services/linkedin-lead-generation/", "/guides/appointment-setting-pricing/", "/guides/pay-per-meeting-lead-generation/", "/guides/outsourced-sdr-cost/"].includes(page.path);
+                            : page.path === "/research/2026-b2b-outbound-pricing-benchmark/"
+                              ? ["public-price-dataset", "Public price dataset"]
+                              : ["working-principles", "Working principles"];
+  const hasSources = ["/guides/outbound-lead-generation-cost/", "/services/linkedin-lead-generation/", "/guides/appointment-setting-pricing/", "/guides/pay-per-meeting-lead-generation/", "/guides/outsourced-sdr-cost/", "/research/2026-b2b-outbound-pricing-benchmark/"].includes(page.path);
   const toc = `${page.sections.slice(0, 1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#${toolNav[0]}">${toolNav[1]}</a>${page.sections.slice(1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#buyer-decision-guide">Buyer decision guide</a>${hasSources ? '<a href="#sources">Sources and methodology</a>' : ""}`;
   const related = page.related.map((link) => `<a class="related-card" href="${escapeHtml(link)}"><span>Related</span><strong>${escapeHtml(labelFor(link))}</strong></a>`).join("");
+  const socialImage = page.path === "/research/2026-b2b-outbound-pricing-benchmark/" ? `${origin}/assets/social/2026-pricing-benchmark-og.png` : `${origin}/assets/social/beespoke-og.png`;
+  const socialAlt = page.path === "/research/2026-b2b-outbound-pricing-benchmark/" ? "2026 B2B outbound pricing benchmark by Beespoke" : "Beespoke Outbound Lead Generation";
   return `<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${escapeHtml(page.title)}</title><meta name="description" content="${escapeHtml(page.description)}"><meta name="robots" content="index,follow,max-image-preview:large">
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='18' y1='8' x2='110' y2='120' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FFD86A'/%3E%3Cstop offset='1' stop-color='%23E29A17'/%3E%3C/linearGradient%3E%3Cfilter id='s' x='-20%25' y='-20%25' width='140%25' height='140%25'%3E%3CfeDropShadow dx='0' dy='10' stdDeviation='10' flood-color='%23F0B429' flood-opacity='.25'/%3E%3C/filter%3E%3C/defs%3E%3Crect x='18' y='18' width='92' height='92' rx='28' fill='url(%23g)' filter='url(%23s)'/%3E%3Ctext x='64' y='78' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='48' font-weight='900' fill='%232B1B00'%3EB%3C/text%3E%3C/svg%3E"><link rel="canonical" href="${url}"><link rel="alternate" hreflang="en" href="${url}">${alternates}<link rel="alternate" hreflang="x-default" href="${url}"><link rel="stylesheet" href="/seo.css">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='18' y1='8' x2='110' y2='120' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FFD86A'/%3E%3Cstop offset='1' stop-color='%23E29A17'/%3E%3C/linearGradient%3E%3Cfilter id='s' x='-20%25' y='-20%25' width='140%25' height='140%25'%3E%3CfeDropShadow dx='0' dy='10' stdDeviation='10' flood-color='%23F0B429' flood-opacity='.25'/%3E%3C/filter%3E%3C/defs%3E%3Crect x='18' y='18' width='92' height='92' rx='28' fill='url(%23g)' filter='url(%23s)'/%3E%3Ctext x='64' y='78' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='48' font-weight='900' fill='%232B1B00'%3EB%3C/text%3E%3C/svg%3E"><link rel="canonical" href="${url}"><link rel="alternate" hreflang="en" href="${url}">${alternates}<link rel="alternate" hreflang="x-default" href="${url}"><link rel="stylesheet" href="/seo.css?v=20260727">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KDXYW9W2BB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KDXYW9W2BB');</script><script src="/seo.js" defer></script>
-<meta property="og:type" content="article"><meta property="og:title" content="${escapeHtml(page.title)}"><meta property="og:description" content="${escapeHtml(page.description)}"><meta property="og:url" content="${url}"><meta property="og:site_name" content="Beespoke Outbound Lead Generation">
-<meta name="twitter:card" content="summary"><script type="application/ld+json">${JSON.stringify(schema).replace(/</g, "\\u003c")}</script>
+<meta property="og:type" content="article"><meta property="og:title" content="${escapeHtml(page.title)}"><meta property="og:description" content="${escapeHtml(page.description)}"><meta property="og:url" content="${url}"><meta property="og:site_name" content="Beespoke Outbound Lead Generation"><meta property="og:image" content="${socialImage}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="${escapeHtml(socialAlt)}">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${escapeHtml(page.title)}"><meta name="twitter:description" content="${escapeHtml(page.description)}"><meta name="twitter:image" content="${socialImage}"><meta name="twitter:image:alt" content="${escapeHtml(socialAlt)}"><script type="application/ld+json">${JSON.stringify(schema).replace(/</g, "\\u003c")}</script>
 </head><body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
 <header class="site-header"><nav><a class="brand" href="/"><span>B</span>Beespoke Outbound</a><div><a href="/services/outbound-lead-generation/">Services</a><a href="/case-studies/cybersecurity-linkedin-lead-generation/">Case studies</a><a href="/pricing/">Pricing</a><a class="nav-cta" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></div></nav><div class="language-switcher"><button type="button" aria-expanded="false" aria-label="Language">EN</button><div><a href="${page.path}" lang="en" aria-current="page">English</a><a href="/es${page.path}" lang="es">Español</a><a href="/ca${page.path}" lang="ca">Català</a><a href="/fr${page.path}" lang="fr">Français</a></div></div><div class="reading-progress" aria-hidden="true"><span></span></div></header>
 <main id="main-content"><div class="breadcrumbs"><a href="/">Home</a><span>/</span><span>${escapeHtml(page.eyebrow)}</span></div>
-<header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="/pricing/">See transparent pricing</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated July 20, 2026</p></header>
+<header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="/pricing/">See transparent pricing</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated July 24, 2026</p></header>
 <details class="mobile-toc"><summary><span><small>On this page</small><strong class="current-section">${escapeHtml(page.sections[0].heading)}</strong></span><span class="toc-action">Sections</span></summary><nav aria-label="Page sections">${toc}</nav></details>
 <div class="article-grid"><aside class="toc"><div class="toc-label"><span>Article guide</span><strong>On this page</strong></div>${toc}<div class="toc-progress"><span></span></div></aside><article>${page.sections.map((section, index) => `${renderSection(section)}${index === 0 ? renderOriginalTool(page) : ""}${index === 1 ? renderInlineCta(page, "middle") : index === 3 ? renderInlineCta(page, "late") : ""}`).join("")}${renderCompetitiveDepth(page)}${renderSources(page)}</article></div>
 <section class="related"><p class="eyebrow">Continue researching</p><h2>Related Beespoke resources</h2><div class="related-grid">${related}</div></section>
@@ -232,7 +269,7 @@ for (const page of pages) {
 }
 
 const sitemapEntries = [
-  { path: "/", updated: "2026-07-16" },
+  { path: "/", updated },
   ...["es", "ca", "fr"].map((locale) => ({ path: `/${locale}/`, updated })),
   ...pages.map((page) => ({ path: page.path, updated })),
   ...["es", "ca", "fr"].flatMap((locale) => pages.map((page) => ({ path: `/${locale}${page.path}`, updated })))

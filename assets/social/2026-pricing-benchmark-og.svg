@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">2026 B2B Outbound Pricing Benchmark</title>
+  <desc id="desc">Beespoke research social preview showing 40 public offers across 12 provider websites.</desc>
+  <defs>
+    <linearGradient id="bg" x1="68" y1="34" x2="1125" y2="605" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D192A"/>
+      <stop offset=".6" stop-color="#143D59"/>
+      <stop offset="1" stop-color="#235F63"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#F0B429"/>
+      <stop offset="1" stop-color="#FFD86A"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".26"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" rx="40" fill="url(#bg)"/>
+  <circle cx="1080" cy="82" r="280" fill="#F0B429" opacity=".1"/>
+  <g transform="translate(78 62)">
+    <rect width="60" height="60" rx="20" fill="#F0B429" filter="url(#shadow)"/>
+    <text x="30" y="41" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="900" fill="#2B1B00">B</text>
+    <text x="78" y="25" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#FFFDF8">BEESPOKE RESEARCH</text>
+    <text x="78" y="49" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#BBD0D6">CHECKED JULY 24, 2026</text>
+  </g>
+  <g transform="translate(78 190)">
+    <text font-family="Arial, Helvetica, sans-serif" font-size="63" font-weight="800" letter-spacing="-3.2" fill="#FFFDF8">
+      <tspan x="0" y="0">2026 B2B outbound</tspan>
+      <tspan x="0" y="72">pricing benchmark</tspan>
+    </text>
+    <text x="2" y="124" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#D7E3E7">Public prices with model, channel, output, commitment and row-level source.</text>
+  </g>
+  <g transform="translate(78 442)">
+    <g>
+      <rect width="252" height="100" rx="20" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".12"/>
+      <text x="22" y="45" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="900" fill="#FFD86A">40</text>
+      <text x="22" y="75" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFDF8">public price points</text>
+    </g>
+    <g transform="translate(270)">
+      <rect width="252" height="100" rx="20" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".12"/>
+      <text x="22" y="45" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="900" fill="#FFD86A">12</text>
+      <text x="22" y="75" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFDF8">provider websites</text>
+    </g>
+    <g transform="translate(540)">
+      <rect width="252" height="100" rx="20" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".12"/>
+      <text x="22" y="45" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="900" fill="#FFD86A">3</text>
+      <text x="22" y="75" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#FFFDF8">native currencies</text>
+    </g>
+    <g transform="translate(810)">
+      <rect width="232" height="100" rx="20" fill="url(#bar)" filter="url(#shadow)"/>
+      <text x="20" y="40" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#2B1B00">VIEW THE DATA</text>
+      <text x="20" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#573D08">outbound-lead-generation.com</text>
+    </g>
+  </g>
+</svg>

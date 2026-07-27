@@ -13,7 +13,7 @@ for (const page of pages) {
   const html = fs.readFileSync(file, "utf8");
   if (seenTitles.has(page.title)) failures.push(`${page.path}: duplicate title`);
   seenTitles.add(page.title);
-  for (const required of ["<h1>", "rel=\"icon\"", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "class=\"skip-link\"", "<main id=\"main-content\"", "src=\"/seo.js\""]) {
+  for (const required of ["<h1>", "rel=\"icon\"", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "class=\"skip-link\"", "<main id=\"main-content\"", "src=\"/seo.js\"", "property=\"og:image\"", "name=\"twitter:image\"", "summary_large_image"]) {
     if (!html.includes(required)) failures.push(`${page.path}: missing ${required}`);
   }
   const ids = new Set([...html.matchAll(/\sid="([^"]+)"/g)].map((match) => match[1]));
@@ -40,6 +40,14 @@ for (const page of pages) {
     if (!html.includes("Is a $10,000 monthly outbound agency worth it?")) failures.push(`${page.path}: missing live-query decision section`);
     if (!html.includes("$10,000 monthly outbound retainer decision test")) failures.push(`${page.path}: missing $10k decision table`);
     if (!page.title.toLowerCase().includes("how much do outbound agencies charge")) failures.push(`${page.path}: title does not address the leading query`);
+  }
+  if (page.path === "/research/2026-b2b-outbound-pricing-benchmark/") {
+    for (const required of ["40 public offers", "benchmark-table", "publisher-row", "Download source data (JSON)", "2026-outbound-pricing-benchmark-chart.svg", "/downloads/beespoke-icp-scorecard/", "/downloads/beespoke-outbound-campaign-brief/", "Swipe or scroll sideways", "tabindex=\"0\"", "Email a pricing correction"]) {
+      if (!html.includes(required)) failures.push(`${page.path}: missing research requirement ${required}`);
+    }
+    if ((html.match(/rel="nofollow">Source/g) || []).length !== 40) failures.push(`${page.path}: expected 40 row-level source links`);
+    const datasetNode = graph.find((node) => node["@type"] === "Dataset");
+    if (!datasetNode || datasetNode.distribution?.[0]?.encodingFormat !== "application/json") failures.push(`${page.path}: Dataset schema or JSON distribution missing`);
   }
 }
 

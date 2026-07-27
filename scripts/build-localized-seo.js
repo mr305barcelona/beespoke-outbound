@@ -4,6 +4,9 @@ const path = require("path");
 const root = path.join(__dirname, "..");
 const origin = "https://outbound-lead-generation.com";
 const pages = require(path.join(root, "data", "seo-pages.json"));
+const pricingBenchmark = require(path.join(root, "data", "outbound-pricing-benchmark-2026.json"));
+const protectedBenchmarkTerms = new Set([...pricingBenchmark.offers.flatMap((offer) => [offer.provider, offer.offer]), "Lead"]);
+const translationOverrides = require(path.join(root, "data", "seo-translation-overrides.json"));
 const locales = {
   es: { label: "Español", home: "Inicio" },
   ca: { label: "Català", home: "Inici" },
@@ -14,11 +17,12 @@ const escapeHtml = (value) => String(value).replace(/&/g, "&amp;").replace(/</g,
 const localizedPath = (locale, pathname) => `/${locale}${pathname === "/" ? "/" : pathname}`;
 
 function languageLinks(pagePath, active) {
+  const ariaLabel = { en: "Language", es: "Idioma", ca: "Idioma", fr: "Langue" }[active];
   const choices = [
     ["en", "English", pagePath],
     ...Object.entries(locales).map(([code, config]) => [code, config.label, localizedPath(code, pagePath)])
   ];
-  return `<div class="language-switcher"><button type="button" aria-expanded="false" aria-label="Language">${active.toUpperCase()}</button><div>${choices.map(([code, label, href]) => `<a href="${href}" lang="${code}"${code === active ? ' aria-current="page"' : ""}>${label}</a>`).join("")}</div></div>`;
+  return `<div class="language-switcher"><button type="button" aria-expanded="false" aria-label="${ariaLabel}">${active.toUpperCase()}</button><div>${choices.map(([code, label, href]) => `<a href="${href}" lang="${code}"${code === active ? ' aria-current="page"' : ""}>${label}</a>`).join("")}</div></div>`;
 }
 
 function hreflang(pagePath) {
@@ -34,26 +38,58 @@ function translateText(text, dictionary) {
   const trailing = text.match(/\s*$/)[0];
   const compact = text.replace(/\s+/g, " ").trim();
   if (!compact || !/[A-Za-z]/.test(compact)) return text;
+  if (protectedBenchmarkTerms.has(compact) || (compact.includes("outbound-lead-generation.com") && compact.includes("&lt;"))) return text;
   return `${leading}${dictionary[compact] || compact}${trailing}`;
 }
 
 function localizeInternalLinks(html, locale) {
   const known = new Set(pages.map((page) => page.path));
-  return html.replace(/href="(\/[^"#?]*)"/g, (full, href) => known.has(href) ? `href="${localizedPath(locale, href)}"` : full);
+  const localizedDownloads = new Set(["/downloads/beespoke-icp-scorecard/", "/downloads/beespoke-outbound-campaign-brief/"]);
+  return html.replace(/href="(\/[^"#?]*)"/g, (full, href) => known.has(href) || localizedDownloads.has(href) ? `href="${localizedPath(locale, href)}"` : full);
 }
 
 function localizeSchema(html, page, locale, dictionary) {
+  const datasetCopy = {
+    es: {
+      name: "Benchmark de precios outbound B2B 2026",
+      description: "Cuarenta ofertas de precios outbound B2B publicadas por proveedores, con moneda original, unidad de facturación, modelo de prestación, canales, definición del resultado, compromiso y fuente.",
+      measurementTechnique: "Recopilación manual a partir de páginas públicas de precios controladas por cada proveedor",
+      variableMeasured: ["Precio público", "Unidad de facturación", "Modelo de prestación", "Canales", "Resultado publicado", "Compromiso"],
+      spatialCoverage: "Internacional"
+    },
+    ca: {
+      name: "Benchmark de preus outbound B2B 2026",
+      description: "Quaranta ofertes de preus outbound B2B publicades per proveïdors, amb moneda original, unitat de facturació, model de prestació, canals, definició del resultat, compromís i font.",
+      measurementTechnique: "Recopilació manual a partir de pàgines públiques de preus controlades per cada proveïdor",
+      variableMeasured: ["Preu públic", "Unitat de facturació", "Model de prestació", "Canals", "Resultat publicat", "Compromís"],
+      spatialCoverage: "Internacional"
+    },
+    fr: {
+      name: "Benchmark 2026 des tarifs outbound B2B",
+      description: "Quarante offres tarifaires outbound B2B publiées par des prestataires, avec devise d’origine, unité de facturation, modèle de prestation, canaux, définition du résultat, engagement et source.",
+      measurementTechnique: "Collecte manuelle à partir des pages tarifaires publiques contrôlées par chaque prestataire",
+      variableMeasured: ["Tarif public", "Unité de facturation", "Modèle de prestation", "Canaux", "Résultat publié", "Engagement"],
+      spatialCoverage: "International"
+    }
+  }[locale];
   return html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/, (full, raw) => {
     const schema = JSON.parse(raw);
     const localizedUrl = `${origin}${localizedPath(locale, page.path)}`;
     for (const node of schema["@graph"] || []) {
       if (node.url) node.url = localizedUrl;
-      if (node["@id"]) node["@id"] = `${localizedUrl}#page`;
+      if (node["@id"]) {
+        const fragment = node["@id"].includes("#") ? node["@id"].split("#").pop() : "page";
+        node["@id"] = `${localizedUrl}#${fragment}`;
+      }
       if (node.name) node.name = dictionary[node.name] || node.name;
       if (node.description) node.description = dictionary[node.description] || node.description;
+      if (node["@type"] === "Dataset") Object.assign(node, datasetCopy);
       if (node.author?.url) node.author.url = `${origin}${localizedPath(locale, "/about/noah-levy/")}`;
       if (node.itemListElement) node.itemListElement.forEach((item) => {
-        if (item.position === 1) item.name = locales[locale].home;
+        if (item.position === 1) {
+          item.name = locales[locale].home;
+          item.item = `${origin}/${locale}/`;
+        }
         if (item.position === 2) { item.name = dictionary[item.name] || item.name; item.item = localizedUrl; }
       });
     }
@@ -84,12 +120,16 @@ function localizeHtml(source, page, locale, dictionary) {
     .replace('<html lang="en">', `<html lang="${locale}">`)
     .replace(/<link rel="canonical" href="[^"]+">/, `<link rel="canonical" href="${localizedUrl}">${hreflang(page.path)}`)
     .replace(/<meta property="og:url" content="[^"]+">/, `<meta property="og:url" content="${localizedUrl}">`)
-    .replace(/(<meta (?:name|property)="(?:description|og:title|og:description)" content=")([^"]+)(">)/g, (all, before, value, after) => `${before}${escapeHtml(dictionary[value] || value)}${after}`)
+    .replace(/(<meta (?:name|property)="(?:description|og:title|og:description|og:image:alt|twitter:title|twitter:description|twitter:image:alt)" content=")([^"]+)(">)/g, (all, before, value, after) => `${before}${escapeHtml(dictionary[value] || value)}${after}`)
     .replace(/<title>([^<]+)<\/title>/, (all, value) => `<title>${escapeHtml(dictionary[value] || value)}</title>`);
   html = localizeSchema(html, page, locale, dictionary);
   html = html.replace(/(<script[\s\S]*?<\/script>|<[^>]+>|[^<]+)/gi, (token) => token.startsWith("<") ? token : translateText(token, dictionary));
   html = localizeInternalLinks(html, locale);
   html = html.replace(/<div class="language-switcher">[\s\S]*?<\/div><\/div>/, languageLinks(page.path, locale));
+  html = html.replace(
+    'aria-label="Scrollable outbound pricing comparison table"',
+    `aria-label="${{ es: "Tabla comparativa de precios outbound con desplazamiento horizontal", ca: "Taula comparativa de preus outbound amb desplaçament horitzontal", fr: "Tableau comparatif des tarifs outbound à défilement horizontal" }[locale]}"`
+  );
   const terminology = {
     es: [
       [/\$10,000/g, "10.000 $"],
@@ -241,7 +281,7 @@ function localizeHtml(source, page, locale, dictionary) {
 }
 
 for (const [locale] of Object.entries(locales)) {
-  const dictionary = require(path.join(root, "data", `seo-translations.${locale}.json`));
+  const dictionary = { ...require(path.join(root, "data", `seo-translations.${locale}.json`)), ...(translationOverrides[locale] || {}) };
   for (const page of pages) {
     const source = fs.readFileSync(path.join(root, page.path.replace(/^\//, ""), "index.html"), "utf8");
     const output = path.join(root, localizedPath(locale, page.path).replace(/^\//, ""), "index.html");
