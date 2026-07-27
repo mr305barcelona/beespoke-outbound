@@ -14,6 +14,19 @@ Status checked 27 July 2026:
 - **Clutch:** account/profile synchronization is resolved. The Beespoke profile is recognized in the vendor dashboard and is under review with status `Unpublished`; do not create another profile.
 - **Google Analytics 4:** existing Beespoke property recovered under the non-Niagara Google account. Property ID `536564464`, stream ID `14827158346`, and measurement ID `G-KDXYW9W2BB` match the live website. Google reports active data collection.
 - **Google Search Console:** the Links report still shows zero external links while Google processes the new citations. Treat this as reporting lag rather than evidence that the live GoodFirms link is absent.
+- **GitHub:** the public site repository now gives the 2026 pricing benchmark and machine-readable dataset first-class README placement. Count this as a relevant owned citation, not an independent editorial endorsement.
+- **Help a B2B Writer:** source registration is prepared with `noah@outbound-lead-generation.com`, but EU promotional-email consent was not selected on Noah's behalf. Activation is waiting for Noah's decision.
+
+## Measurement audit
+
+Checked July 27, 2026:
+
+- Search Console, latest 28 days: 305 impressions, 4 clicks, 1.3% CTR, and average position 24.2.
+- Search Console, latest 3 months: 347 impressions, 7 clicks, 2% CTR, and average position 22.5.
+- Search Console Links report: zero external links and zero internal links reported. The internal figure is demonstrably incomplete because the deployed site has a tested internal-link graph.
+- GA4, latest 28 days: 152 sessions. Direct supplied 126, Organic Search 14, Referral 8, AI Assistant 3, and Organic Social 1.
+- Organic Search produced 6 engaged sessions from 14 sessions, a 42.86% engagement rate, 104 events, and 2 previously reported key events.
+- GA4 had incorrectly marked the generic enhanced-measurement `click` event as a key event. It was disabled as a key event on July 27. `calendly_click` remains the active, site-specific intent signal. Historical “key events” must not be described as leads.
 
 ## Assets to promote
 
