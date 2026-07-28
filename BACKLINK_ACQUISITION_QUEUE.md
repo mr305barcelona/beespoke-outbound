@@ -1,6 +1,6 @@
 # Beespoke backlink and citation acquisition queue
 
-Last reviewed: July 27, 2026
+Last reviewed: July 28, 2026
 
 ## Standard
 
@@ -15,7 +15,10 @@ The goal is to earn relevant, defensible mentions—not inflate a link count. A 
 | Agency Spotter | Under review | Homepage / benchmark | Complete; do not edit or resubmit. |
 | Clutch | Under review | Homepage / benchmark in profile copy | Profile recognized as unpublished; do not create a duplicate. Clutch says free profiles may also be included on The Manifest. |
 | GitHub repository | Completed July 27 | Pricing benchmark | Public README now gives the benchmark and its machine-readable dataset first-class placement. This is a relevant owned citation, not an editorial endorsement. |
-| Help a B2B Writer | Awaiting Noah's consent | Expert-source alerts | Name and `noah@outbound-lead-generation.com` were entered. The service then requested EU consent for promotional email. No consent box was selected on Noah's behalf. |
+| Help a B2B Writer | Awaiting email confirmation | Expert-source alerts | Signup submitted July 28 for `noah@outbound-lead-generation.com`. Source/promotional email consent was enabled; ad-personalization consent was left off. The service now requires confirmation from the forwarded email. |
+| Google Business Profile | Setup in progress | Homepage / Maps entity citation | No existing Beespoke listing appeared. Correct name and `Marketing agency` category were accepted under `noahlevywriter@gmail.com`. Setup is paused at Google's customer-visit eligibility question so the office status is not misrepresented. |
+| Bing Places for Business | Sign-in pending | Homepage / Bing entity citation | Official listing flow opened July 28. The in-app browser could not keep the Google or Microsoft authorization popup attached, so no account or listing was created. |
+| Apple Business | Browser-blocked | Homepage / Apple entity citation | The official portal is blocked by the in-app browser's security policy. No workaround or alternate surface was attempted. |
 
 ## Priority 1: free business citations
 
@@ -29,6 +32,7 @@ These are the strongest low-effort citation opportunities still available. They 
 - Use: Beespoke Outbound Lead Generation; Passeig de Gracia 54, 08007 Barcelona, Catalunya, Spain; +34 665 022 686; https://outbound-lead-generation.com/
 - Primary category: Marketing agency. Secondary categories only when the interface offers an accurate match.
 - Important: do not create a duplicate if Google already has a listing. Verification method is chosen by Google.
+- Current state: setup started under `noahlevywriter@gmail.com`; no duplicate was found. Waiting for Noah to confirm whether clients can physically visit the Passeig de Gracia office before answering Google's eligibility question.
 
 ### Bing Places for Business
 
@@ -36,6 +40,7 @@ These are the strongest low-effort citation opportunities still available. They 
 - Cost: free.
 - Effort: low after the Google profile is verified because Bing may allow importing listing data.
 - Sequence: Google first, then import or claim in Bing.
+- Current state: official sign-in screen is ready, but Google/Microsoft authorization did not remain attached in the in-app browser. Resume after the Google listing facts are finalized.
 
 ### Apple Business
 
@@ -44,6 +49,7 @@ These are the strongest low-effort citation opportunities still available. They 
 - Effort: one account and organization/location verification.
 - Value: controls the place card and business identity across Apple Maps, Siri, Mail, Wallet, and related Apple surfaces.
 - Sequence: start after the Google listing is submitted so the canonical business facts are already stable.
+- Current state: blocked by the in-app browser's security policy. Requires manual access outside this browser; do not attempt a workaround.
 
 ## Priority 2: editorial-source platforms
 
@@ -52,7 +58,7 @@ These do not create guaranteed links. They replace cold outreach with inbound re
 ### Help a B2B Writer
 
 - Official route: https://helpab2bwriter.com/support
-- Current state: form prepared; EU promotional-email consent is still required from Noah.
+- Current state: signup submitted with source/promotional emails enabled and ad personalization left off. The confirmation link sent to `noah@outbound-lead-generation.com` still needs to be clicked.
 - Best topics: outbound pricing, appointment setting, founder-led outbound, LinkedIn prospecting, sales development economics, cybersecurity go-to-market.
 - Cadence after activation: answer a maximum of two tightly relevant requests per week.
 
