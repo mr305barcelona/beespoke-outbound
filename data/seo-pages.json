@@ -349,6 +349,11 @@
         "callout":"Disclosure: Beespoke publishes this research and sells outbound services. Its two offers are included for completeness and are identified in every dataset view."
       },
       {
+        "heading":"For writers and editors",
+        "body":["The publication chart, social preview and machine-readable source file are available below. The approved summary is: Beespoke reviewed 40 publicly listed B2B outbound price points from 12 providers, preserved each native currency, recorded what the price included and linked every row to its provider-controlled source.","For a deadline-specific comment, email Noah with the publication, question and response deadline. Answers will distinguish observed data from interpretation and stay within what the evidence supports."],
+        "links":[{"label":"Download publication chart (SVG)","href":"/assets/research/2026-outbound-pricing-benchmark-chart.svg"},{"label":"Download social preview (PNG)","href":"/assets/social/2026-pricing-benchmark-og.png"},{"label":"Download source data (JSON)","href":"/data/outbound-pricing-benchmark-2026.json"},{"label":"Request founder comment","href":"mailto:noah@outbound-lead-generation.com?subject=2026%20outbound%20pricing%20benchmark%20media%20request"}]
+      },
+      {
         "heading":"Updates, reuse and corrections",
         "body":["Version 1.0 was published from sources checked on July 24, 2026. Material pricing changes, broken sources and classification corrections will be added to the update record rather than silently reframed as historical fact.","You may cite or embed the chart with a visible link to this page. For a correction, include the provider, offer, source URL and the exact field that changed."],
         "links":[{"label":"Email a pricing correction","href":"mailto:noah@outbound-lead-generation.com?subject=2026%20pricing%20benchmark%20correction"},{"label":"Review Beespoke’s editorial policy","href":"/editorial-policy/"}]

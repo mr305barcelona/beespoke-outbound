@@ -9,9 +9,9 @@ const editorialForbidden = {
   fr: ["sortant", "sortante", "sorties", "sensibilisation", "appel d'ajustement", "dispositif de retenue", "PCI", "DTS", "Noah Lévy"]
 };
 const benchmarkSchemaExpectations = {
-  es: { datasetName: "Benchmark de precios outbound B2B 2026", ogAlt: "Benchmark de precios outbound B2B 2026 de Beespoke", tableLabel: "Tabla comparativa de precios outbound con desplazamiento horizontal" },
-  ca: { datasetName: "Benchmark de preus outbound B2B 2026", ogAlt: "Benchmark de preus outbound B2B 2026 de Beespoke", tableLabel: "Taula comparativa de preus outbound amb desplaçament horitzontal" },
-  fr: { datasetName: "Benchmark 2026 des tarifs outbound B2B", ogAlt: "Benchmark 2026 des tarifs outbound B2B par Beespoke", tableLabel: "Tableau comparatif des tarifs outbound à défilement horizontal" }
+  es: { datasetName: "Benchmark de precios outbound B2B 2026", ogAlt: "Benchmark de precios outbound B2B 2026 de Beespoke", tableLabel: "Tabla comparativa de precios outbound con desplazamiento horizontal", mediaLabels: ["Descargar gráfico para publicación (SVG)", "Descargar vista previa social (PNG)", "Descargar datos fuente (JSON)", "Solicitar un comentario del fundador"] },
+  ca: { datasetName: "Benchmark de preus outbound B2B 2026", ogAlt: "Benchmark de preus outbound B2B 2026 de Beespoke", tableLabel: "Taula comparativa de preus outbound amb desplaçament horitzontal", mediaLabels: ["Descarregar gràfic per a publicació (SVG)", "Descarregar previsualització social (PNG)", "Descarregar dades font (JSON)", "Sol·licitar un comentari del fundador"] },
+  fr: { datasetName: "Benchmark 2026 des tarifs outbound B2B", ogAlt: "Benchmark 2026 des tarifs outbound B2B par Beespoke", tableLabel: "Tableau comparatif des tarifs outbound à défilement horizontal", mediaLabels: ["Télécharger le graphique pour publication (SVG)", "Télécharger l’aperçu social (PNG)", "Télécharger les données source (JSON)", "Demander un commentaire du fondateur"] }
 };
 const editorialClaimHeadings = {
   es: "Cómo clasificar una afirmación en este sitio",
@@ -64,6 +64,10 @@ for (const locale of locales) {
       if (breadcrumbs?.itemListElement?.[0]?.item !== `https://outbound-lead-generation.com/${locale}/`) failures.push(`${localizedPath}: localized breadcrumb homepage missing`);
       if (!html.includes(`og:image:alt" content="${expected.ogAlt}"`)) failures.push(`${localizedPath}: localized social image alt missing`);
       if (!html.includes(`aria-label="${expected.tableLabel}"`)) failures.push(`${localizedPath}: localized table label missing`);
+      for (const label of expected.mediaLabels) if (!html.includes(label)) failures.push(`${localizedPath}: localized media label missing (${label})`);
+      for (const label of ["Download publication chart", "Download social preview", "Download source data", "Request founder comment"]) {
+        if (html.includes(label)) failures.push(`${localizedPath}: English media label leaked (${label})`);
+      }
     }
   }
   const homePath = `/${locale}/`;

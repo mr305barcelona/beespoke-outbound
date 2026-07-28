@@ -11,14 +11,17 @@ The goal is to earn relevant, defensible mentions—not inflate a link count. A 
 | Opportunity | Status | Destination | Notes |
 | --- | --- | --- | --- |
 | GoodFirms | Live | Homepage / benchmark in profile copy | Public profile and website citation active. |
-| TechBehemoths | Under review | Homepage / benchmark portfolio item | Complete; do not edit or resubmit. |
+| TechBehemoths | Under review | Homepage / benchmark portfolio item | Account recognizes the existing company-profile submission and allows only one company per user. No public result or safe publish control is available; do not duplicate or resubmit. |
 | Agency Spotter | Under review | Homepage / benchmark | Complete; do not edit or resubmit. |
-| Clutch | Under review | Homepage / benchmark in profile copy | Profile recognized as unpublished; do not create a duplicate. Clutch says free profiles may also be included on The Manifest. |
+| Clutch | Live | Homepage / benchmark in profile copy | Public profile verified July 28 at https://clutch.co/profile/beespoke-outbound-lead-generation. Sales Outsourcing focus is fully allocated: 50% B2B Lead Generation, 40% B2B Appointment Setting and 10% B2B Lead Qualification. |
 | GitHub repository | Completed July 27 | Pricing benchmark | Public README now gives the benchmark and its machine-readable dataset first-class placement. This is a relevant owned citation, not an editorial endorsement. |
-| Help a B2B Writer | Awaiting email confirmation | Expert-source alerts | Signup submitted July 28 for `noah@outbound-lead-generation.com`. Source/promotional email consent was enabled; ad-personalization consent was left off. The service now requires confirmation from the forwarded email. |
-| Google Business Profile | Eligibility confirmation needed | Homepage / Maps entity citation | No existing Beespoke listing appeared. Correct name and `Marketing agency` category were accepted under `noahlevywriter@gmail.com`. Noah confirmed customers cannot visit the Barcelona office, so the address was hidden. Setup is paused before adding a service area until Beespoke confirms it actually meets clients in person at their locations. |
-| Bing Places for Business | Sign-in pending | Homepage / Bing entity citation | Official listing flow opened July 28. The in-app browser could not keep the Google or Microsoft authorization popup attached, so no account or listing was created. |
-| Apple Business | Browser-blocked | Homepage / Apple entity citation | The official portal is blocked by the in-app browser's security policy. No workaround or alternate surface was attempted. |
+| Help a B2B Writer | Active | Expert-source alerts | Signup submitted July 28 for `noah@outbound-lead-generation.com`; Noah confirmed the email. Source/promotional email consent was enabled and ad-personalization consent was left off. |
+| Featured | Awaiting magic-link sign-in | Expert-source opportunities | Signup details submitted July 28 for `noah@outbound-lead-generation.com`. Featured sent a sign-in link that expires after 15 minutes; profile completion requires opening a fresh link. |
+| Qwoted | Prepared; user credential required | Expert profile and journalist requests | Correct account type, self-pitch use case, name and domain email are filled. A password, acceptance of the platform terms and reCAPTCHA remain user-only steps. |
+| SourceBottle | Prepared; user credential required | Expert profile and source alerts | Domain email, name and the closest available European alert timezone are filled. A password, acceptance of terms and the visual verification code remain user-only steps. |
+| Google Business Profile | Stopped — online-only | Homepage / Maps entity citation | Customers cannot visit the office and Beespoke does not qualify as a physical storefront. Setup was intentionally stopped rather than risk an ineligible or suspended listing. |
+| Bing Places for Business | Paused | Homepage / Bing entity citation | Location-listing work is paused with Google and Apple because Beespoke is online-only. Bing Webmaster Tools remains appropriate and separate. |
+| Apple Business | Paused | Homepage / Apple entity citation | Location-listing work is paused because Beespoke is online-only. The official portal was also blocked by the in-app browser's security policy; no workaround was attempted. |
 
 ## Priority 1: free business citations
 
@@ -32,7 +35,7 @@ These are the strongest low-effort citation opportunities still available. They 
 - Use: Beespoke Outbound Lead Generation; Passeig de Gracia 54, 08007 Barcelona, Catalunya, Spain; +34 665 022 686; https://outbound-lead-generation.com/
 - Primary category: Marketing agency. Secondary categories only when the interface offers an accurate match.
 - Important: do not create a duplicate if Google already has a listing. Verification method is chosen by Google.
-- Current state: setup started under `noahlevywriter@gmail.com`; no duplicate was found. The Passeig de Gracia office is correctly marked as not customer-facing and will remain hidden. Google now requires the factual service-area distinction: whether Beespoke meets customers in person at their locations. Do not continue if the business is online-only.
+- Current state: stopped. Beespoke is online-only and customers cannot visit the Passeig de Gracia office. Do not resume or attempt to force eligibility.
 
 ### Bing Places for Business
 
@@ -40,7 +43,7 @@ These are the strongest low-effort citation opportunities still available. They 
 - Cost: free.
 - Effort: low after the Google profile is verified because Bing may allow importing listing data.
 - Sequence: Google first, then import or claim in Bing.
-- Current state: official sign-in screen is ready, but Google/Microsoft authorization did not remain attached in the in-app browser. Resume after the Google listing facts are finalized.
+- Current state: paused with the other location-listing platforms because Beespoke is online-only. Bing Webmaster Tools is the appropriate non-location product for indexing and search diagnostics.
 
 ### Apple Business
 
@@ -49,7 +52,7 @@ These are the strongest low-effort citation opportunities still available. They 
 - Effort: one account and organization/location verification.
 - Value: controls the place card and business identity across Apple Maps, Siri, Mail, Wallet, and related Apple surfaces.
 - Sequence: start after the Google listing is submitted so the canonical business facts are already stable.
-- Current state: blocked by the in-app browser's security policy. Requires manual access outside this browser; do not attempt a workaround.
+- Current state: paused because Beespoke is online-only. The in-app browser also blocks the portal; do not attempt a workaround.
 
 ## Priority 2: editorial-source platforms
 
@@ -58,7 +61,7 @@ These do not create guaranteed links. They replace cold outreach with inbound re
 ### Help a B2B Writer
 
 - Official route: https://helpab2bwriter.com/support
-- Current state: signup submitted with source/promotional emails enabled and ad personalization left off. The confirmation link sent to `noah@outbound-lead-generation.com` still needs to be clicked.
+- Current state: active. Signup was submitted with source/promotional emails enabled and ad personalization left off; Noah confirmed the email.
 - Best topics: outbound pricing, appointment setting, founder-led outbound, LinkedIn prospecting, sales development economics, cybersecurity go-to-market.
 - Cadence after activation: answer a maximum of two tightly relevant requests per week.
 

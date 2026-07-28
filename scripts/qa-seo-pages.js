@@ -43,7 +43,7 @@ for (const page of pages) {
     if (!page.title.toLowerCase().includes("how much do outbound agencies charge")) failures.push(`${page.path}: title does not address the leading query`);
   }
   if (page.path === "/research/2026-b2b-outbound-pricing-benchmark/") {
-    for (const required of ["40 public offers", "benchmark-table", "publisher-row", "Download source data (JSON)", "2026-outbound-pricing-benchmark-chart.svg", "/downloads/beespoke-icp-scorecard/", "/downloads/beespoke-outbound-campaign-brief/", "Swipe or scroll sideways", "tabindex=\"0\"", "Email a pricing correction"]) {
+    for (const required of ["40 public offers", "benchmark-table", "publisher-row", "Download source data (JSON)", "2026-outbound-pricing-benchmark-chart.svg", "2026-pricing-benchmark-og.png", "For writers and editors", "Request founder comment", "/downloads/beespoke-icp-scorecard/", "/downloads/beespoke-outbound-campaign-brief/", "Swipe or scroll sideways", "tabindex=\"0\"", "Email a pricing correction"]) {
       if (!html.includes(required)) failures.push(`${page.path}: missing research requirement ${required}`);
     }
     if ((html.match(/rel="nofollow">Source/g) || []).length !== 40) failures.push(`${page.path}: expected 40 row-level source links`);

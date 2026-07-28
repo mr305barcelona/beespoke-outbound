@@ -6,26 +6,31 @@ Earn relevant editorial mentions that strengthen the cost/pricing and cybersecur
 
 ## Current authority acquisition status
 
-Status checked 27 July 2026:
+Status checked 28 July 2026:
 
 - **GoodFirms:** public company profile active, including a website citation.
-- **TechBehemoths:** complete and in manual review; do not edit or resubmit while approval is pending.
+- **TechBehemoths:** complete and in manual review. The account recognizes the existing company submission and allows only one company per user; do not edit, duplicate, or resubmit while approval is pending.
 - **Agency Spotter:** complete and in manual review. The profile includes the canonical Barcelona location, domain email, phone, Direct Marketing category, About copy, featured image, and a direct website link. It is not searchable until approved.
-- **Clutch:** account/profile synchronization is resolved. The Beespoke profile is recognized in the vendor dashboard and is under review with status `Unpublished`; do not create another profile.
+- **Clutch:** published at https://clutch.co/profile/beespoke-outbound-lead-generation. The profile links to Beespoke and has a completed Sales Outsourcing focus allocation: 50% B2B Lead Generation, 40% B2B Appointment Setting, and 10% B2B Lead Qualification.
 - **Google Analytics 4:** existing Beespoke property recovered under the non-Niagara Google account. Property ID `536564464`, stream ID `14827158346`, and measurement ID `G-KDXYW9W2BB` match the live website. Google reports active data collection.
 - **Google Search Console:** the Links report still shows zero external links while Google processes the new citations. Treat this as reporting lag rather than evidence that the live GoodFirms link is absent.
 - **GitHub:** the public site repository now gives the 2026 pricing benchmark and machine-readable dataset first-class README placement. Count this as a relevant owned citation, not an independent editorial endorsement.
-- **Help a B2B Writer:** source registration is prepared with `noah@outbound-lead-generation.com`, but EU promotional-email consent was not selected on Noah's behalf. Activation is waiting for Noah's decision.
+- **Help a B2B Writer:** active after Noah confirmed the source-alert email.
+- **Featured:** signup submitted; a fresh magic-link sign-in is required to finish the profile.
+- **Qwoted and SourceBottle:** non-sensitive fields are prepared. Both require Noah to create a password, accept their terms, and complete their verification control.
+- **Bing Webmaster Tools:** Google authorization is open at the account chooser. Select only `noahlevywriter@gmail.com`; do not use the Niagara account.
 
 ## Measurement audit
 
-Checked July 27, 2026:
+Checked July 28, 2026:
 
-- Search Console, latest 28 days: 305 impressions, 4 clicks, 1.3% CTR, and average position 24.2.
-- Search Console, latest 3 months: 347 impressions, 7 clicks, 2% CTR, and average position 22.5.
+- Search Console, latest 3 months: 382 impressions, 7 clicks, 1.8% CTR, and average position 24.9.
+- The highest-volume non-brand query is `how do outbound agencies charge`: 99 impressions, no clicks, and average position 23.3.
+- The strongest near-page-one opportunity is `is it worth paying 10000 a month for an outbound agency`: 38 impressions, no clicks, and average position 12.1. Its landing page is `/guides/outbound-lead-generation-cost/`, which was updated July 27 to answer that query directly. Allow the change time to be recrawled before another rewrite.
+- The homepage has 76 impressions, 4 clicks, 5.3% CTR, and average position 7.1. The cybersecurity LinkedIn case study has 13 impressions, no clicks, and average position 13.2.
 - Search Console Links report: zero external links and zero internal links reported. The internal figure is demonstrably incomplete because the deployed site has a tested internal-link graph.
-- GA4, latest 28 days: 152 sessions. Direct supplied 126, Organic Search 14, Referral 8, AI Assistant 3, and Organic Social 1.
-- Organic Search produced 6 engaged sessions from 14 sessions, a 42.86% engagement rate, 104 events, and 2 previously reported key events.
+- GA4 this month shows 133 active users, 134 new users, 674 events, and 12 key events. These figures are directional because direct traffic is dominant and historical key-event configuration changed.
+- GA4, latest 7 days: 51 Direct sessions, 3 Organic Search sessions, and 1 Referral session. GoodFirms has already produced one recorded referral-origin user.
 - GA4 had incorrectly marked the generic enhanced-measurement `click` event as a key event. It was disabled as a key event on July 27. `calendly_click` remains the active, site-specific intent signal. Historical “key events” must not be described as leads.
 
 ## Assets to promote
