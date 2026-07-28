@@ -18,7 +18,7 @@ Status checked 28 July 2026:
 - **Help a B2B Writer:** active after Noah confirmed the source-alert email.
 - **Featured:** signup submitted; a fresh magic-link sign-in is required to finish the profile.
 - **Qwoted and SourceBottle:** non-sensitive fields are prepared. Both require Noah to create a password, accept their terms, and complete their verification control.
-- **Bing Webmaster Tools:** Google authorization is open at the account chooser. Select only `noahlevywriter@gmail.com`; do not use the Niagara account.
+- **Bing Webmaster Tools:** active under `noahlevywriter@gmail.com`. Only `outbound-lead-generation.com` was selected from the available Search Console properties. The site imported successfully and `https://outbound-lead-generation.com/sitemap.xml` was submitted on July 28 with zero errors and zero warnings; Bing is processing it and says reporting can take up to 48 hours.
 
 ## Measurement audit
 
