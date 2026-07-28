@@ -16,8 +16,9 @@ Status checked 28 July 2026:
 - **Google Search Console:** the Links report still shows zero external links while Google processes the new citations. Treat this as reporting lag rather than evidence that the live GoodFirms link is absent.
 - **GitHub:** the public site repository now gives the 2026 pricing benchmark and machine-readable dataset first-class README placement. Count this as a relevant owned citation, not an independent editorial endorsement.
 - **Help a B2B Writer:** active after Noah confirmed the source-alert email.
-- **Featured:** signup submitted; a fresh magic-link sign-in is required to finish the profile.
-- **Qwoted and SourceBottle:** non-sensitive fields are prepared. Both require Noah to create a password, accept their terms, and complete their verification control.
+- **Featured:** a fresh passwordless sign-in link was sent July 28 to `noah@outbound-lead-generation.com`; it expires after 15 minutes. Opening it is the remaining handoff before profile completion.
+- **Qwoted:** live at https://app.qwoted.com/sources/noah-levy. The public profile links to Beespoke and features the 2026 pricing benchmark plus the cybersecurity LinkedIn case study.
+- **SourceBottle:** account verified. The expert profile is fully prepared with Beespoke credentials, relevant topics, Spain, a headshot, website, biography and public-profile authorization. The legacy publication page stalled after submission, so directory publication remains to be confirmed without creating a duplicate.
 - **Bing Webmaster Tools:** active under `noahlevywriter@gmail.com`. Only `outbound-lead-generation.com` was selected from the available Search Console properties. The site imported successfully and `https://outbound-lead-generation.com/sitemap.xml` was submitted on July 28 with zero errors and zero warnings; Bing is processing it and says reporting can take up to 48 hours.
 
 ## Measurement audit

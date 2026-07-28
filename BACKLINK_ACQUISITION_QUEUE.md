@@ -16,9 +16,9 @@ The goal is to earn relevant, defensible mentions—not inflate a link count. A 
 | Clutch | Live | Homepage / benchmark in profile copy | Public profile verified July 28 at https://clutch.co/profile/beespoke-outbound-lead-generation. Sales Outsourcing focus is fully allocated: 50% B2B Lead Generation, 40% B2B Appointment Setting and 10% B2B Lead Qualification. |
 | GitHub repository | Completed July 27 | Pricing benchmark | Public README now gives the benchmark and its machine-readable dataset first-class placement. This is a relevant owned citation, not an editorial endorsement. |
 | Help a B2B Writer | Active | Expert-source alerts | Signup submitted July 28 for `noah@outbound-lead-generation.com`; Noah confirmed the email. Source/promotional email consent was enabled and ad-personalization consent was left off. |
-| Featured | Awaiting magic-link sign-in | Expert-source opportunities | Signup details submitted July 28 for `noah@outbound-lead-generation.com`. Featured sent a sign-in link that expires after 15 minutes; profile completion requires opening a fresh link. |
-| Qwoted | Prepared; user credential required | Expert profile and journalist requests | Correct account type, self-pitch use case, name and domain email are filled. A password, acceptance of the platform terms and reCAPTCHA remain user-only steps. |
-| SourceBottle | Prepared; user credential required | Expert profile and source alerts | Domain email, name and the closest available European alert timezone are filled. A password, acceptance of terms and the visual verification code remain user-only steps. |
+| Featured | Awaiting fresh magic-link sign-in | Expert-source opportunities | A fresh sign-in link was sent July 28 to `noah@outbound-lead-generation.com` and expires after 15 minutes. Profile completion can begin after that link is opened. |
+| Qwoted | Live | Expert profile and journalist requests | Public expert profile active at https://app.qwoted.com/sources/noah-levy. The profile links to Beespoke and includes the 2026 pricing benchmark and cybersecurity LinkedIn case study as media assets. Expertise is limited to relevant business, marketing, technology and industry topics. |
+| SourceBottle | Account verified; publication confirmation pending | Expert profile and source alerts | Account verification is complete. The expert profile has been prepared with Beespoke credentials, six relevant topic tags, Spain, a square headshot, website, expert biography and public-profile authorization. The legacy publication page stalled after submission, so do not duplicate the account or profile; confirm its directory status before any resubmission. |
 | Bing Webmaster Tools | Active; sitemap processing | Sitemap and Bing search diagnostics | Imported only `outbound-lead-generation.com` from the writer-account GSC property. `https://outbound-lead-generation.com/sitemap.xml` was submitted July 28 with zero errors and warnings; reporting may take up to 48 hours. |
 | Google Business Profile | Stopped — online-only | Homepage / Maps entity citation | Customers cannot visit the office and Beespoke does not qualify as a physical storefront. Setup was intentionally stopped rather than risk an ineligible or suspended listing. |
 | Bing Places for Business | Paused | Homepage / Bing entity citation | Location-listing work is paused with Google and Apple because Beespoke is online-only. Bing Webmaster Tools remains appropriate and separate. |
@@ -71,19 +71,22 @@ These do not create guaranteed links. They replace cold outreach with inbound re
 - Official route: https://featured.com/
 - Model: answer publisher questions and submit expert commentary for editorial consideration.
 - Best profile proof: the 2026 pricing benchmark, pricing calculator, cybersecurity framework, and founder biography.
+- Current state: a fresh passwordless sign-in link was sent July 28 to `noah@outbound-lead-generation.com`; it expires after 15 minutes.
 - Cadence: one or two high-fit answers per week; never mass-submit generic answers.
 
 ### Qwoted
 
 - Official route: https://app.qwoted.com/
+- Public profile: https://app.qwoted.com/sources/noah-levy
 - Model: public expert profile plus calls for experts from journalists and media creators.
-- Best profile settings: keep the profile public only if Noah wants it indexed; add the benchmark as a media asset; choose narrow B2B sales and outbound topics.
+- Current state: live and public. The Beespoke website, founder biography, phone, 2026 pricing benchmark and cybersecurity LinkedIn case study are present. A headshot and resolved city label remain optional profile-completeness improvements.
 - Caution: pitches use credits and the platform is strict about relevance and authenticity. Every answer must be reviewed in Noah's voice before submission.
 
 ### SourceBottle
 
 - Official route: https://www.sourcebottle.com/
 - Model: source alerts and journalist requests.
+- Current state: account verified and the full expert profile was prepared for publication. The site's legacy page stalled immediately after submission, so publication must be confirmed rather than duplicated.
 - Priority: lower than Help a B2B Writer, Featured, and Qwoted because request relevance is broader.
 - Use only for precise sales, consulting, founder, Barcelona business, or cybersecurity-GTM requests.
 
