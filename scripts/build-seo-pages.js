@@ -7,7 +7,11 @@ const pricingBenchmark = JSON.parse(fs.readFileSync(path.join(root, "data", "out
 const origin = "https://outbound-lead-generation.com";
 const defaultUpdated = "2026-07-24";
 const updatedOverrides = new Map([
+  ["/services/outbound-lead-generation/", "2026-08-03"],
+  ["/services/linkedin-lead-generation/", "2026-08-03"],
   ["/guides/outbound-lead-generation-cost/", "2026-08-03"],
+  ["/case-studies/cybersecurity-linkedin-lead-generation/", "2026-08-03"],
+  ["/guides/outsourced-sdr-vs-lead-generation-agency/", "2026-08-03"],
   ["/editorial-policy/", "2026-07-27"]
 ]);
 const updatedFor = (pagePath) => updatedOverrides.get(pagePath) || defaultUpdated;
