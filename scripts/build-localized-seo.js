@@ -83,6 +83,10 @@ function localizeSchema(html, page, locale, dictionary) {
       }
       if (node.name) node.name = dictionary[node.name] || node.name;
       if (node.description) node.description = dictionary[node.description] || node.description;
+      if (node["@type"] === "FAQPage") node.mainEntity?.forEach((question) => {
+        if (question.name) question.name = dictionary[question.name] || question.name;
+        if (question.acceptedAnswer?.text) question.acceptedAnswer.text = dictionary[question.acceptedAnswer.text] || question.acceptedAnswer.text;
+      });
       if (node["@type"] === "Dataset") Object.assign(node, datasetCopy);
       if (node.author?.url) node.author.url = `${origin}${localizedPath(locale, "/about/noah-levy/")}`;
       if (node.itemListElement) node.itemListElement.forEach((item) => {

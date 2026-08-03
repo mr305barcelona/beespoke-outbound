@@ -10,7 +10,17 @@
     const link = event.target.closest("a");
     if (!link) return;
     const href = link.getAttribute("href") || "";
-    if (href.includes("calendly.com")) track("calendly_click", { cta_text: link.textContent.trim(), cta_location: link.closest(".hero") ? "hero" : link.closest(".inline-cta") ? "article" : link.closest(".final-cta") ? "final" : "navigation" });
+    const ctaLocation = link.closest(".hero") ? "hero" : link.closest(".inline-cta") ? "article" : link.closest(".final-cta") ? "final" : link.closest("footer") ? "footer" : "navigation";
+    if (href.includes("calendly.com")) {
+      const parameters = { cta_text: link.textContent.trim(), cta_location: ctaLocation, link_url: link.href };
+      track("calendly_click", parameters);
+      track("contact_intent", { ...parameters, contact_method: "calendly", intent_stage: "calendar_opened" });
+    }
+    if (href.includes("wa.me/")) {
+      const parameters = { cta_text: link.textContent.trim(), cta_location: ctaLocation, link_url: link.href };
+      track("whatsapp_click", parameters);
+      track("contact_intent", { ...parameters, contact_method: "whatsapp", intent_stage: "conversation_started" });
+    }
     if (link.closest(".language-switcher")) {
       if (supportedLocales.includes(link.lang)) localStorage.setItem("beespoke-language-choice", link.lang);
       track("language_switch", { destination_language: link.lang || "unknown", destination_path: href });

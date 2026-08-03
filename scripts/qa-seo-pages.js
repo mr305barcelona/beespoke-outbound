@@ -41,6 +41,7 @@ for (const page of pages) {
     if (!html.includes("$10,000 monthly outbound retainer decision test")) failures.push(`${page.path}: missing $10k decision table`);
     if (!html.includes("How outbound agencies charge: retainer, pay per meeting, or hybrid")) failures.push(`${page.path}: missing live-query pricing-model section`);
     if (!page.title.toLowerCase().includes("how much do outbound agencies charge")) failures.push(`${page.path}: title does not address the leading query`);
+    if (!html.includes("frequently-asked-questions") || !graph.some((node) => node["@type"] === "FAQPage")) failures.push(`${page.path}: FAQ content or schema missing`);
   }
   if (page.path === "/research/2026-b2b-outbound-pricing-benchmark/") {
     for (const required of ["40 public offers", "benchmark-table", "publisher-row", "Download source data (JSON)", "2026-outbound-pricing-benchmark-chart.svg", "2026-pricing-benchmark-og.png", "For writers and editors", "Request founder comment", "/downloads/beespoke-icp-scorecard/", "/downloads/beespoke-outbound-campaign-brief/", "Swipe or scroll sideways", "tabindex=\"0\"", "Email a pricing correction"]) {

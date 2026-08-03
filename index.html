@@ -1712,29 +1712,6 @@
   <script>
     document.getElementById('year').textContent = new Date().getFullYear();
   
-    document.querySelectorAll('a[href*="calendly.com/noahlevybuilds/30min"]').forEach(function(link) {
-      link.addEventListener('click', function() {
-        if (typeof gtag === 'function') {
-          gtag('event', 'calendly_click', {
-            event_category: 'CTA',
-            event_label: link.textContent.trim(),
-            link_url: link.href
-          });
-        }
-      });
-    });
-  
-    document.querySelectorAll('a[href*="wa.me/34665022686"]').forEach(function(link) {
-      link.addEventListener('click', function() {
-        if (typeof gtag === 'function') {
-          gtag('event', 'whatsapp_click', {
-            event_category: 'Contact',
-            event_label: 'WhatsApp +34 665 022 686',
-            link_url: link.href
-          });
-        }
-      });
-    });
   </script>
   <a
     class="whatsapp-float"

@@ -13,7 +13,7 @@ Status checked 28 July 2026:
 - **Agency Spotter:** complete and in manual review. The profile includes the canonical Barcelona location, domain email, phone, Direct Marketing category, About copy, featured image, and a direct website link. It is not searchable until approved.
 - **Clutch:** published at https://clutch.co/profile/beespoke-outbound-lead-generation. The profile links to Beespoke and has a completed Sales Outsourcing focus allocation: 50% B2B Lead Generation, 40% B2B Appointment Setting, and 10% B2B Lead Qualification.
 - **Google Analytics 4:** existing Beespoke property recovered under the non-Niagara Google account. Property ID `536564464`, stream ID `14827158346`, and measurement ID `G-KDXYW9W2BB` match the live website. Google reports active data collection.
-- **Google Search Console:** the Links report still shows zero external links while Google processes the new citations. Treat this as reporting lag rather than evidence that the live GoodFirms link is absent.
+- **Google Search Console:** the Links report now recognizes four external links—three from GoodFirms and one from 2ip.io. The GoodFirms citation is therefore processed; additional relevant referring domains remain the main authority priority.
 - **GitHub:** the public site repository now gives the 2026 pricing benchmark and machine-readable dataset first-class README placement. Count this as a relevant owned citation, not an independent editorial endorsement.
 - **Help a B2B Writer:** active after Noah confirmed the source-alert email.
 - **Featured:** a fresh passwordless sign-in link was sent July 28 to `noah@outbound-lead-generation.com`; it expires after 15 minutes. Opening it is the remaining handoff before profile completion.
@@ -23,16 +23,18 @@ Status checked 28 July 2026:
 
 ## Measurement audit
 
-Checked July 28, 2026:
+Checked August 3, 2026:
 
-- Search Console, latest 3 months: 382 impressions, 7 clicks, 1.8% CTR, and average position 24.9.
-- The highest-volume non-brand query is `how do outbound agencies charge`: 99 impressions, no clicks, and average position 23.3.
-- The strongest near-page-one opportunity is `is it worth paying 10000 a month for an outbound agency`: 38 impressions, no clicks, and average position 12.1. Its landing page is `/guides/outbound-lead-generation-cost/`, which was updated July 27 to answer that query directly. Allow the change time to be recrawled before another rewrite.
-- The homepage has 76 impressions, 4 clicks, 5.3% CTR, and average position 7.1. The cybersecurity LinkedIn case study has 13 impressions, no clicks, and average position 13.2.
-- Search Console Links report: zero external links and zero internal links reported. The internal figure is demonstrably incomplete because the deployed site has a tested internal-link graph.
-- GA4 this month shows 133 active users, 134 new users, 674 events, and 12 key events. These figures are directional because direct traffic is dominant and historical key-event configuration changed.
-- GA4, latest 7 days: 51 Direct sessions, 3 Organic Search sessions, and 1 Referral session. GoodFirms has already produced one recorded referral-origin user.
-- GA4 had incorrectly marked the generic enhanced-measurement `click` event as a key event. It was disabled as a key event on July 27. `calendly_click` remains the active, site-specific intent signal. Historical “key events” must not be described as leads.
+- Search Console, latest 28 days versus the preceding 28 days: 4 clicks versus 1, 846 impressions versus 36, 0.5% CTR versus 2.8%, and average position 29.3 versus 3.3. The position decline is mainly mix shift: Google is now testing many more queries and pages, not evidence that the original rankings collapsed.
+- The highest-volume non-brand query is `how do outbound agencies charge`: 184 impressions, no clicks, and average position 15.6.
+- The strongest near-page-one opportunity is `is it worth paying 10000 a month for an outbound agency`: 137 impressions, no clicks, and average position 5.1. Its landing page is `/guides/outbound-lead-generation-cost/`, which was refreshed August 3 with an answer-first H1, evidence-backed price range, FAQ content and schema, and a clearer $10,000 decision test.
+- The cost guide accounts for 513 impressions at average position 16.3. The cybersecurity LinkedIn case study is also close to page one with 25 impressions at average position 10.9.
+- Search Console page indexing: 68 indexed and 7 not indexed. Three exclusions are intentional protocol/hostname redirects, one is the private Bollegraaf proposal correctly blocked by `robots.txt`, and three crawled URLs are already under validation. There is no unexplained technical exclusion category.
+- Search Console Links report now records four external links: three from GoodFirms and one from 2ip.io. It also reports 175 internal links. Authority remains the main constraint.
+- GA4, latest 28 days: 168 sessions, 31 engaged sessions, 18.45% engagement rate, 23 seconds average engagement time and 4.76 events per session.
+- Direct supplied 135 sessions with a 10.37% engagement rate. Direct is a catch-all for visits without usable attribution—including typed/bookmarked visits, untagged links, privacy-stripped referrals, bots, testing and Noah's own quick checks. A GA4 engaged session must last more than 10 seconds, contain at least two page/screen views, or trigger a key event, so quick opens naturally lower this rate.
+- Organic Search supplied 14 sessions with a 50% engagement rate; Referral supplied 13 with a 53.85% engagement rate. Although the samples are still small, both channels are producing much stronger visit quality than Direct.
+- The homepage contained a second inline copy of Calendly and WhatsApp click tracking in addition to the shared handler. The duplicate implementation was removed August 3. `calendly_click`, `whatsapp_click` and the channel-neutral `contact_intent` event now come from one shared source. A Calendly click remains an intent signal—not a confirmed booked meeting or lead.
 
 ## Assets to promote
 
