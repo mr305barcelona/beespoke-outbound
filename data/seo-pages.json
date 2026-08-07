@@ -5,7 +5,7 @@
     "description": "Founder-led B2B outbound lead generation: targeting, messaging, LinkedIn outreach, follow-up and qualified meetings handled by Beespoke.",
     "eyebrow": "Managed B2B outbound",
     "h1": "Outbound lead generation built around qualified meetings",
-    "answer": "An outbound lead generation agency identifies suitable accounts and decision-makers, creates outreach, manages follow-up, qualifies responses, and books sales conversations. Beespoke provides that system through a senior four-person team, with public pricing from $1,500 per month.",
+    "answer": "An outbound lead generation agency identifies suitable accounts and decision-makers, creates outreach, manages follow-up, qualifies responses, and books sales conversations. Beespoke provides that focused outbound system through a senior four-person team; the broader B2B lead generation hub explains how it fits the complete acquisition decision. Public pricing starts at $1,500 per month.",
     "sections": [
       {"heading":"What Beespoke manages","body":["We turn an agreed ideal customer profile into a working outbound campaign. That includes account selection, contact research, messaging, LinkedIn execution, response handling, follow-up, and calendar booking.","The goal is not a large spreadsheet of names or a report full of activity. The useful output is a held conversation with a company and decision-maker that match the criteria agreed before launch."],"items":["ICP and offer diagnosis","Target-account and decision-maker research","Outreach scripts and follow-up sequences","LinkedIn campaign execution","Reply handling and meeting booking","Weekly review and optimization"]},
       {"heading":"Who this service fits","body":["Beespoke works best for B2B companies with a proven, valuable offer and a reasonably identifiable buyer. It is especially useful when a founder or sales leader can close opportunities but does not want to recruit, train, and manage a prospecting team."],"items":["A typical customer is worth enough to support hands-on prospecting","The target buyer can be described by company and role","Someone on your team can run a credible discovery call","You can explain a real business problem, not only a list of features"]},
@@ -13,7 +13,7 @@
       {"heading":"How launch works","body":["We begin by diagnosing the offer, buyer, current pipeline, and previous outreach. Then we build the target logic and message angles, prepare the campaign, and launch a controlled first segment.","Replies—not opens or connection counts—guide iteration. We review who responds, which objections recur, where the message is misunderstood, and whether the selected accounts genuinely fit."],"items":["Week 1: ICP, offer, exclusions, and campaign hypothesis","Week 2: list logic, copy, profile preparation, and review","Week 3 onward: launch, response handling, meetings, and iteration"]},
       {"heading":"Evidence from real campaigns","body":["For an 80-person Silicon Valley cybersecurity company, Beespoke has booked meetings with senior security leaders at companies with more than 500 employees, including high-level conversations at PayPal UK and Orange Cyberdefense.","For an NBC Peacock travel show, Beespoke opened conversations with senior PR and brand leaders connected to companies including Nestlé, Maserati, and major agency groups."],"links":[{"label":"Read the cybersecurity campaign case study","href":"/case-studies/cybersecurity-linkedin-lead-generation/"},{"label":"Read the media partnership outreach case study","href":"/case-studies/media-partnership-outreach/"}]}
     ],
-    "related":["/guides/outbound-lead-generation-cost/","/services/linkedin-lead-generation/","/industries/consulting-lead-generation/"]
+    "related":["/services/b2b-lead-generation/","/guides/outbound-lead-generation-cost/","/services/linkedin-lead-generation/"]
   },
   {
     "path": "/services/b2b-appointment-setting/",
@@ -21,7 +21,7 @@
     "description": "B2B appointment setting focused on ICP fit, real interest and held meetings—not calendar volume or vanity metrics.",
     "eyebrow": "Qualified appointment setting",
     "h1": "B2B appointment setting with the qualification rules defined first",
-    "answer": "B2B appointment setting is the process of finding suitable business buyers, starting a conversation, confirming fit and interest, and scheduling a sales meeting. Beespoke manages the work from targeting through booking and offers both a flat retainer and a hybrid held-meeting plan.",
+    "answer": "B2B appointment setting is the process of finding suitable business buyers, starting a conversation, confirming fit and interest, and scheduling a sales meeting. Beespoke operates as a focused appointment-setting company and outsourced appointment-setting partner from targeting through booking, with both a flat retainer and a hybrid held-meeting plan.",
     "sections": [
       {"heading":"Appointment setting versus lead generation","body":["Lead generation can stop at a contact, form submission, or positive reply. Appointment setting continues until an appropriate person agrees to a scheduled conversation. For a sales team, that distinction matters: a name is not yet pipeline.","Our work covers both stages. We research the market, run outreach, handle responses, check the agreed qualification criteria, and place suitable conversations on your calendar."]},
       {"heading":"The qualification checklist","body":["A useful appointment-setting agreement defines acceptance before the first message is sent. Otherwise, a provider can optimize for easy meetings instead of valuable ones."],"items":["Company type, industry, geography and size","Relevant title, seniority and responsibility","Required business context or trigger, when applicable","Explicit exclusions such as agencies, students or vendors","What the prospect must understand before booking","How reschedules, cancellations and no-shows are handled"]},
@@ -37,7 +37,7 @@
     "description": "Done-for-you B2B LinkedIn outreach with precise targeting, founder-led messaging, reply management and qualified meeting booking.",
     "eyebrow": "LinkedIn outbound",
     "h1": "LinkedIn lead generation that sounds like a credible human conversation",
-    "answer": "A LinkedIn lead generation agency uses the platform to identify relevant business buyers, build familiarity, start tailored conversations, follow up, and book qualified meetings. Beespoke manages that workflow with small, focused campaigns rather than generic high-volume automation.",
+    "answer": "A LinkedIn lead generation or LinkedIn outreach agency uses the platform to identify relevant business buyers, build familiarity, start tailored conversations, follow up, and book qualified meetings. Beespoke manages that workflow with small, focused campaigns rather than generic high-volume automation.",
     "sections": [
       {"heading":"What is included","body":["We define the account and persona filters, research prospects, sharpen the sending profile, write the connection and follow-up sequence, manage replies, and book suitable conversations.","LinkedIn works best when the person sending messages has a credible reason to contact the buyer. The profile, offer, target list, and message must tell the same story."],"items":["Sales Navigator targeting logic","Profile and positioning recommendations","Connection and message sequences","Response categorization and follow-up","Meeting qualification and booking","Campaign learning and iteration"]},
       {"heading":"Why focused campaigns outperform generic volume","body":["Automation makes it easy to send more messages and equally easy to damage trust. Senior buyers recognize recycled openings, false personalization, and an immediate pitch.","We favor narrower lists and a defensible reason for contact. That creates a smaller campaign with more useful learning: which segment recognizes the problem, which proof matters, and which language starts a real conversation."],"callout":"Personalization is not mentioning a university or recent post. It is showing why this person, at this company, has a plausible reason to care."},
@@ -220,7 +220,7 @@
     "description":"Understand outsourced SDR services, operating models, deliverables, ownership and when Beespoke’s focused agency model is the better fit.",
     "eyebrow":"Outsourced sales development",
     "h1":"Outsourced SDR services: scope, fit and tradeoffs",
-    "answer":"Outsourced SDR services provide external sales-development capacity for prospecting, outreach, qualification and meeting booking. Some providers supply a dedicated representative inside the client’s systems; others deliver a managed campaign or SDR pod. Beespoke provides focused LinkedIn-led campaign execution, not a full-time named SDR or large multichannel team.",
+    "answer":"Outsourced SDR services—also described as SDR outsourcing or outsourced sales development—provide external capacity for prospecting, outreach, qualification and meeting booking. Some providers supply a dedicated representative inside the client’s systems; others deliver a managed campaign or SDR pod. Beespoke provides focused LinkedIn-led campaign execution, not a full-time named SDR or large multichannel team.",
     "sections":[
       {"heading":"What an outsourced SDR service can include","items":["ICP and account-selection support","Contact research and list operations","Email, LinkedIn or phone execution","Message and sequence development","Reply handling and qualification","CRM activity and reporting","Meeting booking and no-show follow-up","SDR coaching, management and replacement"]},
       {"heading":"Dedicated rep, pod or managed campaign","body":["A dedicated rep offers continuity and closer integration but requires enough work and client management. A pod adds specialist roles and management at higher cost. A managed campaign owns a narrower channel or outcome with less client supervision."],"table":{"caption":"Common outsourced sales-development structures","headers":["Structure","Best for","Client responsibility","Main tradeoff"],"rows":[["Dedicated SDR","Ongoing capacity in one motion","Enablement and close management","Single-person ramp and continuity risk"],["SDR pod","Multichannel scale and specialist support","Strategic direction and sales follow-up","Higher commitment and overhead"],["Managed campaign","Focused test or defined channel","Offer input and discovery","Less like an embedded employee"]]}},
@@ -251,8 +251,8 @@
     "title":"B2B Lead Generation for Consulting Firms | Beespoke",
     "description":"Focused lead generation for consulting firms selling high-value expertise through narrow positioning, named accounts and credible conversations.",
     "eyebrow":"Consulting-firm lead generation",
-    "h1":"Lead generation for consulting firms with complex expertise",
-    "answer":"B2B lead generation for consulting firms works when a specific business problem, buyer, trigger and credible proof are clear before outreach begins. Beespoke helps specialist consultancies identify named accounts, translate expertise into relevant reasons to engage and book qualified conversations through focused LinkedIn outreach.",
+    "h1":"Lead generation for consulting and professional services firms",
+    "answer":"Professional services lead generation works when a specific business problem, buyer, trigger and credible proof are clear before outreach begins. Beespoke helps consulting and professional services firms identify named accounts, translate expertise into relevant reasons to engage and book qualified conversations through focused LinkedIn outreach.",
     "sections":[
       {"heading":"Why broad consulting positioning fails","body":["Buyers rarely search for generic expertise. They respond to a recognizable problem, consequence and reason to trust the firm in their context.","A consultancy offering strategy, transformation, technology and growth to every industry does not give outbound enough specificity to create relevance."],"callout":"Narrowing the campaign is not the same as narrowing the entire firm. It creates one testable route into the market."},
       {"heading":"Choose a market wedge","items":["One costly or urgent business problem","A definable company situation or trigger","A reachable buying committee","A credible diagnostic or point of view","Evidence appropriate to the claim","A project value that supports human acquisition"]},
@@ -366,5 +366,285 @@
       }
     ],
     "related":["/guides/outbound-lead-generation-cost/","/guides/appointment-setting-pricing/","/pricing/"]
+  },
+  {
+    "path":"/services/b2b-lead-generation/",
+    "title":"B2B Lead Generation Agency for Qualified Meetings | Beespoke",
+    "description":"Founder-led B2B lead generation services covering ICP strategy, account research, credible outreach, reply handling and qualified meeting booking.",
+    "eyebrow":"B2B lead generation services",
+    "h1":"A B2B lead generation agency built around qualified conversations",
+    "answer":"A B2B lead generation agency should do more than deliver contact lists. Beespoke defines the ideal customer profile, researches target accounts and buying roles, develops credible outreach, manages replies and books qualified meetings. The service is designed for B2B companies with a proven offer, identifiable buyers and someone ready to convert a serious first conversation.",
+    "sections":[
+      {
+        "heading":"What B2B lead generation includes",
+        "body":["B2B lead generation is the process of identifying companies that could genuinely benefit from an offer, finding the people involved in the buying decision and creating a credible reason to begin a conversation. The output should be sales opportunities with context—not purchased names or activity without intent.","Beespoke manages the outbound portion of that process. We translate the commercial strategy into target-account logic, buyer-role hypotheses, messaging, campaign execution, response handling and meeting booking. Your team owns discovery, solution design and closing."],
+        "items":["ICP, segment and exclusion criteria","Target-account and buying-committee research","Message angles grounded in a real business problem","LinkedIn-led outreach and considered follow-up","Human reply handling and qualification","Held-meeting, objection and market-learning reporting"]
+      },
+      {
+        "heading":"Who the service is designed for",
+        "body":["The best fit is a B2B company selling a valuable, proven offer to a market that can be defined by company characteristics, operating context and buying responsibility. A founder or sales leader should be available to run discovery quickly and give the campaign useful feedback.","The service is less appropriate when the target market is almost unlimited, the offer changes every week, average customer value cannot support human research, or the team has no capacity to follow up. More prospecting cannot repair those constraints."],
+        "table":{"caption":"B2B lead generation readiness signals","headers":["Signal","Ready to test","Resolve first"],"rows":[["Market","A narrow account universe and explicit exclusions","Every company could be a customer"],["Offer","A specific problem and credible commercial outcome","A broad capability list without a buying reason"],["Evidence","Relevant experience, proof or defensible insight","Claims the buyer cannot verify"],["Sales ownership","A named person can run discovery and follow-up","Meetings wait days for a response"],["Economics","One realistic customer can support several months of acquisition","The model depends on immediate high volume"]]}
+      },
+      {
+        "heading":"How Beespoke builds the campaign",
+        "body":["We start with the commercial hypothesis rather than a database export. That means agreeing on the problem, customer value, account conditions, buyer roles, reasons not to target an account and the evidence available to the sender.","The first segment is deliberately controlled. Replies reveal whether the audience recognizes the problem, whether the message earns attention and which objections expose a targeting or positioning weakness. We use those signals to revise the campaign before expanding coverage."],
+        "items":["Diagnose the offer, buyer and current sales motion","Define account, role and exclusion logic","Research a reviewable first segment","Write and approve message angles","Launch within a controlled audience","Handle replies and book suitable conversations","Review held meetings and revise the hypothesis"]
+      },
+      {
+        "heading":"What counts as a qualified lead",
+        "body":["Qualification should be written before outreach begins. At minimum, it should cover company fit, geography, role or buying responsibility, relevant context, explicit interest and attendance. A booked calendar event that fails those conditions should not be presented as equivalent to a held ICP meeting.","Beespoke reports booked, held, cancelled and no-show meetings separately. Rejection reasons and downstream opportunity acceptance are more useful than an inflated lead total because they show whether the campaign is producing conversations sales can actually progress."],
+        "callout":"Ask every agency to define lead, booked meeting, held meeting, qualified meeting and accepted opportunity separately. If the contract collapses those events into one number, the economics are impossible to evaluate."
+      },
+      {
+        "heading":"Channels, scope and honest limits",
+        "body":["Beespoke’s standard service is a focused, LinkedIn-led outbound program. It is not a call center, mass-email operation, paid-media agency or full-cycle closing team. If your market requires large-scale dialing, complex sending-domain infrastructure or round-the-clock multilingual coverage, a specialist built for that scope may be the better choice.","A narrow channel can still be commercially useful when the target accounts are identifiable and the buyer’s credibility threshold is high. The responsible decision is to match the operating model to the market instead of buying the longest channel list."],
+        "links":[{"label":"Review the focused outbound service","href":"/services/outbound-lead-generation/"},{"label":"Compare public plans and inclusions","href":"/pricing/"}]
+      },
+      {
+        "heading":"Pricing and the smallest credible test",
+        "body":["Beespoke publishes a $1,500 monthly plan and a hybrid plan at $1,000 per month plus $100 for each held meeting with the agreed ICP. Required software is separate. The right comparison includes setup, data, tools, client management time and the exact event that triggers a performance fee.","A useful initial test needs enough time and target coverage to produce a pattern, but it should not assume scale before the message and market show evidence of fit. Bring the offer, target buyer, current pipeline and sales economics to a fit call; we will identify the smallest test that could answer a real decision question."],
+        "links":[{"label":"See transparent Beespoke pricing","href":"/pricing/"},{"label":"Use the outbound break-even calculator","href":"/guides/outbound-lead-generation-cost/"}]
+      }
+    ],
+    "faqs":[
+      {"question":"What does a B2B lead generation agency do?","answer":"It defines or applies an ideal customer profile, researches relevant companies and buyers, creates outreach, manages responses, qualifies interest and helps schedule sales conversations. Exact channel, data, qualification and reporting responsibilities should be written into the scope."},
+      {"question":"How is B2B lead generation different from appointment setting?","answer":"Lead generation can end with an identified or interested contact. Appointment setting continues through qualification and scheduling. Beespoke covers both stages for its managed outbound campaigns and reports held meetings separately from contacts and bookings."},
+      {"question":"How much do B2B lead generation services cost?","answer":"Pricing depends on delivery model, channel scope, research depth, infrastructure and billing event. Beespoke publicly lists a $1,500 monthly plan and a $1,000 monthly hybrid plan plus $100 per held ICP meeting, with required software billed separately."},
+      {"question":"When should a company not hire a lead generation agency?","answer":"Do not scale agency execution when the buyer is undefined, the offer has not been validated, customer value cannot support hands-on acquisition or nobody can run discovery and timely follow-up. Resolve the underlying commercial constraint first."}
+    ],
+    "related":["/services/outbound-lead-generation/","/services/b2b-appointment-setting/","/guides/outbound-lead-generation-cost/"]
+  },
+  {
+    "path":"/guides/cold-email-agency/",
+    "title":"Cold Email Agency: Services, Risks and Selection Guide",
+    "description":"A practical buyer’s guide to cold email agencies: deliverability, infrastructure, targeting, compliance, pricing, reporting and provider evaluation.",
+    "eyebrow":"Cold email agency buyer’s guide",
+    "h1":"How to evaluate a cold email agency before it touches your domain",
+    "answer":"A cold email agency can manage targeting, contact data, copy, sending infrastructure, campaign execution, replies and appointment setting. The important buying question is not how many emails it can send. It is whether the agency protects domain reputation, uses relevant and lawful data, creates credible messages, separates booked from held meetings and leaves you with usable campaign assets and learning.",
+    "sections":[
+      {
+        "heading":"What a cold email agency should manage",
+        "body":["Cold email is an operating system, not only a writing task. A credible provider should name who owns account research, contact verification, sending domains, mailbox configuration, authentication, ramp, copy approval, reply handling, opt-outs and reporting.","Scope varies widely. Some providers supply software and templates, some manage infrastructure while the client handles replies, and others deliver a managed appointment-setting service. Compare the transferred work before comparing monthly retainers."],
+        "items":["ICP and exclusion logic","Contact-source and verification method","Sending domains, mailboxes and authentication","Volume and ramp policy","Copy, follow-up and approval process","Reply, opt-out and suppression handling","Deliverability monitoring and incident response","Booked, held and qualified-meeting reporting"]
+      },
+      {
+        "heading":"The domain and deliverability questions",
+        "body":["Email infrastructure choices can affect brand reputation and the ability to reach buyers. Ask whether the agency uses your primary domain, separate sending domains or client-owned mailboxes; who purchases and controls them; how SPF, DKIM and DMARC are configured; and what happens when performance deteriorates.","No provider can guarantee inbox placement. Treat a guarantee as a warning sign. A stronger answer explains capacity limits, monitoring, pause conditions, remediation and the difference between a delivered message, an inbox placement and a reply."],
+        "callout":"Never grant access until ownership, authentication, sending limits, suppression data and the shutdown procedure are documented."
+      },
+      {
+        "heading":"Targeting and message quality",
+        "body":["Deliverability cannot make an irrelevant offer useful. The campaign still needs a narrow account hypothesis, a plausible buying role, a business reason for contact and proof appropriate to the claim. Personalization should improve relevance, not insert superficial facts into a generic pitch.","Review actual list logic and complete message sequences before launch. Ask how the provider prevents duplicate contact, excludes customers and open opportunities, handles subsidiaries and determines whether a role is responsible for the problem."],
+        "table":{"caption":"Cold email quality review","headers":["Area","Strong practice","Warning sign"],"rows":[["Targeting","Written account and role logic","A purchased list described as the ICP"],["Copy","Specific problem, restrained claim and clear reason for contact","Manufactured familiarity or exaggerated outcomes"],["Personalization","Relevant account or role context","Generic compliments and scraped trivia"],["Follow-up","Adds context and respects negative signals","Repeated pressure after a clear no"],["Reporting","Held meetings, fit and progression","Volume, opens and replies without quality"]]}
+      },
+      {
+        "heading":"Compliance and buyer respect",
+        "body":["Cold email rules depend on geography, recipient type, data source, message purpose and the way personal information is processed. A provider should be able to explain its lawful basis, required disclosures, suppression process, opt-out handling, retention and responsibilities under the agreement.","This page is an operational buying guide, not legal advice. Obtain qualified advice for the jurisdictions and campaign design involved. A vendor saying that B2B email is always exempt is not an adequate compliance assessment."],
+        "items":["Countries and recipient types in scope","Source and intended use of personal data","Required sender identity and disclosures","Simple and promptly honored opt-out","Suppression records shared across campaigns","Data retention, deletion and vendor access","Named controller and processor responsibilities"]
+      },
+      {
+        "heading":"How to compare proposals",
+        "body":["Normalize the number of domains and mailboxes, contact-data allowance, research depth, monthly send range, reply handling, qualification, meetings definition, setup fees, tools and minimum term. Then model cost per held ICP meeting and accepted opportunity.","Cheap sending capacity is not comparable with a managed campaign. Equally, a high retainer does not prove that research or senior judgment is included. Ask to meet the people who will operate the campaign and inspect the handover process."],
+        "links":[{"label":"Use the cold email agency pricing guide","href":"/guides/cold-email-agency-pricing/"},{"label":"Compare agency and in-house execution","href":"/compare/lead-generation-agency-vs-in-house-team/"}]
+      },
+      {
+        "heading":"Where Beespoke fits",
+        "body":["Beespoke’s standard managed service is LinkedIn-led. It does not currently sell mass cold-email infrastructure as an included standard deliverable. We publish this guide because buyers often compare email, LinkedIn, outsourced SDR and appointment-setting models as if they transferred the same work and risk.","If email is essential, use the checklist above to select a specialist and decide how it should coordinate with your broader account strategy. If a focused LinkedIn-led campaign fits the market, Beespoke can manage targeting, messaging, replies and meeting booking within that disclosed scope."],
+        "links":[{"label":"Review LinkedIn lead generation services","href":"/services/linkedin-lead-generation/"},{"label":"See Beespoke’s exact service scope","href":"/services/b2b-lead-generation/"}]
+      }
+    ],
+    "faqs":[
+      {"question":"What services does a cold email agency provide?","answer":"Depending on scope, an agency may handle ICP definition, contact data, sending domains and mailboxes, authentication, copy, campaign execution, reply management and appointment setting. Buyers should confirm every responsibility rather than assume they are included."},
+      {"question":"Can a cold email agency guarantee inbox placement?","answer":"No responsible provider can guarantee inbox placement because recipient systems and sender reputation change. Ask instead about authentication, capacity limits, monitoring, pause rules and remediation."},
+      {"question":"Should a cold email agency use my primary domain?","answer":"Using the primary domain can expose the company’s normal email reputation to campaign risk. Ask the agency to document the domain architecture, ownership, authentication, tradeoffs and shutdown plan before granting access."},
+      {"question":"Does Beespoke provide cold email campaigns?","answer":"Beespoke’s standard managed service is currently LinkedIn-led and does not include mass cold-email infrastructure. The company can advise on channel fit and account strategy, while email execution should be separately scoped with a qualified specialist when required."}
+    ],
+    "related":["/guides/cold-email-agency-pricing/","/services/linkedin-lead-generation/","/services/b2b-lead-generation/"]
+  },
+  {
+    "path":"/services/outbound-sales-outsourcing/",
+    "title":"Outbound Sales Outsourcing for B2B Prospecting | Beespoke",
+    "description":"Outsource B2B outbound prospecting, account research, credible outreach, reply handling and qualified meeting booking without outsourcing the close.",
+    "eyebrow":"B2B outbound sales outsourcing",
+    "h1":"Outbound sales outsourcing without pretending prospecting is the entire sale",
+    "answer":"Outbound sales outsourcing can transfer prospecting work—target research, outreach, follow-up, reply handling and meeting booking—to an external team. Beespoke provides that front-of-funnel scope through a founder-led, LinkedIn-focused service. Your team retains discovery, solution design, proposals and closing, so responsibilities and handoffs remain explicit.",
+    "sections":[
+      {
+        "heading":"What Beespoke can own",
+        "body":["Outsourcing works when the boundary is operationally clear. Beespoke can own the campaign from ICP diagnosis through a qualified meeting: account and role selection, message development, LinkedIn execution, response handling, qualification and scheduling.","The client supplies product truth, proof, exclusions and timely sales feedback. Beespoke does not present itself as the account executive, negotiate contracts or replace a sales leader. That separation protects buyer trust and makes performance easier to diagnose."],
+        "items":["Market and ICP working session","Target-account and decision-maker research","Message and follow-up development","LinkedIn-led campaign execution","Human response handling","Qualification and calendar coordination","Weekly campaign and learning review"]
+      },
+      {
+        "heading":"Outsourced prospecting versus outsourced closing",
+        "body":["Prospecting creates and qualifies the first conversation. Closing discovers requirements in depth, shapes the commercial solution, handles stakeholders, negotiates and secures the decision. A provider may offer both, but the skills, access and accountability are different.","Beespoke deliberately focuses on prospecting and appointment setting. A company seeking full-cycle outsourced sales should evaluate providers with demonstrated discovery, technical sales, pipeline management, contracting and closing capability in the relevant market."],
+        "table":{"caption":"Responsibility boundary for Beespoke outbound outsourcing","headers":["Stage","Beespoke","Client"],"rows":[["ICP and positioning","Facilitates campaign definition","Approves and supplies product truth"],["Account research","Owns agreed research scope","Confirms exclusions and strategic accounts"],["Outreach and follow-up","Creates and manages LinkedIn-led execution","Approves claims and sender context"],["Replies and qualification","Handles first response and applies written criteria","Supports technical or sensitive questions"],["Discovery and opportunity progression","Provides context and handoff","Owns discovery, CRM progression and next steps"],["Proposal and close","Not included","Owns solution, negotiation and contract"]]}
+      },
+      {
+        "heading":"When outsourcing is the right model",
+        "body":["Outsourcing can be rational when a company has a credible offer and capable closers but lacks repeatable prospecting capacity, does not want to hire before validating a segment or needs a managed test with visible assumptions.","It is not a shortcut around strategy. If the company cannot identify its buyer, explain the problem or follow up on meetings, an external team will expose those gaps rather than solve them automatically."],
+        "items":["You can describe a narrow account universe","A typical customer supports hands-on acquisition","Relevant proof or insight gives the sender credibility","A sales owner can follow up quickly","The company wants learning before adding headcount","Data, copy and campaign ownership can be documented"]
+      },
+      {
+        "heading":"How the handoff should work",
+        "body":["A qualified handoff includes the account, participant, role, relevant conversation context, agreed reason for meeting and any known constraints. Calendar booking without context forces the sales team to rediscover the conversation and increases no-show and trust risk.","After the meeting, the client should record whether it was held, matched the ICP, became an accepted opportunity and why it progressed or failed. That feedback changes the target logic and message more effectively than open or connection metrics."],
+        "callout":"The handoff is not complete when a calendar invitation is sent. It is complete when sales has enough context to continue the buyer’s conversation credibly."
+      },
+      {
+        "heading":"Pricing, control and asset ownership",
+        "body":["Compare fully loaded cost, not only the retainer. Include data, software, sender access, management time, setup, variable fees and the cost of replacing the model. Confirm who owns lists, copy, campaign decisions, accounts and reporting history after cancellation.","Beespoke publishes a $1,500 monthly plan and a $1,000 monthly hybrid plan plus $100 for each held meeting with the agreed ICP. Required software is separate. Both plans retain the same basic principle: qualification is written before performance is judged."],
+        "links":[{"label":"See transparent pricing","href":"/pricing/"},{"label":"Compare outsourced and in-house SDR models","href":"/compare/outsourced-sdr-vs-in-house-sdr/"}]
+      },
+      {
+        "heading":"How to evaluate an outsourcing provider",
+        "body":["Ask who performs the work, how much capacity is allocated, which channels are included, what accesses your accounts, how quality is reviewed and which metrics can be reconciled with your CRM. Speak with the delivery owner rather than evaluating only the sales presentation.","A credible provider should identify non-fit conditions, explain the limits of its channel and help you compare the model with an internal hire. If every market receives the same promised volume, the provider is selling activity rather than a diagnosis."],
+        "links":[{"label":"Compare a lead generation agency with an in-house team","href":"/compare/lead-generation-agency-vs-in-house-team/"},{"label":"Review outsourced SDR scope and tradeoffs","href":"/services/outsourced-sdr/"}]
+      }
+    ],
+    "faqs":[
+      {"question":"What is outbound sales outsourcing?","answer":"It is the transfer of some or all outbound sales work to an external provider. Scope may include research, prospecting, outreach, replies, qualification, meetings, discovery or closing. Beespoke’s stated scope ends at qualified meeting handoff."},
+      {"question":"Does Beespoke close deals for clients?","answer":"No. Beespoke manages focused outbound prospecting and appointment setting. The client owns discovery, opportunity progression, proposals, negotiation and closing."},
+      {"question":"Is outsourcing outbound sales cheaper than hiring SDRs?","answer":"It can reduce recruiting, ramp and management burden, but the correct comparison includes retainers, tools, data, internal management, replacement risk and opportunity quality. The lower headline cost is not automatically the lower fully loaded cost."},
+      {"question":"What should remain with the client?","answer":"The client should retain product truth, approval of claims, sensitive account exclusions, sales discovery, CRM progression, solution design, proposals and closing. Campaign data and learning ownership should be explicit in the contract."}
+    ],
+    "related":["/services/outsourced-sdr/","/compare/outsourced-sdr-vs-in-house-sdr/","/pricing/"]
+  },
+  {
+    "path":"/guides/cold-email-agency-pricing/",
+    "title":"Cold Email Agency Pricing: Costs, Scope and Quote Calculator",
+    "description":"Compare cold email agency pricing by delivery model, infrastructure, data, reply handling and qualified-meeting cost—not the headline retainer alone.",
+    "eyebrow":"Cold email agency pricing guide",
+    "h1":"What does a cold email agency cost—and what should the price include?",
+    "answer":"Cold email agency pricing is only comparable after the scope is normalized. A quote may cover software access, mailbox infrastructure, list building, copy, managed sending, reply handling or qualified meetings—and those are different products. Add setup, domains, inboxes, data, tools, management and variable fees before calculating cost per held ICP meeting and accepted opportunity.",
+    "sections":[
+      {
+        "heading":"Why cold email quotes vary",
+        "body":["Two providers can use the same category label while transferring completely different work. A low monthly fee may be software and templates. A managed campaign may include research, infrastructure, monitoring and replies. A performance model may charge on an event whose qualification standard is not yet defined.","Start by identifying the delivery model, not the price. Then confirm volume, number of sending assets, contact-data allowance, research depth, copy ownership, reply management and meeting definition."],
+        "table":{"caption":"Common cold email pricing models","headers":["Model","Usually priced by","Buyer still needs to verify"],"rows":[["Software or enablement","Seats, mailboxes or sending capacity","Data, infrastructure, copy and daily operation"],["Managed campaign","Monthly retainer and sometimes setup","Research depth, sending assets and reply handling"],["Hybrid","Lower retainer plus lead or meeting fee","Billing event, qualification and attendance"],["Performance-only","Lead, reply, booking or held meeting","Quality controls, dispute rules and incentives"],["Consulting or buildout","Project or day rate","Handover, ongoing ownership and support"]]}
+      },
+      {
+        "heading":"Build the fully loaded monthly cost",
+        "body":["Add every required layer over the same evaluation period. One-time setup should be spread across the intended term, and internal management should not be treated as free. Separate costs that remain useful after cancellation from fees that buy temporary capacity.","The denominator matters as much as the numerator. Cost per send rewards volume. Cost per positive reply ignores fit and attendance. Use held meetings that satisfy the written ICP, then track the subset accepted by sales as real opportunities."],
+        "items":["Agency retainer or platform subscription","Setup and technical implementation","Sending domains and mailboxes","Contact data and verification","Copywriting and research","Reply and calendar management","Per-lead or per-meeting fees","Client review, compliance and sales time"]
+      },
+      {
+        "heading":"Normalize the meeting definition",
+        "body":["Write company fit, role, geography, relevant context, interest, booking and attendance rules into the commercial agreement. Define duplicates, existing opportunities, cancellations, no-shows, reschedules and the dispute window.","A quote based on booked meetings can look cheaper than a quote based on held qualified meetings because the billing events are different. Convert every proposal to the same outcome before comparing effective price."],
+        "callout":"Comparable monthly cost per held ICP meeting = all monthly and allocated setup costs divided by qualified meetings that actually took place."
+      },
+      {
+        "heading":"The infrastructure questions behind the price",
+        "body":["Ask exactly how many domains and mailboxes are included, who owns them, how authentication is configured, what sending limits apply and who responds to deliverability deterioration. Also ask whether the provider’s fee changes when assets must be replaced.","Cheap infrastructure is expensive when it creates brand risk or becomes unusable at handover. Ownership and access should remain understandable to the client even if the agency performs the technical work."],
+        "items":["Domain registrar and legal owner","Mailbox provider and administrator","SPF, DKIM and DMARC responsibility","Monitoring and pause thresholds","Suppression and opt-out storage","Replacement and incident costs","Asset handover at termination"]
+      },
+      {
+        "heading":"A defensible quote comparison",
+        "body":["Request the same fields from every shortlisted provider and have the delivery owner confirm them. Model a pessimistic, expected and optimistic case using held ICP meetings and accepted opportunities rather than vendor-promised send volume.","The smallest quote is attractive only if its remaining work, risk and outcome definition still fit your team. The largest quote is rational only when the additional research, infrastructure and management are visible."],
+        "links":[{"label":"Use the complete cold email agency checklist","href":"/guides/cold-email-agency/"},{"label":"Review the broader outbound pricing benchmark","href":"/research/2026-b2b-outbound-pricing-benchmark/"}]
+      },
+      {
+        "heading":"Beespoke disclosure",
+        "body":["Beespoke publishes this guide as a buyer resource and sells LinkedIn-led outbound services. Mass cold-email infrastructure is not included in Beespoke’s standard plans. The public Beespoke prices therefore should not be compared with a managed cold-email quote as if the channel scope were identical.","Use this guide to interrogate email proposals, and use the Beespoke pricing pages only when a focused LinkedIn-led program is the relevant operating model."],
+        "links":[{"label":"See Beespoke’s transparent plans","href":"/pricing/"},{"label":"Review B2B lead generation scope","href":"/services/b2b-lead-generation/"}]
+      }
+    ],
+    "faqs":[
+      {"question":"How do cold email agencies charge?","answer":"Common models include software or seat fees, monthly managed retainers, setup fees, hybrid retainers plus performance charges, project buildouts and fees per lead, booking or held meeting. The billing event and included infrastructure must be defined before prices are comparable."},
+      {"question":"What costs are often excluded from a cold email agency quote?","answer":"Domains, mailboxes, data, verification, warm-up or monitoring tools, CRM work, setup, reply handling, variable fees and client management time may be separate. Request a fully loaded estimate in writing."},
+      {"question":"Should I compare agencies by cost per email?","answer":"No. Cost per email rewards sending volume rather than commercial quality. Compare fully loaded cost per held meeting that satisfies written ICP criteria and per opportunity accepted by sales."},
+      {"question":"Does Beespoke’s published pricing include cold email infrastructure?","answer":"No. Beespoke’s standard plans are focused on LinkedIn-led outbound, and required software is separate. A managed cold-email program should be scoped and priced independently."}
+    ],
+    "related":["/guides/cold-email-agency/","/research/2026-b2b-outbound-pricing-benchmark/","/pricing/"]
+  },
+  {
+    "path":"/compare/outsourced-sdr-vs-in-house-sdr/",
+    "title":"Outsourced SDR vs In-House SDR: Cost and Control Comparison",
+    "description":"Compare outsourced and in-house SDR models across fully loaded cost, ramp, management, control, learning, risk and long-term capability.",
+    "eyebrow":"SDR operating-model comparison",
+    "h1":"Outsourced SDR or in-house SDR: which model should you choose?",
+    "answer":"Choose an in-house SDR when sales development is a durable core capability, the company can recruit and manage well, and the expected volume justifies dedicated headcount. Choose an outsourced SDR or managed agency when you need faster capacity, a bounded market test or specialist execution without hiring first. Compare fully loaded cost, management burden, control, learning ownership and replacement risk—not salary versus retainer alone.",
+    "sections":[
+      {
+        "heading":"The decision in one table",
+        "table":{"caption":"Outsourced SDR versus in-house SDR","headers":["Factor","Outsourced model","In-house model"],"rows":[["Ramp","Provider supplies an existing operating system","Recruiting, onboarding and coaching must be built"],["Management","Shared with or transferred to provider","Fully owned by sales leadership"],["Control","Defined through scope, access and reporting","Greater direct control over priorities and behavior"],["Market learning","Fast if the provider exposes evidence","Stays close to product and sales by default"],["Continuity","Depends on provider staffing and handover","Depends on retention and internal documentation"],["Cost shape","Retainer, tools and possible variable fees","Salary, taxes, benefits, tools, recruiting and management"],["Best use","Validation, flexible capacity or specialist campaign","Durable repeatable motion at sustained volume"]]}
+      },
+      {
+        "heading":"Calculate fully loaded cost",
+        "body":["For an internal SDR, include salary, employer costs, commission, recruiting, ramp, manager time, tools, data, office or equipment, enablement and turnover. For an outsourced model, include setup, retainer, variable fees, required software, client management and any internal work retained.","Compare both over the same time horizon. A three-month test and a mature twelve-month internal team solve different planning problems. Then calculate cost per held ICP meeting and accepted opportunity, while keeping the value of long-term internal capability visible."],
+        "links":[{"label":"Use the outsourced SDR cost framework","href":"/guides/outsourced-sdr-cost/"},{"label":"Review public outbound price points","href":"/research/2026-b2b-outbound-pricing-benchmark/"}]
+      },
+      {
+        "heading":"Management capacity changes the answer",
+        "body":["An internal hire does not arrive with positioning, lists, copy, coaching, quality assurance and analytics already solved. If the sales leader lacks time to manage those systems, the apparent control of hiring can become unmanaged execution.","Outsourcing also requires management. The client must provide product truth, approve claims, support difficult replies, run discovery and return opportunity feedback. A provider can reduce operating burden but cannot remove commercial ownership."],
+        "callout":"If nobody can own discovery and campaign feedback, neither an employee nor an outsourced team has the conditions to succeed."
+      },
+      {
+        "heading":"Control, learning and intellectual property",
+        "body":["An internal team naturally keeps account knowledge and customer language close to the company, but only if it documents the work. An outsourced provider can accelerate learning, but the contract should ensure access to target logic, lists, copy, decisions, systems and reporting history.","Confirm who owns domains, mailboxes, LinkedIn profiles, CRM records, contact data and message assets. Also confirm export format and handover timing. Dependency is an operating risk regardless of the model."],
+        "items":["Account and contact data ownership","Copy and sequence ownership","Sender profiles and domain control","CRM history and qualification notes","Experiment decisions and market learning","Access removal and handover process"]
+      },
+      {
+        "heading":"When to choose each model",
+        "body":["Choose in-house when the motion is proven, work is steady enough for dedicated capacity, managers can coach it and customer learning is strategically central. Choose outsourced execution when you need to test a segment before hiring, add capacity temporarily or access an operating specialty the team lacks.","A staged model is often sensible: use a bounded external program to validate account logic and messages, then decide whether to retain the provider, build internally or combine both. The handover must be designed from the start."],
+        "items":["In-house: durable volume and strong management","In-house: sensitive product complexity requiring constant internal access","Outsourced: a defined campaign or new-market test","Outsourced: urgent capacity without a premature permanent hire","Hybrid: internal owner plus specialist external execution"]
+      },
+      {
+        "heading":"Where Beespoke fits",
+        "body":["Beespoke is closer to a managed lead generation agency than a staff-augmentation SDR vendor. It owns a focused campaign across ICP work, research, LinkedIn-led outreach, replies and qualified meeting booking. It does not place a full-time rep inside the client’s systems or replace a sales manager.","That model fits companies that want a senior-led test or focused external campaign. Companies needing dedicated daily rep capacity across calling, email and CRM administration should evaluate a true outsourced SDR provider or build internally."],
+        "links":[{"label":"Compare outsourced SDR and agency models","href":"/guides/outsourced-sdr-vs-lead-generation-agency/"},{"label":"Review Beespoke’s outbound outsourcing scope","href":"/services/outbound-sales-outsourcing/"}]
+      }
+    ],
+    "faqs":[
+      {"question":"Is an outsourced SDR cheaper than an in-house SDR?","answer":"Sometimes, but only after salary, employer costs, recruiting, ramp, management, tools, data, setup, retainers and variable fees are normalized over the same period. Compare cost per held ICP meeting and accepted opportunity as well as long-term capability value."},
+      {"question":"When should a company hire an in-house SDR?","answer":"An internal hire is strongest when the sales motion is proven, prospecting volume is durable, management capacity exists and customer learning should remain tightly embedded in the company."},
+      {"question":"When should a company outsource SDR work?","answer":"Outsourcing fits a bounded market test, temporary capacity requirement, specialist channel need or situation where hiring before validating the motion would create unnecessary fixed risk."},
+      {"question":"Is Beespoke an outsourced SDR provider?","answer":"Beespoke provides managed sales-development work but is structured as a focused lead generation agency rather than full-time SDR staff augmentation. Its standard scope is LinkedIn-led targeting, outreach, replies and qualified meeting booking."}
+    ],
+    "related":["/services/outsourced-sdr/","/services/outbound-sales-outsourcing/","/guides/outsourced-sdr-cost/"]
+  },
+  {
+    "path":"/compare/lead-generation-agency-vs-in-house-team/",
+    "title":"Lead Generation Agency vs In-House Team: Buyer’s Guide",
+    "description":"Compare a lead generation agency with an in-house team by speed, cost, control, management, channel capability, evidence and learning ownership.",
+    "eyebrow":"Lead generation operating-model guide",
+    "h1":"Lead generation agency or in-house team: which should you build?",
+    "answer":"Hire a lead generation agency when you need a defined campaign, faster operating capacity or specialist execution without building the entire system first. Build in-house when lead generation is a durable core capability, the sales motion is proven and leadership can recruit, coach and retain the team. The best decision compares fully loaded cost, control, learning, channel requirements and the risk of being wrong.",
+    "sections":[
+      {
+        "heading":"Start with the capability gap",
+        "body":["Do not begin with agency versus employee. Identify what is actually missing: strategy, market evidence, account research, copy, infrastructure, channel execution, reply management, sales management or closing capacity. Different gaps require different operating models.","An agency is most useful when it owns a coherent campaign rather than supplying disconnected tasks. An internal team is most useful when the company can give it sustained demand, management and access to product and customer knowledge."],
+        "items":["Need to validate one segment: managed test or specialist agency","Need persistent high-volume capacity: consider internal hiring","Need management and coaching: sales leader or fractional leadership","Need a single technical channel: specialist provider","Need discovery and closing: account executive capability, not only lead generation"]
+      },
+      {
+        "heading":"Compare agency and in-house economics",
+        "table":{"caption":"Lead generation agency versus internal team","headers":["Factor","Agency","In-house"],"rows":[["Initial speed","Can begin with an established process","Requires recruiting and ramp"],["Fixed commitment","Contractual but usually more flexible than headcount","Salary, employment and management commitment"],["Control","Governed through scope and review","Direct control over priorities and behavior"],["Specialization","Access to a campaign team and existing systems","Depth grows through internal experience"],["Customer learning","Must be deliberately transferred","Naturally closer to product and sales"],["Continuity","Depends on provider staffing and documentation","Depends on retention and internal documentation"],["Scale economics","Can become expensive at sustained volume","Can become more efficient after the motion is proven"]]}
+      },
+      {
+        "heading":"Use the cost of being wrong",
+        "body":["A failed agency engagement can consume fees, market goodwill and time. A premature internal hire can add recruiting expense, management load and months of fixed cost before the motion is validated. Both decisions carry opportunity cost.","Model pessimistic, expected and optimistic outcomes over the same period. Include management and infrastructure, then ask which model makes the next commercial uncertainty cheaper and faster to resolve."],
+        "callout":"The correct first model is often the one that answers the most important uncertainty without creating a larger irreversible commitment."
+      },
+      {
+        "heading":"Questions to ask an agency",
+        "body":["Meet the delivery owner and ask for the exact operating system. Confirm ICP responsibility, research depth, channels, sender access, copy approval, reply handling, qualification, reporting, security and asset ownership. Ask when the provider would advise against its own service.","References and case studies should show bounded evidence rather than guaranteed transfer. A named logo without scope, denominator or limitation is weaker than a modest case explained honestly."],
+        "items":["Who performs each part of the work?","Which channels and third-party tools are included?","What counts as a qualified and held meeting?","How are negative replies and exclusions handled?","Which assets and data does the client own?","How does market learning reach sales and product?","What are the stop, revision and exit rules?"]
+      },
+      {
+        "heading":"Questions to answer before hiring internally",
+        "body":["Define the manager, weekly coaching time, expected activity and quality standards, tools, data, onboarding, compensation and credible ramp period. Decide who creates lists and messages and how product or industry questions are handled.","If those systems do not exist, include the cost and time to build them. Hiring a junior rep before naming the operating owner often creates the appearance of capacity without the conditions for useful execution."],
+        "items":["Is the market and offer proven enough for permanent capacity?","Who coaches calls, messages, objections and qualification?","How long can the company support ramp and iteration?","What happens if the first hire leaves?","Which learning must stay inside the company?"]
+      },
+      {
+        "heading":"A staged decision can reduce risk",
+        "body":["Many companies can use an agency to test a narrow segment, document the campaign and establish early evidence before committing to a permanent team. Others can keep an internal commercial owner while outsourcing only a specialist channel or research function.","If the external model works, decide whether continued flexibility or internal scale is more valuable. If it fails, determine whether the cause was market, offer, targeting, message, channel or execution before changing models."],
+        "links":[{"label":"Review B2B lead generation services","href":"/services/b2b-lead-generation/"},{"label":"Compare outsourced and in-house SDR capacity","href":"/compare/outsourced-sdr-vs-in-house-sdr/"}]
+      }
+    ],
+    "faqs":[
+      {"question":"Is a lead generation agency better than an in-house team?","answer":"Neither model is universally better. An agency is often stronger for a defined test, faster capacity or specialist execution. An in-house team is often stronger when the motion is proven, volume is durable and management can build a long-term capability."},
+      {"question":"What costs should be included in the comparison?","answer":"For an agency, include setup, retainers, variable fees, tools, data and client management. For an internal team, include salary, employer costs, recruiting, ramp, management, tools, data, enablement and turnover."},
+      {"question":"Can an agency help before an internal hire?","answer":"Yes. A bounded agency engagement can test a segment, message or channel and document learning before the company commits to permanent capacity. The agreement should preserve client ownership of data, copy and campaign history."},
+      {"question":"What should never be outsourced completely?","answer":"Product truth, approval of material claims, sensitive account exclusions, sales discovery, customer commitments and final commercial decisions should remain under clear client ownership, even when execution is external."}
+    ],
+    "related":["/services/b2b-lead-generation/","/compare/outsourced-sdr-vs-in-house-sdr/","/pricing/"]
   }
 ]

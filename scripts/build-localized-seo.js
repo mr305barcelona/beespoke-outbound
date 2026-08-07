@@ -189,6 +189,12 @@ function localizeHtml(source, page, locale, dictionary) {
       [/Reserva una conversación/g, "Reservar una conversación"], [/guía de artículos/g, "Guía del artículo"], [/guía de decisión del comprador/g, "Guía de decisión del comprador"],
       [/Generación de leads outbound a medida \| Agencia de reserva de reuniones B2B/g, "Beespoke Outbound | Agencia de concertación de reuniones B2B"],
       [/Generación de leads outbound que reserva reuniones reales con tus clientes ideales/g, "Generación de leads outbound que consigue reuniones reales con tus clientes ideales"],
+      [/correo electrónico en frío/gi, "cold email"], [/correo electrónico frío/gi, "cold email"], [/correos electrónicos fríos/gi, "emails en frío"],
+      [/ventas salientes/gi, "ventas outbound"], [/venta saliente/gi, "venta outbound"],
+      [/clientes potenciales calificados/gi, "leads cualificados"], [/cliente potencial calificado/gi, "lead cualificado"],
+      [/reuniones calificadas/gi, "reuniones cualificadas"], [/reunión calificada/gi, "reunión cualificada"],
+      [/completamente cargad[oa]s?/gi, "total"],
+      [/data-encaje/g, "data-fit"],
       [/>como funciona</gi, ">Cómo funciona<"]
     ],
     ca: [
@@ -237,6 +243,9 @@ function localizeHtml(source, page, locale, dictionary) {
       [/Guia d'articles/g, "Guia de l'article"],
       [/generació de leads outbound de Beespoke \| Agència de reserves de reunions B2B/gi, "Beespoke Outbound | Agència de concertació de reunions B2B"],
       [/Generació de leads outbound que reserva reunions reals amb els vostres clients ideals/g, "Generació de leads outbound que genera reunions reals amb els teus clients ideals"]
+      ,[/correu electrònic en fred/gi, "cold email"], [/correu electrònic fred/gi, "cold email"], [/correus electrònics freds/gi, "emails en fred"],
+      [/generació de contactes/gi, "generació de leads"], [/vendes sortints/gi, "vendes outbound"], [/venda sortint/gi, "venda outbound"],
+      [/completament carregat/gi, "total"], [/completament carregada/gi, "total"], [/data-encaix/g, "data-fit"]
     ],
     fr: [
       [/\$10,000/g, "10 000 $"],
@@ -278,6 +287,9 @@ function localizeHtml(source, page, locale, dictionary) {
       [/Beespoke aide les entreprises B2B à créer un pipeline de ventes en identifiant les bons décideurs, en créant une prospection convaincante et en réservant des réunions qualifiées directement dans votre calendrier\./g, "Beespoke aide les entreprises B2B à générer du pipeline en identifiant les bons décideurs, en créant des messages de prospection convaincants et en réservant des rendez-vous qualifiés directement dans votre calendrier."],
       [/Génération de leads outbound Beespoke \| Agence de réservation de réunions B2B/g, "Beespoke Outbound | Agence de prise de rendez-vous B2B"],
       [/Génération de leads outbound qui réserve de véritables réunions avec vos clients idéaux/g, "Génération de leads outbound qui obtient de vrais rendez-vous avec vos clients idéaux"]
+      ,[/courrier électronique froid/gi, "cold email"], [/e-mail froid/gi, "cold email"], [/email froid/gi, "cold email"],
+      [/ventes sortantes/gi, "ventes outbound"], [/vente sortante/gi, "vente outbound"],
+      [/entièrement chargé/gi, "total"], [/entièrement chargée/gi, "totale"], [/data-adéquation/g, "data-fit"]
     ]
   };
   for (const [pattern, replacement] of terminology[locale]) html = html.replace(pattern, replacement);

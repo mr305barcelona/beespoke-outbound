@@ -32,6 +32,7 @@ for (const locale of locales) {
     const file = path.join(root, localizedPath.replace(/^\//, ""), "index.html");
     if (!fs.existsSync(file)) { failures.push(`${localizedPath}: missing`); continue; }
     const html = fs.readFileSync(file, "utf8");
+    const sourceHtml = fs.readFileSync(path.join(root, page.path.replace(/^\//, ""), "index.html"), "utf8");
     const expectedCanonical = `https://outbound-lead-generation.com${localizedPath}`;
     if (!html.includes(`<html lang="${locale}">`)) failures.push(`${localizedPath}: wrong lang`);
     if (!html.includes(`rel="canonical" href="${expectedCanonical}"`)) failures.push(`${localizedPath}: wrong canonical`);
@@ -42,6 +43,8 @@ for (const locale of locales) {
     if (!html.includes(`/${locale}/pricing/`) && page.path !== "/about/noah-levy/") failures.push(`${localizedPath}: localized internal links missing`);
     if (!html.includes("Noah Levy") || !html.includes("Beespoke")) failures.push(`${localizedPath}: proper noun altered`);
     if (!html.includes('property="og:image"') || !html.includes('name="twitter:image"') || !html.includes('summary_large_image')) failures.push(`${localizedPath}: social preview metadata missing`);
+    if (sourceHtml.includes("data-fit") && !html.includes("data-fit")) failures.push(`${localizedPath}: interactive fit attributes translated`);
+    if (/data-(?:encaje|encaix|adéquation)/i.test(html)) failures.push(`${localizedPath}: localized data attribute leaked`);
     for (const forbidden of ["Va dir abelles", "Sortida d'abelles", "Saliente a medida", "Beespoke sortant", "Noé Levy", "Noah Lévy", "generación-de-leads-salientes.com"]) {
       if (html.includes(forbidden)) failures.push(`${localizedPath}: bad translation '${forbidden}'`);
     }
