@@ -43,6 +43,8 @@ for (const locale of locales) {
     if (!html.includes(`/${locale}/pricing/`) && page.path !== "/about/noah-levy/") failures.push(`${localizedPath}: localized internal links missing`);
     if (!html.includes("Noah Levy") || !html.includes("Beespoke")) failures.push(`${localizedPath}: proper noun altered`);
     if (!html.includes('property="og:image"') || !html.includes('name="twitter:image"') || !html.includes('summary_large_image')) failures.push(`${localizedPath}: social preview metadata missing`);
+    if (!html.includes('href="/favicon.png"') || !html.includes('href="/apple-touch-icon.png"')) failures.push(`${localizedPath}: crawlable favicon metadata missing`);
+    if (/rel="icon"[^>]+href="data:/i.test(html)) failures.push(`${localizedPath}: embedded favicon is not crawlable by Google`);
     if (sourceHtml.includes("data-fit") && !html.includes("data-fit")) failures.push(`${localizedPath}: interactive fit attributes translated`);
     if (/data-(?:encaje|encaix|adéquation)/i.test(html)) failures.push(`${localizedPath}: localized data attribute leaked`);
     for (const forbidden of ["Va dir abelles", "Sortida d'abelles", "Saliente a medida", "Beespoke sortant", "Noé Levy", "Noah Lévy", "generación-de-leads-salientes.com"]) {
@@ -81,6 +83,8 @@ for (const locale of locales) {
   if (!homeHtml.includes(`lang="${locale}" aria-current="page"`)) failures.push(`${homePath}: homepage language selector missing`);
   if (!homeHtml.includes(`/${locale}/services/outbound-lead-generation/`)) failures.push(`${homePath}: localized homepage internal links missing`);
   if (!homeHtml.includes('src="/seo.js"')) failures.push(`${homePath}: homepage language behavior missing`);
+  if (!homeHtml.includes('href="/favicon.png"') || !homeHtml.includes('href="/apple-touch-icon.png"')) failures.push(`${homePath}: crawlable homepage favicon metadata missing`);
+  if (/rel="icon"[^>]+href="data:/i.test(homeHtml)) failures.push(`${homePath}: embedded homepage favicon is not crawlable by Google`);
   if (/src="(?!\/|https?:|data:)[^"]+"/.test(homeHtml)) failures.push(`${homePath}: homepage contains a relative asset URL`);
   if (!homeHtml.includes("Noah Levy") || !homeHtml.includes("Beespoke")) failures.push(`${homePath}: homepage proper noun altered`);
   for (const forbidden of editorialForbidden[locale]) if (new RegExp(`\\b${escapeRegExp(forbidden)}\\b`, "i").test(homeHtml.replace(/<script[\s\S]*?<\/script>/g, ""))) failures.push(`${homePath}: homepage literal translation '${forbidden}'`);
