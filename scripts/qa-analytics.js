@@ -19,7 +19,7 @@ const fileFor = (pagePath) => pagePath === "/"
 
 for (const pagePath of publicPaths) {
   const html = fs.readFileSync(fileFor(pagePath), "utf8");
-  if ((html.match(/src="\/seo\.js"/g) || []).length !== 1) failures.push(`${pagePath}: expected one shared analytics script`);
+  if ((html.match(/src="\/seo\.js\?v=20260814"/g) || []).length !== 1) failures.push(`${pagePath}: expected one versioned shared analytics script`);
   if ((html.match(/G-KDXYW9W2BB/g) || []).length !== 2) failures.push(`${pagePath}: GA4 measurement ID missing or duplicated`);
   if (/gtag\(['"]event['"]/.test(html)) failures.push(`${pagePath}: inline event tracking can duplicate shared tracking`);
 }
