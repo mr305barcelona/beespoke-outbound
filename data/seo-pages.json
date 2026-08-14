@@ -180,7 +180,7 @@
       {"heading":"Decision questions","items":["Do we need a person or a managed outcome?","Who can coach and manage day to day?","Which channels and geographies are essential?","How much control do we need over systems and data?","Is the offer proven enough to support a dedicated rep?","How will a qualified and held meeting be defined?","Who owns campaign assets and learning after cancellation?"]},
       {"heading":"Where Beespoke fits","body":["Beespoke is a small founder-led lead generation agency centered on focused LinkedIn outreach. It manages ICP work, targeting, messaging, replies and meeting booking, with transparent flat or hybrid pricing.","It is not a substitute for a dedicated full-time SDR pod, large call center, sales leader or full multichannel infrastructure. If those are the real requirements, the decision framework should point elsewhere."]}
     ],
-    "related":["/pricing/","/compare/outbound-agency-vs-freelancer/","/services/outbound-lead-generation/"]
+    "related":["/services/outsourced-sdr/","/guides/outsourced-sdr-cost/","/compare/outsourced-sdr-vs-in-house-sdr/"]
   },
   {
     "path":"/guides/appointment-setting-pricing/",
@@ -228,7 +228,7 @@
       {"heading":"When outsourced SDR capacity is premature","body":["A dedicated SDR cannot repair an undefined offer, an unbounded ICP or the absence of sales follow-up. Validate the market and message before paying for full-time capacity.","Very small addressable markets may require account-based business development rather than repeatable SDR volume."]},
       {"heading":"Where Beespoke fits and does not fit","body":["Beespoke manages focused LinkedIn outreach: market definition, targeting, messaging, reply handling and qualified meeting booking. Founder involvement keeps strategy close to campaign evidence.","Choose a different provider when you need a named full-time rep, extensive cold calling, large-scale email infrastructure, 24-hour coverage or daily operation inside a complex enterprise tech stack."],"links":[{"label":"Compare outsourced SDRs with lead generation agencies","href":"/guides/outsourced-sdr-vs-lead-generation-agency/"},{"label":"Review Beespoke’s outbound service","href":"/services/outbound-lead-generation/"}]}
     ],
-    "related":["/guides/outsourced-sdr-cost/","/guides/outsourced-sdr-vs-lead-generation-agency/","/pricing/"]
+    "related":["/guides/outsourced-sdr-cost/","/guides/outsourced-sdr-vs-lead-generation-agency/","/compare/outsourced-sdr-vs-in-house-sdr/"]
   },
   {
     "path":"/guides/outsourced-sdr-cost/",
@@ -244,7 +244,7 @@
       {"heading":"When a cheaper SDR costs more","body":["Low-cost capacity is uneconomic if the client must rewrite every message, rebuild every list or supervise basic execution. Equally, premium teams are wasteful when the offer cannot support their scope.","The right unit is cost for usable sales-development capability, not cost for a person-shaped line item."],"callout":"Ask what would remain if the engagement ended tomorrow: data, systems, learning, copy and pipeline."},
       {"heading":"A fair comparison with Beespoke","body":["Beespoke’s $1,500 monthly and $1,000-plus-$100-per-held-meeting plans are focused managed LinkedIn services, not outsourced full-time SDR employment.","Buyers needing narrow founder-led execution may prefer that scope. Buyers needing daily multichannel capacity should budget for a different operating model."],"links":[{"label":"See transparent Beespoke pricing","href":"/pricing/"}]}
     ],
-    "related":["/services/outsourced-sdr/","/guides/outbound-lead-generation-cost/","/pricing/"]
+    "related":["/services/outsourced-sdr/","/compare/outsourced-sdr-vs-in-house-sdr/","/guides/outbound-lead-generation-cost/"]
   },
   {
     "path":"/industries/consulting-lead-generation/",
@@ -599,7 +599,7 @@
       {"question":"When should a company outsource SDR work?","answer":"Outsourcing fits a bounded market test, temporary capacity requirement, specialist channel need or situation where hiring before validating the motion would create unnecessary fixed risk."},
       {"question":"Is Beespoke an outsourced SDR provider?","answer":"Beespoke provides managed sales-development work but is structured as a focused lead generation agency rather than full-time SDR staff augmentation. Its standard scope is LinkedIn-led targeting, outreach, replies and qualified meeting booking."}
     ],
-    "related":["/services/outsourced-sdr/","/services/outbound-sales-outsourcing/","/guides/outsourced-sdr-cost/"]
+    "related":["/services/outsourced-sdr/","/guides/outsourced-sdr-vs-lead-generation-agency/","/guides/outsourced-sdr-cost/"]
   },
   {
     "path":"/compare/lead-generation-agency-vs-in-house-team/",

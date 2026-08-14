@@ -28,6 +28,10 @@ const shared = fs.readFileSync(path.join(root, "seo.js"), "utf8");
 for (const eventName of ["calendly_click", "whatsapp_click", "contact_intent"]) {
   if (!shared.includes(`track("${eventName}"`)) failures.push(`seo.js: missing ${eventName}`);
 }
+for (const token of ["beespoke-session-attribution-v1", "first_touch_source", "first_touch_landing_page", "ai-assistant", "enrichCalendlyLink", "utm_content"]) {
+  if (!shared.includes(token)) failures.push(`seo.js: missing attribution control ${token}`);
+}
+if (shared.indexOf("enrichCalendlyLink(link, ctaLocation)") > shared.indexOf('track("calendly_click"')) failures.push("seo.js: Calendly attribution must be applied before the click is tracked");
 if ((shared.match(/document\.addEventListener\("click"/g) || []).length > 3) failures.push("seo.js: unexpected duplicate delegated click handlers");
 
 if (failures.length) {

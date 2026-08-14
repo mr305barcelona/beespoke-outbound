@@ -1,10 +1,86 @@
 (() => {
   const supportedLocales = ["en", "es", "ca", "fr"];
   const locale = document.documentElement.lang || "en";
+  const attributionKey = "beespoke-session-attribution-v1";
+  const limited = (value, length = 100) => String(value || "").slice(0, length);
+  const hostMatches = (host, domain) => host === domain || host.endsWith(`.${domain}`);
+  const aiSources = [
+    ["chatgpt.com", "chatgpt"],
+    ["perplexity.ai", "perplexity"],
+    ["claude.ai", "claude"],
+    ["gemini.google.com", "gemini"],
+    ["copilot.microsoft.com", "microsoft-copilot"],
+    ["you.com", "you.com"]
+  ];
+  const searchSources = [
+    ["google.com", "google"],
+    ["google.es", "google"],
+    ["google.fr", "google"],
+    ["bing.com", "bing"],
+    ["duckduckgo.com", "duckduckgo"],
+    ["yahoo.com", "yahoo"]
+  ];
+  const readStoredAttribution = () => {
+    try { return JSON.parse(sessionStorage.getItem(attributionKey) || "null"); }
+    catch { return null; }
+  };
+  const buildAttribution = () => {
+    const query = new URLSearchParams(location.search);
+    let referrerHost = "";
+    try { referrerHost = document.referrer ? new URL(document.referrer).hostname.replace(/^www\./, "") : ""; }
+    catch { referrerHost = ""; }
+    const ownHost = location.hostname.replace(/^www\./, "");
+    if (referrerHost === ownHost) referrerHost = "";
+    const ai = aiSources.find(([domain]) => hostMatches(referrerHost, domain));
+    const search = searchSources.find(([domain]) => hostMatches(referrerHost, domain)) || (/^google\.[a-z.]+$/i.test(referrerHost) ? [referrerHost, "google"] : null);
+    const source = query.get("utm_source") || ai?.[1] || search?.[1] || referrerHost || "(direct)";
+    const medium = query.get("utm_medium") || (ai ? "ai-assistant" : search ? "organic" : referrerHost ? "referral" : "(none)");
+    return {
+      source: limited(source),
+      medium: limited(medium),
+      campaign: limited(query.get("utm_campaign")),
+      content: limited(query.get("utm_content")),
+      term: limited(query.get("utm_term")),
+      // Store only the path. Arbitrary query strings can contain data that should
+      // never be copied into analytics or a third-party booking URL.
+      landingPage: limited(location.pathname),
+      referrerHost: limited(referrerHost)
+    };
+  };
+  const attribution = readStoredAttribution() || buildAttribution();
+  try { sessionStorage.setItem(attributionKey, JSON.stringify(attribution)); }
+  catch { /* Tracking still works when storage is unavailable. */ }
+  const attributionParameters = {
+    first_touch_source: attribution.source,
+    first_touch_medium: attribution.medium,
+    first_touch_campaign: attribution.campaign || "(not set)",
+    first_touch_content: attribution.content || "(not set)",
+    first_touch_term: attribution.term || "(not set)",
+    first_touch_landing_page: attribution.landingPage,
+    first_touch_referrer_host: attribution.referrerHost || "(direct)"
+  };
   const track = (eventName, parameters = {}) => {
-    const payload = { page_path: location.pathname, page_language: locale, ...parameters };
+    const payload = { page_path: location.pathname, page_language: locale, ...attributionParameters, ...parameters };
     if (typeof window.gtag === "function") window.gtag("event", eventName, payload);
     else { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: eventName, ...payload }); }
+  };
+  const enrichCalendlyLink = (link, ctaLocation) => {
+    try {
+      const url = new URL(link.href);
+      const campaign = attribution.campaign || "website-calendly";
+      const values = {
+        utm_source: attribution.source === "(direct)" ? "beespoke-site" : attribution.source,
+        utm_medium: attribution.medium === "(none)" ? "website" : attribution.medium,
+        utm_campaign: campaign,
+        utm_content: `${ctaLocation}:${location.pathname}`,
+        utm_term: attribution.term
+      };
+      Object.entries(values).forEach(([key, value]) => {
+        if (value && !url.searchParams.has(key)) url.searchParams.set(key, limited(value));
+      });
+      link.href = url.toString();
+    } catch { /* Leave the original booking URL intact if parsing fails. */ }
+    return link.href;
   };
   document.addEventListener("click", (event) => {
     const link = event.target.closest("a");
@@ -12,7 +88,8 @@
     const href = link.getAttribute("href") || "";
     const ctaLocation = link.closest(".hero") ? "hero" : link.closest(".inline-cta") ? "article" : link.closest(".final-cta") ? "final" : link.closest("footer") ? "footer" : "navigation";
     if (href.includes("calendly.com")) {
-      const parameters = { cta_text: link.textContent.trim(), cta_location: ctaLocation, link_url: link.href };
+      const destinationUrl = enrichCalendlyLink(link, ctaLocation);
+      const parameters = { cta_text: link.textContent.trim(), cta_location: ctaLocation, link_url: destinationUrl };
       track("calendly_click", parameters);
       track("contact_intent", { ...parameters, contact_method: "calendly", intent_stage: "calendar_opened" });
     }
