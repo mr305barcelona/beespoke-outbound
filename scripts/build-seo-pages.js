@@ -7,6 +7,18 @@ const pricingBenchmark = JSON.parse(fs.readFileSync(path.join(root, "data", "out
 const origin = "https://outbound-lead-generation.com";
 const defaultUpdated = "2026-07-24";
 const updatedOverrides = new Map([
+  ["/industries/accounting-firm-lead-generation/", "2026-08-17"],
+  ["/industries/recruitment-agency-lead-generation/", "2026-08-17"],
+  ["/industries/it-services-lead-generation/", "2026-08-17"],
+  ["/guides/linkedin-lead-generation-agency-cost/", "2026-08-17"],
+  ["/compare/lead-generation-agency-vs-software/", "2026-08-17"],
+  ["/guides/best-outsourced-sdr-companies/", "2026-08-17"],
+  ["/industries/professional-services-lead-generation/", "2026-08-17"],
+  ["/industries/marketing-agency-lead-generation/", "2026-08-17"],
+  ["/guides/how-to-manage-an-outsourced-sdr-team/", "2026-08-17"],
+  ["/compare/sdr-outsourcing-vs-staff-augmentation/", "2026-08-17"],
+  ["/guides/how-to-choose-an-outbound-lead-generation-agency/", "2026-08-17"],
+  ["/guides/best-b2b-lead-generation-agencies/", "2026-08-17"],
   ["/services/outbound-lead-generation/", "2026-08-03"],
   ["/services/linkedin-lead-generation/", "2026-08-03"],
   ["/guides/outbound-lead-generation-cost/", "2026-08-03"],
@@ -71,6 +83,10 @@ function renderInlineCta(page, position) {
 }
 
 function renderOriginalTool(page) {
+  if (page.tool) {
+    const blocks = page.tool.blocks.map((block) => `<div><span>${escapeHtml(block.label)}</span><strong>${escapeHtml(block.heading)}</strong><p>${escapeHtml(block.body)}</p></div>`).join("");
+    return `<section class="original-tool evidence-method" id="${escapeHtml(page.tool.id)}"><div class="tool-heading"><span>${escapeHtml(page.tool.eyebrow)}</span><h2>${escapeHtml(page.tool.heading)}</h2><p>${escapeHtml(page.tool.intro)}</p></div><div class="evidence-grid">${blocks}</div><p class="tool-note">${escapeHtml(page.tool.note)}</p></section>`;
+  }
   if (page.path === "/services/b2b-lead-generation/") {
     const signals = ["A narrow company profile is written","Buying roles are mapped beyond one title","The offer solves a specific costly problem","Relevant proof or insight is available","Exclusions protect customers and poor-fit accounts","A sales owner can run discovery quickly","Customer value supports hands-on acquisition","The team can support a 6–12 week learning window"];
     return `<section class="original-tool checklist-tool" id="b2b-readiness-score"><div class="tool-heading"><span>Original campaign-readiness diagnostic</span><h2>Should you buy B2B lead generation yet?</h2><p>Check only conditions that are already true. The result identifies whether execution or commercial definition is the next constraint.</p></div><div class="check-grid">${signals.map((item) => `<label><input type="checkbox" data-fit>${item}</label>`).join("")}</div><div class="tool-output"><span>Readiness signals confirmed</span><strong data-fit-score>0 of 8 signals</strong><p data-fit-copy>Clarify the buyer, problem and commercial owner before paying for campaign execution.</p></div></section>`;
@@ -187,13 +203,21 @@ function renderSources(page) {
       ["UK ICO guidance on direct marketing using electronic mail", "https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guidance-on-direct-marketing-using-electronic-mail/"]
     ]
   };
-  const sources = sourceMap[page.path];
+  const sources = page.sources?.length ? page.sources.map((source) => [source.label, source.href]) : sourceMap[page.path];
   if (!sources) return "";
-  const checkedDate = page.path.includes("cold-email-agency") ? "August 7, 2026" : "July 20, 2026";
-  return `<section class="sources" id="sources"><h2>Sources and methodology</h2><p>Third-party prices, platform requirements and legal guidance can change. These sources were checked on ${checkedDate}. Provider-published prices describe their own offers and are used as market examples, not independent averages. Legal sources are provided for buyer diligence, not as legal advice.</p><ol>${sources.map(([label, href]) => `<li><a href="${href}">${escapeHtml(label)}</a></li>`).join("")}</ol></section>`;
+  const checkedDate = page.sourceChecked || (page.path.includes("cold-email-agency") ? "August 7, 2026" : "July 20, 2026");
+  const methodology = page.sourceMethodology || "Third-party prices, platform requirements and legal guidance can change. Provider-published information describes each source's own offer and is used for buyer diligence, not as an independent endorsement.";
+  return `<section class="sources" id="sources"><h2>Sources and methodology</h2><p>${escapeHtml(methodology)} These sources were checked on ${checkedDate}.</p><ol>${sources.map(([label, href]) => `<li><a href="${escapeHtml(href)}">${escapeHtml(label)}</a></li>`).join("")}</ol></section>`;
 }
 
 function renderCompetitiveDepth(page) {
+  if (page.decisionGuide) {
+    const guide = page.decisionGuide;
+    const paragraphs = (guide.body || []).map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("");
+    const items = guide.items ? `<ol>${guide.items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ol>` : "";
+    const table = guide.table ? `<div class="table-wrap"><table><caption>${escapeHtml(guide.table.caption)}</caption><thead><tr>${guide.table.headers.map((cell) => `<th>${escapeHtml(cell)}</th>`).join("")}</tr></thead><tbody>${guide.table.rows.map((row) => `<tr>${row.map((cell) => `<td>${escapeHtml(cell)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>` : "";
+    return `<section class="competitive-depth" id="buyer-decision-guide"><h2>${escapeHtml(guide.heading)}</h2>${paragraphs}${items}${table}</section>`;
+  }
   if (page.path === "/services/b2b-lead-generation/") return `<section class="competitive-depth" id="buyer-decision-guide"><h2>How to compare B2B lead generation agencies</h2><div class="table-wrap"><table><caption>Agency evaluation framework</caption><thead><tr><th>Question</th><th>Strong evidence</th><th>Warning sign</th></tr></thead><tbody><tr><td>How is the ICP built?</td><td>Account context, buying roles, exclusions and a reviewable hypothesis</td><td>A list filtered only by industry and title</td></tr><tr><td>Who operates the campaign?</td><td>Named delivery owner and clear time allocation</td><td>The delivery team is hidden until after signature</td></tr><tr><td>What counts as success?</td><td>Held ICP meetings and accepted opportunities shown separately</td><td>Contacts, replies and bookings combined as leads</td></tr><tr><td>What does the client own?</td><td>Lists, copy, history and learning remain exportable</td><td>Campaign assets disappear at cancellation</td></tr><tr><td>When is the service a poor fit?</td><td>Specific non-fit conditions and alternative models</td><td>The same volume promise for every market</td></tr></tbody></table></div><h3>What Beespoke does differently</h3><p>Beespoke keeps founder-level judgment connected to target selection, replies and campaign learning; publishes its actual standard prices; defines qualification before launch; and states the limits of its LinkedIn-led scope.</p></section>`;
   if (page.path === "/guides/cold-email-agency/") return `<section class="competitive-depth" id="buyer-decision-guide"><h2>A 12-question cold email agency due-diligence list</h2><ol><li>Which legal entities and countries will be contacted?</li><li>Where does contact data come from and how is it verified?</li><li>Who owns every domain and mailbox?</li><li>Who configures SPF, DKIM and DMARC?</li><li>What volume, ramp and pause limits apply?</li><li>Who approves full message sequences?</li><li>How are duplicates, customers and open opportunities excluded?</li><li>Who reads replies and how quickly?</li><li>How are opt-outs and suppression records shared?</li><li>What counts as a booked, held and qualified meeting?</li><li>What happens after a deliverability incident?</li><li>Which assets and records are exported at termination?</li></ol><p>A provider should answer these questions in operational language and reflect the material controls in the written agreement.</p></section>`;
   if (page.path === "/services/outbound-sales-outsourcing/") return `<section class="competitive-depth" id="buyer-decision-guide"><h2>Choose the outsourcing depth by the sales motion</h2><div class="table-wrap"><table><caption>Outbound outsourcing scope comparison</caption><thead><tr><th>Model</th><th>Scope</th><th>Best when</th><th>Main risk</th></tr></thead><tbody><tr><td>Campaign agency</td><td>Targeting through qualified meeting</td><td>You need a managed test or focused channel</td><td>Learning is lost without a deliberate handoff</td></tr><tr><td>Staff-augmentation SDR</td><td>Dedicated rep capacity in your systems</td><td>Your managers can direct daily work</td><td>The client underestimates coaching needs</td></tr><tr><td>Outsourced SDR pod</td><td>Multichannel team and management</td><td>Volume supports a larger external operation</td><td>High fixed scope before market validation</td></tr><tr><td>Full-cycle outsourced sales</td><td>Prospecting through close</td><td>Product and contracting can be delegated credibly</td><td>Customer promises move outside the company</td></tr></tbody></table></div><h3>Beespoke’s disclosed boundary</h3><p>Beespoke is a campaign agency: it manages focused prospecting and the qualified handoff. Discovery, proposal, negotiation and closing remain with the client.</p></section>`;
@@ -286,7 +310,9 @@ function renderPage(page) {
       { "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: `${origin}/` }, { "@type": "ListItem", position: 2, name: page.h1, item: url }] }
     ]
   };
-  const toolNav = page.path === "/guides/appointment-setting-pricing/"
+  const toolNav = page.tool
+    ? [page.tool.id, page.tool.navLabel]
+    : page.path === "/guides/appointment-setting-pricing/"
     ? ["quote-normalizer", "Quote normalizer"]
     : page.path === "/services/b2b-lead-generation/"
       ? ["b2b-readiness-score", "B2B readiness diagnostic"]
@@ -327,7 +353,7 @@ function renderPage(page) {
                             : page.path === "/research/2026-b2b-outbound-pricing-benchmark/"
                               ? ["public-price-dataset", "Public price dataset"]
                               : ["working-principles", "Working principles"];
-  const hasSources = ["/guides/outbound-lead-generation-cost/", "/services/linkedin-lead-generation/", "/guides/appointment-setting-pricing/", "/guides/pay-per-meeting-lead-generation/", "/guides/outsourced-sdr-cost/", "/guides/cold-email-agency/", "/guides/cold-email-agency-pricing/", "/research/2026-b2b-outbound-pricing-benchmark/"].includes(page.path);
+  const hasSources = Boolean(page.sources?.length) || ["/guides/outbound-lead-generation-cost/", "/services/linkedin-lead-generation/", "/guides/appointment-setting-pricing/", "/guides/pay-per-meeting-lead-generation/", "/guides/outsourced-sdr-cost/", "/guides/cold-email-agency/", "/guides/cold-email-agency-pricing/", "/research/2026-b2b-outbound-pricing-benchmark/"].includes(page.path);
   const toc = `${page.sections.slice(0, 1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#${toolNav[0]}">${toolNav[1]}</a>${page.sections.slice(1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#buyer-decision-guide">Buyer decision guide</a>${page.faqs?.length ? '<a href="#frequently-asked-questions">Frequently asked questions</a>' : ""}${hasSources ? '<a href="#sources">Sources and methodology</a>' : ""}`;
   const related = page.related.map((link) => `<a class="related-card" href="${escapeHtml(link)}"><span>Related</span><strong>${escapeHtml(labelFor(link))}</strong></a>`).join("");
   const socialImage = page.path === "/research/2026-b2b-outbound-pricing-benchmark/" ? `${origin}/assets/social/2026-pricing-benchmark-og.png` : `${origin}/assets/social/beespoke-og.png`;

@@ -1,5 +1,9 @@
 const fs = require("fs");
 const path = require("path");
+const { execFile } = require("child_process");
+const { promisify } = require("util");
+
+const execFileAsync = promisify(execFile);
 
 const root = path.join(__dirname, "..");
 const pages = require(path.join(root, "data", "seo-pages.json"));
@@ -29,9 +33,17 @@ const queue = [...phrases];
 async function translate(text, locale) {
   const url = new URL("https://translate.googleapis.com/translate_a/single");
   url.search = new URLSearchParams({ client: "gtx", sl: "en", tl: locale, dt: "t", q: text });
-  const response = await fetch(url, { headers: { "user-agent": "Mozilla/5.0" } });
-  if (!response.ok) throw new Error(`${locale} translation failed: ${response.status}`);
-  const payload = await response.json();
+  let payload;
+  try {
+    const response = await fetch(url, { headers: { "user-agent": "Mozilla/5.0" } });
+    if (!response.ok) throw new Error(`${locale} translation failed: ${response.status}`);
+    payload = await response.json();
+  } catch (error) {
+    // Some managed environments restrict Node's DNS path while curl remains
+    // available. Keep generation resumable by falling back to curl.
+    const { stdout } = await execFileAsync("curl", ["-sS", "--fail", "--retry", "2", "--max-time", "30", url.toString()], { maxBuffer: 1024 * 1024 });
+    payload = JSON.parse(stdout);
+  }
   return payload[0].map((part) => part[0]).join("");
 }
 
