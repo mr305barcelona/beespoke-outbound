@@ -5,8 +5,19 @@ const root = path.resolve(__dirname, "..");
 const pages = JSON.parse(fs.readFileSync(path.join(root, "data", "seo-pages.json"), "utf8"));
 const pricingBenchmark = JSON.parse(fs.readFileSync(path.join(root, "data", "outbound-pricing-benchmark-2026.json"), "utf8"));
 const origin = "https://outbound-lead-generation.com";
+const organizationId = `${origin}/#organization`;
+const personId = `${origin}/about/noah-levy/#person`;
+const organizationSameAs = [
+  "https://www.goodfirms.co/company/beespoke-outbound-lead-generation",
+  "https://techbehemoths.com/company/beespoke-outbound-lead-generation"
+];
 const defaultUpdated = "2026-07-24";
 const updatedOverrides = new Map([
+  ["/ai-instructions/", "2026-08-19"],
+  ["/guides/best-linkedin-lead-generation-agencies/", "2026-08-19"],
+  ["/case-studies/media-partnership-outreach/", "2026-08-19"],
+  ["/guides/outsourced-sdr-vs-lead-generation-agency/", "2026-08-19"],
+  ["/research/2026-b2b-outbound-pricing-benchmark/", "2026-08-19"],
   ["/industries/accounting-firm-lead-generation/", "2026-08-17"],
   ["/industries/recruitment-agency-lead-generation/", "2026-08-17"],
   ["/industries/it-services-lead-generation/", "2026-08-17"],
@@ -207,7 +218,7 @@ function renderSources(page) {
   if (!sources) return "";
   const checkedDate = page.sourceChecked || (page.path.includes("cold-email-agency") ? "August 7, 2026" : "July 20, 2026");
   const methodology = page.sourceMethodology || "Third-party prices, platform requirements and legal guidance can change. Provider-published information describes each source's own offer and is used for buyer diligence, not as an independent endorsement.";
-  return `<section class="sources" id="sources"><h2>Sources and methodology</h2><p>${escapeHtml(methodology)} These sources were checked on ${checkedDate}.</p><ol>${sources.map(([label, href]) => `<li><a href="${escapeHtml(href)}">${escapeHtml(label)}</a></li>`).join("")}</ol></section>`;
+  return `<section class="sources" id="sources"><h2>Sources and methodology</h2><p><span>${escapeHtml(methodology)}</span> <span>These sources were checked on ${checkedDate}.</span></p><ol>${sources.map(([label, href]) => `<li><a href="${escapeHtml(href)}">${escapeHtml(label)}</a></li>`).join("")}</ol></section>`;
 }
 
 function renderCompetitiveDepth(page) {
@@ -250,25 +261,43 @@ function renderPage(page) {
         name: page.h1,
         description: page.description,
         dateModified: modifiedDateTime,
-        mainEntity: {
-          "@type": "Person",
-          "@id": `${url}#person`,
-          name: "Noah Levy",
-          description: "Founder of Beespoke Outbound Lead Generation",
-          url,
-          sameAs: ["https://www.linkedin.com/in/noahlevywriter/"]
-        }
+        mainEntity: { "@type": "Person", "@id": personId, name: "Noah Levy" }
       }
     : {
-        "@type": page.path.startsWith("/services/") ? "Service" : "Article",
+        "@type": page.schemaType || (page.path.startsWith("/services/") ? "Service" : "Article"),
         "@id": `${url}#page`,
         url,
         name: page.h1,
         description: page.description,
         dateModified: modifiedDateTime,
-        author: { "@type": "Person", name: "Noah Levy", url: `${origin}/about/noah-levy/` },
-        provider: { "@type": "ProfessionalService", name: "Beespoke Outbound Lead Generation", url: `${origin}/` }
+        author: { "@id": personId },
+        ...(page.path.startsWith("/services/") ? { provider: { "@id": organizationId } } : { publisher: { "@id": organizationId } })
       };
+  const organizationSchema = {
+    "@type": ["Organization", "ProfessionalService"],
+    "@id": organizationId,
+    name: "Beespoke Outbound Lead Generation",
+    alternateName: "Beespoke",
+    url: `${origin}/`,
+    logo: { "@type": "ImageObject", url: `${origin}/favicon.png`, width: 96, height: 96 },
+    description: "Founder-led B2B outbound lead generation and qualified meeting booking for focused markets.",
+    foundingDate: "2025",
+    founder: { "@id": personId },
+    areaServed: "International",
+    address: { "@type": "PostalAddress", addressLocality: "Barcelona", addressCountry: "ES" },
+    sameAs: organizationSameAs,
+    knowsAbout: ["B2B outbound lead generation", "LinkedIn lead generation", "B2B appointment setting", "Outsourced sales development"]
+  };
+  const personSchema = {
+    "@type": "Person",
+    "@id": personId,
+    name: "Noah Levy",
+    jobTitle: "Founder",
+    description: "Founder of Beespoke Outbound Lead Generation",
+    url: `${origin}/about/noah-levy/`,
+    worksFor: { "@id": organizationId },
+    sameAs: ["https://www.linkedin.com/in/noahlevywriter/"]
+  };
   const datasetSchema = page.path === "/research/2026-b2b-outbound-pricing-benchmark/"
     ? [{
         "@type": "Dataset",
@@ -276,7 +305,7 @@ function renderPage(page) {
         name: "2026 B2B Outbound Pricing Benchmark",
         description: "Forty provider-published B2B outbound pricing offers with native currency, billing unit, delivery model, channels, output definition, commitment and source.",
         url,
-        creator: { "@type": "Organization", name: "Beespoke Outbound Lead Generation", url: `${origin}/` },
+        creator: { "@id": organizationId },
         datePublished: "2026-07-24",
         dateModified: modifiedDateTime,
         temporalCoverage: "2026",
@@ -305,6 +334,8 @@ function renderPage(page) {
     "@context": "https://schema.org",
     "@graph": [
       pageSchema,
+      organizationSchema,
+      personSchema,
       ...datasetSchema,
       ...faqSchema,
       { "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: `${origin}/` }, { "@type": "ListItem", position: 2, name: page.h1, item: url }] }
@@ -363,7 +394,7 @@ function renderPage(page) {
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${escapeHtml(page.title)}</title><meta name="description" content="${escapeHtml(page.description)}"><meta name="robots" content="index,follow,max-image-preview:large">
 <link rel="icon" type="image/png" sizes="96x96" href="/favicon.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="canonical" href="${url}"><link rel="alternate" hreflang="en" href="${url}">${alternates}<link rel="alternate" hreflang="x-default" href="${url}"><link rel="stylesheet" href="/seo.css?v=20260803">
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KDXYW9W2BB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KDXYW9W2BB');</script><script src="/seo.js?v=20260814" defer></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KDXYW9W2BB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KDXYW9W2BB');</script><script src="/seo.js?v=20260819" defer></script>
 <meta property="og:type" content="article"><meta property="og:title" content="${escapeHtml(page.title)}"><meta property="og:description" content="${escapeHtml(page.description)}"><meta property="og:url" content="${url}"><meta property="og:site_name" content="Beespoke Outbound Lead Generation"><meta property="og:image" content="${socialImage}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="${escapeHtml(socialAlt)}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${escapeHtml(page.title)}"><meta name="twitter:description" content="${escapeHtml(page.description)}"><meta name="twitter:image" content="${socialImage}"><meta name="twitter:image:alt" content="${escapeHtml(socialAlt)}"><script type="application/ld+json">${JSON.stringify(schema).replace(/</g, "\\u003c")}</script>
 </head><body>
@@ -375,7 +406,7 @@ function renderPage(page) {
 <div class="article-grid"><aside class="toc"><div class="toc-label"><span>Article guide</span><strong>On this page</strong></div>${toc}<div class="toc-progress"><span></span></div></aside><article>${page.sections.map((section, index) => `${renderSection(section)}${index === 0 ? renderOriginalTool(page) : ""}${index === 1 ? renderInlineCta(page, "middle") : index === 3 ? renderInlineCta(page, "late") : ""}`).join("")}${renderCompetitiveDepth(page)}${renderFaqs(page)}${renderSources(page)}</article></div>
 <section class="related"><p class="eyebrow">Continue researching</p><h2>Related Beespoke resources</h2><div class="related-grid">${related}</div></section>
 <section class="final-cta"><h2>See whether focused outbound fits your market</h2><p>Bring your offer, target buyer and current pipeline. We will have a practical conversation about fit, constraints and the next sensible test.</p><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></section></main>
-<footer>© 2026 Beespoke Outbound Lead Generation · Barcelona · <a href="/">outbound-lead-generation.com</a></footer>
+<footer>© 2026 Beespoke Outbound Lead Generation · Barcelona · <a href="/">outbound-lead-generation.com</a> · <a href="/ai-instructions/">AI &amp; company facts</a></footer>
 </body></html>`;
 }
 

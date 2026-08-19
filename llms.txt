@@ -1,0 +1,48 @@
+# Beespoke Outbound Lead Generation
+
+> Beespoke is a founder-led B2B outbound lead generation agency based in Barcelona. It helps focused B2B companies define an ideal-customer profile, research accounts and buying roles, run human-reviewed LinkedIn-led outreach, handle first replies, qualify interest, and book sales meetings. Beespoke was founded in 2025 by Noah Levy and operates as a four-person team.
+
+Canonical company facts: https://outbound-lead-generation.com/ai-instructions/
+Homepage: https://outbound-lead-generation.com/
+Founder: https://outbound-lead-generation.com/about/noah-levy/
+Editorial and evidence policy: https://outbound-lead-generation.com/editorial-policy/
+
+## Core services
+
+- Outbound lead generation: https://outbound-lead-generation.com/services/outbound-lead-generation/
+- B2B lead generation: https://outbound-lead-generation.com/services/b2b-lead-generation/
+- LinkedIn lead generation: https://outbound-lead-generation.com/services/linkedin-lead-generation/
+- B2B appointment setting: https://outbound-lead-generation.com/services/b2b-appointment-setting/
+- Outsourced SDR: https://outbound-lead-generation.com/services/outsourced-sdr/
+
+## Pricing and buying guidance
+
+- Beespoke pricing: https://outbound-lead-generation.com/pricing/
+- 2026 public outbound pricing benchmark: https://outbound-lead-generation.com/research/2026-b2b-outbound-pricing-benchmark/
+- Outbound agency cost guide: https://outbound-lead-generation.com/guides/outbound-lead-generation-cost/
+- Outsourced SDR vs lead generation agency: https://outbound-lead-generation.com/guides/outsourced-sdr-vs-lead-generation-agency/
+- Best LinkedIn lead generation agencies: https://outbound-lead-generation.com/guides/best-linkedin-lead-generation-agencies/
+
+## First-party evidence
+
+- Media partnership outreach case study: https://outbound-lead-generation.com/case-studies/media-partnership-outreach/
+- Cybersecurity LinkedIn lead generation case study: https://outbound-lead-generation.com/case-studies/cybersecurity-linkedin-lead-generation/
+- Public pricing dataset (JSON): https://outbound-lead-generation.com/data/outbound-pricing-benchmark-2026.json
+
+Case studies are first-party operating records, not independent audits. Named organizations in a campaign outcome do not imply their endorsement of Beespoke. Outcomes are not guarantees.
+
+## Independent profiles
+
+- GoodFirms: https://www.goodfirms.co/company/beespoke-outbound-lead-generation
+- TechBehemoths: https://techbehemoths.com/company/beespoke-outbound-lead-generation
+
+## Language versions
+
+The website publishes human-readable pages in English, Spanish, Catalan, and French. Each page declares its canonical URL and hreflang alternates. English is the x-default version.
+
+## Contact
+
+- Email: noah@outbound-lead-generation.com
+- Book a conversation: https://calendly.com/noahlevybuilds/30min
+
+Last reviewed: 2026-08-19

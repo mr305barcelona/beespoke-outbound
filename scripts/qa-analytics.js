@@ -19,7 +19,7 @@ const fileFor = (pagePath) => pagePath === "/"
 
 for (const pagePath of publicPaths) {
   const html = fs.readFileSync(fileFor(pagePath), "utf8");
-  if ((html.match(/src="\/seo\.js\?v=20260814"/g) || []).length !== 1) failures.push(`${pagePath}: expected one versioned shared analytics script`);
+  if ((html.match(/src="\/seo\.js\?v=20260819"/g) || []).length !== 1) failures.push(`${pagePath}: expected one versioned shared analytics script`);
   if ((html.match(/G-KDXYW9W2BB/g) || []).length !== 2) failures.push(`${pagePath}: GA4 measurement ID missing or duplicated`);
   if (/gtag\(['"]event['"]/.test(html)) failures.push(`${pagePath}: inline event tracking can duplicate shared tracking`);
 }
@@ -31,6 +31,7 @@ for (const eventName of ["calendly_click", "whatsapp_click", "contact_intent"]) 
 for (const token of ["beespoke-session-attribution-v1", "first_touch_source", "first_touch_landing_page", "ai-assistant", "enrichCalendlyLink", "utm_content"]) {
   if (!shared.includes(token)) failures.push(`seo.js: missing attribution control ${token}`);
 }
+for (const source of ["grok.com", "x.ai", "chat.openai.com"]) if (!shared.includes(source)) failures.push(`seo.js: missing AI referrer ${source}`);
 if (shared.indexOf("enrichCalendlyLink(link, ctaLocation)") > shared.indexOf('track("calendly_click"')) failures.push("seo.js: Calendly attribution must be applied before the click is tracked");
 if ((shared.match(/document\.addEventListener\("click"/g) || []).length > 3) failures.push("seo.js: unexpected duplicate delegated click handlers");
 

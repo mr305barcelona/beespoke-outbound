@@ -5,8 +5,22 @@ const root = path.join(__dirname, "..");
 const origin = "https://outbound-lead-generation.com";
 const pages = require(path.join(root, "data", "seo-pages.json"));
 const pricingBenchmark = require(path.join(root, "data", "outbound-pricing-benchmark-2026.json"));
-const protectedBenchmarkTerms = new Set([...pricingBenchmark.offers.flatMap((offer) => [offer.provider, offer.offer]), "Lead"]);
+const protectedBenchmarkTerms = new Set([
+  ...pricingBenchmark.offers.flatMap((offer) => [offer.provider, offer.offer]),
+  "Lead",
+  "Beespoke",
+  "Beespoke Outbound Lead Generation",
+  "Cleverly",
+  "Do It Digital",
+  "Lead Cookie",
+  "PluralSales",
+  "Prospect Engine",
+  "SalesBread",
+  "Flat Monthly",
+  "Hybrid Performance"
+]);
 const translationOverrides = require(path.join(root, "data", "seo-translation-overrides.json"));
+const aeoTranslationOverrides = require(path.join(root, "data", "seo-translation-aeo-overrides.json"));
 const locales = {
   es: { label: "Español", home: "Inicio" },
   ca: { label: "Català", home: "Inici" },
@@ -38,7 +52,8 @@ function translateText(text, dictionary) {
   const trailing = text.match(/\s*$/)[0];
   const compact = text.replace(/\s+/g, " ").trim();
   if (!compact || !/[A-Za-z]/.test(compact)) return text;
-  if (protectedBenchmarkTerms.has(compact) || (compact.includes("outbound-lead-generation.com") && compact.includes("&lt;"))) return text;
+  const protectedCandidate = compact.replace(/\s*→$/, "");
+  if (protectedBenchmarkTerms.has(compact) || protectedBenchmarkTerms.has(protectedCandidate) || (compact.includes("outbound-lead-generation.com") && compact.includes("&lt;"))) return text;
   return `${leading}${dictionary[compact] || compact}${trailing}`;
 }
 
@@ -76,10 +91,13 @@ function localizeSchema(html, page, locale, dictionary) {
     const schema = JSON.parse(raw);
     const localizedUrl = `${origin}${localizedPath(locale, page.path)}`;
     for (const node of schema["@graph"] || []) {
-      if (node.url) node.url = localizedUrl;
+      const isSharedEntity = node["@id"] === `${origin}/#organization` || node["@id"] === `${origin}/about/noah-levy/#person`;
+      if (node.url && !isSharedEntity) node.url = localizedUrl;
       if (node["@id"]) {
-        const fragment = node["@id"].includes("#") ? node["@id"].split("#").pop() : "page";
-        node["@id"] = `${localizedUrl}#${fragment}`;
+        if (!isSharedEntity) {
+          const fragment = node["@id"].includes("#") ? node["@id"].split("#").pop() : "page";
+          node["@id"] = `${localizedUrl}#${fragment}`;
+        }
       }
       if (node.name) node.name = dictionary[node.name] || node.name;
       if (node.description) node.description = dictionary[node.description] || node.description;
@@ -88,7 +106,6 @@ function localizeSchema(html, page, locale, dictionary) {
         if (question.acceptedAnswer?.text) question.acceptedAnswer.text = dictionary[question.acceptedAnswer.text] || question.acceptedAnswer.text;
       });
       if (node["@type"] === "Dataset") Object.assign(node, datasetCopy);
-      if (node.author?.url) node.author.url = `${origin}${localizedPath(locale, "/about/noah-levy/")}`;
       if (node.itemListElement) node.itemListElement.forEach((item) => {
         if (item.position === 1) {
           item.name = locales[locale].home;
@@ -398,11 +415,21 @@ function localizeHtml(source, page, locale, dictionary) {
     ]
   };
   for (const [pattern, replacement] of terminology[locale]) html = html.replace(pattern, replacement);
+  const monthNames = {
+    es: { July: "julio", August: "agosto" },
+    ca: { July: "juliol", August: "agost" },
+    fr: { July: "juillet", August: "août" }
+  }[locale];
+  html = html.replace(/These sources were checked on (July|August) (\d{1,2}), 2026\./g, (_, month, day) => ({
+    es: `Estas fuentes se revisaron el ${day} de ${monthNames[month]} de 2026.`,
+    ca: `Aquestes fonts es van revisar el ${day} d${month === "August" ? "’" : "e "}${monthNames[month]} de 2026.`,
+    fr: `Ces sources ont été vérifiées le ${day} ${monthNames[month]} 2026.`
+  }[locale]));
   return html;
 }
 
 for (const [locale] of Object.entries(locales)) {
-  const dictionary = { ...require(path.join(root, "data", `seo-translations.${locale}.json`)), ...(translationOverrides[locale] || {}) };
+  const dictionary = { ...require(path.join(root, "data", `seo-translations.${locale}.json`)), ...(translationOverrides[locale] || {}), ...(aeoTranslationOverrides[locale] || {}) };
   for (const page of pages) {
     const source = fs.readFileSync(path.join(root, page.path.replace(/^\//, ""), "index.html"), "utf8");
     const output = path.join(root, localizedPath(locale, page.path).replace(/^\//, ""), "index.html");

@@ -13,7 +13,7 @@ for (const page of pages) {
   const html = fs.readFileSync(file, "utf8");
   if (seenTitles.has(page.title)) failures.push(`${page.path}: duplicate title`);
   seenTitles.add(page.title);
-  for (const required of ["<h1>", "rel=\"icon\"", "href=\"/favicon.png\"", "href=\"/apple-touch-icon.png\"", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "class=\"skip-link\"", "<main id=\"main-content\"", "src=\"/seo.js?v=20260814\"", "property=\"og:image\"", "name=\"twitter:image\"", "summary_large_image"]) {
+  for (const required of ["<h1>", "rel=\"icon\"", "href=\"/favicon.png\"", "href=\"/apple-touch-icon.png\"", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "class=\"skip-link\"", "<main id=\"main-content\"", "src=\"/seo.js?v=20260819\"", "property=\"og:image\"", "name=\"twitter:image\"", "summary_large_image"]) {
     if (!html.includes(required)) failures.push(`${page.path}: missing ${required}`);
   }
   if (/rel="icon"[^>]+href="data:/i.test(html)) failures.push(`${page.path}: favicon must use a stable crawlable URL`);
@@ -31,6 +31,10 @@ for (const page of pages) {
   if (!jsonLd) continue;
   const graph = JSON.parse(jsonLd[1])["@graph"] || [];
   const pageNode = graph[0];
+  const organization = graph.find((node) => Array.isArray(node["@type"]) && node["@type"].includes("Organization"));
+  const person = graph.find((node) => node["@type"] === "Person");
+  if (organization?.["@id"] !== "https://outbound-lead-generation.com/#organization" || organization.sameAs?.length < 2) failures.push(`${page.path}: incomplete shared organization entity`);
+  if (person?.["@id"] !== "https://outbound-lead-generation.com/about/noah-levy/#person") failures.push(`${page.path}: incomplete shared founder entity`);
   if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|[+-]\d{2}:\d{2})$/.test(pageNode.dateModified || "")) failures.push(`${page.path}: dateModified is not an ISO 8601 DateTime with timezone`);
   if (page.path === "/about/noah-levy/") {
     if (pageNode["@type"] !== "ProfilePage") failures.push(`${page.path}: missing ProfilePage type`);

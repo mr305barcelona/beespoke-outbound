@@ -6,10 +6,13 @@
   const hostMatches = (host, domain) => host === domain || host.endsWith(`.${domain}`);
   const aiSources = [
     ["chatgpt.com", "chatgpt"],
+    ["chat.openai.com", "chatgpt"],
     ["perplexity.ai", "perplexity"],
     ["claude.ai", "claude"],
     ["gemini.google.com", "gemini"],
     ["copilot.microsoft.com", "microsoft-copilot"],
+    ["grok.com", "grok"],
+    ["x.ai", "grok"],
     ["you.com", "you.com"]
   ];
   const searchSources = [
