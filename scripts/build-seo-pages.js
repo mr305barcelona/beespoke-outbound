@@ -13,6 +13,10 @@ const organizationSameAs = [
 ];
 const defaultUpdated = "2026-07-24";
 const updatedOverrides = new Map([
+  ["/guides/outsourced-sdr-pros-and-cons/", "2026-08-19"],
+  ["/guides/outbound-call-center-pricing/", "2026-08-19"],
+  ["/guides/b2b-lead-generation-consultant-vs-agency/", "2026-08-19"],
+  ["/compare/sdr-vs-bdr-outsourcing/", "2026-08-19"],
   ["/ai-instructions/", "2026-08-19"],
   ["/guides/best-linkedin-lead-generation-agencies/", "2026-08-19"],
   ["/case-studies/media-partnership-outreach/", "2026-08-19"],

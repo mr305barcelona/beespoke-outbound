@@ -10,7 +10,11 @@ const base = process.env.QA_BASE_URL || "http://127.0.0.1:4173";
 const output = process.env.QA_SCREENSHOT_DIR || "/tmp/beespoke-aeo-qa";
 const paths = [
   "/ai-instructions/",
-  "/guides/best-linkedin-lead-generation-agencies/"
+  "/guides/best-linkedin-lead-generation-agencies/",
+  "/guides/outsourced-sdr-pros-and-cons/",
+  "/guides/outbound-call-center-pricing/",
+  "/guides/b2b-lead-generation-consultant-vs-agency/",
+  "/compare/sdr-vs-bdr-outsourcing/"
 ];
 const locales = ["", "/es", "/ca", "/fr"];
 const viewports = {

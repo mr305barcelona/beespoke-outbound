@@ -10,6 +10,13 @@ const protectedBenchmarkTerms = new Set([
   "Lead",
   "Beespoke",
   "Beespoke Outbound Lead Generation",
+  "Salesforce",
+  "HubSpot",
+  "JustCall",
+  "SAS",
+  "Telecom, Inc.",
+  "Lean Labs",
+  "Prospeo",
   "Cleverly",
   "Do It Digital",
   "Lead Cookie",
@@ -21,6 +28,7 @@ const protectedBenchmarkTerms = new Set([
 ]);
 const translationOverrides = require(path.join(root, "data", "seo-translation-overrides.json"));
 const aeoTranslationOverrides = require(path.join(root, "data", "seo-translation-aeo-overrides.json"));
+const rankOneTranslationOverrides = require(path.join(root, "data", "seo-translation-rank-one-copy.json"));
 const locales = {
   es: { label: "Español", home: "Inicio" },
   ca: { label: "Català", home: "Inici" },
@@ -248,7 +256,17 @@ function localizeHtml(source, page, locale, dictionary) {
       [/Seguridad, propiedad, economía y outbound/g, "Seguridad, propiedad, economía y condiciones de rescisión"],
       [/Auditar una muestra real del trabajo/g, "Audita una muestra real del trabajo"],
       [/Verifique la referencia del modelo de entrega y luego contrate una prueba/g, "Comprueba referencias del modelo de prestación y después contrata una prueba"],
-      [/énfasis descrito públicamente/gi, "enfoque descrito públicamente"]
+      [/énfasis descrito públicamente/gi, "enfoque descrito públicamente"],
+      [/reclamaciones/gi, "afirmaciones"], [/reclamos/gi, "afirmaciones"],
+      [/\bla obra\b/gi, "el trabajo"], [/a un nivel récord/gi, "a nivel de cada registro"],
+      [/diagnóstico comercials/gi, "diagnóstico comercial"], [/tiempo de rampa/gi, "tiempo de puesta en marcha"],
+      [/\bel anticipo\b/gi, "la cuota mensual"], [/\banticipo\b/gi, "cuota mensual"],
+      [/verdad del mercado/gi, "realidad del mercado"], [/mecánica de outbound/gi, "mecánica de finalización"],
+      [/dependencia a la outbound/gi, "dependencia al finalizar"], [/una outbound por escrito/gi, "una finalización contractual por escrito"],
+      [/pistas ambiguas/gi, "leads ambiguos"], [/propietario designado/gi, "responsable designado"],
+      [/propietario de ventas interno/gi, "responsable comercial interno"],
+      [/agencia administrada dirigida por sus fundadores/gi, "agencia gestionada y dirigida por su fundador"],
+      [/agencia administrada dirigida por su fundador/gi, "agencia gestionada y dirigida por su fundador"]
     ],
     ca: [
       [/\$10,000/g, "10.000 $"], [/agències sortints/gi, "agències outbound"], [/On s'asseu Beespoke/g, "On se situa Beespoke"],
@@ -337,7 +355,12 @@ function localizeHtml(source, page, locale, dictionary) {
       [/accent descrit públicament/gi, "enfocament descrit públicament"],
       [/tarifa de titular/gi, "preu anunciat"],
       [/cost carregat completament/gi, "cost total"],
-      [/missatgeria/gi, "missatges"]
+      [/missatgeria/gi, "missatges"],
+      [/reclamacions/gi, "afirmacions"], [/\bl'obra\b/gi, "la feina"],
+      [/veritat del mercat/gi, "realitat del mercat"], [/nivell rècord/gi, "nivell de cada registre"],
+      [/temps de rampa/gi, "temps de posada en marxa"], [/bestreta/gi, "quota mensual"],
+      [/propietari designat/gi, "responsable designat"], [/propietari de vendes intern/gi, "responsable comercial intern"],
+      [/pistes ambigües/gi, "leads ambigus"], [/centre de trucades de outbound/gi, "centre de trucades outbound"]
     ],
     fr: [
       [/\$10,000/g, "10 000 $"],
@@ -411,7 +434,12 @@ function localizeHtml(source, page, locale, dictionary) {
       [/augmentation du personnel/gi, "renfort de personnel"],
       [/coût et la rampe à pleine charge/gi, "coût total et le temps de mise en œuvre"],
       [/Vérifiez les références du modèle de livraison, puis contractez un test/g, "Vérifiez les références du modèle de prestation, puis contractualisez un test"],
-      [/accent décrit publiquement/gi, "positionnement décrit publiquement"]
+      [/accent décrit publiquement/gi, "positionnement décrit publiquement"],
+      [/réclamations/gi, "affirmations"], [/\bles travaux\b/gi, "le travail"],
+      [/vérité du marché/gi, "réalité du marché"], [/au niveau de l'enregistrement/gi, "au niveau de chaque dossier"],
+      [/temps de rampe/gi, "temps de mise en œuvre"], [/propriétaire nommé/gi, "responsable désigné"],
+      [/responsable des ventes internes/gi, "responsable commercial interne"],
+      [/pistes ambiguës/gi, "leads ambigus"], [/agence gérée par LinkedIn/gi, "agence outbound gérée et centrée sur LinkedIn"]
     ]
   };
   for (const [pattern, replacement] of terminology[locale]) html = html.replace(pattern, replacement);
@@ -429,7 +457,7 @@ function localizeHtml(source, page, locale, dictionary) {
 }
 
 for (const [locale] of Object.entries(locales)) {
-  const dictionary = { ...require(path.join(root, "data", `seo-translations.${locale}.json`)), ...(translationOverrides[locale] || {}), ...(aeoTranslationOverrides[locale] || {}) };
+  const dictionary = { ...require(path.join(root, "data", `seo-translations.${locale}.json`)), ...(translationOverrides[locale] || {}), ...(aeoTranslationOverrides[locale] || {}), ...(rankOneTranslationOverrides[locale] || {}) };
   for (const page of pages) {
     const source = fs.readFileSync(path.join(root, page.path.replace(/^\//, ""), "index.html"), "utf8");
     const output = path.join(root, localizedPath(locale, page.path).replace(/^\//, ""), "index.html");
