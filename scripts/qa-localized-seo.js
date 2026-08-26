@@ -82,7 +82,7 @@ for (const locale of locales) {
   for (const hreflang of ["en", "es", "ca", "fr", "x-default"]) if ((homeHtml.match(new RegExp(`hreflang="${hreflang}"`, "g")) || []).length !== 1) failures.push(`${homePath}: invalid homepage ${hreflang}`);
   if (!homeHtml.includes(`lang="${locale}" aria-current="page"`)) failures.push(`${homePath}: homepage language selector missing`);
   if (!homeHtml.includes(`/${locale}/services/outbound-lead-generation/`)) failures.push(`${homePath}: localized homepage internal links missing`);
-  if (!homeHtml.includes('src="/seo.js?v=20260819"')) failures.push(`${homePath}: versioned homepage behavior missing`);
+  if (!homeHtml.includes('src="/seo.js?v=20260826"')) failures.push(`${homePath}: versioned homepage behavior missing`);
   if (!homeHtml.includes('href="/favicon.png"') || !homeHtml.includes('href="/apple-touch-icon.png"')) failures.push(`${homePath}: crawlable homepage favicon metadata missing`);
   if (/rel="icon"[^>]+href="data:/i.test(homeHtml)) failures.push(`${homePath}: embedded homepage favicon is not crawlable by Google`);
   if (/src="(?!\/|https?:|data:)[^"]+"/.test(homeHtml)) failures.push(`${homePath}: homepage contains a relative asset URL`);

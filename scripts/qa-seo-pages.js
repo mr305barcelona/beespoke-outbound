@@ -13,7 +13,7 @@ for (const page of pages) {
   const html = fs.readFileSync(file, "utf8");
   if (seenTitles.has(page.title)) failures.push(`${page.path}: duplicate title`);
   seenTitles.add(page.title);
-  for (const required of ["<h1>", "rel=\"icon\"", "href=\"/favicon.png\"", "href=\"/apple-touch-icon.png\"", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "class=\"skip-link\"", "<main id=\"main-content\"", "src=\"/seo.js?v=20260819\"", "property=\"og:image\"", "name=\"twitter:image\"", "summary_large_image"]) {
+  for (const required of ["<h1>", "rel=\"icon\"", "href=\"/favicon.png\"", "href=\"/apple-touch-icon.png\"", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "class=\"skip-link\"", "<main id=\"main-content\"", "src=\"/seo.js?v=20260826\"", "property=\"og:image\"", "name=\"twitter:image\"", "summary_large_image"]) {
     if (!html.includes(required)) failures.push(`${page.path}: missing ${required}`);
   }
   if (/rel="icon"[^>]+href="data:/i.test(html)) failures.push(`${page.path}: favicon must use a stable crawlable URL`);

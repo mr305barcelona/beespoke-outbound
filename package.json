@@ -3,7 +3,8 @@
   "private": true,
   "scripts": {
     "build:seo": "node scripts/build-seo-pages.js && node scripts/build-localized-seo.js && node scripts/build-planning-downloads.js",
-    "qa:seo": "node scripts/qa-seo-pages.js && node scripts/qa-localized-seo.js && node scripts/qa-serp-readiness.js && node scripts/qa-planning-downloads.js && node scripts/qa-internal-links.js && node scripts/qa-analytics.js",
+    "qa:seo": "node scripts/qa-seo-pages.js && node scripts/qa-localized-seo.js && node scripts/qa-serp-readiness.js && node scripts/qa-planning-downloads.js && node scripts/qa-internal-links.js && node scripts/qa-analytics.js && node scripts/qa-attribution-links.js",
+    "qa:attribution-browser": "node scripts/qa-attribution-browser.js",
     "test": "npm run build:seo && npm run qa:seo"
   }
 }

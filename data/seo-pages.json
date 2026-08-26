@@ -33,11 +33,11 @@
   },
   {
     "path": "/services/linkedin-lead-generation/",
-    "title": "LinkedIn Lead Generation Agency for B2B | Beespoke",
-    "description": "Done-for-you B2B LinkedIn outreach with precise targeting, founder-led messaging, reply management and qualified meeting booking.",
+    "title": "LinkedIn Lead Generation Agency: B2B Outreach | Beespoke",
+    "description": "Founder-led LinkedIn lead generation agency for B2B companies: precise targeting, human-reviewed outreach, reply management and qualified meetings.",
     "eyebrow": "LinkedIn outbound",
-    "h1": "LinkedIn lead generation that sounds like a credible human conversation",
-    "answer": "A LinkedIn lead generation or LinkedIn outreach agency uses the platform to identify relevant business buyers, build familiarity, start tailored conversations, follow up, and book qualified meetings. Beespoke manages that workflow with small, focused campaigns rather than generic high-volume automation.",
+    "h1": "LinkedIn lead generation agency for credible B2B conversations",
+    "answer": "Beespoke is a founder-led LinkedIn lead generation agency for B2B companies that need carefully targeted conversations rather than automated volume. We research accounts, develop credible messages, manage replies and book qualified meetings. The standard service is LinkedIn-led; it does not include undisclosed automation, high-volume cold email, paid ads or full-cycle closing.",
     "sections": [
       {"heading":"What is included","body":["We define the account and persona filters, research prospects, sharpen the sending profile, write the connection and follow-up sequence, manage replies, and book suitable conversations.","LinkedIn works best when the person sending messages has a credible reason to contact the buyer. The profile, offer, target list, and message must tell the same story."],"items":["Sales Navigator targeting logic","Profile and positioning recommendations","Connection and message sequences","Response categorization and follow-up","Meeting qualification and booking","Campaign learning and iteration"]},
       {"heading":"Why focused campaigns outperform generic volume","body":["Automation makes it easy to send more messages and equally easy to damage trust. Senior buyers recognize recycled openings, false personalization, and an immediate pitch.","We favor narrower lists and a defensible reason for contact. That creates a smaller campaign with more useful learning: which segment recognizes the problem, which proof matters, and which language starts a real conversation."],"callout":"Personalization is not mentioning a university or recent post. It is showing why this person, at this company, has a plausible reason to care."},
@@ -45,7 +45,12 @@
       {"heading":"Where LinkedIn fits","body":["LinkedIn is a strong choice when buyers are identifiable by employer, role, seniority, or professional context and when a human profile adds credibility. It is weaker when the audience rarely uses the platform or the offer depends on immediate consumer demand.","Some markets need email, phone, partnerships, content, or paid acquisition alongside LinkedIn. We will not recommend LinkedIn as a universal answer when the buyer or sales motion suggests otherwise."]},
       {"heading":"What happens after a reply","body":["A positive response is only the middle of the workflow. We clarify context, handle reasonable questions, agree on a useful conversation, schedule it, and pass along the thread so your closer arrives informed.","Negative and ambiguous replies are also valuable. They reveal positioning gaps, mistimed segments, missing proof, and objections that should shape the next iteration."]}
     ],
-    "related":["/case-studies/cybersecurity-linkedin-lead-generation/","/services/outbound-lead-generation/","/industries/b2b-saas-lead-generation/"]
+    "faqs":[
+      {"question":"How much does a LinkedIn lead generation agency cost?","answer":"The market includes inexpensive software-assisted offers and managed services costing several thousand dollars per month. The meaningful comparison is fully loaded cost for equivalent research, messaging, reply handling and held-meeting qualification—not the headline fee alone."},
+      {"question":"Is LinkedIn outreach automation safe?","answer":"LinkedIn prohibits unauthorized software that scrapes data or automates activity. No agency can responsibly guarantee zero account risk. Require disclosure of every tool, access method, activity control, human review step and incident responsibility."},
+      {"question":"Which LinkedIn lead generation agency is best?","answer":"There is no universal winner. Choose the provider whose operating model, team, research depth, account-safety controls, reply handling, qualification, channel mix, price and ownership terms fit the specific sales motion."}
+    ],
+    "related":["/guides/best-linkedin-lead-generation-agencies/","/case-studies/cybersecurity-linkedin-lead-generation/","/services/outbound-lead-generation/"]
   },
   {
     "path": "/pricing/",
@@ -218,11 +223,11 @@
   },
   {
     "path":"/services/outsourced-sdr/",
-    "title":"Outsourced SDR Services for Focused B2B Outbound",
-    "description":"Understand outsourced SDR services, operating models, deliverables, ownership and when Beespoke’s focused agency model is the better fit.",
+    "title":"Outsourced SDR Services: Models, Costs & Fit | Beespoke",
+    "description":"Compare outsourced SDR services by dedicated rep, pod or managed campaign, including costs, ownership, deliverables, qualification and best-fit conditions.",
     "eyebrow":"Outsourced sales development",
-    "h1":"Outsourced SDR services: scope, fit and tradeoffs",
-    "answer":"Outsourced SDR services—also described as SDR outsourcing or outsourced sales development—provide external capacity for prospecting, outreach, qualification and meeting booking. Some providers supply a dedicated representative inside the client’s systems; others deliver a managed campaign or SDR pod. Beespoke provides focused LinkedIn-led campaign execution, not a full-time named SDR or large multichannel team.",
+    "h1":"Outsourced SDR services: models, costs, fit and tradeoffs",
+    "answer":"Outsourced SDR services provide an external sales-development team for prospecting, outreach, qualification and meeting booking. Buyers may hire a dedicated SDR, a shared pod or a managed campaign. Compare the people, channel capacity, fully loaded cost, meeting definition, ownership and exit terms—not only the retainer. Beespoke provides a focused LinkedIn-led managed campaign rather than named full-time SDR headcount.",
     "sections":[
       {"heading":"What an outsourced SDR service can include","items":["ICP and account-selection support","Contact research and list operations","Email, LinkedIn or phone execution","Message and sequence development","Reply handling and qualification","CRM activity and reporting","Meeting booking and no-show follow-up","SDR coaching, management and replacement"]},
       {"heading":"Dedicated rep, pod or managed campaign","body":["A dedicated rep offers continuity and closer integration but requires enough work and client management. A pod adds specialist roles and management at higher cost. A managed campaign owns a narrower channel or outcome with less client supervision."],"table":{"caption":"Common outsourced sales-development structures","headers":["Structure","Best for","Client responsibility","Main tradeoff"],"rows":[["Dedicated SDR","Ongoing capacity in one motion","Enablement and close management","Single-person ramp and continuity risk"],["SDR pod","Multichannel scale and specialist support","Strategic direction and sales follow-up","Higher commitment and overhead"],["Managed campaign","Focused test or defined channel","Offer input and discovery","Less like an embedded employee"]]}},
@@ -230,7 +235,13 @@
       {"heading":"When outsourced SDR capacity is premature","body":["A dedicated SDR cannot repair an undefined offer, an unbounded ICP or the absence of sales follow-up. Validate the market and message before paying for full-time capacity.","Very small addressable markets may require account-based business development rather than repeatable SDR volume."]},
       {"heading":"Where Beespoke fits and does not fit","body":["Beespoke manages focused LinkedIn outreach: market definition, targeting, messaging, reply handling and qualified meeting booking. Founder involvement keeps strategy close to campaign evidence.","Choose a different provider when you need a named full-time rep, extensive cold calling, large-scale email infrastructure, 24-hour coverage or daily operation inside a complex enterprise tech stack."],"links":[{"label":"Compare outsourced SDRs with lead generation agencies","href":"/guides/outsourced-sdr-vs-lead-generation-agency/"},{"label":"Review Beespoke’s outbound service","href":"/services/outbound-lead-generation/"}]}
     ],
-    "related":["/guides/outsourced-sdr-cost/","/compare/outsourced-sdr-vs-in-house-sdr/","/guides/outsourced-sdr-pros-and-cons/"]
+    "faqs":[
+      {"question":"How much do outsourced SDR companies charge?","answer":"Pricing varies by dedicated versus shared staffing, geography, channels, data, management and output definition. Use a fully loaded monthly cost and a consistent held-qualified-meeting denominator."},
+      {"question":"Is an outsourced SDR cheaper than an in-house SDR?","answer":"Sometimes, but only after salary, employer costs, recruiting, ramp, management, tools, data, setup, retainers and variable fees are normalized over the same period. Compare cost per held ICP meeting and accepted opportunity as well as long-term capability value."},
+      {"question":"Is Beespoke an outsourced SDR provider?","answer":"Beespoke provides managed sales-development work but is structured as a focused lead generation agency rather than full-time SDR staff augmentation. Its standard scope is LinkedIn-led targeting, outreach, replies and qualified meeting booking."},
+      {"question":"What are the biggest risks of an outsourced SDR team?","answer":"The biggest risks are weak product context, volume-driven targeting, inconsistent reply handling, unclear qualification, shared attention, platform or data exposure, and losing records or learning at the end of the engagement."}
+    ],
+    "related":["/guides/best-outsourced-sdr-companies/","/guides/outsourced-sdr-cost/","/compare/outsourced-sdr-vs-in-house-sdr/"]
   },
   {
     "path":"/guides/outsourced-sdr-cost/",

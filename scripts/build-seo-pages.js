@@ -9,10 +9,14 @@ const organizationId = `${origin}/#organization`;
 const personId = `${origin}/about/noah-levy/#person`;
 const organizationSameAs = [
   "https://www.goodfirms.co/company/beespoke-outbound-lead-generation",
-  "https://techbehemoths.com/company/beespoke-outbound-lead-generation"
+  "https://techbehemoths.com/company/beespoke-outbound-lead-generation",
+  "https://clutch.co/profile/beespoke-outbound-lead-generation",
+  "https://www.cylex.es/barcelona/beespoke-outbound-lead-generation-14666954.html"
 ];
 const defaultUpdated = "2026-07-24";
 const updatedOverrides = new Map([
+  ["/services/linkedin-lead-generation/", "2026-08-26"],
+  ["/services/outsourced-sdr/", "2026-08-26"],
   ["/guides/outsourced-sdr-pros-and-cons/", "2026-08-19"],
   ["/guides/outbound-call-center-pricing/", "2026-08-19"],
   ["/guides/b2b-lead-generation-consultant-vs-agency/", "2026-08-19"],
@@ -35,7 +39,6 @@ const updatedOverrides = new Map([
   ["/guides/how-to-choose-an-outbound-lead-generation-agency/", "2026-08-17"],
   ["/guides/best-b2b-lead-generation-agencies/", "2026-08-17"],
   ["/services/outbound-lead-generation/", "2026-08-03"],
-  ["/services/linkedin-lead-generation/", "2026-08-03"],
   ["/guides/outbound-lead-generation-cost/", "2026-08-03"],
   ["/case-studies/cybersecurity-linkedin-lead-generation/", "2026-08-03"],
   ["/guides/outsourced-sdr-vs-lead-generation-agency/", "2026-08-03"],
@@ -300,7 +303,7 @@ function renderPage(page) {
     description: "Founder of Beespoke Outbound Lead Generation",
     url: `${origin}/about/noah-levy/`,
     worksFor: { "@id": organizationId },
-    sameAs: ["https://www.linkedin.com/in/noahlevywriter/"]
+    sameAs: ["https://www.linkedin.com/in/noahlevywriter/", "https://app.qwoted.com/sources/noah-levy"]
   };
   const datasetSchema = page.path === "/research/2026-b2b-outbound-pricing-benchmark/"
     ? [{
@@ -398,7 +401,7 @@ function renderPage(page) {
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${escapeHtml(page.title)}</title><meta name="description" content="${escapeHtml(page.description)}"><meta name="robots" content="index,follow,max-image-preview:large">
 <link rel="icon" type="image/png" sizes="96x96" href="/favicon.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="canonical" href="${url}"><link rel="alternate" hreflang="en" href="${url}">${alternates}<link rel="alternate" hreflang="x-default" href="${url}"><link rel="stylesheet" href="/seo.css?v=20260803">
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KDXYW9W2BB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KDXYW9W2BB');</script><script src="/seo.js?v=20260819" defer></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KDXYW9W2BB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KDXYW9W2BB');</script><script src="/seo.js?v=20260826" defer></script>
 <meta property="og:type" content="article"><meta property="og:title" content="${escapeHtml(page.title)}"><meta property="og:description" content="${escapeHtml(page.description)}"><meta property="og:url" content="${url}"><meta property="og:site_name" content="Beespoke Outbound Lead Generation"><meta property="og:image" content="${socialImage}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="${escapeHtml(socialAlt)}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${escapeHtml(page.title)}"><meta name="twitter:description" content="${escapeHtml(page.description)}"><meta name="twitter:image" content="${socialImage}"><meta name="twitter:image:alt" content="${escapeHtml(socialAlt)}"><script type="application/ld+json">${JSON.stringify(schema).replace(/</g, "\\u003c")}</script>
 </head><body>
