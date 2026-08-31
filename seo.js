@@ -103,6 +103,11 @@
     } catch { /* Leave the original booking URL intact if parsing fails. */ }
     return link.href;
   };
+  const internalBookingUrl = (ctaLocation) => {
+    const url = new URL("/book/", location.origin);
+    url.searchParams.set("cta", limited(ctaLocation, 30));
+    return url.toString();
+  };
   document.addEventListener("click", (event) => {
     const link = event.target.closest("a");
     if (!link) return;
@@ -111,10 +116,18 @@
     if (href.includes("calendly.com")) {
       const destinationUrl = enrichCalendlyLink(link, ctaLocation);
       const parameters = { cta_text: link.textContent.trim(), cta_location: ctaLocation, link_url: destinationUrl };
-      try { localStorage.setItem(bookingJourneyKey, JSON.stringify({ createdAt: Date.now(), attribution })); }
+      try { localStorage.setItem(bookingJourneyKey, JSON.stringify({ createdAt: Date.now(), attribution, calendlyUrl: destinationUrl, ctaLocation })); }
       catch { /* The confirmation page can still validate the Calendly referrer. */ }
       track("calendly_click", parameters);
       track("contact_intent", { ...parameters, contact_method: "calendly", intent_stage: "calendar_opened" });
+      // Keep the direct Calendly URL as the no-JavaScript fallback, but route
+      // active visitors through our first-party embed so a completed booking can
+      // be measured from Calendly's verified event_scheduled message.
+      if (link.dataset.calendlyDirect !== "true") {
+        link.href = internalBookingUrl(ctaLocation);
+        link.removeAttribute("target");
+        link.removeAttribute("rel");
+      }
     }
     if (href.includes("wa.me/")) {
       const parameters = { cta_text: link.textContent.trim(), cta_location: ctaLocation, link_url: link.href };
@@ -152,6 +165,70 @@
         localStorage.removeItem(bookingJourneyKey);
       } catch { /* Event delivery does not depend on storage cleanup. */ }
     }
+  }
+  const bookingEmbed = document.querySelector("#calendly-embed");
+  if (bookingEmbed) {
+    const storedJourney = readBookingJourney();
+    let calendlyUrl = "https://calendly.com/noahlevybuilds/30min";
+    try {
+      const storedUrl = new URL(storedJourney?.calendlyUrl || calendlyUrl);
+      if (hostMatches(storedUrl.hostname.replace(/^www\./, ""), "calendly.com")) calendlyUrl = storedUrl.toString();
+    } catch { /* Use the known public scheduling URL. */ }
+    try {
+      const url = new URL(calendlyUrl);
+      const values = {
+        utm_source: attribution.source === "(direct)" ? "beespoke-site" : attribution.source,
+        utm_medium: attribution.medium === "(none)" ? "website" : attribution.medium,
+        utm_campaign: attribution.campaign || "website-calendly",
+        utm_content: storedJourney?.ctaLocation ? `${storedJourney.ctaLocation}:${attribution.landingPage}` : `booking-page:${attribution.landingPage}`,
+        utm_term: attribution.term
+      };
+      Object.entries(values).forEach(([key, value]) => {
+        if (value && !url.searchParams.has(key)) url.searchParams.set(key, limited(value));
+      });
+      calendlyUrl = url.toString();
+    } catch { /* The base URL above remains a valid fallback. */ }
+
+    if (window.Calendly?.initInlineWidget) {
+      window.Calendly.initInlineWidget({ url: calendlyUrl, parentElement: bookingEmbed });
+    } else {
+      const fallback = document.createElement("a");
+      fallback.href = calendlyUrl;
+      fallback.textContent = bookingEmbed.dataset.fallbackLabel || "Open the booking calendar";
+      fallback.className = "booking-fallback";
+      fallback.dataset.calendlyDirect = "true";
+      fallback.rel = "noopener";
+      bookingEmbed.replaceChildren(fallback);
+    }
+
+    addEventListener("message", (event) => {
+      let trustedCalendlyOrigin = false;
+      try { trustedCalendlyOrigin = hostMatches(new URL(event.origin).hostname.replace(/^www\./, ""), "calendly.com"); }
+      catch { trustedCalendlyOrigin = false; }
+      if (!trustedCalendlyOrigin || event.data?.event !== "calendly.event_scheduled") return;
+      let alreadyConfirmed = false;
+      try { alreadyConfirmed = sessionStorage.getItem(bookingConfirmedKey) === "true"; }
+      catch { alreadyConfirmed = false; }
+      if (alreadyConfirmed) return;
+      track("generate_lead", {
+        contact_method: "calendly",
+        intent_stage: "booking_confirmed",
+        booking_status: "scheduled",
+        booking_event_source: "calendly_embed_message"
+      });
+      track("contact_intent", {
+        contact_method: "calendly",
+        intent_stage: "booking_confirmed",
+        booking_status: "scheduled",
+        booking_event_source: "calendly_embed_message"
+      });
+      const success = document.querySelector("[data-booking-success]");
+      if (success) success.hidden = false;
+      try {
+        sessionStorage.setItem(bookingConfirmedKey, "true");
+        localStorage.removeItem(bookingJourneyKey);
+      } catch { /* Event delivery does not depend on storage cleanup. */ }
+    });
   }
   const reached = new Set();
   addEventListener("scroll", () => {

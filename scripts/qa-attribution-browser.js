@@ -52,8 +52,13 @@ const pages = [
     await context.close();
   }
 
-  const context = await browser.newContext({ locale: "es-ES" });
+  const context = await browser.newContext({ locale: "es-ES", viewport: { width: 390, height: 844 } });
   await context.route(/googletagmanager\.com/, (route) => route.abort());
+  await context.route("https://assets.calendly.com/assets/external/widget.js", (route) => route.fulfill({
+    contentType: "application/javascript",
+    body: "window.Calendly={initInlineWidget:function(options){window.__beespokeCalendlyUrl=options.url;}};"
+  }));
+  await context.route("https://assets.calendly.com/assets/external/widget.css", (route) => route.fulfill({ contentType: "text/css", body: "" }));
   const page = await context.newPage();
   await page.goto(`${base}/services/linkedin-lead-generation/?utm_source=chatgpt&utm_medium=ai-assistant&utm_campaign=seo_attribution`, { waitUntil: "domcontentloaded" });
   const clickState = await page.evaluate(() => {
@@ -61,35 +66,56 @@ const pages = [
     const link = document.querySelector('a[href*="calendly.com"]');
     link.click();
     const events = window.dataLayer.filter((entry) => entry?.[0] === "event").map((entry) => ({ name: entry[1], parameters: entry[2] }));
-    return { href: link.href, events, journey: JSON.parse(localStorage.getItem("beespoke-booking-journey-v1") || "null") };
+    return { href: link.href, target: link.getAttribute("target"), events, journey: JSON.parse(localStorage.getItem("beespoke-booking-journey-v1") || "null") };
   });
   const clickEvent = clickState.events.find((event) => event.name === "calendly_click");
   if (!clickEvent) failures.push("Attribution: calendly_click was not emitted");
-  if (!clickState.href.includes("utm_source=chatgpt") || !clickState.href.includes("utm_medium=ai-assistant")) failures.push("Attribution: Calendly URL did not inherit source and medium");
+  if (!clickState.href.endsWith("/book/?cta=navigation")) failures.push(`Attribution: Calendly CTA did not route through the first-party booking page (${clickState.href})`);
+  if (clickState.target !== null) failures.push("Attribution: first-party booking page should stay in the current tab");
   if (clickState.journey?.attribution?.source !== "chatgpt" || clickState.journey?.attribution?.landingPage !== "/services/linkedin-lead-generation/") failures.push("Attribution: booking journey did not preserve first touch");
+  if (!clickState.journey?.calendlyUrl?.includes("utm_source=chatgpt") || !clickState.journey?.calendlyUrl?.includes("utm_medium=ai-assistant")) failures.push("Attribution: stored Calendly URL did not inherit source and medium");
 
-  await page.goto(`${base}/booking-confirmed/`, { waitUntil: "domcontentloaded" });
-  const confirmationState = await page.evaluate(() => ({
+  await page.goto(`${base}/book/`, { waitUntil: "domcontentloaded" });
+  const bookingState = await page.evaluate(() => ({
     lang: document.documentElement.lang,
     heading: document.querySelector("[data-booking-heading]")?.textContent,
+    embedUrl: window.__beespokeCalendlyUrl,
+    overflow: document.documentElement.scrollWidth - document.documentElement.clientWidth
+  }));
+  if (bookingState.lang !== "es" || !bookingState.heading?.includes("horario")) failures.push("Booking page: Spanish device localization failed");
+  if (!bookingState.embedUrl?.includes("utm_source=chatgpt") || !bookingState.embedUrl?.includes("utm_medium=ai-assistant")) failures.push("Booking page: Calendly embed lost first-touch attribution");
+  if (bookingState.overflow > 2) failures.push(`Booking page: ${bookingState.overflow}px horizontal overflow at 390px`);
+
+  await page.evaluate(() => window.dispatchEvent(new MessageEvent("message", {
+    origin: "https://calendly.com",
+    data: { event: "calendly.event_scheduled", payload: { event: { uri: "https://api.calendly.com/scheduled_events/test" } } }
+  })));
+  const confirmationState = await page.evaluate(() => ({
+    successVisible: !document.querySelector("[data-booking-success]")?.hidden,
     events: window.dataLayer.filter((entry) => entry?.[0] === "event").map((entry) => ({ name: entry[1], parameters: entry[2] }))
   }));
   const generated = confirmationState.events.filter((event) => event.name === "generate_lead");
-  if (generated.length !== 1) failures.push(`Attribution: expected one confirmed generate_lead event, received ${generated.length}`);
+  if (generated.length !== 1) failures.push(`Attribution: expected one embed-confirmed generate_lead event, received ${generated.length}`);
   if (generated[0]?.parameters?.first_touch_source !== "chatgpt" || generated[0]?.parameters?.intent_stage !== "booking_confirmed") failures.push("Attribution: confirmed booking lost first-touch or stage data");
-  if (confirmationState.lang !== "es" || !confirmationState.heading?.includes("programada")) failures.push("Booking confirmation: Spanish device localization failed");
+  if (generated[0]?.parameters?.booking_event_source !== "calendly_embed_message") failures.push("Attribution: confirmed booking did not identify the verified embed source");
+  if (!confirmationState.successVisible) failures.push("Booking page: accessible confirmation message was not revealed");
 
-  await page.reload({ waitUntil: "domcontentloaded" });
-  const reloadEvents = await page.evaluate(() => window.dataLayer.filter((entry) => entry?.[0] === "event" && entry[1] === "generate_lead").length);
-  if (reloadEvents !== 0) failures.push("Attribution: refreshing the confirmation duplicated generate_lead");
+  await page.evaluate(() => window.dispatchEvent(new MessageEvent("message", { origin: "https://calendly.com", data: { event: "calendly.event_scheduled" } })));
+  const duplicateEvents = await page.evaluate(() => window.dataLayer.filter((entry) => entry?.[0] === "event" && entry[1] === "generate_lead").length);
+  if (duplicateEvents !== 1) failures.push("Attribution: duplicate Calendly messages produced duplicate generate_lead events");
   await context.close();
 
   const directContext = await browser.newContext();
   await directContext.route(/googletagmanager\.com/, (route) => route.abort());
+  await directContext.route("https://assets.calendly.com/assets/external/widget.js", (route) => route.fulfill({
+    contentType: "application/javascript",
+    body: "window.Calendly={initInlineWidget:function(options){window.__beespokeCalendlyUrl=options.url;}};"
+  }));
   const directPage = await directContext.newPage();
-  await directPage.goto(`${base}/booking-confirmed/`, { waitUntil: "domcontentloaded" });
+  await directPage.goto(`${base}/book/`, { waitUntil: "domcontentloaded" });
+  await directPage.evaluate(() => window.dispatchEvent(new MessageEvent("message", { origin: "https://example.com", data: { event: "calendly.event_scheduled" } })));
   const directEvents = await directPage.evaluate(() => window.dataLayer.filter((entry) => entry?.[0] === "event" && entry[1] === "generate_lead").length);
-  if (directEvents !== 0) failures.push("Attribution: an unverified direct visit produced a false confirmed booking");
+  if (directEvents !== 0) failures.push("Attribution: an untrusted message produced a false confirmed booking");
   await directContext.close();
 
   await browser.close();
@@ -97,7 +123,7 @@ const pages = [
     console.error(failures.join("\n"));
     process.exit(1);
   }
-  console.log("Browser attribution QA passed for SEO metadata, localization, Calendly UTMs and confirmed-booking deduplication.");
+  console.log("Browser attribution QA passed for SEO metadata, localization, Calendly UTMs, trusted completion messages and confirmed-booking deduplication.");
 })().catch((error) => {
   console.error(error);
   process.exit(1);
