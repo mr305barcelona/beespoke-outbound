@@ -29,6 +29,8 @@ const protectedBenchmarkTerms = new Set([
 const translationOverrides = require(path.join(root, "data", "seo-translation-overrides.json"));
 const aeoTranslationOverrides = require(path.join(root, "data", "seo-translation-aeo-overrides.json"));
 const rankOneTranslationOverrides = require(path.join(root, "data", "seo-translation-rank-one-copy.json"));
+const queryGrowthCopy = require(path.join(root, "data", "seo-query-growth-copy.json"));
+const queryGrowthPages = new Set(["/services/outbound-lead-generation/", "/guides/outbound-lead-generation-cost/"]);
 const locales = {
   es: { label: "Español", home: "Inicio" },
   ca: { label: "Català", home: "Inici" },
@@ -457,12 +459,17 @@ function localizeHtml(source, page, locale, dictionary) {
 }
 
 for (const [locale] of Object.entries(locales)) {
+  const queryGrowthDictionary = Object.fromEntries(queryGrowthCopy.flatMap((row) => {
+    const translated = row[{ es: 1, ca: 2, fr: 3 }[locale]];
+    return [[row[0], translated], [`${row[0]} →`, `${translated} →`]];
+  }));
   const dictionary = { ...require(path.join(root, "data", `seo-translations.${locale}.json`)), ...(translationOverrides[locale] || {}), ...(aeoTranslationOverrides[locale] || {}), ...(rankOneTranslationOverrides[locale] || {}) };
   for (const page of pages) {
     const source = fs.readFileSync(path.join(root, page.path.replace(/^\//, ""), "index.html"), "utf8");
     const output = path.join(root, localizedPath(locale, page.path).replace(/^\//, ""), "index.html");
     fs.mkdirSync(path.dirname(output), { recursive: true });
-    fs.writeFileSync(output, localizeHtml(source, page, locale, dictionary));
+    const pageDictionary = queryGrowthPages.has(page.path) ? { ...dictionary, ...queryGrowthDictionary } : dictionary;
+    fs.writeFileSync(output, localizeHtml(source, page, locale, pageDictionary));
   }
   const homepageSource = fs.readFileSync(path.join(root, "index.html"), "utf8")
     .replace(/<(meta|link)([^>]*?)\s*\/>/g, "<$1$2>")
