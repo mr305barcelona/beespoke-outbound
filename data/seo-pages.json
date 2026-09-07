@@ -77,8 +77,8 @@
   },
   {
     "path": "/guides/outbound-lead-generation-cost/",
-    "title": "How Much Do Outbound Agencies Charge? When $10K Is Worth It",
-    "description": "See how outbound agencies charge—retainer, pay per meeting or hybrid—and use 2026 pricing data, a calculator and a $10K decision test.",
+    "title": "How Much Do Outbound Agencies Charge? Is $10K Worth It?",
+    "description": "See what outbound agencies charge in 2026, what a $10K monthly retainer should include, and how to compare fully loaded cost with our calculator.",
     "eyebrow": "2026 buyer's guide",
     "h1": "How do outbound agencies charge? Is $10,000 a month worth it?",
     "answer": "Most outbound agencies use one of three models: a monthly retainer, a fee per booked or held meeting, or a hybrid. In Beespoke's July 2026 review of 40 public offers, fixed monthly prices ranged from $150 for one AI-assisted email account to $12,000–$15,000 for a managed LinkedIn tier—but those offers are not equivalent. A $10,000 retainer is worth considering only when its scope, your customer economics and your sales capacity justify it.",
@@ -98,7 +98,7 @@
       {"question":"What should an outbound agency fee include?","answer":"The proposal should state the people and capacity assigned, channels, data and software, sender accounts, list research, messaging, reply handling, qualification, reporting, setup work, contract term and ownership of campaign assets."},
       {"question":"How should I compare two outbound agency quotes?","answer":"Normalize both quotes to the same scope and contract period, then compare cost per qualified meeting held and per opportunity accepted by sales. Do not compare only the monthly headline or the number of messages sent."}
     ],
-    "related":["/research/2026-b2b-outbound-pricing-benchmark/","/pricing/","/guides/outsourced-sdr-vs-lead-generation-agency/"]
+    "related":["/research/2026-b2b-outbound-pricing-benchmark/","/compare/lead-generation-agency-vs-software/","/pricing/"]
   },
   {
     "path": "/case-studies/cybersecurity-linkedin-lead-generation/",
@@ -444,8 +444,8 @@
   },
   {
     "path":"/guides/cold-email-agency/",
-    "title":"Cold Email Agency: Services, Risks and Selection Guide",
-    "description":"A practical buyer’s guide to cold email agencies: deliverability, infrastructure, targeting, compliance, pricing, reporting and provider evaluation.",
+    "title":"Cold Email Agency: 12 Questions to Ask Before You Hire",
+    "description":"Compare cold email agencies by deliverability, domain ownership, data, compliance, reply handling and held-meeting quality before granting access.",
     "eyebrow":"Cold email agency buyer’s guide",
     "h1":"How to evaluate a cold email agency before it touches your domain",
     "answer":"A cold email agency can manage targeting, contact data, copy, sending infrastructure, campaign execution, replies and appointment setting. The important buying question is not how many emails it can send. It is whether the agency protects domain reputation, uses relevant and lawful data, creates credible messages, separates booked from held meetings and leaves you with usable campaign assets and learning.",
@@ -724,8 +724,8 @@
   },
   {
     "path":"/industries/recruitment-agency-lead-generation/",
-    "title":"Lead Generation for Recruitment Agencies: Client Acquisition | Beespoke",
-    "description":"A client-acquisition framework for recruitment agencies using niche positioning, hiring signals, account research, credible outreach and qualified sales meetings.",
+    "title":"Lead Generation for Recruitment Agencies: Win Employer Clients",
+    "description":"Learn how recruitment agencies win employer clients—not candidates—using specialization, hiring signals, buyer mapping and qualified outreach.",
     "eyebrow":"Recruitment agency lead generation",
     "h1":"Lead generation for recruitment agencies that want clients—not candidates",
     "answer":"Lead generation for recruitment agencies should identify employers that fit the agency's specialization and have a plausible reason to use external recruitment support. The strongest programs separate client acquisition from candidate sourcing, focus on a defined role family or market, use hiring and organizational signals carefully, and reach the people who own the staffing decision with relevant proof.",
@@ -793,10 +793,10 @@
   },
   {
     "path":"/compare/lead-generation-agency-vs-software/",
-    "title":"Lead Generation Agency vs Software: Which Should You Choose?",
-    "description":"Compare a lead generation agency with software by strategy, execution, management time, risk, learning ownership and fully loaded cost.",
+    "title":"Lead Generation Software vs Agency: Costs, Control & Fit",
+    "description":"Compare lead generation software vs an agency by total cost, team time, control, execution and ownership—and see which model fits your current constraint.",
     "eyebrow":"Agency vs software decision guide",
-    "h1":"Lead generation agency vs software: buy execution or buy leverage?",
+    "h1":"Lead generation software vs agency: which model fits your team?",
     "answer":"Choose lead generation software when your team already has a proven market, a capable operator, reliable data and enough management time to build the workflow. Choose an agency when the constraint is research, positioning, execution, reply handling or accountable campaign management rather than tool access. Software amplifies an operating system; an agency supplies some or all of that system. Compare fully loaded cost, control, learning, risk and the consequence of weak execution.",
     "sections":[
       {"heading":"The two products solve different constraints","body":["Software can help find contacts, research accounts, sequence activity, record replies and report results. It does not automatically choose a credible market, approve claims, interpret ambiguous responses or coach the sales handoff.","An agency combines people, process and tools. The quality depends on who actually performs the work, what the client must supply and whether the provider exposes evidence instead of hiding behind activity totals."],"table":{"caption":"Lead generation agency versus software","headers":["Decision area","Software","Agency"],"rows":[["Primary value","Operator leverage and workflow automation","Managed capacity and specialist execution"],["Strategy","Built and owned internally","May be developed jointly or externally"],["Daily management","Client owns it","Provider owns agreed campaign work"],["Control","High if the team configures and monitors well","Depends on approvals, visibility and contract"],["Learning","Direct but only if outcomes are recorded","Useful if data and rationale are transferred"],["Main failure mode","Unused tool or scaled weak assumptions","Opaque execution or misaligned incentives"]]}},
@@ -812,7 +812,7 @@
     "sources":[{"label":"AxZ lead-generation agency versus software comparison","href":"https://axzlead.com/blog/b2b-lead-generation-agency-vs-software"},{"label":"Beespoke lead-generation agency versus in-house guide","href":"/compare/lead-generation-agency-vs-in-house-team/"},{"label":"Beespoke outsourced SDR versus in-house SDR guide","href":"/compare/outsourced-sdr-vs-in-house-sdr/"}],
     "sourceChecked":"August 17, 2026",
     "sourceMethodology":"The comparison separates the observable capabilities of software and managed services. It does not assume that either model is universally cheaper or more effective and discloses Beespoke's commercial interest as an agency.",
-    "related":["/compare/lead-generation-agency-vs-in-house-team/","/compare/outbound-agency-vs-freelancer/","/guides/how-to-choose-an-outbound-lead-generation-agency/"]
+    "related":["/services/b2b-lead-generation/","/guides/outbound-lead-generation-cost/","/compare/lead-generation-agency-vs-in-house-team/"]
   },
   {
     "path":"/guides/best-outsourced-sdr-companies/",
@@ -1047,9 +1047,9 @@
   },
   {
     "path":"/guides/outbound-call-center-pricing/",
-    "title":"Outbound Call Center Pricing: Models, Costs & Quote Audit",
-    "description":"Compare outbound call center pricing models, hidden cost lines, compliance questions and outcome definitions with an original quote-normalization framework.",
-    "eyebrow":"Outbound call center buyer guide · Updated August 2026",
+    "title":"Outbound Call Center Pricing (2026): Models & Hidden Costs",
+    "description":"Compare per-agent, hourly, per-minute, per-call and performance pricing. Normalize hidden fees, compliance and cost per held qualified meeting.",
+    "eyebrow":"Outbound call center buyer guide · Updated September 2026",
     "h1":"Outbound call center pricing: normalize the quote before comparing rates",
     "answer":"Outbound call centers commonly price by agent or seat, hour, minute, call or contact, flat campaign fee, performance event, or a hybrid of fixed and variable charges. A headline rate is not a reliable comparison because setup, management, telephony, data, dialer software, quality assurance, recording, compliance work and minimum commitments may be separate. Normalize every proposal to total expected monthly cost, productive capacity and the same outcome—such as a held meeting that meets a written qualification rule. Beespoke is a LinkedIn-led managed outbound agency, not a call center, so buyers needing high-volume phone coverage should compare specialist calling providers.",
     "sections":[
