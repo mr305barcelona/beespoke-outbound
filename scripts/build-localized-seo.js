@@ -30,7 +30,14 @@ const translationOverrides = require(path.join(root, "data", "seo-translation-ov
 const aeoTranslationOverrides = require(path.join(root, "data", "seo-translation-aeo-overrides.json"));
 const rankOneTranslationOverrides = require(path.join(root, "data", "seo-translation-rank-one-copy.json"));
 const queryGrowthCopy = require(path.join(root, "data", "seo-query-growth-copy.json"));
-const queryGrowthPages = new Set(["/services/outbound-lead-generation/", "/guides/outbound-lead-generation-cost/"]);
+const queryGrowthPages = new Set([
+  "/services/outbound-lead-generation/",
+  "/guides/outbound-lead-generation-cost/",
+  "/guides/outbound-call-center-pricing/",
+  "/guides/cold-email-agency/",
+  "/industries/recruitment-agency-lead-generation/",
+  "/compare/lead-generation-agency-vs-software/"
+]);
 const locales = {
   es: { label: "Español", home: "Inicio" },
   ca: { label: "Català", home: "Inici" },
@@ -461,7 +468,13 @@ function localizeHtml(source, page, locale, dictionary) {
 for (const [locale] of Object.entries(locales)) {
   const queryGrowthDictionary = Object.fromEntries(queryGrowthCopy.flatMap((row) => {
     const translated = row[{ es: 1, ca: 2, fr: 3 }[locale]];
-    return [[row[0], translated], [`${row[0]} →`, `${translated} →`]];
+    const escapedSource = escapeHtml(row[0]);
+    return [
+      [row[0], translated],
+      [`${row[0]} →`, `${translated} →`],
+      [escapedSource, translated],
+      [`${escapedSource} →`, `${translated} →`]
+    ];
   }));
   const dictionary = { ...require(path.join(root, "data", `seo-translations.${locale}.json`)), ...(translationOverrides[locale] || {}), ...(aeoTranslationOverrides[locale] || {}), ...(rankOneTranslationOverrides[locale] || {}) };
   for (const page of pages) {
