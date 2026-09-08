@@ -29,6 +29,7 @@ const protectedBenchmarkTerms = new Set([
 const translationOverrides = require(path.join(root, "data", "seo-translation-overrides.json"));
 const aeoTranslationOverrides = require(path.join(root, "data", "seo-translation-aeo-overrides.json"));
 const rankOneTranslationOverrides = require(path.join(root, "data", "seo-translation-rank-one-copy.json"));
+const pricingTranslationOverrides = require(path.join(root, "data", "seo-pricing-localizations.json"));
 const queryGrowthCopy = require(path.join(root, "data", "seo-query-growth-copy.json"));
 const queryGrowthPages = new Set([
   "/services/outbound-lead-generation/",
@@ -501,7 +502,7 @@ for (const [locale] of Object.entries(locales)) {
       [`${escapedSource} →`, `${translated} →`]
     ];
   }));
-  const dictionary = { ...require(path.join(root, "data", `seo-translations.${locale}.json`)), ...(translationOverrides[locale] || {}), ...(aeoTranslationOverrides[locale] || {}), ...(rankOneTranslationOverrides[locale] || {}) };
+  const dictionary = { ...require(path.join(root, "data", `seo-translations.${locale}.json`)), ...(translationOverrides[locale] || {}), ...(aeoTranslationOverrides[locale] || {}), ...(rankOneTranslationOverrides[locale] || {}), ...(pricingTranslationOverrides[locale] || {}) };
   const inboundLocalized = require(path.join(root, "data", `seo-inbound-localizations.${locale}.json`));
   const inboundTemplateCopy = inboundLocalized._template || {};
   Object.assign(dictionary, inboundTemplateCopy);

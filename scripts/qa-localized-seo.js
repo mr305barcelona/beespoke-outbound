@@ -59,7 +59,7 @@ for (const locale of locales) {
       for (const provider of ["Beespoke", "OutsourcedSDR", "BitWide", "Artemis Leads", "MarknTech", "Cleverly", "SaaS Leads", "Telesales.it", "GTM Bud", "Occura", "TargetFlow", "Sales Hype"]) {
         if (!html.includes(`<strong>${provider}</strong>`)) failures.push(`${localizedPath}: provider name altered (${provider})`);
       }
-      if ((html.match(/rel="nofollow">/g) || []).length !== 40) failures.push(`${localizedPath}: row-level source count changed`);
+      if ((html.match(/rel="nofollow">/g) || []).length !== 39) failures.push(`${localizedPath}: row-level source count changed`);
       if (!html.includes(`/${locale}/downloads/beespoke-icp-scorecard/`) || !html.includes(`/${locale}/downloads/beespoke-outbound-campaign-brief/`)) failures.push(`${localizedPath}: localized planning assets missing`);
       const schema = JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1]);
       const dataset = schema["@graph"].find((node) => node["@type"] === "Dataset");

@@ -49,10 +49,10 @@ for (const page of pages) {
     if (!html.includes("frequently-asked-questions") || !graph.some((node) => node["@type"] === "FAQPage")) failures.push(`${page.path}: FAQ content or schema missing`);
   }
   if (page.path === "/research/2026-b2b-outbound-pricing-benchmark/") {
-    for (const required of ["40 public offers", "benchmark-table", "publisher-row", "Download source data (JSON)", "2026-outbound-pricing-benchmark-chart.svg", "2026-pricing-benchmark-og.png", "For writers and editors", "Request founder comment", "/downloads/beespoke-icp-scorecard/", "/downloads/beespoke-outbound-campaign-brief/", "Swipe or scroll sideways", "tabindex=\"0\"", "Email a pricing correction"]) {
+    for (const required of ["39 public offers", "benchmark-table", "publisher-row", "Download source data (JSON)", "2026-outbound-pricing-benchmark-chart.svg", "2026-pricing-benchmark-og.png", "For writers and editors", "Request founder comment", "/downloads/beespoke-icp-scorecard/", "/downloads/beespoke-outbound-campaign-brief/", "Swipe or scroll sideways", "tabindex=\"0\"", "Email a pricing correction"]) {
       if (!html.includes(required)) failures.push(`${page.path}: missing research requirement ${required}`);
     }
-    if ((html.match(/rel="nofollow">Source/g) || []).length !== 40) failures.push(`${page.path}: expected 40 row-level source links`);
+    if ((html.match(/rel="nofollow">Source/g) || []).length !== 39) failures.push(`${page.path}: expected 39 row-level source links`);
     const datasetNode = graph.find((node) => node["@type"] === "Dataset");
     if (!datasetNode || datasetNode.distribution?.[0]?.encodingFormat !== "application/json") failures.push(`${page.path}: Dataset schema or JSON distribution missing`);
   }

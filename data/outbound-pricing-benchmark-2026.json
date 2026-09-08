@@ -20,21 +20,6 @@
       "publisherOffer": true
     },
     {
-      "provider": "Beespoke",
-      "offer": "Hybrid Performance",
-      "price": "$1,000/month + $100/held meeting",
-      "currency": "USD",
-      "numericPrice": 1000,
-      "billingUnit": "month plus outcome fee",
-      "model": "Managed hybrid",
-      "channels": "LinkedIn",
-      "output": "Qualified meetings held",
-      "commitment": "Confirm before purchase",
-      "notes": "Variable fee applies only to attended meetings matching the written ICP.",
-      "source": "https://outbound-lead-generation.com/pricing/",
-      "publisherOffer": true
-    },
-    {
       "provider": "OutsourcedSDR",
       "offer": "Global Outreach SDR",
       "price": "$750/month per SDR",

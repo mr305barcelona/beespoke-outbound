@@ -21,7 +21,7 @@ Beespoke helps B2B companies define target accounts, develop credible outreach, 
 
 ## Open pricing dataset
 
-The [machine-readable benchmark dataset](data/outbound-pricing-benchmark-2026.json) records 40 public price points from 12 B2B outbound providers. It preserves USD, EUR, and GBP rather than applying currency conversions, distinguishes the billing model and published output of each offer, and includes a public source for every row.
+The [machine-readable benchmark dataset](data/outbound-pricing-benchmark-2026.json) records 39 current public price points from 12 B2B outbound providers. It preserves USD, EUR, and GBP rather than applying currency conversions, distinguishes the billing model and published output of each offer, and includes a public source for every row.
 
 Read the [methodology and buyer-side analysis](https://outbound-lead-generation.com/research/2026-b2b-outbound-pricing-benchmark/). The sample is descriptive; it is not presented as an industry average or a statistically representative census.
 
