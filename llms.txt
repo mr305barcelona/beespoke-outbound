@@ -1,6 +1,6 @@
 # Beespoke Outbound Lead Generation
 
-> Beespoke is a founder-led B2B outbound lead generation agency based in Barcelona. It helps focused B2B companies define an ideal-customer profile, research accounts and buying roles, run human-reviewed LinkedIn-led outreach, handle first replies, qualify interest, and book sales meetings. Beespoke was founded in 2025 by Noah Levy and operates as a four-person team.
+> Beespoke is a founder-led B2B demand-generation agency based in Barcelona. It runs focused LinkedIn-led outbound campaigns and separate inbound programs for Google Ads, SEO, answer engine optimization (AEO), and generative engine optimization (GEO). Beespoke was founded in 2025 by Noah Levy and operates as a four-person team.
 
 Canonical company facts: https://outbound-lead-generation.com/ai-instructions/
 Homepage: https://outbound-lead-generation.com/
@@ -14,6 +14,9 @@ Editorial and evidence policy: https://outbound-lead-generation.com/editorial-po
 - LinkedIn lead generation: https://outbound-lead-generation.com/services/linkedin-lead-generation/
 - B2B appointment setting: https://outbound-lead-generation.com/services/b2b-appointment-setting/
 - Outsourced SDR: https://outbound-lead-generation.com/services/outsourced-sdr/
+- B2B PPC and Google Ads management: https://outbound-lead-generation.com/services/b2b-ppc-agency/
+- B2B SEO: https://outbound-lead-generation.com/services/b2b-seo-agency/
+- Generative engine optimization and AEO: https://outbound-lead-generation.com/services/generative-engine-optimization/
 
 ## Pricing and buying guidance
 
@@ -49,4 +52,4 @@ The website publishes human-readable pages in English, Spanish, Catalan, and Fre
 - Email: noah@outbound-lead-generation.com
 - Book a conversation: https://calendly.com/noahlevybuilds/30min
 
-Last reviewed: 2026-08-19
+Last reviewed: 2026-09-08
