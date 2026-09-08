@@ -21,6 +21,9 @@ const updatedOverrides = new Map([
   ["/guides/outbound-call-center-pricing/", "2026-09-07"],
   ["/guides/b2b-lead-generation-consultant-vs-agency/", "2026-08-19"],
   ["/compare/sdr-vs-bdr-outsourcing/", "2026-08-19"],
+  ["/services/b2b-ppc-agency/", "2026-09-08"],
+  ["/services/b2b-seo-agency/", "2026-09-08"],
+  ["/services/generative-engine-optimization/", "2026-09-08"],
   ["/ai-instructions/", "2026-08-19"],
   ["/guides/best-linkedin-lead-generation-agencies/", "2026-08-19"],
   ["/case-studies/media-partnership-outreach/", "2026-08-19"],
@@ -83,16 +86,27 @@ function labelFor(link) {
 }
 
 function renderInlineCta(page, position) {
+  const isInbound = [
+    "/services/b2b-ppc-agency/",
+    "/services/b2b-seo-agency/",
+    "/services/generative-engine-optimization/"
+  ].includes(page.path);
   const isPricing = page.path === "/pricing/" || page.path.includes("cost");
   const isCaseStudy = page.path.startsWith("/case-studies/");
-  const heading = isPricing
+  const heading = isInbound
+    ? position === "middle"
+      ? "Which demand channel fits your market?"
+      : "Turn the framework into a measured acquisition plan"
+    : isPricing
     ? "Want to compare the numbers for your market?"
     : isCaseStudy
       ? "Could this approach fit your buyers?"
       : position === "middle"
         ? "Not sure whether outbound fits your offer?"
         : "Turn the framework into a focused campaign";
-  const copy = isPricing
+  const copy = isInbound
+    ? "Bring your offer, buyer, current acquisition data and sales economics. We will identify the smallest useful Google Ads, SEO or AI-visibility test and the evidence it must produce."
+    : isPricing
     ? "Bring your contract value, buyer, current pipeline and internal alternatives. We will help you identify the assumptions that actually change the economics."
     : isCaseStudy
       ? "We will look at your target accounts, proof, buying committee and reason for contact before recommending a campaign."
@@ -287,13 +301,13 @@ function renderPage(page) {
     alternateName: "Beespoke",
     url: `${origin}/`,
     logo: { "@type": "ImageObject", url: `${origin}/favicon.png`, width: 96, height: 96 },
-    description: "Founder-led B2B outbound lead generation and qualified meeting booking for focused markets.",
+    description: "Founder-led B2B demand generation across focused outbound, Google Ads, SEO and AI-search visibility.",
     foundingDate: "2025",
     founder: { "@id": personId },
     areaServed: "International",
     address: { "@type": "PostalAddress", addressLocality: "Barcelona", addressCountry: "ES" },
     sameAs: organizationSameAs,
-    knowsAbout: ["B2B outbound lead generation", "LinkedIn lead generation", "B2B appointment setting", "Outsourced sales development"]
+    knowsAbout: ["B2B outbound lead generation", "LinkedIn lead generation", "B2B appointment setting", "Outsourced sales development", "B2B Google Ads", "B2B SEO", "Answer engine optimization", "Generative engine optimization"]
   };
   const personSchema = {
     "@type": "Person",
@@ -394,6 +408,16 @@ function renderPage(page) {
   const hasSources = Boolean(page.sources?.length) || ["/guides/outbound-lead-generation-cost/", "/services/linkedin-lead-generation/", "/guides/appointment-setting-pricing/", "/guides/pay-per-meeting-lead-generation/", "/guides/outsourced-sdr-cost/", "/guides/cold-email-agency/", "/guides/cold-email-agency-pricing/", "/research/2026-b2b-outbound-pricing-benchmark/"].includes(page.path);
   const toc = `${page.sections.slice(0, 1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#${toolNav[0]}">${toolNav[1]}</a>${page.sections.slice(1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#buyer-decision-guide">Buyer decision guide</a>${page.faqs?.length ? '<a href="#frequently-asked-questions">Frequently asked questions</a>' : ""}${hasSources ? '<a href="#sources">Sources and methodology</a>' : ""}`;
   const related = page.related.map((link) => `<a class="related-card" href="${escapeHtml(link)}"><span>Related</span><strong>${escapeHtml(labelFor(link))}</strong></a>`).join("");
+  const secondaryCta = page.heroSecondary || { label: "See transparent pricing", href: "/pricing/" };
+  const isInboundPage = [
+    "/services/b2b-ppc-agency/",
+    "/services/b2b-seo-agency/",
+    "/services/generative-engine-optimization/"
+  ].includes(page.path);
+  const finalCtaHeading = isInboundPage ? "Build the right demand system for your market" : "See whether focused outbound fits your market";
+  const finalCtaCopy = isInboundPage
+    ? "Bring your offer, buyer, current acquisition data and sales process. We will identify whether paid search, organic search, AI visibility, outbound or a focused combination deserves the next test."
+    : "Bring your offer, target buyer and current pipeline. We will have a practical conversation about fit, constraints and the next sensible test.";
   const socialImage = page.path === "/research/2026-b2b-outbound-pricing-benchmark/" ? `${origin}/assets/social/2026-pricing-benchmark-og.png` : `${origin}/assets/social/beespoke-og.png`;
   const socialAlt = page.path === "/research/2026-b2b-outbound-pricing-benchmark/" ? "2026 B2B outbound pricing benchmark by Beespoke" : "Beespoke Outbound Lead Generation";
   return `<!doctype html>
@@ -408,11 +432,11 @@ function renderPage(page) {
 <a class="skip-link" href="#main-content">Skip to main content</a>
 <header class="site-header"><nav><a class="brand" href="/"><span>B</span>Beespoke Outbound</a><div><a href="/services/b2b-lead-generation/">Services</a><a href="/case-studies/cybersecurity-linkedin-lead-generation/">Case studies</a><a href="/research/2026-b2b-outbound-pricing-benchmark/">Resources</a><a href="/pricing/">Pricing</a><a class="nav-cta" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></div></nav><div class="language-switcher"><button type="button" aria-expanded="false" aria-label="Language">EN</button><div><a href="${page.path}" lang="en" aria-current="page">English</a><a href="/es${page.path}" lang="es">Español</a><a href="/ca${page.path}" lang="ca">Català</a><a href="/fr${page.path}" lang="fr">Français</a></div></div><div class="reading-progress" aria-hidden="true"><span></span></div></header>
 <main id="main-content"><div class="breadcrumbs"><a href="/">Home</a><span>/</span><span>${escapeHtml(page.eyebrow)}</span></div>
-<header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="/pricing/">See transparent pricing</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated ${displayDateFor(page.path)}</p></header>
+<header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="${escapeHtml(secondaryCta.href)}">${escapeHtml(secondaryCta.label)}</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated ${displayDateFor(page.path)}</p></header>
 <details class="mobile-toc"><summary><span><small>On this page</small><strong class="current-section">${escapeHtml(page.sections[0].heading)}</strong></span><span class="toc-action">Sections</span></summary><nav aria-label="Page sections">${toc}</nav></details>
 <div class="article-grid"><aside class="toc"><div class="toc-label"><span>Article guide</span><strong>On this page</strong></div>${toc}<div class="toc-progress"><span></span></div></aside><article>${page.sections.map((section, index) => `${renderSection(section)}${index === 0 ? renderOriginalTool(page) : ""}${index === 1 ? renderInlineCta(page, "middle") : index === 3 ? renderInlineCta(page, "late") : ""}`).join("")}${renderCompetitiveDepth(page)}${renderFaqs(page)}${renderSources(page)}</article></div>
 <section class="related"><p class="eyebrow">Continue researching</p><h2>Related Beespoke resources</h2><div class="related-grid">${related}</div></section>
-<section class="final-cta"><h2>See whether focused outbound fits your market</h2><p>Bring your offer, target buyer and current pipeline. We will have a practical conversation about fit, constraints and the next sensible test.</p><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></section></main>
+<section class="final-cta"><h2>${finalCtaHeading}</h2><p>${finalCtaCopy}</p><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></section></main>
 <footer>© 2026 Beespoke Outbound Lead Generation · Barcelona · <a href="/">outbound-lead-generation.com</a> · <a href="/ai-instructions/">AI &amp; company facts</a></footer>
 </body></html>`;
 }

@@ -38,6 +38,11 @@ const queryGrowthPages = new Set([
   "/industries/recruitment-agency-lead-generation/",
   "/compare/lead-generation-agency-vs-software/"
 ]);
+const inboundPages = new Set([
+  "/services/b2b-ppc-agency/",
+  "/services/b2b-seo-agency/",
+  "/services/generative-engine-optimization/"
+]);
 const locales = {
   es: { label: "Español", home: "Inicio" },
   ca: { label: "Català", home: "Inici" },
@@ -46,6 +51,26 @@ const locales = {
 
 const escapeHtml = (value) => String(value).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const localizedPath = (locale, pathname) => `/${locale}${pathname === "/" ? "/" : pathname}`;
+
+function addCopyMappings(source, localized, dictionary) {
+  if (typeof source === "string" && typeof localized === "string") {
+    dictionary[source] = localized;
+    dictionary[`${source} →`] = `${localized} →`;
+    dictionary[escapeHtml(source)] = escapeHtml(localized);
+    dictionary[`${escapeHtml(source)} →`] = `${escapeHtml(localized)} →`;
+    return;
+  }
+  if (Array.isArray(source) && Array.isArray(localized)) {
+    source.forEach((value, index) => addCopyMappings(value, localized[index], dictionary));
+    return;
+  }
+  if (source && localized && typeof source === "object" && typeof localized === "object") {
+    for (const [key, value] of Object.entries(source)) {
+      if (key === "path" || key === "href" || key === "sourceChecked") continue;
+      if (Object.prototype.hasOwnProperty.call(localized, key)) addCopyMappings(value, localized[key], dictionary);
+    }
+  }
+}
 
 function languageLinks(pagePath, active) {
   const ariaLabel = { en: "Language", es: "Idioma", ca: "Idioma", fr: "Langue" }[active];
@@ -453,11 +478,11 @@ function localizeHtml(source, page, locale, dictionary) {
   };
   for (const [pattern, replacement] of terminology[locale]) html = html.replace(pattern, replacement);
   const monthNames = {
-    es: { July: "julio", August: "agosto" },
-    ca: { July: "juliol", August: "agost" },
-    fr: { July: "juillet", August: "août" }
+    es: { July: "julio", August: "agosto", September: "septiembre" },
+    ca: { July: "juliol", August: "agost", September: "setembre" },
+    fr: { July: "juillet", August: "août", September: "septembre" }
   }[locale];
-  html = html.replace(/These sources were checked on (July|August) (\d{1,2}), 2026\./g, (_, month, day) => ({
+  html = html.replace(/These sources were checked on (July|August|September) (\d{1,2}), 2026\./g, (_, month, day) => ({
     es: `Estas fuentes se revisaron el ${day} de ${monthNames[month]} de 2026.`,
     ca: `Aquestes fonts es van revisar el ${day} d${month === "August" ? "’" : "e "}${monthNames[month]} de 2026.`,
     fr: `Ces sources ont été vérifiées le ${day} ${monthNames[month]} 2026.`
@@ -477,11 +502,15 @@ for (const [locale] of Object.entries(locales)) {
     ];
   }));
   const dictionary = { ...require(path.join(root, "data", `seo-translations.${locale}.json`)), ...(translationOverrides[locale] || {}), ...(aeoTranslationOverrides[locale] || {}), ...(rankOneTranslationOverrides[locale] || {}) };
+  const inboundLocalized = require(path.join(root, "data", `seo-inbound-localizations.${locale}.json`));
+  const inboundTemplateCopy = inboundLocalized._template || {};
+  Object.assign(dictionary, inboundTemplateCopy);
   for (const page of pages) {
     const source = fs.readFileSync(path.join(root, page.path.replace(/^\//, ""), "index.html"), "utf8");
     const output = path.join(root, localizedPath(locale, page.path).replace(/^\//, ""), "index.html");
     fs.mkdirSync(path.dirname(output), { recursive: true });
-    const pageDictionary = queryGrowthPages.has(page.path) ? { ...dictionary, ...queryGrowthDictionary } : dictionary;
+    const pageDictionary = queryGrowthPages.has(page.path) ? { ...dictionary, ...queryGrowthDictionary } : { ...dictionary };
+    if (inboundPages.has(page.path) && inboundLocalized[page.path]) addCopyMappings(page, inboundLocalized[page.path], pageDictionary);
     fs.writeFileSync(output, localizeHtml(source, page, locale, pageDictionary));
   }
   const homepageSource = fs.readFileSync(path.join(root, "index.html"), "utf8")
