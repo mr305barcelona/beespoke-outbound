@@ -7,12 +7,21 @@ const copy = require("../data/seo-query-growth-copy.json");
 const targets = ["/services/outbound-lead-generation/", "/guides/outbound-lead-generation-cost/"];
 const updatedDates = new Map([
   ["/services/outbound-lead-generation/", "2026-09-03"],
-  ["/guides/outbound-lead-generation-cost/", "2026-09-07"]
+  ["/guides/outbound-lead-generation-cost/", "2026-09-07"],
+  ["/guides/outbound-call-center-pricing/", "2026-09-07"],
+  ["/guides/cold-email-agency/", "2026-09-24"],
+  ["/guides/appointment-setting-pricing/", "2026-09-24"],
+  ["/guides/best-linkedin-lead-generation-agencies/", "2026-09-24"],
+  ["/services/outsourced-sdr/", "2026-09-24"],
+  ["/industries/recruitment-agency-lead-generation/", "2026-09-07"],
+  ["/compare/lead-generation-agency-vs-software/", "2026-09-07"]
 ]);
 const rankingLeveragePaths = [
   "/guides/outbound-lead-generation-cost/",
   "/guides/outbound-call-center-pricing/",
   "/guides/cold-email-agency/",
+  "/guides/appointment-setting-pricing/",
+  "/guides/best-linkedin-lead-generation-agencies/",
   "/industries/recruitment-agency-lead-generation/",
   "/compare/lead-generation-agency-vs-software/"
 ];
@@ -61,7 +70,7 @@ for (const url of rankingLeveragePaths) {
   const english = fs.readFileSync(path.join(root, url, "index.html"), "utf8");
   assert(english.includes(`<title>${escape(page.title)}</title>`), `${url}: optimized English title missing`);
   assert(english.includes(`content="${escape(page.description)}"`), `${url}: optimized English description missing`);
-  assert(english.includes("2026-09-07"), `${url}: ranking-leverage update date missing`);
+  assert(english.includes(updatedDates.get(url)), `${url}: ranking-leverage update date missing`);
   for (const locale of Object.keys(localeIndex)) {
     const file = path.join(root, locale, url, "index.html");
     const html = fs.readFileSync(file, "utf8");
@@ -69,7 +78,7 @@ for (const url of rankingLeveragePaths) {
     assert.equal(typeof translated(page.description, locale), "string", `${url}: ${locale} description translation missing`);
     assert(html.includes(`<title>${escape(translated(page.title, locale))}</title>`), `${file}: optimized localized title missing`);
     assert(html.includes(`content="${escape(translated(page.description, locale))}"`), `${file}: optimized localized description missing`);
-    assert(html.includes("2026-09-07"), `${file}: localized ranking-leverage date missing`);
+    assert(html.includes(updatedDates.get(url)), `${file}: localized ranking-leverage date missing`);
   }
 }
 

@@ -16,10 +16,15 @@ const retiredOffer = /Hybrid Performance (?:Plan|costs)|Its Hybrid Performance p
 assert.equal(benchmark.offers.length, 39, "Benchmark should contain 39 current public offers");
 assert(!benchmark.offers.some((offer) => offer.provider === "Beespoke" && /hybrid/i.test(offer.offer)), "Retired Beespoke hybrid offer remains in benchmark");
 assert(!retiredOffer.test(JSON.stringify(pages)), "Retired Beespoke hybrid offer remains in source pages");
+assert(!retiredOffer.test(fs.readFileSync(path.join(root, "data", "seo-query-growth-copy.json"), "utf8")), "Retired Beespoke hybrid offer remains in query-growth translations");
 
 for (const locale of locales) {
   const prefix = locale ? `${locale}/` : "";
+  const homepage = fs.readFileSync(path.join(root, prefix, "index.html"), "utf8");
   const pricing = fs.readFileSync(path.join(root, prefix, "pricing/index.html"), "utf8");
+  assert(!retiredOffer.test(homepage), `${locale || "en"} homepage still exposes the retired offer`);
+  assert(/1(?:[,.]|\s|&nbsp;| | )500/.test(homepage), `${locale || "en"} homepage is missing the outbound price`);
+  assert(/99/.test(homepage) && /10/.test(homepage), `${locale || "en"} homepage is missing inbound price or weekly minimum`);
   assert(!retiredOffer.test(pricing), `${locale || "en"} pricing page still exposes the retired offer`);
   assert(/1(?:[,.]|\s|&nbsp;| | )500/.test(pricing), `${locale || "en"} pricing page is missing the outbound price`);
   assert(/99/.test(pricing) && /10/.test(pricing), `${locale || "en"} pricing page is missing inbound price or weekly minimum`);

@@ -200,8 +200,8 @@
   },
   {
     "path":"/guides/appointment-setting-pricing/",
-    "title":"B2B Appointment Setting Pricing: 2026 Cost Guide",
-    "description":"Compare 2026 B2B appointment-setting retainers, pay-per-meeting fees and hybrid pricing using qualification, attendance and pipeline economics.",
+    "title":"B2B Appointment Setting Pricing (2026): Costs & Models",
+    "description":"See 2026 appointment-setting costs, pricing models and published ranges. Compare retainers and per-meeting fees using held, qualified outcomes.",
     "eyebrow":"2026 appointment-setting pricing guide",
     "h1":"How much do B2B appointment-setting services cost?",
     "answer":"B2B appointment-setting services are commonly sold through monthly retainers, pay-per-meeting fees or hybrid plans. Published 2026 provider examples span approximately $3,000–$15,000 per month and roughly $150–$1,500 per appointment, but those figures are not directly comparable until qualification, attendance, channels and included labor are normalized.",
@@ -236,8 +236,9 @@
     "description":"Compare outsourced SDR services by dedicated rep, pod or managed campaign, including costs, ownership, deliverables, qualification and best-fit conditions.",
     "eyebrow":"Outsourced sales development",
     "h1":"Outsourced SDR services: models, costs, fit and tradeoffs",
-    "answer":"Outsourced SDR services provide an external sales-development team for prospecting, outreach, qualification and meeting booking. Buyers may hire a dedicated SDR, a shared pod or a managed campaign. Compare the people, channel capacity, fully loaded cost, meeting definition, ownership and exit terms—not only the retainer. Beespoke provides a focused LinkedIn-led managed campaign rather than named full-time SDR headcount.",
+    "answer":"Outsourced SDR services provide external prospecting, outreach, qualification and meeting-booking capacity. The three common models are a dedicated SDR, an SDR pod and a managed campaign. Choose based on who manages the people, which channels are included, fully loaded cost, meeting quality, asset ownership and exit terms. Beespoke provides a focused LinkedIn-led managed campaign—not named full-time SDR headcount.",
     "sections":[
+      {"heading":"Choose the right outsourced SDR model in 30 seconds","body":["Choose a dedicated SDR when you have a proven motion, enough daily work and a manager who can coach the rep. Choose an SDR pod when you need coordinated research, multichannel execution and delivery management. Choose a managed campaign when you need a bounded market or channel test with less day-to-day supervision."],"table":{"caption":"Fast outsourced SDR model selector","headers":["Your main need","Likely starting model","What you still own"],"rows":[["One embedded prospecting resource","Dedicated SDR","Enablement, coaching and performance management"],["Broader multichannel capacity","SDR pod","Strategic direction and sales follow-up"],["A focused segment or channel test","Managed campaign","Offer input, approvals and discovery calls"]]},"callout":"Beespoke is a managed LinkedIn campaign, not SDR staff augmentation. Buyers needing a named full-time rep or call-center capacity should choose a different model."},
       {"heading":"What an outsourced SDR service can include","items":["ICP and account-selection support","Contact research and list operations","Email, LinkedIn or phone execution","Message and sequence development","Reply handling and qualification","CRM activity and reporting","Meeting booking and no-show follow-up","SDR coaching, management and replacement"]},
       {"heading":"Dedicated rep, pod or managed campaign","body":["A dedicated rep offers continuity and closer integration but requires enough work and client management. A pod adds specialist roles and management at higher cost. A managed campaign owns a narrower channel or outcome with less client supervision."],"table":{"caption":"Common outsourced sales-development structures","headers":["Structure","Best for","Client responsibility","Main tradeoff"],"rows":[["Dedicated SDR","Ongoing capacity in one motion","Enablement and close management","Single-person ramp and continuity risk"],["SDR pod","Multichannel scale and specialist support","Strategic direction and sales follow-up","Higher commitment and overhead"],["Managed campaign","Focused test or defined channel","Offer input and discovery","Less like an embedded employee"]]}},
       {"heading":"Define ownership before launch","body":["The agreement should identify who owns accounts, domains, profiles, data, copy, CRM history and campaign learning. It should also name the people doing the work and the replacement process.","A service that disappears with the vendor creates switching cost even when monthly performance looks acceptable."],"callout":"Outsourcing execution should not mean outsourcing visibility or ownership."},
@@ -444,8 +445,8 @@
   },
   {
     "path":"/guides/cold-email-agency/",
-    "title":"Cold Email Agency: 12 Questions to Ask Before You Hire",
-    "description":"Compare cold email agencies by deliverability, domain ownership, data, compliance, reply handling and held-meeting quality before granting access.",
+    "title":"Cold Email Agency Checklist: 12 Questions Before You Hire",
+    "description":"Use this 12-question checklist to compare cold email agencies on deliverability, domains, data, compliance, replies, qualification and asset ownership.",
     "eyebrow":"Cold email agency buyer’s guide",
     "h1":"How to evaluate a cold email agency before it touches your domain",
     "answer":"A cold email agency can manage targeting, contact data, copy, sending infrastructure, campaign execution, replies and appointment setting. The important buying question is not how many emails it can send. It is whether the agency protects domain reputation, uses relevant and lawful data, creates credible messages, separates booked from held meetings and leaves you with usable campaign assets and learning.",
@@ -1001,8 +1002,8 @@
   },
   {
     "path":"/guides/best-linkedin-lead-generation-agencies/",
-    "title":"Best LinkedIn Lead Generation Agencies: 2026 Buyer Guide",
-    "description":"Compare seven LinkedIn lead generation agencies by operating model, channel scope, evidence, risk controls, qualification and fit—without sponsored rankings.",
+    "title":"Best LinkedIn Lead Generation Agencies (2026): 7 Compared",
+    "description":"Compare 7 LinkedIn lead generation agencies in 2026 by channel scope, research, reply handling, account risk, pricing and qualified-meeting fit.",
     "eyebrow":"Transparent LinkedIn agency guide · Checked August 2026",
     "h1":"Best LinkedIn lead generation agencies: choose the right operating model",
     "answer":"There is no universal best LinkedIn lead generation agency. The right choice depends on whether you need LinkedIn-only outreach, LinkedIn plus email or calling, founder-led strategy, large-scale capacity, content support, human reply handling, or an AI-assisted research model. This unranked 2026 shortlist compares seven providers using their own published descriptions. No provider paid for placement, no affiliate links are used, and Beespoke is disclosed as the publisher and a competing agency.",

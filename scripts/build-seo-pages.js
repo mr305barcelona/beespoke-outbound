@@ -19,13 +19,13 @@ const updatedOverrides = new Map([
   ["/services/b2b-appointment-setting/", "2026-09-08"],
   ["/pricing/", "2026-09-08"],
   ["/guides/outbound-lead-generation-cost/", "2026-09-08"],
-  ["/guides/appointment-setting-pricing/", "2026-09-08"],
+  ["/guides/appointment-setting-pricing/", "2026-09-24"],
   ["/guides/pay-per-meeting-lead-generation/", "2026-09-08"],
   ["/guides/outsourced-sdr-cost/", "2026-09-08"],
   ["/services/b2b-lead-generation/", "2026-09-08"],
   ["/services/outbound-sales-outsourcing/", "2026-09-08"],
   ["/services/linkedin-lead-generation/", "2026-08-26"],
-  ["/services/outsourced-sdr/", "2026-08-26"],
+  ["/services/outsourced-sdr/", "2026-09-24"],
   ["/guides/outsourced-sdr-pros-and-cons/", "2026-08-19"],
   ["/guides/outbound-call-center-pricing/", "2026-09-07"],
   ["/guides/b2b-lead-generation-consultant-vs-agency/", "2026-08-19"],
@@ -34,7 +34,7 @@ const updatedOverrides = new Map([
   ["/services/b2b-seo-agency/", "2026-09-08"],
   ["/services/generative-engine-optimization/", "2026-09-08"],
   ["/ai-instructions/", "2026-09-08"],
-  ["/guides/best-linkedin-lead-generation-agencies/", "2026-08-19"],
+  ["/guides/best-linkedin-lead-generation-agencies/", "2026-09-24"],
   ["/case-studies/media-partnership-outreach/", "2026-08-19"],
   ["/guides/outsourced-sdr-vs-lead-generation-agency/", "2026-08-19"],
   ["/research/2026-b2b-outbound-pricing-benchmark/", "2026-09-08"],
@@ -55,7 +55,7 @@ const updatedOverrides = new Map([
   ["/case-studies/cybersecurity-linkedin-lead-generation/", "2026-08-03"],
   ["/guides/outsourced-sdr-vs-lead-generation-agency/", "2026-08-03"],
   ["/services/b2b-lead-generation/", "2026-08-07"],
-  ["/guides/cold-email-agency/", "2026-09-07"],
+  ["/guides/cold-email-agency/", "2026-09-24"],
   ["/services/outbound-sales-outsourcing/", "2026-08-07"],
   ["/guides/cold-email-agency-pricing/", "2026-08-07"],
   ["/compare/outsourced-sdr-vs-in-house-sdr/", "2026-08-07"],
@@ -333,7 +333,7 @@ function renderPage(page) {
         "@type": "Dataset",
         "@id": `${url}#dataset`,
         name: "2026 B2B Outbound Pricing Benchmark",
-        description: "Forty provider-published B2B outbound pricing offers with native currency, billing unit, delivery model, channels, output definition, commitment and source.",
+        description: `${pricingBenchmark.offers.length} provider-published B2B outbound pricing offers with native currency, billing unit, delivery model, channels, output definition, commitment and source.`,
         url,
         creator: { "@id": organizationId },
         datePublished: "2026-07-24",
@@ -434,7 +434,7 @@ function renderPage(page) {
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${escapeHtml(page.title)}</title><meta name="description" content="${escapeHtml(page.description)}"><meta name="robots" content="index,follow,max-image-preview:large">
 <link rel="icon" type="image/png" sizes="96x96" href="/favicon.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="canonical" href="${url}"><link rel="alternate" hreflang="en" href="${url}">${alternates}<link rel="alternate" hreflang="x-default" href="${url}"><link rel="stylesheet" href="/seo.css?v=20260803">
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KDXYW9W2BB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KDXYW9W2BB');</script><script src="/seo.js?v=20260831" defer></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KDXYW9W2BB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KDXYW9W2BB');</script><script src="/seo.js?v=20260924" defer></script>
 <meta property="og:type" content="article"><meta property="og:title" content="${escapeHtml(page.title)}"><meta property="og:description" content="${escapeHtml(page.description)}"><meta property="og:url" content="${url}"><meta property="og:site_name" content="Beespoke Outbound Lead Generation"><meta property="og:image" content="${socialImage}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="${escapeHtml(socialAlt)}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${escapeHtml(page.title)}"><meta name="twitter:description" content="${escapeHtml(page.description)}"><meta name="twitter:image" content="${socialImage}"><meta name="twitter:image:alt" content="${escapeHtml(socialAlt)}"><script type="application/ld+json">${JSON.stringify(schema).replace(/</g, "\\u003c")}</script>
 </head><body>

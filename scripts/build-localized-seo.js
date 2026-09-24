@@ -36,6 +36,9 @@ const queryGrowthPages = new Set([
   "/guides/outbound-lead-generation-cost/",
   "/guides/outbound-call-center-pricing/",
   "/guides/cold-email-agency/",
+  "/guides/appointment-setting-pricing/",
+  "/guides/best-linkedin-lead-generation-agencies/",
+  "/services/outsourced-sdr/",
   "/industries/recruitment-agency-lead-generation/",
   "/compare/lead-generation-agency-vs-software/"
 ]);
@@ -110,21 +113,21 @@ function localizeSchema(html, page, locale, dictionary) {
   const datasetCopy = {
     es: {
       name: "Benchmark de precios outbound B2B 2026",
-      description: "Cuarenta ofertas de precios outbound B2B publicadas por proveedores, con moneda original, unidad de facturación, modelo de prestación, canales, definición del resultado, compromiso y fuente.",
+      description: "39 ofertas de precios outbound B2B publicadas por proveedores, con moneda original, unidad de facturación, modelo de prestación, canales, definición del resultado, compromiso y fuente.",
       measurementTechnique: "Recopilación manual a partir de páginas públicas de precios controladas por cada proveedor",
       variableMeasured: ["Precio público", "Unidad de facturación", "Modelo de prestación", "Canales", "Resultado publicado", "Compromiso"],
       spatialCoverage: "Internacional"
     },
     ca: {
       name: "Benchmark de preus outbound B2B 2026",
-      description: "Quaranta ofertes de preus outbound B2B publicades per proveïdors, amb moneda original, unitat de facturació, model de prestació, canals, definició del resultat, compromís i font.",
+      description: "39 ofertes de preus outbound B2B publicades per proveïdors, amb moneda original, unitat de facturació, model de prestació, canals, definició del resultat, compromís i font.",
       measurementTechnique: "Recopilació manual a partir de pàgines públiques de preus controlades per cada proveïdor",
       variableMeasured: ["Preu públic", "Unitat de facturació", "Model de prestació", "Canals", "Resultat publicat", "Compromís"],
       spatialCoverage: "Internacional"
     },
     fr: {
       name: "Benchmark 2026 des tarifs outbound B2B",
-      description: "Quarante offres tarifaires outbound B2B publiées par des prestataires, avec devise d’origine, unité de facturation, modèle de prestation, canaux, définition du résultat, engagement et source.",
+      description: "39 offres tarifaires outbound B2B publiées par des prestataires, avec devise d’origine, unité de facturation, modèle de prestation, canaux, définition du résultat, engagement et source.",
       measurementTechnique: "Collecte manuelle à partir des pages tarifaires publiques contrôlées par chaque prestataire",
       variableMeasured: ["Tarif public", "Unité de facturation", "Modèle de prestation", "Canaux", "Résultat publié", "Engagement"],
       spatialCoverage: "International"

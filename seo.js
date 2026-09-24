@@ -2,9 +2,11 @@
   const supportedLocales = ["en", "es", "ca", "fr"];
   const locale = document.documentElement.lang || "en";
   const attributionKey = "beespoke-session-attribution-v1";
+  const firstTouchKey = "beespoke-first-touch-attribution-v1";
   const bookingJourneyKey = "beespoke-booking-journey-v1";
   const bookingConfirmedKey = "beespoke-booking-confirmed-v1";
   const bookingJourneyTtl = 24 * 60 * 60 * 1000;
+  const firstTouchTtl = 90 * 24 * 60 * 60 * 1000;
   const limited = (value, length = 100) => String(value || "").slice(0, length);
   const hostMatches = (host, domain) => host === domain || host.endsWith(`.${domain}`);
   const aiSources = [
@@ -29,6 +31,18 @@
   const readStoredAttribution = () => {
     try { return JSON.parse(sessionStorage.getItem(attributionKey) || "null"); }
     catch { return null; }
+  };
+  const readFirstTouchAttribution = () => {
+    try {
+      const record = JSON.parse(localStorage.getItem(firstTouchKey) || "null");
+      if (!record?.createdAt || !record?.attribution || Date.now() - record.createdAt > firstTouchTtl) {
+        localStorage.removeItem(firstTouchKey);
+        return null;
+      }
+      return record.attribution;
+    } catch {
+      return null;
+    }
   };
   const readBookingJourney = () => {
     try {
@@ -66,19 +80,32 @@
     };
   };
   const bookingJourney = readBookingJourney();
+  const currentAttribution = buildAttribution();
+  const storedFirstTouch = readFirstTouchAttribution();
+  const isDirect = (value) => !value || value.source === "(direct)";
+  const firstTouchAttribution = bookingJourney?.firstTouchAttribution
+    || ((!storedFirstTouch || (isDirect(storedFirstTouch) && !isDirect(currentAttribution))) ? currentAttribution : storedFirstTouch);
+  if (!storedFirstTouch || (isDirect(storedFirstTouch) && !isDirect(currentAttribution))) {
+    try { localStorage.setItem(firstTouchKey, JSON.stringify({ createdAt: Date.now(), attribution: firstTouchAttribution })); }
+    catch { /* Session attribution still works when persistent storage is unavailable. */ }
+  }
   const attribution = readStoredAttribution()
     || (location.pathname === "/booking-confirmed/" ? bookingJourney?.attribution : null)
-    || buildAttribution();
+    || currentAttribution;
   try { sessionStorage.setItem(attributionKey, JSON.stringify(attribution)); }
   catch { /* Tracking still works when storage is unavailable. */ }
   const attributionParameters = {
-    first_touch_source: attribution.source,
-    first_touch_medium: attribution.medium,
-    first_touch_campaign: attribution.campaign || "(not set)",
-    first_touch_content: attribution.content || "(not set)",
-    first_touch_term: attribution.term || "(not set)",
-    first_touch_landing_page: attribution.landingPage,
-    first_touch_referrer_host: attribution.referrerHost || "(direct)"
+    first_touch_source: firstTouchAttribution.source,
+    first_touch_medium: firstTouchAttribution.medium,
+    first_touch_campaign: firstTouchAttribution.campaign || "(not set)",
+    first_touch_content: firstTouchAttribution.content || "(not set)",
+    first_touch_term: firstTouchAttribution.term || "(not set)",
+    first_touch_landing_page: firstTouchAttribution.landingPage,
+    first_touch_referrer_host: firstTouchAttribution.referrerHost || "(direct)",
+    session_touch_source: attribution.source,
+    session_touch_medium: attribution.medium,
+    session_touch_campaign: attribution.campaign || "(not set)",
+    session_touch_landing_page: attribution.landingPage
   };
   const track = (eventName, parameters = {}) => {
     const payload = { page_path: location.pathname, page_language: locale, ...attributionParameters, ...parameters };
@@ -116,7 +143,7 @@
     if (href.includes("calendly.com")) {
       const destinationUrl = enrichCalendlyLink(link, ctaLocation);
       const parameters = { cta_text: link.textContent.trim(), cta_location: ctaLocation, link_url: destinationUrl };
-      try { localStorage.setItem(bookingJourneyKey, JSON.stringify({ createdAt: Date.now(), attribution, calendlyUrl: destinationUrl, ctaLocation })); }
+      try { localStorage.setItem(bookingJourneyKey, JSON.stringify({ createdAt: Date.now(), attribution, firstTouchAttribution, calendlyUrl: destinationUrl, ctaLocation })); }
       catch { /* The confirmation page can still validate the Calendly referrer. */ }
       track("calendly_click", parameters);
       track("contact_intent", { ...parameters, contact_method: "calendly", intent_stage: "calendar_opened" });
