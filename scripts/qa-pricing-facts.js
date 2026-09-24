@@ -41,4 +41,9 @@ assert(llms.includes("$1,500 USD per month; no per-meeting fee"), "llms.txt is m
 assert(llms.includes("$99 USD per hour with a minimum commitment of 10 hours per week"), "llms.txt is missing the inbound price");
 assert(!retiredOffer.test(llms), "llms.txt exposes the retired offer");
 
+const sitemap = fs.readFileSync(path.join(root, "sitemap.xml"), "utf8");
+for (const homepagePath of ["/", "/es/", "/ca/", "/fr/"]) {
+  assert(sitemap.includes(`<loc>https://outbound-lead-generation.com${homepagePath}</loc><lastmod>2026-09-24</lastmod>`), `${homepagePath} sitemap date does not reflect the pricing and internal-link update`);
+}
+
 console.log("Pricing-facts QA passed across four languages, three inbound services, current benchmark data and llms.txt.");

@@ -14,6 +14,7 @@ const organizationSameAs = [
   "https://www.cylex.es/barcelona/beespoke-outbound-lead-generation-14666954.html"
 ];
 const defaultUpdated = "2026-07-24";
+const homepageUpdated = "2026-09-24";
 const updatedOverrides = new Map([
   ["/services/outbound-lead-generation/", "2026-09-08"],
   ["/services/b2b-appointment-setting/", "2026-09-08"],
@@ -457,8 +458,8 @@ for (const page of pages) {
 }
 
 const sitemapEntries = [
-  { path: "/", updated: defaultUpdated },
-  ...["es", "ca", "fr"].map((locale) => ({ path: `/${locale}/`, updated: defaultUpdated })),
+  { path: "/", updated: homepageUpdated },
+  ...["es", "ca", "fr"].map((locale) => ({ path: `/${locale}/`, updated: homepageUpdated })),
   ...pages.map((page) => ({ path: page.path, updated: updatedFor(page.path) })),
   ...["es", "ca", "fr"].flatMap((locale) => pages.map((page) => ({ path: `/${locale}${page.path}`, updated: updatedFor(page.path) })))
 ];
