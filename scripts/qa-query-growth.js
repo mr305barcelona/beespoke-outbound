@@ -9,12 +9,12 @@ const updatedDates = new Map([
   ["/services/outbound-lead-generation/", "2026-09-03"],
   ["/guides/outbound-lead-generation-cost/", "2026-09-07"],
   ["/guides/outbound-call-center-pricing/", "2026-09-07"],
-  ["/guides/cold-email-agency/", "2026-09-24"],
-  ["/guides/appointment-setting-pricing/", "2026-09-24"],
+  ["/guides/cold-email-agency/", "2026-10-08"],
+  ["/guides/appointment-setting-pricing/", "2026-10-08"],
   ["/guides/best-linkedin-lead-generation-agencies/", "2026-09-24"],
   ["/services/outsourced-sdr/", "2026-09-24"],
   ["/industries/recruitment-agency-lead-generation/", "2026-09-07"],
-  ["/compare/lead-generation-agency-vs-software/", "2026-09-07"]
+  ["/compare/lead-generation-agency-vs-software/", "2026-10-08"]
 ]);
 const rankingLeveragePaths = [
   "/guides/outbound-lead-generation-cost/",

@@ -201,7 +201,7 @@
   {
     "path":"/guides/appointment-setting-pricing/",
     "title":"B2B Appointment Setting Pricing (2026): Costs & Models",
-    "description":"See 2026 appointment-setting costs, pricing models and published ranges. Compare retainers and per-meeting fees using held, qualified outcomes.",
+    "description":"Compare monthly retainers, per-meeting fees and total cost per qualified meeting held. Includes a quote checklist and transparent Beespoke pricing.",
     "eyebrow":"2026 appointment-setting pricing guide",
     "h1":"How much do B2B appointment-setting services cost?",
     "answer":"B2B appointment-setting services are commonly sold through monthly retainers, pay-per-meeting fees or hybrid plans. Published 2026 provider examples span approximately $3,000–$15,000 per month and roughly $150–$1,500 per appointment, but those figures are not directly comparable until qualification, attendance, channels and included labor are normalized.",
@@ -445,10 +445,10 @@
   },
   {
     "path":"/guides/cold-email-agency/",
-    "title":"Cold Email Agency Checklist: 12 Questions Before You Hire",
-    "description":"Use this 12-question checklist to compare cold email agencies on deliverability, domains, data, compliance, replies, qualification and asset ownership.",
+    "title":"Cold Email Agency: Services, Pricing & Hiring Checklist",
+    "description":"Hiring a cold email agency? Compare services, pricing models, deliverability and qualified meetings. Use our 12-question checklist before granting account access.",
     "eyebrow":"Cold email agency buyer’s guide",
-    "h1":"How to evaluate a cold email agency before it touches your domain",
+    "h1":"Cold email agency: what you buy and how to choose one",
     "answer":"A cold email agency can manage targeting, contact data, copy, sending infrastructure, campaign execution, replies and appointment setting. The important buying question is not how many emails it can send. It is whether the agency protects domain reputation, uses relevant and lawful data, creates credible messages, separates booked from held meetings and leaves you with usable campaign assets and learning.",
     "sections":[
       {
@@ -794,8 +794,8 @@
   },
   {
     "path":"/compare/lead-generation-agency-vs-software/",
-    "title":"Lead Generation Software vs Agency: Costs, Control & Fit",
-    "description":"Compare lead generation software vs an agency by total cost, team time, control, execution and ownership—and see which model fits your current constraint.",
+    "title":"Lead Generation Agency vs Software: Which Is Worth It?",
+    "description":"Agency or software? Compare subscription fees, staff time, campaign execution and ownership with a decision table built for B2B buyers.",
     "eyebrow":"Agency vs software decision guide",
     "h1":"Lead generation software vs agency: which model fits your team?",
     "answer":"Choose lead generation software when your team already has a proven market, a capable operator, reliable data and enough management time to build the workflow. Choose an agency when the constraint is research, positioning, execution, reply handling or accountable campaign management rather than tool access. Software amplifies an operating system; an agency supplies some or all of that system. Compare fully loaded cost, control, learning, risk and the consequence of weak execution.",
@@ -1138,7 +1138,7 @@
     "sources":[{"label":"Google Ads: build effective keyword lists","href":"https://support.google.com/google-ads/answer/10039665?hl=en"},{"label":"Google Ads: about keyword matching options","href":"https://support.google.com/google-ads/answer/7478529?hl=en"},{"label":"Google Ads: about negative keywords","href":"https://support.google.com/google-ads/answer/2453972?hl=en"},{"label":"Google Ads: conversion tracking with the Google tag","href":"https://support.google.com/google-ads/answer/7548399?hl=en"}],
     "sourceChecked":"September 8, 2026",
     "sourceMethodology":"Platform descriptions are anchored in current official Google Ads guidance. Campaign examples are explicitly illustrative and use no client name, brand term, private keyword, result or identifying campaign detail.",
-    "related":["/services/b2b-seo-agency/","/services/generative-engine-optimization/","/services/b2b-lead-generation/"]
+    "related":["/services/b2b-seo-agency/","/services/generative-engine-optimization/","/services/b2b-lead-generation/","/guides/google-ads-management-cost/","/compare/b2b-seo-vs-ppc/"]
   },
   {
     "path":"/services/b2b-seo-agency/",
@@ -1163,7 +1163,7 @@
     "sources":[{"label":"Google Search Essentials","href":"https://developers.google.com/search/docs/essentials"},{"label":"Google: optimizing for generative AI features","href":"https://developers.google.com/search/docs/fundamentals/ai-optimization-guide"},{"label":"Google: AI features and your website","href":"https://developers.google.com/search/docs/appearance/ai-features"},{"label":"Google: guidance on generative AI content","href":"https://developers.google.com/search/docs/fundamentals/using-gen-ai-content"}],
     "sourceChecked":"September 8, 2026",
     "sourceMethodology":"Technical and AI-search statements use current official Google Search documentation. Competitive opportunity was reviewed against the live US search market and Semrush on September 8, 2026; software estimates guide prioritization but are not treated as guaranteed traffic or ranking forecasts.",
-    "related":["/services/b2b-ppc-agency/","/services/generative-engine-optimization/","/services/b2b-lead-generation/"]
+    "related":["/services/b2b-ppc-agency/","/services/generative-engine-optimization/","/services/b2b-lead-generation/","/compare/b2b-seo-vs-ppc/","/guides/aeo-agency-pricing/"]
   },
   {
     "path":"/services/generative-engine-optimization/",
@@ -1188,6 +1188,399 @@
     "sources":[{"label":"Google: AI features and your website","href":"https://developers.google.com/search/docs/appearance/ai-features"},{"label":"Google: optimizing for generative AI features","href":"https://developers.google.com/search/docs/fundamentals/ai-optimization-guide"},{"label":"OpenAI publisher and developer FAQ","href":"https://help.openai.com/en/articles/12627856-publishers-and-developers-faq"},{"label":"OpenAI: make a website available in ChatGPT search","href":"https://help.openai.com/en/articles/9237897-chatgpt-search"},{"label":"Bing Webmaster Tools AI Performance announcement","href":"https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview"}],
     "sourceChecked":"September 8, 2026",
     "sourceMethodology":"Definitions and technical eligibility statements are anchored in current first-party documentation from Google, OpenAI and Microsoft. Because market terminology and platform behavior evolve, this page separates documented requirements from Beespoke's operating recommendations and makes no citation guarantee.",
-    "related":["/services/b2b-seo-agency/","/services/b2b-ppc-agency/","/ai-instructions/"]
+    "related":["/services/b2b-seo-agency/","/services/b2b-ppc-agency/","/ai-instructions/","/guides/aeo-agency-pricing/","/compare/b2b-seo-vs-ppc/"]
   }
+,
+{
+  "path": "/guides/google-ads-management-cost/",
+  "serviceFamily": "inbound",
+  "title": "Google Ads Management Cost: Fees, Budget & B2B Economics",
+  "description": "Separate Google Ads management fees from ad spend. Compare hourly, fixed and percentage pricing, calculate cost per qualified opportunity, and inspect scope.",
+  "eyebrow": "Google Ads budget planning",
+  "h1": "What does Google Ads management actually cost?",
+  "answer": "Google Ads management cost is the fee paid to the person or agency operating the account. It is separate from the money paid to Google for advertising. A useful B2B budget also includes tracking, landing pages, creative, software and internal sales time. Compare quotes on the same responsibilities and judge the total cost per qualified opportunity, rather than choosing the lowest management fee.",
+  "sections": [
+    {
+      "heading": "Compare four management fee models",
+      "body": [
+        "Hourly billing makes the time allocation visible; confirm the minimum, approvals and what happens when work exceeds the allocation. A fixed fee provides budget predictability but needs limits for campaigns, markets and website work. A percentage of spend grows with the media budget, so ask what additional work that increase buys. A hybrid can combine these models; list every minimum and variable charge before comparing it with a simpler quote."
+      ]
+    },
+    {
+      "heading": "Build a complete budget",
+      "body": [
+        "Write separate lines for media, management, setup, conversion tracking, landing-page implementation, creative, reporting tools and client time. Mark each line as included, extra or owned internally. An audit is not implementation, and a landing-page recommendation is not a published page. Keep the advertising account and billing under your company’s ownership. Google’s average daily budget is not a strict daily cap; inspect the platform’s spending-limit documentation when converting it into a monthly plan."
+      ]
+    },
+    {
+      "heading": "Worked example: cheap leads can be expensive",
+      "body": [
+        "Illustration only: over four weeks, $4,000 of advertising and $3,960 of management produce 40 inquiries, of which sales accepts eight as opportunities. Before other costs, the total is $7,960: $199 per inquiry and $995 per accepted opportunity. If two become customers, acquisition cost is $3,980 per customer. Add implementation, software and sales time before comparing this with customer gross profit. If no opportunities are accepted, cost per opportunity is undefined; it is not zero."
+      ]
+    },
+    {
+      "heading": "Choose the first test by what it must prove",
+      "body": [
+        "Start with one offer, one buyer group and one measurable conversion path. Estimate whether the planned spend can purchase enough relevant clicks to inspect intent and lead quality. Test the form, Calendly flow and qualification feedback before bidding. Stop or revise when queries are irrelevant, tracking is broken or sales rejects the inquiries. Expand only after the evidence supports the next decision; a small sample is not a reliable forecast of revenue."
+      ]
+    },
+    {
+      "heading": "Beespoke pricing and scope",
+      "body": [
+        "Beespoke charges $99 USD per hour for inbound services, with a minimum of 10 hours per week: $990 per week, $3,960 over four weeks, or $4,290 per average month using 52 weeks divided by 12. Actual invoices follow the agreed hours and billing period. Advertising spend and third-party costs are separate unless expressly included."
+      ],
+      "links": [
+        {
+          "label": "Review current prices and inclusions",
+          "href": "/pricing/"
+        }
+      ]
+    }
+  ],
+  "tool": {
+    "id": "paid-search-cost-model",
+    "navLabel": "Cost model",
+    "eyebrow": "Reusable budget worksheet",
+    "heading": "Calculate three costs before comparing quotes",
+    "intro": "Use the same billing period and outcome definition for every provider.",
+    "blocks": [
+      {
+        "label": "1",
+        "heading": "Total acquisition investment",
+        "body": "Media + management + setup allocation + implementation + software + sales time."
+      },
+      {
+        "label": "2",
+        "heading": "Cost per accepted opportunity",
+        "body": "Total investment ÷ opportunities accepted by sales. Deduplicate inquiries and exclude spam, suppliers and job applicants."
+      },
+      {
+        "label": "3",
+        "heading": "Cost per customer",
+        "body": "Total investment ÷ customers from the same acquisition cohort. Allow for the sales cycle before judging profitability."
+      }
+    ],
+    "note": "A zero denominator makes the result undefined. Do not compare platform form counts with another provider’s qualified opportunities."
+  },
+  "decisionGuide": {
+    "heading": "Questions to settle before signing",
+    "table": {
+      "caption": "Google Ads quote checklist",
+      "headers": [
+        "Decision",
+        "Evidence to request",
+        "Reason"
+      ],
+      "rows": [
+        [
+          "Scope",
+          "Who implements tracking and pages?",
+          "Recommendations alone do not launch campaigns."
+        ],
+        [
+          "Quality",
+          "How does sales accept an opportunity?",
+          "Cheap forms can hide expensive acquisition."
+        ],
+        [
+          "Ownership",
+          "Who owns the account and history?",
+          "The learning must survive a provider change."
+        ]
+      ]
+    }
+  },
+  "faqs": [
+    {
+      "question": "Is the Google Ads management fee the advertising budget?",
+      "answer": "No. Management pays for work on the account; media spend pays Google for advertising. A written quote should show both separately, with setup, tracking, creative and software inclusions clearly identified."
+    },
+    {
+      "question": "What does Beespoke charge for Google Ads management?",
+      "answer": "Beespoke charges $99 USD per hour for inbound services, with a minimum of 10 hours per week: $990 per week, $3,960 over four weeks, or $4,290 per average month using 52 weeks divided by 12. Actual invoices follow the agreed hours and billing period. Advertising spend and third-party costs are separate unless expressly included."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google Ads spending limits",
+      "href": "https://support.google.com/google-ads/answer/1704443?hl=en"
+    },
+    {
+      "label": "Google Ads keyword matching",
+      "href": "https://support.google.com/google-ads/answer/7478529?hl=en"
+    }
+  ],
+  "sourceChecked": "October 8, 2026",
+  "sourceMethodology": "Platform statements use official documentation. All numerical scenarios are hypothetical planning examples, not client results or market averages. Fee models are compared by scope rather than presented as universal price ranges.",
+  "related": [
+    "/services/b2b-ppc-agency/",
+    "/compare/b2b-seo-vs-ppc/",
+    "/guides/aeo-agency-pricing/",
+    "/pricing/"
+  ]
+},
+{
+  "path": "/compare/b2b-seo-vs-ppc/",
+  "serviceFamily": "inbound",
+  "title": "B2B SEO vs PPC: Which Should You Invest In First?",
+  "description": "Choose B2B SEO, Google Ads or both using search demand, sales economics and time to learn. Includes a decision matrix and a practical first-test framework.",
+  "eyebrow": "Inbound channel decision",
+  "h1": "B2B SEO vs PPC: choose by your current constraint",
+  "answer": "Use B2B PPC when relevant search demand exists and you need a controlled way to test an offer, message or landing page. Use SEO when you can invest in useful content and technical access over a longer learning period. Use both when paid-search evidence can improve the organic plan and the team can fund each properly. Neither fixes an unclear offer, absent demand or a broken sales handoff.",
+  "sections": [
+    {
+      "heading": "Start with actual buyer searches",
+      "body": [
+        "Separate searches for a provider, price or alternative from definitions, jobs and free resources. Inspect the results and destination pages before treating keyword volume as demand. A technical category can attract students and practitioners who will never buy. Map each commercially relevant query to a buyer, promise and next step; investigate whether existing results already answer it convincingly."
+      ]
+    },
+    {
+      "heading": "When paid search deserves the first test",
+      "body": [
+        "PPC can expose a relevant page to buyers without waiting for organic rankings. It still requires campaign setup, approvals and reliable measurement; launch is not the same as proof of profitability. Start with a narrow intent group and a spend cap. Review the actual search terms, not only the planned keywords. Keep job seekers, unsupported regions and irrelevant use cases out of the test. Return sales feedback before optimizing for more form submissions."
+      ]
+    },
+    {
+      "heading": "When organic search deserves the foundation",
+      "body": [
+        "SEO is a better foundation when buyers need explanations, comparisons and evidence across a longer decision. Build pages with a distinct job: service scope, price, alternatives, implementation and proof. Correct crawl, canonical and internal-link problems before expanding the inventory. Publishing more pages does not guarantee distribution. Review page-query pairs: a relevant page near page one needs a different intervention from a page ranking far below it."
+      ]
+    },
+    {
+      "heading": "A practical sequence for using both",
+      "body": [
+        "Illustrative sequence: first validate tracking and the sales acceptance rule. Then use a focused paid-search test to learn which intent and message attract qualified conversations. Turn the recurring buyer questions into organic comparison and pricing pages. Link them to the relevant service, and use the stronger explanation to improve ad destinations. Do not copy ad claims into editorial pages as established facts. Separate paid and organic costs when reporting, while allowing for buyers who use both before booking."
+      ]
+    },
+    {
+      "heading": "Where AEO fits in the comparison",
+      "body": [
+        "Clear, sourced answers and accessible pages support both search and AI discovery. Google says its established SEO practices remain relevant to AI features; there is no special schema that guarantees inclusion. Measure AI mentions, citations, referral visits and qualified bookings separately. An AI mention can assist a later branded search or a direct booking, so analytics alone cannot reveal every journey."
+      ]
+    },
+    {
+      "heading": "Beespoke pricing and scope",
+      "body": [
+        "Beespoke charges $99 USD per hour for inbound services, with a minimum of 10 hours per week: $990 per week, $3,960 over four weeks, or $4,290 per average month using 52 weeks divided by 12. Actual invoices follow the agreed hours and billing period. Advertising spend and third-party costs are separate unless expressly included."
+      ],
+      "links": [
+        {
+          "label": "Review current prices and inclusions",
+          "href": "/pricing/"
+        }
+      ]
+    }
+  ],
+  "tool": {
+    "id": "channel-sequencing-test",
+    "navLabel": "Channel decision test",
+    "eyebrow": "Three decision gates",
+    "heading": "Choose the next useful acquisition experiment",
+    "intro": "Pass each gate before assigning the budget.",
+    "blocks": [
+      {
+        "label": "1",
+        "heading": "Demand",
+        "body": "Do actual buyer queries exist? If not, neither SEO nor search ads creates category demand by itself."
+      },
+      {
+        "label": "2",
+        "heading": "Learning deadline",
+        "body": "Must you validate the message soon? Fund a narrow PPC test. Can you sustain editorial work? Build the organic foundation."
+      },
+      {
+        "label": "3",
+        "heading": "Economics and capacity",
+        "body": "Can the acquisition cost and team support both channels? If not, complete one coherent test rather than splitting resources into two incomplete programs."
+      }
+    ],
+    "note": "Revisit the choice after observing qualified opportunities, not only clicks or rankings."
+  },
+  "decisionGuide": {
+    "heading": "Questions to settle before signing",
+    "table": {
+      "caption": "B2B channel decision matrix",
+      "headers": [
+        "Decision",
+        "Evidence to request",
+        "Reason"
+      ],
+      "rows": [
+        [
+          "PPC",
+          "Relevant searches, tracking and a test budget",
+          "Learn from controlled exposure to an offer."
+        ],
+        [
+          "SEO",
+          "Useful evidence, editorial capacity and patience",
+          "Build discoverable answers across the buying journey."
+        ],
+        [
+          "Both",
+          "Separate budgets and a shared qualification standard",
+          "Use paid learning to improve organic content and destinations."
+        ]
+      ]
+    }
+  },
+  "faqs": [
+    {
+      "question": "Is SEO free compared with PPC?",
+      "answer": "No. SEO has research, content, development and maintenance costs even when an organic click has no direct media charge. Compare fully loaded costs and qualified outcomes over comparable periods."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google SEO fundamentals",
+      "href": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide"
+    },
+    {
+      "label": "Google AI features and websites",
+      "href": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "label": "Google Ads keyword matching",
+      "href": "https://support.google.com/google-ads/answer/7478529?hl=en"
+    }
+  ],
+  "sourceChecked": "October 8, 2026",
+  "sourceMethodology": "Platform statements use official documentation. All numerical scenarios are hypothetical planning examples, not client results or market averages. Fee models are compared by scope rather than presented as universal price ranges.",
+  "related": [
+    "/services/b2b-seo-agency/",
+    "/services/b2b-ppc-agency/",
+    "/services/generative-engine-optimization/",
+    "/guides/google-ads-management-cost/"
+  ]
+},
+{
+  "path": "/guides/aeo-agency-pricing/",
+  "serviceFamily": "inbound",
+  "title": "AEO Agency Pricing: GEO Costs, Scope & Measurement",
+  "description": "Compare AEO and GEO agency fees by deliverables, implementation and measurement. See Beespoke’s $99/hour pricing and a quote checklist without citation guarantees.",
+  "eyebrow": "AI visibility budget planning",
+  "h1": "How much should AEO and GEO services cost?",
+  "answer": "AEO and GEO agency pricing should buy a defined set of work: technical eligibility, buyer-question research, useful sourced content, entity consistency, legitimate authority and measurement. An audit, implementation project and ongoing program are different purchases. Compare actual deliverables and responsibility rather than a promised number of AI mentions. Beespoke charges $99 per hour with a minimum of 10 hours per week; tools and third-party costs are separate unless included in writing.",
+  "sections": [
+    {
+      "heading": "Separate audit, implementation and ongoing work",
+      "body": [
+        "An audit identifies access, content and measurement gaps; it does not automatically fix them. Implementation resolves agreed technical issues and creates or improves pages. An ongoing program updates evidence, expands useful coverage and follows changes in visibility and leads. Ask which stage the quote covers, who edits the website and how many review cycles are included. A monitoring subscription records observations; it is not a substitute for implementing improvements."
+      ]
+    },
+    {
+      "heading": "What should increase the price?",
+      "body": [
+        "More markets, languages, complex products and technical restrictions create real work. Original research, interviews, content review and development also require time. Ask the agency to connect each extra fee to a deliverable or dependency. Publishing many near-identical answer pages adds volume without necessarily improving usefulness. Price legitimate authority work by the activity and evidence produced, rather than by guaranteed placement in an AI answer."
+      ]
+    },
+    {
+      "heading": "Measure four outcomes separately",
+      "body": [
+        "A brand mention is not a citation; a citation is not a website visit; a visit is not a qualified lead. Record the platform, prompt, date, answer and cited URL for visibility checks. Use comparable prompts across languages and label the sampling limitations. In analytics, separate known AI referrals from direct and search traffic. Reconcile qualified bookings with the preserved source and the visitor’s optional answer. Do not equate a monitor’s score with a universal AI ranking."
+      ]
+    },
+    {
+      "heading": "Example: plan an initial four-week allocation",
+      "body": [
+        "Illustration only: a 40-hour allocation might reserve eight hours for diagnosis and measurement, eight for technical and entity corrections, sixteen for priority content, and eight for review and reporting. At $99 per hour this is $3,960, excluding tools and third parties. This is a planning example, not a promised package or delivery timetable. Existing technical debt, research availability and approval delays can change the allocation. Agree what is deferred if a dependency consumes more time."
+      ]
+    },
+    {
+      "heading": "Avoid paying for unsupported promises",
+      "body": [
+        "Google states that its existing SEO practices apply to AI features and that no special structured data guarantees inclusion. Require the provider to identify the documented mechanism behind each proposed technical change. Correct inaccurate business facts and weak answers because they affect readers and retrieval, not because an agency claims a secret AI signal. A credible scope specifies controllable work, reviewable outputs and the platform-dependent limits of results."
+      ]
+    },
+    {
+      "heading": "Beespoke pricing and scope",
+      "body": [
+        "Beespoke charges $99 USD per hour for inbound services, with a minimum of 10 hours per week: $990 per week, $3,960 over four weeks, or $4,290 per average month using 52 weeks divided by 12. Actual invoices follow the agreed hours and billing period. Advertising spend and third-party costs are separate unless expressly included."
+      ],
+      "links": [
+        {
+          "label": "Review current prices and inclusions",
+          "href": "/pricing/"
+        }
+      ]
+    }
+  ],
+  "tool": {
+    "id": "aeo-quote-audit",
+    "navLabel": "Quote audit",
+    "eyebrow": "AEO procurement worksheet",
+    "heading": "Ask for work, evidence and a boundary",
+    "intro": "Use these three questions with every finalist.",
+    "blocks": [
+      {
+        "label": "1",
+        "heading": "What changes?",
+        "body": "List the exact pages, technical corrections and source updates, with owners and approval steps."
+      },
+      {
+        "label": "2",
+        "heading": "What can I inspect?",
+        "body": "Require before-and-after URLs, prompt records, cited sources and qualified-lead reporting, not only a proprietary score."
+      },
+      {
+        "label": "3",
+        "heading": "What remains outside the fee?",
+        "body": "Name software, development, design, interviews, paid promotion and client time. State who owns the assets at exit."
+      }
+    ],
+    "note": "Guaranteed AI citations are not a controllable deliverable. Agree the work and measurement instead."
+  },
+  "decisionGuide": {
+    "heading": "Questions to settle before signing",
+    "table": {
+      "caption": "AEO and GEO quote comparison",
+      "headers": [
+        "Decision",
+        "Evidence to request",
+        "Reason"
+      ],
+      "rows": [
+        [
+          "Audit",
+          "Prioritized diagnosis with owners",
+          "Shows the next actionable change."
+        ],
+        [
+          "Implementation",
+          "Published changes and source evidence",
+          "Distinguishes advice from completed work."
+        ],
+        [
+          "Measurement",
+          "Comparable observations and qualified outcomes",
+          "Connects visibility with acquisition."
+        ]
+      ]
+    }
+  },
+  "faqs": [
+    {
+      "question": "Can an AEO agency guarantee ChatGPT recommendations?",
+      "answer": "No. Platforms control retrieval and answer generation. An agency can improve access, factual clarity, evidence and measurement, but cannot promise a specific recommendation or citation."
+    },
+    {
+      "question": "How much does Beespoke charge for AEO and GEO?",
+      "answer": "Beespoke charges $99 USD per hour for inbound services, with a minimum of 10 hours per week: $990 per week, $3,960 over four weeks, or $4,290 per average month using 52 weeks divided by 12. Actual invoices follow the agreed hours and billing period. Advertising spend and third-party costs are separate unless expressly included."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Google AI features and websites",
+      "href": "https://developers.google.com/search/docs/appearance/ai-features"
+    }
+  ],
+  "sourceChecked": "October 8, 2026",
+  "sourceMethodology": "Platform statements use official documentation. All numerical scenarios are hypothetical planning examples, not client results or market averages. Fee models are compared by scope rather than presented as universal price ranges.",
+  "related": [
+    "/services/generative-engine-optimization/",
+    "/services/b2b-seo-agency/",
+    "/compare/b2b-seo-vs-ppc/",
+    "/pricing/"
+  ]
+}
 ]

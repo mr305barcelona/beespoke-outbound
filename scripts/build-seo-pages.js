@@ -16,11 +16,14 @@ const organizationSameAs = [
 const defaultUpdated = "2026-07-24";
 const homepageUpdated = "2026-09-24";
 const updatedOverrides = new Map([
+  ["/guides/google-ads-management-cost/", "2026-10-08"],
+  ["/compare/b2b-seo-vs-ppc/", "2026-10-08"],
+  ["/guides/aeo-agency-pricing/", "2026-10-08"],
   ["/services/outbound-lead-generation/", "2026-09-08"],
   ["/services/b2b-appointment-setting/", "2026-09-08"],
   ["/pricing/", "2026-09-08"],
   ["/guides/outbound-lead-generation-cost/", "2026-09-08"],
-  ["/guides/appointment-setting-pricing/", "2026-09-24"],
+  ["/guides/appointment-setting-pricing/", "2026-10-08"],
   ["/guides/pay-per-meeting-lead-generation/", "2026-09-08"],
   ["/guides/outsourced-sdr-cost/", "2026-09-08"],
   ["/services/b2b-lead-generation/", "2026-09-08"],
@@ -43,7 +46,7 @@ const updatedOverrides = new Map([
   ["/industries/recruitment-agency-lead-generation/", "2026-09-07"],
   ["/industries/it-services-lead-generation/", "2026-08-17"],
   ["/guides/linkedin-lead-generation-agency-cost/", "2026-08-17"],
-  ["/compare/lead-generation-agency-vs-software/", "2026-09-07"],
+  ["/compare/lead-generation-agency-vs-software/", "2026-10-08"],
   ["/guides/best-outsourced-sdr-companies/", "2026-08-17"],
   ["/industries/professional-services-lead-generation/", "2026-08-17"],
   ["/industries/marketing-agency-lead-generation/", "2026-08-17"],
@@ -56,7 +59,7 @@ const updatedOverrides = new Map([
   ["/case-studies/cybersecurity-linkedin-lead-generation/", "2026-08-03"],
   ["/guides/outsourced-sdr-vs-lead-generation-agency/", "2026-08-03"],
   ["/services/b2b-lead-generation/", "2026-08-07"],
-  ["/guides/cold-email-agency/", "2026-09-24"],
+  ["/guides/cold-email-agency/", "2026-10-08"],
   ["/services/outbound-sales-outsourcing/", "2026-08-07"],
   ["/guides/cold-email-agency-pricing/", "2026-08-07"],
   ["/compare/outsourced-sdr-vs-in-house-sdr/", "2026-08-07"],
@@ -96,7 +99,7 @@ function labelFor(link) {
 }
 
 function renderInlineCta(page, position) {
-  const isInbound = [
+  const isInbound = page.serviceFamily === "inbound" || [
     "/services/b2b-ppc-agency/",
     "/services/b2b-seo-agency/",
     "/services/generative-engine-optimization/"
@@ -419,7 +422,7 @@ function renderPage(page) {
   const toc = `${page.sections.slice(0, 1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#${toolNav[0]}">${toolNav[1]}</a>${page.sections.slice(1).map((section) => `<a href="#${escapeHtml(section.heading.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""))}">${escapeHtml(section.heading)}</a>`).join("")}<a href="#buyer-decision-guide">Buyer decision guide</a>${page.faqs?.length ? '<a href="#frequently-asked-questions">Frequently asked questions</a>' : ""}${hasSources ? '<a href="#sources">Sources and methodology</a>' : ""}`;
   const related = page.related.map((link) => `<a class="related-card" href="${escapeHtml(link)}"><span>Related</span><strong>${escapeHtml(labelFor(link))}</strong></a>`).join("");
   const secondaryCta = page.heroSecondary || { label: "See transparent pricing", href: "/pricing/" };
-  const isInboundPage = [
+  const isInboundPage = page.serviceFamily === "inbound" || [
     "/services/b2b-ppc-agency/",
     "/services/b2b-seo-agency/",
     "/services/generative-engine-optimization/"
