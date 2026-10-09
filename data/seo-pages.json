@@ -1122,7 +1122,7 @@
     "eyebrow":"B2B Google Ads management",
     "h1":"B2B PPC management built around qualified pipeline",
     "answer":"A B2B PPC agency should connect search intent, campaign structure, landing pages, conversion tracking and sales feedback—not merely buy clicks. Beespoke manages Google Ads for B2B companies by defining the commercial outcome first, separating high-intent demand from research traffic, controlling exclusions, and optimizing toward qualified pipeline. Inbound services cost $99 per hour with a minimum commitment of 10 hours per week. Media spend and third-party software are separate, and no lead, pipeline or revenue outcome is guaranteed.",
-    "heroSecondary":{"label":"Compare inbound and outbound","href":"/services/b2b-lead-generation/"},
+    "heroSecondary":{"label":"Compare SEO and Google Ads","href":"/compare/b2b-seo-vs-ppc/"},
     "sections":[
       {"heading":"What Beespoke manages in Google Ads","body":["The engagement begins with the offer, target companies, buying roles, sales economics and evidence that a prospect should believe. We then translate that commercial definition into a paid-search structure with reviewable targeting, ads, destinations and measurement.","Scope can include account audit, campaign architecture, keyword and query research, negative-keyword governance, ad copy, landing-page recommendations, conversion tracking, weekly optimization and reporting. The agreed statement of work should identify who owns implementation, creative, website changes and CRM access."],"items":["Commercial and account diagnosis","Search-intent and keyword architecture","Ad-group, copy and landing-page alignment","Negative-keyword and query-quality review","Conversion and qualification measurement","Budget, bid and experiment governance"]},
       {"heading":"Start with unit economics, not traffic","body":["A click is useful only when the economics can support the path from visit to qualified opportunity and customer. Before choosing a budget, model average click cost, landing-page conversion, lead acceptance, opportunity creation, win rate, gross profit and the delay between click and revenue.","Use pessimistic, expected and optimistic cases. If the expected model works only when every rate is unusually strong, the campaign is not ready to scale. A smaller controlled test can still answer whether the search terms, offer and landing page create credible sales conversations."],"callout":"Budget is a learning constraint before it is a growth lever. Define what the first spend must prove and the rule for pausing, revising or expanding."},
@@ -1147,7 +1147,7 @@
     "eyebrow":"B2B SEO services",
     "h1":"B2B SEO built for discoverability, trust and qualified pipeline",
     "answer":"A B2B SEO agency should help the right buyers discover, understand and trust a company across a long research journey. Beespoke connects search demand, technical eligibility, page strategy, original information, internal links and conversion paths to qualified pipeline. Inbound services cost $99 per hour with a minimum commitment of 10 hours per week. Rankings, traffic, citations and revenue are not guaranteed.",
-    "heroSecondary":{"label":"Compare inbound and outbound","href":"/services/b2b-lead-generation/"},
+    "heroSecondary":{"label":"Compare SEO and Google Ads","href":"/compare/b2b-seo-vs-ppc/"},
     "sections":[
       {"heading":"What Beespoke manages in a B2B SEO program","body":["The program begins with commercial reality: what buyers need to decide, which markets matter, why the offer is credible and which outcomes sales will accept. Keyword volume is useful, but it does not replace buyer intent, competitive evidence or the economics of the service being sold.","Scope can include technical and indexation review, search-demand research, competitor analysis, page and topic architecture, content briefs and production, on-page optimization, internal linking, structured data, conversion paths, reporting and editorial refreshes. Authority building must use legitimate, reviewable methods; rankings are never sold as a certainty."],"items":["Technical crawl and indexation diagnosis","Buyer-query and SERP research","Service, comparison and decision-page planning","Original content and source development","Internal-link and entity architecture","Search, engagement and lead-quality measurement"]},
       {"heading":"Choose pages by the decision they help a buyer make","body":["A useful B2B search portfolio is not a pile of near-duplicate articles. It normally needs a clear service page, problem and use-case pages, comparison or alternative pages, pricing and cost guidance, implementation content, proof, and answers to recurring diligence questions.","Assign one primary intent to each URL. Combine close variants when the search results and buyer decision overlap; separate them when the audience, answer or destination job is genuinely different. This protects the site from internal competition and gives each page a clear reason to exist."],"table":{"caption":"B2B SEO page portfolio","headers":["Page type","Buyer question","Useful evidence","Commercial role"],"rows":[["Service","Can this provider solve the job?","Scope, process, fit and limits","Create a qualified next step"],["Comparison","Which model or option fits?","Decision criteria and tradeoffs","Support evaluation"],["Pricing","What changes cost and value?","Definitions, scenarios and exclusions","Set expectations"],["Implementation","How does the work operate?","Workflow, controls and examples","Reduce perceived risk"],["Proof","Has this worked in a relevant context?","Bounded facts and limitations","Build trust"],["Research","What new evidence can others use?","Method, data and sources","Earn references and authority"]]}},
@@ -1194,7 +1194,7 @@
 {
   "path": "/guides/google-ads-management-cost/",
   "serviceFamily": "inbound",
-  "title": "Google Ads Management Cost: Fees, Budget & B2B Economics",
+  "title": "Google Ads Management Pricing: Fees, Costs & Calculator",
   "description": "Separate Google Ads management fees from ad spend. Compare hourly, fixed and percentage pricing, calculate cost per qualified opportunity, and inspect scope.",
   "eyebrow": "Google Ads budget planning",
   "h1": "What does Google Ads management actually cost?",
@@ -1322,7 +1322,7 @@
 {
   "path": "/compare/b2b-seo-vs-ppc/",
   "serviceFamily": "inbound",
-  "title": "B2B SEO vs PPC: Which Should You Invest In First?",
+  "title": "SEO vs Google Ads for B2B: Costs, Timing & ROI Calculator",
   "description": "Choose B2B SEO, Google Ads or both using search demand, sales economics and time to learn. Includes a decision matrix and a practical first-test framework.",
   "eyebrow": "Inbound channel decision",
   "h1": "B2B SEO vs PPC: choose by your current constraint",

@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const root = path.resolve(__dirname, "..");
+const inboundWorkshop = require('../data/inbound-workshop');
 const pages = JSON.parse(fs.readFileSync(path.join(root, "data", "seo-pages.json"), "utf8"));
 const pricingBenchmark = JSON.parse(fs.readFileSync(path.join(root, "data", "outbound-pricing-benchmark-2026.json"), "utf8"));
 const origin = "https://outbound-lead-generation.com";
@@ -66,6 +67,7 @@ const updatedOverrides = new Map([
   ["/compare/lead-generation-agency-vs-in-house-team/", "2026-08-07"],
   ["/editorial-policy/", "2026-07-27"]
 ]);
+for (const pagePath of [...Object.keys(inboundWorkshop.packs), ...Object.keys(inboundWorkshop.publicPrices), '/compare/b2b-seo-vs-ppc/']) updatedOverrides.set(pagePath, '2026-10-09');
 const updatedFor = (pagePath) => updatedOverrides.get(pagePath) || defaultUpdated;
 const modifiedDateTimeFor = (pagePath) => updatedOverrides.has(pagePath)
   ? `${updatedFor(pagePath)}T15:00:00+02:00`
@@ -433,21 +435,25 @@ function renderPage(page) {
     : "Bring your offer, target buyer and current pipeline. We will have a practical conversation about fit, constraints and the next sensible test.";
   const socialImage = page.path === "/research/2026-b2b-outbound-pricing-benchmark/" ? `${origin}/assets/social/2026-pricing-benchmark-og.png` : `${origin}/assets/social/beespoke-og.png`;
   const socialAlt = page.path === "/research/2026-b2b-outbound-pricing-benchmark/" ? "2026 B2B outbound pricing benchmark by Beespoke" : "Beespoke Outbound Lead Generation";
+  const workshop = inboundWorkshop.render(page);
+  const serviceNav = inboundWorkshop.renderNav(page);
+  const workshopToc = workshop ? '<a href="#worked-examples">Worked examples and tools</a>' : '';
+  const fullToc = toc.replace(`<a href="#${toolNav[0]}">${toolNav[1]}</a>`, `<a href="#${toolNav[0]}">${toolNav[1]}</a>${workshopToc}`);
   return `<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${escapeHtml(page.title)}</title><meta name="description" content="${escapeHtml(page.description)}"><meta name="robots" content="index,follow,max-image-preview:large">
-<link rel="icon" type="image/png" sizes="96x96" href="/favicon.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="canonical" href="${url}"><link rel="alternate" hreflang="en" href="${url}">${alternates}<link rel="alternate" hreflang="x-default" href="${url}"><link rel="stylesheet" href="/seo.css?v=20260803">
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KDXYW9W2BB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KDXYW9W2BB');</script><script src="/seo.js?v=20260924" defer></script>
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="canonical" href="${url}"><link rel="alternate" hreflang="en" href="${url}">${alternates}<link rel="alternate" hreflang="x-default" href="${url}"><link rel="stylesheet" href="/seo.css?v=${workshop ? '20261009' : '20260803'}">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KDXYW9W2BB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-KDXYW9W2BB');</script><script src="/seo.js?v=20260924" defer></script>${workshop ? '<script src="/inbound-tools.js?v=20261009" defer></script>' : ''}
 <meta property="og:type" content="article"><meta property="og:title" content="${escapeHtml(page.title)}"><meta property="og:description" content="${escapeHtml(page.description)}"><meta property="og:url" content="${url}"><meta property="og:site_name" content="Beespoke Outbound Lead Generation"><meta property="og:image" content="${socialImage}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="${escapeHtml(socialAlt)}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${escapeHtml(page.title)}"><meta name="twitter:description" content="${escapeHtml(page.description)}"><meta name="twitter:image" content="${socialImage}"><meta name="twitter:image:alt" content="${escapeHtml(socialAlt)}"><script type="application/ld+json">${JSON.stringify(schema).replace(/</g, "\\u003c")}</script>
 </head><body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
 <header class="site-header"><nav><a class="brand" href="/"><span>B</span>Beespoke Outbound</a><div><a href="/services/b2b-lead-generation/">Services</a><a href="/case-studies/cybersecurity-linkedin-lead-generation/">Case studies</a><a href="/research/2026-b2b-outbound-pricing-benchmark/">Resources</a><a href="/pricing/">Pricing</a><a class="nav-cta" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></div></nav><div class="language-switcher"><button type="button" aria-expanded="false" aria-label="Language">EN</button><div><a href="${page.path}" lang="en" aria-current="page">English</a><a href="/es${page.path}" lang="es">Español</a><a href="/ca${page.path}" lang="ca">Català</a><a href="/fr${page.path}" lang="fr">Français</a></div></div><div class="reading-progress" aria-hidden="true"><span></span></div></header>
-<main id="main-content"><div class="breadcrumbs"><a href="/">Home</a><span>/</span><span>${escapeHtml(page.eyebrow)}</span></div>
+<main id="main-content">${serviceNav}<div class="breadcrumbs"><a href="/">Home</a><span>/</span><span>${escapeHtml(page.eyebrow)}</span></div>
 <header class="hero"><p class="eyebrow">${escapeHtml(page.eyebrow)}</p><h1>${escapeHtml(page.h1)}</h1><p class="answer">${escapeHtml(page.answer)}</p><div class="hero-actions"><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a 30-minute fit call</a><a class="secondary" href="${escapeHtml(secondaryCta.href)}">${escapeHtml(secondaryCta.label)}</a></div><p class="meta">Written by <a href="/about/noah-levy/">Noah Levy</a> · Updated ${displayDateFor(page.path)}</p></header>
-<details class="mobile-toc"><summary><span><small>On this page</small><strong class="current-section">${escapeHtml(page.sections[0].heading)}</strong></span><span class="toc-action">Sections</span></summary><nav aria-label="Page sections">${toc}</nav></details>
-<div class="article-grid"><aside class="toc"><div class="toc-label"><span>Article guide</span><strong>On this page</strong></div>${toc}<div class="toc-progress"><span></span></div></aside><article>${page.sections.map((section, index) => `${renderSection(section)}${index === 0 ? renderOriginalTool(page) : ""}${index === 1 ? renderInlineCta(page, "middle") : index === 3 ? renderInlineCta(page, "late") : ""}`).join("")}${renderCompetitiveDepth(page)}${renderFaqs(page)}${renderSources(page)}</article></div>
+<details class="mobile-toc"><summary><span><small>On this page</small><strong class="current-section">${escapeHtml(page.sections[0].heading)}</strong></span><span class="toc-action">Sections</span></summary><nav aria-label="Page sections">${fullToc}</nav></details>
+<div class="article-grid"><aside class="toc"><div class="toc-label"><span>Article guide</span><strong>On this page</strong></div>${fullToc}<div class="toc-progress"><span></span></div></aside><article>${page.sections.map((section, index) => `${renderSection(section)}${index === 0 ? renderOriginalTool(page) + workshop : ""}${index === 1 ? renderInlineCta(page, "middle") : index === 3 ? renderInlineCta(page, "late") : ""}`).join("")}${renderCompetitiveDepth(page)}${renderFaqs(page)}${renderSources(page)}</article></div>
 <section class="related"><p class="eyebrow">Continue researching</p><h2>Related Beespoke resources</h2><div class="related-grid">${related}</div></section>
 <section class="final-cta"><h2>${finalCtaHeading}</h2><p>${finalCtaCopy}</p><a class="button" href="https://calendly.com/noahlevybuilds/30min">Book a conversation</a></section></main>
 <footer>© 2026 Beespoke Outbound Lead Generation · Barcelona · <a href="/">outbound-lead-generation.com</a> · <a href="/ai-instructions/">AI &amp; company facts</a></footer>

@@ -31,6 +31,7 @@ const aeoTranslationOverrides = require(path.join(root, "data", "seo-translation
 const rankOneTranslationOverrides = require(path.join(root, "data", "seo-translation-rank-one-copy.json"));
 const pricingTranslationOverrides = require(path.join(root, "data", "seo-pricing-localizations.json"));
 const queryGrowthCopy = require(path.join(root, "data", "seo-query-growth-copy.json"));
+const workshopDictionaries = require('../data/inbound-workshop').dictionaries;
 const queryGrowthPages = new Set([
   "/services/outbound-lead-generation/",
   "/guides/outbound-lead-generation-cost/",
@@ -191,6 +192,7 @@ function localizeHtml(source, page, locale, dictionary) {
     .replace(/<title>([^<]+)<\/title>/, (all, value) => `<title>${escapeHtml(dictionary[value] || value)}</title>`);
   html = localizeSchema(html, page, locale, dictionary);
   html = html.replace(/(<script[\s\S]*?<\/script>|<[^>]+>|[^<]+)/gi, (token) => token.startsWith("<") ? token : translateText(token, dictionary));
+  html = html.replace(/(aria-label=")([^"]+)(")/g, (_, before, label, after) => `${before}${escapeHtml(dictionary[label] || label)}${after}`);
   html = localizeInternalLinks(html, locale);
   html = html.replace(/<div class="language-switcher">[\s\S]*?<\/div><\/div>/, languageLinks(page.path, locale));
   html = html.replace(
@@ -482,13 +484,13 @@ function localizeHtml(source, page, locale, dictionary) {
   };
   for (const [pattern, replacement] of terminology[locale]) html = html.replace(pattern, replacement);
   const monthNames = {
-    es: { July: "julio", August: "agosto", September: "septiembre" },
-    ca: { July: "juliol", August: "agost", September: "setembre" },
-    fr: { July: "juillet", August: "août", September: "septembre" }
+    es: { July: "julio", August: "agosto", September: "septiembre", October: "octubre" },
+    ca: { July: "juliol", August: "agost", September: "setembre", October: "octubre" },
+    fr: { July: "juillet", August: "août", September: "septembre", October: "octobre" }
   }[locale];
-  html = html.replace(/These sources were checked on (July|August|September) (\d{1,2}), 2026\./g, (_, month, day) => ({
+  html = html.replace(/These sources were checked on (July|August|September|October) (\d{1,2}), 2026\./g, (_, month, day) => ({
     es: `Estas fuentes se revisaron el ${day} de ${monthNames[month]} de 2026.`,
-    ca: `Aquestes fonts es van revisar el ${day} d${month === "August" ? "’" : "e "}${monthNames[month]} de 2026.`,
+    ca: `Aquestes fonts es van revisar el ${day} d${["August", "October"].includes(month) ? "’" : "e "}${monthNames[month]} de 2026.`,
     fr: `Ces sources ont été vérifiées le ${day} ${monthNames[month]} 2026.`
   }[locale]));
   return html;
@@ -509,6 +511,10 @@ for (const [locale] of Object.entries(locales)) {
   const inboundLocalized = require(path.join(root, "data", `seo-inbound-localizations.${locale}.json`));
   const inboundTemplateCopy = inboundLocalized._template || {};
   Object.assign(dictionary, inboundTemplateCopy);
+  for (const [en, translated] of Object.entries(workshopDictionaries[locale])) {
+    dictionary[en] = translated;
+    dictionary[escapeHtml(en)] = translated;
+  }
   for (const page of pages) {
     const source = fs.readFileSync(path.join(root, page.path.replace(/^\//, ""), "index.html"), "utf8");
     const output = path.join(root, localizedPath(locale, page.path).replace(/^\//, ""), "index.html");
