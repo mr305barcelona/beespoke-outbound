@@ -32,6 +32,7 @@ const rankOneTranslationOverrides = require(path.join(root, "data", "seo-transla
 const pricingTranslationOverrides = require(path.join(root, "data", "seo-pricing-localizations.json"));
 const queryGrowthCopy = require(path.join(root, "data", "seo-query-growth-copy.json"));
 const workshopDictionaries = require('../data/inbound-workshop').dictionaries;
+const optimizationSprint = require('../data/seo-optimization-sprint');
 const queryGrowthPages = new Set([
   "/services/outbound-lead-generation/",
   "/guides/outbound-lead-generation-cost/",
@@ -101,8 +102,12 @@ function translateText(text, dictionary) {
   if (!compact || !/[A-Za-z]/.test(compact)) return text;
   const protectedCandidate = compact.replace(/\s*→$/, "");
   if (protectedBenchmarkTerms.has(compact) || protectedBenchmarkTerms.has(protectedCandidate) || (compact.includes("outbound-lead-generation.com") && compact.includes("&lt;"))) return text;
-  return `${leading}${dictionary[compact] || compact}${trailing}`;
+  const translated = dictionary[compact] || (compact.endsWith(' →') && dictionary[compact.slice(0,-2)] ? `${dictionary[compact.slice(0,-2)]} →` : compact);
+  return `${leading}${translated}${trailing}`;
 }
+
+const decodeHtml = value => value.replace(/&quot;/g, '"').replace(/&#(?:39|x27);/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+const localizedMetadata = (value, dictionary) => escapeHtml(decodeHtml(dictionary[value] || dictionary[decodeHtml(value)] || value));
 
 function localizeInternalLinks(html, locale) {
   const known = new Set(pages.map((page) => page.path));
@@ -146,7 +151,7 @@ function localizeSchema(html, page, locale, dictionary) {
           node["@id"] = `${localizedUrl}#${fragment}`;
         }
       }
-      if (node.name) node.name = dictionary[node.name] || node.name;
+      if (node.name && !(isSharedEntity && page.path !== '/')) node.name = dictionary[node.name] || node.name;
       if (node.description) node.description = dictionary[node.description] || node.description;
       if (node["@type"] === "FAQPage") node.mainEntity?.forEach((question) => {
         if (question.name) question.name = dictionary[question.name] || question.name;
@@ -188,8 +193,8 @@ function localizeHtml(source, page, locale, dictionary) {
     .replace('<html lang="en">', `<html lang="${locale}">`)
     .replace(/<link rel="canonical" href="[^"]+">/, `<link rel="canonical" href="${localizedUrl}">${hreflang(page.path)}`)
     .replace(/<meta property="og:url" content="[^"]+">/, `<meta property="og:url" content="${localizedUrl}">`)
-    .replace(/(<meta (?:name|property)="(?:description|og:title|og:description|og:image:alt|twitter:title|twitter:description|twitter:image:alt)" content=")([^"]+)(">)/g, (all, before, value, after) => `${before}${escapeHtml(dictionary[value] || value)}${after}`)
-    .replace(/<title>([^<]+)<\/title>/, (all, value) => `<title>${escapeHtml(dictionary[value] || value)}</title>`);
+    .replace(/(<meta (?:name|property)="(?:description|og:title|og:description|og:image:alt|twitter:title|twitter:description|twitter:image:alt)" content=")([^"]+)(">)/g, (all, before, value, after) => `${before}${localizedMetadata(value,dictionary)}${after}`)
+    .replace(/<title>([^<]+)<\/title>/, (all, value) => `<title>${localizedMetadata(value,dictionary)}</title>`);
   html = localizeSchema(html, page, locale, dictionary);
   html = html.replace(/(<script[\s\S]*?<\/script>|<[^>]+>|[^<]+)/gi, (token) => token.startsWith("<") ? token : translateText(token, dictionary));
   html = html.replace(/(aria-label=")([^"]+)(")/g, (_, before, label, after) => `${before}${escapeHtml(dictionary[label] || label)}${after}`);
@@ -519,15 +524,23 @@ for (const [locale] of Object.entries(locales)) {
     const source = fs.readFileSync(path.join(root, page.path.replace(/^\//, ""), "index.html"), "utf8");
     const output = path.join(root, localizedPath(locale, page.path).replace(/^\//, ""), "index.html");
     fs.mkdirSync(path.dirname(output), { recursive: true });
-    const pageDictionary = queryGrowthPages.has(page.path) ? { ...dictionary, ...queryGrowthDictionary } : { ...dictionary };
+    const pageDictionary = { ...dictionary, ...queryGrowthDictionary };
+    // Related links and shared navigation need the other service's copy too.
+    for (const other of pages.filter(p=>inboundPages.has(p.path))) {
+      if (inboundLocalized[other.path]) addCopyMappings(other, inboundLocalized[other.path], pageDictionary);
+    }
     if (inboundPages.has(page.path) && inboundLocalized[page.path]) addCopyMappings(page, inboundLocalized[page.path], pageDictionary);
+    Object.assign(pageDictionary, optimizationSprint.dictionaries[locale]);
     fs.writeFileSync(output, localizeHtml(source, page, locale, pageDictionary));
   }
+  // SEO-only releases must never silently regenerate an unapproved homepage.
+  if (process.env.SEO_REBUILD_HOMEPAGES === '1') {
   const homepageSource = fs.readFileSync(path.join(root, "index.html"), "utf8")
     .replace(/<(meta|link)([^>]*?)\s*\/>/g, "<$1$2>")
     .replace(/src="(?!\/|https?:|data:)([^"]+)"/g, 'src="/$1"');
   const localizedHomepage = localizeHomepageSchema(localizeHtml(homepageSource, { path: "/" }, locale, dictionary), locale, dictionary);
   fs.writeFileSync(path.join(root, locale, "index.html"), localizedHomepage);
+  }
 }
 
-console.log(`Built ${(pages.length + 1) * Object.keys(locales).length} localized pages, including homepages.`);
+console.log(`Built ${pages.length * Object.keys(locales).length} localized SEO pages; homepages ${process.env.SEO_REBUILD_HOMEPAGES === '1' ? 'explicitly rebuilt' : 'preserved'}.`);

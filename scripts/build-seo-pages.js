@@ -4,6 +4,8 @@ const path = require("path");
 const root = path.resolve(__dirname, "..");
 const inboundWorkshop = require('../data/inbound-workshop');
 const pages = JSON.parse(fs.readFileSync(path.join(root, "data", "seo-pages.json"), "utf8"));
+const optimizationSprint = require('../data/seo-optimization-sprint');
+optimizationSprint.apply(pages);
 const pricingBenchmark = JSON.parse(fs.readFileSync(path.join(root, "data", "outbound-pricing-benchmark-2026.json"), "utf8"));
 const origin = "https://outbound-lead-generation.com";
 const organizationId = `${origin}/#organization`;
@@ -68,6 +70,7 @@ const updatedOverrides = new Map([
   ["/editorial-policy/", "2026-07-27"]
 ]);
 for (const pagePath of [...Object.keys(inboundWorkshop.packs), ...Object.keys(inboundWorkshop.publicPrices), '/compare/b2b-seo-vs-ppc/']) updatedOverrides.set(pagePath, '2026-10-09');
+for (const pagePath of new Set([...Object.keys(optimizationSprint.sections), ...Object.keys(optimizationSprint.linkPlans)])) updatedOverrides.set(pagePath, '2026-10-09');
 const updatedFor = (pagePath) => updatedOverrides.get(pagePath) || defaultUpdated;
 const modifiedDateTimeFor = (pagePath) => updatedOverrides.has(pagePath)
   ? `${updatedFor(pagePath)}T15:00:00+02:00`
