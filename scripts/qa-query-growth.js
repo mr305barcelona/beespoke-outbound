@@ -7,6 +7,7 @@ const sprint = require('../data/seo-optimization-sprint');
 sprint.apply(pages);
 const softwareComparison = require('../data/software-comparison');
 softwareComparison.apply(pages);
+const localeGrowth = require('../data/locale-growth-20261015');
 const copy = require("../data/seo-query-growth-copy.json");
 const targets = ["/services/outbound-lead-generation/", "/guides/outbound-lead-generation-cost/"];
 const updatedDates = new Map([
@@ -46,7 +47,9 @@ for (const url of targets) {
     const file = path.join(root, locale === "en" ? "" : locale, url, "index.html");
     const html = fs.readFileSync(file, "utf8");
     const graph = JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])["@graph"];
-    assert(html.includes(updatedDates.get(url)), `${file}: updated date missing`);
+    const route=locale==='en'?url:`/${locale}${url}`;
+    const localConfig=localeGrowth.pages[route];
+    assert(html.includes(localeGrowth.lastModifiedFor(route,updatedDates.get(url))), `${file}: updated date missing`);
     assert(html.includes('class="reading-progress"') || html.includes('id="reading-progress"'), `${file}: reading progress missing`);
     assert(!html.includes('name="robots" content="noindex'), `${file}: unexpected noindex`);
     if (locale !== "en") {
@@ -56,7 +59,7 @@ for (const url of targets) {
       }
     }
     const faq = graph.find(node => node["@type"] === "FAQPage");
-    assert.equal(faq.mainEntity.length, page.faqs.length, `${file}: FAQ schema mismatch`);
+    assert.equal(faq.mainEntity.length, (localConfig?.faqs || page.faqs).length, `${file}: FAQ schema mismatch`);
     for (const item of faq.mainEntity) {
       assert(html.includes(escape(item.name)), `${file}: schema question absent from visible page`);
       assert(html.includes(escape(item.acceptedAnswer.text)), `${file}: schema answer absent from visible page`);
@@ -84,9 +87,10 @@ for (const url of rankingLeveragePaths) {
     const html = fs.readFileSync(file, "utf8");
     assert.equal(typeof translated(page.title, locale), "string", `${url}: ${locale} title translation missing`);
     assert.equal(typeof translated(page.description, locale), "string", `${url}: ${locale} description translation missing`);
-    assert(html.includes(`<title>${escape(translated(page.title, locale))}</title>`), `${file}: optimized localized title missing`);
-    assert(html.includes(`content="${escape(translated(page.description, locale))}"`), `${file}: optimized localized description missing`);
-    assert(html.includes(updatedDates.get(url)), `${file}: localized ranking-leverage date missing`);
+    const route=`/${locale}${url}`, localConfig=localeGrowth.pages[route];
+    assert(html.includes(`<title>${escape(localConfig?.title || translated(page.title, locale))}</title>`), `${file}: optimized localized title missing`);
+    assert(html.includes(`content="${escape(localConfig?.description || translated(page.description, locale))}"`), `${file}: optimized localized description missing`);
+    assert(html.includes(localeGrowth.lastModifiedFor(route,updatedDates.get(url))), `${file}: localized ranking-leverage date missing`);
   }
 }
 

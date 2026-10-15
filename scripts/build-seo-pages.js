@@ -7,6 +7,7 @@ const pages = JSON.parse(fs.readFileSync(path.join(root, "data", "seo-pages.json
 const optimizationSprint = require('../data/seo-optimization-sprint');
 optimizationSprint.apply(pages);
 const softwareComparison = require('../data/software-comparison');
+const localeGrowth = require('../data/locale-growth-20261015');
 softwareComparison.apply(pages);
 const pricingBenchmark = JSON.parse(fs.readFileSync(path.join(root, "data", "outbound-pricing-benchmark-2026.json"), "utf8"));
 const origin = "https://outbound-lead-generation.com";
@@ -478,7 +479,7 @@ const sitemapEntries = [
   ...["es", "ca", "fr"].map((locale) => ({ path: `/${locale}/`, updated: homepageUpdated })),
   ...pages.map((page) => ({ path: page.path, updated: updatedFor(page.path) })),
   ...["es", "ca", "fr"].flatMap((locale) => pages.map((page) => ({ path: `/${locale}${page.path}`, updated: updatedFor(page.path) })))
-];
+].map(entry=>({...entry,updated:localeGrowth.lastModifiedFor(entry.path,entry.updated)}));
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapEntries.map((entry) => `  <url><loc>${origin}${entry.path}</loc><lastmod>${entry.updated}</lastmod></url>`).join("\n")}\n</urlset>\n`;
 fs.writeFileSync(path.join(root, "sitemap.xml"), sitemap);
 console.log(`Built ${pages.length} SEO pages and ${sitemapEntries.length} sitemap entries.`);
