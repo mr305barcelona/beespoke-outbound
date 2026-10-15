@@ -13,7 +13,7 @@ const inboundPaths = [
 ];
 const retiredOffer = /Hybrid Performance (?:Plan|costs)|Its Hybrid Performance plan|under the Hybrid Performance plan|hybrid plan (?:is|at) \$1,000|\$1,000 per month plus \$100|\$1,000 monthly hybrid plan|Beespoke.?s hybrid plan/i;
 
-assert.equal(benchmark.offers.length, 39, "Benchmark should contain 39 current public offers");
+assert.equal(benchmark.offers.length, 39, "Historical July benchmark should retain 39 public offers");
 assert(!benchmark.offers.some((offer) => offer.provider === "Beespoke" && /hybrid/i.test(offer.offer)), "Retired Beespoke hybrid offer remains in benchmark");
 assert(!retiredOffer.test(JSON.stringify(pages)), "Retired Beespoke hybrid offer remains in source pages");
 assert(!retiredOffer.test(fs.readFileSync(path.join(root, "data", "seo-query-growth-copy.json"), "utf8")), "Retired Beespoke hybrid offer remains in query-growth translations");
@@ -46,4 +46,4 @@ for (const homepagePath of ["/", "/es/", "/ca/", "/fr/"]) {
   assert(sitemap.includes(`<loc>https://outbound-lead-generation.com${homepagePath}</loc><lastmod>2026-09-24</lastmod>`), `${homepagePath} sitemap date does not reflect the pricing and internal-link update`);
 }
 
-console.log("Pricing-facts QA passed across four languages, three inbound services, current benchmark data and llms.txt.");
+console.log("Pricing-facts QA passed across four languages, three inbound services, dated benchmark data and llms.txt.");

@@ -1,0 +1,270 @@
+{
+  "title": "Outbound pricing source recheck — 15 October 2026",
+  "checkedOn": "2026-10-15",
+  "publisher": "Beespoke Outbound Lead Generation",
+  "publisherInterest": "Publisher sells LinkedIn-led outbound services and is included. No paid placements or affiliate links.",
+  "historicalDataset": "/data/outbound-pricing-benchmark-2026.json",
+  "historicalCheckedOn": "2026-07-24",
+  "methodology": "Manual Browserbase review of the same 12 provider-controlled sources. Visible current prices take precedence over conflicting embedded schema. Unavailable pages and uncertain currencies remain explicitly unconfirmed. No currency conversion, pooled average or independent performance validation.",
+  "statusDefinitions": {
+    "reconfirmed": "Listed current prices were visible; scope still needs buyer confirmation.",
+    "changed": "Visible pricing differs from the July record.",
+    "partial": "Some information confirmed; remaining tiers or currency not confirmed.",
+    "quote-only": "Visible offer requests a custom quote; old numeric tiers not reconfirmed.",
+    "conflicting": "Visible pricing and embedded structured pricing disagree.",
+    "unavailable": "Current pricing could not be reconfirmed after two attempts."
+  },
+  "providers": [
+    {
+      "provider": "Beespoke",
+      "status": "reconfirmed",
+      "checkedOn": "2026-10-15",
+      "source": "https://outbound-lead-generation.com/pricing/",
+      "publisherOffer": true,
+      "currentQuotes": [
+        {
+          "offer": "LinkedIn-led managed outbound",
+          "amount": 1500,
+          "currency": "USD",
+          "billingUnit": "month"
+        }
+      ],
+      "notes": "No per-meeting fee; software and third-party data separate. Client owns discovery, proposals and closing."
+    },
+    {
+      "provider": "OutsourcedSDR",
+      "status": "unavailable",
+      "checkedOn": "2026-10-15",
+      "source": "https://outsourcedsdr.com/pricing/",
+      "publisherOffer": false,
+      "currentQuotes": [],
+      "notes": "Two navigation attempts timed out. July prices were not reconfirmed."
+    },
+    {
+      "provider": "BitWide",
+      "status": "reconfirmed",
+      "checkedOn": "2026-10-15",
+      "source": "https://www.bitwide.com/pricing/",
+      "publisherOffer": false,
+      "currentQuotes": [
+        {
+          "offer": "Single channel",
+          "amount": 1000,
+          "currency": "USD",
+          "billingUnit": "month"
+        },
+        {
+          "offer": "Dual channel",
+          "amount": 1800,
+          "currency": "USD",
+          "billingUnit": "month"
+        },
+        {
+          "offer": "Triple channel",
+          "amount": 2500,
+          "currency": "USD",
+          "billingUnit": "month"
+        }
+      ],
+      "notes": "Six-month commitment; no setup fee. LinkedIn Sales Navigator is separate according to the FAQ."
+    },
+    {
+      "provider": "Artemis Leads",
+      "status": "reconfirmed",
+      "checkedOn": "2026-10-15",
+      "source": "https://www.artemisleads.com/es/pricing-b2b-outbound-lead-generation",
+      "publisherOffer": false,
+      "currentQuotes": [
+        {
+          "offer": "Light",
+          "amount": 1400,
+          "currency": "EUR",
+          "billingUnit": "month",
+          "setup": 2500
+        },
+        {
+          "offer": "Essential",
+          "amount": 2600,
+          "currency": "EUR",
+          "billingUnit": "month",
+          "setup": 2500
+        },
+        {
+          "offer": "Pro",
+          "amount": 10500,
+          "currency": "EUR",
+          "billingUnit": "one-time"
+        }
+      ],
+      "notes": "Prices read from visible image cards. Monthly plans describe a three-month proof of concept after setup; Pro is a system handover over 90 days, not a monthly retainer."
+    },
+    {
+      "provider": "MarknTech",
+      "status": "unavailable",
+      "checkedOn": "2026-10-15",
+      "source": "https://markntech.com/linkedin-lead-generation-pricing/",
+      "publisherOffer": false,
+      "currentQuotes": [],
+      "notes": "Two attempts returned HTTP 403/browser verification. July prices were not reconfirmed."
+    },
+    {
+      "provider": "Cleverly",
+      "status": "partial",
+      "checkedOn": "2026-10-15",
+      "source": "https://www.cleverly.co/linkedin-lead-generation",
+      "publisherOffer": false,
+      "currentQuotes": [
+        {
+          "offer": "LinkedIn service starting price",
+          "amount": 397,
+          "currency": null,
+          "billingUnit": "month",
+          "displayedPrice": "$397/month",
+          "priceQualifier": "from"
+        }
+      ],
+      "notes": "Only the starting price was reconfirmed. Currency code and old tier matrix were not confirmed."
+    },
+    {
+      "provider": "SaaS Leads",
+      "status": "partial",
+      "checkedOn": "2026-10-15",
+      "source": "https://saasleads.com/pricing/",
+      "publisherOffer": false,
+      "currentQuotes": [
+        {
+          "offer": "LinkedIn Basic",
+          "amount": 299,
+          "currency": null,
+          "billingUnit": "month"
+        },
+        {
+          "offer": "LinkedIn Pro",
+          "amount": 549,
+          "currency": null,
+          "billingUnit": "month"
+        },
+        {
+          "offer": "LinkedIn Teams",
+          "amount": 1299,
+          "currency": null,
+          "billingUnit": "month"
+        },
+        {
+          "offer": "Cold Email Pay Per Lead",
+          "amount": 299,
+          "currency": null,
+          "billingUnit": "month",
+          "perLead": 150
+        },
+        {
+          "offer": "Cold Email Pro",
+          "amount": 499,
+          "currency": null,
+          "billingUnit": "month"
+        },
+        {
+          "offer": "Cold Email Teams",
+          "amount": 1299,
+          "currency": null,
+          "billingUnit": "month"
+        },
+        {
+          "offer": "Multichannel Basic",
+          "amount": 2000,
+          "currency": null,
+          "billingUnit": "month",
+          "perLead": 150
+        },
+        {
+          "offer": "Multichannel Pro",
+          "amount": 4000,
+          "currency": null,
+          "billingUnit": "month"
+        },
+        {
+          "offer": "Multichannel Enterprise",
+          "amount": 6000,
+          "currency": null,
+          "billingUnit": "month"
+        }
+      ],
+      "notes": "All three pricing tabs were reviewed. Dollar symbol displayed; ISO currency not confirmed. LinkedIn Basic is self-service, Pro includes appointment setting and Teams lists three seats. Published output targets are not independently validated."
+    },
+    {
+      "provider": "Telesales.it",
+      "status": "conflicting",
+      "checkedOn": "2026-10-15",
+      "source": "https://telesales.it/",
+      "publisherOffer": false,
+      "currentQuotes": [],
+      "notes": "Visible FAQ describes a custom monthly quote with setup included. Embedded Offer schema still contains old fixed EUR tiers; those tiers are not treated as current."
+    },
+    {
+      "provider": "GTM Bud",
+      "status": "changed",
+      "checkedOn": "2026-10-15",
+      "source": "https://gtmbud.com/pricing",
+      "publisherOffer": false,
+      "currentQuotes": [
+        {
+          "offer": "LinkedIn account",
+          "amount": 600,
+          "currency": "USD",
+          "billingUnit": "month per account"
+        },
+        {
+          "offer": "LinkedIn account quarterly",
+          "amount": 1500,
+          "currency": "USD",
+          "billingUnit": "quarter per account",
+          "monthlyEquivalent": 500
+        }
+      ],
+      "notes": "Quarterly monthly equivalent is arithmetic within USD, not a currency conversion. Old email and bundle prices were not reconfirmed."
+    },
+    {
+      "provider": "Occura",
+      "status": "quote-only",
+      "checkedOn": "2026-10-15",
+      "source": "https://occura.co/",
+      "publisherOffer": false,
+      "currentQuotes": [],
+      "notes": "Current visible offer requests a custom proposal with a three-month minimum. Old fixed monthly tiers were not reconfirmed."
+    },
+    {
+      "provider": "TargetFlow",
+      "status": "partial",
+      "checkedOn": "2026-10-15",
+      "source": "https://www.targetflow.net/",
+      "publisherOffer": false,
+      "currentQuotes": [
+        {
+          "offer": "First-month pilot",
+          "amount": 2500,
+          "currency": null,
+          "billingUnit": "first month",
+          "displayedPrice": "$2,500 first month"
+        }
+      ],
+      "notes": "First month is a flat pilot fee; later pricing is a custom retainer. Thirty-day cancellation is advertised. ISO currency not confirmed; pilot price is not a recurring rate."
+    },
+    {
+      "provider": "Sales Hype",
+      "status": "changed",
+      "checkedOn": "2026-10-15",
+      "source": "https://www.saleshype.co.uk/b2b-lead-generation-agency",
+      "publisherOffer": false,
+      "currentQuotes": [
+        {
+          "offer": "Managed lead generation starting price",
+          "amount": 2500,
+          "currency": "GBP",
+          "billingUnit": "month",
+          "priceQualifier": "from"
+        }
+      ],
+      "notes": "Three-month minimum; no setup fee. Data, sending tools, domains and mailboxes are additional."
+    }
+  ]
+}

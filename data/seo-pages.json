@@ -194,7 +194,7 @@
       {"heading":"Cost is more than the monthly fee","body":["Normalize salary or retainer, employment costs, tools, data, management time, ramp, replacement risk, setup fees and performance charges. Then compare cost per held ICP meeting and accepted opportunity—not messages sent.","A lower-cost model becomes expensive if your team must rebuild its work or if the meetings cannot progress."],"links":[{"label":"Use the outbound cost calculator","href":"/guides/outbound-lead-generation-cost/"}]},
       {"heading":"Decision questions","items":["Do we need a person or a managed outcome?","Who can coach and manage day to day?","Which channels and geographies are essential?","How much control do we need over systems and data?","Is the offer proven enough to support a dedicated rep?","How will a qualified and held meeting be defined?","Who owns campaign assets and learning after cancellation?"]},
       {"heading":"Fast answer by operating need","body":["Use an outsourced SDR when the main requirement is dedicated rep capacity inside the buyer's systems, coaching rhythm and broader team. Use a lead generation agency when the requirement is a bounded campaign or specialist channel with research, messaging, outreach, replies and meeting qualification managed together.","Neither label guarantees a delivery model. Verify named capacity, channel scope, management ownership, reporting, qualification and exit terms in the proposed agreement."],"table":{"caption":"Operating need to likely model","headers":["Primary need","Likely starting model","Verify before buying"],"rows":[["Dedicated daily capacity","Outsourced SDR","Named allocation, manager and replacement process"],["Test a segment or channel","Lead generation agency","Hypothesis, sample, review and stopping rule"],["Build internal capability","In-house SDR","Manager, ramp, tools and durable volume"],["Design and coach a team","Fractional sales leader","Authority, cadence and execution owner"]]}},
-      {"heading":"Where Beespoke fits","body":["Beespoke is a small founder-led lead generation agency centered on focused LinkedIn outreach. It manages ICP work, targeting, messaging, replies and meeting booking, with transparent flat or hybrid pricing.","It is not a substitute for a dedicated full-time SDR pod, large call center, sales leader or full multichannel infrastructure. If those are the real requirements, the decision framework should point elsewhere."]}
+      {"heading":"Where Beespoke fits","body":["Beespoke is a founder-led agency focused on managed LinkedIn outreach: targeting, research, messages, replies and meeting booking. The standard plan is 1,500 USD per month, with no per-meeting fee; software and third-party data are separate.","It is not a substitute for a dedicated full-time SDR pod, large call center, sales leader or full multichannel infrastructure. If those are the real requirements, the decision framework should point elsewhere."]}
     ],
     "related":["/services/outsourced-sdr/","/guides/outsourced-sdr-cost/","/compare/outsourced-sdr-vs-in-house-sdr/"]
   },
@@ -335,11 +335,11 @@
   },
   {
     "path":"/research/2026-b2b-outbound-pricing-benchmark/",
-    "title":"2026 B2B Outbound Pricing Benchmark: 39 Public Offers",
-    "description":"Compare 39 provider-published B2B outbound, appointment-setting and outsourced-SDR price points with scope, billing unit, output definition and source.",
-    "eyebrow":"Original research · Checked July 24, 2026",
+    "title":"2026 Outbound Pricing Benchmark: July Data & October Review",
+    "description":"Inspect 39 historical outbound price points and an October recheck of 12 provider sources. See changed prices, scope, currencies and unresolved evidence.",
+    "eyebrow":"Original research · July snapshot + October 15 source recheck",
     "h1":"2026 B2B outbound pricing benchmark",
-    "answer":"This benchmark records 39 currently displayed price points from 12 outbound providers in USD, EUR and GBP. Prices run from $150 per month for one AI email account to a published $12,000–$15,000 monthly managed LinkedIn tier—but those offers are not equivalent. The table preserves the billing unit, service model, channels, output definition, commitment and source so buyers can compare scope before comparing price.",
+    "answer":"This page preserves 39 provider-published price points collected on July 24, 2026 as a historical snapshot. A separate October 15 recheck of the same 12 providers records changed prices, current quotes, inaccessible sources and unresolved currencies. Use the October status before relying on a July price; neither dataset is a market average or a performance ranking.",
     "sections":[
       {
         "heading":"What the published prices actually show",
@@ -379,12 +379,12 @@
       },
       {
         "heading":"For writers and editors",
-        "body":["The publication chart, social preview and machine-readable source file are available below. The approved summary is: Beespoke reviewed 39 currently listed B2B outbound price points from 12 providers, preserved each native currency, recorded what the price included and linked every row to its provider-controlled source.","For a deadline-specific comment, email Noah with the publication, question and response deadline. Answers will distinguish observed data from interpretation and stay within what the evidence supports."],
+        "body":["The July 24 snapshot contains 39 B2B outbound price points from 12 providers, with original currencies, scope and source links. It describes prices observed on that date, not current quotes. The October 15 supplement records what could and could not be reconfirmed.","For a deadline-specific comment, email Noah with the publication, question and response deadline. Answers will distinguish observed data from interpretation and stay within what the evidence supports."],
         "links":[{"label":"Download publication chart (SVG)","href":"/assets/research/2026-outbound-pricing-benchmark-chart.svg"},{"label":"Download social preview (PNG)","href":"/assets/social/2026-pricing-benchmark-og.png"},{"label":"Download source data (JSON)","href":"/data/outbound-pricing-benchmark-2026.json"},{"label":"Request founder comment","href":"mailto:noah@outbound-lead-generation.com?subject=2026%20outbound%20pricing%20benchmark%20media%20request"}]
       },
       {
         "heading":"Machine-readable evidence record",
-        "body":["The downloadable JSON is the canonical row-level record behind this article. Every entry keeps the provider, offer name, public price, billing unit, delivery model, channels, published output, commitment, source URL, and whether the row is Beespoke's own offer.","The article and dataset share the same retrieval date and do not convert currencies or present a blended market average. Researchers should cite the source URL and checked date because provider-controlled prices can change after publication."],
+        "body":["The downloadable JSON is the canonical row-level record behind this article. Every entry keeps the provider, offer name, public price, billing unit, delivery model, channels, published output, commitment, source URL, and whether the row is Beespoke's own offer.","The historical JSON and chart retain the July 24 retrieval date. The October supplement has its own checked date and verification status. Cite the relevant file, source URL and date; a page update does not refresh every historical row."],
         "links":[{"label":"Open the canonical JSON dataset","href":"/data/outbound-pricing-benchmark-2026.json"},{"label":"Review the evidence and corrections policy","href":"/editorial-policy/"}],
         "callout":"Evidence classification: sourced from provider-controlled pages, manually normalized by Beespoke, descriptive rather than an audited industry census."
       },
@@ -819,7 +819,7 @@
     "path":"/guides/best-outsourced-sdr-companies/",
     "title":"Best Outsourced SDR Companies: A Transparent 2026 Shortlist",
     "description":"A transparent buyer's shortlist of outsourced SDR companies, with operating-model categories, selection criteria, source links and no sponsored rankings.",
-    "eyebrow":"Independent buyer guide · Checked August 2026",
+    "eyebrow":"Transparent buyer guide · Provider pages reviewed October 15, 2026",
     "h1":"Best outsourced SDR companies: shortlist by operating model, not hype",
     "answer":"There is no universal best outsourced SDR company. The right provider depends on whether you need enterprise SDR capacity, a focused founder-led campaign, phone-heavy appointment setting, LinkedIn specialization or a multichannel team. This guide groups established providers by their publicly described model, links to first-party sources and gives buyers a repeatable way to validate scope, people, qualification, ownership and cost. Inclusion is not an endorsement, ranking or claim of performance.",
     "sections":[

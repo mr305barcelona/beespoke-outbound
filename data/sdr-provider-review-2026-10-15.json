@@ -1,0 +1,78 @@
+{
+  "title": "Outsourced SDR provider positioning review",
+  "checkedOn": "2026-10-15",
+  "publisher": "Beespoke Outbound Lead Generation",
+  "methodology": "Manual Browserbase review of linked first-party pages. Positioning is advertised scope, not independent performance validation or guaranteed staffing. Unpaid, unranked inclusion; publisher sells a competing LinkedIn service.",
+  "providers": [
+    {
+      "provider": "memoryBlue",
+      "source": "https://memoryblue.com/",
+      "checkedOn": "2026-10-15",
+      "positioning": "Embedded SDR, ADR and AE services",
+      "publisherOffer": false
+    },
+    {
+      "provider": "SalesRoads",
+      "source": "https://salesroads.com/",
+      "checkedOn": "2026-10-15",
+      "positioning": "Dedicated SDR appointment setting",
+      "publisherOffer": false
+    },
+    {
+      "provider": "Martal Group",
+      "source": "https://martalgroup.com/",
+      "checkedOn": "2026-10-15",
+      "positioning": "B2B sales outsourcing: email, LinkedIn and calling",
+      "publisherOffer": false
+    },
+    {
+      "provider": "CIENCE",
+      "source": "https://www.cience.com/",
+      "checkedOn": "2026-10-15",
+      "positioning": "SDR appointment setting: calling, email and LinkedIn",
+      "publisherOffer": false
+    },
+    {
+      "provider": "Belkins",
+      "source": "https://belkins.io/",
+      "checkedOn": "2026-10-15",
+      "positioning": "Multichannel appointment setting",
+      "publisherOffer": false
+    },
+    {
+      "provider": "Leadium",
+      "source": "https://www.leadium.com/",
+      "checkedOn": "2026-10-15",
+      "positioning": "Outbound and inbound appointment setting",
+      "publisherOffer": false
+    },
+    {
+      "provider": "SalesHive",
+      "source": "https://saleshive.com/",
+      "checkedOn": "2026-10-15",
+      "positioning": "US-based SDR cold calling and email",
+      "publisherOffer": false
+    },
+    {
+      "provider": "Callbox",
+      "source": "https://www.callboxinc.com/",
+      "checkedOn": "2026-10-15",
+      "positioning": "Global multichannel B2B lead generation",
+      "publisherOffer": false
+    },
+    {
+      "provider": "Cleverly",
+      "source": "https://www.cleverly.co/",
+      "checkedOn": "2026-10-15",
+      "positioning": "LinkedIn, cold email and cold calling services",
+      "publisherOffer": false
+    },
+    {
+      "provider": "Beespoke",
+      "source": "https://outbound-lead-generation.com/pricing/",
+      "checkedOn": "2026-10-15",
+      "positioning": "Founder-led LinkedIn campaign; 1,500 USD/month + tools/data",
+      "publisherOffer": true
+    }
+  ]
+}

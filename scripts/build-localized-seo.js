@@ -35,6 +35,7 @@ const workshopDictionaries = require('../data/inbound-workshop').dictionaries;
 const optimizationSprint = require('../data/seo-optimization-sprint');
 const softwareComparison = require('../data/software-comparison');
 const localeGrowth = require('../data/locale-growth-20261015');
+const broadGrowth = require('../data/broad-seo-20261015');
 const queryGrowthPages = new Set([
   "/services/outbound-lead-generation/",
   "/guides/outbound-lead-generation-cost/",
@@ -532,7 +533,7 @@ for (const [locale] of Object.entries(locales)) {
       if (inboundLocalized[other.path]) addCopyMappings(other, inboundLocalized[other.path], pageDictionary);
     }
     if (inboundPages.has(page.path) && inboundLocalized[page.path]) addCopyMappings(page, inboundLocalized[page.path], pageDictionary);
-    Object.assign(pageDictionary, optimizationSprint.dictionaries[locale]);
+    Object.assign(pageDictionary, optimizationSprint.dictionaries[locale], broadGrowth.dictionaries[locale]);
     for (const [en, translated] of Object.entries(softwareComparison.dictionaries[locale])) {
       pageDictionary[en] = translated;
       pageDictionary[escapeHtml(en)] = translated;

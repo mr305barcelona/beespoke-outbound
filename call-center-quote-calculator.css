@@ -1,0 +1,11 @@
+[data-quote-model-calculator] .quote-currency {display:grid;gap:8px;max-width:360px;margin:0 0 20px;font-weight:700}
+[data-quote-model-calculator] select {width:100%;min-height:44px;padding:10px;border:1px solid #ccd5df;border-radius:9px;background:#fff;color:#152438;font:inherit}
+[data-quote-model-calculator] .comparison-models {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+[data-quote-model-calculator] fieldset {min-width:0;margin:0;padding:18px;border:1px solid #dce3e9;border-radius:14px}
+[data-quote-model-calculator] legend {padding:0 8px;font-weight:800}
+[data-quote-model-calculator] .calculator-grid {grid-template-columns:1fr}
+[data-quote-model-calculator] .calculator-results {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+[data-quote-model-calculator] .calculator-error {color:#9b2424;font-weight:700}
+[data-quote-model-calculator] input[aria-invalid=true] {border:2px solid #b53232}
+[data-quote-model-calculator] :is(input,select):focus-visible {outline:3px solid #c47b04;outline-offset:3px}
+@media(max-width:650px){[data-quote-model-calculator] .comparison-models {grid-template-columns:1fr}}

@@ -9,7 +9,8 @@ const softwareComparison = require('../data/software-comparison');
 softwareComparison.apply(pages);
 const localeGrowth = require('../data/locale-growth-20261015');
 const trafficGrowth = require('../data/traffic-growth-20261015');
-const reviewedDate=(route,fallback)=>trafficGrowth.lastModifiedFor(route,localeGrowth.lastModifiedFor(route,fallback));
+const broadGrowth = require('../data/broad-seo-20261015');
+const reviewedDate=(route,fallback)=>broadGrowth.lastModifiedFor(route,trafficGrowth.lastModifiedFor(route,localeGrowth.lastModifiedFor(route,fallback)));
 const copy = require("../data/seo-query-growth-copy.json");
 const targets = ["/services/outbound-lead-generation/", "/guides/outbound-lead-generation-cost/"];
 const updatedDates = new Map([
@@ -81,7 +82,7 @@ const translated = (value, locale) => softwareComparison.dictionaries[locale][va
 for (const url of rankingLeveragePaths) {
   const page = pages.find((candidate) => candidate.path === url);
   const english = fs.readFileSync(path.join(root, url, "index.html"), "utf8");
-  const englishConfig=trafficGrowth.english[url];
+  const englishConfig=url===broadGrowth.call?broadGrowth.callCopy.en:trafficGrowth.english[url];
   assert(english.includes(`<title>${escape(englishConfig?.title || page.title)}</title>`), `${url}: optimized English title missing`);
   assert(english.includes(`content="${escape(englishConfig?.description || page.description)}"`), `${url}: optimized English description missing`);
   assert(english.includes(reviewedDate(url,updatedDates.get(url))), `${url}: ranking-leverage update date missing`);
@@ -90,10 +91,10 @@ for (const url of rankingLeveragePaths) {
     const html = fs.readFileSync(file, "utf8");
     assert.equal(typeof translated(page.title, locale), "string", `${url}: ${locale} title translation missing`);
     assert.equal(typeof translated(page.description, locale), "string", `${url}: ${locale} description translation missing`);
-    const route=`/${locale}${url}`, localConfig=localeGrowth.pages[route];
+    const route=`/${locale}${url}`, localConfig=url===broadGrowth.call?broadGrowth.callCopy[locale]:localeGrowth.pages[route];
     assert(html.includes(`<title>${escape(localConfig?.title || translated(page.title, locale))}</title>`), `${file}: optimized localized title missing`);
     assert(html.includes(`content="${escape(localConfig?.description || translated(page.description, locale))}"`), `${file}: optimized localized description missing`);
-    assert(html.includes(localeGrowth.lastModifiedFor(route,updatedDates.get(url))), `${file}: localized ranking-leverage date missing`);
+    assert(html.includes(reviewedDate(route,updatedDates.get(url))), `${file}: localized ranking-leverage date missing`);
   }
 }
 
