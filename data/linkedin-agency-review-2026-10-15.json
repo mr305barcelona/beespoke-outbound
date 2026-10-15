@@ -1,0 +1,15 @@
+{
+  "title": "LinkedIn lead generation agency source review",
+  "checkedOn": "2026-10-15",
+  "publisher": "Beespoke Outbound Lead Generation",
+  "methodology": "Manual Browserbase review of provider-controlled pages. Summaries describe advertised scope, not independently verified performance. Unpaid, unranked inclusion; publisher sells a competing service. Displayed dollar prices without a confirmed currency code are not treated as USD or used for a price ranking.",
+  "providers": [
+    {"provider":"Beespoke","source":"https://outbound-lead-generation.com/pricing/","scope":"Founder-led managed LinkedIn campaign: targeting, research, messaging, replies and meeting booking.","price":"1,500 USD/month; no per-meeting fee; tools and third-party data extra.","currency":"USD","publisherOffer":true},
+    {"provider":"Cleverly","source":"https://www.cleverly.co/","scope":"LinkedIn, cold-email and cold-calling services; confirm the selected package and delivery team.","price":"LinkedIn starting price $397/month confirmed in same-day pricing review; exact currency code and old tier matrix not confirmed.","currency":null,"pricingSource":"https://www.cleverly.co/linkedin-lead-generation"},
+    {"provider":"Do It Digital","source":"https://doitdigital.agency/services/outbound-lead-generation/","scope":"Managed B2B outbound with LinkedIn as the flagship channel and cold email in support, including reply follow-up and booking.","price":"Page displays Launch from $1,500, Growth from $3,000 and Scale from $6,000 monthly, but says final tier pricing is being confirmed. Obtain written pricing; currency code not confirmed.","currency":null},
+    {"provider":"Lead Cookie","source":"https://leadcookie.com/","scope":"Manual LinkedIn and email outreach, with Core and Boutique campaign models.","price":"Core from $1,500/month; Boutique from $3,700/month. Currency code not confirmed.","currency":null},
+    {"provider":"PluralSales","source":"https://pluralsales.com/","scope":"Context-based LinkedIn outreach, executive communication and GTM systems that can be handed to the client team; email where it adds context.","price":"A numeric quote was not reviewed in this comparison; request current written terms.","currency":null},
+    {"provider":"Prospect Engine","source":"https://prospectengine.com/","scope":"Managed LinkedIn-account outreach and appointment setting with client message approval; a WhatsApp number uses one account slot.","price":"Page displays $499/month for up to ten accounts plus $49 per held meeting; other periods have different upfront terms. Currency code not confirmed. Inspect held-event acceptance, automatic acceptance and dispute rules.","currency":null},
+    {"provider":"SalesBread","source":"https://salesbread.com/","scope":"Personalized LinkedIn and email outreach positioned around qualified leads and appointments.","price":"Numeric service pricing was not reviewed in this comparison; request current written terms. Published lead-volume and money-back claims are provider claims, not validated results.","currency":null}
+  ]
+}

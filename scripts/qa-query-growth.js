@@ -10,7 +10,8 @@ softwareComparison.apply(pages);
 const localeGrowth = require('../data/locale-growth-20261015');
 const trafficGrowth = require('../data/traffic-growth-20261015');
 const broadGrowth = require('../data/broad-seo-20261015');
-const reviewedDate=(route,fallback)=>broadGrowth.lastModifiedFor(route,trafficGrowth.lastModifiedFor(route,localeGrowth.lastModifiedFor(route,fallback)));
+const englishGrowth = require('../data/english-growth-20261015');
+const reviewedDate=(route,fallback)=>englishGrowth.lastModifiedFor(route,broadGrowth.lastModifiedFor(route,trafficGrowth.lastModifiedFor(route,localeGrowth.lastModifiedFor(route,fallback))));
 const copy = require("../data/seo-query-growth-copy.json");
 const targets = ["/services/outbound-lead-generation/", "/guides/outbound-lead-generation-cost/"];
 const updatedDates = new Map([
@@ -82,7 +83,7 @@ const translated = (value, locale) => softwareComparison.dictionaries[locale][va
 for (const url of rankingLeveragePaths) {
   const page = pages.find((candidate) => candidate.path === url);
   const english = fs.readFileSync(path.join(root, url, "index.html"), "utf8");
-  const englishConfig=url===broadGrowth.call?broadGrowth.callCopy.en:trafficGrowth.english[url];
+  const englishConfig=englishGrowth.config[url] || (url===broadGrowth.call?broadGrowth.callCopy.en:trafficGrowth.english[url]);
   assert(english.includes(`<title>${escape(englishConfig?.title || page.title)}</title>`), `${url}: optimized English title missing`);
   assert(english.includes(`content="${escape(englishConfig?.description || page.description)}"`), `${url}: optimized English description missing`);
   assert(english.includes(reviewedDate(url,updatedDates.get(url))), `${url}: ranking-leverage update date missing`);
