@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Meeting booked | Beespoke Outbound</title>
-  <meta name="description" content="Your conversation with Beespoke has been scheduled.">
+  <title>Booking details | Beespoke Outbound</title>
+  <meta name="description" content="Check your Calendly invitation for the confirmed meeting time and details.">
   <meta name="robots" content="noindex,follow">
   <link rel="canonical" href="https://outbound-lead-generation.com/booking-confirmed/">
   <link rel="icon" type="image/png" sizes="96x96" href="/favicon.png">
@@ -41,14 +41,14 @@
   <div class="booking-shell">
     <nav class="booking-nav" aria-label="Booking confirmation">
       <a class="booking-brand" href="/"><span>B</span>Beespoke Outbound</a>
-      <small data-booking-status>Meeting confirmed</small>
+      <small data-booking-status>Booking details</small>
     </nav>
     <main class="booking-main">
       <section class="booking-card" aria-labelledby="booking-title">
-        <div class="booking-mark" aria-hidden="true">✓</div>
-        <p class="booking-eyebrow" data-booking-eyebrow>You're booked</p>
-        <h1 id="booking-title" data-booking-heading>Your conversation with Beespoke is scheduled.</h1>
-        <p class="booking-copy" data-booking-copy>Calendly will send the calendar invitation and meeting details to the email address you provided.</p>
+        <div class="booking-mark" aria-hidden="true">→</div>
+        <p class="booking-eyebrow" data-booking-eyebrow>Next steps</p>
+        <h1 id="booking-title" data-booking-heading>Look for your Calendly confirmation.</h1>
+        <p class="booking-copy" data-booking-copy>After a completed booking, Calendly sends the invitation and meeting details by email. Check that invitation for confirmation; visiting this page alone does not reserve a time.</p>
         <p class="booking-next" data-booking-next>Bring your offer, target buyer and current pipeline. We will use the call to examine fit, constraints and the smallest sensible next step.</p>
         <div class="booking-actions">
           <a class="primary" data-booking-home href="/">Return to Beespoke</a>
@@ -61,10 +61,10 @@
   <script>
     (() => {
       const messages = {
-        en: { status:"Meeting confirmed", eyebrow:"You're booked", heading:"Your conversation with Beespoke is scheduled.", copy:"Calendly will send the calendar invitation and meeting details to the email address you provided.", next:"Bring your offer, target buyer and current pipeline. We will use the call to examine fit, constraints and the smallest sensible next step.", home:"Return to Beespoke", pricing:"Review pricing", root:"/" },
-        es: { status:"Reunión confirmada", eyebrow:"Reserva completada", heading:"Tu conversación con Beespoke está programada.", copy:"Calendly enviará la invitación y los datos de la reunión a la dirección de email que has indicado.", next:"Trae tu oferta, tu comprador objetivo y tu pipeline actual. Usaremos la llamada para analizar el encaje, las limitaciones y el siguiente paso más sensato.", home:"Volver a Beespoke", pricing:"Ver precios", root:"/es/" },
-        ca: { status:"Reunió confirmada", eyebrow:"Reserva completada", heading:"La teva conversa amb Beespoke està programada.", copy:"Calendly enviarà la invitació i les dades de la reunió a l'adreça electrònica que has indicat.", next:"Porta la teva oferta, el comprador objectiu i el pipeline actual. Farem servir la trucada per analitzar l'encaix, les limitacions i el següent pas més sensat.", home:"Tornar a Beespoke", pricing:"Veure preus", root:"/ca/" },
-        fr: { status:"Rendez-vous confirmé", eyebrow:"Réservation effectuée", heading:"Votre conversation avec Beespoke est programmée.", copy:"Calendly enverra l'invitation et les informations de connexion à l'adresse e-mail que vous avez indiquée.", next:"Préparez votre offre, votre acheteur cible et votre pipeline actuel. Nous utiliserons l'appel pour examiner l'adéquation, les contraintes et la prochaine étape la plus pertinente.", home:"Retourner sur Beespoke", pricing:"Voir les tarifs", root:"/fr/" }
+        en: { status:"Booking details", eyebrow:"Next steps", heading:"Look for your Calendly confirmation.", copy:"After a completed booking, Calendly sends the invitation and meeting details by email. Check that invitation for confirmation; visiting this page alone does not reserve a time.", next:"Bring your offer, target buyer and current pipeline. We will use the call to examine fit, constraints and the smallest sensible next step.", home:"Return to Beespoke", pricing:"Review pricing", root:"/" },
+        es: { status:"Detalles de la reserva", eyebrow:"Siguientes pasos", heading:"Busca la confirmación de Calendly.", copy:"Al completar una reserva, Calendly envía la invitación y los datos por email. Comprueba esa invitación; visitar esta página no reserva un horario.", next:"Trae tu oferta, tu comprador objetivo y tu pipeline actual. Usaremos la llamada para analizar el encaje, las limitaciones y el siguiente paso más sensato.", home:"Volver a Beespoke", pricing:"Ver precios", root:"/es/" },
+        ca: { status:"Detalls de la reserva", eyebrow:"Passos següents", heading:"Busca la confirmació de Calendly.", copy:"En completar una reserva, Calendly envia la invitació i les dades per correu electrònic. Comprova aquesta invitació; visitar aquesta pàgina no reserva cap horari.", next:"Porta la teva oferta, el comprador objectiu i el pipeline actual. Farem servir la trucada per analitzar l'encaix, les limitacions i el següent pas més sensat.", home:"Tornar a Beespoke", pricing:"Veure preus", root:"/ca/" },
+        fr: { status:"Détails de réservation", eyebrow:"Prochaines étapes", heading:"Consultez votre confirmation Calendly.", copy:"Après une réservation complète, Calendly envoie l’invitation et les informations par e-mail. Vérifiez cette invitation ; consulter cette page ne réserve aucun créneau.", next:"Préparez votre offre, votre acheteur cible et votre pipeline actuel. Nous utiliserons l'appel pour examiner l'adéquation, les contraintes et la prochaine étape la plus pertinente.", home:"Retourner sur Beespoke", pricing:"Voir les tarifs", root:"/fr/" }
       };
       let preferred = "";
       try { preferred = localStorage.getItem("beespoke-language-choice") || ""; } catch {}

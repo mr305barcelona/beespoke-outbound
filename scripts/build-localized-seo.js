@@ -33,6 +33,7 @@ const pricingTranslationOverrides = require(path.join(root, "data", "seo-pricing
 const queryGrowthCopy = require(path.join(root, "data", "seo-query-growth-copy.json"));
 const workshopDictionaries = require('../data/inbound-workshop').dictionaries;
 const optimizationSprint = require('../data/seo-optimization-sprint');
+const softwareComparison = require('../data/software-comparison');
 const queryGrowthPages = new Set([
   "/services/outbound-lead-generation/",
   "/guides/outbound-lead-generation-cost/",
@@ -531,6 +532,10 @@ for (const [locale] of Object.entries(locales)) {
     }
     if (inboundPages.has(page.path) && inboundLocalized[page.path]) addCopyMappings(page, inboundLocalized[page.path], pageDictionary);
     Object.assign(pageDictionary, optimizationSprint.dictionaries[locale]);
+    for (const [en, translated] of Object.entries(softwareComparison.dictionaries[locale])) {
+      pageDictionary[en] = translated;
+      pageDictionary[escapeHtml(en)] = translated;
+    }
     fs.writeFileSync(output, localizeHtml(source, page, locale, pageDictionary));
   }
   // SEO-only releases must never silently regenerate an unapproved homepage.

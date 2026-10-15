@@ -5,6 +5,8 @@ const root = path.resolve(__dirname, "..");
 const pages = require("../data/seo-pages.json");
 const sprint = require('../data/seo-optimization-sprint');
 sprint.apply(pages);
+const softwareComparison = require('../data/software-comparison');
+softwareComparison.apply(pages);
 const copy = require("../data/seo-query-growth-copy.json");
 const targets = ["/services/outbound-lead-generation/", "/guides/outbound-lead-generation-cost/"];
 const updatedDates = new Map([
@@ -30,6 +32,7 @@ const rankingLeveragePaths = [
 for (const url of new Set([...Object.keys(sprint.sections), ...Object.keys(sprint.linkPlans)])) {
   if (updatedDates.has(url)) updatedDates.set(url, '2026-10-09');
 }
+updatedDates.set(softwareComparison.pagePath, '2026-10-15');
 const escape = (text) => text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 assert.equal(new Set(copy.map(row => row[0])).size, copy.length, "Duplicate translation key");
 for (const row of copy) {
@@ -69,7 +72,7 @@ assert.equal((4000 + 500) / 15, 300);
 assert(example.callout.includes("undefined, not zero"), "Guard the zero-meeting denominator");
 
 const localeIndex = { es: 1, ca: 2, fr: 3 };
-const translated = (value, locale) => sprint.dictionaries[locale][value] || copy.find((row) => row[0] === value)?.[localeIndex[locale]];
+const translated = (value, locale) => softwareComparison.dictionaries[locale][value] || sprint.dictionaries[locale][value] || copy.find((row) => row[0] === value)?.[localeIndex[locale]];
 for (const url of rankingLeveragePaths) {
   const page = pages.find((candidate) => candidate.path === url);
   const english = fs.readFileSync(path.join(root, url, "index.html"), "utf8");

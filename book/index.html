@@ -37,11 +37,12 @@
     .booking-points li:before{content:"✓";width:24px;height:24px;border-radius:8px;background:#2e8580;display:grid;place-items:center;font-weight:900}
     .booking-calendar{padding:clamp(16px,3vw,34px);background:#fff;min-width:0}
     #calendly-embed{min-width:280px;height:760px;overflow:hidden;border-radius:20px;background:var(--wash)}
-    .booking-fallback{min-height:620px;padding:30px;display:grid;place-items:center;text-align:center;color:var(--ink);font-weight:800}
+    .booking-fallback{margin:0 0 14px;padding:12px 16px;display:block;text-align:center;color:var(--ink);font-weight:800;border:1px solid var(--line);border-radius:12px;background:var(--wash)}
+    .booking-fallback:focus-visible{outline:3px solid var(--teal);outline-offset:3px}
     .booking-success{margin:0 0 16px;padding:14px 18px;border:1px solid #91cec4;background:#eaf8f5;border-radius:14px;color:#145e5c;font-weight:800}
     .booking-footer{padding:25px 0;color:var(--muted);font-size:.88rem;border-top:1px solid rgba(83,97,122,.16)}
     @media(max-width:860px){.booking-main{grid-template-columns:1fr}.booking-intro{padding:42px 30px}.booking-points{grid-template-columns:1fr 1fr}.booking-calendar{padding:14px}#calendly-embed{height:760px}}
-    @media(max-width:560px){.booking-nav,.booking-footer,.booking-main{width:min(100% - 24px,1240px)}.booking-nav a:last-child{display:none}.booking-main{margin-top:4px;border-radius:25px}.booking-intro{padding:34px 24px}.booking-points{grid-template-columns:1fr}.booking-calendar{padding:8px}#calendly-embed{height:730px;border-radius:18px}}
+    @media(max-width:560px){.booking-nav,.booking-footer,.booking-main{width:min(100% - 24px,1240px)}.booking-nav a:last-child{display:none}.booking-main{margin-top:4px;border-radius:25px}.booking-intro{padding:22px 24px}.booking-eyebrow{margin-bottom:10px}h1{font-size:2.2rem;margin-bottom:14px}.booking-copy{font-size:1rem;line-height:1.5}.booking-points{display:none}.booking-calendar{padding:10px}#calendly-embed{height:730px;border-radius:18px}}
   </style>
 </head>
 <body>
@@ -63,6 +64,7 @@
       </section>
       <section class="booking-calendar" aria-label="Choose a meeting time">
         <p class="booking-success" data-booking-success hidden role="status" aria-live="polite">Your meeting is confirmed. Calendly will email the invitation and meeting details.</p>
+        <a class="booking-fallback" data-calendly-fallback data-calendly-direct="true" href="https://calendly.com/noahlevybuilds/30min" rel="noopener">Open the calendar directly in Calendly</a>
         <div id="calendly-embed" data-fallback-label="Open the booking calendar"></div>
       </section>
     </main>
@@ -80,7 +82,8 @@
       const detected=(navigator.languages||[navigator.language||"en"]).map(value=>String(value).toLowerCase().split("-")[0]).find(value=>messages[value]);
       const language=messages[preferred]?preferred:detected||"en";const copy=messages[language];document.documentElement.lang=language;
       document.querySelector("[data-booking-eyebrow]").textContent=copy.eyebrow;document.querySelector("[data-booking-heading]").textContent=copy.heading;document.querySelector("[data-booking-copy]").textContent=copy.copy;document.querySelector("[data-booking-point-one]").textContent=copy.one;document.querySelector("[data-booking-point-two]").textContent=copy.two;document.querySelector("[data-booking-point-three]").textContent=copy.three;
-      const home=document.querySelector("[data-booking-home]");const back=document.querySelector("[data-booking-back]");const success=document.querySelector("[data-booking-success]");const embed=document.querySelector("#calendly-embed");home.href=copy.root;back.href=copy.root;back.textContent=`← ${copy.back}`;success.textContent=copy.success;embed.dataset.fallbackLabel=copy.fallback;
+      const directLabels={en:"Open the calendar directly in Calendly",es:"Abrir el calendario directamente en Calendly",ca:"Obrir el calendari directament a Calendly",fr:"Ouvrir le calendrier directement dans Calendly"};
+      const home=document.querySelector("[data-booking-home]");const back=document.querySelector("[data-booking-back]");const success=document.querySelector("[data-booking-success]");const embed=document.querySelector("#calendly-embed");home.href=copy.root;back.href=copy.root;back.textContent=`← ${copy.back}`;success.textContent=copy.success;embed.dataset.fallbackLabel=copy.fallback;document.querySelector("[data-calendly-fallback]").textContent=directLabels[language];
     })();
   </script>
 </body>

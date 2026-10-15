@@ -28,7 +28,7 @@ const shared = fs.readFileSync(path.join(root, "seo.js"), "utf8");
 for (const eventName of ["calendly_click", "whatsapp_click", "contact_intent", "generate_lead"]) {
   if (!shared.includes(`track("${eventName}"`)) failures.push(`seo.js: missing ${eventName}`);
 }
-for (const token of ["beespoke-session-attribution-v1", "beespoke-first-touch-attribution-v1", "beespoke-booking-journey-v1", "beespoke-booking-confirmed-v1", "firstTouchTtl", "first_touch_source", "first_touch_landing_page", "session_touch_source", "session_touch_landing_page", "ai-assistant", "enrichCalendlyLink", "utm_content", "/book/", "/booking-confirmed/", "calendly.event_scheduled", "calendly_embed_message"]) {
+for (const token of ["beespoke-session-attribution-v1", "beespoke-first-touch-attribution-v1", "beespoke-booking-journey-v1", "beespoke-booking-confirmed-v2", "firstTouchTtl", "first_touch_source", "first_touch_landing_page", "session_touch_source", "session_touch_landing_page", "ai-assistant", "enrichCalendlyLink", "utm_content", "/book/", "/booking-confirmed/", "calendly.event_scheduled", "calendly_embed_message", "booking_event_id", "event.source !== frame.contentWindow"]) {
   if (!shared.includes(token)) failures.push(`seo.js: missing attribution control ${token}`);
 }
 for (const source of ["grok.com", "x.ai", "chat.openai.com"]) if (!shared.includes(source)) failures.push(`seo.js: missing AI referrer ${source}`);

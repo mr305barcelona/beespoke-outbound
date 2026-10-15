@@ -4,7 +4,9 @@
   const attributionKey = "beespoke-session-attribution-v1";
   const firstTouchKey = "beespoke-first-touch-attribution-v1";
   const bookingJourneyKey = "beespoke-booking-journey-v1";
-  const bookingConfirmedKey = "beespoke-booking-confirmed-v1";
+  const bookingConfirmedKey = "beespoke-booking-confirmed-v2";
+  const confirmedBookingTtl = 30 * 24 * 60 * 60 * 1000;
+  const confirmedThisPage = new Set();
   const bookingJourneyTtl = 24 * 60 * 60 * 1000;
   const firstTouchTtl = 90 * 24 * 60 * 60 * 1000;
   const limited = (value, length = 100) => String(value || "").slice(0, length);
@@ -83,14 +85,14 @@
   const currentAttribution = buildAttribution();
   const storedFirstTouch = readFirstTouchAttribution();
   const isDirect = (value) => !value || value.source === "(direct)";
-  const firstTouchAttribution = bookingJourney?.firstTouchAttribution
+  const firstTouchAttribution = bookingJourney?.firstTouchAttribution || bookingJourney?.attribution
     || ((!storedFirstTouch || (isDirect(storedFirstTouch) && !isDirect(currentAttribution))) ? currentAttribution : storedFirstTouch);
   if (!storedFirstTouch || (isDirect(storedFirstTouch) && !isDirect(currentAttribution))) {
     try { localStorage.setItem(firstTouchKey, JSON.stringify({ createdAt: Date.now(), attribution: firstTouchAttribution })); }
     catch { /* Session attribution still works when persistent storage is unavailable. */ }
   }
   const attribution = readStoredAttribution()
-    || (location.pathname === "/booking-confirmed/" ? bookingJourney?.attribution : null)
+    || (["/book/", "/booking-confirmed/"].includes(location.pathname) ? bookingJourney?.attribution : null)
     || currentAttribution;
   try { sessionStorage.setItem(attributionKey, JSON.stringify(attribution)); }
   catch { /* Tracking still works when storage is unavailable. */ }
@@ -144,7 +146,7 @@
       const destinationUrl = enrichCalendlyLink(link, ctaLocation);
       const parameters = { cta_text: link.textContent.trim(), cta_location: ctaLocation, link_url: destinationUrl };
       try { localStorage.setItem(bookingJourneyKey, JSON.stringify({ createdAt: Date.now(), attribution, firstTouchAttribution, calendlyUrl: destinationUrl, ctaLocation })); }
-      catch { /* The confirmation page can still validate the Calendly referrer. */ }
+      catch { /* The embedded success message can still identify a booking. */ }
       track("calendly_click", parameters);
       track("contact_intent", { ...parameters, contact_method: "calendly", intent_stage: "calendar_opened" });
       // Keep the direct Calendly URL as the no-JavaScript fallback, but route
@@ -167,32 +169,10 @@
     }
     if (link.classList.contains("secondary") || link.classList.contains("related-card")) track("internal_cta_click", { link_text: link.textContent.trim(), destination_path: href });
   });
-  if (location.pathname === "/booking-confirmed/") {
-    let referrerHost = "";
-    try { referrerHost = document.referrer ? new URL(document.referrer).hostname.replace(/^www\./, "") : ""; }
-    catch { referrerHost = ""; }
-    const cameFromCalendly = hostMatches(referrerHost, "calendly.com") || hostMatches(referrerHost, "calendly.app");
-    let alreadyConfirmed = false;
-    try { alreadyConfirmed = sessionStorage.getItem(bookingConfirmedKey) === "true"; }
-    catch { alreadyConfirmed = false; }
-    if (!alreadyConfirmed && (bookingJourney || cameFromCalendly)) {
-      track("generate_lead", {
-        contact_method: "calendly",
-        intent_stage: "booking_confirmed",
-        booking_status: "scheduled",
-        calendly_referrer_verified: cameFromCalendly
-      });
-      track("contact_intent", {
-        contact_method: "calendly",
-        intent_stage: "booking_confirmed",
-        booking_status: "scheduled"
-      });
-      try {
-        sessionStorage.setItem(bookingConfirmedKey, "true");
-        localStorage.removeItem(bookingJourneyKey);
-      } catch { /* Event delivery does not depend on storage cleanup. */ }
-    }
-  }
+  // A confirmation-page visit, referrer, URL parameter or earlier calendar click
+  // cannot establish that Calendly created a booking. Only the embedded success
+  // message below can create this browser's generate_lead event. Direct Calendly
+  // bookings remain in Calendly's ledger until server-side reconciliation exists.
   const bookingEmbed = document.querySelector("#calendly-embed");
   if (bookingEmbed) {
     const storedJourney = readBookingJourney();
@@ -216,46 +196,62 @@
       calendlyUrl = url.toString();
     } catch { /* The base URL above remains a valid fallback. */ }
 
-    if (window.Calendly?.initInlineWidget) {
-      window.Calendly.initInlineWidget({ url: calendlyUrl, parentElement: bookingEmbed });
-    } else {
-      const fallback = document.createElement("a");
-      fallback.href = calendlyUrl;
-      fallback.textContent = bookingEmbed.dataset.fallbackLabel || "Open the booking calendar";
-      fallback.className = "booking-fallback";
-      fallback.dataset.calendlyDirect = "true";
-      fallback.rel = "noopener";
-      bookingEmbed.replaceChildren(fallback);
-    }
-
+    // Always offer the standalone calendar, including when an embed renders but
+    // its date/time controls stop responding. Reuse exactly the attributed URL.
+    const fallback = document.querySelector("[data-calendly-fallback]");
+    if (fallback) fallback.href = calendlyUrl;
     addEventListener("message", (event) => {
-      let trustedCalendlyOrigin = false;
-      try { trustedCalendlyOrigin = hostMatches(new URL(event.origin).hostname.replace(/^www\./, ""), "calendly.com"); }
-      catch { trustedCalendlyOrigin = false; }
-      if (!trustedCalendlyOrigin || event.data?.event !== "calendly.event_scheduled") return;
-      let alreadyConfirmed = false;
-      try { alreadyConfirmed = sessionStorage.getItem(bookingConfirmedKey) === "true"; }
-      catch { alreadyConfirmed = false; }
-      if (alreadyConfirmed) return;
+      const frame = bookingEmbed.querySelector("iframe");
+      if (event.origin !== "https://calendly.com" || !frame || event.source !== frame.contentWindow || event.data?.event !== "calendly.event_scheduled") return;
+      let bookingId;
+      try {
+        const uri = new URL(event.data.payload.event.uri);
+        const match = uri.pathname.match(/^\/scheduled_events\/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})$/i);
+        if (uri.origin !== "https://api.calendly.com" || !match) return;
+        bookingId = match[1].toLowerCase();
+      } catch { return; }
+      const success = document.querySelector("[data-booking-success]");
+      if (success) success.hidden = false;
+      // Deduplicate this event, not every booking made during the session.
+      // Keep only opaque IDs and timestamps, never invitee names/emails or URIs.
+      let confirmed = [];
+      for (const storageName of ["localStorage", "sessionStorage"]) {
+        try {
+          const storage = window[storageName];
+          const records = JSON.parse(storage.getItem(bookingConfirmedKey) || "[]");
+          if (Array.isArray(records)) confirmed.push(...records.filter(record => typeof record?.id === "string" && Number.isFinite(record.at) && Date.now() - record.at < confirmedBookingTtl));
+        } catch { /* Memory still deduplicates repeated messages on this page. */ }
+      }
+      if (confirmedThisPage.has(bookingId) || confirmed.some(record => record.id === bookingId)) return;
+      confirmedThisPage.add(bookingId);
+      confirmed.push({id:bookingId,at:Date.now()});
+      for (const storageName of ["localStorage", "sessionStorage"]) {
+        try { window[storageName].setItem(bookingConfirmedKey, JSON.stringify(confirmed.slice(-100))); }
+        catch { /* Event delivery does not depend on persistent storage. */ }
+      }
       track("generate_lead", {
         contact_method: "calendly",
         intent_stage: "booking_confirmed",
         booking_status: "scheduled",
-        booking_event_source: "calendly_embed_message"
+        booking_event_source: "calendly_embed_message",
+        booking_event_id: bookingId
       });
       track("contact_intent", {
         contact_method: "calendly",
         intent_stage: "booking_confirmed",
         booking_status: "scheduled",
-        booking_event_source: "calendly_embed_message"
+        booking_event_source: "calendly_embed_message",
+        booking_event_id: bookingId
       });
-      const success = document.querySelector("[data-booking-success]");
-      if (success) success.hidden = false;
       try {
-        sessionStorage.setItem(bookingConfirmedKey, "true");
         localStorage.removeItem(bookingJourneyKey);
       } catch { /* Event delivery does not depend on storage cleanup. */ }
     });
+    // Install the listener before initialization so a fast widget cannot race it.
+    if (window.Calendly?.initInlineWidget) {
+      try { window.Calendly.initInlineWidget({ url: calendlyUrl, parentElement: bookingEmbed }); }
+      catch { bookingEmbed.hidden = true; }
+    } else bookingEmbed.hidden = true;
   }
   const reached = new Set();
   addEventListener("scroll", () => {
@@ -298,8 +294,11 @@
       switcherButton?.setAttribute("aria-expanded", "false");
     }
   });
-  if (locale === "en" && !sessionStorage.getItem("beespoke-language-suggestion-dismissed")) {
-    const savedLocale = localStorage.getItem("beespoke-language-choice");
+  let languageSuggestionDismissed = false;
+  let savedLocale = null;
+  try { languageSuggestionDismissed = sessionStorage.getItem("beespoke-language-suggestion-dismissed"); savedLocale = localStorage.getItem("beespoke-language-choice"); }
+  catch { /* Language suggestions are optional when browser storage is blocked. */ }
+  if (locale === "en" && !languageSuggestionDismissed) {
     const preferred = (supportedLocales.includes(savedLocale) ? [savedLocale] : (navigator.languages || [navigator.language || "en"]))
       .map((value) => value.toLowerCase().split("-")[0])
       .find((value) => supportedLocales.includes(value) && value !== "en");
