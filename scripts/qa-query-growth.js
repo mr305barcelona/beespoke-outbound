@@ -8,6 +8,8 @@ sprint.apply(pages);
 const softwareComparison = require('../data/software-comparison');
 softwareComparison.apply(pages);
 const localeGrowth = require('../data/locale-growth-20261015');
+const trafficGrowth = require('../data/traffic-growth-20261015');
+const reviewedDate=(route,fallback)=>trafficGrowth.lastModifiedFor(route,localeGrowth.lastModifiedFor(route,fallback));
 const copy = require("../data/seo-query-growth-copy.json");
 const targets = ["/services/outbound-lead-generation/", "/guides/outbound-lead-generation-cost/"];
 const updatedDates = new Map([
@@ -49,7 +51,7 @@ for (const url of targets) {
     const graph = JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])["@graph"];
     const route=locale==='en'?url:`/${locale}${url}`;
     const localConfig=localeGrowth.pages[route];
-    assert(html.includes(localeGrowth.lastModifiedFor(route,updatedDates.get(url))), `${file}: updated date missing`);
+    assert(html.includes(reviewedDate(route,updatedDates.get(url))), `${file}: updated date missing`);
     assert(html.includes('class="reading-progress"') || html.includes('id="reading-progress"'), `${file}: reading progress missing`);
     assert(!html.includes('name="robots" content="noindex'), `${file}: unexpected noindex`);
     if (locale !== "en") {
@@ -79,9 +81,10 @@ const translated = (value, locale) => softwareComparison.dictionaries[locale][va
 for (const url of rankingLeveragePaths) {
   const page = pages.find((candidate) => candidate.path === url);
   const english = fs.readFileSync(path.join(root, url, "index.html"), "utf8");
-  assert(english.includes(`<title>${escape(page.title)}</title>`), `${url}: optimized English title missing`);
-  assert(english.includes(`content="${escape(page.description)}"`), `${url}: optimized English description missing`);
-  assert(english.includes(updatedDates.get(url)), `${url}: ranking-leverage update date missing`);
+  const englishConfig=trafficGrowth.english[url];
+  assert(english.includes(`<title>${escape(englishConfig?.title || page.title)}</title>`), `${url}: optimized English title missing`);
+  assert(english.includes(`content="${escape(englishConfig?.description || page.description)}"`), `${url}: optimized English description missing`);
+  assert(english.includes(reviewedDate(url,updatedDates.get(url))), `${url}: ranking-leverage update date missing`);
   for (const locale of Object.keys(localeIndex)) {
     const file = path.join(root, locale, url, "index.html");
     const html = fs.readFileSync(file, "utf8");

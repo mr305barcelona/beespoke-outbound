@@ -178,8 +178,8 @@ function section(s) {
   const refs=s.links?`<div class="text-links">${s.links.map(([label,href])=>`<a href="${esc(href)}">${esc(label)} →</a>`).join('')}</div>`:'';
   return `<section id="${s.id}"${s.kind==='fit'?' class="original-tool checklist-tool"':''}><h2>${esc(s.heading)}</h2>${paragraphs}${list}${table}${s.callout?`<aside class="callout">${esc(s.callout)}</aside>`:''}${refs}</section>`;
 }
-function apply(html,pathname,locale) {
-  const route=`/${locale}${pathname}`;const config=pages[route];const link=links[route];
+function apply(html,pathname,locale,customPages=pages,customLinks=links) {
+  const route=`/${locale}${pathname}`;const config=customPages[route];const link=customLinks[route];
   if(!config&&!link)return html;
   if(config) {
     html=html.replace(/(<div class="breadcrumbs">[\s\S]*?<span>\/\s*<\/span><span>)[^<]*(<\/span><\/div>)/,(_,a,b)=>a+esc(config.eyebrow)+b);
