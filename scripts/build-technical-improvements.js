@@ -89,11 +89,8 @@ for (const file of files) {
       return `<picture class="optimized-picture${founder?' founder-picture':''}"><source type="image/webp" srcset="${srcset}" sizes="${founder?'118px':'160px'}">${img}</picture>`;
     });
   }
-  // Keep the 64 commercial-topic pages at their published bytes while their
-  // separate accessibility batch remains blocked by publication review.
-  const heldLanguageName = /pricing|cost|pay-per-meeting|best-|benchmark|agency-vs-software|b2b-seo-vs-ppc/.test(file);
   // The visible language code must be part of the control's spoken name.
-  if (!heldLanguageName) html = html.replace(/(<div class="language-switcher"><button[^>]*aria-label=")([^"]*)("[^>]*>)([A-Z]{2})(<\/button>)/g,
+  html = html.replace(/(<div class="language-switcher"><button[^>]*aria-label=")([^"]*)("[^>]*>)([A-Z]{2})(<\/button>)/g,
     (all, before, label, middle, code, after) => `${before}${code} — ${label.replace(/^[A-Z]{2}\s*—\s*/, '').replace(/\s*\([A-Z]{2}\)$/, '')}${middle}${code}${after}`);
   if (!html.includes('href="/technical.css')) html = html.replace('</head>', '<link rel="stylesheet" href="/technical.css"></head>');
   html = html.replace(/\b(src|href)="(\/[^"?#]+\.(?:js|css))(?:\?[^"#]*)?"/g,(all,attr,url)=>{
