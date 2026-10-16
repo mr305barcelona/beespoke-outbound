@@ -68,6 +68,14 @@ for (const file of files) {
     return `<header class="site-header">${inner}</header>`;
   });
   if (['index.html','es/index.html','ca/index.html','fr/index.html'].includes(file)) {
+    // Keep visible branding and contact wording in the accessible name.
+    const navName = {en:'Primary navigation',es:'Navegación principal',ca:'Navegació principal',fr:'Navigation principale'}[lang];
+    const homeName = {en:'home',es:'inicio',ca:'inici',fr:'accueil'}[lang];
+    html = html.replace(/(<nav class="nav" aria-label=")[^"]*(")/, `$1${navName}$2`);
+    html = html.replace(/(<a class="brand"[^>]*aria-label=")[^"]*(")/, `$1B Beespoke Outbound, ${homeName}$2`);
+    html = html.replace(/<div class="brand-mark"(?: aria-hidden="true")?>/, '<div class="brand-mark" aria-hidden="true">');
+    html = html.replace(/(\.whatsapp-float\s*\{[^}]*\bcolor:)\s*#ffffff/i, '$1 #101828');
+    html = html.replace(/(<a\b[^>]*class="whatsapp-float"[^>]*?)\s+aria-label="[^"]*"/g, '$1');
     if (!html.includes('class="resource-directory-link"')) html = html.replace(/(<h2 id="resources-title">[\s\S]*?<\/h2>)/, `$1<p class="resource-directory-link"><a href="${hub}">${esc(c.browse)} →</a></p>`);
     // Regenerate source candidates from the current manifest on every build.
     html = html.replace(/<picture class="optimized-picture[^>]*><source[^>]*>(<img[^>]*>)<\/picture>/g, '$1');
@@ -81,6 +89,12 @@ for (const file of files) {
       return `<picture class="optimized-picture${founder?' founder-picture':''}"><source type="image/webp" srcset="${srcset}" sizes="${founder?'118px':'160px'}">${img}</picture>`;
     });
   }
+  // Keep the 64 commercial-topic pages at their published bytes while their
+  // separate accessibility batch remains blocked by publication review.
+  const heldLanguageName = /pricing|cost|pay-per-meeting|best-|benchmark|agency-vs-software|b2b-seo-vs-ppc/.test(file);
+  // The visible language code must be part of the control's spoken name.
+  if (!heldLanguageName) html = html.replace(/(<div class="language-switcher"><button[^>]*aria-label=")([^"]*)("[^>]*>)([A-Z]{2})(<\/button>)/g,
+    (all, before, label, middle, code, after) => `${before}${code} — ${label.replace(/^[A-Z]{2}\s*—\s*/, '').replace(/\s*\([A-Z]{2}\)$/, '')}${middle}${code}${after}`);
   if (!html.includes('href="/technical.css')) html = html.replace('</head>', '<link rel="stylesheet" href="/technical.css"></head>');
   html = html.replace(/\b(src|href)="(\/[^"?#]+\.(?:js|css))(?:\?[^"#]*)?"/g,(all,attr,url)=>{
     const f = url.slice(1);
