@@ -294,10 +294,29 @@
     switcherButton?.setAttribute("aria-expanded", "false");
     if (returnFocus) switcherButton?.focus();
   };
+  const fitLanguageSwitcher = () => {
+    if (!switcherPanel || !switcher.classList.contains("is-open")) return;
+    switcherPanel.style.removeProperty("--language-panel-shift");
+    switcherPanel.style.removeProperty("--language-panel-shift-x");
+    const viewportHeight = window.innerHeight;
+    const panel = switcherPanel.getBoundingClientRect();
+    const panelTop = panel.top;
+    // Keep a usable row visible even when native zoom leaves a short viewport.
+    const shift = Math.min(0, Math.max(8, viewportHeight - 72) - panelTop);
+    const shiftX = Math.max(8 - panel.left, Math.min(0, window.innerWidth - panel.right - 8));
+    switcherPanel.style.setProperty("--language-panel-shift", `${shift}px`);
+    switcherPanel.style.setProperty("--language-panel-shift-x", `${shiftX}px`);
+    switcherPanel.style.setProperty("--language-panel-space", `${Math.max(0, viewportHeight - panelTop - shift - 8)}px`);
+    if (switcherPanel.contains(document.activeElement)) {
+      document.activeElement.scrollIntoView({block: "nearest", inline: "nearest"});
+    }
+  };
   switcherButton?.addEventListener("click", () => {
     const open = switcher.classList.toggle("is-open");
     switcherButton.setAttribute("aria-expanded", String(open));
+    if (open) fitLanguageSwitcher();
   });
+  addEventListener("resize", fitLanguageSwitcher);
   document.addEventListener("click", (event) => {
     if (switcher?.classList.contains("is-open") && !switcher.contains(event.target)) {
       closeLanguageSwitcher();

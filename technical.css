@@ -9,6 +9,12 @@ input:focus-visible, select:focus-visible, textarea:focus-visible,
 }
 .language-switcher > button { min-width: 44px; min-height: 44px; }
 .language-switcher > div a { display: flex; align-items: center; min-height: 44px; }
+.language-switcher > div {
+  max-height: var(--language-panel-space, calc(100dvh - 88px));
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  transform: translate(var(--language-panel-shift-x, 0px), var(--language-panel-shift, 0px));
+}
 .site-header nav { gap: 18px; min-height: 73px; }
 .site-header nav > .language-switcher {
   position: relative; top: auto; right: auto; flex: none;
