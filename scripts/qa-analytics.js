@@ -1,3 +1,4 @@
+const assetUrl = require("./asset-version");
 const fs = require("fs");
 const path = require("path");
 
@@ -19,7 +20,7 @@ const fileFor = (pagePath) => pagePath === "/"
 
 for (const pagePath of publicPaths) {
   const html = fs.readFileSync(fileFor(pagePath), "utf8");
-  if ((html.match(/src="\/seo\.js\?v=20260924"/g) || []).length !== 1) failures.push(`${pagePath}: expected one versioned shared analytics script`);
+  if (html.split(`src="${assetUrl("/seo.js")}"`).length - 1 !== 1) failures.push(`${pagePath}: expected one versioned shared analytics script`);
   if ((html.match(/G-KDXYW9W2BB/g) || []).length !== 2) failures.push(`${pagePath}: GA4 measurement ID missing or duplicated`);
   if (/gtag\(['"]event['"]/.test(html)) failures.push(`${pagePath}: inline event tracking can duplicate shared tracking`);
 }
@@ -36,13 +37,13 @@ if (shared.indexOf("enrichCalendlyLink(link, ctaLocation)") > shared.indexOf('tr
 if ((shared.match(/document\.addEventListener\("click"/g) || []).length > 3) failures.push("seo.js: unexpected duplicate delegated click handlers");
 
 const confirmation = fs.readFileSync(path.join(root, "booking-confirmed", "index.html"), "utf8");
-for (const token of ['name="robots" content="noindex,follow"', 'src="/seo.js?v=20260924"', 'data-booking-heading', 'data-booking-copy']) {
+for (const token of ['name="robots" content="noindex,follow"', `src="${assetUrl("/seo.js")}"`, 'data-booking-heading', 'data-booking-copy']) {
   if (!confirmation.includes(token)) failures.push(`booking-confirmed: missing ${token}`);
 }
 const sitemap = fs.readFileSync(path.join(root, "sitemap.xml"), "utf8");
 if (sitemap.includes("/booking-confirmed/")) failures.push("booking-confirmed: confirmation page must not be in the sitemap");
 const booking = fs.readFileSync(path.join(root, "book", "index.html"), "utf8");
-for (const token of ['name="robots" content="noindex,follow"', 'id="calendly-embed"', 'assets.calendly.com/assets/external/widget.js', 'src="/seo.js?v=20260924"', 'data-booking-success']) {
+for (const token of ['name="robots" content="noindex,follow"', 'id="calendly-embed"', 'assets.calendly.com/assets/external/widget.js', `src="${assetUrl("/seo.js")}"`, 'data-booking-success']) {
   if (!booking.includes(token)) failures.push(`book: missing ${token}`);
 }
 if (sitemap.includes("/book/")) failures.push("book: booking utility page must not be in the sitemap");

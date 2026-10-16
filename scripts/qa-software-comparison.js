@@ -1,3 +1,4 @@
+const assetUrl = require("./asset-version");
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
@@ -17,7 +18,7 @@ for(const locale of ['en','es','ca','fr']) {
   const html = fs.readFileSync(file,'utf8');
   assert.equal((html.match(/data-comparison-input=/g)||[]).length,10);
   assert.equal((html.match(/data-comparison-output=/g)||[]).length,5);
-  assert(html.includes('/software-agency-calculator.js?v=20261015'));
+  assert(html.includes(assetUrl("/software-agency-calculator.js")));
   assert(html.includes('href="#software-agency-calculator"'));
   assert(html.includes(locale==='en'?copy.copy.heading:copy.dictionaries[locale][copy.copy.heading]));
   if(locale!=='en')for(const value of Object.values(copy.copy))assert(!html.includes(`>${value}<`),`${locale}: untranslated copy ${value}`);

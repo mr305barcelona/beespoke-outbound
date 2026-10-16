@@ -284,15 +284,33 @@
   }[locale] || null;
   const switcher = document.querySelector(".language-switcher");
   const switcherButton = switcher?.querySelector("button");
+  const switcherPanel = switcherButton?.nextElementSibling;
+  if (switcherPanel) {
+    switcherPanel.id ||= "language-options";
+    switcherButton.setAttribute("aria-controls", switcherPanel.id);
+  }
+  const closeLanguageSwitcher = (returnFocus = false) => {
+    switcher?.classList.remove("is-open");
+    switcherButton?.setAttribute("aria-expanded", "false");
+    if (returnFocus) switcherButton?.focus();
+  };
   switcherButton?.addEventListener("click", () => {
     const open = switcher.classList.toggle("is-open");
     switcherButton.setAttribute("aria-expanded", String(open));
   });
   document.addEventListener("click", (event) => {
     if (switcher?.classList.contains("is-open") && !switcher.contains(event.target)) {
-      switcher.classList.remove("is-open");
-      switcherButton?.setAttribute("aria-expanded", "false");
+      closeLanguageSwitcher();
     }
+  });
+  switcher?.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && switcher.classList.contains("is-open")) {
+      event.preventDefault();
+      closeLanguageSwitcher(true);
+    }
+  });
+  switcher?.addEventListener("focusout", (event) => {
+    if (!switcher.contains(event.relatedTarget)) closeLanguageSwitcher();
   });
   let languageSuggestionDismissed = false;
   let savedLocale = null;
@@ -316,6 +334,12 @@
     }
   }
   const progress = document.querySelector(".reading-progress span");
+  const siteHeader = document.querySelector(".site-header");
+  if (siteHeader && typeof ResizeObserver === "function") {
+    new ResizeObserver(() => {
+      document.documentElement.style.setProperty("--header", `${Math.ceil(siteHeader.getBoundingClientRect().height)}px`);
+    }).observe(siteHeader);
+  }
   const railProgress = document.querySelector(".toc-progress span");
   const sections = [...document.querySelectorAll(".article-grid article > section[id]")];
   const tocLinks = [...document.querySelectorAll(".toc a, .mobile-toc a")];
@@ -369,6 +393,56 @@
 
   document.addEventListener("click", (event) => {
     if (mobileToc?.open && !mobileToc.contains(event.target)) mobileToc.open = false;
+  });
+  mobileToc?.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && mobileToc.open) {
+      event.preventDefault();
+      mobileToc.open = false;
+      mobileToc.querySelector("summary")?.focus();
+    }
+  });
+
+  // Make horizontal tables discoverable and keyboard-scrollable only while
+  // they overflow. No cell values or tool inputs are read or sent anywhere.
+  const tableHints = {
+    en: "Scroll sideways to read every column. Use the left and right arrow keys when the table is focused.",
+    es: "Desplázate hacia los lados para ver todas las columnas. Con la tabla enfocada, usa las flechas izquierda y derecha.",
+    ca: "Desplaça't cap als costats per veure totes les columnes. Amb la taula enfocada, fes servir les fletxes esquerra i dreta.",
+    fr: "Faites défiler le tableau horizontalement pour lire toutes les colonnes. Lorsqu’il a le focus, utilisez les flèches gauche et droite."
+  };
+  document.querySelectorAll(".table-wrap").forEach((wrapper, index) => {
+    const hint = document.createElement("p");
+    hint.className = "table-keyboard-hint";
+    hint.id = `table-keyboard-hint-${index + 1}`;
+    hint.textContent = tableHints[locale] || tableHints.en;
+    hint.hidden = true;
+    wrapper.before(hint);
+    const existingTabindex = wrapper.getAttribute("tabindex");
+    const existingDescription = wrapper.getAttribute("aria-describedby");
+    const existingRole = wrapper.getAttribute("role");
+    const existingLabelledBy = wrapper.getAttribute("aria-labelledby");
+    const caption = wrapper.querySelector("caption");
+    if (caption) caption.id ||= `scrollable-table-caption-${index + 1}`;
+    const updateTableAccess = () => {
+      const overflow = wrapper.scrollWidth > wrapper.clientWidth + 1;
+      hint.hidden = !overflow;
+      if (overflow) {
+        wrapper.tabIndex = 0;
+        wrapper.setAttribute("aria-describedby", [existingDescription, hint.id].filter(Boolean).join(" "));
+        if (!existingRole) wrapper.setAttribute("role", "region");
+        if (caption && !existingLabelledBy && !wrapper.hasAttribute("aria-label")) wrapper.setAttribute("aria-labelledby", caption.id);
+      } else {
+        if (existingTabindex === null) wrapper.removeAttribute("tabindex");
+        else wrapper.setAttribute("tabindex", existingTabindex);
+        if (existingDescription === null) wrapper.removeAttribute("aria-describedby");
+        else wrapper.setAttribute("aria-describedby", existingDescription);
+        if (existingRole === null) wrapper.removeAttribute("role");
+        if (existingLabelledBy === null) wrapper.removeAttribute("aria-labelledby");
+      }
+    };
+    updateTableAccess();
+    if (typeof ResizeObserver === "function") new ResizeObserver(updateTableAccess).observe(wrapper);
+    else addEventListener("resize", updateTableAccess, { passive: true });
   });
 
   const money = new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 });
