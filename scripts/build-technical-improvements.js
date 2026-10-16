@@ -15,6 +15,8 @@ const copy = {
   fr: { name: 'Ressources', home: 'Accueil', language: 'Langue', title: 'Guides et ressources pour préparer une campagne', description: 'Retrouvez les guides de prospection B2B, les pages sectorielles et les fiches privées de préparation de campagne.', intro: 'Choisissez un sujet, puis ouvrez le guide ou la fiche. Utilisez les fiches pour organiser vos propres preuves et décisions.', browse: 'Voir tous les guides et fiches de préparation', sections: ['Fiches de préparation','Services et canaux','Approches et rôles commerciaux','Exécution des campagnes','Préparation par secteur','Cas publiés','Méthodologie éditoriale'], planning: ['Grille d’évaluation de l’ICP','Brief de campagne outbound'], jump: 'Catégories de ressources' }
 };
 const basePages = JSON.parse(read('data/seo-pages.json'));
+const exampleRoutes = require('./build-research-example')();
+const exampleCopy = JSON.parse(read('data/research-handoff-example.json'));
 // Commercial copy is held for permission. This directory only points to
 // existing non-pricing guides; it makes no new offer or competitor claims.
 const held = /pricing|cost|pay-per-meeting|best-|benchmark|agency-vs-software|b2b-seo-vs-ppc/;
@@ -27,7 +29,7 @@ const hubRoutes = locales.map(l => `${prefix(l)}/resources/`);
 for (const l of locales) {
   const c = copy[l], route = `${prefix(l)}/resources/`, home = `${prefix(l)}/`;
   const groups = [
-    ['planning', ['/downloads/beespoke-icp-scorecard/','/downloads/beespoke-outbound-campaign-brief/'].map((p,i) => ({url:prefix(l)+p,name:c.planning[i]}))],
+    ['planning', [...['/downloads/beespoke-icp-scorecard/','/downloads/beespoke-outbound-campaign-brief/'].map((p,i) => ({url:prefix(l)+p,name:c.planning[i]})), {url:exampleRoutes[locales.indexOf(l)],name:exampleCopy[l].resourceLabel}]],
     ['channels', eligible.filter(p => p.path.startsWith('/services/')).map(p => ({url:prefix(l)+p.path,name:titleFor(l,p)}))],
     ['roles', eligible.filter(p => p.path.startsWith('/compare/')).map(p => ({url:prefix(l)+p.path,name:titleFor(l,p)}))],
     ['execution', eligible.filter(p => p.path.startsWith('/guides/')).map(p => ({url:prefix(l)+p.path,name:titleFor(l,p)}))],
@@ -48,7 +50,10 @@ for (const l of locales) {
 
 const imageVariants = JSON.parse(read('data/site-image-variants.json'));
 let sitemap = read('sitemap.xml');
-for (const r of hubRoutes) if (!sitemap.includes(`<loc>${origin}${r}</loc>`)) sitemap = sitemap.replace('</urlset>', `  <url><loc>${origin}${r}</loc><lastmod>2026-10-15</lastmod></url>\n</urlset>`);
+for (const r of [...hubRoutes,...exampleRoutes]) {
+  if (!sitemap.includes(`<loc>${origin}${r}</loc>`)) sitemap = sitemap.replace('</urlset>', `  <url><loc>${origin}${r}</loc><lastmod>2026-10-16</lastmod></url>\n</urlset>`);
+  if (hubRoutes.includes(r)) sitemap = sitemap.replace(new RegExp(`(<loc>${origin.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}${r}</loc><lastmod>)[^<]+(</lastmod>)`),(all,before,after)=>`${before}2026-10-16${after}`);
+}
 write('sitemap.xml', sitemap);
 const publicRoutes = [...sitemap.matchAll(/<loc>https:\/\/outbound-lead-generation\.com([^<]+)<\/loc>/g)].map(m=>m[1]);
 const extraRoutes = ['/book/','/booking-confirmed/',...locales.flatMap(l=>['/downloads/beespoke-icp-scorecard/','/downloads/beespoke-outbound-campaign-brief/'].map(p=>prefix(l)+p))];
@@ -96,6 +101,25 @@ for (const file of files) {
   html = html.replace(/\b(src|href)="(\/[^"?#]+\.(?:js|css))(?:\?[^"#]*)?"/g,(all,attr,url)=>{
     const f = url.slice(1);
     return fs.existsSync(path.join(root,f)) ? `${attr}="${url}?v=${version(f)}"` : all;
+  });
+  // Page authorship and revision metadata describe the document, not the
+  // service it describes. Keep the existing page ID and all existing values.
+  html = html.replace(/(<script type="application\/ld\+json">)([\s\S]*?)(<\/script>)/g,(all,open,json,close)=>{
+    const data = JSON.parse(json), graph = data['@graph'];
+    if (!Array.isArray(graph)) return all;
+    const index = graph.findIndex(node=>node['@type']==='Service' && (node.author || node.dateModified || node.headline || node.inLanguage));
+    if (index < 0) return all;
+    const original = graph[index], service = {...original};
+    const page = {'@type':'WebPage','@id':original['@id'],url:original.url,name:original.name,description:original.description};
+    for (const key of ['dateModified','author','inLanguage','headline']) {
+      if (Object.hasOwn(original,key)) page[key]=original[key];
+      delete service[key];
+    }
+    service['@id']=original.url+'#service';
+    service.mainEntityOfPage={'@id':page['@id']};
+    page.mainEntity={'@id':service['@id']};
+    graph.splice(index,1,page,service);
+    return open+JSON.stringify(data).replace(/</g,'\\u003c')+close;
   });
   write(file, html);
 }

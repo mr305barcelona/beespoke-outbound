@@ -47,3 +47,4 @@ for (const file of ['index.html','es/index.html','ca/index.html','fr/index.html'
   for (const image of JSON.parse(read('data/site-image-variants.json'))) assert(html.includes(`/${image.output} ${image.width}w`), `${file}: missing current image candidate ${image.output}`);
 }
 console.log(`Technical QA passed: ${routes.length} public URLs, content versions, four resource hubs and smaller image variants.`);
+require('./qa-research-example');
