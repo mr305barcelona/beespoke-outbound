@@ -73,6 +73,9 @@ for (const file of files) {
     return `<header class="site-header">${inner}</header>`;
   });
   if (['index.html','es/index.html','ca/index.html','fr/index.html'].includes(file)) {
+    // CSS property names must stay valid after prose localization.
+    html = html.replace(/(<style\b[^>]*>)([\s\S]*?)(<\/style>)/g,
+      (all, open, css, close) => open + css.replace(/\bobject-(?:encaje|encaix|adéquation)(?=\s*:)/g, 'object-fit') + close);
     // Keep visible branding and contact wording in the accessible name.
     const navName = {en:'Primary navigation',es:'Navegación principal',ca:'Navegació principal',fr:'Navigation principale'}[lang];
     const homeName = {en:'home',es:'inicio',ca:'inici',fr:'accueil'}[lang];
