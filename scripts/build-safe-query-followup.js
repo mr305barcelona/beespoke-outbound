@@ -23,6 +23,7 @@ module.exports = function buildSafeQueryFollowup() {
   fs.writeFileSync(sitemapFile, sitemap.replace(/(<loc>https:\/\/outbound-lead-generation\.com\/es\/industries\/professional-services-lead-generation\/<\/loc><lastmod>)[^<]+(<\/lastmod>)/, (all, before, after) => before + '2026-10-19' + after));
   buildManufacturingResearch();
   repairNeutralUsability();
+  addReadinessPlanningLinks();
 };
 
 function buildManufacturingResearch() {
@@ -225,4 +226,57 @@ function repairNeutralUsability() {
     }
     fs.writeFileSync(file, html);
   }
+}
+
+// Neutral readiness guidance: reuse existing same-language planning resources.
+function addReadinessPlanningLinks() {
+  const copy = {
+    "en": {
+        "prefix": "",
+        "oldDate": "Updated October 9, 2026",
+        "newDate": "Updated October 19, 2026",
+        "html": "To make the readiness signals concrete, record your targeting criteria in the <a href=\"/downloads/beespoke-icp-scorecard/\">blank ICP scorecard</a>. Use the <a href=\"/resources/account-research-handoff-example/\">fictional account-research and handoff example</a> to separate observations, assumptions and agreed next steps."
+    },
+    "es": {
+        "prefix": "es/",
+        "oldDate": "Actualizado el 9 de octubre de 2026",
+        "newDate": "Actualizado el 19 de octubre de 2026",
+        "html": "Para concretar las señales de preparación, anota tus criterios de selección en la <a href=\"/es/downloads/beespoke-icp-scorecard/\">ficha de evaluación del ICP en blanco</a>. Utiliza el <a href=\"/es/resources/account-research-handoff-example/\">ejemplo ficticio de investigación y traspaso a ventas</a> para separar observaciones, hipótesis y próximos pasos acordados."
+    },
+    "ca": {
+        "prefix": "ca/",
+        "oldDate": "Actualitzat el 9 d’octubre de 2026",
+        "newDate": "Actualitzat el 19 d’octubre de 2026",
+        "html": "Per concretar els senyals de preparació, anota els criteris de selecció a la <a href=\"/ca/downloads/beespoke-icp-scorecard/\">fitxa d’avaluació de l’ICP en blanc</a>. Fes servir l’<a href=\"/ca/resources/account-research-handoff-example/\">exemple fictici de recerca i traspàs a vendes</a> per separar observacions, hipòtesis i passos següents acordats."
+    },
+    "fr": {
+        "prefix": "fr/",
+        "oldDate": "Mis à jour le 9 octobre 2026",
+        "newDate": "Mis à jour le 19 octobre 2026",
+        "html": "Pour préciser les critères de préparation, notez vos critères de ciblage dans la <a href=\"/fr/downloads/beespoke-icp-scorecard/\">grille ICP vierge</a>. Utilisez l’<a href=\"/fr/resources/account-research-handoff-example/\">exemple fictif de recherche et de transmission aux ventes</a> pour distinguer les observations, les hypothèses et les prochaines étapes convenues."
+    }
+};
+  const timestamp = "2026-10-19T17:53:39Z";
+  const sitemapFile = path.join(root, 'sitemap.xml');
+  let sitemap = fs.readFileSync(sitemapFile, 'utf8');
+  for (const c of Object.values(copy)) {
+    const relative = c.prefix + 'services/b2b-lead-generation/index.html';
+    const file = path.join(root, relative);
+    let html = fs.readFileSync(file, 'utf8');
+    const paragraph = '<p class="readiness-planning-links">' + c.html + '</p>';
+    const re = /<section class="original-tool checklist-tool" id="b2b-readiness-score">[\s\S]*?<\/section>/;
+    const section = html.match(re)?.[0];
+    if (!section) throw new Error('Expected B2B readiness section: ' + relative);
+    if (!section.includes('class="readiness-planning-links"')) {
+      html = html.replace(section, section.replace('</section>', paragraph + '</section>'));
+    } else if (!section.includes(paragraph)) throw new Error('Existing readiness guidance differs: ' + relative);
+    html = html.replace(c.oldDate, c.newDate);
+    html = html.replace('"dateModified":"2026-10-09T15:00:00+02:00"', '"dateModified":"' + timestamp + '"');
+    fs.writeFileSync(file, html);
+    const url = 'https://outbound-lead-generation.com/' + c.prefix + 'services/b2b-lead-generation/';
+    const entry = sitemap.match(new RegExp('<url><loc>' + url + '</loc><lastmod>[^<]+</lastmod></url>'))?.[0];
+    if (!entry) throw new Error('Expected B2B sitemap entry: ' + relative);
+    sitemap = sitemap.replace(entry, entry.replace(/<lastmod>[^<]+<\/lastmod>/, '<lastmod>2026-10-19</lastmod>'));
+  }
+  fs.writeFileSync(sitemapFile, sitemap);
 }
