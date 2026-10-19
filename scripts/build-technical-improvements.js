@@ -127,3 +127,6 @@ for (const file of files) {
   write(file, html);
 }
 console.log(`Technical build: ${hubRoutes.length} neutral resource hubs; ${files.length} pages with content-derived asset versions. Commercial articles, metadata, schema and existing lastmod dates preserved.`);
+
+// Add the scoped neutral example after generated/localized content is stable.
+require('./build-safe-query-followup')();
