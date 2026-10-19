@@ -12,7 +12,7 @@ module.exports = function buildResearchExample() {
   for(const l of locales) {
     const c=content[l],url=prefix(l)+route,home=prefix(l)+'/',hub=prefix(l)+'/resources/';
     const record=rows=>`<dl class="example-record">${rows.map(([name,value])=>`<div><dt>${esc(name)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl>`;
-    const table=(headers,rows,label)=>`<div class="table-wrap" aria-labelledby="${label}"><table aria-labelledby="${label}"><thead><tr>${headers.map(h=>`<th scope="col">${esc(h)}</th>`).join('')}</tr></thead><tbody>${rows.map(row=>`<tr>${row.map(v=>`<td>${esc(v)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
+    const table=(headers,rows,label)=>`<div class="table-wrap" role="region" aria-labelledby="${label}"><table aria-labelledby="${label}"><thead><tr>${headers.map(h=>`<th scope="col">${esc(h)}</th>`).join('')}</tr></thead><tbody>${rows.map(row=>`<tr>${row.map(v=>`<td>${esc(v)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;
     const sections=[['scenario',c.scenarioTitle],['evidence',c.evidenceTitle],['message',c.messageTitle],['handoff',c.handoffTitle],['counting',c.countingTitle],['use',c.useTitle]];
     const alternates=[...locales,'x-default'].map(x=>`<link rel="alternate" hreflang="${x}" href="${origin}${prefix(x==='x-default'?'en':x)+route}">`).join('');
     const languages=locales.map(x=>`<a href="${prefix(x)+route}" lang="${x}"${x===l?' aria-current="page"':''}>${({en:'English',es:'Español',ca:'Català',fr:'Français'})[x]}</a>`).join('');

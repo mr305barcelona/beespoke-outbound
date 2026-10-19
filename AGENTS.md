@@ -1,0 +1,9 @@
+# Browser QA and user browser state
+
+- Use Browserbase for website, responsive-layout, zoom and account checks. Use the matching approved account profile when authentication is needed. Do not run QA by changing zoom, device emulation or viewport settings in Noah's everyday local Chrome profile.
+- Local Chrome may be used for an explicitly requested browser action, such as repairing a user's affected tab. Confirm the exact tab and its current native UI before changing a setting. Preserve meetings, other tabs, sign-ins and unsaved work. A page keyboard event is not proof that a browser setting changed.
+- For responsive or zoom QA, create a fresh page in a task-owned remote Browserbase session. Validate that the controller endpoint belongs to Browserbase before connecting. Do not attach a temporary controller to local Chrome. Record the initial state, reset temporary emulation in a finally block, verify cleanup, then close only task-created pages and end the owned session.
+- Never mark browser cleanup complete while restoration is unverified. If the Mac locks or another blocker prevents cleanup, disclose the outstanding changed setting immediately and checkpoint it as a priority repair. Do not carry it forward as an ordinary deferred audit item.
+- Before publishing layout changes, inspect Browserbase desktop and narrow-mobile screenshots, check page and asset responses, and verify that navigation, the main heading and contact controls fit. Keep the exact release scope and live validation evidence together.
+- Do not compensate for browser zoom by changing production font sizes, forcing CSS zoom, or disabling users' zoom/accessibility controls.
+- Preserve the existing pricing, competitor/provider, owner-dependent claims and publication boundaries. Local checkpoints are not independent backups or published artifacts.

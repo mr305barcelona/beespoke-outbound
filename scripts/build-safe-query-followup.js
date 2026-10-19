@@ -21,4 +21,23 @@ module.exports = function buildSafeQueryFollowup() {
   const sitemapFile = path.join(root, 'sitemap.xml');
   const sitemap = fs.readFileSync(sitemapFile, 'utf8');
   fs.writeFileSync(sitemapFile, sitemap.replace(/(<loc>https:\/\/outbound-lead-generation\.com\/es\/industries\/professional-services-lead-generation\/<\/loc><lastmod>)[^<]+(<\/lastmod>)/, (all, before, after) => before + '2026-10-19' + after));
+  buildManufacturingResearch();
 };
+
+function buildManufacturingResearch() {
+  const file = path.join(root, 'industries/manufacturing-lead-generation/index.html');
+  let html = fs.readFileSync(file, 'utf8');
+  const id = 'manufacturing-buyer-research-prompts';
+  const section = `<section id="${id}"><h3>Match the manufacturing offer to the buyer question</h3><p>Choose a specific offer before building a manufacturer list. The following illustrative research prompts distinguish component supply, assembly and equipment sales.</p><div class="table-wrap" role="region" tabindex="0" aria-labelledby="manufacturing-research-caption"><table><caption id="manufacturing-research-caption">Illustrative manufacturing account-research prompts</caption><thead><tr><th scope="col">Offer type</th><th scope="col">Details to investigate</th><th scope="col">Buyer-routing question</th></tr></thead><tbody><tr><td>Machined components</td><td>Relevant processes, materials, part families and technical requirements that your team can verify.</td><td>Who can confirm technical compatibility, and who manages supplier qualification?</td></tr><tr><td>Contract assembly</td><td>Assembly steps, expected production pattern, testing needs and handoff requirements.</td><td>Who owns production planning, and who can evaluate quality or testing requirements?</td></tr><tr><td>Industrial equipment</td><td>The application, installed environment, integration constraints and support expectations.</td><td>Who owns the operational problem, and who coordinates the technical evaluation?</td></tr></tbody></table></div><p>Use confirmed capabilities to write inclusion and exclusion rules. Record a source link and date for each public observation; keep unverified specifications and purchasing needs marked as unknown.</p><p>For a capability-led research model, <a href="https://www.nist.gov/mep/supply-chain/supplier-scouting">NIST MEP's U.S. Supplier Scouting process</a> describes matching manufacturers by production and technical capabilities. The prompts above are illustrative outbound planning questions.</p><p>Document the account evidence in the <a href="/resources/account-research-handoff-example/">research and sales-handoff example</a>, then use the <a href="/downloads/beespoke-icp-scorecard/">ICP scorecard</a> to record your own targeting criteria.</p></section>`;
+  if (!html.includes(`id="${id}"`)) {
+    const boundary = /(<\/section>)(<section class="original-tool checklist-tool" id="industry-fit-check">)/;
+    if (html.split(boundary).length !== 4) throw new Error('Expected end of manufacturing targeting section');
+    html = html.replace(boundary, (all, close, next) => section + close + next);
+  }
+  html = html.replace('Updated July 24, 2026', 'Updated October 19, 2026');
+  html = html.replace(/"dateModified":"2026-07-24T09:00:00\+02:00"/g, '"dateModified":"2026-10-19T16:54:59Z"');
+  fs.writeFileSync(file, html);
+  const sitemapFile = path.join(root, 'sitemap.xml');
+  const sitemap = fs.readFileSync(sitemapFile, 'utf8');
+  fs.writeFileSync(sitemapFile, sitemap.replace(/(<loc>https:\/\/outbound-lead-generation\.com\/industries\/manufacturing-lead-generation\/<\/loc><lastmod>)[^<]+(<\/lastmod>)/, (all, before, after) => before + '2026-10-19' + after));
+}
