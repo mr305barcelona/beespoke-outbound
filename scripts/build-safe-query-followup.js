@@ -22,6 +22,7 @@ module.exports = function buildSafeQueryFollowup() {
   const sitemap = fs.readFileSync(sitemapFile, 'utf8');
   fs.writeFileSync(sitemapFile, sitemap.replace(/(<loc>https:\/\/outbound-lead-generation\.com\/es\/industries\/professional-services-lead-generation\/<\/loc><lastmod>)[^<]+(<\/lastmod>)/, (all, before, after) => before + '2026-10-19' + after));
   buildManufacturingResearch();
+  repairNeutralUsability();
 };
 
 function buildManufacturingResearch() {
@@ -40,4 +41,188 @@ function buildManufacturingResearch() {
   const sitemapFile = path.join(root, 'sitemap.xml');
   const sitemap = fs.readFileSync(sitemapFile, 'utf8');
   fs.writeFileSync(sitemapFile, sitemap.replace(/(<loc>https:\/\/outbound-lead-generation\.com\/industries\/manufacturing-lead-generation\/<\/loc><lastmod>)[^<]+(<\/lastmod>)/, (all, before, after) => before + '2026-10-19' + after));
+}
+
+// Scope is explicit: do not extend this list to held pricing/provider pages.
+function repairNeutralUsability() {
+  const files = [
+    "about/noah-levy/index.html",
+    "ai-instructions/index.html",
+    "ca/about/noah-levy/index.html",
+    "ca/ai-instructions/index.html",
+    "ca/case-studies/cybersecurity-linkedin-lead-generation/index.html",
+    "ca/case-studies/media-partnership-outreach/index.html",
+    "ca/compare/lead-generation-agency-vs-in-house-team/index.html",
+    "ca/compare/outbound-agency-vs-freelancer/index.html",
+    "ca/compare/outsourced-sdr-vs-in-house-sdr/index.html",
+    "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html",
+    "ca/compare/sdr-vs-bdr-outsourcing/index.html",
+    "ca/editorial-policy/index.html",
+    "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html",
+    "ca/guides/cold-email-agency/index.html",
+    "ca/guides/how-to-choose-an-outbound-lead-generation-agency/index.html",
+    "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html",
+    "ca/guides/outsourced-sdr-pros-and-cons/index.html",
+    "ca/guides/outsourced-sdr-vs-lead-generation-agency/index.html",
+    "ca/industries/accounting-firm-lead-generation/index.html",
+    "ca/industries/b2b-saas-lead-generation/index.html",
+    "ca/industries/consulting-lead-generation/index.html",
+    "ca/industries/cybersecurity-lead-generation/index.html",
+    "ca/industries/it-services-lead-generation/index.html",
+    "ca/industries/manufacturing-lead-generation/index.html",
+    "ca/industries/marketing-agency-lead-generation/index.html",
+    "ca/industries/professional-services-lead-generation/index.html",
+    "ca/industries/recruitment-agency-lead-generation/index.html",
+    "ca/services/b2b-appointment-setting/index.html",
+    "ca/services/b2b-lead-generation/index.html",
+    "ca/services/b2b-ppc-agency/index.html",
+    "ca/services/b2b-seo-agency/index.html",
+    "ca/services/generative-engine-optimization/index.html",
+    "ca/services/linkedin-lead-generation/index.html",
+    "ca/services/outbound-lead-generation/index.html",
+    "ca/services/outbound-sales-outsourcing/index.html",
+    "ca/services/outsourced-sdr/index.html",
+    "case-studies/cybersecurity-linkedin-lead-generation/index.html",
+    "case-studies/media-partnership-outreach/index.html",
+    "compare/lead-generation-agency-vs-in-house-team/index.html",
+    "compare/outbound-agency-vs-freelancer/index.html",
+    "compare/outsourced-sdr-vs-in-house-sdr/index.html",
+    "compare/sdr-outsourcing-vs-staff-augmentation/index.html",
+    "compare/sdr-vs-bdr-outsourcing/index.html",
+    "editorial-policy/index.html",
+    "es/about/noah-levy/index.html",
+    "es/ai-instructions/index.html",
+    "es/case-studies/cybersecurity-linkedin-lead-generation/index.html",
+    "es/case-studies/media-partnership-outreach/index.html",
+    "es/compare/lead-generation-agency-vs-in-house-team/index.html",
+    "es/compare/outbound-agency-vs-freelancer/index.html",
+    "es/compare/outsourced-sdr-vs-in-house-sdr/index.html",
+    "es/compare/sdr-outsourcing-vs-staff-augmentation/index.html",
+    "es/compare/sdr-vs-bdr-outsourcing/index.html",
+    "es/editorial-policy/index.html",
+    "es/guides/b2b-lead-generation-consultant-vs-agency/index.html",
+    "es/guides/cold-email-agency/index.html",
+    "es/guides/how-to-choose-an-outbound-lead-generation-agency/index.html",
+    "es/guides/how-to-manage-an-outsourced-sdr-team/index.html",
+    "es/guides/outsourced-sdr-pros-and-cons/index.html",
+    "es/guides/outsourced-sdr-vs-lead-generation-agency/index.html",
+    "es/industries/accounting-firm-lead-generation/index.html",
+    "es/industries/b2b-saas-lead-generation/index.html",
+    "es/industries/consulting-lead-generation/index.html",
+    "es/industries/cybersecurity-lead-generation/index.html",
+    "es/industries/it-services-lead-generation/index.html",
+    "es/industries/manufacturing-lead-generation/index.html",
+    "es/industries/marketing-agency-lead-generation/index.html",
+    "es/industries/professional-services-lead-generation/index.html",
+    "es/industries/recruitment-agency-lead-generation/index.html",
+    "es/services/b2b-appointment-setting/index.html",
+    "es/services/b2b-lead-generation/index.html",
+    "es/services/b2b-ppc-agency/index.html",
+    "es/services/b2b-seo-agency/index.html",
+    "es/services/generative-engine-optimization/index.html",
+    "es/services/linkedin-lead-generation/index.html",
+    "es/services/outbound-lead-generation/index.html",
+    "es/services/outbound-sales-outsourcing/index.html",
+    "es/services/outsourced-sdr/index.html",
+    "fr/about/noah-levy/index.html",
+    "fr/ai-instructions/index.html",
+    "fr/case-studies/cybersecurity-linkedin-lead-generation/index.html",
+    "fr/case-studies/media-partnership-outreach/index.html",
+    "fr/compare/lead-generation-agency-vs-in-house-team/index.html",
+    "fr/compare/outbound-agency-vs-freelancer/index.html",
+    "fr/compare/outsourced-sdr-vs-in-house-sdr/index.html",
+    "fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html",
+    "fr/compare/sdr-vs-bdr-outsourcing/index.html",
+    "fr/editorial-policy/index.html",
+    "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html",
+    "fr/guides/cold-email-agency/index.html",
+    "fr/guides/how-to-choose-an-outbound-lead-generation-agency/index.html",
+    "fr/guides/how-to-manage-an-outsourced-sdr-team/index.html",
+    "fr/guides/outsourced-sdr-pros-and-cons/index.html",
+    "fr/industries/accounting-firm-lead-generation/index.html",
+    "fr/industries/b2b-saas-lead-generation/index.html",
+    "fr/industries/consulting-lead-generation/index.html",
+    "fr/industries/cybersecurity-lead-generation/index.html",
+    "fr/industries/it-services-lead-generation/index.html",
+    "fr/industries/manufacturing-lead-generation/index.html",
+    "fr/industries/marketing-agency-lead-generation/index.html",
+    "fr/industries/professional-services-lead-generation/index.html",
+    "fr/industries/recruitment-agency-lead-generation/index.html",
+    "fr/services/b2b-appointment-setting/index.html",
+    "fr/services/b2b-lead-generation/index.html",
+    "fr/services/b2b-ppc-agency/index.html",
+    "fr/services/b2b-seo-agency/index.html",
+    "fr/services/generative-engine-optimization/index.html",
+    "fr/services/linkedin-lead-generation/index.html",
+    "fr/services/outbound-sales-outsourcing/index.html",
+    "fr/services/outsourced-sdr/index.html",
+    "guides/b2b-lead-generation-consultant-vs-agency/index.html",
+    "guides/cold-email-agency/index.html",
+    "guides/how-to-choose-an-outbound-lead-generation-agency/index.html",
+    "guides/how-to-manage-an-outsourced-sdr-team/index.html",
+    "guides/outsourced-sdr-pros-and-cons/index.html",
+    "guides/outsourced-sdr-vs-lead-generation-agency/index.html",
+    "industries/accounting-firm-lead-generation/index.html",
+    "industries/b2b-saas-lead-generation/index.html",
+    "industries/consulting-lead-generation/index.html",
+    "industries/cybersecurity-lead-generation/index.html",
+    "industries/it-services-lead-generation/index.html",
+    "industries/manufacturing-lead-generation/index.html",
+    "industries/marketing-agency-lead-generation/index.html",
+    "industries/professional-services-lead-generation/index.html",
+    "industries/recruitment-agency-lead-generation/index.html",
+    "services/b2b-appointment-setting/index.html",
+    "services/b2b-lead-generation/index.html",
+    "services/b2b-ppc-agency/index.html",
+    "services/b2b-seo-agency/index.html",
+    "services/generative-engine-optimization/index.html",
+    "services/linkedin-lead-generation/index.html",
+    "services/outbound-lead-generation/index.html",
+    "services/outbound-sales-outsourcing/index.html"
+];
+  const grammarFiles = new Set([
+    "fr/industries/accounting-firm-lead-generation/index.html",
+    "fr/industries/b2b-saas-lead-generation/index.html",
+    "fr/industries/consulting-lead-generation/index.html",
+    "fr/industries/cybersecurity-lead-generation/index.html",
+    "fr/industries/it-services-lead-generation/index.html",
+    "fr/industries/manufacturing-lead-generation/index.html",
+    "fr/industries/marketing-agency-lead-generation/index.html",
+    "fr/industries/professional-services-lead-generation/index.html",
+    "fr/industries/recruitment-agency-lead-generation/index.html",
+    "fr/services/b2b-appointment-setting/index.html",
+    "fr/services/b2b-lead-generation/index.html",
+    "fr/services/linkedin-lead-generation/index.html",
+    "fr/services/outbound-sales-outsourcing/index.html",
+    "fr/services/outsourced-sdr/index.html"
+]);
+  const style = "<style id=\"neutral-tool-label-contrast\">.tool-heading>span{color:#143d59}</style>";
+  const grammar = [
+    [
+        "<h2>Vous ne savez pas si le prospection outbound correspond à votre offre ?</h2>",
+        "<h2>Vous ne savez pas si la prospection outbound correspond à votre offre ?</h2>"
+    ],
+    [
+        "<h2>Vérifiez si les prospection outbound ciblée correspondent à votre marché</h2>",
+        "<h2>Vérifiez si la prospection outbound ciblée correspond à votre marché</h2>"
+    ]
+];
+  for (const relative of files) {
+    const file = path.join(root, relative);
+    let html = fs.readFileSync(file, 'utf8');
+    // Reuse the existing dark brand color; sizes, backgrounds and user zoom stay intact.
+    if (!html.includes('id="neutral-tool-label-contrast"')) {
+      if (html.split('</head>').length !== 2) throw new Error('Expected one head: ' + relative);
+      html = html.replace('</head>', style + '</head>');
+    }
+    if (grammarFiles.has(relative)) {
+      // Two visible CTA headings only: feminine singular agreement, same meaning.
+      for (const [before, after] of grammar) {
+        const count = html.split(before).length - 1;
+        if (count === 1) html = html.replace(before, after);
+        else if (count !== 0 || html.split(after).length !== 2) throw new Error('Unexpected CTA heading: ' + relative);
+      }
+    }
+    fs.writeFileSync(file, html);
+  }
 }
