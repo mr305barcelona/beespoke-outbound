@@ -1,4 +1,20 @@
 (() => {
+  const internalTrafficKey = 'beespoke-internal-traffic-v1';
+  const internalTrafficExcluded = () => {
+    try { return localStorage.getItem(internalTrafficKey) === 'exclude'; }
+    catch { return window.beespokeInternalTraffic === true; }
+  };
+  const refreshInternalTraffic = () => {
+    const excluded = internalTrafficExcluded();
+    window.beespokeInternalTraffic = excluded;
+    try {
+      const tag = document.querySelector('script[src*="www.googletagmanager.com/gtag/js"]');
+      const id = tag && new URL(tag.src, location.href).searchParams.get('id');
+      if (/^G-[A-Z0-9]+$/.test(id || '')) window['ga-disable-' + id] = excluded;
+    } catch { /* A missing tag does not change normal page behavior. */ }
+  };
+  refreshInternalTraffic();
+  addEventListener('storage', event => { if (event.key === internalTrafficKey) refreshInternalTraffic(); });
   const supportedLocales = ["en", "es", "ca", "fr"];
   const locale = document.documentElement.lang || "en";
   const attributionKey = "beespoke-session-attribution-v1";
@@ -110,6 +126,7 @@
     session_touch_landing_page: attribution.landingPage
   };
   const track = (eventName, parameters = {}) => {
+    if (internalTrafficExcluded()) return;
     const payload = { page_path: location.pathname, page_language: locale, ...attributionParameters, ...parameters };
     if (typeof window.gtag === "function") window.gtag("event", eventName, payload);
     else { window.dataLayer = window.dataLayer || []; window.dataLayer.push({ event: eventName, ...payload }); }

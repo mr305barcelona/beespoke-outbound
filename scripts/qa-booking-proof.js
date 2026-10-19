@@ -62,3 +62,15 @@ assert.equal(reloaded.leads().length,0,'A reload/new tab must not recount a know
 const blocked = page({blocked:true});blocked.emit(firstId);blocked.emit(firstId);blocked.emit(secondId);
 assert.equal(blocked.leads().length,2,'Storage restrictions must retain in-page deduplication and distinct bookings');
 console.log('Booking proof QA passed: no false page conversions, trusted frame + event identity, event-level dedupe, storage restrictions and attributed fallback.');
+
+// Excluding an explicit work browser must not break the confirmation UI.
+const optedOutStorage = storage({'beespoke-internal-traffic-v1':'exclude'});
+const optedOut = page({persistent:optedOutStorage});
+optedOut.emit(firstId);
+assert.equal(optedOut.leads().length,0,'An explicitly excluded work browser must not queue conversion events');
+assert.equal(optedOut.success.hidden,false,'Excluding analytics must preserve real booking UI behavior');
+optedOutStorage.removeItem('beespoke-internal-traffic-v1');
+const resumed = page({persistent:optedOutStorage});
+resumed.emit(secondId);
+assert.equal(resumed.leads().length,1,'A fresh page after restoring measurement must retain normal booking tracking');
+console.log('Internal browser exclusion QA passed: no tracking for opted-out work browser; booking UI and restored measurement remain functional.');

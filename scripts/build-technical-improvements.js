@@ -2,6 +2,8 @@ const fs = require('node:fs');
 const path = require('node:path');
 const crypto = require('node:crypto');
 const root = path.resolve(__dirname, '..');
+const internalTraffic = require('./build-internal-traffic');
+internalTraffic.build();
 const origin = 'https://outbound-lead-generation.com';
 const locales = ['en', 'es', 'ca', 'fr'];
 const prefix = l => l === 'en' ? '' : `/${l}`;
@@ -124,6 +126,7 @@ for (const file of files) {
     graph.splice(index,1,page,service);
     return open+JSON.stringify(data).replace(/</g,'\\u003c')+close;
   });
+  html = internalTraffic.applyGuard(html);
   write(file, html);
 }
 console.log(`Technical build: ${hubRoutes.length} neutral resource hubs; ${files.length} pages with content-derived asset versions. Commercial articles, metadata, schema and existing lastmod dates preserved.`);
