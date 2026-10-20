@@ -38,3 +38,17 @@ for(const row of alignment){
  assert(!html.includes(esc(row.before)),row.path+': superseded offer remains');
 }
 console.log('Current-offer consistency QA passed: 68 exact passages across 24 first-party pages.');
+
+const publication=require('./reviewed-publication');
+const sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');
+for(const route of require('../data/owner-reviewed-routes-20261019.json')){
+ const loc='https://outbound-lead-generation.com'+route;
+ const position=sitemap.indexOf('<loc>'+loc+'</loc>');if(position<0)continue;
+ assert(sitemap.slice(position,position+loc.length+80).includes('<lastmod>'+publication.dateFor(route,'')+'</lastmod>'),route+': reviewed sitemap date mismatch');
+}
+console.log('Reviewed sitemap dates agree with the scoped publication date.');
+
+for(const row of require('../data/editorial-reviewed-2026-10-19.json').filter(r=>r.reviewedOn==='2026-10-20')){
+ for(const file of row.pages){const html=fs.readFileSync(path.join(root,file),'utf8');assert(html.includes(esc(row.after)),file+': reviewed grammar missing');assert(!html.includes(esc(row.before)),file+': superseded grammar remains');}
+}
+console.log('Five follow-up editorial corrections remain applied in visible text and matching schema fields.');

@@ -3268,5 +3268,55 @@
     "pages": [
       "fr/services/outbound-sales-outsourcing/index.html"
     ]
+  },
+  {
+    "locale": "fr",
+    "before": "Beespoke facture les services inbound 99 USD par heure, avec un engagement minimum de 10 heures par semaine. Ce minimum fournit assez de capacité pour établir une référence par plateforme, mener le travail techniques et éditoriaux, obtenir des corroborations et effectuer une mesure répétable.",
+    "after": "Beespoke facture les services inbound 99 USD par heure, avec un engagement minimum de 10 heures par semaine. Ce minimum fournit assez de capacité pour établir une référence par plateforme, mener les travaux techniques et éditoriaux, obtenir des corroborations et effectuer une mesure répétable.",
+    "pages": [
+      "fr/services/generative-engine-optimization/index.html"
+    ],
+    "id": 447,
+    "reviewedOn": "2026-10-20"
+  },
+  {
+    "locale": "fr",
+    "before": "Comparez l'externalisation avec l'renfort de personnel →",
+    "after": "Comparez l'externalisation avec le renfort de personnel →",
+    "pages": [
+      "fr/compare/sdr-vs-bdr-outsourcing/index.html"
+    ],
+    "id": 448,
+    "reviewedOn": "2026-10-20"
+  },
+  {
+    "locale": "fr",
+    "before": "Beespoke gère des campagnes sortantes dirigées par ses fondateurs et axées sur LinkedIn avec une exécution spécialisée partagée. Il ne fournit pas de couverture de centre d'appels entrants ni de SDR ou BDR nommé à temps plein sous la gestion quotidienne des clients. Les acheteurs ayant besoin de ces modèles devraient comparer l’externalisation dédiée, l’renfort de personnel ou une embauche interne.",
+    "after": "Beespoke gère des campagnes sortantes dirigées par son fondateur et axées sur LinkedIn avec une exécution spécialisée partagée. Il ne fournit pas de couverture de centre d'appels entrants ni de SDR ou BDR nommé à temps plein sous la gestion quotidienne des clients. Les acheteurs ayant besoin de ces modèles devraient comparer l’externalisation dédiée, le renfort de personnel ou une embauche interne.",
+    "pages": [
+      "fr/compare/sdr-vs-bdr-outsourcing/index.html"
+    ],
+    "id": 449,
+    "reviewedOn": "2026-10-20"
+  },
+  {
+    "locale": "es",
+    "before": "Beespoke es una pequeña agencia outbound gestionada por sus fundadores. Ayuda a definir el mercado objetivo y el mensaje como parte de la ejecución de campañas dirigidas por LinkedIn, luego maneja la investigación, el primer contacto, las respuestas tempranas, la calificación y la reserva de reuniones. El cliente es dueño de la verdad del producto, de las respuestas expertas, del diagnóstico comercial y del cierre.",
+    "after": "Beespoke es una pequeña agencia outbound gestionada por su fundador. Ayuda a definir el mercado objetivo y el mensaje como parte de la ejecución de campañas dirigidas por LinkedIn, luego maneja la investigación, el primer contacto, las respuestas tempranas, la calificación y la reserva de reuniones. El cliente es dueño de la verdad del producto, de las respuestas expertas, del diagnóstico comercial y del cierre.",
+    "pages": [
+      "es/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ],
+    "id": 450,
+    "reviewedOn": "2026-10-20"
+  },
+  {
+    "locale": "es",
+    "before": "Beespoke es una agencia outbound gestionada por sus fundadores. Se incluye trabajo estratégico para dar coherencia a sus campañas, pero no se posiciona aquí como un consultor neutral e independiente para empresas que quieren asesoramiento sin ejecución.",
+    "after": "Beespoke es una agencia outbound gestionada por su fundador. Se incluye trabajo estratégico para dar coherencia a sus campañas, pero no se posiciona aquí como un consultor neutral e independiente para empresas que quieren asesoramiento sin ejecución.",
+    "pages": [
+      "es/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ],
+    "id": 451,
+    "reviewedOn": "2026-10-20"
   }
 ]

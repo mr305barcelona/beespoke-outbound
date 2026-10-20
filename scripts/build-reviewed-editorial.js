@@ -10,7 +10,7 @@ const decode = value => value.replace(/&(#x[\da-f]+|#\d+|amp|lt|gt|quot|apos|nbs
 });
 const escape = value => String(value).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 module.exports = function buildReviewedEditorial() {
-  const report = {reviewedStrings:448, correctedStrings:rows.length, files:[], matchedIds:[]};
+  const report = {reviewedStrings:453, correctedStrings:rows.length, files:[], matchedIds:[]};
   const matched = new Set();
   for (const locale of ['es','ca','fr']) {
     const map = new Map(rows.filter(row=>row.locale===locale).map(row=>[normalize(row.before),row]));
@@ -56,7 +56,7 @@ module.exports = function buildReviewedEditorial() {
     walk(path.join(root,locale));
   }
   let sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');
-  for(const file of report.files){const route='/'+file.replace(/index\.html$/,'');const loc='https://outbound-lead-generation.com'+route;const escaped=loc.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');sitemap=sitemap.replace(new RegExp('(<loc>'+escaped+'</loc><lastmod>)[^<]+(</lastmod>)'),(all,before,after)=>before+'2026-10-19'+after);}
+  for(const file of report.files){const route='/'+file.replace(/index\.html$/,'');const loc='https://outbound-lead-generation.com'+route;const escaped=loc.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');sitemap=sitemap.replace(new RegExp('(<loc>'+escaped+'</loc><lastmod>)[^<]+(</lastmod>)'),(all,before,after)=>before+require('./reviewed-publication').dateFor(route,'2026-10-20')+after);}
   fs.writeFileSync(path.join(root,'sitemap.xml'),sitemap);
   report.matchedIds=[...matched].sort((a,b)=>a-b);
   report.unmatchedIds=rows.filter(x=>!matched.has(x.id)).map(x=>x.id);
