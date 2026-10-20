@@ -140,3 +140,6 @@ require('./build-commercial-terms')();
 require('./build-reviewed-editorial')();
 
 require('./build-commercial-consistency')();
+
+require('./build-accounting-editorial')();
+require('./build-query-examples')();
