@@ -51,4 +51,9 @@ console.log('Reviewed sitemap dates agree with the scoped publication date.');
 for(const row of require('../data/editorial-reviewed-2026-10-19.json').filter(r=>r.reviewedOn==='2026-10-20')){
  for(const file of row.pages){const html=fs.readFileSync(path.join(root,file),'utf8');assert(html.includes(esc(row.after)),file+': reviewed grammar missing');assert(!html.includes(esc(row.before)),file+': superseded grammar remains');}
 }
-console.log('Five follow-up editorial corrections remain applied in visible text and matching schema fields.');
+console.log('Reviewed follow-up editorial corrections remain applied in visible text and matching schema fields.');
+
+for(const locale of ['es','ca','fr']){
+ const scan=dir=>{for(const entry of fs.readdirSync(dir,{withFileTypes:true})){const f=path.join(dir,entry.name);if(entry.isDirectory())scan(f);else if(entry.name.endsWith('.html')){const s=fs.readFileSync(f,'utf8').replace(/&#39;|&apos;/g,"'");for(const bad of ['une renfort','un ampliación','la missatges','l’renfort',"l'renfort"])assert(!s.includes(bad),f+': repeated grammar '+bad);}}};scan(path.join(root,locale));
+}
+console.log('Repeated grammar regression scan passed across all localized HTML.');

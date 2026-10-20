@@ -10,7 +10,7 @@ const decode = value => value.replace(/&(#x[\da-f]+|#\d+|amp|lt|gt|quot|apos|nbs
 });
 const escape = value => String(value).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 module.exports = function buildReviewedEditorial() {
-  const report = {reviewedStrings:453, correctedStrings:rows.length, files:[], matchedIds:[]};
+  const report = {reviewedStrings:463, correctedStrings:rows.length, files:[], matchedIds:[]};
   const matched = new Set();
   for (const locale of ['es','ca','fr']) {
     const map = new Map(rows.filter(row=>row.locale===locale).map(row=>[normalize(row.before),row]));
