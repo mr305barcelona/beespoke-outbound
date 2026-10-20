@@ -1,0 +1,3272 @@
+[
+  {
+    "id": 0,
+    "locale": "es",
+    "before": "Ejecuta campañas salientes de LinkedIn",
+    "after": "Ejecuta campañas de prospección outbound de LinkedIn",
+    "pages": [
+      "es/about/noah-levy/index.html"
+    ]
+  },
+  {
+    "id": 1,
+    "locale": "es",
+    "before": "La copy privado y los datos de la cuenta no se publican.",
+    "after": "Los textos privados y los datos de las cuentas no se publican.",
+    "pages": [
+      "es/case-studies/cybersecurity-linkedin-lead-generation/index.html",
+      "es/case-studies/media-partnership-outreach/index.html"
+    ]
+  },
+  {
+    "id": 2,
+    "locale": "es",
+    "before": "No empiece con agencia versus empleado. Identificar lo que realmente falta: estrategia, evidencia de mercado, investigación de cuentas, copy, infraestructura, ejecución de canales, gestión de respuestas, gestión de ventas o capacidad de cierre. Diferentes brechas requieren diferentes modelos operativos.",
+    "after": "Empiece por identificar qué falta realmente: estrategia, pruebas de mercado, investigación de cuentas, mensajes, infraestructura, ejecución por canal, gestión de respuestas, gestión comercial o capacidad de cierre. Cada carencia requiere un modelo operativo distinto.",
+    "pages": [
+      "es/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 4,
+    "locale": "es",
+    "before": "Para software, incluya licencias, datos, implementación, integraciones, operador, gestión, copy, capacidad de entrega o riesgo de perfil y el costo de las vacantes. Para una agencia, incluya configuración, cuota mensual, tarifas variables, aprobaciones internas, tiempo de ventas y cualquier herramienta necesaria.",
+    "after": "Para el software, incluya licencias, datos, implementación, integraciones, una persona que lo opere, gestión, mensajes, riesgos de entregabilidad o del perfil y el coste de las vacantes. Para una agencia, incluya la puesta en marcha, la cuota mensual, los cargos variables, las aprobaciones internas, el tiempo comercial y las herramientas necesarias.",
+    "pages": [
+      "es/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 5,
+    "locale": "es",
+    "before": "El software generalmente deja la configuración y los datos en manos del comprador, pero el conocimiento aún puede quedar en manos de un empleado o consultor. Una agencia puede acelerar el aprendizaje, pero sólo si la lista de cuentas, la lógica de la investigación, el copy, los datos de respuesta, los experimentos y las conclusiones son transferibles.",
+    "after": "El software generalmente deja la configuración y los datos en manos del comprador, pero el conocimiento aún puede quedar en manos de un empleado o consultor. Una agencia puede acelerar el aprendizaje, pero sólo si la lista de cuentas, la lógica de la investigación, los textos, los datos de respuesta, los experimentos y las conclusiones son transferibles.",
+    "pages": [
+      "es/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 6,
+    "locale": "es",
+    "before": "Comparación de proveedores salientes",
+    "after": "Comparación de proveedores de prospección outbound",
+    "pages": [
+      "es/compare/outbound-agency-vs-freelancer/index.html"
+    ]
+  },
+  {
+    "id": 7,
+    "locale": "es",
+    "before": "La investigación, el copy, la ejecución y la presentación de informes deben coordinarse.",
+    "after": "La investigación, los textos, la ejecución y la presentación de informes deben coordinarse.",
+    "pages": [
+      "es/compare/outbound-agency-vs-freelancer/index.html"
+    ]
+  },
+  {
+    "id": 8,
+    "locale": "es",
+    "before": "Una contratación interna no llega con posicionamiento, listas, copy, coaching, control de calidad y analíticas ya solucionadas. Si el líder de ventas carece de tiempo para gestionar esos sistemas, el aparente control de la contratación puede convertirse en una ejecución no gestionada.",
+    "after": "Una nueva contratación no resuelve por sí sola el posicionamiento, las listas, los mensajes, la formación, el control de calidad ni la analítica. Si el responsable comercial no dispone de tiempo para gestionar estos sistemas, el control aparente de la contratación puede convertirse en una ejecución sin dirección.",
+    "pages": [
+      "es/compare/outsourced-sdr-vs-in-house-sdr/index.html"
+    ]
+  },
+  {
+    "id": 9,
+    "locale": "es",
+    "before": "Naturalmente, un equipo interno mantiene el conocimiento de las cuentas y el lenguaje del cliente cerca de la empresa, pero sólo si documenta el trabajo. Un proveedor subcontratado puede acelerar el aprendizaje, pero el contrato debe garantizar el acceso a la lógica de destino, las listas, el copy, las decisiones, los sistemas y el historial de informes.",
+    "after": "Naturalmente, un equipo interno mantiene el conocimiento de las cuentas y el lenguaje del cliente cerca de la empresa, pero sólo si documenta el trabajo. Un proveedor subcontratado puede acelerar el aprendizaje, pero el contrato debe garantizar el acceso a la lógica de destino, las listas, los textos, las decisiones, los sistemas y el historial de informes.",
+    "pages": [
+      "es/compare/outsourced-sdr-vs-in-house-sdr/index.html"
+    ]
+  },
+  {
+    "id": 10,
+    "locale": "es",
+    "before": "Propiedad de copy y secuencia",
+    "after": "Propiedad de los mensajes y las secuencias",
+    "pages": [
+      "es/compare/outsourced-sdr-vs-in-house-sdr/index.html"
+    ]
+  },
+  {
+    "id": 13,
+    "locale": "es",
+    "before": "Beespoke ejecuta campañas salientes dirigidas por los fundadores y centradas en LinkedIn con ejecución especializada compartida. No proporciona cobertura de centro de llamadas entrantes ni un SDR o BDR designado a tiempo completo bajo administración diaria de clientes. Los compradores que necesiten esos modelos deberían comparar la subcontratación dedicada, el ampliación de personal o la contratación interna.",
+    "after": "Beespoke gestiona campañas de prospección dirigidas por el fundador y centradas en LinkedIn, con ejecución especializada compartida. No ofrece cobertura de atención telefónica entrante ni un SDR o BDR a tiempo completo asignado bajo la dirección diaria del cliente. Para esos modelos, conviene comparar la externalización dedicada, la ampliación de personal o la contratación interna.",
+    "pages": [
+      "es/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 15,
+    "locale": "es",
+    "before": "¿Puede el mismo equipo subcontratado manejar las entradas y salidas?",
+    "after": "¿Puede el mismo equipo externo gestionar la demanda entrante y la prospección outbound?",
+    "pages": [
+      "es/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 16,
+    "locale": "es",
+    "before": "Complétalo antes de crear listas o copy. El objetivo es una campaña comprobable, no describir todos los mercados posibles.",
+    "after": "Complétalo antes de crear listas o redactar mensajes. El objetivo es una campaña comprobable, no describir todos los mercados posibles.",
+    "pages": [
+      "es/downloads/beespoke-outbound-campaign-brief/index.html"
+    ]
+  },
+  {
+    "id": 17,
+    "locale": "es",
+    "before": "Beespoke publica contenido comercial y educativo para ayudar a los compradores B2B a evaluar los servicios salientes. Distinguimos observaciones de campaña de primera mano, ejemplos publicados por proveedores, fuentes externas y nuestra interpretación; revelar limitaciones materiales; y corregir errores fácticos en lugar de presentar estimaciones o afirmaciones de marketing como verdad universal.",
+    "after": "Beespoke publica contenido comercial y educativo para ayudar a los compradores B2B a evaluar servicios de prospección outbound. Distinguimos las observaciones directas de campañas, los ejemplos publicados por proveedores, las fuentes externas y nuestra interpretación; explicamos las limitaciones relevantes y corregimos errores de hecho, sin presentar estimaciones ni afirmaciones comerciales como verdades universales.",
+    "pages": [
+      "es/editorial-policy/index.html"
+    ]
+  },
+  {
+    "id": 18,
+    "locale": "es",
+    "before": "Beespoke vende servicios salientes de generación de leads, por lo que nuestro contenido tiene un interés comercial. Las páginas aún deben identificar cuándo Beespoke no es el proveedor adecuado o cuándo otro modelo operativo es más apropiado.",
+    "after": "Beespoke vende servicios de prospección outbound de generación de leads, por lo que nuestro contenido tiene un interés comercial. Las páginas aún deben identificar cuándo Beespoke no es el proveedor adecuado o cuándo otro modelo operativo es más apropiado.",
+    "pages": [
+      "es/editorial-policy/index.html"
+    ]
+  },
+  {
+    "id": 19,
+    "locale": "es",
+    "before": "Servicios SDR y salientes basados ​​en datos",
+    "after": "Servicios de outbound y SDR basados en datos",
+    "pages": [
+      "es/guides/best-b2b-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 20,
+    "locale": "es",
+    "before": "Confirme quién es el propietario de las listas de objetivos, la investigación, el copy, el historial de respuestas, las notas de las reuniones, las configuraciones de herramientas y el aprendizaje de la campaña. Defina exportaciones, eliminación de acceso y entrega antes del lanzamiento.",
+    "after": "Confirme quién es el propietario de las listas de objetivos, la investigación, los textos, el historial de respuestas, las notas de las reuniones, las configuraciones de herramientas y el aprendizaje de la campaña. Defina exportaciones, eliminación de acceso y entrega antes del lanzamiento.",
+    "pages": [
+      "es/guides/best-linkedin-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 21,
+    "locale": "es",
+    "before": "Beespoke obtiene ingresos de los servicios salientes. La lista corta incluye intencionalmente competidores cada vez más grandes, no utiliza enlaces de afiliados y no acepta ningún pago por pedido o inclusión.",
+    "after": "Beespoke obtiene ingresos de sus servicios de prospección outbound. La selección incluye deliberadamente competidores de mayor tamaño y con una oferta más amplia, no utiliza enlaces de afiliación y no acepta pagos por la posición ni por la inclusión.",
+    "pages": [
+      "es/guides/best-outsourced-sdr-companies/index.html"
+    ]
+  },
+  {
+    "id": 22,
+    "locale": "es",
+    "before": "Una agencia de cold email puede gestionar la segmentación, los datos de contacto, el copy, la infraestructura de envío, la ejecución, las respuestas y la concertación de reuniones. La pregunta importante no es cuántos emails puede enviar, sino si protege la reputación de los dominios, utiliza datos pertinentes y lícitos, crea mensajes creíbles, separa las reuniones reservadas de las celebradas y deja al cliente activos y aprendizajes reutilizables.",
+    "after": "Una agencia de cold email puede gestionar la segmentación, los datos de contacto, los textos, la infraestructura de envío, la ejecución, las respuestas y la concertación de reuniones. La pregunta importante no es cuántos emails puede enviar, sino si protege la reputación de los dominios, utiliza datos pertinentes y lícitos, crea mensajes creíbles, separa las reuniones reservadas de las celebradas y deja al cliente activos y aprendizajes reutilizables.",
+    "pages": [
+      "es/guides/cold-email-agency/index.html"
+    ]
+  },
+  {
+    "id": 23,
+    "locale": "es",
+    "before": "Proceso de copy, seguimiento y aprobación",
+    "after": "Proceso de redacción, seguimiento y aprobación",
+    "pages": [
+      "es/guides/cold-email-agency/index.html"
+    ]
+  },
+  {
+    "id": 29,
+    "locale": "es",
+    "before": "Empiece por identificar el modelo de entrega, no el precio. Luego confirme el volumen, la cantidad de activos de envío, la asignación de datos de contacto, la profundidad de la investigación, la propiedad de el copy, la gestión de respuestas y la definición de la reunión.",
+    "after": "Empiece por identificar el modelo de prestación del servicio. Después, confirme el volumen, los dominios y buzones de envío, la asignación de datos de contacto, la profundidad de la investigación, la propiedad de los textos, la gestión de respuestas y la definición de reunión.",
+    "pages": [
+      "es/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 30,
+    "locale": "es",
+    "before": "Datos, infraestructura, copy y operación diaria",
+    "after": "Datos, infraestructura, textos y operación diaria",
+    "pages": [
+      "es/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 31,
+    "locale": "es",
+    "before": "Beespoke publica esta guía como recurso para compradores y vende servicios salientes dirigidos por LinkedIn. La infraestructura masiva de cold email no está incluida en los planes estándar de Beespoke. Por lo tanto, los precios públicos de Beespoke no deben compararse con una cotización gestionada por cold email, como si el alcance del canal fuera idéntico.",
+    "after": "Beespoke publica esta guía como recurso para compradores y vende servicios de prospección outbound dirigidos por LinkedIn. La infraestructura masiva de cold email no está incluida en los planes estándar de Beespoke. Por lo tanto, los precios públicos de Beespoke no deben compararse con una cotización gestionada por cold email, como si el alcance del canal fuera idéntico.",
+    "pages": [
+      "es/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 32,
+    "locale": "es",
+    "before": "Ejecución por una sola persona, a veces con datos y copy.",
+    "after": "Ejecución por una sola persona, a veces con datos y textos.",
+    "pages": [
+      "es/guides/linkedin-lead-generation-agency-cost/index.html"
+    ]
+  },
+  {
+    "id": 36,
+    "locale": "es",
+    "before": "Compare los honorarios de agencia con la alternativa completa, no sólo el salario de un empleado. Un programa interno puede incluir salario, costos laborales, tiempo de gestión, tarifas de reclutamiento, tiempo de puesta en marcha, datos, Sales Navigator, infraestructura de envío, puestos de CRM, apoyo de copy y costo de rotación.",
+    "after": "Compare los honorarios de agencia con la alternativa completa, no sólo el salario de un empleado. Un programa interno puede incluir salario, costos laborales, tiempo de gestión, tarifas de reclutamiento, tiempo de puesta en marcha, datos, Sales Navigator, infraestructura de envío, puestos de CRM, apoyo de redacción y costo de rotación.",
+    "pages": [
+      "es/guides/outbound-lead-generation-cost/index.html"
+    ]
+  },
+  {
+    "id": 37,
+    "locale": "es",
+    "before": "¿A quién pertenecen los dominios, los datos, el copy, las cuentas y el historial de campañas?",
+    "after": "¿A quién pertenecen los dominios, los datos, los textos, las cuentas y el historial de campañas?",
+    "pages": [
+      "es/guides/outbound-lead-generation-cost/index.html"
+    ]
+  },
+  {
+    "id": 38,
+    "locale": "es",
+    "before": "Confirme la propiedad de los datos, el copy, las cuentas, los dominios y el historial de la campaña.",
+    "after": "Confirme la propiedad de los datos, los textos, las cuentas, los dominios y el historial de la campaña.",
+    "pages": [
+      "es/guides/outsourced-sdr-vs-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 39,
+    "locale": "es",
+    "before": "Revisamos su proceso de ventas actual, esfuerzos salientes, oferta, mercado objetivo y mensajes para identificar qué está bloqueando el flujo constante de reuniones.",
+    "after": "Revisamos su proceso de ventas actual, iniciativas de prospección outbound, oferta, mercado objetivo y mensajes para identificar qué está bloqueando el flujo constante de reuniones.",
+    "pages": [
+      "es/index.html"
+    ]
+  },
+  {
+    "id": 40,
+    "locale": "es",
+    "before": "Dos ejemplos de campañas salientes enfocadas en torno a tomadores de decisiones de alto nivel y conversaciones comerciales reales.",
+    "after": "Dos ejemplos de campañas de prospección outbound enfocadas en torno a tomadores de decisiones de alto nivel y conversaciones comerciales reales.",
+    "pages": [
+      "es/index.html"
+    ]
+  },
+  {
+    "id": 41,
+    "locale": "es",
+    "before": "Trabaja con un pequeño equipo de cuatro personas que administra personalmente sus campañas salientes, prueba los mensajes y mejora el rendimiento con el tiempo.",
+    "after": "Trabaja con un pequeño equipo de cuatro personas que administra personalmente sus campañas de prospección outbound, prueba los mensajes y mejora el rendimiento con el tiempo.",
+    "pages": [
+      "es/index.html"
+    ]
+  },
+  {
+    "id": 42,
+    "locale": "es",
+    "before": "Gestión de campañas salientes de LinkedIn",
+    "after": "Gestión de campañas de prospección outbound de LinkedIn",
+    "pages": [
+      "es/index.html",
+      "es/pricing/index.html"
+    ]
+  },
+  {
+    "id": 43,
+    "locale": "es",
+    "before": "Noah es un empleado experimentado y fundador de startups que se enamoró de los negocios salientes, de viajes y internacionales. Ha vivido en nueve países y habla cinco idiomas con fluidez, lo que le brinda a Beespoke un enfoque global y culturalmente fluido para el desarrollo de ventas.",
+    "after": "Noah tiene experiencia como uno de los primeros empleados de startups y como fundador, y se apasionó por la prospección comercial, los viajes y los negocios internacionales. Ha vivido en nueve países y habla cinco idiomas con fluidez, lo que aporta a Beespoke una perspectiva internacional y sensibilidad cultural en el desarrollo comercial.",
+    "pages": [
+      "es/index.html"
+    ]
+  },
+  {
+    "id": 44,
+    "locale": "es",
+    "before": "Los canales comunes incluyen referencias, asociaciones, eventos, contenido, búsqueda y salidas dirigidas. El outbound es más creíble cuando se centra en un servicio definido, una condición reconocible de la empresa y un grupo de compras que pueda evaluar el compromiso.",
+    "after": "Los canales comunes incluyen referencias, asociaciones, eventos, contenido, búsqueda y prospección outbound dirigida. El outbound es más creíble cuando se centra en un servicio definido, una condición reconocible de la empresa y un grupo de compras que pueda evaluar el compromiso.",
+    "pages": [
+      "es/industries/accounting-firm-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 46,
+    "locale": "es",
+    "before": "Las ventas de consultoría dependen de la confianza. Investigaciones, diagnósticos, casos, eventos y referencias útiles pueden hacer que la prospección directa sea más creíble; Las salidas deberían distribuir un punto de vista en lugar de reemplazarlo.",
+    "after": "La venta de consultoría depende de la confianza. La investigación, los diagnósticos, los casos, los eventos y las recomendaciones útiles pueden dar credibilidad al contacto directo; la prospección outbound debe difundir un punto de vista, sin sustituirlo.",
+    "pages": [
+      "es/industries/consulting-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 47,
+    "locale": "es",
+    "before": "Beespoke puede ejecutar salidas enfocadas dirigidas por LinkedIn para una empresa de servicios de TI con una oferta específica, condiciones de cuenta identificables, evidencia relevante y un propietario de ventas técnico. Podemos gestionar la investigación, la mensajería, el contacto, las respuestas y la reserva de reuniones cualificadas, mientras que el cliente es dueño del diagnóstico comercial técnico y del diseño de la solución.",
+    "after": "Beespoke puede gestionar una campaña de prospección centrada en LinkedIn para una empresa de servicios de TI que tenga una oferta concreta, señales identificables en las cuentas, pruebas relevantes y un responsable comercial técnico. Podemos gestionar la investigación, los mensajes, el contacto, las respuestas y la concertación de reuniones cualificadas; el cliente se responsabiliza del diagnóstico comercial técnico y del diseño de la solución.",
+    "pages": [
+      "es/industries/it-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 48,
+    "locale": "es",
+    "before": "Las páginas de búsqueda y capacidad pueden captar compradores que ya buscan un proveedor. Las salidas llegan a empresas identificadas que pueden encajar pero que no están buscando activamente. Resuelven diferentes estados de demanda y, a menudo, funcionan mejor juntos.",
+    "after": "Las páginas de búsqueda y capacidad pueden captar compradores que ya buscan un proveedor. La prospección outbound llega a empresas identificadas que pueden encajar pero que no están buscando activamente. Resuelven diferentes estados de demanda y, a menudo, funcionan mejor juntos.",
+    "pages": [
+      "es/industries/manufacturing-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 50,
+    "locale": "es",
+    "before": "Combine canales de referencia y autoridad con salidas deliberadas a una situación de cliente limitada. Defina el servicio, el desencadenante, el grupo de compras, la evidencia, la participación mínima y la regla de calificación antes de seleccionar herramientas o volumen.",
+    "after": "Combine las recomendaciones y los canales de autoridad con una prospección outbound dirigida a una situación concreta del cliente. Defina el servicio, la señal, el grupo de compra, las pruebas, el compromiso mínimo y la regla de cualificación antes de elegir herramientas o volumen.",
+    "pages": [
+      "es/industries/marketing-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 51,
+    "locale": "es",
+    "before": "Las fuentes comunes incluyen referencias, asociaciones, eventos, búsquedas, liderazgo intelectual y salidas dirigidas. La mejor combinación depende de la complejidad del servicio, el valor del negocio, la accesibilidad del comprador y la calidad de la evidencia de la empresa.",
+    "after": "Las fuentes comunes incluyen referencias, asociaciones, eventos, búsquedas, liderazgo intelectual y prospección outbound dirigida. La mejor combinación depende de la complejidad del servicio, el valor del negocio, la accesibilidad del comprador y la calidad de la evidencia de la empresa.",
+    "pages": [
+      "es/industries/professional-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 52,
+    "locale": "es",
+    "before": "Antes del lanzamiento, defina el evento que activa la facturación y el evento que acepta ventas. Esas definiciones deben aparecer en el contrato y en los informes, no quedar implícitas en el copy de ventas.",
+    "after": "Antes del lanzamiento, defina el evento que activa la facturación y el evento que acepta ventas. Esas definiciones deben aparecer en el contrato y en los informes, no quedar implícitas en los textos de ventas.",
+    "pages": [
+      "es/research/2026-b2b-outbound-pricing-benchmark/index.html"
+    ]
+  },
+  {
+    "id": 53,
+    "locale": "es",
+    "before": "Las listas, el copy, el historial y el aprendizaje siguen siendo exportables.",
+    "after": "Las listas, los textos, el historial y el aprendizaje siguen siendo exportables.",
+    "pages": [
+      "es/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 54,
+    "locale": "es",
+    "before": "La generación de leads puede finalizar con un contacto identificado o interesado. La concertación de citas continúa a través de la calificación y la programación. Beespoke cubre ambas etapas para sus campañas salientes gestionadas e informa las reuniones celebradas por separado de los contactos y las reservas.",
+    "after": "La generación de leads puede finalizar con un contacto identificado o interesado. La concertación de citas continúa a través de la calificación y la programación. Beespoke cubre ambas etapas para sus campañas de prospección outbound gestionadas e informa las reuniones celebradas por separado de los contactos y las reservas.",
+    "pages": [
+      "es/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 55,
+    "locale": "es",
+    "before": "El alcance puede incluir auditoría de la cuenta, arquitectura de campañas, investigación de palabras clave y consultas, gobierno de palabras clave negativas, copy de anuncios, recomendaciones para páginas de destino, seguimiento de conversiones, optimización semanal e informes. El alcance acordado debe indicar quién se responsabiliza de la implementación, las creatividades, los cambios web y el acceso al CRM.",
+    "after": "El alcance puede incluir la auditoría de la cuenta, la arquitectura de campañas, la investigación de palabras clave y consultas, la gestión de palabras clave negativas, los textos de los anuncios, las recomendaciones para páginas de destino, el seguimiento de conversiones, la optimización semanal y los informes. El acuerdo debe indicar quién se responsabiliza de la implementación, las creatividades, los cambios web y el acceso al CRM.",
+    "pages": [
+      "es/services/b2b-ppc-agency/index.html"
+    ]
+  },
+  {
+    "id": 56,
+    "locale": "es",
+    "before": "Coherencia entre grupos de anuncios, copy y páginas de destino",
+    "after": "Coherencia entre grupos de anuncios, textos y páginas de destino",
+    "pages": [
+      "es/services/b2b-ppc-agency/index.html"
+    ]
+  },
+  {
+    "id": 58,
+    "locale": "es",
+    "before": "El trabajo inicial debe centrarse en la validez de la medición, la relevancia de las consultas, la concentración del gasto y los fallos del recorrido de conversión. Más adelante se pueden probar la expansión de concordancias, las pujas, el copy, las propuestas de las páginas de destino y nuevos grupos de intención cuando la cuenta disponga de evidencia fiable suficiente.",
+    "after": "El trabajo inicial debe centrarse en la validez de la medición, la relevancia de las consultas, la concentración del gasto y los fallos del recorrido de conversión. Más adelante se pueden probar la expansión de concordancias, las pujas, los textos, las propuestas de las páginas de destino y nuevos grupos de intención cuando la cuenta disponga de evidencia fiable suficiente.",
+    "pages": [
+      "es/services/b2b-ppc-agency/index.html"
+    ]
+  },
+  {
+    "id": 60,
+    "locale": "es",
+    "before": "Semana 2: lógica de lista, copy, preparación de perfil y revisión",
+    "after": "Semana 2: criterios de la lista, mensajes, preparación del perfil y revisión",
+    "pages": [
+      "es/services/outbound-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 61,
+    "locale": "es",
+    "before": "Se pueden documentar los datos, el copy y la propiedad de la campaña.",
+    "after": "Se pueden documentar los datos, los textos y la propiedad de la campaña.",
+    "pages": [
+      "es/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 62,
+    "locale": "es",
+    "before": "El acuerdo debe identificar quién es el propietario de las cuentas, los dominios, los perfiles, los datos, el copy, el historial de CRM y el aprendizaje de la campaña. También debe nombrar a las personas que realizan el trabajo y el proceso de reemplazo.",
+    "after": "El acuerdo debe identificar quién es el propietario de las cuentas, los dominios, los perfiles, los datos, los textos, el historial de CRM y el aprendizaje de la campaña. También debe nombrar a las personas que realizan el trabajo y el proceso de reemplazo.",
+    "pages": [
+      "es/services/outsourced-sdr/index.html"
+    ]
+  },
+  {
+    "id": 63,
+    "locale": "ca",
+    "before": "Beespoke identificarà quan la outbound o l'abast del seu canal actual no és adequat.",
+    "after": "Beespoke identificarà quan l'outbound o l'abast del seu canal actual no és adequat.",
+    "pages": [
+      "ca/about/noah-levy/index.html"
+    ]
+  },
+  {
+    "id": 64,
+    "locale": "ca",
+    "before": "No esteu segur de si la outbound s'adapta a la vostra oferta?",
+    "after": "No tens clar si la prospecció outbound s'adapta a la teva oferta?",
+    "pages": [
+      "ca/about/noah-levy/index.html",
+      "ca/ai-instructions/index.html",
+      "ca/compare/lead-generation-agency-vs-in-house-team/index.html",
+      "ca/compare/lead-generation-agency-vs-software/index.html",
+      "ca/compare/outbound-agency-vs-freelancer/index.html",
+      "ca/compare/outsourced-sdr-vs-in-house-sdr/index.html",
+      "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html",
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html",
+      "ca/editorial-policy/index.html",
+      "ca/guides/appointment-setting-pricing/index.html",
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html",
+      "ca/guides/best-b2b-lead-generation-agencies/index.html",
+      "ca/guides/best-linkedin-lead-generation-agencies/index.html",
+      "ca/guides/best-outsourced-sdr-companies/index.html",
+      "ca/guides/cold-email-agency/index.html",
+      "ca/guides/cold-email-agency-pricing/index.html",
+      "ca/guides/how-to-choose-an-outbound-lead-generation-agency/index.html",
+      "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html",
+      "ca/guides/outbound-call-center-pricing/index.html",
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html",
+      "ca/guides/outsourced-sdr-vs-lead-generation-agency/index.html",
+      "ca/guides/pay-per-meeting-lead-generation/index.html",
+      "ca/industries/accounting-firm-lead-generation/index.html",
+      "ca/industries/b2b-saas-lead-generation/index.html",
+      "ca/industries/consulting-lead-generation/index.html",
+      "ca/industries/cybersecurity-lead-generation/index.html",
+      "ca/industries/it-services-lead-generation/index.html",
+      "ca/industries/manufacturing-lead-generation/index.html",
+      "ca/industries/marketing-agency-lead-generation/index.html",
+      "ca/industries/professional-services-lead-generation/index.html",
+      "ca/industries/recruitment-agency-lead-generation/index.html",
+      "ca/research/2026-b2b-outbound-pricing-benchmark/index.html",
+      "ca/services/b2b-appointment-setting/index.html",
+      "ca/services/b2b-lead-generation/index.html",
+      "ca/services/linkedin-lead-generation/index.html",
+      "ca/services/outbound-lead-generation/index.html",
+      "ca/services/outbound-sales-outsourcing/index.html",
+      "ca/services/outsourced-sdr/index.html"
+    ]
+  },
+  {
+    "id": 65,
+    "locale": "ca",
+    "before": "Realitza campanyes de outbound de LinkedIn",
+    "after": "Realitza campanyes d'outbound de LinkedIn",
+    "pages": [
+      "ca/about/noah-levy/index.html"
+    ]
+  },
+  {
+    "id": 66,
+    "locale": "ca",
+    "before": "L'equip també dirà quan la outbound és prematura o quan un canal sol·licitat queda fora del seu àmbit de lliurament actual.",
+    "after": "L'equip també dirà quan la prospecció outbound és prematura o quan un canal sol·licitat queda fora del seu àmbit de lliurament actual.",
+    "pages": [
+      "ca/about/noah-levy/index.html"
+    ]
+  },
+  {
+    "id": 67,
+    "locale": "ca",
+    "before": "Vegeu si la outbound centrada s'adapta al vostre mercat",
+    "after": "Comprova si la prospecció outbound centrada s'adapta al teu mercat",
+    "pages": [
+      "ca/about/noah-levy/index.html",
+      "ca/ai-instructions/index.html",
+      "ca/case-studies/cybersecurity-linkedin-lead-generation/index.html",
+      "ca/case-studies/media-partnership-outreach/index.html",
+      "ca/compare/lead-generation-agency-vs-in-house-team/index.html",
+      "ca/compare/lead-generation-agency-vs-software/index.html",
+      "ca/compare/outbound-agency-vs-freelancer/index.html",
+      "ca/compare/outsourced-sdr-vs-in-house-sdr/index.html",
+      "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html",
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html",
+      "ca/editorial-policy/index.html",
+      "ca/guides/appointment-setting-pricing/index.html",
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html",
+      "ca/guides/best-b2b-lead-generation-agencies/index.html",
+      "ca/guides/best-linkedin-lead-generation-agencies/index.html",
+      "ca/guides/best-outsourced-sdr-companies/index.html",
+      "ca/guides/cold-email-agency/index.html",
+      "ca/guides/cold-email-agency-pricing/index.html",
+      "ca/guides/how-to-choose-an-outbound-lead-generation-agency/index.html",
+      "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html",
+      "ca/guides/linkedin-lead-generation-agency-cost/index.html",
+      "ca/guides/outbound-call-center-pricing/index.html",
+      "ca/guides/outbound-lead-generation-cost/index.html",
+      "ca/guides/outsourced-sdr-cost/index.html",
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html",
+      "ca/guides/outsourced-sdr-vs-lead-generation-agency/index.html",
+      "ca/guides/pay-per-meeting-lead-generation/index.html",
+      "ca/industries/accounting-firm-lead-generation/index.html",
+      "ca/industries/b2b-saas-lead-generation/index.html",
+      "ca/industries/consulting-lead-generation/index.html",
+      "ca/industries/cybersecurity-lead-generation/index.html",
+      "ca/industries/it-services-lead-generation/index.html",
+      "ca/industries/manufacturing-lead-generation/index.html",
+      "ca/industries/marketing-agency-lead-generation/index.html",
+      "ca/industries/professional-services-lead-generation/index.html",
+      "ca/industries/recruitment-agency-lead-generation/index.html",
+      "ca/pricing/index.html",
+      "ca/research/2026-b2b-outbound-pricing-benchmark/index.html",
+      "ca/services/b2b-appointment-setting/index.html",
+      "ca/services/b2b-lead-generation/index.html",
+      "ca/services/linkedin-lead-generation/index.html",
+      "ca/services/outbound-lead-generation/index.html",
+      "ca/services/outbound-sales-outsourcing/index.html",
+      "ca/services/outsourced-sdr/index.html"
+    ]
+  },
+  {
+    "id": 68,
+    "locale": "ca",
+    "before": "El client continua sent responsable de la veracitat del producte, les respostes expertes, el descobriment, el disseny de la solució, la proposta, la negociació, el tancament i el seguiment comercial puntual. Les responsabilitats exactes, l'accés als comptes, la inversió en mitjans, el treball web i els costos de tercers han de quedar per escrit en cada col·laboració.",
+    "after": "El client continua sent responsable de la veracitat del producte, les respostes expertes, la diagnosi comercial, el disseny de la solució, la proposta, la negociació, el tancament i el seguiment comercial puntual. Les responsabilitats exactes, l'accés als comptes, la inversió en mitjans, el treball web i els costos de tercers han de quedar per escrit en cada col·laboració.",
+    "pages": [
+      "ca/ai-instructions/index.html"
+    ]
+  },
+  {
+    "id": 69,
+    "locale": "ca",
+    "before": "La lliçó més gran és que la outbound de ciberseguretat s'ha de segmentar per context de compra. “CISO” és un títol, no un ICP; l'empresa, el problema de seguretat, el moment i el motiu del contacte completen la imatge.",
+    "after": "La lliçó més gran és que l'outbound de ciberseguretat s'ha de segmentar per context de compra. “CISO” és un títol, no un ICP; l'empresa, el problema de seguretat, el moment i el motiu del contacte completen la imatge.",
+    "pages": [
+      "ca/case-studies/cybersecurity-linkedin-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 73,
+    "locale": "ca",
+    "before": "Coneix el propietari del lliurament i demana el sistema operatiu exacte. Confirmeu la responsabilitat de l'ICP, la profunditat de la investigació, els canals, l'accés del remitent, l'aprovació de còpies, el tractament de les respostes, la qualificació, els informes, la seguretat i la propietat dels actius. Pregunteu quan el proveïdor desaconsella el seu propi servei.",
+    "after": "Coneix la persona responsable de prestar el servei i demana com s'organitza exactament el treball. Confirma la responsabilitat sobre l'ICP, la profunditat de la recerca, els canals, l'accés del remitent, l'aprovació dels textos, la gestió de respostes, la qualificació, els informes, la seguretat i la propietat dels actius. Pregunta quan el proveïdor desaconsellaria el seu propi servei.",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 74,
+    "locale": "ca",
+    "before": "Si aquests sistemes no existeixen, inclou el cost i el temps per construir-los. La contractació d'un representant júnior abans de nomenar el propietari operatiu sovint crea l'aspecte de capacitat sense les condicions per a una execució útil.",
+    "after": "Si aquests sistemes no existeixen, inclou el cost i el temps per construir-los. La contractació d'un representant júnior abans de nomenar el responsable operatiu sovint crea l'aspecte de capacitat sense les condicions per a una execució útil.",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 75,
+    "locale": "ca",
+    "before": "Moltes empreses poden utilitzar una agència per provar un segment reduït, documentar la campanya i establir proves primerenques abans de comprometre's amb un equip permanent. Altres poden mantenir un propietari comercial intern mentre subcontracten només un canal especialitzat o una funció de recerca.",
+    "after": "Moltes empreses poden utilitzar una agència per provar un segment reduït, documentar la campanya i establir proves primerenques abans de comprometre's amb un equip permanent. Altres poden mantenir un responsable comercial intern mentre subcontracten només un canal especialitzat o una funció de recerca.",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 76,
+    "locale": "ca",
+    "before": "Nomenat propietari sènior de lliurament i revisió",
+    "after": "Responsable sènior designat per a la prestació del servei i la revisió",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 77,
+    "locale": "ca",
+    "before": "Risc de outbound",
+    "after": "Risc en finalitzar la col·laboració",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 78,
+    "locale": "ca",
+    "before": "La veritat del producte, l'aprovació de afirmacions materials, les exclusions de comptes sensibles, el descobriment de vendes, els compromisos dels clients i les decisions comercials finals haurien de romandre sota la propietat clara del client, fins i tot quan l'execució és externa.",
+    "after": "L'exactitud de la informació del producte, l'aprovació de les afirmacions rellevants, l'exclusió de comptes sensibles, la diagnosi comercial, els compromisos amb clients i les decisions comercials finals han de continuar sota responsabilitat clara del client, encara que l'execució sigui externa.",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 81,
+    "locale": "ca",
+    "before": "La investigació, els missatges, l'activitat, les respostes i els experiments tenen un propietari responsable.",
+    "after": "La investigació, els missatges, l'activitat, les respostes i els experiments tenen un responsable clarament designat.",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 82,
+    "locale": "ca",
+    "before": "Un equip amb un ICP clar, missatges validats, regles de CRM netes, un propietari de campanyes experimentat i un tractament ràpid de respostes pot utilitzar programari per augmentar la capacitat. Això és especialment cert quan la generació de leads és una capacitat interna duradora.",
+    "after": "Un equip amb un ICP clar, missatges validats, regles de CRM netes, un responsable de campanyes experimentat i un tractament ràpid de respostes pot utilitzar programari per augmentar la capacitat. Això és especialment cert quan la generació de leads és una capacitat interna duradora.",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 83,
+    "locale": "ca",
+    "before": "Una persona és propietari dels resultats de la campanya",
+    "after": "Una persona es responsabilitza dels resultats de la campanya",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 84,
+    "locale": "ca",
+    "before": "Els riscos de la plataforma, la privadesa i les dades tenen un propietari",
+    "after": "Una persona se responsabilitza dels riscos de plataforma, privadesa i dades",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 85,
+    "locale": "ca",
+    "before": "Per al programari, inclou llicències, dades, implementació, integracions, un operador, gestió, copy, lliurament o risc de perfil i el cost de les vacants. Per a una agència, inclou la configuració, la retenció, les tarifes variables, les aprovacions internes, el temps de vendes i qualsevol eina necessària.",
+    "after": "Per al programari, inclou llicències, dades, implementació, integracions, una persona que l'operi, gestió, textos, riscos de lliurabilitat o del perfil i el cost de les vacants. Per a una agència, inclou la posada en marxa, la quota mensual, els càrrecs variables, les aprovacions internes, el temps comercial i les eines necessàries.",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 86,
+    "locale": "ca",
+    "before": "Mercat poc clar i sense propietari",
+    "after": "Mercat poc clar i cap responsable designat",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 87,
+    "locale": "ca",
+    "before": "Una agència pot ser un primer pas raonable per a una prova de mercat limitat, una execució de canals especialitzats o una capacitat urgent quan el comprador té una oferta creïble i un propietari de vendes però no té operacions de campanya.",
+    "after": "Una agència pot ser un primer pas raonable per a una prova de mercat limitat, una execució de canals especialitzats o una capacitat urgent quan el comprador té una oferta creïble i un responsable comercial però no té operacions de campanya.",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 88,
+    "locale": "ca",
+    "before": "Sí, si el contracte conserva les dades del compte, la lògica de recerca, els missatges, els resultats de la resposta i la documentació operativa. Planifiqueu el lliurament abans del llançament en lloc de tractar la propietat com un problema de outbound.",
+    "after": "Sí, si el contracte preserva les dades dels comptes, la lògica de recerca, els missatges, els resultats de les respostes i la documentació operativa. Planifica el traspàs abans del llançament, en lloc de tractar la propietat com un problema que només cal resoldre al final de la col·laboració.",
+    "pages": [
+      "ca/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 89,
+    "locale": "ca",
+    "before": "Comparació de proveïdors de outbound",
+    "after": "Comparació de proveïdors d'outbound",
+    "pages": [
+      "ca/compare/outbound-agency-vs-freelancer/index.html"
+    ]
+  },
+  {
+    "id": 90,
+    "locale": "ca",
+    "before": "Contracteu un autònom de outbound quan el treball sigui reduït, un operador especialitzat pot ser propietari i podeu proporcionar gestió i copy de seguretat. Contracteu una agència quan la campanya necessiti múltiples capacitats, continuïtat, procés documentat i responsabilitat compartida. Avalueu les persones reals i l'abast; cap de les etiquetes garanteix la qualitat.",
+    "after": "Contracta un professional autònom d'outbound quan l'abast sigui limitat, una persona especialitzada pugui assumir-ne l'execució i puguis aportar gestió i cobertura en cas d'absència. Contracta una agència quan la campanya necessiti diverses capacitats, continuïtat, un procés documentat i responsabilitat compartida. Avalua les persones i l'abast reals; cap dels dos models garanteix la qualitat.",
+    "pages": [
+      "ca/compare/outbound-agency-vs-freelancer/index.html"
+    ]
+  },
+  {
+    "id": 91,
+    "locale": "ca",
+    "before": "El proveïdor pot ser propietari de més del sistema",
+    "after": "El proveïdor pot assumir una part més gran del sistema",
+    "pages": [
+      "ca/compare/outbound-agency-vs-freelancer/index.html"
+    ]
+  },
+  {
+    "id": 92,
+    "locale": "ca",
+    "before": "Anomeneu el substitut, el temps de lliurament i el propietari del control de qualitat abans de signar.",
+    "after": "Abans de signar, defineix qui farà la substitució, el termini de traspàs i qui assumirà el control de qualitat.",
+    "pages": [
+      "ca/compare/outbound-agency-vs-freelancer/index.html"
+    ]
+  },
+  {
+    "id": 93,
+    "locale": "ca",
+    "before": "Un propietari sènior ha de supervisar el lliurament",
+    "after": "Un responsable sènior ha de supervisar el lliurament",
+    "pages": [
+      "ca/compare/outbound-agency-vs-freelancer/index.html"
+    ]
+  },
+  {
+    "id": 94,
+    "locale": "ca",
+    "before": "Per a un SDR intern, incloeu el sou, els costos de l'empresari, la comissió, la contractació, la rampa, el temps del gestor, les eines, les dades, l'oficina o l'equip, l'habilitació i la facturació. Per a un model subcontractat, inclou la configuració, retenció, tarifes variables, programari requerit, gestió de clients i qualsevol treball intern retingut.",
+    "after": "Per a un SDR intern, inclou el sou, els costos laborals, les comissions, la selecció de personal, el període d'adaptació, el temps de gestió, les eines, les dades, l'oficina o els equips, la formació i la rotació de personal. Per a un model externalitzat, inclou la posada en marxa, la quota mensual, els càrrecs variables, el programari requerit, la gestió del proveïdor per part del client i la feina que continua assumint l'equip intern.",
+    "pages": [
+      "ca/compare/outsourced-sdr-vs-in-house-sdr/index.html"
+    ]
+  },
+  {
+    "id": 95,
+    "locale": "ca",
+    "before": "Híbrid: propietari intern més execució externa especialitzada",
+    "after": "Híbrid: responsable intern i execució externa especialitzada",
+    "pages": [
+      "ca/compare/outsourced-sdr-vs-in-house-sdr/index.html"
+    ]
+  },
+  {
+    "id": 96,
+    "locale": "ca",
+    "before": "Tots dos models necessiten un propietari del client que accepti les oportunitats i canviï els supòsits comercials.",
+    "after": "Tots dos models necessiten un responsable del client que accepti les oportunitats i canviï els supòsits comercials.",
+    "pages": [
+      "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 97,
+    "locale": "ca",
+    "before": "Un soci gestionat pot tenir sentit per a una prova de mercat fixa, un canal especialitzat, capacitat urgent o una empresa que no té operacions d'investigació i campanya, però té una oferta creïble i un propietari de vendes.",
+    "after": "Un soci gestionat pot tenir sentit per a una prova de mercat fixa, un canal especialitzat, capacitat urgent o una empresa que no té operacions d'investigació i campanya, però té una oferta creïble i un responsable comercial.",
+    "pages": [
+      "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 98,
+    "locale": "ca",
+    "before": "Per a l'augment, incloeu la tarifa de recursos, el gestor intern, l'habilitació, el programari, les dades, l'ocupació o la sobrecàrrega del proveïdor, el temps d'inactivitat i la substitució. Per a l'externalització gestionada, inclou la configuració, la retenció, les tarifes variables, les eines necessàries, les aprovacions i el suport de vendes.",
+    "after": "Per a l'ampliació de personal, inclou la tarifa del recurs, el responsable intern, la formació, el programari, les dades, les despeses laborals o generals del proveïdor, els períodes sense activitat i les substitucions. Per a l'externalització gestionada, inclou la posada en marxa, la quota mensual, els càrrecs variables, les eines necessàries, les aprovacions i el suport comercial.",
+    "pages": [
+      "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 99,
+    "locale": "ca",
+    "before": "Línia d'informes i propietari del rendiment",
+    "after": "Dependència jeràrquica i responsable del rendiment",
+    "pages": [
+      "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 100,
+    "locale": "ca",
+    "before": "Assistència a la outbound i eliminació de credencials",
+    "after": "Assistència al final de la col·laboració i revocació de credencials",
+    "pages": [
+      "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 102,
+    "locale": "ca",
+    "before": "No és necessari per a la gestió diària del proveïdor, però el propietari del client continua sent necessari",
+    "after": "No és necessari per a la gestió diària del proveïdor, però el responsable del client continua sent necessari",
+    "pages": [
+      "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 103,
+    "locale": "ca",
+    "before": "Gol de outbound",
+    "after": "Objectiu en finalitzar la col·laboració",
+    "pages": [
+      "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 104,
+    "locale": "ca",
+    "before": "Depèn de l'abast, la geografia, la gestió, les eines, les dades, la rampa i la substitució. Compareu el cost total per a les mateixes responsabilitats i definició de resultats en lloc de la taxa de recursos amb la retenció de l'agència.",
+    "after": "Depèn de l'abast, la geografia, la gestió, les eines, les dades, el període d'adaptació i la substitució. Compareu el cost total per a les mateixes responsabilitats i definició de resultats en lloc de la taxa de recursos amb la quota mensual de l'agència.",
+    "pages": [
+      "ca/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 105,
+    "locale": "ca",
+    "before": "Demanda d'entrada separada, comptes amb nom de outbound, desenvolupament de comptes estratègics i cues mixtes.",
+    "after": "Separa la demanda entrant, la prospecció de comptes identificats, el desenvolupament de comptes estratègics i les cues de treball mixtes.",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 107,
+    "locale": "ca",
+    "before": "Aquest mapa revela si la necessitat és la capacitat de resposta, el desenvolupament del compte de outbound, la investigació, la qualificació, la concertació de reunions o un suport de vendes més ampli. També evita que els clients potencials desapareguin entre el proveïdor i l'executiu del compte.",
+    "after": "Aquest mapa revela si la necessitat és la capacitat de resposta, el desenvolupament del compte d'outbound, la investigació, la qualificació, la concertació de reunions o un suport de vendes més ampli. També evita que els clients potencials desapareguin entre el proveïdor i l'executiu del compte.",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 108,
+    "locale": "ca",
+    "before": "Externalitzar el desenvolupament de outbound quan l'empresa té una oferta creïble i un propietari de vendes, però no té una investigació de comptes repetible, una cobertura de paper de compra, una comunicació o un tractament de respostes primerenques. Si no es valida ni el mercat ni l'oferta, feu una prova de descobriment molt limitada en lloc de presentar l'activitat subcontractada com un motor de pipeline provat.",
+    "after": "Externalitza la prospecció outbound quan l'empresa tingui una oferta creïble i un responsable comercial, però no disposi de processos repetibles de recerca de comptes, identificació de rols de compra, contacte o gestió de les primeres respostes. Si el mercat o l'oferta encara no estan validats, fes una prova exploratòria molt acotada, en lloc de presentar l'activitat externalitzada com un motor de negoci ja demostrat.",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 109,
+    "locale": "ca",
+    "before": "Restricció de outbound: cobertura del compte, investigació o prospecció coherent",
+    "after": "Restricció d'outbound: cobertura del compte, investigació o prospecció coherent",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 110,
+    "locale": "ca",
+    "before": "El desenvolupament entrant s'ha de mesurar en el temps de resposta, el contacte, la precisió de l'encaminament, la coherència de la qualificació, l'assistència i la progressió de l'oportunitat acceptada. El desenvolupament de outbound hauria d'afegir cobertura del compte, qualitat de la investigació, categories de resposta i proves sobre el mercat.",
+    "after": "El desenvolupament entrant s'ha de mesurar en el temps de resposta, el contacte, la precisió de l'encaminament, la coherència de la qualificació, l'assistència i la progressió de l'oportunitat acceptada. El desenvolupament d'outbound hauria d'afegir cobertura del compte, qualitat de la investigació, categories de resposta i proves sobre el mercat.",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 112,
+    "locale": "ca",
+    "before": "Confirmeu les persones reals, la supervisió, l'accés al compte i a les dades, les afirmacions aprovades, les regles del canal, les desactivacions, els permisos de CRM, els subcontractistes, la propietat dels actius i la outbound. Un venedor no pot absorbir totes les plataformes, privadesa, marca o risc comercial en nom del client.",
+    "after": "Confirma les persones que faran la feina, la supervisió, l'accés als comptes i a les dades, les afirmacions aprovades, les regles del canal, les baixes, els permisos del CRM, els subcontractistes, la propietat dels actius i les condicions de finalització. Un proveïdor no pot assumir en nom del client tots els riscos de plataforma, privadesa, marca o negoci.",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 113,
+    "locale": "ca",
+    "before": "Beespoke gestiona campanyes de outbound dirigides pel fundador i centrades en LinkedIn amb una execució especialitzada compartida. No ofereix cobertura de centre de trucades entrants ni un SDR o BDR a temps complet anomenat sota la gestió diària del client. Els compradors que necessiten aquests models haurien de comparar l'externalització dedicada, l'ampliació de personal o una contractació interna.",
+    "after": "Beespoke gestiona campanyes de prospecció dirigides pel fundador i centrades en LinkedIn, amb execució especialitzada compartida. No ofereix cobertura de centre d'atenció telefònica entrant ni un SDR o BDR a temps complet assignat sota la gestió diària del client. Els compradors que necessitin aquests models han de comparar l'externalització dedicada, l'ampliació de personal o la contractació interna.",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 114,
+    "locale": "ca",
+    "before": "El client ha de ser propietari",
+    "after": "El client ha d'assumir-ne la responsabilitat",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 115,
+    "locale": "ca",
+    "before": "Cobertura del compte de outbound",
+    "after": "Cobertura del compte d'outbound",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 116,
+    "locale": "ca",
+    "before": "Campanya de outbound gestionada",
+    "after": "Campanya d'outbound gestionada",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 117,
+    "locale": "ca",
+    "before": "Externalitzar el flux de treball lligat a la restricció d'enllaç. La qualificació d'entrada s'adapta quan la resposta, l'encaminament o la cobertura són febles. El desenvolupament de outbound s'adapta quan falta la investigació del compte objectiu i la prospecció coherent. Definiu les responsabilitats abans de seleccionar una etiqueta.",
+    "after": "Externalitza el flux de treball que respongui al coll d'ampolla. La qualificació de demanda entrant és adequada quan fallen la resposta, la derivació o la cobertura. La prospecció outbound és adequada quan manquen la recerca de comptes objectiu i un contacte sostingut. Defineix les responsabilitats abans de triar una etiqueta.",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 118,
+    "locale": "ca",
+    "before": "El mateix equip subcontractat pot gestionar l'entrada i la outbound?",
+    "after": "El mateix equip extern pot gestionar la demanda entrant i la prospecció outbound?",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 119,
+    "locale": "ca",
+    "before": "Pot, però les cues necessiten nivells de servei, fluxos de treball, supòsits de capacitat i mètriques separats. La resposta d'entrada urgent no s'ha de desplaçar per l'activitat de outbound i l'abast combinat no ha d'ocultar quin moviment té un rendiment inferior.",
+    "after": "Pot, però les cues necessiten nivells de servei, fluxos de treball, supòsits de capacitat i mètriques separats. La resposta d'entrada urgent no s'ha de desplaçar per l'activitat d'outbound i l'abast combinat no ha d'ocultar quin moviment té un rendiment inferior.",
+    "pages": [
+      "ca/compare/sdr-vs-bdr-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 120,
+    "locale": "ca",
+    "before": "Beespoke publica contingut comercial i educatiu per ajudar els compradors B2B a avaluar els serveis de outbound. Distingim observacions de campanyes de primera mà, exemples publicats pel proveïdor, fonts externes i la nostra interpretació; revelar les limitacions materials; i corregir errors de fet en lloc de presentar estimacions o afirmacions de màrqueting com a veritat universal.",
+    "after": "Beespoke publica contingut comercial i educatiu per ajudar els compradors B2B a avaluar serveis de prospecció outbound. Distingim les observacions directes de campanyes, els exemples publicats per proveïdors, les fonts externes i la nostra interpretació; expliquem les limitacions rellevants i corregim errors de fet, sense presentar estimacions ni afirmacions comercials com a veritats universals.",
+    "pages": [
+      "ca/editorial-policy/index.html"
+    ]
+  },
+  {
+    "id": 121,
+    "locale": "ca",
+    "before": "Comptabilitat de outbound senzilla",
+    "after": "Càlcul senzill dels resultats",
+    "pages": [
+      "ca/guides/appointment-setting-pricing/index.html"
+    ]
+  },
+  {
+    "id": 122,
+    "locale": "ca",
+    "before": "Retenció, assignació de configuració, dades, programari, comissions de rendiment i gestió interna.",
+    "after": "Quota mensual, assignació de configuració, dades, programari, comissions de rendiment i gestió interna.",
+    "pages": [
+      "ca/guides/appointment-setting-pricing/index.html"
+    ]
+  },
+  {
+    "id": 124,
+    "locale": "ca",
+    "before": "Un futur propietari nomenat i pla d'adopció",
+    "after": "Futur responsable designat i pla d’adopció",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 125,
+    "locale": "ca",
+    "before": "Si la conversió de vendes és la capa limitadora, solucioneu el descobriment, la solució o el tancament abans de comprar més volum de la part superior de l'embut.",
+    "after": "Si la conversió de vendes és la capa limitadora, solucioneu la diagnosi comercial, la solució o el tancament abans de comprar més volum de la part superior de l'embut.",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 126,
+    "locale": "ca",
+    "before": "Pla d'adopció i propietari",
+    "after": "Pla d’adopció i responsable designat",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 127,
+    "locale": "ca",
+    "before": "La consultoria pot semblar cara per dia, però econòmica quan una intervenció curta evita mesos d'execució feble. Una retenció d'agència pot semblar més gran en total, però raonable quan substitueix diverses tasques especialitzades recurrents. L'execució interna afegeix contractació, gestió, eines, dades, temps de posada en marxa i cost d'oportunitat.",
+    "after": "La consultoria pot semblar cara per dia, però econòmica quan una intervenció curta evita mesos d'execució feble. Una quota mensual d'agència pot semblar més gran en total, però raonable quan substitueix diverses tasques especialitzades recurrents. L'execució interna afegeix contractació, gestió, eines, dades, temps de posada en marxa i cost d'oportunitat.",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 128,
+    "locale": "ca",
+    "before": "Calculeu el cost total durant el període de decisió i, després, pregunteu què serà el propietari del comprador. Compareu el cost d'un diagnòstic creïble, d'una campanya que funcioni, d'una oportunitat acceptada o d'una capacitat transferida, no d'hores i retencions incomparables.",
+    "after": "Calcula el cost total durant el període de decisió i pregunta quins actius i coneixements conservarà el comprador. Compara el cost d'un diagnòstic creïble, una campanya operativa, una oportunitat acceptada o una capacitat transferida, en lloc de comparar hores i quotes que cobreixen responsabilitats diferents.",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 129,
+    "locale": "ca",
+    "before": "Beespoke és una petita agència outbound gestionada dirigida pel fundador. Ajuda a definir el mercat objectiu i el missatge com a part de l'execució de campanyes dirigides per LinkedIn, després gestiona la investigació, la primera prospecció, les primeres respostes, la qualificació i la reserva de reunions. El client posseeix la veritat del producte, les respostes d'experts, el descobriment i el tancament.",
+    "after": "Beespoke és una petita agència de prospecció outbound dirigida pel fundador. Ajuda a definir el mercat objectiu i els missatges com a part de les campanyes centrades en LinkedIn, i després gestiona la recerca, els primers contactes, les primeres respostes, la qualificació i les reserves de reunions. El client es responsabilitza de l'exactitud de la informació del producte, les respostes expertes, la diagnosi comercial i el tancament.",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 130,
+    "locale": "ca",
+    "before": "Una empresa que necessiti un assessor independent, un diagnòstic de outbound al mercat a nivell de la junta, un entrenament intern d'equips sense execució o un exercici neutral de selecció de proveïdors hauria de contractar un consultor especialitzat. Una empresa que ja té estratègia però necessita una persona designada sota la direcció interna diària pot preferir un model d'autònom, de contractació o d'ampliació de personal.",
+    "after": "Una empresa que necessiti assessorament independent, un diagnòstic comercial per al consell d'administració, formació interna sense execució o una selecció neutral de proveïdors hauria de contractar un consultor especialitzat. Una empresa que ja tingui estratègia però necessiti una persona assignada sota direcció interna diària pot preferir un autònom, una contractació o un model d'ampliació de personal.",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 131,
+    "locale": "ca",
+    "before": "Feu que la propietat i les proves de outbound formen part de la selecció.",
+    "after": "Inclou la propietat dels actius i les proves del traspàs final en la selecció.",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 132,
+    "locale": "ca",
+    "before": "Propietari de la decisió i accés a proves",
+    "after": "Responsable de la decisió i accés a proves",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 133,
+    "locale": "ca",
+    "before": "Veritat del producte i propietari de vendes",
+    "after": "Veritat del producte i responsable comercial",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 134,
+    "locale": "ca",
+    "before": "Normalment, una agència s'adapta millor quan l'estratègia és prou clara però l'empresa no té capacitat d'investigació recurrent, prospecció, resposta, qualificació o gestió de campanyes. El client encara necessita un propietari per a la conversió de la veritat del producte i les vendes.",
+    "after": "Una agència acostuma a ser més adequada quan l'estratègia és prou clara, però l'empresa no té capacitat recurrent de recerca, prospecció, resposta, qualificació o gestió de campanyes. El client continua necessitant un responsable de l'exactitud de la informació del producte i de la conversió comercial.",
+    "pages": [
+      "ca/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 135,
+    "locale": "ca",
+    "before": "Qui és el propietari de l'estratègia, l'execució diària i l'entrega de vendes?",
+    "after": "Qui assumeix l'estratègia, l'execució diària i el traspàs a vendes?",
+    "pages": [
+      "ca/guides/best-b2b-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 136,
+    "locale": "ca",
+    "before": "Serveis de outbound i SDR basats en dades",
+    "after": "Serveis d'outbound i SDR basats en dades",
+    "pages": [
+      "ca/guides/best-b2b-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 137,
+    "locale": "ca",
+    "before": "Beespoke publica aquesta guia i competeix pel treball de outbound. No va rebre cap pagament per inclusió o comanda i no utilitza cap enllaç d'afiliació. La llista curta no és alfabètica per qualitat ni recomanació i no s'ha de tractar com una taula de lliga.",
+    "after": "Beespoke publica aquesta guia i competeix per serveis d'outbound. No ha rebut pagaments per la inclusió ni per la posició i no utilitza enllaços d'afiliació. L'ordre de la selecció no representa una classificació de qualitat ni una recomanació.",
+    "pages": [
+      "ca/guides/best-b2b-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 138,
+    "locale": "ca",
+    "before": "Parleu amb el propietari del lliurament.",
+    "after": "Parleu amb el responsable de la prestació del servei.",
+    "pages": [
+      "ca/guides/best-b2b-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 139,
+    "locale": "ca",
+    "before": "Quins passos són revisats per humans i com es verifica la outbound de l'IA?",
+    "after": "Quins passos revisen persones i com es verifiquen els resultats de la IA?",
+    "pages": [
+      "ca/guides/best-linkedin-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 140,
+    "locale": "ca",
+    "before": "Afegiu LinkedIn a la outbound multicanal",
+    "after": "Afegiu LinkedIn a l'outbound multicanal",
+    "pages": [
+      "ca/guides/best-linkedin-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 141,
+    "locale": "ca",
+    "before": "Confirmeu qui és el propietari de les llistes d'objectius, investigació, copy, historial de respostes, notes de reunió, configuracions d'eines i aprenentatge de campanyes. Definiu les exportacions, l'eliminació d'accés i el lliurament abans del llançament.",
+    "after": "Confirmeu qui és el propietari de les llistes d'objectius, investigació, textos, historial de respostes, notes de reunió, configuracions d'eines i aprenentatge de campanyes. Definiu les exportacions, l'eliminació d'accés i el lliurament abans del llançament.",
+    "pages": [
+      "ca/guides/best-linkedin-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 142,
+    "locale": "ca",
+    "before": "Servei de outbound digital Do It",
+    "after": "Servei d'outbound digital Do It",
+    "pages": [
+      "ca/guides/best-linkedin-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 143,
+    "locale": "ca",
+    "before": "Nom del responsable del compte i propietari de l'escalada",
+    "after": "Responsable de compte designat i responsable de gestionar incidències",
+    "pages": [
+      "ca/guides/best-outsourced-sdr-companies/index.html"
+    ]
+  },
+  {
+    "id": 144,
+    "locale": "ca",
+    "before": "Investigador, escriptor, remitent i propietari de la resposta",
+    "after": "Investigador, escriptor, remitent i responsable de la resposta",
+    "pages": [
+      "ca/guides/best-outsourced-sdr-companies/index.html"
+    ]
+  },
+  {
+    "id": 145,
+    "locale": "ca",
+    "before": "L'entrega ha d'incloure el context original, l'historial del missatge, la funció de l'assistent, el problema indicat, les notes de qualificació, l'estat de la programació i qualsevol compromís assumit. El propietari de vendes del client hauria de poder acceptar o rebutjar l'oportunitat utilitzant motius documentats.",
+    "after": "El traspàs ha d'incloure el context original, l'historial de missatges, el rol de la persona participant, el problema declarat, les notes de qualificació, l'estat de la reserva i els compromisos assumits. El responsable comercial del client ha de poder acceptar o rebutjar l'oportunitat amb motius documentats.",
+    "pages": [
+      "ca/guides/best-outsourced-sdr-companies/index.html"
+    ]
+  },
+  {
+    "id": 146,
+    "locale": "ca",
+    "before": "Beespoke obté ingressos dels serveis de outbound. La llista curta inclou intencionadament competidors més grans i més amplis, no utilitza enllaços d'afiliació i no accepta cap pagament per la comanda o la inclusió.",
+    "after": "Beespoke obté ingressos dels serveis d'outbound. La selecció inclou deliberadament competidors més grans i amb una oferta més àmplia, no utilitza enllaços d'afiliació i no accepta pagaments per la posició ni per la inclusió.",
+    "pages": [
+      "ca/guides/best-outsourced-sdr-companies/index.html"
+    ]
+  },
+  {
+    "id": 147,
+    "locale": "ca",
+    "before": "Entrevisteu el propietari del lliurament, no només les vendes.",
+    "after": "Entrevisteu el responsable de la prestació del servei, no només les vendes.",
+    "pages": [
+      "ca/guides/best-outsourced-sdr-companies/index.html"
+    ]
+  },
+  {
+    "id": 148,
+    "locale": "ca",
+    "before": "Els preus varien segons el personal dedicat i compartit, la geografia, els canals, les dades, la gestió i la definició de la outbound. Utilitzeu un cost mensual total i un denominador coherent de reunions qualificades.",
+    "after": "Els preus varien segons la dedicació exclusiva o compartida del personal, la geografia, els canals, les dades, la gestió i la definició dels resultats. Compara el cost mensual total amb un denominador coherent de reunions qualificades celebrades.",
+    "pages": [
+      "ca/guides/best-outsourced-sdr-companies/index.html",
+      "ca/services/outsourced-sdr/index.html"
+    ]
+  },
+  {
+    "id": 149,
+    "locale": "ca",
+    "before": "El cold email és un sistema operatiu, no només una tasca d'escriptura. Un proveïdor creïble hauria d'anomenar qui és el propietari de la investigació del compte, la verificació de contactes, els dominis d'enviament, la configuració de la bústia de correu, l'autenticació, la rampa, l'aprovació de còpies, la gestió de respostes, les desactivacions i els informes.",
+    "after": "El cold email és un sistema operatiu, no només una tasca d'escriptura. Un proveïdor creïble hauria d'anomenar qui és el propietari de la investigació del compte, la verificació de contactes, els dominis d'enviament, la configuració de la bústia de correu, l'autenticació, el període d'adaptació, l'aprovació de còpies, la gestió de respostes, les desactivacions i els informes.",
+    "pages": [
+      "ca/guides/cold-email-agency/index.html"
+    ]
+  },
+  {
+    "id": 150,
+    "locale": "ca",
+    "before": "Còpia",
+    "after": "Textos dels missatges",
+    "pages": [
+      "ca/guides/cold-email-agency/index.html"
+    ]
+  },
+  {
+    "id": 153,
+    "locale": "ca",
+    "before": "La capacitat d'enviament barata no és comparable amb una campanya gestionada. De la mateixa manera, una retenció alta no prova que s'inclogui la investigació o el judici superior. Demaneu conèixer les persones que operaran la campanya i inspeccionar el procés de lliurament.",
+    "after": "La capacitat d'enviament barata no és comparable amb una campanya gestionada. De la mateixa manera, una quota mensual elevada no prova que s'inclogui la investigació o el judici superior. Demaneu conèixer les persones que operaran la campanya i inspeccionar el procés de lliurament.",
+    "pages": [
+      "ca/guides/cold-email-agency/index.html"
+    ]
+  },
+  {
+    "id": 154,
+    "locale": "ca",
+    "before": "Documenta la outbound: dominis, bústies, textos aprovats, procedència dels contactes i llistes d’exclusió han de tenir responsables definits.",
+    "after": "Documenta les condicions de finalització: els dominis, les bústies, els textos aprovats, la procedència dels contactes i les llistes d'exclusió han de tenir responsables definits.",
+    "pages": [
+      "ca/guides/cold-email-agency/index.html"
+    ]
+  },
+  {
+    "id": 156,
+    "locale": "ca",
+    "before": "Retenció mensual i, de vegades, configuració",
+    "after": "Quota mensual i, de vegades, configuració",
+    "pages": [
+      "ca/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 157,
+    "locale": "ca",
+    "before": "Menor retenció més preu de plom o reunió",
+    "after": "Quota fixa més baixa i un preu per contacte o reunió",
+    "pages": [
+      "ca/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 158,
+    "locale": "ca",
+    "before": "Compte per aprovació, respostes difícils, descobriment i treball de CRM.",
+    "after": "Inclou el temps per a aprovacions, respostes difícils, diagnosi comercial i treball al CRM.",
+    "pages": [
+      "ca/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 159,
+    "locale": "ca",
+    "before": "Retenció de l'agència o subscripció a la plataforma",
+    "after": "Quota mensual de l'agència o subscripció a la plataforma",
+    "pages": [
+      "ca/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 161,
+    "locale": "ca",
+    "before": "Sol·liciteu els mateixos camps a tots els proveïdors seleccionats i feu que el propietari del lliurament els confirmi. Modeleu un cas pessimista, esperat i optimista utilitzant les reunions de l'ICP celebrades i les oportunitats acceptades en lloc del volum d'enviaments promès pel venedor.",
+    "after": "Sol·liciteu els mateixos camps a tots els proveïdors seleccionats i feu que el responsable de la prestació del servei els confirmi. Modeleu un cas pessimista, esperat i optimista utilitzant les reunions de l'ICP celebrades i les oportunitats acceptades en lloc del volum d'enviaments promès pel venedor.",
+    "pages": [
+      "ca/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 162,
+    "locale": "ca",
+    "before": "Beespoke publica aquesta guia com a recurs del comprador i ven serveis de outbound dirigits per LinkedIn. La infraestructura massiva de cold email no està inclosa als plans estàndard de Beespoke. Per tant, els preus públics de Beespoke no s'han de comparar amb una cotització de cold email gestionada com si l'abast del canal fos idèntic.",
+    "after": "Beespoke publica aquesta guia com a recurs del comprador i ven serveis d'outbound dirigits per LinkedIn. La infraestructura massiva de cold email no està inclosa als plans estàndard de Beespoke. Per tant, els preus públics de Beespoke no s'han de comparar amb una cotització de cold email gestionada com si l'abast del canal fos idèntic.",
+    "pages": [
+      "ca/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 164,
+    "locale": "ca",
+    "before": "La mà d'obra retinguda pertany al cost totalment carregat",
+    "after": "La feina que continua assumint el client forma part del cost total",
+    "pages": [
+      "ca/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 165,
+    "locale": "ca",
+    "before": "Tria una agència de generació de leads outbound definint primer el mercat, el canal, les responsabilitats i el resultat qualificat que necessites. Després, revisa l’equip que realment prestarà el servei, una mostra real o anonimitzada, la qualitat de la recerca, els controls de missatges, la gestió de respostes, els informes, la protecció de plataformes i dades, el denominador de preu, la propietat i les condicions de outbound. Selecciona agències amb un model operatiu que respongui a la teva limitació; no les ordenis principalment per promeses de reunions, logotips o volum d’activitat.",
+    "after": "Tria una agència de generació de leads outbound definint primer el mercat, el canal, les responsabilitats i el resultat qualificat que necessites. Després, revisa l’equip que realment prestarà el servei, una mostra real o anonimitzada, la qualitat de la recerca, els controls de missatges, la gestió de respostes, els informes, la protecció de plataformes i dades, el denominador de preu, la propietat i les condicions de finalització. Selecciona agències amb un model operatiu que respongui a la teva limitació; no les ordenis principalment per promeses de reunions, logotips o volum d’activitat.",
+    "pages": [
+      "ca/guides/how-to-choose-an-outbound-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 166,
+    "locale": "ca",
+    "before": "Una agència pot provar l'orientació i els missatges, però no pot fabricar una oferta creïble, una prova, un mercat accessible o una resposta de vendes competent. Aclariu el servei, el comprador, el llindar comercial, el propietari de les vendes i les proves abans de demanar a un proveïdor que s'escalfi.",
+    "after": "Una agència pot provar la segmentació i els missatges, però no pot fabricar una oferta creïble, proves, un mercat accessible ni una resposta comercial competent. Aclareix el servei, el comprador, el llindar comercial, el responsable de vendes i les proves abans de demanar al proveïdor que augmenti l'activitat.",
+    "pages": [
+      "ca/guides/how-to-choose-an-outbound-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 167,
+    "locale": "ca",
+    "before": "El responsable designat pot respondre i liderar el descobriment",
+    "after": "El responsable designat pot respondre i liderar la diagnosi comercial",
+    "pages": [
+      "ca/guides/how-to-choose-an-outbound-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 168,
+    "locale": "ca",
+    "before": "Afegiu configuració, retenció, eines, dades, tarifes variables i temps del client. Compareu el cost total durant el mateix període i utilitzeu els resultats qualificats que es mantenen com a denominador comú.",
+    "after": "Afegeix la posada en marxa, la quota mensual, les eines, les dades, els càrrecs variables i el temps del client. Compara el cost total durant el mateix període i utilitza les reunions qualificades celebrades com a denominador comú.",
+    "pages": [
+      "ca/guides/how-to-choose-an-outbound-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 169,
+    "locale": "ca",
+    "before": "Confirmeu que el client és propietari o pot exportar llistes de comptes, investigar, copiar, historial de respostes, context de reunió, dades de resultats i aprenentatge. Definiu l'eliminació i el traspàs d'accés abans de la primera campanya.",
+    "after": "Confirma que el client conserva o pot exportar les llistes de comptes, la recerca, els textos, l'historial de respostes, el context de les reunions, les dades de resultats i els aprenentatges. Defineix la revocació d'accés i el traspàs abans de la primera campanya.",
+    "pages": [
+      "ca/guides/how-to-choose-an-outbound-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 170,
+    "locale": "ca",
+    "before": "Enumereu totes les decisions i tasques recurrents i, a continuació, assigneu un propietari responsable. La responsabilitat compartida sense un decisor final crea aprovacions lentes, respostes inconsistents i resultats no revisables.",
+    "after": "Enumereu totes les decisions i tasques recurrents i, a continuació, assigneu un responsable clarament designat. La responsabilitat compartida sense un decisor final crea aprovacions lentes, respostes inconsistents i resultats no revisables.",
+    "pages": [
+      "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 171,
+    "locale": "ca",
+    "before": "Mantingueu les afirmacions de solucions, les aprovacions legals o de compliment, el descobriment d'experts, les propostes i el tancament amb personal qualificat del client, tret que el contracte les cobreixi de manera explícita i creïble.",
+    "after": "Mantingueu les afirmacions de solucions, les aprovacions legals o de compliment, la diagnosi comercial d'experts, les propostes i el tancament amb personal qualificat del client, tret que el contracte les cobreixi de manera explícita i creïble.",
+    "pages": [
+      "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 172,
+    "locale": "ca",
+    "before": "Propietari del proveïdor",
+    "after": "Responsable del proveïdor",
+    "pages": [
+      "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 173,
+    "locale": "ca",
+    "before": "Propietari del client",
+    "after": "Responsable del client",
+    "pages": [
+      "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 174,
+    "locale": "ca",
+    "before": "Descobriment i tancament",
+    "after": "Diagnosi comercial i tancament",
+    "pages": [
+      "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 175,
+    "locale": "ca",
+    "before": "Un propietari responsable a cada costat",
+    "after": "Un responsable clarament designat a cada costat",
+    "pages": [
+      "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 176,
+    "locale": "ca",
+    "before": "El coneixement del proveïdor desapareix a la outbound",
+    "after": "El coneixement del proveïdor desapareix al final de la col·laboració",
+    "pages": [
+      "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 177,
+    "locale": "ca",
+    "before": "Utilitzeu un propietari del costat del client amb autoritat sobre l'orientació, les aprovacions, la resposta de vendes i les decisions del proveïdor. Els experts sèniors poden donar suport a les respostes i al descobriment, però una persona ha de ser propietari del sistema operatiu.",
+    "after": "Designa un responsable del client amb autoritat sobre la segmentació, les aprovacions, la resposta comercial i les decisions sobre proveïdors. Els experts sèniors poden ajudar amb les respostes i la diagnosi comercial, però una persona ha de responsabilitzar-se del sistema de treball.",
+    "pages": [
+      "ca/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 178,
+    "locale": "ca",
+    "before": "Una xifra mensual baixa pot comprar accés a programari, plantilles o un operador compartit. Una retenció més alta pot incloure la investigació del compte, el posicionament, la prospecció manual, la gestió de respostes i la coordinació de reunions. Una tarifa de rendiment encara pot comportar costos fixos de plataforma, dades o configuració.",
+    "after": "Una xifra mensual baixa pot comprar accés a programari, plantilles o un operador compartit. Una quota mensual més elevada pot incloure la investigació del compte, el posicionament, la prospecció manual, la gestió de respostes i la coordinació de reunions. Una tarifa de rendiment encara pot comportar costos fixos de plataforma, dades o configuració.",
+    "pages": [
+      "ca/guides/linkedin-lead-generation-agency-cost/index.html"
+    ]
+  },
+  {
+    "id": 180,
+    "locale": "ca",
+    "before": "Compareu el cost efectiu només després que cada proposta utilitzi la mateixa definició de outbound i període de temps.",
+    "after": "Compara el cost efectiu només quan totes les propostes utilitzin la mateixa definició de resultats i el mateix període.",
+    "pages": [
+      "ca/guides/linkedin-lead-generation-agency-cost/index.html"
+    ]
+  },
+  {
+    "id": 181,
+    "locale": "ca",
+    "before": "Mantingueu un propietari de resposta del costat del client.",
+    "after": "Mantingueu un responsable de les respostes del costat del client.",
+    "pages": [
+      "ca/guides/linkedin-lead-generation-agency-cost/index.html"
+    ]
+  },
+  {
+    "id": 182,
+    "locale": "ca",
+    "before": "Definició mantinguda, en ICP i acceptada per vendes",
+    "after": "Definició de reunió celebrada, dins de l'ICP i acceptada per vendes",
+    "pages": [
+      "ca/guides/linkedin-lead-generation-agency-cost/index.html"
+    ]
+  },
+  {
+    "id": 183,
+    "locale": "ca",
+    "before": "Retenció dividida només per reunions reservades",
+    "after": "Quota mensual dividida només per les reunions reservades",
+    "pages": [
+      "ca/guides/linkedin-lead-generation-agency-cost/index.html"
+    ]
+  },
+  {
+    "id": 185,
+    "locale": "ca",
+    "before": "Referent de preus de outbound B2B de Beespoke 2026",
+    "after": "Referent de preus d'outbound B2B de Beespoke 2026",
+    "pages": [
+      "ca/guides/linkedin-lead-generation-agency-cost/index.html"
+    ]
+  },
+  {
+    "id": 186,
+    "locale": "ca",
+    "before": "La resposta d'entrada compartida, l'atenció al client dedicada, la prospecció de outbound, el telemàrqueting, la concertació de reunions i una plataforma de centre de contacte només amb programari resolen diferents feines. La seva utilització, personal i preus no es poden comparar com una tarifa de mercat.",
+    "after": "La resposta d'entrada compartida, l'atenció al client dedicada, la prospecció d'outbound, el telemàrqueting, la concertació de reunions i una plataforma de centre de contacte només amb programari resolen diferents feines. La seva utilització, personal i preus no es poden comparar com una tarifa de mercat.",
+    "pages": [
+      "ca/guides/outbound-call-center-pricing/index.html"
+    ]
+  },
+  {
+    "id": 187,
+    "locale": "ca",
+    "before": "Per al treball de outbound, la geografia del document, les hores de trucada, l'idioma, el volum objectiu, la responsabilitat de la llista, la profunditat de la investigació, la propietat del guió, l'enregistrament de trucades, la qualificació, la reserva, les actualitzacions de CRM i el seguiment. Aquestes decisions d'abast determinen el cost abans que qualsevol tarifa de proveïdor.",
+    "after": "Per al treball de prospecció, documenta la geografia, l'horari de trucades, l'idioma, el volum objectiu, la responsabilitat sobre la llista, la profunditat de la recerca, la propietat del guió, l'enregistrament de trucades, la qualificació, les reserves, les actualitzacions del CRM i el seguiment. Aquestes decisions determinen el cost abans de comparar tarifes de proveïdors.",
+    "pages": [
+      "ca/guides/outbound-call-center-pricing/index.html"
+    ]
+  },
+  {
+    "id": 188,
+    "locale": "ca",
+    "before": "Horari intern i propietari",
+    "after": "Hores internes i responsable designat",
+    "pages": [
+      "ca/guides/outbound-call-center-pricing/index.html"
+    ]
+  },
+  {
+    "id": 189,
+    "locale": "ca",
+    "before": "Aquesta pàgina no és assessorament legal. Exigir al proveïdor que identifiqui les jurisdiccions aplicables, els processos de supressió i desactivació, la identitat de la persona que truca, les regles de gravació, les fonts de dades, la retenció, els subcontractistes i la propietat de l'incident i, a continuació, obteniu assessorament legal qualificat per al programa previst.",
+    "after": "Aquesta pàgina no és assessorament jurídic. Demana al proveïdor que identifiqui les jurisdiccions aplicables, els processos de supressió i baixa, la identificació de qui truca, les regles d'enregistrament, les fonts de dades, la conservació, els subcontractistes i el responsable de gestionar incidents. Després, obtén assessorament jurídic qualificat per al programa previst.",
+    "pages": [
+      "ca/guides/outbound-call-center-pricing/index.html"
+    ]
+  },
+  {
+    "id": 190,
+    "locale": "ca",
+    "before": "Com cobren els centres de trucades de outbound?",
+    "after": "Com cobren els centres de trucades d'outbound?",
+    "pages": [
+      "ca/guides/outbound-call-center-pricing/index.html"
+    ]
+  },
+  {
+    "id": 191,
+    "locale": "ca",
+    "before": "La outbound és fàcil d'entendre",
+    "after": "Els resultats són fàcils d’entendre",
+    "pages": [
+      "ca/guides/outbound-lead-generation-cost/index.html"
+    ]
+  },
+  {
+    "id": 192,
+    "locale": "ca",
+    "before": "Comparteix el risc operatiu i de outbound",
+    "after": "Comparteix el risc operatiu i el risc dels resultats",
+    "pages": [
+      "ca/guides/outbound-lead-generation-cost/index.html"
+    ]
+  },
+  {
+    "id": 193,
+    "locale": "ca",
+    "before": "Calculadora d'equilibri de outbound",
+    "after": "Calculadora d'equilibri d'outbound",
+    "pages": [
+      "ca/guides/outbound-lead-generation-cost/index.html",
+      "ca/pricing/index.html"
+    ]
+  },
+  {
+    "id": 194,
+    "locale": "ca",
+    "before": "Per a una agència, afegiu la retenció, la tarifa de configuració, el programari o les dades que es cobren per separat, el temps de vendes intern i qualsevol tarifa per reunió. A continuació, compareu les reunions de l'ICP celebrades, les oportunitats acceptades i el pipeline, no envieu el volum.",
+    "after": "Per a una agència, suma la quota mensual, la posada en marxa, el programari o les dades facturats per separat, el temps comercial intern i qualsevol tarifa per reunió. Després compara les reunions celebrades amb comptes de l'ICP, les oportunitats acceptades i el pipeline, en lloc del volum d'enviaments.",
+    "pages": [
+      "ca/guides/outbound-lead-generation-cost/index.html"
+    ]
+  },
+  {
+    "id": 195,
+    "locale": "ca",
+    "before": "Descobriment i seguiment ràpids i creïbles",
+    "after": "Diagnosi comercial i seguiment ràpids i creïbles",
+    "pages": [
+      "ca/guides/outbound-lead-generation-cost/index.html"
+    ]
+  },
+  {
+    "id": 196,
+    "locale": "ca",
+    "before": "Qui és el propietari dels dominis, les dades, el copy, els comptes i l'historial de campanyes?",
+    "after": "Qui és el propietari dels dominis, les dades, els textos, els comptes i l'historial de campanyes?",
+    "pages": [
+      "ca/guides/outbound-lead-generation-cost/index.html"
+    ]
+  },
+  {
+    "id": 197,
+    "locale": "ca",
+    "before": "Major retenció, dades i infraestructura",
+    "after": "Quota mensual més elevada, dades i infraestructura",
+    "pages": [
+      "ca/guides/outbound-lead-generation-cost/index.html"
+    ]
+  },
+  {
+    "id": 198,
+    "locale": "ca",
+    "before": "Afegiu configuració, retenció, tarifes de rendiment, eines, dades, temps de gestió de clients, habilitació de vendes i rampa. Dividiu per reunions qualificades celebrades i oportunitats acceptades durant un període significatiu.",
+    "after": "Afegiu configuració, quota mensual, tarifes de rendiment, eines, dades, temps de gestió de clients, habilitació de vendes i període d'adaptació. Dividiu per reunions qualificades celebrades i oportunitats acceptades durant un període significatiu.",
+    "pages": [
+      "ca/guides/outsourced-sdr-cost/index.html"
+    ]
+  },
+  {
+    "id": 200,
+    "locale": "ca",
+    "before": "El client sol ser propietari",
+    "after": "El client se’n sol responsabilitzar",
+    "pages": [
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html"
+    ]
+  },
+  {
+    "id": 201,
+    "locale": "ca",
+    "before": "El proveïdor sol ser propietari",
+    "after": "El proveïdor se’n sol responsabilitzar",
+    "pages": [
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html"
+    ]
+  },
+  {
+    "id": 202,
+    "locale": "ca",
+    "before": "Un propietari nomenat pot respondre ràpidament, executar descobriments, actualitzar els resultats i actuar sobre l'aprenentatge de la campanya.",
+    "after": "Un responsable designat pot respondre ràpidament, fer la diagnosi comercial, actualitzar els resultats i actuar a partir dels aprenentatges de la campanya.",
+    "pages": [
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html"
+    ]
+  },
+  {
+    "id": 203,
+    "locale": "ca",
+    "before": "Demaneu l'equip real, la recerca de mostres, el procés d'aprovació de missatges, els nivells de servei de resposta, la regla de qualificació, els camps d'informes, els controls d'accés i el camí d'escalada. Posa per escrit la propietat i la mecànica de outbound abans del llançament.",
+    "after": "Demana conèixer l'equip real i veure una mostra de recerca, el procés d'aprovació de missatges, els terminis de resposta, la regla de qualificació, els camps dels informes, els controls d'accés i la via de gestió d'incidències. Deixa per escrit la propietat dels actius i el procediment de finalització abans del llançament.",
+    "pages": [
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html"
+    ]
+  },
+  {
+    "id": 204,
+    "locale": "ca",
+    "before": "Dependència a la outbound",
+    "after": "Dependència en finalitzar la col·laboració",
+    "pages": [
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html"
+    ]
+  },
+  {
+    "id": 205,
+    "locale": "ca",
+    "before": "L'externalització és un encaix raonable quan l'empresa té una oferta creïble, compradors identificables, un propietari intern per a trucades de veritat del producte i vendes, suficient economia per donar suport a proves sostingudes i un buit real d'execució o capacitat.",
+    "after": "L'externalització pot ser adequada quan l'empresa té una oferta creïble, compradors identificables, un responsable intern per validar la informació del producte i atendre les converses comercials, una economia que permet proves sostingudes i una manca real de capacitat o execució.",
+    "pages": [
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html"
+    ]
+  },
+  {
+    "id": 206,
+    "locale": "ca",
+    "before": "Propietari executiu i nivell de servei de resposta",
+    "after": "Responsable executiu i nivell de servei de resposta",
+    "pages": [
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html"
+    ]
+  },
+  {
+    "id": 207,
+    "locale": "ca",
+    "before": "Descobriment tècnic dirigit pel client",
+    "after": "Diagnosi tècnica dirigit pel client",
+    "pages": [
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html"
+    ]
+  },
+  {
+    "id": 208,
+    "locale": "ca",
+    "before": "De vegades, però el salari i la retenció no són denominadors comparables. Incloeu la compensació, la contractació, la gestió, la rampa, les eines, les dades, les tarifes del proveïdor, el temps intern i la facturació, i després compareu les reunions qualificades celebrades i les oportunitats acceptades.",
+    "after": "De vegades, però el salari i la quota mensual no són costos directament comparables. Inclou la remuneració, la contractació, la gestió, el període d'adaptació, les eines, les dades, els honoraris del proveïdor, el temps intern i la rotació de personal. Després compara les reunions qualificades celebrades i les oportunitats acceptades.",
+    "pages": [
+      "ca/guides/outsourced-sdr-pros-and-cons/index.html"
+    ]
+  },
+  {
+    "id": 209,
+    "locale": "ca",
+    "before": "Oferir entrada, descobriment i seguiment de vendes",
+    "after": "Aportar informació de l’oferta, diagnosi comercial i seguiment de vendes",
+    "pages": [
+      "ca/guides/outsourced-sdr-vs-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 210,
+    "locale": "ca",
+    "before": "Normalitzar el salari o la retenció, els costos laborals, les eines, les dades, el temps de gestió, la rampa, el risc de substitució, les tarifes de configuració i els càrrecs de rendiment. A continuació, compareu el cost per reunió de l'ICP celebrada i l'oportunitat acceptada, no els missatges enviats.",
+    "after": "Normalitza el salari o la quota mensual, els costos laborals, les eines, les dades, el temps de gestió, el període d'adaptació, el risc de substitució, la posada en marxa i els càrrecs per rendiment. Després compara el cost per reunió celebrada amb comptes de l'ICP i per oportunitat acceptada, no els missatges enviats.",
+    "pages": [
+      "ca/guides/outsourced-sdr-vs-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 212,
+    "locale": "ca",
+    "before": "Cap de les etiquetes garanteix un model de lliurament. Verifiqueu la capacitat indicada, l'abast del canal, la propietat de la gestió, els informes, la qualificació i els termes de outbound a l'acord proposat.",
+    "after": "Cap de les etiquetes garanteix un model de lliurament. Verifiqueu la capacitat indicada, l'abast del canal, la propietat de la gestió, els informes, la qualificació i les condicions de finalització a l'acord proposat.",
+    "pages": [
+      "ca/guides/outsourced-sdr-vs-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 213,
+    "locale": "ca",
+    "before": "Definiu per separat les mètriques de reserva, retenció, qualificació i oportunitat acceptada.",
+    "after": "Defineix per separat les mètriques de reunions reservades, celebrades, qualificades i oportunitats acceptades.",
+    "pages": [
+      "ca/guides/outsourced-sdr-vs-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 214,
+    "locale": "ca",
+    "before": "Beespoke Outbound Lead Generation ajuda les empreses que necessiten més pipeline comercial però que no volen contractar, formar i gestionar tot un equip de outbound. Ens encarreguem de l'estratègia, l'orientació, la prospecció, el seguiment i el procés de reserva de reunions perquè el vostre fundador, equip de vendes o equip de lideratge es pugui centrar en el tancament.",
+    "after": "Beespoke Outbound Lead Generation ajuda les empreses que necessiten més pipeline comercial però que no volen contractar, formar i gestionar tot un equip d'outbound. Ens encarreguem de l'estratègia, l'orientació, la prospecció, el seguiment i el procés de reserva de reunions perquè el vostre fundador, equip de vendes o equip de lideratge es pugui centrar en el tancament.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 215,
+    "locale": "ca",
+    "before": "Gestionem l'execució de outbound i programem reunions amb clients potencials que coincideixen amb el vostre perfil de client ideal.",
+    "after": "Gestionem l'execució d'outbound i programem reunions amb clients potencials que coincideixen amb el vostre perfil de client ideal.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 216,
+    "locale": "ca",
+    "before": "Com Beespoke crea el vostre pipeline de outbound",
+    "after": "Com Beespoke crea el vostre pipeline d'outbound",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 217,
+    "locale": "ca",
+    "before": "Revisem el vostre procés de vendes actual, els esforços de outbound, l'oferta, el mercat objectiu i els missatges per identificar què està bloquejant el flux de reunions coherent.",
+    "after": "Revisem el vostre procés de vendes actual, els esforços d'outbound, l'oferta, el mercat objectiu i els missatges per identificar què està bloquejant el flux de reunions coherent.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 218,
+    "locale": "ca",
+    "before": "Aclarim exactament a qui hauríeu d'orientar i creem una oferta de outbound més nítida que doni als clients potencials un motiu sòlid per respondre.",
+    "after": "Aclarim exactament a qui hauríeu d'orientar i creem una oferta d'outbound més nítida que doni als clients potencials un motiu sòlid per respondre.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 219,
+    "locale": "ca",
+    "before": "Victòries de outbound recents",
+    "after": "Victòries d'outbound recents",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 220,
+    "locale": "ca",
+    "before": "Obteniu l'estratègia, els sistemes, la redacció, l'orientació i l'execució d'un equip de outbound sense contractar diverses persones a temps complet.",
+    "after": "Obteniu l'estratègia, els sistemes, la redacció, l'orientació i l'execució d'un equip d'outbound sense contractar diverses persones a temps complet.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 221,
+    "locale": "ca",
+    "before": "Treballeu amb un petit equip de quatre persones que gestiona personalment les vostres campanyes de outbound, prova els missatges i millora el rendiment amb el temps.",
+    "after": "Treballeu amb un petit equip de quatre persones que gestiona personalment les vostres campanyes d'outbound, prova els missatges i millora el rendiment amb el temps.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 222,
+    "locale": "ca",
+    "before": "Noah és un empleat primerenc experimentat i fundador de startups que es va enamorar dels negocis internacionals, de viatges i de outbound. Ha viscut a nou països i parla cinc idiomes amb fluïdesa, donant a Beespoke un enfocament global i culturalment fluït del desenvolupament de vendes.",
+    "after": "Noah té experiència com un dels primers empleats de startups i com a fundador, i es va apassionar per la prospecció comercial, els viatges i els negocis internacionals. Ha viscut a nou països i parla cinc idiomes amb fluïdesa, cosa que aporta a Beespoke una perspectiva internacional i sensibilitat cultural en el desenvolupament comercial.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 223,
+    "locale": "ca",
+    "before": "Estratègia de outbound dirigida pel fundador amb experiència en desenvolupament de negocis internacionals.",
+    "after": "Estratègia d'outbound dirigida pel fundador amb experiència en desenvolupament de negocis internacionals.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 224,
+    "locale": "ca",
+    "before": "Utilitzeu les nostres guies pràctiques, pàgines de servei i proves de campanyes per comparar opcions i decidir si la outbound centrada s'adapta al vostre mercat.",
+    "after": "Fes servir les nostres guies pràctiques, pàgines de servei i exemples de campanyes per comparar opcions i decidir si la prospecció outbound centrada s'adapta al teu mercat.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 225,
+    "locale": "ca",
+    "before": "Què costa la outbound?",
+    "after": "Què costa l'outbound?",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 226,
+    "locale": "ca",
+    "before": "Compareu els models de preus de les agències, calculeu l'equilibri econòmic i avalueu si té sentit una retenció mensual més gran.",
+    "after": "Compareu els models de preus de les agències, calculeu l'equilibri econòmic i avalueu si té sentit una quota mensual més gran.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 227,
+    "locale": "ca",
+    "before": "Descobriu com la outbound centrada pot donar suport als fabricants que venen productes tècnics i de gran consideració a comptes amb nom.",
+    "after": "Descobreix com una prospecció outbound centrada pot ajudar els fabricants a vendre productes tècnics que requereixen una avaluació aprofundida a comptes identificats.",
+    "pages": [
+      "ca/index.html"
+    ]
+  },
+  {
+    "id": 230,
+    "locale": "ca",
+    "before": "Una conversa comptable qualificada hauria de coincidir amb el perfil de l'empresa previst, la necessitat del servei, la jurisdicció i el llindar comercial. El participant hauria de ser el propietari o influir materialment en la decisió i entendre per què es va proposar la reunió.",
+    "after": "Una conversa comptable qualificada ha de correspondre al perfil d'empresa, la necessitat de servei, la jurisdicció i el llindar comercial previstos. La persona participant ha de prendre part en la decisió o influir-hi de manera substancial i entendre per què s'ha proposat la reunió.",
+    "pages": [
+      "ca/industries/accounting-firm-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 231,
+    "locale": "ca",
+    "before": "Beespoke pot executar una prova de outbound centrada dirigida per LinkedIn per a una empresa de comptabilitat o assessorament amb un servei definit, compradors comercials identificables, proves defensables i un propietari de vendes que pugui liderar el descobriment. L'objectiu inicial és provar un segment i un missatge amb prou disciplina per aprendre, no contactar amb tots els líders financers.",
+    "after": "Beespoke pot executar una prova d'outbound centrada dirigida per LinkedIn per a una empresa de comptabilitat o assessorament amb un servei definit, compradors comercials identificables, proves defensables i un responsable comercial que pugui liderar la diagnosi comercial. L'objectiu inicial és provar un segment i un missatge amb prou disciplina per aprendre, no contactar amb tots els líders financers.",
+    "pages": [
+      "ca/industries/accounting-firm-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 232,
+    "locale": "ca",
+    "before": "Beespoke no substitueix el judici comptable tècnic, l'assessorament regulador, l'abast de la proposta o el descobriment dirigit per socis. Les empreses que necessiten trucades de gran volum, clients potencials fiscals o una infraestructura massiva de cold email haurien d'utilitzar un proveïdor creat per a aquest model operatiu.",
+    "after": "Beespoke no substitueix el judici comptable tècnic, l'assessorament regulador, l'abast de la proposta o la diagnosi comercial dirigida per socis. Les empreses que necessiten trucades de gran volum, clients potencials fiscals o una infraestructura massiva de cold email haurien d'utilitzar un proveïdor creat per a aquest model operatiu.",
+    "pages": [
+      "ca/industries/accounting-firm-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 233,
+    "locale": "ca",
+    "before": "Mantingueu el descobriment i l'abast tècnic amb personal qualificat de l'empresa.",
+    "after": "Mantingueu la diagnosi comercial i l'abast tècnic amb personal qualificat de l'empresa.",
+    "pages": [
+      "ca/industries/accounting-firm-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 234,
+    "locale": "ca",
+    "before": "Comprovació de preparació de outbound B2B SaaS",
+    "after": "Comprovació de preparació d'outbound B2B SaaS",
+    "pages": [
+      "ca/industries/b2b-saas-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 235,
+    "locale": "ca",
+    "before": "Un mercat estret, una prova defensable i un propietari de vendes disponible importen més que la mida de la llista.",
+    "after": "Un mercat estret, una prova defensable i un responsable comercial disponible importen més que la mida de la llista.",
+    "pages": [
+      "ca/industries/b2b-saas-lead-generation/index.html",
+      "ca/industries/consulting-lead-generation/index.html",
+      "ca/industries/cybersecurity-lead-generation/index.html",
+      "ca/industries/manufacturing-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 236,
+    "locale": "ca",
+    "before": "Propietari operatiu experimentant el problema",
+    "after": "Responsable operatiu que experimenta el problema",
+    "pages": [
+      "ca/industries/b2b-saas-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 237,
+    "locale": "ca",
+    "before": "Modeleu el benefici brut del primer any, la retenció realista, la durada del cicle de vendes i la conversió abans de triar un pressupost de outbound. L'alt volum de reunions no pot rescatar la dèbil economia de la unitat.",
+    "after": "Modeleu el benefici brut del primer any, la retenció realista, la durada del cicle de vendes i la conversió abans de triar un pressupost d'outbound. L'alt volum de reunions no pot rescatar la dèbil economia de la unitat.",
+    "pages": [
+      "ca/industries/b2b-saas-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 238,
+    "locale": "ca",
+    "before": "El programari d'autoservei de baix ACV sol necessitar canals d'entrada eficients, dirigits per productes o de socis. La outbound humana s'adapta millor quan el valor del client i la complexitat de compra ho justifiquen.",
+    "after": "El programari d'autoservei amb un valor anual de contracte baix acostuma a necessitar canals eficients d'inbound, de producte o de socis. La prospecció humana és més adequada quan el valor del client i la complexitat de compra ho justifiquen.",
+    "pages": [
+      "ca/industries/b2b-saas-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 239,
+    "locale": "ca",
+    "before": "Descobriment i seguiment responsius",
+    "after": "Diagnosi comercial i seguiment àgils",
+    "pages": [
+      "ca/industries/b2b-saas-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 240,
+    "locale": "ca",
+    "before": "Cap propietari per a respostes qualificades",
+    "after": "Cap responsable per a les respostes qualificades",
+    "pages": [
+      "ca/industries/b2b-saas-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 241,
+    "locale": "ca",
+    "before": "Coordinar la outbound amb la demanda existent",
+    "after": "Coordinar l'outbound amb la demanda existent",
+    "pages": [
+      "ca/industries/b2b-saas-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 242,
+    "locale": "ca",
+    "before": "Consulta de control de preparació de outbound",
+    "after": "Consulta de control de preparació d'outbound",
+    "pages": [
+      "ca/industries/consulting-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 243,
+    "locale": "ca",
+    "before": "El comprador econòmic, el propietari del problema, el defensor intern, l'avaluador i la part interessada en la compra poden ser persones diferents. L'antiguitat per si sola no revela qui sent el problema o pot patrocinar el canvi.",
+    "after": "El comprador econòmic, el responsable del problema, el defensor intern, l'avaluador i la part interessada en la compra poden ser persones diferents. L'antiguitat per si sola no revela qui sent el problema o pot patrocinar el canvi.",
+    "pages": [
+      "ca/industries/consulting-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 244,
+    "locale": "ca",
+    "before": "Propietari del problema",
+    "after": "Responsable del problema",
+    "pages": [
+      "ca/industries/consulting-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 245,
+    "locale": "ca",
+    "before": "En aquesta pàgina Per què la outbound de ciberseguretat és inusualment difícil Seccions",
+    "after": "En aquesta pàgina Per què l'outbound de ciberseguretat és inusualment difícil Seccions",
+    "pages": [
+      "ca/industries/cybersecurity-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 246,
+    "locale": "ca",
+    "before": "Per què la outbound de ciberseguretat és inusualment difícil",
+    "after": "Per què l'outbound de ciberseguretat és inusualment difícil",
+    "pages": [
+      "ca/industries/cybersecurity-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 247,
+    "locale": "ca",
+    "before": "Comprovació de preparació de outbound de ciberseguretat",
+    "after": "Comprovació de preparació d'outbound de ciberseguretat",
+    "pages": [
+      "ca/industries/cybersecurity-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 248,
+    "locale": "ca",
+    "before": "CFO, COO, CIO, propietari funcional",
+    "after": "CFO, COO, CIO, responsable funcional",
+    "pages": [
+      "ca/industries/it-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 249,
+    "locale": "ca",
+    "before": "Beespoke pot executar outbound centrades dirigides per LinkedIn per a una empresa de serveis informàtics amb una oferta específica, condicions de compte identificables, proves rellevants i un propietari tècnic de vendes. Podem gestionar la investigació, la missatges, el contacte, les respostes i la reserva de reunions qualificades mentre el client té el descobriment tècnic i el disseny de la solució.",
+    "after": "Beespoke pot gestionar una prospecció centrada en LinkedIn per a una empresa de serveis informàtics amb una oferta concreta, senyals identificables als comptes, proves rellevants i un responsable comercial tècnic. Podem gestionar la recerca, els missatges, el contacte, les respostes i la reserva de reunions qualificades; el client es responsabilitza de la diagnosi comercial tècnica i del disseny de la solució.",
+    "pages": [
+      "ca/industries/it-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 250,
+    "locale": "ca",
+    "before": "Anomena el propietari de la resposta tècnica abans del llançament.",
+    "after": "Anomena el responsable de la resposta tècnica abans del llançament.",
+    "pages": [
+      "ca/industries/it-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 251,
+    "locale": "ca",
+    "before": "Ruta ràpida a un propietari tècnic qualificat",
+    "after": "Ruta ràpida a un responsable tècnic qualificat",
+    "pages": [
+      "ca/industries/it-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 252,
+    "locale": "ca",
+    "before": "Descobriment, arquitectura, solució i compromisos",
+    "after": "Diagnosi tècnica, arquitectura, solució i compromisos",
+    "pages": [
+      "ca/industries/it-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 254,
+    "locale": "ca",
+    "before": "Comprovació de preparació de outbound de fabricació",
+    "after": "Comprovació de preparació d'outbound de fabricació",
+    "pages": [
+      "ca/industries/manufacturing-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 255,
+    "locale": "ca",
+    "before": "Les compres industrials complexes sovint impliquen un avaluador tècnic, un propietari operatiu, un comprador econòmic, un agent de contractació i, de vegades, un integrador o distribuïdor. El primer contacte adequat depèn del problema i de l'etapa, no només de l'antiguitat.",
+    "after": "Les compres industrials complexes sovint impliquen un avaluador tècnic, un responsable operatiu, un comprador econòmic, un agent de contractació i, de vegades, un integrador o distribuïdor. El primer contacte adequat depèn del problema i de l'etapa, no només de l'antiguitat.",
+    "pages": [
+      "ca/industries/manufacturing-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 257,
+    "locale": "ca",
+    "before": "Creixement, operacions d'ingressos, propietari de CRM",
+    "after": "Creixement, operacions d'ingressos, responsable del CRM",
+    "pages": [
+      "ca/industries/marketing-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 258,
+    "locale": "ca",
+    "before": "Mapeja qui és el propietari del resultat empresarial, qui avalua l'ofici o la profunditat del canal, qui proporciona dades i qui pot bloquejar la implementació. La prospecció hauria de reflectir la responsabilitat d'un rol sense pretendre que la decisió sigui individual.",
+    "after": "Identifica qui assumeix el resultat empresarial, qui avalua l'especialització o la profunditat del canal, qui aporta les dades i qui pot bloquejar la implementació. La prospecció ha de reflectir la responsabilitat de cada rol sense donar per fet que la decisió sigui individual.",
+    "pages": [
+      "ca/industries/marketing-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 259,
+    "locale": "ca",
+    "before": "Propietari de la decisió i procés d'avaluació",
+    "after": "Responsable de la decisió i procés d'avaluació",
+    "pages": [
+      "ca/industries/marketing-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 260,
+    "locale": "ca",
+    "before": "Beespoke pot executar una prospecció centrada dirigida per LinkedIn per a una agència de màrqueting amb una oferta definida, proves rellevants, compradors comercials identificables i un líder de vendes preparat per fer el descobriment. La campanya està creada per saber quins comptes i missatges guanyen converses qualificades.",
+    "after": "Beespoke pot executar una prospecció centrada dirigida per LinkedIn per a una agència de màrqueting amb una oferta definida, proves rellevants, compradors comercials identificables i un líder de vendes preparat per fer la diagnosi comercial. La campanya està creada per saber quins comptes i missatges guanyen converses qualificades.",
+    "pages": [
+      "ca/industries/marketing-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 261,
+    "locale": "ca",
+    "before": "El propietari sènior rep un context complet",
+    "after": "El responsable sènior rep un context complet",
+    "pages": [
+      "ca/industries/marketing-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 262,
+    "locale": "ca",
+    "before": "Combina les referències i els canals d'autoritat amb la outbound deliberada a una situació de client estreta. Definiu el servei, l'activador, el grup de compra, l'evidència, el compromís mínim i la regla de qualificació abans de seleccionar les eines o el volum.",
+    "after": "Combina les recomanacions i els canals d'autoritat amb una prospecció outbound deliberada per a una situació de client concreta. Defineix el servei, el senyal, el grup de compra, les proves, el compromís mínim i la regla de qualificació abans de triar les eines o el volum.",
+    "pages": [
+      "ca/industries/marketing-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 263,
+    "locale": "ca",
+    "before": "L'externalització pot afegir capacitat centrada o provar un mercat, però l'agència encara ha de proporcionar proves, aprovar el posicionament, liderar el descobriment d'experts i treballar de prop. Compareu un soci extern amb la capacitat interna mitjançant un cost totalment carregat i la propietat de l'aprenentatge.",
+    "after": "L'externalització pot afegir capacitat especialitzada o provar un mercat, però l'agència encara ha d'aportar proves, aprovar el posicionament, dirigir la diagnosi experta i tancar les vendes. Compara un soci extern amb la capacitat interna mitjançant el cost total i la propietat dels aprenentatges.",
+    "pages": [
+      "ca/industries/marketing-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 265,
+    "locale": "ca",
+    "before": "CIO, propietari tècnic, contractació",
+    "after": "CIO, responsable tècnic, contractació",
+    "pages": [
+      "ca/industries/professional-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 266,
+    "locale": "ca",
+    "before": "Una angle de outbound utilitzable connecta una condició real amb un servei i proves limitats. Esborrany cada línia abans de crear una llista.",
+    "after": "Un enfocament comercial útil connecta una situació real amb un servei acotat i proves. Redacta cada punt abans de crear una llista.",
+    "pages": [
+      "ca/industries/professional-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 267,
+    "locale": "ca",
+    "before": "On pot cabre un soci de outbound centrat",
+    "after": "On pot cabre un soci d'outbound centrat",
+    "pages": [
+      "ca/industries/professional-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 268,
+    "locale": "ca",
+    "before": "Beespoke pot donar suport a una empresa de serveis professionals que tingui una oferta definida, compradors comercials identificables, experiència defensable i una persona sènior disposada a liderar el descobriment. El model estàndard utilitza una investigació de comptes centrada i una prospecció dirigida per LinkedIn per provar un mercat limitat.",
+    "after": "Beespoke pot donar suport a una empresa de serveis professionals que tingui una oferta definida, compradors comercials identificables, experiència defensable i una persona sènior disposada a liderar la diagnosi comercial. El model estàndard utilitza una investigació de comptes centrada i una prospecció dirigida per LinkedIn per provar un mercat limitat.",
+    "pages": [
+      "ca/industries/professional-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 269,
+    "locale": "ca",
+    "before": "Quadre de puntuació de la preparació de outbound de serveis professionals",
+    "after": "Quadre de puntuació de la preparació d'outbound de serveis professionals",
+    "pages": [
+      "ca/industries/professional-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 270,
+    "locale": "ca",
+    "before": "El propietari sènior pot conduir un descobriment informat",
+    "after": "El responsable sènior pot conduir una diagnosi comercial ben informada",
+    "pages": [
+      "ca/industries/professional-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 272,
+    "locale": "ca",
+    "before": "Pot funcionar quan el servei resol un problema comercial reconeixible, el grup de compra és identificable i l'empresa pot oferir un descobriment expert. És més feble per a ofertes genèriques, compromisos de molt baix valor o mercats impulsats principalment per la cerca local urgent.",
+    "after": "Pot funcionar quan el servei resol un problema comercial reconeixible, el grup de compra és identificable i l'empresa pot oferir una diagnosi comercial experta. És menys adequat per a ofertes genèriques, encàrrecs de valor molt baix o mercats dominats per cerques locals urgents.",
+    "pages": [
+      "ca/industries/professional-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 273,
+    "locale": "ca",
+    "before": "La cerca retinguda és adequada al mandat?",
+    "after": "La selecció executiva amb honoraris anticipats és adequada per al mandat?",
+    "pages": [
+      "ca/industries/recruitment-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 274,
+    "locale": "ca",
+    "before": "Enregistreu el senyal i, a continuació, investigueu el model de reclutament intern, la política de l'agència, la dificultat del rol, la ubicació, l'historial de contractació i si el contacte és el propietari de la decisió. Respecteu les instruccions explícites a les agències i no envieu dades de candidats no sol·licitades.",
+    "after": "Enregistreu el senyal i, a continuació, investigueu el model de reclutament intern, la política de l'agència, la dificultat del rol, la ubicació, l'historial de contractació i si el contacte és el responsable de la decisió. Respecteu les instruccions explícites a les agències i no envieu dades de candidats no sol·licitades.",
+    "pages": [
+      "ca/industries/recruitment-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 275,
+    "locale": "ca",
+    "before": "Una reunió útil s'adapta a l'empresari objectiu, la família de rol, la geografia i el model comercial. El participant hauria de ser propietari o influir fortament en la decisió de contractació i entendre que la conversa es refereix als serveis de contractació, no a una sol·licitud de feina.",
+    "after": "Una reunió útil correspon a l'empresa objectiu, el tipus de lloc, la geografia i el model comercial. La persona participant ha de decidir o influir de manera important en la contractació i entendre que es parlarà de serveis de selecció, no d'una candidatura laboral.",
+    "pages": [
+      "ca/industries/recruitment-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 277,
+    "locale": "ca",
+    "before": "Mapa de la influència del propietari del venedor i de la contractació",
+    "after": "Responsables de proveïdors i influència en la contractació identificats",
+    "pages": [
+      "ca/industries/recruitment-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 278,
+    "locale": "ca",
+    "before": "El contacte correcte depèn del mandat. L'adquisició de talent pot ser propietari de venedors, mentre que un gerent de contractació o executiu és propietari de la necessitat operativa. Les adquisicions, els recursos humans i els legals poden afectar les decisions del proveïdor i dels contractes aprovats.",
+    "after": "El contacte adequat depèn del mandat. L'equip d'adquisició de talent pot gestionar els proveïdors, mentre que un responsable de contractació o un directiu defineix la necessitat operativa. Compres, recursos humans i assessoria jurídica poden influir en l'aprovació dels proveïdors i dels contractes.",
+    "pages": [
+      "ca/industries/recruitment-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 279,
+    "locale": "ca",
+    "before": "Descobriment, seguiment i disciplina CRM",
+    "after": "Diagnosi comercial, seguiment i disciplina al CRM",
+    "pages": [
+      "ca/pricing/index.html"
+    ]
+  },
+  {
+    "id": 280,
+    "locale": "ca",
+    "before": "La troballa útil no és un preu de mercat universal. És que els compradors han de normalitzar el model de lliurament, la infraestructura inclosa, la definició de la outbound, les tarifes variables i el compromís abans que una retenció sigui comparable.",
+    "after": "La conclusió útil no és un preu de mercat universal. És que cal normalitzar el model de prestació, la infraestructura inclosa, la definició dels resultats, els càrrecs variables i el compromís abans de comparar quotes mensuals.",
+    "pages": [
+      "ca/research/2026-b2b-outbound-pricing-benchmark/index.html"
+    ]
+  },
+  {
+    "id": 281,
+    "locale": "ca",
+    "before": "Taxa de retenció base o seient",
+    "after": "Quota fixa base o tarifa per usuari",
+    "pages": [
+      "ca/research/2026-b2b-outbound-pricing-benchmark/index.html"
+    ]
+  },
+  {
+    "id": 282,
+    "locale": "ca",
+    "before": "No s'aplica cap conversió de moneda, perquè els tipus de canvi canvien i la falsa precisió debilitaria la comparació. Les afirmacions de rendiment del proveïdor només es registren com a descripcions d'abast o de outbound; no estan validats de manera independent. Queden excloses les ofertes de preu personalitzat sense preu públic numèric.",
+    "after": "No s'aplica cap conversió de moneda, perquè els tipus de canvi varien i una precisió aparent afebliria la comparació. Les afirmacions de rendiment dels proveïdors només es registren com a descripcions de l'abast o dels resultats; no s'han validat de manera independent. Se n'exclouen les ofertes a mida sense un preu numèric públic.",
+    "pages": [
+      "ca/research/2026-b2b-outbound-pricing-benchmark/index.html"
+    ]
+  },
+  {
+    "id": 283,
+    "locale": "ca",
+    "before": "El JSON que es pot baixar és el registre canònic a nivell de fila darrere d'aquest article. Cada entrada manté el proveïdor, el nom de l'oferta, el preu públic, la unitat de facturació, el model de lliurament, els canals, la outbound publicada, el compromís, l'URL d'origen i si la fila és l'oferta pròpia de Beespoke.",
+    "after": "El JSON descarregable és el registre canònic de cada fila d'aquest article. Cada entrada conserva el proveïdor, el nom de l'oferta, el preu públic, la unitat de facturació, el model de prestació, els canals, els resultats anunciats, el compromís, l'URL de la font i si la fila correspon a l'oferta pròpia de Beespoke.",
+    "pages": [
+      "ca/research/2026-b2b-outbound-pricing-benchmark/index.html"
+    ]
+  },
+  {
+    "id": 285,
+    "locale": "ca",
+    "before": "La generació de leads B2B és el procés d'identificar empreses que realment podrien beneficiar-se d'una oferta, trobar les persones implicades en la decisió de compra i crear una raó creïble per iniciar una conversa. La outbound hauria de ser oportunitats de venda amb context, no noms comprats o activitats sense intenció.",
+    "after": "La generació de leads B2B consisteix a identificar empreses que es podrien beneficiar d'una oferta, trobar les persones implicades en la decisió de compra i crear un motiu creïble per iniciar una conversa. El resultat ha de ser oportunitats comercials amb context, no noms comprats ni activitat sense intenció.",
+    "pages": [
+      "ca/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 286,
+    "locale": "ca",
+    "before": "Beespoke gestiona la part de outbound d'aquest procés. Traduïm l'estratègia comercial a la lògica del compte objectiu, hipòtesis del rol del comprador, missatges, execució de campanyes, gestió de respostes i reserva de reunions. El vostre equip és propietari del descobriment, del disseny de la solució i del tancament.",
+    "after": "Beespoke gestiona la prospecció outbound d'aquest procés. Convertim l'estratègia comercial en criteris de selecció de comptes, hipòtesis sobre els rols de compra, missatges, execució de campanyes, gestió de respostes i reserves de reunions. El teu equip assumeix la diagnosi comercial, el disseny de la solució i el tancament.",
+    "pages": [
+      "ca/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 287,
+    "locale": "ca",
+    "before": "Aclariu el comprador, el problema i el propietari comercial abans de pagar per l'execució de la campanya.",
+    "after": "Aclariu el comprador, el problema i el responsable comercial abans de pagar per l'execució de la campanya.",
+    "pages": [
+      "ca/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 288,
+    "locale": "ca",
+    "before": "Nom del propietari del lliurament i assignació de temps clara",
+    "after": "Responsable del servei designat i dedicació clarament definida",
+    "pages": [
+      "ca/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 289,
+    "locale": "ca",
+    "before": "La generació de leads pot acabar amb un contacte identificat o interessat. La concertació de reunions continua mitjançant la qualificació i la programació. Beespoke cobreix les dues etapes de les seves campanyes de outbound gestionades i els informes de reunions celebrades per separat dels contactes i les reserves.",
+    "after": "La generació de leads pot acabar amb un contacte identificat o interessat. La concertació de reunions continua amb la qualificació i la programació. Beespoke cobreix totes dues etapes en les seves campanyes de prospecció gestionades i informa de les reunions celebrades separadament dels contactes i les reserves.",
+    "pages": [
+      "ca/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 290,
+    "locale": "ca",
+    "before": "No amplieu l'execució de l'agència quan el comprador no està definit, l'oferta no s'ha validat, el valor del client no pot suportar l'adquisició pràctica o ningú no pot fer un descobriment i un seguiment oportuns. Resol primer la restricció comercial subjacent.",
+    "after": "No amplieu l'execució de l'agència quan el comprador no està definit, l'oferta no s'ha validat, el valor del client no pot suportar l'adquisició pràctica o ningú no pot fer una diagnosi comercial i un seguiment oportuns. Resol primer la restricció comercial subjacent.",
+    "pages": [
+      "ca/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 298,
+    "locale": "ca",
+    "before": "L'objectiu no és un full de càlcul gran de noms o un informe ple d'activitats. El resultat útil és una conversa mantinguda amb una empresa i un decisor que coincideixin amb els criteris acordats abans del llançament.",
+    "after": "L'objectiu no és un full de càlcul ple de noms ni un informe ple d'activitat. El resultat útil és una conversa celebrada amb una empresa i una persona decisora que compleixin els criteris acordats abans del llançament.",
+    "pages": [
+      "ca/services/outbound-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 299,
+    "locale": "ca",
+    "before": "L'externalització funciona quan el límit és clar operacionalment. Beespoke pot ser propietari de la campanya des del diagnòstic ICP mitjançant una reunió qualificada: selecció de comptes i rols, desenvolupament de missatges, execució de LinkedIn, gestió de respostes, qualificació i programació.",
+    "after": "L'externalització funciona quan els límits operatius són clars. Beespoke pot gestionar la campanya des del diagnòstic de l'ICP fins al traspàs d'una reunió qualificada: selecció de comptes i rols, desenvolupament de missatges, execució a LinkedIn, gestió de respostes, qualificació i programació.",
+    "pages": [
+      "ca/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 300,
+    "locale": "ca",
+    "before": "Un lliurament net impedeix que el proveïdor i el client assumin que l'altra part és propietari d'una tasca de vendes crítica.",
+    "after": "Un traspàs clar evita que el proveïdor i el client donin per fet que l'altra part assumeix una tasca comercial crítica.",
+    "pages": [
+      "ca/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 301,
+    "locale": "ca",
+    "before": "Descobriment, disseny de solucions, CRM propers passos, proposta, negociació i tancament.",
+    "after": "Diagnosi comercial, disseny de la solució, següents passos al CRM, proposta, negociació i tancament.",
+    "pages": [
+      "ca/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 304,
+    "locale": "ca",
+    "before": "Posseeix el descobriment, la progressió del CRM i els passos següents",
+    "after": "Assumeix la diagnosi comercial, la progressió al CRM i els passos següents",
+    "pages": [
+      "ca/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 305,
+    "locale": "ca",
+    "before": "Un propietari de vendes pot fer un seguiment ràpidament",
+    "after": "Un responsable comercial pot fer un seguiment ràpidament",
+    "pages": [
+      "ca/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 306,
+    "locale": "ca",
+    "before": "Compareu el cost total, no només el quota mensual. Inclou dades, programari, accés del remitent, temps de gestió, configuració, tarifes variables i el cost de substitució del model. Confirmeu qui és el propietari de les llistes, còpies, decisions de campanya, comptes i historial d'informes després de la cancel·lació.",
+    "after": "Compara el cost total, no només la quota mensual. Inclou dades, programari, accés del remitent, temps de gestió, posada en marxa, càrrecs variables i el cost de substituir el model. Confirma qui conserva les llistes, els textos, les decisions de campanya, els comptes i l'historial d'informes després de la cancel·lació.",
+    "pages": [
+      "ca/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 307,
+    "locale": "ca",
+    "before": "Pregunteu qui realitza la feina, quina capacitat s'assigna, quins canals s'inclouen, quins accedeixen als vostres comptes, com es revisa la qualitat i quines mètriques es poden conciliar amb el vostre CRM. Parleu amb el propietari del lliurament en lloc d'avaluar només la presentació de vendes.",
+    "after": "Pregunteu qui realitza la feina, quina capacitat s'assigna, quins canals s'inclouen, quins accedeixen als vostres comptes, com es revisa la qualitat i quines mètriques es poden conciliar amb el vostre CRM. Parleu amb el responsable de la prestació del servei en lloc d'avaluar només la presentació de vendes.",
+    "pages": [
+      "ca/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 309,
+    "locale": "ca",
+    "before": "És la transferència d'una part o de la totalitat del treball de vendes outbound a un proveïdor extern. L'abast pot incloure investigació, prospecció, prospecció, respostes, qualificació, reunions, descobriment o tancament. L'abast declarat de Beespoke acaba amb l'entrega de reunions qualificades.",
+    "after": "És l'encàrrec d'una part o de tota la feina comercial outbound a un proveïdor extern. L'abast pot incloure recerca, prospecció, contacte, respostes, qualificació, reunions, diagnosi comercial o tancament. L'abast declarat de Beespoke acaba en el traspàs de reunions qualificades.",
+    "pages": [
+      "ca/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 310,
+    "locale": "ca",
+    "before": "No. Beespoke gestiona la prospecció de outbound i la concertació de reunions. El client posseeix el descobriment, la progressió d'oportunitats, les propostes, la negociació i el tancament.",
+    "after": "No. Beespoke gestiona la prospecció outbound i la concertació de reunions. El client assumeix la diagnosi comercial, la progressió de les oportunitats, les propostes, la negociació i el tancament.",
+    "pages": [
+      "ca/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 311,
+    "locale": "ca",
+    "before": "El client ha de conservar la veritat del producte, l'aprovació de les afirmacions, les exclusions de comptes sensibles, el descobriment de vendes, la progressió del CRM, el disseny de la solució, les propostes i el tancament. Les dades de la campanya i la propietat de l'aprenentatge han de ser explícits al contracte.",
+    "after": "El client ha de conservar la responsabilitat sobre l'exactitud de la informació del producte, l'aprovació de les afirmacions, l'exclusió de comptes sensibles, la diagnosi comercial, la progressió al CRM, el disseny de la solució, les propostes i el tancament. El contracte ha d'explicitar la propietat de les dades de campanya i dels aprenentatges.",
+    "pages": [
+      "ca/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 312,
+    "locale": "ca",
+    "before": "Els serveis de SDR externalitzats aporten capacitat externa de prospecció, contacte, qualificació i reserva de reunions. Els tres models habituals són un SDR dedicat, un pod de SDR i una campanya gestionada. Tria segons qui gestiona l'equip, els canals inclosos, el cost total, la qualitat de les reunions, la propietat dels actius i les condicions de outbound. Beespoke ofereix una campanya gestionada i centrada en LinkedIn, no un SDR nominal a temps complet.",
+    "after": "Els serveis de SDR externalitzats aporten capacitat externa de prospecció, contacte, qualificació i reserva de reunions. Els tres models habituals són un SDR dedicat, un pod de SDR i una campanya gestionada. Tria segons qui gestiona l'equip, els canals inclosos, el cost total, la qualitat de les reunions, la propietat dels actius i les condicions de finalització. Beespoke ofereix una campanya gestionada i centrada en LinkedIn, no un SDR nominal a temps complet.",
+    "pages": [
+      "ca/services/outsourced-sdr/index.html"
+    ]
+  },
+  {
+    "id": 313,
+    "locale": "ca",
+    "before": "L'acord ha d'identificar qui és el propietari dels comptes, dominis, perfils, dades, copy, historial de CRM i aprenentatge de campanyes. També s'ha de nomenar les persones que fan la feina i el procés de substitució.",
+    "after": "L'acord ha d'identificar qui conserva la propietat dels comptes, dominis, perfils, dades, textos, historial del CRM i aprenentatges de la campanya. També ha d'identificar les persones que fan la feina i el procés de substitució.",
+    "pages": [
+      "ca/services/outsourced-sdr/index.html"
+    ]
+  },
+  {
+    "id": 314,
+    "locale": "fr",
+    "before": "Vous ne savez pas si le prospection outbound correspond à votre offre ?",
+    "after": "Vous ne savez pas si la prospection outbound convient à votre offre ?",
+    "pages": [
+      "fr/about/noah-levy/index.html",
+      "fr/ai-instructions/index.html",
+      "fr/compare/lead-generation-agency-vs-in-house-team/index.html",
+      "fr/compare/lead-generation-agency-vs-software/index.html",
+      "fr/compare/outbound-agency-vs-freelancer/index.html",
+      "fr/compare/outsourced-sdr-vs-in-house-sdr/index.html",
+      "fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html",
+      "fr/compare/sdr-vs-bdr-outsourcing/index.html",
+      "fr/editorial-policy/index.html",
+      "fr/guides/appointment-setting-pricing/index.html",
+      "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html",
+      "fr/guides/best-b2b-lead-generation-agencies/index.html",
+      "fr/guides/best-linkedin-lead-generation-agencies/index.html",
+      "fr/guides/best-outsourced-sdr-companies/index.html",
+      "fr/guides/cold-email-agency/index.html",
+      "fr/guides/cold-email-agency-pricing/index.html",
+      "fr/guides/how-to-choose-an-outbound-lead-generation-agency/index.html",
+      "fr/guides/how-to-manage-an-outsourced-sdr-team/index.html",
+      "fr/guides/outbound-call-center-pricing/index.html",
+      "fr/guides/outsourced-sdr-pros-and-cons/index.html",
+      "fr/guides/pay-per-meeting-lead-generation/index.html",
+      "fr/research/2026-b2b-outbound-pricing-benchmark/index.html"
+    ]
+  },
+  {
+    "id": 315,
+    "locale": "fr",
+    "before": "L'équipe indiquera également quand le prospection outbound est prématuré ou lorsqu'un canal demandé ne correspond pas à sa portée de livraison actuelle.",
+    "after": "L'équipe indique également quand la prospection outbound est prématurée ou lorsqu'un canal demandé ne relève pas de son périmètre actuel.",
+    "pages": [
+      "fr/about/noah-levy/index.html"
+    ]
+  },
+  {
+    "id": 316,
+    "locale": "fr",
+    "before": "Vérifiez si les prospection outbound ciblée correspondent à votre marché",
+    "after": "Vérifiez si la prospection outbound ciblée convient à votre marché",
+    "pages": [
+      "fr/about/noah-levy/index.html",
+      "fr/ai-instructions/index.html",
+      "fr/case-studies/cybersecurity-linkedin-lead-generation/index.html",
+      "fr/case-studies/media-partnership-outreach/index.html",
+      "fr/compare/lead-generation-agency-vs-in-house-team/index.html",
+      "fr/compare/lead-generation-agency-vs-software/index.html",
+      "fr/compare/outbound-agency-vs-freelancer/index.html",
+      "fr/compare/outsourced-sdr-vs-in-house-sdr/index.html",
+      "fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html",
+      "fr/compare/sdr-vs-bdr-outsourcing/index.html",
+      "fr/editorial-policy/index.html",
+      "fr/guides/appointment-setting-pricing/index.html",
+      "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html",
+      "fr/guides/best-b2b-lead-generation-agencies/index.html",
+      "fr/guides/best-linkedin-lead-generation-agencies/index.html",
+      "fr/guides/best-outsourced-sdr-companies/index.html",
+      "fr/guides/cold-email-agency/index.html",
+      "fr/guides/cold-email-agency-pricing/index.html",
+      "fr/guides/how-to-choose-an-outbound-lead-generation-agency/index.html",
+      "fr/guides/how-to-manage-an-outsourced-sdr-team/index.html",
+      "fr/guides/linkedin-lead-generation-agency-cost/index.html",
+      "fr/guides/outbound-call-center-pricing/index.html",
+      "fr/guides/outbound-lead-generation-cost/index.html",
+      "fr/guides/outsourced-sdr-cost/index.html",
+      "fr/guides/outsourced-sdr-pros-and-cons/index.html",
+      "fr/guides/pay-per-meeting-lead-generation/index.html",
+      "fr/pricing/index.html",
+      "fr/research/2026-b2b-outbound-pricing-benchmark/index.html"
+    ]
+  },
+  {
+    "id": 319,
+    "locale": "fr",
+    "before": "Besoin de découverte et de clôture : capacité de responsable de compte, pas seulement de génération de leads",
+    "after": "Besoin de mener les entretiens de découverte et de conclure les ventes : il faut une capacité de gestion de compte, au-delà de la génération de leads",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 320,
+    "locale": "fr",
+    "before": "Rencontrez le propriétaire du livreur et demandez le système d'exploitation exact. Confirmez la responsabilité ICP, la profondeur de la recherche, les canaux, l'accès de l'expéditeur, l'approbation des copys, le traitement des réponses, la qualification, le reporting, la sécurité et la propriété des actifs. Demandez quand le fournisseur déconseillerait son propre service.",
+    "after": "Rencontrez la personne responsable de la prestation et demandez comment le travail est organisé. Confirmez la responsabilité de l'ICP, la profondeur de la recherche, les canaux, les accès de l'expéditeur, l'approbation des textes, la gestion des réponses, la qualification, le reporting, la sécurité et la propriété des actifs. Demandez dans quels cas le prestataire déconseillerait son propre service.",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 321,
+    "locale": "fr",
+    "before": "Si ces systèmes n’existent pas, incluez le coût et le temps nécessaires à leur construction. L’embauche d’un représentant junior avant de nommer le propriétaire exploitant crée souvent une apparence de capacité sans les conditions d’une exécution utile.",
+    "after": "Si ces systèmes n’existent pas, incluez le coût et le temps nécessaires à leur construction. L’embauche d’un représentant junior avant de nommer le responsable opérationnel crée souvent une apparence de capacité sans les conditions d’une exécution utile.",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 322,
+    "locale": "fr",
+    "before": "De nombreuses entreprises peuvent faire appel à une agence pour tester un segment restreint, documenter la campagne et établir des preuves préliminaires avant de s'engager dans une équipe permanente. D'autres peuvent conserver un propriétaire commercial interne tout en externalisant uniquement un canal spécialisé ou une fonction de recherche.",
+    "after": "De nombreuses entreprises peuvent faire appel à une agence pour tester un segment restreint, documenter la campagne et établir des preuves préliminaires avant de s'engager dans une équipe permanente. D'autres peuvent conserver un responsable commercial interne tout en externalisant uniquement un canal spécialisé ou une fonction de recherche.",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 323,
+    "locale": "fr",
+    "before": "Nommé propriétaire principal de la livraison et de la révision",
+    "after": "Responsable senior désigné pour la prestation et la revue",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 324,
+    "locale": "fr",
+    "before": "Contrat total et travail client retenu",
+    "after": "Coût complet du contrat et travail conservé en interne par le client",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 325,
+    "locale": "fr",
+    "before": "La vérité sur les produits, l'approbation des affirmations importantes, les exclusions de comptes sensibles, la découverte des ventes, les engagements des clients et les décisions commerciales finales doivent rester clairement la propriété du client, même lorsque l'exécution est externe.",
+    "after": "L'exactitude des informations produit, l'approbation des affirmations importantes, les exclusions de comptes sensibles, les entretiens de découverte, les engagements envers les clients et les décisions commerciales finales doivent rester sous la responsabilité claire du client, même si l'exécution est externalisée.",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-in-house-team/index.html"
+    ]
+  },
+  {
+    "id": 327,
+    "locale": "fr",
+    "before": "Le fournisseur est propriétaire du travail de campagne convenu",
+    "after": "Le prestataire prend en charge le travail de campagne convenu",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 328,
+    "locale": "fr",
+    "before": "Les recherches, messages, activités, réponses et expériences ont un seul propriétaire responsable.",
+    "after": "Les recherches, messages, activités, réponses et expériences ont un seul responsable clairement désigné.",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 329,
+    "locale": "fr",
+    "before": "Une équipe avec un ICP clair, des messages validés, des règles CRM claires, un propriétaire de campagne expérimenté et un traitement rapide des réponses peut utiliser un logiciel pour augmenter la capacité. Cela est particulièrement vrai lorsque la génération de leads est une capacité interne durable.",
+    "after": "Une équipe avec un ICP clair, des messages validés, des règles CRM claires, un responsable de campagne expérimenté et un traitement rapide des réponses peut utiliser un logiciel pour augmenter la capacité. Cela est particulièrement vrai lorsque la génération de leads est une capacité interne durable.",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 330,
+    "locale": "fr",
+    "before": "Une personne est propriétaire des résultats de la campagne",
+    "after": "Une personne est responsable des résultats de la campagne",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 331,
+    "locale": "fr",
+    "before": "Les risques liés à la plate-forme, à la confidentialité et aux données ont un propriétaire",
+    "after": "Une personne est responsable des risques liés aux plateformes, à la confidentialité et aux données",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 333,
+    "locale": "fr",
+    "before": "Marché peu clair et pas de propriétaire",
+    "after": "Marché peu clair et pas de responsable",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 334,
+    "locale": "fr",
+    "before": "Une agence peut constituer une première étape judicieuse pour un test de marché limité, une exécution par un canal spécialisé ou une capacité urgente lorsque l'acheteur dispose d'une offre crédible et d'un propriétaire commercial mais ne dispose pas d'opérations de campagne.",
+    "after": "Une agence peut constituer une première étape judicieuse pour un test de marché limité, une exécution par un canal spécialisé ou une capacité urgente lorsque l'acheteur dispose d'une offre crédible et d'un responsable commercial mais ne dispose pas d'opérations de campagne.",
+    "pages": [
+      "fr/compare/lead-generation-agency-vs-software/index.html"
+    ]
+  },
+  {
+    "id": 335,
+    "locale": "fr",
+    "before": "Embauchez un freelance outbound lorsque le travail est limité, un opérateur qualifié peut en être propriétaire et vous pouvez assurer la gestion et la sauvegarde. Embauchez une agence lorsque la campagne nécessite des capacités multiples, une continuité, un processus documenté et une responsabilité partagée. Évaluez les personnes réelles et la portée : aucun des deux labels ne garantit la qualité.",
+    "after": "Faites appel à un freelance outbound lorsque la mission est limitée, qu'une personne compétente peut en assurer l'exécution et que vous pouvez fournir l'encadrement et un relais en cas d'absence. Choisissez une agence lorsque la campagne exige plusieurs compétences, de la continuité, un processus documenté et une responsabilité partagée. Évaluez les personnes et le périmètre réels ; aucun des deux modèles ne garantit la qualité.",
+    "pages": [
+      "fr/compare/outbound-agency-vs-freelancer/index.html"
+    ]
+  },
+  {
+    "id": 336,
+    "locale": "fr",
+    "before": "Nommez le propriétaire du remplacement, de l’heure de transfert et du contrôle qualité avant de signer.",
+    "after": "Avant de signer, précisez la personne chargée du remplacement, le délai de passation et le responsable du contrôle qualité.",
+    "pages": [
+      "fr/compare/outbound-agency-vs-freelancer/index.html"
+    ]
+  },
+  {
+    "id": 337,
+    "locale": "fr",
+    "before": "Un propriétaire senior doit superviser la livraison",
+    "after": "Un responsable senior doit superviser la prestation",
+    "pages": [
+      "fr/compare/outbound-agency-vs-freelancer/index.html"
+    ]
+  },
+  {
+    "id": 338,
+    "locale": "fr",
+    "before": "Pour un SDR interne, incluez le salaire, les coûts de l'employeur, les commissions, le recrutement, la rampe, le temps du manager, les outils, les données, le bureau ou l'équipement, l'habilitation et le chiffre d'affaires. Pour un modèle externalisé, incluez la configuration, les honoraires, les frais variables, les logiciels requis, la gestion des clients et tout travail interne retenu.",
+    "after": "Pour un SDR interne, incluez le salaire, les charges employeur, les commissions, le recrutement, la montée en compétences, le temps d'encadrement, les outils, les données, les locaux ou le matériel, la formation et la rotation du personnel. Pour un modèle externalisé, incluez la mise en place, les honoraires récurrents, les frais variables, les logiciels requis, le pilotage du prestataire par le client et le travail conservé en interne.",
+    "pages": [
+      "fr/compare/outsourced-sdr-vs-in-house-sdr/index.html"
+    ]
+  },
+  {
+    "id": 340,
+    "locale": "fr",
+    "before": "Le gestionnaire de clientèle est propriétaire de la qualité au quotidien",
+    "after": "Le responsable côté client assure la qualité au quotidien",
+    "pages": [
+      "fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 341,
+    "locale": "fr",
+    "before": "Les deux modèles ont besoin d’un propriétaire client qui accepte les opportunités et modifie les hypothèses commerciales.",
+    "after": "Les deux modèles ont besoin d’un responsable côté client qui accepte les opportunités et modifie les hypothèses commerciales.",
+    "pages": [
+      "fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 342,
+    "locale": "fr",
+    "before": "Un partenaire géré peut être judicieux pour un test de marché fixe, un canal spécialisé, une capacité d'urgence ou une entreprise qui manque d'opérations de recherche et de campagne mais qui dispose d'une offre crédible et d'un propriétaire commercial.",
+    "after": "Un partenaire géré peut être judicieux pour un test de marché fixe, un canal spécialisé, une capacité d'urgence ou une entreprise qui manque d'opérations de recherche et de campagne mais qui dispose d'une offre crédible et d'un responsable commercial.",
+    "pages": [
+      "fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 343,
+    "locale": "fr",
+    "before": "Exiger une visibilité sur le travail et l’apprentissage. Un résultat géré ne justifie pas un ciblage caché, une automatisation non divulguée ou un transfert uniquement calendaire. Le client doit toujours approuver les affirmations, répondre aux réponses des experts et mener la découverte.",
+    "after": "Exigez de la visibilité sur le travail et les apprentissages. Une prestation pilotée par le fournisseur ne justifie ni un ciblage opaque, ni une automatisation non déclarée, ni une passation limitée à un créneau dans l'agenda. Le client doit toujours approuver les affirmations, fournir les réponses d'expert et mener les entretiens de découverte.",
+    "pages": [
+      "fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 344,
+    "locale": "fr",
+    "before": "Une entreprise peut également faire appel à un spécialiste géré pour un canal et à des personnes augmentées pour un autre. La conception correcte suit la contrainte, mais chaque responsabilité nécessite toujours un propriétaire.",
+    "after": "Une entreprise peut aussi confier un canal à un spécialiste externe et renforcer son équipe interne pour un autre. L'organisation doit répondre au besoin, mais chaque responsabilité doit rester clairement attribuée.",
+    "pages": [
+      "fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 345,
+    "locale": "fr",
+    "before": "Non requis pour la gestion quotidienne des prestataires, mais propriétaire du client reste nécessaire",
+    "after": "Aucun encadrement quotidien du prestataire requis, mais un responsable côté client reste nécessaire",
+    "pages": [
+      "fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html"
+    ]
+  },
+  {
+    "id": 351,
+    "locale": "fr",
+    "before": "Un futur propriétaire désigné et un plan d'adoption",
+    "after": "Futur responsable désigné et plan d’adoption",
+    "pages": [
+      "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 352,
+    "locale": "fr",
+    "before": "Si la conversion des ventes est la couche limitante, corrigez la découverte, la solution ou la clôture avant d'acheter un volume plus élevé en haut de l'entonnoir.",
+    "after": "Si la conversion des ventes est la couche limitante, corrigez la découverte, la solution ou la conclusion des ventes avant d'acheter un volume plus élevé en haut de l'entonnoir.",
+    "pages": [
+      "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 353,
+    "locale": "fr",
+    "before": "Conversion des ventes : découverte, solution, proposition, négociation et clôture",
+    "after": "Conversion des ventes : découverte, solution, proposition, négociation et conclusion des ventes",
+    "pages": [
+      "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 354,
+    "locale": "fr",
+    "before": "Plan d'adoption et de propriétaire",
+    "after": "Plan d’adoption et responsable désigné",
+    "pages": [
+      "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 355,
+    "locale": "fr",
+    "before": "Beespoke est une petite agence outbound gérée par son fondateur. Il aide à définir le marché cible et le message dans le cadre des campagnes menées par LinkedIn, puis gère la recherche, la première prospection, les premières réponses, la qualification et la réservation des réunions. Le client est propriétaire de la vérité sur le produit, des réponses d'experts, de la découverte et de la clôture.",
+    "after": "Beespoke est une petite agence de prospection outbound dirigée par son fondateur. Elle aide à définir le marché cible et les messages dans le cadre de campagnes centrées sur LinkedIn, puis gère la recherche, les premiers contacts et réponses, la qualification et la prise de rendez-vous. Le client reste responsable de l'exactitude des informations produit, des réponses d'expert, des entretiens de découverte et de la conclusion des ventes.",
+    "pages": [
+      "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 356,
+    "locale": "fr",
+    "before": "Propriétaire de la décision et accès aux preuves",
+    "after": "Responsable de la décision et accès aux preuves",
+    "pages": [
+      "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 357,
+    "locale": "fr",
+    "before": "Vérité du produit et propriétaire des ventes",
+    "after": "Exactitude des informations produit et responsable commercial",
+    "pages": [
+      "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 358,
+    "locale": "fr",
+    "before": "Une agence est généralement mieux adaptée lorsque la stratégie est suffisamment claire mais que l’entreprise manque de capacité récurrente de recherche, de prospection, de réponse, de qualification ou de gestion de campagne. Le client a toujours besoin d'un propriétaire pour la vérité du produit et la conversion des ventes.",
+    "after": "Une agence est généralement plus adaptée lorsque la stratégie est suffisamment claire, mais que l'entreprise manque de capacités récurrentes de recherche, de prospection, de réponse, de qualification ou de pilotage de campagne. Le client doit toujours désigner un responsable de l'exactitude des informations produit et de la conversion commerciale.",
+    "pages": [
+      "fr/guides/b2b-lead-generation-consultant-vs-agency/index.html"
+    ]
+  },
+  {
+    "id": 359,
+    "locale": "fr",
+    "before": "Parlez avec le propriétaire du livreur.",
+    "after": "Échangez avec la personne responsable de la prestation.",
+    "pages": [
+      "fr/guides/best-b2b-lead-generation-agencies/index.html"
+    ]
+  },
+  {
+    "id": 360,
+    "locale": "fr",
+    "before": "Responsable du compte nommé et propriétaire de la remontée d'informations",
+    "after": "Responsable de compte désigné et interlocuteur pour les incidents",
+    "pages": [
+      "fr/guides/best-outsourced-sdr-companies/index.html"
+    ]
+  },
+  {
+    "id": 361,
+    "locale": "fr",
+    "before": "Chercheur, rédacteur, expéditeur et propriétaire de la réponse",
+    "after": "Chercheur, rédacteur, expéditeur et responsable des réponses",
+    "pages": [
+      "fr/guides/best-outsourced-sdr-companies/index.html"
+    ]
+  },
+  {
+    "id": 362,
+    "locale": "fr",
+    "before": "Le transfert doit inclure le contexte d'origine, l'historique des messages, le rôle du participant, le problème déclaré, les notes de qualification, l'état de planification et tous les engagements pris. Le propriétaire des ventes du client doit être en mesure d'accepter ou de rejeter l'opportunité en s'appuyant sur des raisons documentées.",
+    "after": "Le transfert doit inclure le contexte d'origine, l'historique des messages, le rôle du participant, le problème déclaré, les notes de qualification, l'état de planification et tous les engagements pris. Le responsable commercial du client doit être en mesure d'accepter ou de rejeter l'opportunité en s'appuyant sur des raisons documentées.",
+    "pages": [
+      "fr/guides/best-outsourced-sdr-companies/index.html"
+    ]
+  },
+  {
+    "id": 363,
+    "locale": "fr",
+    "before": "Interviewez le propriétaire du livreur, pas seulement les ventes.",
+    "after": "Interrogez la personne responsable de la prestation, au-delà de l’équipe commerciale.",
+    "pages": [
+      "fr/guides/best-outsourced-sdr-companies/index.html"
+    ]
+  },
+  {
+    "id": 364,
+    "locale": "fr",
+    "before": "Copie",
+    "after": "Textes des messages",
+    "pages": [
+      "fr/guides/cold-email-agency/index.html"
+    ]
+  },
+  {
+    "id": 367,
+    "locale": "fr",
+    "before": "Demandez les mêmes champs à chaque fournisseur présélectionné et demandez au propriétaire de la livraison de les confirmer. Modélisez un cas pessimiste, attendu et optimiste en utilisant les réunions ICP organisées et les opportunités acceptées plutôt que le volume d'envoi promis par le fournisseur.",
+    "after": "Demandez les mêmes informations à chaque prestataire présélectionné et faites-les confirmer par le responsable de la prestation. Modélisez des scénarios pessimiste, central et optimiste à partir des rendez-vous effectivement tenus avec des comptes de l'ICP et des opportunités acceptées, plutôt que du volume d'envoi annoncé.",
+    "pages": [
+      "fr/guides/cold-email-agency-pricing/index.html"
+    ]
+  },
+  {
+    "id": 369,
+    "locale": "fr",
+    "before": "Une agence peut tester le ciblage et les messages, mais elle ne peut pas fabriquer une offre crédible, une preuve, un marché accessible ou une réponse commerciale compétente. Clarifiez le service, l'acheteur, le seuil commercial, le propriétaire des ventes et les preuves avant de demander à un fournisseur d'évoluer.",
+    "after": "Une agence peut tester le ciblage et les messages, mais elle ne peut pas inventer une offre crédible, des preuves, un marché accessible ni une réponse commerciale compétente. Clarifiez le service, l'acheteur, le seuil commercial, le responsable commercial et les preuves avant de demander au prestataire d'augmenter l'activité.",
+    "pages": [
+      "fr/guides/how-to-choose-an-outbound-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 371,
+    "locale": "fr",
+    "before": "Ajoutez la configuration, le mandat, les outils, les données, les frais variables et le temps client. Comparez les coûts complets sur la même période et utilisez les résultats retenus et qualifiés comme dénominateur commun.",
+    "after": "Ajoutez la mise en place, les honoraires récurrents, les outils, les données, les frais variables et le temps du client. Comparez le coût complet sur une même période, avec les rendez-vous qualifiés effectivement tenus comme dénominateur commun.",
+    "pages": [
+      "fr/guides/how-to-choose-an-outbound-lead-generation-agency/index.html"
+    ]
+  },
+  {
+    "id": 372,
+    "locale": "fr",
+    "before": "Répertoriez chaque décision et tâche récurrente, puis désignez un propriétaire responsable. Le partage des responsabilités sans décideur final entraîne des approbations lentes, des réponses incohérentes et des résultats non révisables.",
+    "after": "Répertoriez chaque décision et tâche récurrente, puis attribuez-les à une personne responsable. Une responsabilité partagée sans décideur final entraîne des validations lentes, des réponses incohérentes et des résultats impossibles à examiner.",
+    "pages": [
+      "fr/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 373,
+    "locale": "fr",
+    "before": "Propriétaire du fournisseur",
+    "after": "Responsable chez le prestataire",
+    "pages": [
+      "fr/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 374,
+    "locale": "fr",
+    "before": "Propriétaire du client",
+    "after": "Responsable côté client",
+    "pages": [
+      "fr/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 375,
+    "locale": "fr",
+    "before": "Découverte et clôture",
+    "after": "Découverte et conclusion des ventes",
+    "pages": [
+      "fr/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 376,
+    "locale": "fr",
+    "before": "Un propriétaire responsable de chaque côté",
+    "after": "Un responsable clairement désigné de chaque côté",
+    "pages": [
+      "fr/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 377,
+    "locale": "fr",
+    "before": "Utilisez un propriétaire côté client ayant autorité sur le ciblage, les approbations, la réponse commerciale et les décisions des fournisseurs. Des experts expérimentés peuvent prendre en charge les réponses et la découverte, mais une seule personne doit posséder le système d'exploitation.",
+    "after": "Désignez un responsable côté client ayant autorité sur le ciblage, les validations, la réponse commerciale et les décisions concernant les prestataires. Les experts seniors peuvent contribuer aux réponses et aux entretiens de découverte, mais une personne doit piloter le système de travail.",
+    "pages": [
+      "fr/guides/how-to-manage-an-outsourced-sdr-team/index.html"
+    ]
+  },
+  {
+    "id": 378,
+    "locale": "fr",
+    "before": "L'acheteur est toujours propriétaire de la stratégie, de la qualité des données et des réponses",
+    "after": "L'acheteur reste responsable de la stratégie, de la qualité des données et des réponses",
+    "pages": [
+      "fr/guides/linkedin-lead-generation-agency-cost/index.html"
+    ]
+  },
+  {
+    "id": 379,
+    "locale": "fr",
+    "before": "Copiez ces champs sur une ligne par fournisseur. Laissez un champ vide lorsque la proposition ne le définit pas ; l'ambiguïté est une découverte, pas une raison de deviner.",
+    "after": "Copiez ces champs dans une ligne par prestataire. Laissez une case vide si la proposition ne la définit pas ; cette ambiguïté est un constat, pas une raison d'inventer une réponse.",
+    "pages": [
+      "fr/guides/linkedin-lead-generation-agency-cost/index.html"
+    ]
+  },
+  {
+    "id": 380,
+    "locale": "fr",
+    "before": "Gardez un propriétaire de réponse côté client.",
+    "after": "Gardez un responsable des réponses côté client.",
+    "pages": [
+      "fr/guides/linkedin-lead-generation-agency-cost/index.html"
+    ]
+  },
+  {
+    "id": 382,
+    "locale": "fr",
+    "before": "Horaires internes et propriétaire",
+    "after": "Heures internes et responsable désigné",
+    "pages": [
+      "fr/guides/outbound-call-center-pricing/index.html"
+    ]
+  },
+  {
+    "id": 384,
+    "locale": "fr",
+    "before": "Propriétaire exécutif et niveau de service d’intervention",
+    "after": "Responsable de direction et délai de réponse convenu",
+    "pages": [
+      "fr/guides/outsourced-sdr-pros-and-cons/index.html"
+    ]
+  },
+  {
+    "id": 386,
+    "locale": "fr",
+    "before": "Utilisez nos guides pratiques, nos pages de services et nos preuves de campagne pour comparer les options et décider si les prospection outbound ciblée correspondent à votre marché.",
+    "after": "Utilisez nos guides pratiques, nos pages de services et nos exemples de campagnes pour comparer les options et déterminer si la prospection outbound ciblée convient à votre marché.",
+    "pages": [
+      "fr/index.html"
+    ]
+  },
+  {
+    "id": 387,
+    "locale": "fr",
+    "before": "Découvrez comment les prospection outbound ciblée peuvent aider les fabricants à vendre des produits techniques exigeants à des comptes nommés.",
+    "after": "Découvrez comment une prospection outbound ciblée peut aider les fabricants à vendre des produits techniques à des comptes identifiés dont les achats nécessitent une évaluation approfondie.",
+    "pages": [
+      "fr/index.html"
+    ]
+  },
+  {
+    "id": 389,
+    "locale": "fr",
+    "before": "Beespoke peut exécuter un test outbound ciblé, dirigé par LinkedIn, pour un cabinet de comptabilité ou de conseil avec un service défini, des acheteurs commerciaux identifiables, des preuves défendables et un propriétaire commercial capable de diriger la découverte. L'objectif initial est de tester un segment et un message avec suffisamment de discipline pour apprendre, et non de contacter tous les responsables financiers.",
+    "after": "Beespoke peut exécuter un test outbound ciblé, dirigé par LinkedIn, pour un cabinet de comptabilité ou de conseil avec un service défini, des acheteurs commerciaux identifiables, des preuves défendables et un responsable commercial capable de diriger la découverte. L'objectif initial est de tester un segment et un message avec suffisamment de discipline pour apprendre, et non de contacter tous les responsables financiers.",
+    "pages": [
+      "fr/industries/accounting-firm-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 392,
+    "locale": "fr",
+    "before": "Exiger séparément les résultats réservés, retenus, acceptés et disqualifiés.",
+    "after": "Demandez des résultats distincts pour les rendez-vous réservés, tenus, acceptés et disqualifiés.",
+    "pages": [
+      "fr/industries/accounting-firm-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 393,
+    "locale": "fr",
+    "before": "Un marché étroit, des preuves défendables et un propriétaire commercial disponible comptent plus que la taille de la liste.",
+    "after": "Un marché étroit, des preuves défendables et un responsable commercial disponible comptent plus que la taille de la liste.",
+    "pages": [
+      "fr/industries/b2b-saas-lead-generation/index.html",
+      "fr/industries/consulting-lead-generation/index.html",
+      "fr/industries/cybersecurity-lead-generation/index.html",
+      "fr/industries/manufacturing-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 394,
+    "locale": "fr",
+    "before": "Propriétaire opérationnel rencontrant le problème",
+    "after": "Responsable opérationnel rencontrant le problème",
+    "pages": [
+      "fr/industries/b2b-saas-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 396,
+    "locale": "fr",
+    "before": "Aucun propriétaire pour les réponses qualifiées",
+    "after": "Aucun responsable pour les réponses qualifiées",
+    "pages": [
+      "fr/industries/b2b-saas-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 397,
+    "locale": "fr",
+    "before": "L'acheteur économique, le propriétaire du problème, le champion interne, l'évaluateur et la partie prenante en matière d'approvisionnement peuvent être des personnes différentes. L’ancienneté à elle seule ne révèle pas qui ressent le problème ou qui peut promouvoir le changement.",
+    "after": "L'acheteur économique, le responsable du problème, le champion interne, l'évaluateur et la partie prenante en matière d'approvisionnement peuvent être des personnes différentes. L’ancienneté à elle seule ne révèle pas qui ressent le problème ou qui peut promouvoir le changement.",
+    "pages": [
+      "fr/industries/consulting-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 398,
+    "locale": "fr",
+    "before": "Propriétaire du problème",
+    "after": "Responsable du problème",
+    "pages": [
+      "fr/industries/consulting-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 399,
+    "locale": "fr",
+    "before": "CFO, COO, CIO, propriétaire fonctionnel",
+    "after": "CFO, COO, CIO, responsable fonctionnel",
+    "pages": [
+      "fr/industries/it-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 400,
+    "locale": "fr",
+    "before": "Beespoke peut gérer des prospection outbound ciblée dirigées par LinkedIn pour une société de services informatiques avec une offre spécifique, des conditions de compte identifiables, des preuves pertinentes et un responsable technique des ventes. Nous pouvons gérer la recherche, la messagerie, les contacts, les réponses et la réservation de réunions qualifiées tandis que le client est propriétaire de la découverte technique et de la conception de la solution.",
+    "after": "Beespoke peut mener une prospection ciblée sur LinkedIn pour une entreprise de services informatiques disposant d'une offre précise, de signaux identifiables dans les comptes, de preuves pertinentes et d'un responsable commercial technique. Nous pouvons gérer la recherche, les messages, les contacts, les réponses et la prise de rendez-vous qualifiés ; le client prend en charge la découverte technique et la conception de la solution.",
+    "pages": [
+      "fr/industries/it-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 401,
+    "locale": "fr",
+    "before": "Nommez le propriétaire de la réponse technique avant le lancement.",
+    "after": "Nommez la personne responsable des réponses techniques avant le lancement.",
+    "pages": [
+      "fr/industries/it-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 402,
+    "locale": "fr",
+    "before": "Itinéraire rapide vers un propriétaire technique qualifié",
+    "after": "Accès rapide à un responsable technique qualifié",
+    "pages": [
+      "fr/industries/it-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 405,
+    "locale": "fr",
+    "before": "Les achats industriels complexes impliquent souvent un évaluateur technique, un propriétaire opérationnel, un acheteur économique, un acteur de l'approvisionnement et parfois un intégrateur ou un distributeur. Le bon premier contact dépend du problème et de l’étape, et non seulement de l’ancienneté.",
+    "after": "Les achats industriels complexes impliquent souvent un évaluateur technique, un responsable opérationnel, un acheteur économique, un acteur de l'approvisionnement et parfois un intégrateur ou un distributeur. Le bon premier contact dépend du problème et de l’étape, et non seulement de l’ancienneté.",
+    "pages": [
+      "fr/industries/manufacturing-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 408,
+    "locale": "fr",
+    "before": "Propriétaire de la décision et processus d’évaluation",
+    "after": "Responsable de la décision et processus d’évaluation",
+    "pages": [
+      "fr/industries/marketing-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 410,
+    "locale": "fr",
+    "before": "Le propriétaire senior reçoit un contexte complet",
+    "after": "Le responsable senior reçoit un contexte complet",
+    "pages": [
+      "fr/industries/marketing-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 413,
+    "locale": "fr",
+    "before": "CIO, propriétaire technique, achats",
+    "after": "CIO, responsable technique, achats",
+    "pages": [
+      "fr/industries/professional-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 415,
+    "locale": "fr",
+    "before": "Le propriétaire senior peut mener une découverte éclairée",
+    "after": "Le responsable senior peut mener un entretien de découverte éclairé",
+    "pages": [
+      "fr/industries/professional-services-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 417,
+    "locale": "fr",
+    "before": "Choisissez un coin commercial : recherche de cadres retenus, placements permanents dans une fonction spécialisée, recrutement contractuel, recrutement intégré, embauche de projet ou une géographie définie. Chacun a des rôles d’urgence, de frais et d’achat différents.",
+    "after": "Choisissez un axe commercial précis : recrutement de cadres avec honoraires initiaux, placements permanents dans une fonction spécialisée, mise à disposition de personnel, recrutement intégré, recrutements par projet ou zone géographique définie. Chacun implique une urgence, une logique d'honoraires et des rôles d'achat différents.",
+    "pages": [
+      "fr/industries/recruitment-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 418,
+    "locale": "fr",
+    "before": "Enregistrez le signal, puis étudiez le modèle de recrutement interne, la politique de l'agence, la difficulté du rôle, l'emplacement, l'historique d'embauche et si le contact est propriétaire de la décision. Respectez les instructions explicites aux agences et n’envoyez pas de données de candidats non sollicitées.",
+    "after": "Enregistrez le signal, puis étudiez le modèle de recrutement interne, la politique de l'agence, la difficulté du rôle, l'emplacement, l'historique d'embauche et si le contact est responsable de la décision. Respectez les instructions explicites aux agences et n’envoyez pas de données de candidats non sollicitées.",
+    "pages": [
+      "fr/industries/recruitment-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 420,
+    "locale": "fr",
+    "before": "Propriétaire du fournisseur et influence de l'embauche cartographiées",
+    "after": "Responsable des prestataires et influence sur le recrutement identifiés",
+    "pages": [
+      "fr/industries/recruitment-agency-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 425,
+    "locale": "fr",
+    "before": "Beespoke gère la partie outbound de ce processus. Nous traduisons la stratégie commerciale en logique de compte cible, hypothèses de rôle d'acheteur, messagerie, exécution de campagne, gestion des réponses et réservation de réunions. Votre équipe est responsable de la découverte, de la conception et de la clôture de la solution.",
+    "after": "Beespoke gère la partie outbound de ce processus. Nous traduisons la stratégie commerciale en critères de sélection des comptes, hypothèses sur les rôles d'achat, messages, exécution des campagnes, gestion des réponses et prise de rendez-vous. Votre équipe mène les entretiens de découverte, conçoit la solution et conclut les ventes.",
+    "pages": [
+      "fr/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 426,
+    "locale": "fr",
+    "before": "Clarifiez l'acheteur, le problème et le propriétaire commercial avant de payer pour l'exécution de la campagne.",
+    "after": "Clarifiez l'acheteur, le problème et le responsable commercial avant de payer pour l'exécution de la campagne.",
+    "pages": [
+      "fr/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 428,
+    "locale": "fr",
+    "before": "Propriétaire de livraison nommé et répartition du temps claire",
+    "after": "Responsable de la prestation désigné et temps alloué clairement défini",
+    "pages": [
+      "fr/services/b2b-lead-generation/index.html"
+    ]
+  },
+  {
+    "id": 439,
+    "locale": "fr",
+    "before": "Découverte, conception de la solution, prochaines étapes CRM, proposition, négociation et clôture.",
+    "after": "Découverte, conception de la solution, prochaines étapes CRM, proposition, négociation et conclusion des ventes.",
+    "pages": [
+      "fr/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 440,
+    "locale": "fr",
+    "before": "Beespoke se concentre volontairement sur la prospection et la prise de rendez-vous. Une entreprise qui recherche un cycle complet de ventes externalisées doit évaluer les fournisseurs ayant des capacités démontrées en matière de découverte, de ventes techniques, de gestion de pipeline, de passation de contrats et de clôture sur le marché concerné.",
+    "after": "Beespoke se concentre volontairement sur la prospection et la prise de rendez-vous. Une entreprise qui recherche un cycle complet de ventes externalisées doit évaluer les fournisseurs ayant des capacités démontrées en matière de découverte, de ventes techniques, de gestion de pipeline, de passation de contrats et de conclusion des ventes sur le marché concerné.",
+    "pages": [
+      "fr/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 442,
+    "locale": "fr",
+    "before": "Possède la découverte, la progression CRM et les prochaines étapes",
+    "after": "Prend en charge les entretiens de découverte, la progression dans le CRM et les étapes suivantes",
+    "pages": [
+      "fr/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 443,
+    "locale": "fr",
+    "before": "Beespoke est une agence de campagne : elle gère la prospection ciblée et le transfert qualifié. La découverte, la proposition, la négociation et la clôture restent du ressort du client.",
+    "after": "Beespoke est une agence de campagne : elle gère la prospection ciblée et le transfert qualifié. La découverte, la proposition, la négociation et la conclusion des ventes restent du ressort du client.",
+    "pages": [
+      "fr/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 444,
+    "locale": "fr",
+    "before": "Il s’agit du transfert de tout ou partie du travail de vente outbound vers un prestataire externe. La portée peut inclure la recherche, la prospection, la prospection, les réponses, la qualification, les réunions, la découverte ou la clôture. La portée déclarée de Beespoke se termine au transfert de la réunion qualifiée.",
+    "after": "Il s'agit de confier tout ou partie du travail commercial outbound à un prestataire externe. Le périmètre peut inclure la recherche, la prospection, les prises de contact, les réponses, la qualification, les rendez-vous, les entretiens de découverte ou la conclusion des ventes. Le périmètre déclaré de Beespoke s'arrête à la transmission des rendez-vous qualifiés.",
+    "pages": [
+      "fr/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 445,
+    "locale": "fr",
+    "before": "Non. Beespoke gère la prospection outbound ciblée et la prise de rendez-vous. Le client est propriétaire de la découverte, de la progression des opportunités, des propositions, de la négociation et de la clôture.",
+    "after": "Non. Beespoke gère la prospection outbound ciblée et la prise de rendez-vous. Le client prend en charge les entretiens de découverte, la progression des opportunités, les propositions, la négociation et la conclusion des ventes.",
+    "pages": [
+      "fr/services/outbound-sales-outsourcing/index.html"
+    ]
+  },
+  {
+    "id": 446,
+    "locale": "fr",
+    "before": "Le client doit conserver la vérité sur le produit, l'approbation des affirmations, les exclusions de comptes sensibles, la découverte des ventes, la progression CRM, la conception de la solution, les propositions et la clôture. Les données de campagne et la propriété de l’apprentissage doivent être explicites dans le contrat.",
+    "after": "Le client doit garder la responsabilité de l'exactitude des informations produit, de la validation des affirmations, des exclusions de comptes sensibles, des entretiens de découverte, de la progression dans le CRM, de la conception de la solution, des propositions et de la conclusion des ventes. Le contrat doit préciser la propriété des données et des apprentissages de la campagne.",
+    "pages": [
+      "fr/services/outbound-sales-outsourcing/index.html"
+    ]
+  }
+]

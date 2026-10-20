@@ -133,3 +133,10 @@ console.log(`Technical build: ${hubRoutes.length} neutral resource hubs; ${files
 
 // Add the scoped neutral example after generated/localized content is stable.
 require('./build-safe-query-followup')();
+
+// Apply owner-confirmed facts before exact reviewed editorial corrections.
+require('./build-commercial-terms')();
+// Apply exact, reviewed editorial corrections after generated content is final.
+require('./build-reviewed-editorial')();
+
+require('./build-commercial-consistency')();

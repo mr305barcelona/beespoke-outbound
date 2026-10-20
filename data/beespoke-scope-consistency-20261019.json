@@ -1,0 +1,56 @@
+[
+  {
+    "locale": "en",
+    "path": "guides/cold-email-agency-pricing/index.html",
+    "before": "Beespoke publishes this guide as a buyer resource and sells LinkedIn-led outbound services. Mass cold-email infrastructure is not included in Beespoke’s standard plans. The public Beespoke prices therefore should not be compared with a managed cold-email quote as if the channel scope were identical.",
+    "after": "Beespoke’s standard outbound service covers cold email and/or cold LinkedIn at USD 1,500 per month, or EUR 1,500 per month for Europe, with a three-month minimum. Required software, data and other third-party costs are separate unless included in the written scope. Compare quotes using the same channel responsibilities and infrastructure inclusions."
+  },
+  {
+    "locale": "en",
+    "path": "guides/cold-email-agency-pricing/index.html",
+    "before": "No. Beespoke’s standard plans are focused on LinkedIn-led outbound, and required software is separate. A managed cold-email program should be scoped and priced independently.",
+    "after": "Required software, data and other third-party infrastructure costs are separate unless included in the written scope. The base outbound service covers cold email and/or cold LinkedIn at USD 1,500 per month, or EUR 1,500 per month for Europe, with a three-month minimum. Cold calling is quoted separately according to market."
+  },
+  {
+    "locale": "es",
+    "path": "es/guides/cold-email-agency-pricing/index.html",
+    "before": "Beespoke publica esta guía como recurso para compradores y vende servicios de prospección outbound dirigidos por LinkedIn. La infraestructura masiva de cold email no está incluida en los planes estándar de Beespoke. Por lo tanto, los precios públicos de Beespoke no deben compararse con una cotización gestionada por cold email, como si el alcance del canal fuera idéntico.",
+    "after": "El servicio outbound estándar de Beespoke cubre cold email y/o prospección en frío por LinkedIn por 1.500 USD al mes, o 1.500 EUR al mes en Europa, con un compromiso mínimo de tres meses. El software, los datos y otros costes de terceros se facturan aparte salvo inclusión en el alcance escrito. Compara presupuestos con las mismas responsabilidades por canal e infraestructura incluida."
+  },
+  {
+    "locale": "es",
+    "path": "es/guides/cold-email-agency-pricing/index.html",
+    "before": "No. Los planes estándar de Beespoke se centran en el outbound dirigido por LinkedIn y el software requerido es independiente. Un programa gestionado de cold email debe tener un alcance y un precio independientes.",
+    "after": "El software, los datos y otros costes de infraestructura de terceros se facturan aparte salvo inclusión en el alcance escrito. El servicio outbound base cubre cold email y/o prospección en frío por LinkedIn por 1.500 USD al mes, o 1.500 EUR al mes en Europa, con un compromiso mínimo de tres meses. Las llamadas en frío se presupuestan por separado según el mercado."
+  },
+  {
+    "locale": "ca",
+    "path": "ca/guides/cold-email-agency-pricing/index.html",
+    "before": "Beespoke publica aquesta guia com a recurs del comprador i ven serveis d'outbound dirigits per LinkedIn. La infraestructura massiva de cold email no està inclosa als plans estàndard de Beespoke. Per tant, els preus públics de Beespoke no s'han de comparar amb una cotització de cold email gestionada com si l'abast del canal fos idèntic.",
+    "after": "El servei outbound estàndard de Beespoke cobreix cold email i/o prospecció en fred per LinkedIn per 1.500 USD al mes, o 1.500 EUR al mes a Europa, amb un compromís mínim de tres mesos. El programari, les dades i altres costos de tercers es facturen a part, tret que l'abast escrit els inclogui. Compara pressupostos amb les mateixes responsabilitats per canal i la mateixa infraestructura inclosa."
+  },
+  {
+    "locale": "ca",
+    "path": "ca/guides/cold-email-agency-pricing/index.html",
+    "before": "No. Els plans estàndard de Beespoke se centren en les outbound dirigides per LinkedIn i el programari necessari està separat. Un programa de cold email gestionat s'hauria de definir i tenir un preu independent.",
+    "after": "El programari, les dades i altres costos d'infraestructura de tercers es facturen a part, tret que l'abast escrit els inclogui. El servei outbound base cobreix cold email i/o prospecció en fred per LinkedIn per 1.500 USD al mes, o 1.500 EUR al mes a Europa, amb un compromís mínim de tres mesos. Les trucades en fred es pressuposten per separat segons el mercat."
+  },
+  {
+    "locale": "fr",
+    "path": "fr/guides/cold-email-agency-pricing/index.html",
+    "before": "Beespoke publie ce guide en tant que ressource pour les acheteurs et vend des services sortants dirigés par LinkedIn. L’infrastructure de messagerie froide de masse n’est pas incluse dans les forfaits standard de Beespoke. Les prix publics de Beespoke ne doivent donc pas être comparés à un devis géré par e-mail à froid, comme si l'étendue du canal était identique.",
+    "after": "Le service outbound standard de Beespoke couvre le cold email et/ou la prospection à froid sur LinkedIn à 1 500 USD par mois, ou 1 500 EUR par mois en Europe, avec un engagement minimum de trois mois. Les logiciels, les données et les autres frais de tiers sont facturés séparément, sauf inclusion dans le périmètre écrit. Comparez les devis à responsabilités et infrastructure incluses identiques."
+  },
+  {
+    "locale": "fr",
+    "path": "fr/guides/cold-email-agency-pricing/index.html",
+    "before": "Non. Les forfaits standard de Beespoke sont axés sur les communications sortantes dirigées par LinkedIn et les logiciels requis sont distincts. Un programme de cold email géré doit être défini et tarifé de manière indépendante.",
+    "after": "Les logiciels, les données et les autres frais d'infrastructure de tiers sont facturés séparément, sauf inclusion dans le périmètre écrit. Le service outbound de base couvre le cold email et/ou la prospection à froid sur LinkedIn à 1 500 USD par mois, ou 1 500 EUR par mois en Europe, avec un engagement minimum de trois mois. Les appels à froid font l'objet d'un devis distinct selon le marché."
+  },
+  {
+    "locale": "fr",
+    "path": "fr/guides/cold-email-agency-pricing/index.html",
+    "before": "Les tarifs publiés par Beespoke incluent-ils l’infrastructure de messagerie froide ?",
+    "after": "Les tarifs de Beespoke incluent-ils l’infrastructure de cold email ?"
+  }
+]

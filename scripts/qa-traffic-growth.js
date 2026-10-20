@@ -1,3 +1,4 @@
+const reviewedDateFor=require('./reviewed-publication').dateFor;
 const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
 const growth=require('../data/traffic-growth-20261015'),root=path.resolve(__dirname,'..'),origin='https://outbound-lead-generation.com';
 const esc=s=>s.replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]));
@@ -9,7 +10,7 @@ for(const [route,copy] of Object.entries({...growth.english,...growth.spanish}))
  const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(ids.length,new Set(ids).size);
  for(const [,id]of html.matchAll(/href="#([^"]+)"/g))assert(ids.includes(id),route+': '+id);
  const graph=JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'];
- assert(graph.find(n=>n['@id']===origin+route+'#page').dateModified.startsWith(growth.updated));
+ assert(graph.find(n=>n['@id']===origin+route+'#page').dateModified.startsWith(reviewedDateFor(route,growth.updated)));
  for(const q of graph.find(n=>n['@type']==='FAQPage').mainEntity)assert(html.includes(`<summary>${esc(q.name)}</summary><p>${esc(q.acceptedAnswer.text)}</p>`));
  for(const l of ['en','es','ca','fr','x-default'])assert(html.includes(`hreflang="${l}"`));
 }

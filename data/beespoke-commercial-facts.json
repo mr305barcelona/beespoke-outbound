@@ -1,0 +1,38 @@
+{
+  "confirmedOn": "2026-10-19",
+  "source": "Owner-confirmed service terms",
+  "outbound": {
+    "monthly": {
+      "USD": 1500,
+      "EUR": 1500
+    },
+    "minimumMonths": 3,
+    "channels": [
+      "cold email",
+      "cold LinkedIn"
+    ],
+    "callingIncluded": false
+  },
+  "inbound": {
+    "hourly": {
+      "USD": 99,
+      "EUR": 99
+    },
+    "minimumMonths": 3,
+    "minimumHoursPerWeek": 10
+  },
+  "europeCurrency": "EUR",
+  "otherMarketsCurrency": "USD",
+  "serviceLanguages": [
+    "en",
+    "es",
+    "ca",
+    "fr"
+  ],
+  "coldCalling": {
+    "separatelyQuoted": true,
+    "priceDependsOnMarket": true,
+    "nativeCallersWouldBeHired": true
+  },
+  "thirdPartyCosts": "Separate unless included in written scope"
+}

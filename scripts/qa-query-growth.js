@@ -11,7 +11,7 @@ const localeGrowth = require('../data/locale-growth-20261015');
 const trafficGrowth = require('../data/traffic-growth-20261015');
 const broadGrowth = require('../data/broad-seo-20261015');
 const englishGrowth = require('../data/english-growth-20261015');
-const reviewedDate=(route,fallback)=>englishGrowth.lastModifiedFor(route,broadGrowth.lastModifiedFor(route,trafficGrowth.lastModifiedFor(route,localeGrowth.lastModifiedFor(route,fallback))));
+const reviewedDate=(route,fallback)=>require('./reviewed-publication').dateFor(route,englishGrowth.lastModifiedFor(route,broadGrowth.lastModifiedFor(route,trafficGrowth.lastModifiedFor(route,localeGrowth.lastModifiedFor(route,fallback)))));
 const copy = require("../data/seo-query-growth-copy.json");
 const targets = ["/services/outbound-lead-generation/", "/guides/outbound-lead-generation-cost/"];
 const updatedDates = new Map([

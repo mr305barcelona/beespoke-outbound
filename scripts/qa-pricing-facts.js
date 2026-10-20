@@ -43,7 +43,8 @@ assert(!retiredOffer.test(llms), "llms.txt exposes the retired offer");
 
 const sitemap = fs.readFileSync(path.join(root, "sitemap.xml"), "utf8");
 for (const homepagePath of ["/", "/es/", "/ca/", "/fr/"]) {
-  assert(sitemap.includes(`<loc>https://outbound-lead-generation.com${homepagePath}</loc><lastmod>2026-09-24</lastmod>`), `${homepagePath} sitemap date does not reflect the pricing and internal-link update`);
+  const expectedDate = '2026-10-20';
+  assert(sitemap.includes(`<loc>https://outbound-lead-generation.com${homepagePath}</loc><lastmod>${expectedDate}</lastmod>`), `${homepagePath} sitemap date does not reflect the pricing and internal-link update`);
 }
 
 console.log("Pricing-facts QA passed across four languages, three inbound services, dated benchmark data and llms.txt.");

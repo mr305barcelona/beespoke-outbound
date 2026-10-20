@@ -1,3 +1,4 @@
+const reviewedDateFor=require('./reviewed-publication').dateFor;
 const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
 const g=require('../data/broad-seo-20261015'),calc=require('../call-center-quote-calculator'),quote=require('../data/call-center-quote-calculator'),data=require('../data/outbound-pricing-recheck-2026-10-15.json');
 const root=path.resolve(__dirname,'..'),origin='https://outbound-lead-generation.com',esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -15,7 +16,7 @@ assert.equal(require('../data/outbound-pricing-benchmark-2026.json').checkedOn,'
 for(const route of g.routes){
  const html=fs.readFileSync(path.join(root,route,'index.html'),'utf8'),locale=/^\/(es|ca|fr)\//.exec(route)?.[1]||'en',base=locale==='en'?route:route.slice(3),graph=JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'];
  assert(html.includes(`rel="canonical" href="${origin}${route}"`));assert.equal((html.match(/<h1>/g)||[]).length,1);
- assert(graph.find(n=>n['@id']===origin+route+'#page').dateModified.startsWith(g.updated));
+ assert(graph.find(n=>n['@id']===origin+route+'#page').dateModified.startsWith(reviewedDateFor(route,g.updated)));
  const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(ids.length,new Set(ids).size,route+': duplicate ID');
  for(const [,id]of html.matchAll(/href="#([^"]+)"/g))assert(ids.includes(id),route+': '+id);
  for(const l of ['en','es','ca','fr','x-default'])assert(html.includes(`hreflang="${l}"`));
