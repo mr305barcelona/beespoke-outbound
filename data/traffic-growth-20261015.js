@@ -7,6 +7,7 @@ const english={
   title:'Cold Email Agency: Pricing, Scope & Hiring Checklist',
   description:'What should a cold email agency include? Compare fees, domain ownership, deliverability responsibilities and reply handling with a practical hiring checklist.',
   h1:'Cold email agency: pricing, responsibilities and a hiring checklist',
+  serviceLink:{label:'Review Beespoke’s managed outbound service',href:'/services/outbound-lead-generation/'},
   answer:'A cold email agency can research buyers, prepare messages, run email campaigns, manage replies and arrange sales conversations. A useful proposal states who owns the domains and data, which costs are additional, how replies are handled and what qualifies as an accepted meeting. Use the checklist below to compare that work. Beespoke publishes this buyer’s guide; its standard managed outbound service is LinkedIn-led.',
   secondary:{label:'Compare the proposal checklist',href:'#cold-email-risk-audit'}
  },
@@ -73,6 +74,16 @@ const spanish={
  }
 };
 const esc=s=>s.replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]));
+function addServiceLink(html,route){
+ const link=english[route]?.serviceLink;
+ if(!link)return html;
+ const markup=`<div class="text-links" data-service-context-link="${route}"><a href="${link.href}">${esc(link.label)} →</a></div>`;
+ if(html.includes(markup))return html;
+ if(html.includes('data-service-context-link'))throw new Error('Unexpected existing contextual service link');
+ const marker='<section class="faqs"';
+ if(!html.includes(marker))throw new Error('FAQ boundary missing for contextual service link');
+ return html.replace(marker,markup+marker);
+}
 function apply(html,pathname,locale){
  const route=locale==='en'?pathname:`/${locale}${pathname}`;
  const config=english[route];
@@ -106,7 +117,7 @@ function apply(html,pathname,locale){
   if(page){page.dateModified=updated+'T17:00:00+02:00';page.name=config.h1;page.description=config.description;if(page['@type']==='Article')page.headline=config.h1;}
   return `<script type="application/ld+json">${JSON.stringify(schema).replace(/</g,'\\u003c')}</script>`;
  });
- return html;
+ return addServiceLink(html,route);
 }
 function lastModifiedFor(route,fallback){return english[route]||spanish[route]?updated:fallback;}
-module.exports={english,spanish,apply,lastModifiedFor,updated};
+module.exports={english,spanish,apply,addServiceLink,lastModifiedFor,updated};
