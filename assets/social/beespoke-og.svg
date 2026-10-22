@@ -1,47 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
-  <title id="title">Beespoke Outbound Lead Generation</title>
-  <desc id="desc">A sophisticated navy, cream and amber Beespoke social preview card.</desc>
-  <defs>
-    <linearGradient id="bg" x1="85" y1="22" x2="1115" y2="608" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0C1728"/>
-      <stop offset=".62" stop-color="#143D59"/>
-      <stop offset="1" stop-color="#1D595E"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1020 82) rotate(133) scale(540 420)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F0B429" stop-opacity=".38"/>
-      <stop offset="1" stop-color="#F0B429" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
-      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".24"/>
-    </filter>
-  </defs>
-  <rect width="1200" height="630" rx="40" fill="url(#bg)"/>
-  <rect width="1200" height="630" rx="40" fill="url(#glow)"/>
-  <path d="M846 0h354v354L846 0Z" fill="#F0B429" fill-opacity=".08"/>
-  <path d="M790 630h410V220L790 630Z" fill="#fff" fill-opacity=".035"/>
-  <g opacity=".22" fill="none" stroke="#fff">
-    <circle cx="1040" cy="120" r="62"/>
-    <circle cx="1040" cy="120" r="106"/>
-    <circle cx="1040" cy="120" r="150"/>
-  </g>
-  <g transform="translate(82 72)">
-    <svg width="76" height="76" viewBox="0 0 400 400"><title>Beespoke</title><desc>Ivory serif B and a gold square on navy.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><title>Beespoke logo</title><rect width="1200" height="630" fill="#101828"/><g transform="translate(350 65) scale(1.25)"><title>Beespoke</title><desc>Ivory serif B and a gold square on navy.</desc>
 	<rect fill="#101828" width="400" height="400"/>
 	<path fill="#FFF9EF" transform="matrix(1.14872 0 0 1.28 67 57)" d="M72.216797 99.35022L72.216797 6.6256104Q75.512695 6.3326416 78.808594 6.0396729Q82.104492 5.7467041 85.400391 5.7467041Q96.826172 5.7467041 104.15039 8.7496338Q111.54785 11.752563 115.72266 17.904907Q119.89746 24.057251 121.72852 33.505493Q123.55957 42.953735 123.55957 56.137329Q123.55957 64.19397 122.46094 72.030884Q121.43555 79.794556 117.48047 85.946899Q113.59863 92.099243 105.76172 95.761353Q97.998047 99.35022 84.521484 99.35022L72.216797 99.35022ZM72.216797 211.85022L72.216797 103.52502L89.648438 103.52502Q104.58984 103.52502 112.86621 109.67737Q121.14258 115.82971 125.1709 124.25256Q129.19922 132.60217 130.07812 141.17151Q131.03027 149.74084 131.03027 154.79456Q131.03027 173.1051 128.17383 184.3844Q125.31738 195.59045 119.89746 201.96252Q114.55078 208.26135 106.86035 210.53186Q99.243164 212.72913 89.648438 212.72913Q80.34668 212.72913 72.216797 211.85022ZM28.710938 6.6256104L28.710938 211.85022L1.0986328 211.85022L1.0986328 216.02502L46.435547 216.02502Q59.033203 216.02502 71.484375 216.31799Q83.935547 216.61096 96.533203 216.61096Q107.95898 216.61096 122.31445 214.12073Q136.74316 211.55725 149.4873 204.96545Q162.23145 198.30042 171.09375 186.94788Q179.95605 175.52209 179.95605 158.09045Q179.95605 142.1969 172.99805 131.72327Q166.11328 121.24963 155.56641 114.80432Q145.09277 108.35901 132.49512 105.35608Q119.89746 102.35315 108.25195 101.401L108.25195 100.22913Q115.42969 99.35022 125.75684 96.34729Q136.15723 93.34436 145.75195 87.63147Q155.34668 81.918579 162.08496 73.056274Q168.82324 64.19397 168.82324 51.303345Q168.82324 36.947876 161.93848 27.353149Q155.05371 17.758423 144.36035 12.045532Q133.74023 6.3326416 120.84961 3.9156494Q107.95898 1.4986572 96.240234 1.4986572Q83.642578 1.4986572 71.337891 2.0113525Q59.033203 2.4508057 46.435547 2.4508057L1.0986328 2.4508057L1.0986328 6.6256104L28.710938 6.6256104Z"/>
 	<rect fill="#F0B429" x="306" y="295" width="42" height="42"/>
-</svg>
-    <text x="96" y="29" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800" fill="#FFFDF8">BEESPOKE</text>
-    <text x="96" y="59" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.5" fill="#BBD0D6">OUTBOUND LEAD GENERATION</text>
-  </g>
-  <g transform="translate(82 234)">
-    <text font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800" letter-spacing="-3.4" fill="#FFFDF8">
-      <tspan x="0" y="0">Focused outbound.</tspan>
-      <tspan x="0" y="79">Credible conversations.</tspan>
-    </text>
-    <text x="2" y="145" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#D7E3E7">Founder-led B2B targeting, messaging and qualified meeting booking.</text>
-  </g>
-  <g transform="translate(82 529)">
-    <rect width="391" height="2" rx="1" fill="#F0B429"/>
-    <text y="38" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing=".5" fill="#FFF2C4">outbound-lead-generation.com</text>
-  </g>
-</svg>
+</g></svg>
