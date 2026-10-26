@@ -6,7 +6,8 @@ const growth = require('../data/locale-growth-20261015');
 const root = path.resolve(__dirname,'..');
 const origin = 'https://outbound-lead-generation.com';
 const esc = value => value.replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]));
-for(const [route,copy] of Object.entries(growth.pages)) {
+for(const [route,priorCopy] of Object.entries(growth.pages)) {
+  const copy={...priorCopy,...(require('../data/query-improvements-20261026.json').find(row=>row.path===route)||{})};
   const html=fs.readFileSync(path.join(root,route,'index.html'),'utf8').replace(/&#39;/g,"'");
   assert(html.includes(`<title>${esc(copy.title)}</title>`));
   assert.equal((html.match(/<h1>/g)||[]).length,1);
@@ -29,7 +30,7 @@ for(const [route,copy] of Object.entries(growth.pages)) {
   assert.equal(new Set(ids).size,ids.length,`${route}: duplicate IDs`);
   for(const [,id] of html.matchAll(/href="#([^"]+)"/g))assert(ids.includes(id),`${route}: broken fragment ${id}`);
   for(const language of ['en','es','ca','fr','x-default'])assert(html.includes(`hreflang="${language}"`));
-  assert(html.includes(reviewedDateFor(route,growth.updated)==='2026-10-20'?(copy.locale==='fr'?'20 octobre 2026':'20 de octubre de 2026'):(copy.locale==='fr'?'15 octobre 2026':'15 de octubre de 2026')));
+  assert(html.includes(new Intl.DateTimeFormat(copy.locale==='fr'?'fr-FR':'es-ES',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(reviewedDateFor(route,growth.updated)+'T12:00:00Z'))));
   assert(!html.includes('Updated October'));
   // Full-pipeline byte stability is checked for this release; later owner/editorial layers intentionally follow growth.apply.
 }

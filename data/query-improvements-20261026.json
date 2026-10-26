@@ -1,0 +1,341 @@
+[
+  {
+    "path": "/services/outsourced-sdr/",
+    "section": {
+      "id": "managed-prospecting-example",
+      "heading": "What a managed prospecting handoff looks like",
+      "body": [
+        "A useful handoff states why this account fits, which person owns the relevant decision, what was said, what the buyer answered and which qualification points remain open. A booked slot without that context leaves your salesperson to repeat the research.",
+        "Fictional planning example: a B2B platform separates potential paying customers from possible distribution partners. The campaign uses different buyer roles, reasons for contact and qualification for each group. A partner introduction is recorded separately from a potential product purchase; neither is automatically an accepted sales opportunity."
+      ],
+      "links": [
+        [
+          "/services/cold-email-lead-generation/",
+          "See the managed cold email service"
+        ],
+        [
+          "/resources/account-research-handoff-example/",
+          "Inspect the fictional research and handoff example"
+        ]
+      ]
+    },
+    "title": "Outsourced SDR Services: Managed Email & LinkedIn | Beespoke",
+    "description": "Founder-led outsourced sales development through managed cold email and/or LinkedIn: research, messages, replies, qualification and booking. See scope and ownership.",
+    "h1": "Outsourced SDR services for managed email and LinkedIn prospecting",
+    "replacements": [
+      [
+        "Responsibilities in the standard LinkedIn campaign",
+        "Responsibilities in the standard managed outbound campaign"
+      ],
+      [
+        "Managed LinkedIn campaign",
+        "Managed email and/or LinkedIn campaign"
+      ],
+      [
+        "A focused buyer segment and a defined LinkedIn prospecting workflow.",
+        "A focused buyer segment and a defined cold email and/or LinkedIn workflow."
+      ]
+    ]
+  },
+  {
+    "path": "/fr/services/outbound-lead-generation/",
+    "section": {
+      "id": "transmission-commerciale",
+      "heading": "De la recherche de comptes au relais commercial",
+      "body": [
+        "Une agence outbound B2B doit relier la recherche au traitement des réponses. Le relais commercial précise pourquoi le compte correspond à la cible, qui décide, le motif du contact, la réponse reçue et les points de qualification à confirmer. Votre équipe peut ainsi préparer la découverte sans repartir de zéro.",
+        "Exemple fictif de planification, sans données ni résultats clients : un cabinet de services professionnels distingue les entreprises susceptibles d’acheter de partenaires prescripteurs potentiels. Le rôle visé, le motif de contact et la qualification diffèrent. Une recommandation courtoise ne constitue pas une intention d’achat."
+      ],
+      "links": [
+        [
+          "/fr/services/cold-email-lead-generation/",
+          "Examiner la prestation de cold email B2B"
+        ],
+        [
+          "/fr/resources/account-research-handoff-example/",
+          "Consulter un exemple fictif de recherche et de transmission"
+        ]
+      ]
+    },
+    "title": "Agence outbound B2B : cold email et LinkedIn | Beespoke",
+    "description": "Prospection outbound B2B pilotée par le fondateur : cold email et/ou LinkedIn, recherche, réponses, qualification et rendez-vous. Périmètre et responsabilités explicites.",
+    "h1": "Agence outbound B2B pour le cold email et LinkedIn",
+    "answer": "Beespoke gère le cold email et/ou la prospection à froid sur LinkedIn : ciblage, recherche de comptes, messages, relances, réponses, qualification et prise de rendez-vous selon les critères convenus. Le fondateur pilote la prestation. Votre équipe valide les affirmations et les comptes exclus, puis mène la découverte commerciale, les propositions et la conclusion des ventes. Le forfait outbound est de 1 500 USD par mois, ou 1 500 EUR en Europe, avec trois mois minimum ; les frais de tiers et les appels à froid sont distincts.",
+    "replacements": [
+      [
+        "Qui fait quoi pendant une campagne de prospection LinkedIn",
+        "Qui fait quoi pendant une campagne de prospection outbound"
+      ]
+    ]
+  },
+  {
+    "path": "/es/services/linkedin-lead-generation/",
+    "section": {
+      "id": "preparar-conversacion",
+      "heading": "Qué preparar antes de hablar con una agencia de prospección LinkedIn",
+      "body": [
+        "Para valorar el encaje, trae una oferta concreta, el tipo de empresa al que quieres llegar, los cargos que participan en la compra y una prueba que podamos utilizar. No necesitas compartir una lista privada de clientes para reservar la primera conversación.",
+        "Acordaremos qué significa una reunión cualificada y quién atenderá las preguntas de producto. La gestión de la prospección no sustituye el diagnóstico comercial, las propuestas ni el cierre de tu equipo. Si buscas delegar también el cold email, revisa su alcance específico antes de decidir los canales."
+      ],
+      "links": [
+        [
+          "/book/?lang=es",
+          "Reservar una conversación sobre tu proyecto"
+        ],
+        [
+          "/es/services/cold-email-lead-generation/",
+          "Revisar el servicio de cold email B2B"
+        ]
+      ]
+    }
+  },
+  {
+    "path": "/es/guides/appointment-setting-pricing/",
+    "section": {
+      "id": "presupuesto-y-siguiente-paso",
+      "heading": "Del precio de una cita al presupuesto de una campaña",
+      "body": [
+        "Si buscas el precio de agendar reuniones cualificadas, separa la forma de cobro de la calidad exigida. Una cuota mensual remunera la ejecución acordada; el pago por cita depende de qué activa la factura. Compara en el mismo periodo herramientas, datos, supervisión, reuniones celebradas y oportunidades aceptadas.",
+        "Beespoke publica 1.500 USD al mes, o 1.500 EUR al mes en Europa, para cold email y/o LinkedIn, con un mínimo de tres meses y sin tarifa por reunión. No es un precio por cita ni una tarifa exclusiva para un país. Las llamadas en frío y los costes necesarios de terceros son distintos. Para revisar el encaje, trae el mercado, el comprador, la oferta y la definición de reunión que necesitas."
+      ],
+      "links": [
+        [
+          "/es/services/b2b-appointment-setting/",
+          "Ver las responsabilidades de concertación de citas"
+        ],
+        [
+          "/book/?lang=es",
+          "Hablar del alcance para tu mercado"
+        ]
+      ]
+    }
+  },
+  {
+    "path": "/es/services/outbound-lead-generation/",
+    "section": {
+      "id": "agencia-outbound-y-canales",
+      "heading": "Qué significa contratar una agencia outbound",
+      "body": [
+        "Contratar una agencia outbound significa delegar una campaña de prospección definida, no comprar una lista ni trasladar todo el proceso de ventas. Elige cold email, LinkedIn o una combinación según cómo se identifica al comprador y qué conversación puede resultar útil.",
+        "Antes de reservar, basta con que puedas explicar tu oferta, el mercado objetivo y quién dirigirá las reuniones. Después acordamos las exclusiones, las pruebas utilizables y los criterios de cualificación. Una respuesta, una reserva, una reunión celebrada y una oportunidad comercial son etapas distintas."
+      ],
+      "links": [
+        [
+          "/es/services/cold-email-lead-generation/",
+          "Ver el servicio específico de cold email"
+        ],
+        [
+          "/es/services/linkedin-lead-generation/",
+          "Ver la prospección en LinkedIn"
+        ],
+        [
+          "/book/?lang=es",
+          "Revisar el encaje de tu campaña"
+        ]
+      ]
+    },
+    "answer": "Una agencia outbound investiga cuentas y compradores, prepara mensajes de prospección, gestiona el seguimiento y las respuestas, cualifica el interés y reserva reuniones según los criterios acordados. Beespoke presta este servicio dirigido por el fundador mediante cold email y/o LinkedIn. Tu equipo dirige el diagnóstico comercial, las propuestas y el cierre. El precio es de 1.500 USD al mes, o 1.500 EUR en Europa, con tres meses de compromiso mínimo; herramientas, datos y llamadas en frío tienen condiciones aparte."
+  },
+  {
+    "path": "/guides/outbound-lead-generation-cost/",
+    "section": {
+      "id": "reply-handling-scope-check",
+      "heading": "What should reply handling and qualified meeting delivery include?",
+      "body": [
+        "Ask whether reply handling is included in the retainer, charged by operator time or tied to a booked or held meeting. Then define which replies the provider answers, which product questions need your team, who handles opt-outs and what context reaches the salesperson. A meeting fee without these rules is not a complete operating quote.",
+        "For Beespoke, targeting, research, messages, follow-up, replies, agreed qualification and meeting booking are part of the standard cold email and/or LinkedIn campaign. There is no per-meeting fee. Required third-party costs and separately quoted calling are distinct; your team handles discovery, proposals and closing.",
+        "Before signing a retainer, record the channel and audience limits, approval owner, definition of a qualified held meeting, extra costs and handover responsibilities. Use the existing calculator with one evaluation period; neither a high reply count nor a low booked-meeting price establishes profitable acquisition."
+      ],
+      "links": [
+        [
+          "/services/cold-email-lead-generation/",
+          "See the cold email execution and reply-handling scope"
+        ],
+        [
+          "/services/outsourced-sdr/",
+          "Compare managed execution with dedicated SDR capacity"
+        ]
+      ],
+      "table": {
+        "caption": "Reply handling: four questions that change the real cost",
+        "headers": [
+          "Decision",
+          "What to settle in writing"
+        ],
+        "rows": [
+          [
+            "Coverage",
+            "Who replies, who escalates product questions and what requires client approval."
+          ],
+          [
+            "Qualification",
+            "The account, role and interest criteria; booked and held meetings reported separately."
+          ],
+          [
+            "Charge trigger",
+            "Retainer, operator time or a precisely defined event; cancellations and reschedules handled explicitly."
+          ],
+          [
+            "Sales handoff",
+            "Account context, reply history, unresolved questions and who owns the next step."
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "path": "/guides/google-ads-management-cost/",
+    "section": {
+      "id": "management-fee-scope",
+      "heading": "What a Google Ads management fee should buy",
+      "body": [
+        "A management fee pays for a defined operating workload; it is separate from advertising spend. Compare campaign structure, search-term review, bidding and budget oversight, conversion measurement, landing-page work and reporting. Confirm which tasks are implemented and which are advice only.",
+        "Do not infer a fair fee from spend alone. Markets, languages, campaign complexity, tracking repairs and the number of landing pages change the work. Use the fee-model calculator above to compare billing mechanics, then add the implementation and internal sales costs that its simplified totals exclude."
+      ],
+      "links": [
+        [
+          "/services/b2b-ppc-agency/",
+          "See the managed B2B paid-search service"
+        ],
+        [
+          "/compare/b2b-seo-vs-ppc/",
+          "Decide whether paid search or SEO deserves the first test"
+        ]
+      ],
+      "table": {
+        "caption": "Normalize the scope before comparing management pricing",
+        "headers": [
+          "Work",
+          "Question for the quote"
+        ],
+        "rows": [
+          [
+            "Account operation",
+            "Which campaigns, markets and languages are included?"
+          ],
+          [
+            "Conversion measurement",
+            "Who implements, verifies and maintains the agreed lead and sales-outcome tracking?"
+          ],
+          [
+            "Search quality",
+            "Who reviews irrelevant searches, exclusions and actual sales feedback?"
+          ],
+          [
+            "Website work",
+            "Are landing-page recommendations implemented within the allocation or separately scoped?"
+          ],
+          [
+            "Review",
+            "What evidence changes the plan, and who approves extra work?"
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "path": "/services/b2b-ppc-agency/",
+    "section": {
+      "id": "paid-search-work-example",
+      "heading": "What an actionable B2B paid-search review produces",
+      "body": [
+        "An actionable review connects a search to an offer, a landing page, a conversion definition and a sales outcome. For each proposed change, record the evidence, the owner and what would make you keep, revise or stop it.",
+        "Fictional planning example: a business receives inquiries for jobs alongside buyer inquiries. The first task is to separate those outcomes, inspect the searches and landing-page promise, and agree what sales accepts. More form submissions alone would not establish an improvement."
+      ],
+      "links": [
+        [
+          "/guides/google-ads-management-cost/",
+          "Compare fees, advertising spend and full acquisition cost"
+        ],
+        [
+          "/compare/b2b-seo-vs-ppc/",
+          "Choose the first channel by the question it must answer"
+        ]
+      ]
+    }
+  },
+  {
+    "path": "/services/b2b-seo-agency/",
+    "section": {
+      "id": "seo-page-priority-example",
+      "heading": "What a page-level SEO plan should show",
+      "body": [
+        "For each URL, state the buyer decision, observed queries, crawl and indexation status, the missing answer or evidence, relevant internal links and the next commercial step. Keep impressions, clicks, engaged visits and qualified outcomes separate.",
+        "Fictional planning example: a service page has no reported search impressions while a related guide is visible. Check the service URL’s delivery, canonical and indexing evidence before assuming that another article is the answer. If the URL is eligible, compare its buying purpose with the actual results and improve the demonstrated gap."
+      ],
+      "links": [
+        [
+          "/compare/b2b-seo-vs-ppc/",
+          "Compare organic search with paid search"
+        ],
+        [
+          "/services/generative-engine-optimization/",
+          "See how AEO uses the same search foundations"
+        ]
+      ]
+    }
+  },
+  {
+    "path": "/services/generative-engine-optimization/",
+    "section": {
+      "id": "aeo-evidence-deliverables",
+      "heading": "What an AEO review should leave you with",
+      "body": [
+        "A useful AEO review leaves a page and entity fact check, crawl and snippet-eligibility findings, specific answer improvements, source opportunities and a repeatable observation record. Name the question, system, date, language and observed sources; keep factual corrections separate from untested ranking ideas.",
+        "A mention, a cited URL, an AI referral and a booked call are different observations. Track them separately. Google states that normal SEO applies to its AI features and requires no special AI file or schema. An llms.txt file or extra FAQ markup is not a substitute for useful, accessible evidence."
+      ],
+      "links": [
+        [
+          "https://developers.google.com/search/docs/appearance/ai-features",
+          "Read Google’s AI features guidance"
+        ],
+        [
+          "/guides/aeo-agency-pricing/",
+          "Compare AEO pricing by deliverables and measurement"
+        ]
+      ]
+    }
+  },
+  {
+    "path": "/guides/aeo-agency-pricing/",
+    "section": {
+      "id": "aeo-pricing-model-deliverables",
+      "heading": "Compare GEO and AEO pricing by the work delivered",
+      "body": [
+        "Common billing structures include a defined audit, a monthly allocation and separately scoped implementation. Compare the URLs and systems reviewed, the actual editorial and technical work, source research, measurement conditions and who implements the recommendations. A report-only audit and ongoing execution are different purchases.",
+        "Beespoke’s approved inbound service is USD 99 per hour, or EUR 99 per hour in Europe, with a minimum of ten hours per week and three months. Agree the work and allocation in writing. Do not compare that commitment with a different provider’s audit fee as though they buy the same work, and do not treat a citation count as a guaranteed sales outcome."
+      ],
+      "links": [
+        [
+          "/services/generative-engine-optimization/",
+          "Inspect the AEO service and evidence boundary"
+        ],
+        [
+          "/services/b2b-seo-agency/",
+          "Review the SEO foundations before adding AI-only work"
+        ]
+      ]
+    }
+  },
+  {
+    "path": "/compare/b2b-seo-vs-ppc/",
+    "section": {
+      "id": "agency-comparison-deliverables",
+      "heading": "Comparing B2B SEO and paid-search agencies",
+      "body": [
+        "Ask both providers to work from the same offer, buyer, market and accepted-opportunity definition. The paid-search proposal should show the demand test, media budget and conversion path. The SEO proposal should show the target buying decisions, priority URLs, evidence to create and technical dependencies.",
+        "Choose the first test by the uncertainty it resolves. Search ads may test a defined query and offer with a separately approved media budget; SEO needs crawlable, useful pages and time to accumulate observable search evidence. Neither channel makes weak qualification or missing sales follow-up disappear."
+      ],
+      "links": [
+        [
+          "/guides/google-ads-management-cost/",
+          "Normalize paid-search fees and media costs"
+        ],
+        [
+          "/services/b2b-seo-agency/",
+          "See the SEO work and page priorities"
+        ]
+      ]
+    }
+  }
+]

@@ -7,5 +7,7 @@ function revise(html,locale){
  });
 }
 const routes=require('../data/owner-reviewed-routes-20261019.json');
-const dateFor=(route,fallback)=>routes.includes(route)?'2026-10-20':fallback;
+const contentRoutes=new Set(require('../data/query-improvements-20261026.json').map(row=>row.path));
+for(const locale of ['','/es','/ca','/fr'])for(const route of ['/services/cold-email-lead-generation/','/guides/cold-email-agency/','/guides/cold-email-agency-pricing/'])contentRoutes.add(locale+route);
+const dateFor=(route,fallback)=>contentRoutes.has(route)?'2026-10-26':routes.includes(route)?'2026-10-20':fallback;
 module.exports={revise,dateFor};

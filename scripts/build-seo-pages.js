@@ -78,8 +78,9 @@ const updatedOverrides = new Map([
 for (const pagePath of [...Object.keys(inboundWorkshop.packs), ...Object.keys(inboundWorkshop.publicPrices), '/compare/b2b-seo-vs-ppc/']) updatedOverrides.set(pagePath, '2026-10-09');
 for (const pagePath of new Set([...Object.keys(optimizationSprint.sections), ...Object.keys(optimizationSprint.linkPlans)])) updatedOverrides.set(pagePath, '2026-10-09');
 updatedOverrides.set(softwareComparison.pagePath, '2026-10-15');
+updatedOverrides.set('/services/cold-email-lead-generation/', '2026-10-26');
 const updatedFor = (pagePath) => updatedOverrides.get(pagePath) || defaultUpdated;
-const modifiedDateTimeFor = (pagePath) => updatedOverrides.has(pagePath)
+const modifiedDateTimeFor = (pagePath) => pagePath === "/services/cold-email-lead-generation/" ? "2026-10-26T18:30:00+01:00" : updatedOverrides.has(pagePath)
   ? `${updatedFor(pagePath)}T15:00:00+02:00`
   : "2026-07-24T09:00:00+02:00";
 const displayDateFor = (pagePath) => new Intl.DateTimeFormat("en-US", {

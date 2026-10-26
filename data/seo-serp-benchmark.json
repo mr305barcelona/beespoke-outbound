@@ -49,5 +49,37 @@
 ,
 {"path":"/guides/google-ads-management-cost/","query":"google ads management cost","checked":"2026-10-08","serpDifficulty":"Not measured: no fresh Semrush volume or KD claim","competitors":["https://velocityppc.com/blog/google-ads-agency-pricing/"],"serpRequirements":["direct answer","scope","fee or channel comparison","worked decision framework","limitations","official sources","commercial next step"],"beespokeAdvantages":["disclosed hourly rate and weekly minimum","explicit fully loaded economics or scope worksheet","four reviewed languages","no invented client results"],"externalConstraints":["limited authority","ranking and conversion data needed after publication"]},
 {"path":"/compare/b2b-seo-vs-ppc/","query":"b2b seo vs ppc","checked":"2026-10-08","serpDifficulty":"Not measured: no fresh Semrush volume or KD claim","competitors":["https://www.zapminds.com/insights/seo-vs-ppc-b2b-roi"],"serpRequirements":["direct answer","scope","fee or channel comparison","worked decision framework","limitations","official sources","commercial next step"],"beespokeAdvantages":["disclosed hourly rate and weekly minimum","explicit fully loaded economics or scope worksheet","four reviewed languages","no invented client results"],"externalConstraints":["limited authority","ranking and conversion data needed after publication"]},
-{"path":"/guides/aeo-agency-pricing/","query":"aeo agency pricing","checked":"2026-10-08","serpDifficulty":"Not measured: no fresh Semrush volume or KD claim","competitors":["https://gigawattgroup.com/insights/geo-aeo-pricing-models-what-agencies-charge-in-2026/"],"serpRequirements":["direct answer","scope","fee or channel comparison","worked decision framework","limitations","official sources","commercial next step"],"beespokeAdvantages":["disclosed hourly rate and weekly minimum","explicit fully loaded economics or scope worksheet","four reviewed languages","no invented client results"],"externalConstraints":["limited authority","ranking and conversion data needed after publication"]}
+{"path":"/guides/aeo-agency-pricing/","query":"aeo agency pricing","checked":"2026-10-08","serpDifficulty":"Not measured: no fresh Semrush volume or KD claim","competitors":["https://gigawattgroup.com/insights/geo-aeo-pricing-models-what-agencies-charge-in-2026/"],"serpRequirements":["direct answer","scope","fee or channel comparison","worked decision framework","limitations","official sources","commercial next step"],"beespokeAdvantages":["disclosed hourly rate and weekly minimum","explicit fully loaded economics or scope worksheet","four reviewed languages","no invented client results"],"externalConstraints":["limited authority","ranking and conversion data needed after publication"]},
+  {
+    "path": "/services/cold-email-lead-generation/",
+    "query": "cold email agency; b2b cold email agency",
+    "checked": "2026-10-26",
+    "market": "US",
+    "serpDifficulty": "Semrush KD 26% and 17%; estimated demand, not a rank forecast",
+    "competitors": [
+      "https://belkins.io/cold-email-services",
+      "https://saleshive.com/email-outreach",
+      "https://www.hypergen.io/services/cold-email-lead-gen-agency"
+    ],
+    "serpRequirements": [
+      "managed-service scope",
+      "account and buyer research",
+      "reply handling",
+      "sending responsibilities",
+      "fit and exclusions",
+      "pricing path",
+      "channel-specific evidence limitations",
+      "booking handoff"
+    ],
+    "beespokeAdvantages": [
+      "owner-approved transparent scope and fees",
+      "founder-led account-to-reply decisions",
+      "explicit client responsibility and qualification map"
+    ],
+    "externalConstraints": [
+      "new URL indexation",
+      "competitor authority and genuine case evidence",
+      "search intent overlap with existing guides"
+    ]
+  }
 ]

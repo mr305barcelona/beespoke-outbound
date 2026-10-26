@@ -528,6 +528,10 @@ for (const [locale] of Object.entries(locales)) {
     const output = path.join(root, localizedPath(locale, page.path).replace(/^\//, ""), "index.html");
     fs.mkdirSync(path.dirname(output), { recursive: true });
     const pageDictionary = { ...dictionary, ...queryGrowthDictionary };
+    for (const [source, translated] of Object.entries(page.path === '/services/cold-email-lead-generation/' ? require('../data/cold-email-service-copy-20261026.json')[locale] : {})) {
+      pageDictionary[source] = translated;
+      pageDictionary[escapeHtml(source)] = translated;
+    }
     // Related links and shared navigation need the other service's copy too.
     for (const other of pages.filter(p=>inboundPages.has(p.path))) {
       if (inboundLocalized[other.path]) addCopyMappings(other, inboundLocalized[other.path], pageDictionary);
@@ -538,7 +542,9 @@ for (const [locale] of Object.entries(locales)) {
       pageDictionary[en] = translated;
       pageDictionary[escapeHtml(en)] = translated;
     }
-    fs.writeFileSync(output, localeGrowth.apply(localizeHtml(source, page, locale, pageDictionary), page.path, locale));
+    let localized = localizeHtml(source, page, locale, pageDictionary);
+    if (page.path === '/services/cold-email-lead-generation/') localized = localized.replace(/href="\/resources\/account-research-handoff-example\/"/g, `href="/${locale}/resources/account-research-handoff-example/"`);
+    fs.writeFileSync(output, localeGrowth.apply(localized, page.path, locale));
   }
   // SEO-only releases must never silently regenerate an unapproved homepage.
   if (process.env.SEO_REBUILD_HOMEPAGES === '1') {

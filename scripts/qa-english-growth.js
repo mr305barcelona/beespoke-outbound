@@ -1,7 +1,8 @@
 const reviewedDateFor=require('./reviewed-publication').dateFor;
 const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path'),g=require('../data/english-growth-20261015'),tool=require('../agency-proposal-checklist');
 const root=path.resolve(__dirname,'..'),origin='https://outbound-lead-generation.com',esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-for(const [route,c]of Object.entries(g.config)){
+for(const [route,priorCopy]of Object.entries(g.config)){
+ const c={...priorCopy,...(require('../data/query-improvements-20261026.json').find(row=>row.path===route)||{})};
  const html=fs.readFileSync(path.join(root,route,'index.html'),'utf8');assert(html.includes(`<title>${esc(c.title)}</title>`));assert(html.includes(`<h1>${esc(c.h1)}</h1>`));assert(html.includes(`rel="canonical" href="${origin}${route}"`));
  const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(ids.length,new Set(ids).size,route+': duplicate ID');for(const [,id]of html.matchAll(/href="#([^"]+)"/g))assert(ids.includes(id),route+': '+id);
  const graph=JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'];assert(graph[0].dateModified.startsWith(reviewedDateFor(route,g.updated)));for(const q of graph.find(n=>n['@type']==='FAQPage').mainEntity){assert(html.includes(esc(q.name)));assert(html.includes(esc(q.acceptedAnswer.text)));}

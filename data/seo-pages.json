@@ -1582,5 +1582,214 @@
     "/compare/b2b-seo-vs-ppc/",
     "/pricing/"
   ]
-}
+},
+  {
+    "path": "/services/cold-email-lead-generation/",
+    "title": "B2B Cold Email Agency: Managed Prospecting | Beespoke",
+    "description": "Founder-led B2B cold email: account research, messages, follow-ups, replies and qualified meeting booking. See Beespoke’s scope, fees and client responsibilities.",
+    "eyebrow": "Managed B2B cold email",
+    "h1": "A B2B cold email agency that manages the conversation",
+    "answer": "Beespoke manages B2B cold email from account research and message preparation through follow-up, replies, qualification and meeting booking. Founder-led delivery keeps the buyer hypothesis connected to the conversations it produces. Your team approves claims and target exclusions, then handles discovery, proposals and closing. This is a defined managed campaign; it does not include a dedicated full-time SDR or a guaranteed meeting volume.",
+    "heroSecondary": {
+      "label": "See the current scope and fees",
+      "href": "/pricing/"
+    },
+    "sections": [
+      {
+        "heading": "What Beespoke manages in a cold email campaign",
+        "body": [
+          "The job is to start relevant conversations with selected business buyers, then handle what comes back. A contact list, a sending tool and a large activity count are inputs, not proof of demand.",
+          "We agree a bounded audience, the offer, permitted evidence and qualification criteria before execution. Account research informs the reason for contact; reply patterns then inform the next targeting and messaging decisions."
+        ],
+        "table": {
+          "caption": "Responsibilities from research to sales handoff",
+          "headers": [
+            "Stage",
+            "Beespoke",
+            "Your team"
+          ],
+          "rows": [
+            [
+              "Account selection",
+              "Research accounts, buyer roles and a reason for contact.",
+              "Confirm fit, exclusions and markets."
+            ],
+            [
+              "Messages and follow-up",
+              "Prepare messages and follow-ups around the agreed offer.",
+              "Approve product claims, evidence and tone."
+            ],
+            [
+              "Replies and qualification",
+              "Handle replies, apply agreed criteria and escalate product questions.",
+              "Answer specialist questions and confirm commercial relevance."
+            ],
+            [
+              "Meeting handoff",
+              "Book the conversation and pass the buyer context.",
+              "Lead discovery, proposals and closing; return outcome feedback."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "When a managed cold email service fits",
+        "body": [
+          "This service fits a B2B company with a specific offer, identifiable buyers and someone who can progress the conversations. Customer economics must support hands-on acquisition. A new campaign cannot compensate for an unclear product or an unavailable sales owner."
+        ],
+        "items": [
+          "A narrow account profile and excluded-account list can be agreed.",
+          "You have truthful evidence or a useful reason for a buyer to respond.",
+          "You can review claims and attend commercially relevant meetings.",
+          "If you need a full-time representative, a calling team or a bulk contact database, define that separately."
+        ]
+      },
+      {
+        "heading": "Two fictional examples of account-first outreach",
+        "body": [
+          "Planning examples only: these are invented situations, not client case studies, campaign results or promised outcomes.",
+          "B2B platform: separate organizations that might buy the product from partners that might distribute it. Research the organization’s public activity and the role that owns the relevant workflow. A request for a partnership discussion needs different qualification from a product demonstration.",
+          "Professional services firm: distinguish a prospective customer from a potential referral partner. Check the firm’s stated services, audience and relevant decision-maker before drafting a message. Do not imply an existing relationship or count a polite referral as purchase intent."
+        ],
+        "links": [
+          {
+            "href": "/resources/account-research-handoff-example/",
+            "label": "Inspect a fictional research and handoff example"
+          }
+        ]
+      },
+      {
+        "heading": "Agree the sending setup and approval boundary",
+        "body": [
+          "Before sending, name the owner of domains, mailboxes, contact data, sending tools and suppression handling. Agree access, costs, message approvals, volume assumptions and the conditions that require a pause. Required third-party costs are separate unless the written scope includes them.",
+          "Sender requirements vary by receiving platform and sending pattern. Google’s email sender guidelines are linked below as a technical reference; satisfying technical requirements is not a guarantee of inbox placement or permission to contact a person. Confirm the applicable outreach rules for the target market before launch."
+        ]
+      },
+      {
+        "heading": "Fees, minimum commitment and exclusions",
+        "body": [
+          "The standard outbound service is USD 1,500 per month, or EUR 1,500 per month in Europe, for cold email and/or cold LinkedIn, with a three-month minimum and no per-meeting fee. Agree the channel mix and audience in the written scope; the fee does not imply unlimited campaigns or a dedicated full-time representative.",
+          "Required software, data and other third-party costs are extra unless expressly included. Cold calling is quoted separately by market. Your team’s discovery, proposal and closing work remains outside campaign execution."
+        ],
+        "links": [
+          {
+            "href": "/guides/cold-email-agency-pricing/",
+            "label": "Compare the full cost of a cold email quote"
+          }
+        ]
+      },
+      {
+        "heading": "Measure replies, meetings and opportunities separately",
+        "body": [
+          "A reply may be an objection, a referral, a timing issue or genuine interest. A booking is not proof that a meeting happened or met the agreed criteria. Keep booked meetings, held qualified meetings, sales-accepted opportunities and customers separate.",
+          "Review audience fit, reasons for reply and sales feedback before expanding activity. No meeting volume, inbox placement, opportunity count or revenue is guaranteed. Published LinkedIn case studies should not be read as cold-email performance evidence."
+        ]
+      },
+      {
+        "heading": "Start with a useful fit conversation",
+        "body": [
+          "Bring your offer, target market, buyer roles and one piece of approved evidence. Explain who will answer product questions and attend discovery. There is no need to upload a private customer list or proposal to book the initial conversation."
+        ],
+        "links": [
+          {
+            "href": "/guides/cold-email-agency/",
+            "label": "Still evaluating providers? Use the agency buyer’s guide"
+          }
+        ]
+      }
+    ],
+    "related": [
+      "/guides/cold-email-agency/",
+      "/guides/cold-email-agency-pricing/",
+      "/services/outbound-lead-generation/"
+    ],
+    "tool": {
+      "id": "cold-email-brief",
+      "navLabel": "Three campaign inputs",
+      "eyebrow": "Campaign brief, not a forecast",
+      "heading": "Can we explain the account, buyer and reason for contact?",
+      "intro": "Use these three checks before turning a contact into an outreach target.",
+      "blocks": [
+        {
+          "label": "Account",
+          "heading": "Why this business?",
+          "body": "Write the observable business fit and the exclusions that would disqualify the account."
+        },
+        {
+          "label": "Buyer",
+          "heading": "Why this person?",
+          "body": "Name the relevant responsibility. A senior title alone does not establish ownership of the problem."
+        },
+        {
+          "label": "Reason",
+          "heading": "Why is the message useful?",
+          "body": "Connect a truthful observation to the offer. Do not manufacture urgency, familiarity or a customer result."
+        }
+      ],
+      "note": "If one answer is missing, resolve it before treating send volume as progress."
+    },
+    "decisionGuide": {
+      "heading": "What should happen to each reply?",
+      "table": {
+        "caption": "Reply handling and escalation map",
+        "headers": [
+          "Reply",
+          "Campaign action",
+          "Client input"
+        ],
+        "rows": [
+          [
+            "Relevant interest",
+            "Check the agreed criteria and arrange the next conversation.",
+            "Availability and the sales owner."
+          ],
+          [
+            "Product or technical question",
+            "Keep the context and escalate; do not invent an answer.",
+            "An approved, accurate product answer."
+          ],
+          [
+            "Wrong person or later timing",
+            "Record the distinction; do not label it as a qualified meeting.",
+            "Clarify routing or timing when needed."
+          ],
+          [
+            "Opt-out",
+            "Stop follow-up and apply the agreed suppression process.",
+            "Keep exclusions aligned across the agreed campaign tools."
+          ]
+        ]
+      }
+    },
+    "faqs": [
+      {
+        "question": "Does Beespoke send cold emails or only write them?",
+        "answer": "Beespoke provides managed campaign execution: targeting, research, messages, follow-ups, replies, qualification and meeting booking against the written scope. Your team approves claims and handles discovery, proposals and closing."
+      },
+      {
+        "question": "What does the cold email service cost?",
+        "answer": "The standard outbound fee is USD 1,500 per month, or EUR 1,500 per month in Europe, for cold email and/or cold LinkedIn, with a three-month minimum and no per-meeting fee. Required third-party software and data costs are separate unless included in writing."
+      },
+      {
+        "question": "Are cold calling and a full-time SDR included?",
+        "answer": "No. Cold calling is separately quoted according to the target market; native callers would be hired for that work. The standard service is a managed campaign, not named full-time SDR headcount."
+      },
+      {
+        "question": "Which languages can you support?",
+        "answer": "Service delivery is supported in English, Spanish, Catalan and French through the founder. Agree campaign languages and the review process in the scope; this does not promise a native staff team or that every third-party interface is localized."
+      },
+      {
+        "question": "Do you guarantee inbox placement or meetings?",
+        "answer": "No. Beespoke does not guarantee inbox placement, meeting volume, opportunities or revenue. Agree qualification criteria and review the evidence separately for replies, booked meetings, held meetings and accepted opportunities."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Google email sender guidelines",
+        "href": "https://support.google.com/mail/answer/81126"
+      }
+    ],
+    "sourceChecked": "October 26, 2026",
+    "sourceMethodology": "Service scope and rates use Beespoke’s owner-approved facts. Google is the technical sender reference. The two planning scenarios are fictional and contain no client data or claimed results."
+  }
 ]
