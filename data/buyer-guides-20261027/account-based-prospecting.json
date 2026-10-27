@@ -1,0 +1,858 @@
+{
+  "en": {
+    "path": "/guides/account-based-prospecting/",
+    "serviceFamily": "outbound",
+    "title": "Account-Based Prospecting: Accounts, Roles & Plan | Beespoke",
+    "description": "Choose target accounts and buying roles before B2B outreach. Includes fit criteria, evidence checks, a fictional tiering example and a private planning worksheet.",
+    "eyebrow": "Account-first B2B outreach",
+    "h1": "Account-based prospecting: choose accounts and buying roles before outreach",
+    "answer": "Account-based prospecting starts with a defined set of suitable companies, then researches the people and business reasons that make contact relevant. It connects account selection, buying roles, messages and sales handoff. Use it when the value of a suitable customer supports careful research and follow-up. A large contact list or a personalized first name alone does not make a campaign account-based.",
+    "heroSecondary": {
+      "label": "Use the account-planning worksheet",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Decide whether the account-first approach fits",
+        "body": [
+          "Start with the offer, customer economics and an identifiable buying problem. Account-based prospecting suits situations where a narrower set of organizations has plausible need and the team can research them meaningfully. If the offer is unclear or the sales owner cannot follow up, more precise lists will not solve the underlying constraint.",
+          "Distinguish prospecting from the wider account-based marketing programme. Prospecting concerns selecting accounts, opening relevant conversations and handing them over. Broader ABM can involve advertising, content, customer expansion and several teams. Do not assume that buying an outreach service includes all of that work."
+        ]
+      },
+      {
+        "heading": "Write an account hypothesis and explicit exclusions",
+        "body": [
+          "Define which organization could buy, why the problem could matter and what public evidence would support or contradict the hypothesis. Separate customer accounts from referral partners, distributors and suppliers. A company can be useful to the business without being a buyer of the same offer.",
+          "Set exclusions before collecting names: existing customers, active opportunities, unsuitable sectors, conflicts and organizations outside the delivery scope. Record the source and date of each useful signal. A public expansion announcement may support research, but it does not prove budget, urgency or permission to make a stronger claim."
+        ],
+        "items": [
+          "Write the business problem and the company conditions that make it plausible.",
+          "Name evidence that would disqualify the account as well as evidence that supports it.",
+          "Keep inferred needs distinct from facts published by the company.",
+          "Agree who approves account selection and maintains exclusions."
+        ],
+        "links": [
+          {
+            "href": "/downloads/beespoke-icp-scorecard/",
+            "label": "Use the ICP planning scorecard"
+          }
+        ]
+      },
+      {
+        "heading": "Prioritize accounts by evidence rather than an opaque score",
+        "body": [
+          "Create a small number of working tiers based on relevance and evidence quality. Higher priority means a stronger reason to research or contact, not a promise that the company will buy. Missing information should remain unverified; a familiar logo is not a buying signal."
+        ],
+        "table": {
+          "caption": "Fictional account-priority example",
+          "headers": [
+            "Tier",
+            "Invented evidence",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Research first",
+              "Suitable business model and public evidence of the relevant workflow",
+              "Confirm the responsible role and a truthful reason for contact"
+            ],
+            [
+              "Clarify fit",
+              "Plausible sector fit but unclear need or buying unit",
+              "Research before drafting a specific claim"
+            ],
+            [
+              "Exclude or hold",
+              "Existing opportunity, unsupported market or contradictory evidence",
+              "Follow the agreed exclusion; do not contact automatically"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Map buying roles and the question each role owns",
+        "body": [
+          "Identify the person closest to the problem, the likely budget owner and any operational or technical reviewer. Titles vary by company size and market; one title is not a complete buying committee. Record why a role is relevant and where the evidence comes from. Do not invent private reporting lines or assume a named person has purchasing authority.",
+          "Write a role-specific question before a message. An operational owner may care about the workflow, while a commercial owner needs the business consequence. The opening should use a truthful observation and a relevant idea without claiming the prospect has a problem you have not confirmed."
+        ],
+        "links": [
+          {
+            "href": "/resources/account-research-handoff-example/",
+            "label": "Inspect the fictional one-account research and handoff example"
+          }
+        ]
+      },
+      {
+        "heading": "Approve messages, channels and the response boundary",
+        "body": [
+          "Agree claims, proof, tone, exclusions and follow-up before execution. Email and LinkedIn can use the same account hypothesis while needing different message formats and operational controls. A platform’s availability does not establish that a specific contact method is appropriate. Assign the owner of account access, contact-data sources, suppression and sensitive replies.",
+          "Define what counts as a useful response, what information is needed before booking and which product or commercial questions return to your team. A partner introduction, a polite reply and purchase interest are different outcomes. Do not count all three as qualified sales demand."
+        ],
+        "links": [
+          {
+            "href": "/services/cold-email-lead-generation/",
+            "label": "Review managed cold email"
+          },
+          {
+            "href": "/services/linkedin-lead-generation/",
+            "label": "Review managed LinkedIn prospecting"
+          }
+        ]
+      },
+      {
+        "heading": "Connect prospecting to a usable sales handoff",
+        "body": [
+          "Pass the account context, relevant evidence, role, actual reply and qualification status to the person leading discovery. Keep unknown budget, timing and authority unknown. Your sales team should return whether the call occurred, fit the criteria and progressed; otherwise campaign learning stops at the booking.",
+          "Beespoke’s managed outbound scope focuses on cold email and/or LinkedIn, with founder-led targeting, research, messages, follow-up, replies, qualification and booking against agreed criteria. The client approves claims and exclusions and owns discovery, proposals and closing. Cold calling is a separately quoted activity according to market; it is not part of the standard email/LinkedIn scope. This does not imply a dedicated full-time SDR or guaranteed volume."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Check the managed outbound scope and responsibilities"
+          }
+        ]
+      },
+      {
+        "heading": "Measure suitable conversations instead of activity alone",
+        "body": [
+          "Track the selected account cohort, contacted buying roles, positive relevant replies, genuine new bookings, calls held and qualified outcomes. Define each denominator and observation window. Several contacts at one account do not become several accounts; a reschedule does not become a new acquisition.",
+          "Review which evidence and role hypotheses produced useful conversations. Do not attribute every later opportunity to the first message without source evidence. Keep outreach-created bookings separate from independently acquired website bookings even when the buyer later reads a guide. Scale only when fit, delivery capacity and commercial feedback support it."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Audit the wider acquisition and booking funnel"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How is account-based prospecting different from a contact list?",
+        "answer": "It starts with a company-level fit hypothesis, exclusions and dated evidence, then maps buying roles and relevant messages. A contact list supplies names but does not establish a reason to contact them."
+      },
+      {
+        "question": "Is account-based prospecting the same as ABM?",
+        "answer": "No. Prospecting covers account selection, relevant contact, response handling and handoff. Account-based marketing can cover a wider coordinated programme involving advertising, content, expansion and other teams."
+      },
+      {
+        "question": "How many accounts should we target?",
+        "answer": "Use a cohort that can be researched, reviewed and followed up within the real delivery capacity. There is no universal account count. More accounts without adequate relevance or response handling can weaken the test."
+      },
+      {
+        "question": "Does this include cold calling or a dedicated SDR?",
+        "answer": "Those are separate scope decisions. Beespoke’s standard managed outbound focuses on cold email and/or LinkedIn. Calling is separately quoted by market; a dedicated full-time SDR is not implied."
+      }
+    ],
+    "related": [
+      "/services/outbound-lead-generation/",
+      "/resources/account-research-handoff-example/",
+      "/downloads/beespoke-icp-scorecard/"
+    ],
+    "sources": [
+      {
+        "label": "UserGems: account-based prospecting",
+        "href": "https://www.usergems.com/blog/account-based-prospecting"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "October 27, 2026",
+    "sourceMethodology": "UserGems informs the process comparison. Beespoke’s account worksheet and tiering example are planning methods. Every example account and signal is fictional; no private client list, campaign result or purchase-intent claim is supplied.",
+    "decisionGuide": {
+      "heading": "Approve the account logic before increasing outreach",
+      "body": [
+        "A good prospecting brief makes selection, evidence, exclusions and the sales handoff reviewable before contact begins."
+      ],
+      "items": [
+        "Define the company-level fit hypothesis.",
+        "Map buying roles with sources and counter-evidence.",
+        "Approve claims, channels and response responsibilities.",
+        "Judge genuine held and qualified conversations in the same cohort."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Use the account-planning worksheet",
+      "eyebrow": "Private account-selection brief",
+      "heading": "Make the account hypothesis reviewable",
+      "intro": "Use invented account names or neutral labels. Record evidence and buying roles before proposing contact; this tool neither enriches contacts nor launches outreach.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Fit",
+          "body": "Explain the account hypothesis and any exclusions."
+        },
+        {
+          "label": "2",
+          "heading": "Roles",
+          "body": "Name the likely buying role and the limits of the evidence."
+        },
+        {
+          "label": "3",
+          "heading": "Decision",
+          "body": "Write the next research or approval step and responsible owner."
+        }
+      ],
+      "note": "Inputs remain on this page and clear on refresh. Avoid contact details and confidential account data. All sample values are invented, and no messages are sent."
+    },
+    "worksheet": {
+      "fields": [
+        "Neutral account label and fit hypothesis",
+        "Dated signal, source and counter-evidence",
+        "Buying role and next decision",
+        "Owner and next review"
+      ],
+      "sample": [
+        "Fictional Company A — plausible B2B workflow fit",
+        "Invented public workflow page; budget and timing unknown",
+        "Research operational owner; approve truthful observation before contact",
+        "Campaign owner; review before outreach"
+      ]
+    }
+  },
+  "es": {
+    "path": "/guides/account-based-prospecting/",
+    "serviceFamily": "outbound",
+    "title": "Prospección basada en cuentas: empresas y decisores | Beespoke",
+    "description": "Elige empresas y perfiles de compra antes de contactar. Incluye criterios de encaje, comprobación de pruebas, prioridades ficticias y ficha privada.",
+    "eyebrow": "Prospección B2B desde la cuenta",
+    "h1": "Prospección basada en cuentas: elige empresas y decisores antes de contactar",
+    "answer": "La prospección basada en cuentas empieza por un conjunto definido de empresas adecuadas y después investiga personas y motivos comerciales que hacen pertinente el contacto. Conecta selección, perfiles de compra, mensajes y traspaso a ventas. Es útil cuando el valor de un cliente adecuado permite investigar y hacer seguimiento con cuidado. Una lista extensa o personalizar el nombre no convierte una campaña en prospección basada en cuentas.",
+    "heroSecondary": {
+      "label": "Usar la ficha de cuentas",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Decide si el enfoque por cuentas encaja",
+        "body": [
+          "Empieza por oferta, valor económico del cliente y problema de compra identificable. Este enfoque sirve cuando un grupo acotado tiene necesidades plausibles y el equipo puede investigarlo bien. Si la oferta no está clara o ventas no puede hacer seguimiento, afinar listas no resolverá el obstáculo.",
+          "Distingue prospección de un programa completo de marketing basado en cuentas. La prospección selecciona empresas, abre conversaciones pertinentes y las traspasa. El ABM más amplio puede incluir publicidad, contenido, expansión de clientes y varios equipos. Contratar prospección no implica todo ese trabajo."
+        ]
+      },
+      {
+        "heading": "Escribe la hipótesis de cuenta y las exclusiones",
+        "body": [
+          "Define qué organización podría comprar, por qué le importaría el problema y qué pruebas públicas apoyarían o contradirían la hipótesis. Separa clientes potenciales de colaboradores, distribuidores y proveedores. Una empresa puede ser útil sin comprar la misma oferta.",
+          "Fija exclusiones antes de recoger nombres: clientes actuales, oportunidades abiertas, sectores inadecuados, conflictos y organizaciones fuera del alcance. Anota fuente y fecha de cada señal útil. Una expansión anunciada puede justificar investigar, pero no demuestra presupuesto, urgencia ni una afirmación comercial más fuerte."
+        ],
+        "items": [
+          "Escribe el problema y las condiciones empresariales que lo hacen plausible.",
+          "Define pruebas que descartarían la cuenta además de las favorables.",
+          "Separa necesidades inferidas de hechos publicados por la empresa.",
+          "Acuerda quién aprueba la selección y mantiene las exclusiones."
+        ],
+        "links": [
+          {
+            "href": "/downloads/beespoke-icp-scorecard/",
+            "label": "Usa la ficha de planificación del ICP"
+          }
+        ]
+      },
+      {
+        "heading": "Prioriza según pruebas, no mediante una puntuación opaca",
+        "body": [
+          "Crea pocos niveles de trabajo según relevancia y calidad de pruebas. Mayor prioridad significa mejor motivo para investigar o contactar, no promesa de compra. La información ausente sigue sin verificar; un logotipo conocido no es una señal de compra."
+        ],
+        "table": {
+          "caption": "Ejemplo ficticio de prioridades",
+          "headers": [
+            "Nivel",
+            "Prueba inventada",
+            "Decisión"
+          ],
+          "rows": [
+            [
+              "Investigar primero",
+              "Modelo adecuado y pruebas públicas del proceso relevante",
+              "Confirmar perfil responsable y motivo veraz"
+            ],
+            [
+              "Aclarar encaje",
+              "Sector plausible; necesidad o unidad de compra poco clara",
+              "Investigar antes de redactar una afirmación específica"
+            ],
+            [
+              "Excluir o aplazar",
+              "Oportunidad abierta, mercado no cubierto o pruebas contradictorias",
+              "Respetar exclusión; no contactar automáticamente"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Mapea perfiles de compra y sus preguntas",
+        "body": [
+          "Identifica a quien vive el problema, al probable responsable de presupuesto y a los revisores operativos o técnicos. Los cargos varían por tamaño y mercado; un título no equivale al comité completo. Anota por qué el perfil es pertinente y de dónde sale la prueba. No inventes jerarquías privadas ni autoridad de compra.",
+          "Escribe una pregunta por perfil antes del mensaje. A operaciones puede importarle el proceso; a dirección comercial, su consecuencia. Parte de una observación veraz y una idea relevante sin afirmar un problema que no has confirmado."
+        ],
+        "links": [
+          {
+            "href": "/resources/account-research-handoff-example/",
+            "label": "Consulta el ejemplo ficticio de investigación y traspaso"
+          }
+        ]
+      },
+      {
+        "heading": "Aprueba mensajes, canales y gestión de respuestas",
+        "body": [
+          "Acuerda afirmaciones, pruebas, tono, exclusiones y seguimiento antes de ejecutar. Email y LinkedIn pueden compartir hipótesis con formatos y controles distintos. Que exista una plataforma no demuestra que un contacto sea apropiado. Asigna responsables de accesos, fuentes de datos, exclusiones y respuestas delicadas.",
+          "Define respuesta útil, información previa a la reserva y preguntas comerciales o de producto que vuelven a tu equipo. Una presentación a un colaborador, una respuesta amable y el interés de compra son resultados diferentes. No los cuentes todos como demanda comercial cualificada."
+        ],
+        "links": [
+          {
+            "href": "/services/cold-email-lead-generation/",
+            "label": "Consulta cold email gestionado"
+          },
+          {
+            "href": "/services/linkedin-lead-generation/",
+            "label": "Consulta prospección gestionada en LinkedIn"
+          }
+        ]
+      },
+      {
+        "heading": "Conecta la prospección con un traspaso útil a ventas",
+        "body": [
+          "Entrega contexto, pruebas, perfil, respuesta real y estado de cualificación a quien dirige discovery. Presupuesto, plazos y autoridad desconocidos siguen siendo desconocidos. Ventas debe devolver si la llamada ocurrió, encajó y avanzó; de lo contrario, el aprendizaje termina en la reserva.",
+          "El outbound gestionado de Beespoke se centra en cold email y/o LinkedIn: selección, investigación, mensajes, seguimiento, respuestas, cualificación y reserva según criterios acordados, con dirección del fundador. El cliente aprueba afirmaciones y exclusiones y lleva discovery, propuestas y cierre. Las llamadas en frío se presupuestan aparte según mercado. No se implica un SDR dedicado a tiempo completo ni volumen garantizado."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Comprueba alcance y responsabilidades de outbound"
+          }
+        ]
+      },
+      {
+        "heading": "Mide conversaciones adecuadas, no solo actividad",
+        "body": [
+          "Sigue la cohorte de empresas seleccionadas, perfiles contactados, respuestas positivas pertinentes, reservas nuevas reales, llamadas celebradas y resultados cualificados. Define denominadores y periodo. Varios contactos no son varias cuentas; una reprogramación no es captación nueva.",
+          "Revisa qué señales e hipótesis de perfil produjeron conversaciones útiles. No atribuyas toda oportunidad posterior al primer mensaje sin pruebas. Separa reservas creadas por outreach de las captadas de forma independiente por la web, aunque después lean una guía. Escala cuando encaje, capacidad y respuesta comercial lo apoyen."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Audita captación y reservas en conjunto"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿En qué se diferencia de una lista de contactos?",
+        "answer": "Parte de hipótesis de encaje empresarial, exclusiones y pruebas fechadas; después mapea perfiles y mensajes pertinentes. Una lista aporta nombres, no un motivo para contactar."
+      },
+      {
+        "question": "¿Es lo mismo que ABM?",
+        "answer": "No. La prospección cubre selección, contacto, respuestas y traspaso. El marketing basado en cuentas puede incluir un programa más amplio de publicidad, contenido, expansión y equipos."
+      },
+      {
+        "question": "¿Cuántas empresas debemos seleccionar?",
+        "answer": "Una cohorte que pueda investigarse, revisarse y atenderse dentro de la capacidad real. No hay cifra universal. Añadir cuentas sin relevancia ni gestión de respuestas puede debilitar la prueba."
+      },
+      {
+        "question": "¿Incluye llamadas en frío o un SDR dedicado?",
+        "answer": "Son decisiones de alcance separadas. El outbound estándar de Beespoke se centra en cold email y/o LinkedIn. Las llamadas se presupuestan por mercado; no se implica un SDR dedicado a tiempo completo."
+      }
+    ],
+    "related": [
+      "/services/outbound-lead-generation/",
+      "/resources/account-research-handoff-example/",
+      "/downloads/beespoke-icp-scorecard/"
+    ],
+    "sources": [
+      {
+        "label": "UserGems: prospección basada en cuentas",
+        "href": "https://www.usergems.com/blog/account-based-prospecting"
+      },
+      {
+        "label": "Política editorial de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 de octubre de 2026",
+    "sourceMethodology": "UserGems informa la comparación de procesos. La ficha y el ejemplo de prioridades son métodos de planificación. Todas las cuentas y señales son ficticias; no hay listas privadas, resultados de campañas ni afirmaciones de intención de compra.",
+    "decisionGuide": {
+      "heading": "Aprueba la lógica de cuentas antes de aumentar contactos",
+      "body": [
+        "Un buen brief permite revisar selección, pruebas, exclusiones y traspaso antes de contactar."
+      ],
+      "items": [
+        "Define la hipótesis de encaje empresarial.",
+        "Mapea perfiles con fuentes y pruebas contrarias.",
+        "Aprueba afirmaciones, canales y responsables de respuestas.",
+        "Evalúa llamadas reales celebradas y cualificadas en la misma cohorte."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Usar la ficha de cuentas",
+      "eyebrow": "Brief privado de selección",
+      "heading": "Haz revisable la hipótesis de cuenta",
+      "intro": "Usa nombres inventados o etiquetas neutras. Registra pruebas y perfiles antes de proponer contacto; la herramienta no enriquece datos ni inicia campañas.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Encaje",
+          "body": "Explica hipótesis y exclusiones."
+        },
+        {
+          "label": "2",
+          "heading": "Perfiles",
+          "body": "Identifica el perfil probable y los límites de la prueba."
+        },
+        {
+          "label": "3",
+          "heading": "Decisión",
+          "body": "Escribe próximo paso de investigación o aprobación y responsable."
+        }
+      ],
+      "note": "Los datos permanecen en esta página y se borran al recargar. Evita contactos y datos confidenciales. El ejemplo es inventado y no se envían mensajes."
+    },
+    "worksheet": {
+      "fields": [
+        "Etiqueta neutra e hipótesis de encaje",
+        "Señal fechada, fuente y pruebas contrarias",
+        "Perfil de compra y próxima decisión",
+        "Responsable y próxima revisión"
+      ],
+      "sample": [
+        "Empresa ficticia A — proceso B2B plausible",
+        "Página de proceso inventada; presupuesto y plazos desconocidos",
+        "Investigar responsable operativo; aprobar observación veraz",
+        "Responsable de campaña; revisar antes de contactar"
+      ]
+    }
+  },
+  "ca": {
+    "path": "/guides/account-based-prospecting/",
+    "serviceFamily": "outbound",
+    "title": "Prospecció basada en comptes: empreses i decisors | Beespoke",
+    "description": "Tria empreses i perfils de compra abans de contactar. Inclou criteris d’encaix, comprovació d’evidències, prioritats fictícies i fitxa privada.",
+    "eyebrow": "Prospecció B2B des del compte",
+    "h1": "Prospecció basada en comptes: tria empreses i decisors abans de contactar",
+    "answer": "La prospecció basada en comptes comença per un conjunt definit d’empreses adequades i després investiga persones i motius comercials que fan pertinent el contacte. Connecta selecció, perfils de compra, missatges i traspàs a vendes. És útil quan el valor d’un client adequat permet investigar i fer seguiment amb cura. Una llista extensa o personalitzar el nom no converteix una campanya en prospecció basada en comptes.",
+    "heroSecondary": {
+      "label": "Utilitza la fitxa de comptes",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Decideix si l’enfocament per comptes encaixa",
+        "body": [
+          "Comença per oferta, valor econòmic del client i problema de compra identificable. Aquest enfocament serveix quan un grup acotat té necessitats plausibles i l’equip pot investigar-lo bé. Si l’oferta no és clara o vendes no pot fer seguiment, afinar llistes no resoldrà l’obstacle.",
+          "Distingeix prospecció d’un programa complet de màrqueting basat en comptes. La prospecció selecciona empreses, obre converses pertinents i les traspassa. L’ABM més ampli pot incloure publicitat, contingut, expansió de clients i diversos equips. Contractar prospecció no implica tota aquesta feina."
+        ]
+      },
+      {
+        "heading": "Escriu la hipòtesi de compte i les exclusions",
+        "body": [
+          "Defineix quina organització podria comprar, per què li importaria el problema i quines evidències públiques donarien suport a la hipòtesi o la contradirien. Separa clients potencials de col·laboradors, distribuïdors i proveïdors. Una empresa pot ser útil sense comprar la mateixa oferta.",
+          "Fixa exclusions abans de recollir noms: clients actuals, oportunitats obertes, sectors inadequats, conflictes i organitzacions fora de l’abast. Anota font i data de cada senyal útil. Una expansió anunciada pot justificar investigar, però no demostra pressupost, urgència ni una afirmació comercial més forta."
+        ],
+        "items": [
+          "Escriu el problema i les condicions empresarials que el fan plausible.",
+          "Defineix evidències que descartarien el compte, a més de les favorables.",
+          "Separa necessitats inferides de fets publicats per l’empresa.",
+          "Acorda qui aprova la selecció i manté les exclusions."
+        ],
+        "links": [
+          {
+            "href": "/downloads/beespoke-icp-scorecard/",
+            "label": "Utilitza la fitxa de planificació de l’ICP"
+          }
+        ]
+      },
+      {
+        "heading": "Prioritza segons evidències, no amb una puntuació opaca",
+        "body": [
+          "Crea pocs nivells de treball segons rellevància i qualitat d’evidències. Més prioritat significa millor motiu per investigar o contactar, no promesa de compra. La informació absent continua sense verificar; un logotip conegut no és un senyal de compra."
+        ],
+        "table": {
+          "caption": "Exemple fictici de prioritats",
+          "headers": [
+            "Nivell",
+            "Evidència inventada",
+            "Decisió"
+          ],
+          "rows": [
+            [
+              "Investigar primer",
+              "Model adequat i evidències públiques del procés rellevant",
+              "Confirmar perfil responsable i motiu veraç"
+            ],
+            [
+              "Aclarir encaix",
+              "Sector plausible; necessitat o unitat de compra poc clara",
+              "Investigar abans de redactar una afirmació específica"
+            ],
+            [
+              "Excloure o ajornar",
+              "Oportunitat oberta, mercat no cobert o evidències contradictòries",
+              "Respectar exclusió; no contactar automàticament"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Mapa els perfils de compra i les seves preguntes",
+        "body": [
+          "Identifica qui viu el problema, el probable responsable de pressupost i els revisors operatius o tècnics. Els càrrecs varien segons mida i mercat; un títol no equival al comitè complet. Anota per què el perfil és pertinent i d’on surt l’evidència. No inventis jerarquies privades ni autoritat de compra.",
+          "Escriu una pregunta per perfil abans del missatge. A operacions pot importar-li el procés; a direcció comercial, la conseqüència. Parteix d’una observació veraç i una idea rellevant sense afirmar un problema que no has confirmat."
+        ],
+        "links": [
+          {
+            "href": "/resources/account-research-handoff-example/",
+            "label": "Consulta l’exemple fictici de recerca i traspàs"
+          }
+        ]
+      },
+      {
+        "heading": "Aprova missatges, canals i gestió de respostes",
+        "body": [
+          "Acorda afirmacions, evidències, to, exclusions i seguiment abans d’executar. Email i LinkedIn poden compartir hipòtesi amb formats i controls diferents. Que existeixi una plataforma no demostra que un contacte sigui apropiat. Assigna responsables d’accessos, fonts de dades, exclusions i respostes delicades.",
+          "Defineix resposta útil, informació prèvia a la reserva i preguntes comercials o de producte que tornen al teu equip. Una presentació a un col·laborador, una resposta amable i l’interès de compra són resultats diferents. No els comptis tots com a demanda comercial qualificada."
+        ],
+        "links": [
+          {
+            "href": "/services/cold-email-lead-generation/",
+            "label": "Consulta cold email gestionat"
+          },
+          {
+            "href": "/services/linkedin-lead-generation/",
+            "label": "Consulta prospecció gestionada a LinkedIn"
+          }
+        ]
+      },
+      {
+        "heading": "Connecta la prospecció amb un traspàs útil a vendes",
+        "body": [
+          "Lliura context, evidències, perfil, resposta real i estat de qualificació a qui dirigeix la descoberta comercial. Pressupost, terminis i autoritat desconeguts continuen sent desconeguts. Vendes ha de retornar si la trucada es va celebrar, encaixava i va avançar; altrament, l’aprenentatge s’acaba en la reserva.",
+          "L’outbound gestionat de Beespoke se centra en cold email i/o LinkedIn: selecció, recerca, missatges, seguiment, respostes, qualificació i reserva segons criteris acordats, amb direcció del fundador. El client aprova afirmacions i exclusions i porta descoberta comercial, propostes i tancament. Les trucades en fred es pressuposten a part segons mercat. No s’implica un SDR dedicat a temps complet ni volum garantit."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Comprova abast i responsabilitats d’outbound"
+          }
+        ]
+      },
+      {
+        "heading": "Mesura converses adequades, no només activitat",
+        "body": [
+          "Segueix la cohort d’empreses seleccionades, perfils contactats, respostes positives pertinents, reserves noves reals, trucades celebrades i resultats qualificats. Defineix denominadors i període. Diversos contactes no són diversos comptes; una reprogramació no és captació nova.",
+          "Revisa quins senyals i hipòtesis de perfil han produït converses útils. No atribueixis tota oportunitat posterior al primer missatge sense evidències. Separa reserves creades per outreach de les captades independentment pel web, encara que després llegeixin una guia. Escala quan encaix, capacitat i resposta comercial ho sostinguin."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Audita captació i reserves conjuntament"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "En què es diferencia d’una llista de contactes?",
+        "answer": "Parteix d’hipòtesi d’encaix empresarial, exclusions i evidències datades; després mapa perfils i missatges pertinents. Una llista aporta noms, no un motiu per contactar."
+      },
+      {
+        "question": "És el mateix que ABM?",
+        "answer": "No. La prospecció cobreix selecció, contacte, respostes i traspàs. El màrqueting basat en comptes pot incloure un programa més ampli de publicitat, contingut, expansió i equips."
+      },
+      {
+        "question": "Quantes empreses hem de seleccionar?",
+        "answer": "Una cohort que es pugui investigar, revisar i atendre dins de la capacitat real. No hi ha una xifra universal. Afegir comptes sense rellevància ni gestió de respostes pot afeblir la prova."
+      },
+      {
+        "question": "Inclou trucades en fred o un SDR dedicat?",
+        "answer": "Són decisions d’abast separades. L’outbound estàndard de Beespoke se centra en cold email i/o LinkedIn. Les trucades es pressuposten per mercat; no s’implica un SDR dedicat a temps complet."
+      }
+    ],
+    "related": [
+      "/services/outbound-lead-generation/",
+      "/resources/account-research-handoff-example/",
+      "/downloads/beespoke-icp-scorecard/"
+    ],
+    "sources": [
+      {
+        "label": "UserGems: prospecció basada en comptes",
+        "href": "https://www.usergems.com/blog/account-based-prospecting"
+      },
+      {
+        "label": "Política editorial de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 d’octubre de 2026",
+    "sourceMethodology": "UserGems informa la comparació de processos. La fitxa i l’exemple de prioritats són mètodes de planificació. Tots els comptes i senyals són ficticis; no hi ha llistes privades, resultats de campanyes ni afirmacions d’intenció de compra.",
+    "decisionGuide": {
+      "heading": "Aprova la lògica de comptes abans d’augmentar contactes",
+      "body": [
+        "Un bon brief permet revisar selecció, evidències, exclusions i traspàs abans de contactar."
+      ],
+      "items": [
+        "Defineix la hipòtesi d’encaix empresarial.",
+        "Mapa perfils amb fonts i evidències contràries.",
+        "Aprova afirmacions, canals i responsables de respostes.",
+        "Avalua trucades reals celebrades i qualificades en la mateixa cohort."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utilitza la fitxa de comptes",
+      "eyebrow": "Brief privat de selecció",
+      "heading": "Fes revisable la hipòtesi de compte",
+      "intro": "Utilitza noms inventats o etiquetes neutres. Registra evidències i perfils abans de proposar contacte; l’eina no enriqueix dades ni inicia campanyes.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Encaix",
+          "body": "Explica hipòtesi i exclusions."
+        },
+        {
+          "label": "2",
+          "heading": "Perfils",
+          "body": "Identifica el perfil probable i els límits de l’evidència."
+        },
+        {
+          "label": "3",
+          "heading": "Decisió",
+          "body": "Escriu el pròxim pas de recerca o aprovació i el responsable."
+        }
+      ],
+      "note": "Les dades romanen en aquesta pàgina i s’esborren en recarregar. Evita contactes i dades confidencials. L’exemple és inventat i no s’envien missatges."
+    },
+    "worksheet": {
+      "fields": [
+        "Etiqueta neutra i hipòtesi d’encaix",
+        "Senyal datat, font i evidències contràries",
+        "Perfil de compra i pròxima decisió",
+        "Responsable i pròxima revisió"
+      ],
+      "sample": [
+        "Empresa fictícia A — procés B2B plausible",
+        "Pàgina de procés inventada; pressupost i terminis desconeguts",
+        "Investigar responsable operatiu; aprovar observació veraç",
+        "Responsable de campanya; revisar abans de contactar"
+      ]
+    }
+  },
+  "fr": {
+    "path": "/guides/account-based-prospecting/",
+    "serviceFamily": "outbound",
+    "title": "Prospection par comptes : entreprises et décideurs | Beespoke",
+    "description": "Choisissez entreprises et rôles d’achat avant de prospecter. Critères de pertinence, preuves, priorités fictives et fiche privée de préparation.",
+    "eyebrow": "Prospection B2B centrée sur les comptes",
+    "h1": "Prospection par comptes : choisir les entreprises et les décideurs avant le premier contact",
+    "answer": "La prospection par comptes part d’un ensemble défini d’entreprises pertinentes, puis recherche les personnes et les raisons commerciales qui justifient un contact. Elle relie sélection, rôles d’achat, messages et transmission aux commerciaux. Elle convient lorsque la valeur d’un bon client permet une recherche et un suivi soignés. Une grande liste ou un prénom personnalisé ne suffit pas à rendre une campagne centrée sur les comptes.",
+    "heroSecondary": {
+      "label": "Utiliser la fiche de comptes",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Décider si l’approche par comptes convient",
+        "body": [
+          "Commencez par l’offre, la valeur économique d’un client et un problème d’achat identifiable. Cette approche convient à un groupe délimité d’organisations ayant un besoin plausible que l’équipe peut étudier sérieusement. Si l’offre reste floue ou si les commerciaux ne peuvent pas assurer le suivi, affiner les listes ne résoudra pas le frein.",
+          "Distinguez prospection et programme complet de marketing par comptes. La prospection sélectionne les entreprises, ouvre des conversations pertinentes et les transmet. Un ABM plus large peut inclure publicité, contenu, développement des clients et plusieurs équipes. Acheter de la prospection n’implique pas tout ce travail."
+        ]
+      },
+      {
+        "heading": "Écrire l’hypothèse de compte et les exclusions",
+        "body": [
+          "Définissez quelle organisation pourrait acheter, pourquoi le problème pourrait compter et quelles preuves publiques soutiendraient ou contrediraient l’hypothèse. Séparez clients potentiels, partenaires prescripteurs, distributeurs et fournisseurs. Une entreprise peut être utile sans acheter la même offre.",
+          "Fixez les exclusions avant de collecter des noms : clients actuels, opportunités ouvertes, secteurs inadaptés, conflits et organisations hors périmètre. Notez source et date de chaque signal utile. Une annonce d’expansion peut justifier une recherche, mais ne prouve ni budget, ni urgence, ni affirmation commerciale plus forte."
+        ],
+        "items": [
+          "Écrivez le problème et les conditions d’entreprise qui le rendent plausible.",
+          "Définissez les preuves qui disqualifieraient le compte, pas seulement les favorables.",
+          "Séparez besoins supposés et faits publiés par l’entreprise.",
+          "Convenez de la personne qui approuve la sélection et tient les exclusions."
+        ],
+        "links": [
+          {
+            "href": "/downloads/beespoke-icp-scorecard/",
+            "label": "Utiliser la grille de préparation de l’ICP"
+          }
+        ]
+      },
+      {
+        "heading": "Prioriser selon les preuves plutôt qu’un score opaque",
+        "body": [
+          "Créez peu de niveaux de travail selon pertinence et qualité des preuves. Une priorité élevée signifie une meilleure raison de rechercher ou contacter, pas une promesse d’achat. Une information absente reste non vérifiée ; un logo connu n’est pas un signal d’achat."
+        ],
+        "table": {
+          "caption": "Exemple fictif de priorités",
+          "headers": [
+            "Niveau",
+            "Preuve inventée",
+            "Décision"
+          ],
+          "rows": [
+            [
+              "Rechercher d’abord",
+              "Modèle pertinent et preuve publique du processus concerné",
+              "Confirmer le rôle responsable et une raison véridique"
+            ],
+            [
+              "Clarifier la pertinence",
+              "Secteur plausible ; besoin ou unité d’achat flous",
+              "Rechercher avant de rédiger une affirmation précise"
+            ],
+            [
+              "Exclure ou reporter",
+              "Opportunité ouverte, marché non couvert ou preuve contradictoire",
+              "Respecter l’exclusion ; aucun contact automatique"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Cartographier les rôles d’achat et leurs questions",
+        "body": [
+          "Identifiez la personne proche du problème, le responsable probable du budget et les évaluateurs opérationnels ou techniques. Les titres varient selon taille et marché ; un titre ne représente pas tout le comité. Notez pourquoi le rôle est pertinent et la source de la preuve. N’inventez pas de hiérarchie privée ou d’autorité d’achat.",
+          "Écrivez une question par rôle avant le message. Les opérations peuvent se soucier du processus ; la direction commerciale, de ses conséquences. Partez d’une observation véridique et d’une idée pertinente sans affirmer un problème non confirmé."
+        ],
+        "links": [
+          {
+            "href": "/resources/account-research-handoff-example/",
+            "label": "Consulter l’exemple fictif de recherche et de transmission"
+          }
+        ]
+      },
+      {
+        "heading": "Approuver messages, canaux et gestion des réponses",
+        "body": [
+          "Convenez des affirmations, preuves, ton, exclusions et suivi avant exécution. Email et LinkedIn peuvent partager l’hypothèse avec des formats et contrôles différents. L’existence d’une plateforme ne rend pas tout contact approprié. Attribuez la responsabilité des accès, sources de données, exclusions et réponses sensibles.",
+          "Définissez réponse utile, informations nécessaires avant réservation et questions commerciales ou produit à renvoyer à votre équipe. Une présentation à un partenaire, une réponse polie et un intérêt d’achat sont différents. Ne les comptez pas tous comme demande commerciale qualifiée."
+        ],
+        "links": [
+          {
+            "href": "/services/cold-email-lead-generation/",
+            "label": "Consulter la prospection email gérée"
+          },
+          {
+            "href": "/services/linkedin-lead-generation/",
+            "label": "Consulter la prospection LinkedIn gérée"
+          }
+        ]
+      },
+      {
+        "heading": "Relier la prospection à une transmission commerciale utile",
+        "body": [
+          "Transmettez contexte du compte, preuves, rôle, réponse réelle et qualification à la personne qui mène la découverte. Budget, échéance et autorité inconnus restent inconnus. Les commerciaux doivent indiquer si l’appel a eu lieu, correspondait aux critères et a progressé ; sinon l’apprentissage s’arrête à la réservation.",
+          "L’outbound géré de Beespoke porte sur le cold email et/ou LinkedIn : sélection, recherche, messages, suivi, réponses, qualification et réservation selon les critères convenus, sous la direction du fondateur. Le client approuve affirmations et exclusions et gère découverte, propositions et conclusion. Les appels à froid sont chiffrés séparément selon le marché. Cela n’implique ni SDR dédié à temps plein ni volume garanti."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Vérifier périmètre et responsabilités de l’outbound"
+          }
+        ]
+      },
+      {
+        "heading": "Mesurer les bonnes conversations plutôt que la seule activité",
+        "body": [
+          "Suivez la cohorte d’entreprises choisies, rôles contactés, réponses positives pertinentes, nouvelles réservations réelles, appels tenus et résultats qualifiés. Définissez dénominateurs et période. Plusieurs contacts ne deviennent pas plusieurs comptes ; un report n’est pas une nouvelle acquisition.",
+          "Examinez quels signaux et hypothèses de rôle ont produit des conversations utiles. N’attribuez pas toute opportunité ultérieure au premier message sans preuve. Séparez réservations créées par la prospection et acquises indépendamment par le site, même si le prospect lit ensuite un guide. Augmentez l’activité lorsque pertinence, capacité et retours commerciaux le justifient."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Auditer acquisition et réservations ensemble"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Quelle différence avec une liste de contacts ?",
+        "answer": "L’approche part d’une hypothèse de pertinence de l’entreprise, d’exclusions et de preuves datées, puis cartographie rôles et messages pertinents. Une liste fournit des noms, pas une raison de les contacter."
+      },
+      {
+        "question": "Est-ce la même chose que l’ABM ?",
+        "answer": "Non. La prospection couvre sélection, contact, réponses et transmission. Le marketing par comptes peut englober un programme plus large de publicité, contenu, développement des clients et équipes."
+      },
+      {
+        "question": "Combien d’entreprises faut-il sélectionner ?",
+        "answer": "Une cohorte que vous pouvez rechercher, examiner et suivre avec la capacité réelle. Il n’existe pas de nombre universel. Ajouter des comptes sans pertinence ni gestion des réponses peut affaiblir le test."
+      },
+      {
+        "question": "Les appels à froid ou un SDR dédié sont-ils inclus ?",
+        "answer": "Ce sont des décisions de périmètre distinctes. L’outbound standard de Beespoke porte sur cold email et/ou LinkedIn. Les appels sont chiffrés par marché ; aucun SDR dédié à temps plein n’est implicite."
+      }
+    ],
+    "related": [
+      "/services/outbound-lead-generation/",
+      "/resources/account-research-handoff-example/",
+      "/downloads/beespoke-icp-scorecard/"
+    ],
+    "sources": [
+      {
+        "label": "UserGems : prospection par comptes",
+        "href": "https://www.usergems.com/blog/account-based-prospecting"
+      },
+      {
+        "label": "Politique éditoriale de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 octobre 2026",
+    "sourceMethodology": "UserGems éclaire la comparaison des processus. La fiche et l’exemple de priorités sont des méthodes de préparation. Tous les comptes et signaux sont fictifs ; aucune liste privée, résultat de campagne ou affirmation d’intention d’achat n’est fourni.",
+    "decisionGuide": {
+      "heading": "Approuver la logique des comptes avant d’élargir les contacts",
+      "body": [
+        "Un bon brief rend sélection, preuves, exclusions et transmission vérifiables avant contact."
+      ],
+      "items": [
+        "Définissez l’hypothèse de pertinence de l’entreprise.",
+        "Cartographiez les rôles avec sources et preuves contraires.",
+        "Approuvez affirmations, canaux et responsables des réponses.",
+        "Évaluez les appels réellement tenus et qualifiés dans la même cohorte."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utiliser la fiche de comptes",
+      "eyebrow": "Brief privé de sélection",
+      "heading": "Rendre l’hypothèse de compte vérifiable",
+      "intro": "Utilisez des noms inventés ou des étiquettes neutres. Notez preuves et rôles avant de proposer un contact ; l’outil n’enrichit pas de données et ne lance pas de campagne.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Pertinence",
+          "body": "Expliquez hypothèse et exclusions."
+        },
+        {
+          "label": "2",
+          "heading": "Rôles",
+          "body": "Identifiez le rôle probable et les limites de la preuve."
+        },
+        {
+          "label": "3",
+          "heading": "Décision",
+          "body": "Écrivez la prochaine recherche ou approbation et son responsable."
+        }
+      ],
+      "note": "Les données restent sur cette page et disparaissent au rechargement. Évitez coordonnées et données confidentielles. L’exemple est inventé et aucun message n’est envoyé."
+    },
+    "worksheet": {
+      "fields": [
+        "Étiquette neutre et hypothèse de pertinence",
+        "Signal daté, source et preuves contraires",
+        "Rôle d’achat et prochaine décision",
+        "Responsable et prochaine revue"
+      ],
+      "sample": [
+        "Entreprise fictive A — processus B2B plausible",
+        "Page de processus inventée ; budget et échéance inconnus",
+        "Rechercher le responsable opérationnel ; approuver une observation véridique",
+        "Responsable de campagne ; revoir avant contact"
+      ]
+    }
+  }
+}

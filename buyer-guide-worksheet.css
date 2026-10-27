@@ -1,0 +1,14 @@
+[data-buyer-worksheet] { margin-top:1.5rem; }
+[data-buyer-worksheet] fieldset { min-width:0; margin:1rem 0; padding:1rem; border:1px solid #c8ced6; border-radius:12px; }
+[data-buyer-worksheet] legend { max-width:100%; padding:0 .4rem; font-weight:750; overflow-wrap:anywhere; }
+[data-buyer-worksheet] .worksheet-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; }
+[data-buyer-worksheet] label { display:flex; flex-direction:column; gap:.4rem; color:#172535; font-weight:650; min-width:0; }
+[data-buyer-worksheet] textarea, [data-buyer-worksheet] select { box-sizing:border-box; width:100%; max-width:100%; min-width:0; padding:.65rem; border:1px solid #8492a3; border-radius:7px; font:inherit; font-weight:400; background:#fff; color:#172535; }
+[data-buyer-worksheet] textarea { min-height:6rem; resize:vertical; }
+[data-buyer-worksheet] select { min-height:44px; }
+[data-buyer-worksheet] .worksheet-actions { display:flex; flex-wrap:wrap; gap:.7rem; margin:1rem 0; }
+[data-buyer-worksheet] button { white-space:normal; max-width:100%; min-height:44px; cursor:pointer; }
+[data-buyer-worksheet] button:disabled { opacity:.65; cursor:default; }
+[data-buyer-worksheet] :is(textarea,select,button):focus-visible { outline:3px solid #225fcb; outline-offset:3px; }
+[data-buyer-worksheet] [role=status] { padding:1rem; background:#fff8e6; border-radius:8px; overflow-wrap:anywhere; }
+@media(max-width:600px) { [data-buyer-worksheet] .worksheet-grid { grid-template-columns:1fr; } [data-buyer-worksheet] fieldset { padding:.75rem; } }

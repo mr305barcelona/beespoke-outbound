@@ -80,8 +80,9 @@ for (const pagePath of new Set([...Object.keys(optimizationSprint.sections), ...
 updatedOverrides.set(softwareComparison.pagePath, '2026-10-15');
 updatedOverrides.set('/services/cold-email-lead-generation/', '2026-10-26');
 updatedOverrides.set('/guides/b2b-lead-generation-audit/', '2026-10-27');
+for (const slug of ['b2b-seo-audit','b2b-content-audit','account-based-prospecting','aeo-audit']) updatedOverrides.set('/guides/'+slug+'/', '2026-10-27');
 const updatedFor = (pagePath) => updatedOverrides.get(pagePath) || defaultUpdated;
-const modifiedDateTimeFor = (pagePath) => pagePath === '/guides/b2b-lead-generation-audit/' ? '2026-10-27T09:00:00+01:00' : pagePath === "/services/cold-email-lead-generation/" ? "2026-10-26T18:30:00+01:00" : updatedOverrides.has(pagePath)
+const modifiedDateTimeFor = (pagePath) => ['b2b-lead-generation-audit','b2b-seo-audit','b2b-content-audit','account-based-prospecting','aeo-audit'].some(slug=>pagePath==='/guides/'+slug+'/') ? '2026-10-27T09:00:00+01:00' : pagePath === "/services/cold-email-lead-generation/" ? "2026-10-26T18:30:00+01:00" : updatedOverrides.has(pagePath)
   ? `${updatedFor(pagePath)}T15:00:00+02:00`
   : "2026-07-24T09:00:00+02:00";
 const displayDateFor = (pagePath) => new Intl.DateTimeFormat("en-US", {

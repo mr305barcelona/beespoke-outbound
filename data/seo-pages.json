@@ -9253,5 +9253,922 @@
     ],
     "sourceChecked": "October 27, 2026",
     "sourceMethodology": "The audit framework and action queue are Beespoke planning methods. Google is cited only for the session definition. All worked numbers are fictional, and the tool’s ratios are descriptive arithmetic, not client results, market benchmarks or ranking promises."
+  },
+  {
+    "path": "/guides/b2b-seo-audit/",
+    "serviceFamily": "inbound",
+    "title": "B2B SEO Audit: Checklist, Evidence & Priorities | Beespoke",
+    "description": "Find what stops relevant B2B buyers discovering and using your pages. Use a technical and content checklist, a fictional work queue and a private audit worksheet.",
+    "eyebrow": "B2B search diagnosis",
+    "h1": "B2B SEO audit: find and prioritize what blocks qualified demand",
+    "answer": "A B2B SEO audit checks whether search engines can discover the right pages, whether those pages answer real buying questions, and whether visitors can progress toward a relevant conversation. Combine technical checks, page-level search evidence, content quality and source-aware conversion measurement. The deliverable is a prioritized work queue with evidence, an owner and a verification date—not an unexplained health score.",
+    "heroSecondary": {
+      "label": "Use the SEO audit worksheet",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Start with the business question and a page inventory",
+        "body": [
+          "Write down the offer, buying roles, markets and languages before opening a crawler. A page can attract many visits from people who will never buy your service. Agree which buyer questions the website should answer and what a useful next step looks like.",
+          "Inventory canonical public URLs, their purpose, language, linked service and most recent substantive change. Keep service pages, evaluation guides, pricing explanations and customer evidence as separate cohorts. Compare equivalent dates and search surfaces; annotate launches, migrations and changes to tracking. A newly published page needs discovery and time before its performance can be judged."
+        ]
+      },
+      {
+        "heading": "Check discovery, indexability and the selected canonical",
+        "body": [
+          "Sample important templates and every business-critical URL. Inspect the response status, redirects, robots rules, meta robots, canonical, sitemap inclusion and internal links. Search Console can distinguish discovery, crawling and indexing; an accepted sitemap submission establishes none of the later stages by itself.",
+          "Compare the declared canonical with Google’s selected canonical where that information is available. A real duplicate, blocked response or inaccessible stylesheet calls for a specific repair. “Discovered, not indexed” calls for investigation of quality, duplication, linking and crawl evidence; it does not automatically justify deleting the page."
+        ],
+        "items": [
+          "Check that the final HTTPS URL loads useful HTML and required assets.",
+          "Test reciprocal language alternatives, self-referencing canonicals and relevant links within each language.",
+          "Record the affected URL, observed response, date and reproduction steps. Retest the same failure after repair."
+        ]
+      },
+      {
+        "heading": "Assign buyer questions before changing titles or content",
+        "body": [
+          "Use page-filtered Search Console queries to see what Google currently associates with a URL. Record impressions, clicks, CTR and position with the date range, country, device and row coverage. Position is an average across different searches; it is not a single stable rank. Missing query rows are unknown, not proof that nobody searched.",
+          "For a page losing clicks, separate lost impressions from changes in CTR. Check which queries and countries changed, whether the average position moved and whether the results page now serves a different intent. A broader impression mix can reduce aggregate CTR without making every existing query worse. Compare the same query/page cohort before rewriting a successful answer.",
+          "Give each important question a primary page. Improve the title, concise answer, evidence or internal links only where the observed search intent supports it. Similar keywords do not always need new URLs; a genuinely different buying job sometimes does."
+        ]
+      },
+      {
+        "heading": "Review content, proof and the path to a decision",
+        "body": [
+          "Read the page as a potential buyer: does it answer the question quickly, explain limits and help you decide? Check factual accuracy, current service scope, dated sources, concrete examples, responsibilities and the next sensible action. A long article that avoids the decision can still be incomplete.",
+          "Inspect actual competing results for the question, noting their format and useful decision help. Add what the buyer needs that your page lacks; do not copy their claims, fabricate credentials or expand into unrelated subtopics merely to increase word count. Review the whole translated journey, including tools, pricing links and booking handoff."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Use the content audit for portfolio decisions"
+          }
+        ]
+      },
+      {
+        "heading": "Test mobile usability and genuine lead measurement",
+        "body": [
+          "Check navigation, readable headings, tables, contact controls and the booking path on desktop and narrow screens. Diagnose measured loading or interaction problems on representative templates before changing shared styles. Browser zoom and accessibility settings belong to visitors; production CSS should not compensate for a tester’s changed zoom.",
+          "Keep impressions, organic landing sessions, calendar opens, genuine new bookings, calls held and qualified outcomes separate. A confirmation-page visit alone does not prove a booking. Reconcile booking identifiers and original creation dates with the scheduling system where permission and data permit.",
+          "Exclude identified internal and audit visits before interpreting traffic growth. Preserve unknown attribution rather than classifying all Direct traffic as testing. When the cohort or source coverage is incomplete, report the limitation instead of calculating a confident conversion forecast."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Diagnose the wider acquisition funnel"
+          }
+        ]
+      },
+      {
+        "heading": "Prioritize an evidence-backed work queue",
+        "body": [
+          "Fix confirmed access or booking failures on important pages before cosmetic changes. Next, address demonstrated intent gaps and internal journeys. Treat uncertain explanations as tests with a baseline, owner, expected observation and review date. Estimate effort and dependencies separately from potential buyer value.",
+          "The following queue is fictional. Its order follows the specific evidence described; it is not a universal SEO ranking formula."
+        ],
+        "table": {
+          "caption": "Fictional three-page audit queue",
+          "headers": [
+            "Page",
+            "Evidence",
+            "Decision",
+            "Verification"
+          ],
+          "rows": [
+            [
+              "Core service",
+              "Returns a server error in the observed test",
+              "Repair access first; preserve content",
+              "Retest response, HTML and assets"
+            ],
+            [
+              "Buyer guide",
+              "Relevant queries appear; answer omits buyer responsibilities",
+              "Add a scoped responsibility section",
+              "Check copy and later matched-query results"
+            ],
+            [
+              "New language page",
+              "Recently published; no crawl evidence yet",
+              "Check discovery and links; retain page",
+              "Review crawl/index state after a recorded interval"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Know what a useful agency audit should deliver",
+        "body": [
+          "Ask for a reproducible URL-level issue register, the data period, access limitations and a clear distinction between confirmed failures and hypotheses. Each recommendation should name the proposed change, responsible person and how success will be checked. A checklist export without interpretation leaves prioritization with you.",
+          "An audit does not establish that implementation is included. Confirm who changes code or content, who approves commercial claims, and who validates the live release. If you need ongoing implementation, discuss that scope separately. No responsible audit can guarantee a number-one position or a fixed number of meetings."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Review Beespoke’s managed B2B SEO service"
+          },
+          {
+            "href": "/compare/b2b-seo-vs-ppc/",
+            "label": "Compare SEO and paid search for the next test"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What should a B2B SEO audit include?",
+        "answer": "A defined buyer and page inventory, crawl and index checks, page/query evidence, content and proof review, internal journeys, mobile usability and source-aware lead measurement. Its output should be a prioritized action register with owners and verification steps."
+      },
+      {
+        "question": "Is an SEO audit the same as a content audit?",
+        "answer": "They overlap. An SEO audit diagnoses search discovery and performance across technical and content factors. A content audit decides what the existing portfolio should keep, improve, combine or retire and where a new page is justified."
+      },
+      {
+        "question": "How often should we repeat the audit?",
+        "answer": "Review critical access and measurement after meaningful releases. Revisit the wider diagnosis after substantial site changes or when sufficiently mature page/query evidence changes. Use comparable periods rather than repeatedly reacting to daily noise."
+      },
+      {
+        "question": "Will fixing every issue guarantee higher rankings?",
+        "answer": "No. Fixes can remove barriers and improve usefulness, but demand, competition, search presentation and evaluation change. Record what changed and assess mature query-level exposure and genuine business outcomes."
+      }
+    ],
+    "related": [
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-content-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Definition: B2B SEO audit service scope",
+        "href": "https://comms.thisisdefinition.com/services/b2b-seo/seo-audit"
+      },
+      {
+        "label": "Windmill Strategy: basic B2B SEO audit",
+        "href": "https://www.windmillstrategy.com/how-to-conduct-a-basic-b2b-seo-audit/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "October 27, 2026",
+    "sourceMethodology": "The provider sources inform the scope comparison; they do not validate Beespoke results. The checklist and worksheet are Beespoke planning methods. All queue examples are invented. Search exposure and booking outcomes must be measured separately.",
+    "decisionGuide": {
+      "heading": "Choose the next fix by evidence and buyer impact",
+      "body": [
+        "Leave with a short work queue, not a large unranked export. Preserve working URLs and recent improvements while testing the specific constraint."
+      ],
+      "items": [
+        "Name the affected page and buying question.",
+        "Keep observed facts, inferences and missing evidence distinct.",
+        "Assign an owner and a verification date.",
+        "Review mature search and booking cohorts before expanding the change."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Use the SEO audit worksheet",
+      "eyebrow": "Private planning worksheet",
+      "heading": "Turn a finding into a verifiable action",
+      "intro": "Record three findings below. Use a page path and evidence reference, not private customer or account data. The summary counts your entries; it does not score your website.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidence",
+          "body": "Record the URL, dated observation and affected buyer question."
+        },
+        {
+          "label": "2",
+          "heading": "Decision",
+          "body": "Describe the smallest useful repair or test, with dependencies."
+        },
+        {
+          "label": "3",
+          "heading": "Verification",
+          "body": "Name the owner and the next check; keep unknowns explicit."
+        }
+      ],
+      "note": "Inputs stay on this page and are cleared by a refresh. The example is fictional. No automated crawl, grading, submission or ranking prediction is performed."
+    },
+    "worksheet": {
+      "fields": [
+        "Page or buyer question",
+        "Dated evidence / missing evidence",
+        "Proposed action",
+        "Owner and verification date"
+      ],
+      "sample": [
+        "/services/example/",
+        "Fictional: observed server error on an important service page",
+        "Confirm the response and repair the failing route",
+        "Site owner; retest immediately after repair"
+      ]
+    }
+  },
+  {
+    "path": "/guides/b2b-content-audit/",
+    "serviceFamily": "inbound",
+    "title": "B2B Content Audit: Keep, Improve or Publish Next | Beespoke",
+    "description": "Audit your B2B content by buyer question, evidence and business usefulness. Includes a keep/update/combine/retire matrix and an ungated inventory worksheet.",
+    "eyebrow": "B2B content portfolio decisions",
+    "h1": "B2B content audit: decide what to keep, improve and publish next",
+    "answer": "A B2B content audit reviews existing pages against the buying questions they should answer, their accuracy and their observed contribution. It helps decide what to keep, improve, combine or retire and where a genuinely new page is needed. Build an inventory, join comparable page and query evidence, review usefulness, then document each decision with its risks, owner and review date.",
+    "heroSecondary": {
+      "label": "Use the content inventory worksheet",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Define the decision before collecting every metric",
+        "body": [
+          "Choose the business problem: unclear service pages, outdated claims, overlapping guides or missing help for a buying decision. Define the audience, offer, languages and portfolio boundary. A content audit is a decision exercise; a spreadsheet containing every available metric is only an input.",
+          "Distinguish search acquisition, buyer evaluation, customer support and internal-only material. An important service explanation may influence a buyer without being the first landing page. A public guide can attract relevant demand without closing a sale on the same visit. Do not judge these pages by one common pageview target."
+        ]
+      },
+      {
+        "heading": "Inventory canonical pages and the job each one owns",
+        "body": [
+          "Record URL, language, format, buyer question, buying stage, primary service, owner and last substantive review. Group language counterparts and genuine duplicates without assuming they should share a canonical. Include important pages missing from navigation; exclude private material from the public inventory.",
+          "Mark the primary URL for each buying question. A service page answers whether you can do the work; a buyer’s guide helps evaluate providers; a pricing guide explains units and scope. Similar vocabulary does not make those jobs interchangeable. Give each new-page proposal an explicit reason an existing URL cannot serve it."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Use the SEO audit for search and technical diagnosis"
+          }
+        ]
+      },
+      {
+        "heading": "Join evidence without turning missing data into zero",
+        "body": [
+          "Bring together page-filtered Search Console queries, organic landing sessions, relevant referrals and source-reconciled booking evidence where available. Record dates, geography, device, attribution coverage and the last meaningful page change. Compare the same cohorts, with enough time after publication for the question being tested.",
+          "Read impressions and clicks together. Falling CTR can reflect a new mix of queries; declining clicks may follow lower demand, lost exposure, a position change or a different search presentation. Check query-level changes before changing the page. A long sales cycle can also separate the initial landing from a later booking.",
+          "Unknown attribution, hidden query rows and a page too new to assess remain unknown. An indexed page with no observed clicks is different from one that has never been crawled. Neither state automatically proves the content is worthless."
+        ]
+      },
+      {
+        "heading": "Review usefulness, accuracy and proof as an editor",
+        "body": [
+          "Check whether the page gives a direct answer, helps a real decision, states relevant limits and supplies verifiable evidence. Review current prices only against approved facts; check every language’s commercial meaning, examples, tool instructions, sources and handoff. Record unsupported claims for correction rather than strengthening them.",
+          "Inspect useful competing answers for the same buyer question. Look for missing decision criteria, examples, responsibilities or evidence. Add only what improves the decision. More headings, repeated keywords and a larger word count do not establish an advantage."
+        ],
+        "items": [
+          "Can a buyer understand who the page is for and when the advice does not apply?",
+          "Are examples clearly fictional or supported by approved public evidence?",
+          "Does the next link help the buying question and stay in the selected language?",
+          "Are the title, answer, visible FAQ and structured data consistent?"
+        ]
+      },
+      {
+        "heading": "Choose keep, update, combine or retire with safeguards",
+        "body": [
+          "Treat the four actions as editorial decisions with different risks. First fix demonstrated inaccuracies and broken journeys. Preserve useful pages while testing the smallest relevant change. Combining or retiring pages needs checks of unique intent, links, conversions and language relationships before implementation."
+        ],
+        "table": {
+          "caption": "Content decision matrix",
+          "headers": [
+            "Action",
+            "When evidence supports it",
+            "Safeguard"
+          ],
+          "rows": [
+            [
+              "Keep",
+              "Accurate, useful and owns a distinct buyer question",
+              "Record next review; preserve working elements"
+            ],
+            [
+              "Update",
+              "Same intent; a demonstrated answer, proof or usability gap",
+              "Keep URL; record exact change and baseline"
+            ],
+            [
+              "Combine",
+              "Real duplication of intent with no valuable unique role",
+              "Review demand, links and outcomes; map redirects and references"
+            ],
+            [
+              "Retire",
+              "No remaining useful public job and a reviewed replacement or removal plan",
+              "Check backlinks, internal links, language alternatives and appropriate response"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Work through a fictional three-page inventory",
+        "body": [
+          "These rows are invented to show the decision method. They are not client performance, market benchmarks or recommendations to delete equivalent pages on your site."
+        ],
+        "table": {
+          "caption": "Fictional content inventory",
+          "headers": [
+            "Page",
+            "Observation",
+            "Decision",
+            "Next check"
+          ],
+          "rows": [
+            [
+              "Service page",
+              "Relevant buyers visit; scope description is outdated",
+              "Update approved scope at the same URL",
+              "Validate facts and later buyer outcomes"
+            ],
+            [
+              "New localized guide",
+              "No mature query or booking evidence yet",
+              "Keep; verify discovery and language links",
+              "Review after a documented observation window"
+            ],
+            [
+              "Two older guides",
+              "Possible overlap; unique questions and backlinks not checked",
+              "Hold consolidation pending evidence",
+              "Map intent, links and outcomes first"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Connect content findings to the wider acquisition funnel"
+          }
+        ]
+      },
+      {
+        "heading": "Approve a focused improvement and publishing plan",
+        "body": [
+          "Prioritize by buyer value, strength of evidence, risk, effort and dependency. Give each action an owner and a verification date. If a new page fills a distinct gap, define its primary question, boundaries, language equivalents, useful original help and internal links before drafting. Do not publish another page solely because a keyword tool shows volume.",
+          "After implementation, verify the live page, assets, navigation and source tracking. Compare mature page/query cohorts and genuine booking quality, not an immediate total-session increase. Keep a change log so later reviews can distinguish a content edit from seasonality or an attribution change."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Discuss ongoing SEO and content implementation"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a content inventory and an audit?",
+        "answer": "An inventory lists what exists. An audit adds evidence, a review of buyer usefulness and accuracy, and an explicit decision with an owner and verification date."
+      },
+      {
+        "question": "Should we delete every page with no organic traffic?",
+        "answer": "No. Check its age, discovery and index state, buyer role, unique information, links and available conversion evidence. Missing or immature data does not establish that removal is beneficial."
+      },
+      {
+        "question": "When should we build a new guide?",
+        "answer": "When a distinct, relevant buying question cannot be served well by an existing URL. Define the scope and internal journey first; use keyword estimates as supporting evidence, not a publishing quota."
+      },
+      {
+        "question": "How do we know an update worked?",
+        "answer": "Record the baseline and exact change, verify implementation, then compare mature equivalent query/page cohorts and source-aware business outcomes. Treat external changes and incomplete attribution as limitations."
+      }
+    ],
+    "related": [
+      "/guides/b2b-seo-audit/",
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "PathFactory: B2B content audit",
+        "href": "https://www.pathfactory.com/blog/b2b-content-audit/"
+      },
+      {
+        "label": "Lform: B2B content audit checklist",
+        "href": "https://lform.com/blog/post/the-ultimate-b2b-content-audit-checklist/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "October 27, 2026",
+    "sourceMethodology": "The linked publisher guides inform the scope comparison. The decision matrix and worksheet are Beespoke planning methods, not a validated ranking model. All worked rows are fictional; no client data or automatic deletion recommendations are supplied.",
+    "decisionGuide": {
+      "heading": "End with decisions, not a publishing quota",
+      "body": [
+        "Improve the existing portfolio where evidence supports it. New pages should fill distinct buyer gaps and preserve valuable current journeys."
+      ],
+      "items": [
+        "Name one primary buying question per page.",
+        "Write the evidence, unknowns and risk of each action.",
+        "Approve redirects or removals only after the dependencies are reviewed.",
+        "Track the release and compare mature outcomes."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Use the content inventory worksheet",
+      "eyebrow": "Ungated content planning",
+      "heading": "Record the decision for each existing page",
+      "intro": "Use three blank rows to connect a page’s buyer job, evidence and proposed decision. The summary counts entries, not quality or ranking potential.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Inventory",
+          "body": "Name the page and the buying question it serves."
+        },
+        {
+          "label": "2",
+          "heading": "Evidence",
+          "body": "Record the period, usefulness and any missing data."
+        },
+        {
+          "label": "3",
+          "heading": "Decision",
+          "body": "Write keep, update, combine, retire or hold, with a responsible owner."
+        }
+      ],
+      "note": "Inputs remain on this page and clear on refresh. Do not enter private customer data. The sample is invented; no page is edited or removed by this worksheet."
+    },
+    "worksheet": {
+      "fields": [
+        "Page and buying question",
+        "Evidence and missing information",
+        "Proposed decision and safeguards",
+        "Owner and next review"
+      ],
+      "sample": [
+        "/guides/example/ — compare service responsibilities",
+        "Fictional: relevant queries; the responsibility section is incomplete",
+        "Update the same URL; preserve useful existing answers",
+        "Content owner; verify copy, then review mature queries"
+      ]
+    }
+  },
+  {
+    "path": "/guides/account-based-prospecting/",
+    "serviceFamily": "outbound",
+    "title": "Account-Based Prospecting: Accounts, Roles & Plan | Beespoke",
+    "description": "Choose target accounts and buying roles before B2B outreach. Includes fit criteria, evidence checks, a fictional tiering example and a private planning worksheet.",
+    "eyebrow": "Account-first B2B outreach",
+    "h1": "Account-based prospecting: choose accounts and buying roles before outreach",
+    "answer": "Account-based prospecting starts with a defined set of suitable companies, then researches the people and business reasons that make contact relevant. It connects account selection, buying roles, messages and sales handoff. Use it when the value of a suitable customer supports careful research and follow-up. A large contact list or a personalized first name alone does not make a campaign account-based.",
+    "heroSecondary": {
+      "label": "Use the account-planning worksheet",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Decide whether the account-first approach fits",
+        "body": [
+          "Start with the offer, customer economics and an identifiable buying problem. Account-based prospecting suits situations where a narrower set of organizations has plausible need and the team can research them meaningfully. If the offer is unclear or the sales owner cannot follow up, more precise lists will not solve the underlying constraint.",
+          "Distinguish prospecting from the wider account-based marketing programme. Prospecting concerns selecting accounts, opening relevant conversations and handing them over. Broader ABM can involve advertising, content, customer expansion and several teams. Do not assume that buying an outreach service includes all of that work."
+        ]
+      },
+      {
+        "heading": "Write an account hypothesis and explicit exclusions",
+        "body": [
+          "Define which organization could buy, why the problem could matter and what public evidence would support or contradict the hypothesis. Separate customer accounts from referral partners, distributors and suppliers. A company can be useful to the business without being a buyer of the same offer.",
+          "Set exclusions before collecting names: existing customers, active opportunities, unsuitable sectors, conflicts and organizations outside the delivery scope. Record the source and date of each useful signal. A public expansion announcement may support research, but it does not prove budget, urgency or permission to make a stronger claim."
+        ],
+        "items": [
+          "Write the business problem and the company conditions that make it plausible.",
+          "Name evidence that would disqualify the account as well as evidence that supports it.",
+          "Keep inferred needs distinct from facts published by the company.",
+          "Agree who approves account selection and maintains exclusions."
+        ],
+        "links": [
+          {
+            "href": "/downloads/beespoke-icp-scorecard/",
+            "label": "Use the ICP planning scorecard"
+          }
+        ]
+      },
+      {
+        "heading": "Prioritize accounts by evidence rather than an opaque score",
+        "body": [
+          "Create a small number of working tiers based on relevance and evidence quality. Higher priority means a stronger reason to research or contact, not a promise that the company will buy. Missing information should remain unverified; a familiar logo is not a buying signal."
+        ],
+        "table": {
+          "caption": "Fictional account-priority example",
+          "headers": [
+            "Tier",
+            "Invented evidence",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Research first",
+              "Suitable business model and public evidence of the relevant workflow",
+              "Confirm the responsible role and a truthful reason for contact"
+            ],
+            [
+              "Clarify fit",
+              "Plausible sector fit but unclear need or buying unit",
+              "Research before drafting a specific claim"
+            ],
+            [
+              "Exclude or hold",
+              "Existing opportunity, unsupported market or contradictory evidence",
+              "Follow the agreed exclusion; do not contact automatically"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Map buying roles and the question each role owns",
+        "body": [
+          "Identify the person closest to the problem, the likely budget owner and any operational or technical reviewer. Titles vary by company size and market; one title is not a complete buying committee. Record why a role is relevant and where the evidence comes from. Do not invent private reporting lines or assume a named person has purchasing authority.",
+          "Write a role-specific question before a message. An operational owner may care about the workflow, while a commercial owner needs the business consequence. The opening should use a truthful observation and a relevant idea without claiming the prospect has a problem you have not confirmed."
+        ],
+        "links": [
+          {
+            "href": "/resources/account-research-handoff-example/",
+            "label": "Inspect the fictional one-account research and handoff example"
+          }
+        ]
+      },
+      {
+        "heading": "Approve messages, channels and the response boundary",
+        "body": [
+          "Agree claims, proof, tone, exclusions and follow-up before execution. Email and LinkedIn can use the same account hypothesis while needing different message formats and operational controls. A platform’s availability does not establish that a specific contact method is appropriate. Assign the owner of account access, contact-data sources, suppression and sensitive replies.",
+          "Define what counts as a useful response, what information is needed before booking and which product or commercial questions return to your team. A partner introduction, a polite reply and purchase interest are different outcomes. Do not count all three as qualified sales demand."
+        ],
+        "links": [
+          {
+            "href": "/services/cold-email-lead-generation/",
+            "label": "Review managed cold email"
+          },
+          {
+            "href": "/services/linkedin-lead-generation/",
+            "label": "Review managed LinkedIn prospecting"
+          }
+        ]
+      },
+      {
+        "heading": "Connect prospecting to a usable sales handoff",
+        "body": [
+          "Pass the account context, relevant evidence, role, actual reply and qualification status to the person leading discovery. Keep unknown budget, timing and authority unknown. Your sales team should return whether the call occurred, fit the criteria and progressed; otherwise campaign learning stops at the booking.",
+          "Beespoke’s managed outbound scope focuses on cold email and/or LinkedIn, with founder-led targeting, research, messages, follow-up, replies, qualification and booking against agreed criteria. The client approves claims and exclusions and owns discovery, proposals and closing. Cold calling is a separately quoted activity according to market; it is not part of the standard email/LinkedIn scope. This does not imply a dedicated full-time SDR or guaranteed volume."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Check the managed outbound scope and responsibilities"
+          }
+        ]
+      },
+      {
+        "heading": "Measure suitable conversations instead of activity alone",
+        "body": [
+          "Track the selected account cohort, contacted buying roles, positive relevant replies, genuine new bookings, calls held and qualified outcomes. Define each denominator and observation window. Several contacts at one account do not become several accounts; a reschedule does not become a new acquisition.",
+          "Review which evidence and role hypotheses produced useful conversations. Do not attribute every later opportunity to the first message without source evidence. Keep outreach-created bookings separate from independently acquired website bookings even when the buyer later reads a guide. Scale only when fit, delivery capacity and commercial feedback support it."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Audit the wider acquisition and booking funnel"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How is account-based prospecting different from a contact list?",
+        "answer": "It starts with a company-level fit hypothesis, exclusions and dated evidence, then maps buying roles and relevant messages. A contact list supplies names but does not establish a reason to contact them."
+      },
+      {
+        "question": "Is account-based prospecting the same as ABM?",
+        "answer": "No. Prospecting covers account selection, relevant contact, response handling and handoff. Account-based marketing can cover a wider coordinated programme involving advertising, content, expansion and other teams."
+      },
+      {
+        "question": "How many accounts should we target?",
+        "answer": "Use a cohort that can be researched, reviewed and followed up within the real delivery capacity. There is no universal account count. More accounts without adequate relevance or response handling can weaken the test."
+      },
+      {
+        "question": "Does this include cold calling or a dedicated SDR?",
+        "answer": "Those are separate scope decisions. Beespoke’s standard managed outbound focuses on cold email and/or LinkedIn. Calling is separately quoted by market; a dedicated full-time SDR is not implied."
+      }
+    ],
+    "related": [
+      "/services/outbound-lead-generation/",
+      "/resources/account-research-handoff-example/",
+      "/downloads/beespoke-icp-scorecard/"
+    ],
+    "sources": [
+      {
+        "label": "UserGems: account-based prospecting",
+        "href": "https://www.usergems.com/blog/account-based-prospecting"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "October 27, 2026",
+    "sourceMethodology": "UserGems informs the process comparison. Beespoke’s account worksheet and tiering example are planning methods. Every example account and signal is fictional; no private client list, campaign result or purchase-intent claim is supplied.",
+    "decisionGuide": {
+      "heading": "Approve the account logic before increasing outreach",
+      "body": [
+        "A good prospecting brief makes selection, evidence, exclusions and the sales handoff reviewable before contact begins."
+      ],
+      "items": [
+        "Define the company-level fit hypothesis.",
+        "Map buying roles with sources and counter-evidence.",
+        "Approve claims, channels and response responsibilities.",
+        "Judge genuine held and qualified conversations in the same cohort."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Use the account-planning worksheet",
+      "eyebrow": "Private account-selection brief",
+      "heading": "Make the account hypothesis reviewable",
+      "intro": "Use invented account names or neutral labels. Record evidence and buying roles before proposing contact; this tool neither enriches contacts nor launches outreach.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Fit",
+          "body": "Explain the account hypothesis and any exclusions."
+        },
+        {
+          "label": "2",
+          "heading": "Roles",
+          "body": "Name the likely buying role and the limits of the evidence."
+        },
+        {
+          "label": "3",
+          "heading": "Decision",
+          "body": "Write the next research or approval step and responsible owner."
+        }
+      ],
+      "note": "Inputs remain on this page and clear on refresh. Avoid contact details and confidential account data. All sample values are invented, and no messages are sent."
+    },
+    "worksheet": {
+      "fields": [
+        "Neutral account label and fit hypothesis",
+        "Dated signal, source and counter-evidence",
+        "Buying role and next decision",
+        "Owner and next review"
+      ],
+      "sample": [
+        "Fictional Company A — plausible B2B workflow fit",
+        "Invented public workflow page; budget and timing unknown",
+        "Research operational owner; approve truthful observation before contact",
+        "Campaign owner; review before outreach"
+      ]
+    }
+  },
+  {
+    "path": "/guides/aeo-audit/",
+    "serviceFamily": "inbound",
+    "title": "AEO Audit Checklist for B2B: Evidence & AI Visibility | Beespoke",
+    "description": "Audit AI-search mentions, exact citations, factual accuracy and referral outcomes. Includes a repeatable manual method and private evidence worksheet.",
+    "eyebrow": "Evidence-led AI search review",
+    "h1": "AEO audit checklist for B2B: measure AI search visibility with evidence",
+    "answer": "An AEO audit examines how answer engines describe your business, which pages they cite and whether relevant visits become genuine buyer conversations. Start with real buying questions and a repeatable observation log. Separate brand mentions, exact URL citations, referral sessions and bookings. Record the model, date and conditions; missing evidence is unassessable, not zero. An audit can guide improvements, but cannot guarantee inclusion in an AI answer.",
+    "heroSecondary": {
+      "label": "Use the AEO evidence worksheet",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Define the buyer questions and the audit boundary",
+        "body": [
+          "Choose questions a potential buyer would ask before selecting a service: what the service includes, who it fits, how to compare approaches and what evidence to request. Include questions without your brand as well as questions about it. Keep branded accuracy checks separate from unbranded discovery.",
+          "Write a fixed prompt set for each market and language. Record the exact wording and why the question matters. Avoid a large collection of near-identical prompts that makes a percentage look precise without covering different decisions. Do not put private customer, prospect or account information into a public model."
+        ]
+      },
+      {
+        "heading": "Make each observation reproducible",
+        "body": [
+          "For every run, record engine and visible model/version, timestamp, language, location if known, signed-in or clean context, exact prompt and whether browsing or sources were available. Preserve a concise answer excerpt or reference where appropriate. If a setting or model version is not disclosed, write unknown.",
+          "Personalization, model updates and answer variability limit comparisons. Repeat the same questions under matched conditions across documented review dates; do not compare one personalized answer with an unrelated clean session as though only your page changed. Manual observation is a sample, not a complete census of AI search."
+        ],
+        "items": [
+          "Capture whether the brand is mentioned and what is said about it.",
+          "Record each cited URL exactly and verify whether it supports the associated claim.",
+          "Mark source-panel availability separately from citation presence.",
+          "Log factual errors, unsupported statements and inaccessible evidence without filling gaps by inference."
+        ]
+      },
+      {
+        "heading": "Keep mentions, citations, referrals and bookings separate",
+        "body": [
+          "A mention means the answer names the business. A citation means a source link identifies a particular URL. A referral means an observed visit from an AI source. A genuine booking is a separate event that needs scheduling evidence. None of these proves the next stage occurred."
+        ],
+        "table": {
+          "caption": "AEO evidence definitions",
+          "headers": [
+            "Measure",
+            "What to record",
+            "What it does not establish"
+          ],
+          "rows": [
+            [
+              "Brand mention",
+              "Exact observed name and statement in the sampled answer",
+              "A link, recommendation or visit"
+            ],
+            [
+              "URL citation",
+              "Cited URL and the statement it supports",
+              "Traffic, endorsement or a new booking"
+            ],
+            [
+              "AI referral",
+              "Source-aware session or landing evidence with coverage limits",
+              "That a particular prompt caused the visit"
+            ],
+            [
+              "New website booking",
+              "Original-created booking, reconciled source and landing context where available",
+              "That all earlier AI exposure is known"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Check factual accuracy and ordinary search eligibility",
+        "body": [
+          "Review your own service explanations, organization facts, authorship, source dates and language consistency. The page should answer the buyer’s question plainly, show useful original help and distinguish approved facts from examples. Accurate visible content and matching structured data make the information more coherent; they do not force an engine to cite it.",
+          "Google’s AI-features guidance says the normal SEO foundations apply. Supporting pages need to be indexed and eligible to appear with a snippet. There is no special AI file or schema required for these features. Check access, indexability, canonical references and internal discovery before adding speculative technical files.",
+          "A page being crawlable is not proof of indexing; indexing is not proof of citation. Do not block useful search access as an untested visibility tactic or treat an llms.txt file as a ranking switch."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Check search and technical foundations"
+          }
+        ]
+      },
+      {
+        "heading": "Review answer gaps and competing sources carefully",
+        "body": [
+          "Inspect the pages actually cited for your buyer question when source links are available. Note which decision they help with, their evidence and what your existing page misses. A result that names a competitor does not establish why that competitor appeared. An unavailable source panel does not prove there were no citations.",
+          "Improve the relevant existing page when it can answer the question well: clarify scope, direct answers, responsibilities, sourced distinctions and useful examples. Create a new URL only for a distinct buyer job. Do not copy a cited page, invent client proof or add broad claims merely to resemble a sampled answer."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Decide whether to improve or create a page"
+          }
+        ]
+      },
+      {
+        "heading": "Use a fictional observation to choose the next check",
+        "body": [
+          "The example below is invented. It demonstrates coverage limits, not a measured AI result or a claim about any named engine."
+        ],
+        "table": {
+          "caption": "Fictional AEO observation",
+          "headers": [
+            "Question",
+            "Observed sample",
+            "Unknown",
+            "Next action"
+          ],
+          "rows": [
+            [
+              "What should a managed campaign include?",
+              "Invented answer mentions the business; source panel unavailable",
+              "Exact citations and any resulting visits",
+              "Record citation state as unassessable; check visible service accuracy"
+            ],
+            [
+              "How should we compare audit scopes?",
+              "Invented source panel cites a guide with clear responsibilities",
+              "Whether the citation produced a booking",
+              "Review the useful decision help; keep outcome measurement separate"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Connect AI visibility to the acquisition record",
+        "body": [
+          "Use source-aware analytics and original scheduling records to distinguish new website-acquired calls from outreach-led calls that later visit the site. Retain known landing pages and booking identifiers only with the necessary access and purpose. A Direct visit with no source cannot safely be assigned to AI, and one ChatGPT booking does not establish a conversion benchmark.",
+          "Exclude identified internal or audit visits and retain attribution gaps explicitly. Compare matched periods and mature booking cohorts, including cancellations, calls held and qualification. Report observation coverage alongside any share of sampled answers; never label the sample as market-wide AI visibility."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Reconcile the wider acquisition funnel"
+          }
+        ]
+      },
+      {
+        "heading": "Finish with a bounded action plan",
+        "body": [
+          "Rank proposed actions by verified factual risk, relevant buyer value, evidence strength, effort and dependencies. Name the page, exact change, responsible owner and next observation date. Correct a demonstrated false claim promptly; test an uncertain visibility hypothesis with a baseline rather than presenting it as a proven cause.",
+          "The worksheet below is a manual log. It does not query models, crawl your site or calculate a proprietary AI score. If you need implementation support, distinguish the audit from ongoing SEO and AI-search work and agree the scope separately."
+        ],
+        "links": [
+          {
+            "href": "/services/generative-engine-optimization/",
+            "label": "Review Beespoke’s AI-search service"
+          },
+          {
+            "href": "/guides/aeo-agency-pricing/",
+            "label": "Review AEO scope and pricing considerations"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What should an AEO audit measure?",
+        "answer": "Buyer-question coverage, sampled brand mentions, exact cited URLs, factual accuracy and source-panel availability, alongside ordinary search eligibility, observed AI referrals and genuine new bookings. Keep each measure and its coverage separate."
+      },
+      {
+        "question": "What is the difference between an AEO audit and an AI visibility audit?",
+        "answer": "The names overlap in practice. Define the actual scope: engines, prompts, languages, source inspection, technical review and outcome reconciliation. The label alone does not tell you what evidence is collected."
+      },
+      {
+        "question": "Does Google require special AI schema or llms.txt?",
+        "answer": "Google’s cited AI-features guidance states there is no special schema or AI file requirement. Normal SEO foundations and indexed, snippet-eligible supporting pages remain relevant. That does not guarantee inclusion or citations."
+      },
+      {
+        "question": "How can we compare two audits fairly?",
+        "answer": "Use the same buyer questions, engines, visible model versions, languages and known context, with recorded dates and evidence coverage. Report unavailable settings and source panels explicitly; answer variation still limits causal conclusions."
+      }
+    ],
+    "related": [
+      "/services/generative-engine-optimization/",
+      "/guides/b2b-seo-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Google Search Central: AI features and your website",
+        "href": "https://developers.google.com/search/docs/appearance/ai-features"
+      },
+      {
+        "label": "HubSpot: AEO audit",
+        "href": "https://blog.hubspot.com/marketing/aeo-audit"
+      },
+      {
+        "label": "Nextiny: how to run an AEO audit",
+        "href": "https://blog.nextinymarketing.com/how-to-run-an-aeo-audit-see-how-ai-understands-your-company"
+      },
+      {
+        "label": "Ahrefs: AI visibility audit",
+        "href": "https://ahrefs.com/blog/ai-visibility-audit/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "October 27, 2026",
+    "sourceMethodology": "Google supports the technical eligibility guidance; the publisher articles inform the method comparison. The manual worksheet is Beespoke planning help. All sample answers are invented. No live model benchmark, market-wide visibility score or causal booking result is claimed.",
+    "decisionGuide": {
+      "heading": "Choose the next action the evidence can support",
+      "body": [
+        "Preserve a dated prompt set and observation log. Improve useful, accurate buyer answers and technical access; judge business outcomes separately."
+      ],
+      "items": [
+        "Correct demonstrated factual errors.",
+        "Keep unknown source-panel states unassessable.",
+        "Compare matched observation conditions.",
+        "Validate changes and review mature visits and booking cohorts."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Use the AEO evidence worksheet",
+      "eyebrow": "Manual, private observation log",
+      "heading": "Log the answer and the limits of what you observed",
+      "intro": "Record three manual observations. Use public prompts and neutral references, not confidential data. The summary counts your entries; it does not grade AI visibility.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Question",
+          "body": "Record exact prompt and buyer purpose."
+        },
+        {
+          "label": "2",
+          "heading": "Conditions",
+          "body": "Include engine, model if visible, date, language and context."
+        },
+        {
+          "label": "3",
+          "heading": "Evidence",
+          "body": "Separate mention, exact citation, unavailable source panel and next check."
+        }
+      ],
+      "note": "Inputs stay on this page and clear on refresh. No model calls, crawling, uploads or messages are performed. The sample is fictional and cannot establish an AI ranking."
+    },
+    "worksheet": {
+      "fields": [
+        "Buyer question / exact public prompt",
+        "Engine, visible model, date, language and context",
+        "Mention, cited URLs, factual errors and source-panel limits",
+        "Next action, owner and review date"
+      ],
+      "sample": [
+        "Fictional prompt: what should a managed campaign include?",
+        "Invented engine example; model unknown; English; clean context",
+        "Invented mention; source panel unavailable; citations unassessable",
+        "Check service facts; repeat matched observation on a recorded date"
+      ]
+    }
   }
 ]

@@ -1,0 +1,946 @@
+{
+  "en": {
+    "path": "/guides/b2b-content-audit/",
+    "serviceFamily": "inbound",
+    "title": "B2B Content Audit: Keep, Improve or Publish Next | Beespoke",
+    "description": "Audit your B2B content by buyer question, evidence and business usefulness. Includes a keep/update/combine/retire matrix and an ungated inventory worksheet.",
+    "eyebrow": "B2B content portfolio decisions",
+    "h1": "B2B content audit: decide what to keep, improve and publish next",
+    "answer": "A B2B content audit reviews existing pages against the buying questions they should answer, their accuracy and their observed contribution. It helps decide what to keep, improve, combine or retire and where a genuinely new page is needed. Build an inventory, join comparable page and query evidence, review usefulness, then document each decision with its risks, owner and review date.",
+    "heroSecondary": {
+      "label": "Use the content inventory worksheet",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Define the decision before collecting every metric",
+        "body": [
+          "Choose the business problem: unclear service pages, outdated claims, overlapping guides or missing help for a buying decision. Define the audience, offer, languages and portfolio boundary. A content audit is a decision exercise; a spreadsheet containing every available metric is only an input.",
+          "Distinguish search acquisition, buyer evaluation, customer support and internal-only material. An important service explanation may influence a buyer without being the first landing page. A public guide can attract relevant demand without closing a sale on the same visit. Do not judge these pages by one common pageview target."
+        ]
+      },
+      {
+        "heading": "Inventory canonical pages and the job each one owns",
+        "body": [
+          "Record URL, language, format, buyer question, buying stage, primary service, owner and last substantive review. Group language counterparts and genuine duplicates without assuming they should share a canonical. Include important pages missing from navigation; exclude private material from the public inventory.",
+          "Mark the primary URL for each buying question. A service page answers whether you can do the work; a buyer’s guide helps evaluate providers; a pricing guide explains units and scope. Similar vocabulary does not make those jobs interchangeable. Give each new-page proposal an explicit reason an existing URL cannot serve it."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Use the SEO audit for search and technical diagnosis"
+          }
+        ]
+      },
+      {
+        "heading": "Join evidence without turning missing data into zero",
+        "body": [
+          "Bring together page-filtered Search Console queries, organic landing sessions, relevant referrals and source-reconciled booking evidence where available. Record dates, geography, device, attribution coverage and the last meaningful page change. Compare the same cohorts, with enough time after publication for the question being tested.",
+          "Read impressions and clicks together. Falling CTR can reflect a new mix of queries; declining clicks may follow lower demand, lost exposure, a position change or a different search presentation. Check query-level changes before changing the page. A long sales cycle can also separate the initial landing from a later booking.",
+          "Unknown attribution, hidden query rows and a page too new to assess remain unknown. An indexed page with no observed clicks is different from one that has never been crawled. Neither state automatically proves the content is worthless."
+        ]
+      },
+      {
+        "heading": "Review usefulness, accuracy and proof as an editor",
+        "body": [
+          "Check whether the page gives a direct answer, helps a real decision, states relevant limits and supplies verifiable evidence. Review current prices only against approved facts; check every language’s commercial meaning, examples, tool instructions, sources and handoff. Record unsupported claims for correction rather than strengthening them.",
+          "Inspect useful competing answers for the same buyer question. Look for missing decision criteria, examples, responsibilities or evidence. Add only what improves the decision. More headings, repeated keywords and a larger word count do not establish an advantage."
+        ],
+        "items": [
+          "Can a buyer understand who the page is for and when the advice does not apply?",
+          "Are examples clearly fictional or supported by approved public evidence?",
+          "Does the next link help the buying question and stay in the selected language?",
+          "Are the title, answer, visible FAQ and structured data consistent?"
+        ]
+      },
+      {
+        "heading": "Choose keep, update, combine or retire with safeguards",
+        "body": [
+          "Treat the four actions as editorial decisions with different risks. First fix demonstrated inaccuracies and broken journeys. Preserve useful pages while testing the smallest relevant change. Combining or retiring pages needs checks of unique intent, links, conversions and language relationships before implementation."
+        ],
+        "table": {
+          "caption": "Content decision matrix",
+          "headers": [
+            "Action",
+            "When evidence supports it",
+            "Safeguard"
+          ],
+          "rows": [
+            [
+              "Keep",
+              "Accurate, useful and owns a distinct buyer question",
+              "Record next review; preserve working elements"
+            ],
+            [
+              "Update",
+              "Same intent; a demonstrated answer, proof or usability gap",
+              "Keep URL; record exact change and baseline"
+            ],
+            [
+              "Combine",
+              "Real duplication of intent with no valuable unique role",
+              "Review demand, links and outcomes; map redirects and references"
+            ],
+            [
+              "Retire",
+              "No remaining useful public job and a reviewed replacement or removal plan",
+              "Check backlinks, internal links, language alternatives and appropriate response"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Work through a fictional three-page inventory",
+        "body": [
+          "These rows are invented to show the decision method. They are not client performance, market benchmarks or recommendations to delete equivalent pages on your site."
+        ],
+        "table": {
+          "caption": "Fictional content inventory",
+          "headers": [
+            "Page",
+            "Observation",
+            "Decision",
+            "Next check"
+          ],
+          "rows": [
+            [
+              "Service page",
+              "Relevant buyers visit; scope description is outdated",
+              "Update approved scope at the same URL",
+              "Validate facts and later buyer outcomes"
+            ],
+            [
+              "New localized guide",
+              "No mature query or booking evidence yet",
+              "Keep; verify discovery and language links",
+              "Review after a documented observation window"
+            ],
+            [
+              "Two older guides",
+              "Possible overlap; unique questions and backlinks not checked",
+              "Hold consolidation pending evidence",
+              "Map intent, links and outcomes first"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Connect content findings to the wider acquisition funnel"
+          }
+        ]
+      },
+      {
+        "heading": "Approve a focused improvement and publishing plan",
+        "body": [
+          "Prioritize by buyer value, strength of evidence, risk, effort and dependency. Give each action an owner and a verification date. If a new page fills a distinct gap, define its primary question, boundaries, language equivalents, useful original help and internal links before drafting. Do not publish another page solely because a keyword tool shows volume.",
+          "After implementation, verify the live page, assets, navigation and source tracking. Compare mature page/query cohorts and genuine booking quality, not an immediate total-session increase. Keep a change log so later reviews can distinguish a content edit from seasonality or an attribution change."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Discuss ongoing SEO and content implementation"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a content inventory and an audit?",
+        "answer": "An inventory lists what exists. An audit adds evidence, a review of buyer usefulness and accuracy, and an explicit decision with an owner and verification date."
+      },
+      {
+        "question": "Should we delete every page with no organic traffic?",
+        "answer": "No. Check its age, discovery and index state, buyer role, unique information, links and available conversion evidence. Missing or immature data does not establish that removal is beneficial."
+      },
+      {
+        "question": "When should we build a new guide?",
+        "answer": "When a distinct, relevant buying question cannot be served well by an existing URL. Define the scope and internal journey first; use keyword estimates as supporting evidence, not a publishing quota."
+      },
+      {
+        "question": "How do we know an update worked?",
+        "answer": "Record the baseline and exact change, verify implementation, then compare mature equivalent query/page cohorts and source-aware business outcomes. Treat external changes and incomplete attribution as limitations."
+      }
+    ],
+    "related": [
+      "/guides/b2b-seo-audit/",
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "PathFactory: B2B content audit",
+        "href": "https://www.pathfactory.com/blog/b2b-content-audit/"
+      },
+      {
+        "label": "Lform: B2B content audit checklist",
+        "href": "https://lform.com/blog/post/the-ultimate-b2b-content-audit-checklist/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "October 27, 2026",
+    "sourceMethodology": "The linked publisher guides inform the scope comparison. The decision matrix and worksheet are Beespoke planning methods, not a validated ranking model. All worked rows are fictional; no client data or automatic deletion recommendations are supplied.",
+    "decisionGuide": {
+      "heading": "End with decisions, not a publishing quota",
+      "body": [
+        "Improve the existing portfolio where evidence supports it. New pages should fill distinct buyer gaps and preserve valuable current journeys."
+      ],
+      "items": [
+        "Name one primary buying question per page.",
+        "Write the evidence, unknowns and risk of each action.",
+        "Approve redirects or removals only after the dependencies are reviewed.",
+        "Track the release and compare mature outcomes."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Use the content inventory worksheet",
+      "eyebrow": "Ungated content planning",
+      "heading": "Record the decision for each existing page",
+      "intro": "Use three blank rows to connect a page’s buyer job, evidence and proposed decision. The summary counts entries, not quality or ranking potential.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Inventory",
+          "body": "Name the page and the buying question it serves."
+        },
+        {
+          "label": "2",
+          "heading": "Evidence",
+          "body": "Record the period, usefulness and any missing data."
+        },
+        {
+          "label": "3",
+          "heading": "Decision",
+          "body": "Write keep, update, combine, retire or hold, with a responsible owner."
+        }
+      ],
+      "note": "Inputs remain on this page and clear on refresh. Do not enter private customer data. The sample is invented; no page is edited or removed by this worksheet."
+    },
+    "worksheet": {
+      "fields": [
+        "Page and buying question",
+        "Evidence and missing information",
+        "Proposed decision and safeguards",
+        "Owner and next review"
+      ],
+      "sample": [
+        "/guides/example/ — compare service responsibilities",
+        "Fictional: relevant queries; the responsibility section is incomplete",
+        "Update the same URL; preserve useful existing answers",
+        "Content owner; verify copy, then review mature queries"
+      ]
+    }
+  },
+  "es": {
+    "path": "/guides/b2b-content-audit/",
+    "serviceFamily": "inbound",
+    "title": "Auditoría de contenidos B2B: qué mejorar y publicar | Beespoke",
+    "description": "Revisa contenidos B2B según preguntas de compra, pruebas y utilidad comercial. Incluye matriz de decisiones y ficha de inventario sin registro.",
+    "eyebrow": "Decisiones sobre contenidos B2B",
+    "h1": "Auditoría de contenidos B2B: qué conservar, mejorar y publicar después",
+    "answer": "Una auditoría de contenidos B2B revisa las páginas existentes según las preguntas de compra que deben responder, su exactitud y su contribución observada. Ayuda a decidir qué conservar, mejorar, combinar o retirar y dónde hace falta una página realmente nueva. Crea un inventario, reúne datos comparables, revisa la utilidad y documenta cada decisión con riesgos, responsable y fecha de revisión.",
+    "heroSecondary": {
+      "label": "Usar la ficha de inventario",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Define la decisión antes de recoger todas las métricas",
+        "body": [
+          "Elige el problema comercial: servicios poco claros, afirmaciones desactualizadas, guías solapadas o ayuda ausente para una decisión de compra. Define público, oferta, idiomas y límites del inventario. La auditoría sirve para decidir; una hoja con todas las métricas disponibles solo es un punto de partida.",
+          "Distingue captación desde buscadores, evaluación de compra, soporte e información interna. Una explicación del servicio puede influir sin ser la página de entrada. Una guía puede atraer demanda relevante sin cerrar una venta en esa visita. No juzgues todas estas páginas por el mismo objetivo de visitas."
+        ]
+      },
+      {
+        "heading": "Inventaría páginas canónicas y la función de cada una",
+        "body": [
+          "Registra URL, idioma, formato, pregunta, fase de compra, servicio principal, responsable y última revisión sustancial. Agrupa versiones lingüísticas y duplicados reales sin asumir que deban compartir canónica. Incluye páginas importantes ausentes de navegación; excluye material privado del inventario público.",
+          "Marca la URL principal para cada pregunta. Un servicio explica si puedes hacer el trabajo; una guía ayuda a evaluar proveedores; una explicación de precios aclara unidades y alcance. Compartir vocabulario no hace intercambiables estas funciones. Toda propuesta de página nueva debe explicar por qué una existente no basta."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Usa la auditoría SEO para diagnóstico técnico y de búsqueda"
+          }
+        ]
+      },
+      {
+        "heading": "Reúne pruebas sin convertir lo desconocido en cero",
+        "body": [
+          "Combina consultas de Search Console filtradas por página, sesiones orgánicas de entrada, referencias pertinentes y reservas conciliadas por fuente cuando existan. Anota fechas, geografía, dispositivo, cobertura de atribución y último cambio importante. Compara las mismas cohortes con tiempo suficiente después de publicar.",
+          "Lee impresiones y clics juntos. Una bajada de CTR puede deberse a una mezcla nueva de consultas; menos clics pueden seguir a menor demanda, pérdida de exposición, cambios de posición o presentación. Comprueba las consultas antes de modificar la página. Un ciclo de venta largo también puede separar entrada inicial y reserva.",
+          "La atribución desconocida, las consultas ocultas y las páginas demasiado recientes siguen siendo desconocidas. Una página indexada sin clics observados es distinta de otra nunca rastreada. Ninguno de esos estados demuestra automáticamente que el contenido no sirve."
+        ]
+      },
+      {
+        "heading": "Revisa utilidad, exactitud y pruebas con criterio editorial",
+        "body": [
+          "Comprueba si la página responde directamente, ayuda a decidir, explica límites y aporta pruebas verificables. Revisa precios solo frente a hechos aprobados; comprueba sentido comercial, ejemplos, herramientas, fuentes y reserva en cada idioma. Señala afirmaciones sin respaldo para corregirlas, no para reforzarlas.",
+          "Inspecciona respuestas competidoras útiles para la misma pregunta. Busca criterios, ejemplos, responsabilidades o pruebas ausentes. Añade solo lo que mejora la decisión. Más títulos, palabras clave repetidas y extensión no demuestran ventaja."
+        ],
+        "items": [
+          "¿Se entiende a quién sirve y cuándo no aplica el consejo?",
+          "¿Los ejemplos son claramente ficticios o cuentan con pruebas públicas aprobadas?",
+          "¿El siguiente enlace ayuda y conserva el idioma elegido?",
+          "¿Coinciden título, respuesta, FAQ visible y datos estructurados?"
+        ]
+      },
+      {
+        "heading": "Elige conservar, actualizar, combinar o retirar con garantías",
+        "body": [
+          "Son decisiones editoriales con riesgos distintos. Corrige primero inexactitudes y recorridos rotos demostrados. Conserva páginas útiles mientras pruebas el cambio pertinente más pequeño. Antes de combinar o retirar, comprueba intención propia, enlaces, conversiones y relaciones de idioma."
+        ],
+        "table": {
+          "caption": "Matriz de decisiones de contenido",
+          "headers": [
+            "Acción",
+            "Cuándo la justifican las pruebas",
+            "Protección"
+          ],
+          "rows": [
+            [
+              "Conservar",
+              "Exacto, útil y con pregunta propia",
+              "Anotar próxima revisión; preservar lo que funciona"
+            ],
+            [
+              "Actualizar",
+              "Misma intención; carencia demostrada de respuesta, pruebas o uso",
+              "Mantener URL; registrar cambio y referencia inicial"
+            ],
+            [
+              "Combinar",
+              "Duplicación real sin función única valiosa",
+              "Revisar demanda, enlaces y resultados; planificar redirecciones"
+            ],
+            [
+              "Retirar",
+              "Sin función pública útil y con plan revisado",
+              "Comprobar enlaces externos e internos, idiomas y respuesta adecuada"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Recorre un inventario ficticio de tres páginas",
+        "body": [
+          "Estas filas inventadas ilustran el método. No son resultados de clientes, referencias de mercado ni recomendaciones de eliminar páginas equivalentes."
+        ],
+        "table": {
+          "caption": "Inventario de contenido ficticio",
+          "headers": [
+            "Página",
+            "Observación",
+            "Decisión",
+            "Próxima comprobación"
+          ],
+          "rows": [
+            [
+              "Servicio",
+              "Visitas relevantes; alcance desactualizado",
+              "Actualizar hechos aprobados en la misma URL",
+              "Validar exactitud y resultados posteriores"
+            ],
+            [
+              "Guía nueva localizada",
+              "Sin datos maduros de consultas o reservas",
+              "Conservar; verificar descubrimiento e idiomas",
+              "Revisar tras el periodo documentado"
+            ],
+            [
+              "Dos guías antiguas",
+              "Posible solapamiento; preguntas y enlaces sin revisar",
+              "Aplazar combinación hasta reunir pruebas",
+              "Mapear intención, enlaces y resultados"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Relaciona contenido y embudo de captación"
+          }
+        ]
+      },
+      {
+        "heading": "Aprueba un plan enfocado de mejoras y publicaciones",
+        "body": [
+          "Prioriza valor para el comprador, solidez de pruebas, riesgo, esfuerzo y dependencias. Cada acción necesita responsable y fecha de verificación. Si una página nueva cubre una carencia distinta, define pregunta, límites, versiones lingüísticas, ayuda original y enlaces antes de redactar. No publiques solo porque una herramienta muestre volumen.",
+          "Tras implementar, verifica página pública, recursos, navegación y medición de fuentes. Compara cohortes maduras y calidad real de reservas, no una subida inmediata de sesiones totales. Mantén un registro para distinguir cambios editoriales de estacionalidad o atribución."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Consulta la ejecución continua de SEO y contenidos"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué diferencia hay entre inventario y auditoría?",
+        "answer": "El inventario enumera lo que existe. La auditoría añade pruebas, revisión de utilidad y exactitud, y una decisión explícita con responsable y fecha de verificación."
+      },
+      {
+        "question": "¿Hay que eliminar todas las páginas sin tráfico orgánico?",
+        "answer": "No. Revisa antigüedad, descubrimiento, indexación, función de compra, información única, enlaces y conversiones disponibles. Los datos ausentes o inmaduros no demuestran que eliminar ayude."
+      },
+      {
+        "question": "¿Cuándo crear una guía nueva?",
+        "answer": "Cuando una pregunta de compra relevante y distinta no pueda resolverse bien en una URL existente. Define primero alcance y recorrido; las estimaciones de palabras clave apoyan la decisión, no fijan una cuota."
+      },
+      {
+        "question": "¿Cómo sabemos si funcionó una actualización?",
+        "answer": "Anota referencia inicial y cambio exacto, verifica implementación y compara cohortes maduras equivalentes y resultados con fuentes. Explica cambios externos y atribución incompleta como limitaciones."
+      }
+    ],
+    "related": [
+      "/guides/b2b-seo-audit/",
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "PathFactory: auditoría de contenidos B2B",
+        "href": "https://www.pathfactory.com/blog/b2b-content-audit/"
+      },
+      {
+        "label": "Lform: lista de auditoría de contenidos B2B",
+        "href": "https://lform.com/blog/post/the-ultimate-b2b-content-audit-checklist/"
+      },
+      {
+        "label": "Política editorial de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 de octubre de 2026",
+    "sourceMethodology": "Las guías enlazadas informan la comparación de alcance. La matriz y la ficha son métodos de planificación de Beespoke, no un modelo de posicionamiento validado. Las filas son ficticias; no contienen datos de clientes ni recomendaciones automáticas de borrado.",
+    "decisionGuide": {
+      "heading": "Termina con decisiones, no con una cuota de publicaciones",
+      "body": [
+        "Mejora el conjunto existente cuando haya pruebas. Las páginas nuevas deben cubrir preguntas distintas y preservar recorridos útiles."
+      ],
+      "items": [
+        "Asigna una pregunta principal a cada página.",
+        "Anota pruebas, incógnitas y riesgo de cada acción.",
+        "Aprueba redirecciones o retiradas tras revisar dependencias.",
+        "Registra la publicación y compara resultados maduros."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Usar la ficha de inventario",
+      "eyebrow": "Planificación sin registro",
+      "heading": "Registra la decisión sobre cada página",
+      "intro": "Conecta función de compra, pruebas y decisión en tres filas. El resumen cuenta entradas, no calidad ni potencial de posicionamiento.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Inventario",
+          "body": "Identifica página y pregunta de compra."
+        },
+        {
+          "label": "2",
+          "heading": "Pruebas",
+          "body": "Anota periodo, utilidad y datos ausentes."
+        },
+        {
+          "label": "3",
+          "heading": "Decisión",
+          "body": "Escribe conservar, actualizar, combinar, retirar o aplazar, con responsable."
+        }
+      ],
+      "note": "Los datos permanecen en esta página y se borran al recargar. No introduzcas datos privados de clientes. El ejemplo es inventado; la ficha no modifica ni elimina páginas."
+    },
+    "worksheet": {
+      "fields": [
+        "Página y pregunta de compra",
+        "Pruebas e información ausente",
+        "Decisión propuesta y protecciones",
+        "Responsable y próxima revisión"
+      ],
+      "sample": [
+        "/guides/ejemplo/ — comparar responsabilidades",
+        "Ficticio: consultas pertinentes; sección de responsabilidades incompleta",
+        "Actualizar la misma URL; preservar respuestas útiles",
+        "Responsable editorial; revisar texto y después consultas maduras"
+      ]
+    }
+  },
+  "ca": {
+    "path": "/guides/b2b-content-audit/",
+    "serviceFamily": "inbound",
+    "title": "Auditoria de continguts B2B: què millorar i publicar | Beespoke",
+    "description": "Revisa continguts B2B segons preguntes de compra, evidències i utilitat comercial. Inclou una matriu de decisions i una fitxa d’inventari sense registre.",
+    "eyebrow": "Decisions sobre continguts B2B",
+    "h1": "Auditoria de continguts B2B: què conservar, millorar i publicar després",
+    "answer": "Una auditoria de continguts B2B revisa les pàgines existents segons les preguntes de compra que han de respondre, l’exactitud i la contribució observada. Ajuda a decidir què conservar, millorar, combinar o retirar i on cal una pàgina realment nova. Crea un inventari, reuneix dades comparables, revisa la utilitat i documenta cada decisió amb riscos, responsable i data de revisió.",
+    "heroSecondary": {
+      "label": "Utilitza la fitxa d’inventari",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Defineix la decisió abans de recollir totes les mètriques",
+        "body": [
+          "Tria el problema comercial: serveis poc clars, afirmacions desactualitzades, guies superposades o ajuda absent per a una decisió de compra. Defineix públic, oferta, idiomes i límits de l’inventari. L’auditoria serveix per decidir; un full amb totes les mètriques disponibles només és un punt de partida.",
+          "Distingeix captació des de cercadors, avaluació de compra, suport i informació interna. Una explicació del servei pot influir sense ser la pàgina d’entrada. Una guia pot atreure demanda rellevant sense tancar una venda en aquella visita. No jutgis totes aquestes pàgines pel mateix objectiu de visites."
+        ]
+      },
+      {
+        "heading": "Inventaria pàgines canòniques i la funció de cadascuna",
+        "body": [
+          "Registra URL, idioma, format, pregunta, fase de compra, servei principal, responsable i última revisió substancial. Agrupa versions lingüístiques i duplicats reals sense assumir que hagin de compartir canònica. Inclou pàgines importants absents de la navegació; exclou material privat de l’inventari públic.",
+          "Marca la URL principal per a cada pregunta. Un servei explica si pots fer la feina; una guia ajuda a avaluar proveïdors; una explicació de preus aclareix unitats i abast. Compartir vocabulari no fa intercanviables aquestes funcions. Tota proposta de pàgina nova ha d’explicar per què una d’existent no és suficient."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Utilitza l’auditoria SEO per al diagnòstic tècnic i de cerca"
+          }
+        ]
+      },
+      {
+        "heading": "Reuneix evidències sense convertir allò desconegut en zero",
+        "body": [
+          "Combina consultes de Search Console filtrades per pàgina, sessions orgàniques d’entrada, referències pertinents i reserves conciliades per font quan n’hi hagi. Anota dates, geografia, dispositiu, cobertura d’atribució i últim canvi important. Compara les mateixes cohorts amb prou temps després de publicar.",
+          "Llegeix impressions i clics conjuntament. Una baixada del CTR pot venir d’una combinació nova de consultes; menys clics poden seguir una demanda menor, pèrdua d’exposició o canvis de posició o presentació. Comprova les consultes abans de modificar la pàgina. Un cicle de venda llarg també pot separar entrada inicial i reserva.",
+          "L’atribució desconeguda, les consultes ocultes i les pàgines massa recents continuen sent desconegudes. Una pàgina indexada sense clics observats és diferent d’una que mai no s’ha rastrejat. Cap dels dos estats demostra automàticament que el contingut no serveixi."
+        ]
+      },
+      {
+        "heading": "Revisa utilitat, exactitud i evidències amb criteri editorial",
+        "body": [
+          "Comprova si la pàgina respon directament, ajuda a decidir, explica límits i aporta evidències verificables. Revisa preus només respecte de fets aprovats; comprova sentit comercial, exemples, eines, fonts i reserva en cada idioma. Assenyala afirmacions sense suport per corregir-les, no per reforçar-les.",
+          "Inspecciona respostes competidores útils per a la mateixa pregunta. Busca criteris, exemples, responsabilitats o evidències absents. Afegeix només allò que millora la decisió. Més títols, paraules clau repetides i extensió no demostren avantatge."
+        ],
+        "items": [
+          "S’entén a qui serveix i quan no s’aplica el consell?",
+          "Els exemples són clarament ficticis o tenen evidències públiques aprovades?",
+          "L’enllaç següent ajuda i conserva l’idioma triat?",
+          "Coincideixen títol, resposta, FAQ visible i dades estructurades?"
+        ]
+      },
+      {
+        "heading": "Tria conservar, actualitzar, combinar o retirar amb garanties",
+        "body": [
+          "Són decisions editorials amb riscos diferents. Corregeix primer inexactituds i recorreguts trencats demostrats. Conserva pàgines útils mentre proves el canvi pertinent més petit. Abans de combinar o retirar, comprova intenció pròpia, enllaços, conversions i relacions d’idioma."
+        ],
+        "table": {
+          "caption": "Matriu de decisions de contingut",
+          "headers": [
+            "Acció",
+            "Quan la justifiquen les evidències",
+            "Protecció"
+          ],
+          "rows": [
+            [
+              "Conservar",
+              "Exacte, útil i amb pregunta pròpia",
+              "Anotar pròxima revisió; preservar allò que funciona"
+            ],
+            [
+              "Actualitzar",
+              "Mateixa intenció; mancança demostrada de resposta, evidències o ús",
+              "Mantenir URL; registrar canvi i referència inicial"
+            ],
+            [
+              "Combinar",
+              "Duplicació real sense funció única valuosa",
+              "Revisar demanda, enllaços i resultats; planificar redireccions"
+            ],
+            [
+              "Retirar",
+              "Sense funció pública útil i amb pla revisat",
+              "Comprovar enllaços externs i interns, idiomes i resposta adequada"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Recorre un inventari fictici de tres pàgines",
+        "body": [
+          "Aquestes files inventades il·lustren el mètode. No són resultats de clients, referències de mercat ni recomanacions d’eliminar pàgines equivalents."
+        ],
+        "table": {
+          "caption": "Inventari de contingut fictici",
+          "headers": [
+            "Pàgina",
+            "Observació",
+            "Decisió",
+            "Pròxima comprovació"
+          ],
+          "rows": [
+            [
+              "Servei",
+              "Visites rellevants; abast desactualitzat",
+              "Actualitzar fets aprovats a la mateixa URL",
+              "Validar exactitud i resultats posteriors"
+            ],
+            [
+              "Guia nova localitzada",
+              "Sense dades madures de consultes o reserves",
+              "Conservar; verificar descobriment i idiomes",
+              "Revisar després del període documentat"
+            ],
+            [
+              "Dues guies antigues",
+              "Possible superposició; preguntes i enllaços sense revisar",
+              "Ajornar combinació fins a reunir evidències",
+              "Mapar intenció, enllaços i resultats"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Relaciona contingut i embut de captació"
+          }
+        ]
+      },
+      {
+        "heading": "Aprova un pla enfocat de millores i publicacions",
+        "body": [
+          "Prioritza valor per al comprador, solidesa d’evidències, risc, esforç i dependències. Cada acció necessita responsable i data de verificació. Si una pàgina nova cobreix una mancança diferent, defineix pregunta, límits, versions lingüístiques, ajuda original i enllaços abans de redactar. No publiquis només perquè una eina mostri volum.",
+          "Després d’implementar, verifica pàgina pública, recursos, navegació i mesurament de fonts. Compara cohorts madures i qualitat real de reserves, no una pujada immediata de sessions totals. Mantén un registre per distingir canvis editorials d’estacionalitat o atribució."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Consulta l’execució continuada de SEO i continguts"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Quina diferència hi ha entre inventari i auditoria?",
+        "answer": "L’inventari enumera allò que existeix. L’auditoria afegeix evidències, revisió d’utilitat i exactitud, i una decisió explícita amb responsable i data de verificació."
+      },
+      {
+        "question": "Cal eliminar totes les pàgines sense trànsit orgànic?",
+        "answer": "No. Revisa antiguitat, descobriment, indexació, funció de compra, informació única, enllaços i conversions disponibles. Les dades absents o immadures no demostren que eliminar ajudi."
+      },
+      {
+        "question": "Quan cal crear una guia nova?",
+        "answer": "Quan una pregunta de compra rellevant i diferent no es pugui resoldre bé en una URL existent. Defineix primer abast i recorregut; les estimacions de paraules clau donen suport a la decisió, no fixen una quota."
+      },
+      {
+        "question": "Com sabem si ha funcionat una actualització?",
+        "answer": "Anota referència inicial i canvi exacte, verifica implementació i compara cohorts madures equivalents i resultats amb fonts. Explica canvis externs i atribució incompleta com a limitacions."
+      }
+    ],
+    "related": [
+      "/guides/b2b-seo-audit/",
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "PathFactory: auditoria de continguts B2B",
+        "href": "https://www.pathfactory.com/blog/b2b-content-audit/"
+      },
+      {
+        "label": "Lform: llista d’auditoria de continguts B2B",
+        "href": "https://lform.com/blog/post/the-ultimate-b2b-content-audit-checklist/"
+      },
+      {
+        "label": "Política editorial de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 d’octubre de 2026",
+    "sourceMethodology": "Les guies enllaçades informen la comparació d’abast. La matriu i la fitxa són mètodes de planificació de Beespoke, no un model de posicionament validat. Les files són fictícies; no contenen dades de clients ni recomanacions automàtiques d’esborrament.",
+    "decisionGuide": {
+      "heading": "Acaba amb decisions, no amb una quota de publicacions",
+      "body": [
+        "Millora el conjunt existent quan hi hagi evidències. Les pàgines noves han de cobrir preguntes diferents i preservar recorreguts útils."
+      ],
+      "items": [
+        "Assigna una pregunta principal a cada pàgina.",
+        "Anota evidències, incògnites i risc de cada acció.",
+        "Aprova redireccions o retirades després de revisar dependències.",
+        "Registra la publicació i compara resultats madurs."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utilitza la fitxa d’inventari",
+      "eyebrow": "Planificació sense registre",
+      "heading": "Registra la decisió sobre cada pàgina",
+      "intro": "Connecta funció de compra, evidències i decisió en tres files. El resum compta entrades, no qualitat ni potencial de posicionament.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Inventari",
+          "body": "Identifica pàgina i pregunta de compra."
+        },
+        {
+          "label": "2",
+          "heading": "Evidències",
+          "body": "Anota període, utilitat i dades absents."
+        },
+        {
+          "label": "3",
+          "heading": "Decisió",
+          "body": "Escriu conservar, actualitzar, combinar, retirar o ajornar, amb responsable."
+        }
+      ],
+      "note": "Les dades romanen en aquesta pàgina i s’esborren en recarregar. No introdueixis dades privades de clients. L’exemple és inventat; la fitxa no modifica ni elimina pàgines."
+    },
+    "worksheet": {
+      "fields": [
+        "Pàgina i pregunta de compra",
+        "Evidències i informació absent",
+        "Decisió proposada i proteccions",
+        "Responsable i pròxima revisió"
+      ],
+      "sample": [
+        "/guides/exemple/ — comparar responsabilitats",
+        "Fictici: consultes pertinents; secció de responsabilitats incompleta",
+        "Actualitzar la mateixa URL; preservar respostes útils",
+        "Responsable editorial; revisar text i després consultes madures"
+      ]
+    }
+  },
+  "fr": {
+    "path": "/guides/b2b-content-audit/",
+    "serviceFamily": "inbound",
+    "title": "Audit de contenu B2B : que faut-il améliorer et publier ? | Beespoke",
+    "description": "Examinez vos contenus B2B selon les questions d’achat, les preuves et l’utilité commerciale. Matrice de décisions et fiche d’inventaire sans inscription.",
+    "eyebrow": "Décisions sur le portefeuille de contenu B2B",
+    "h1": "Audit de contenu B2B : que conserver, améliorer et publier ensuite ?",
+    "answer": "Un audit de contenu B2B examine les pages existantes selon les questions d’achat auxquelles elles doivent répondre, leur exactitude et leur contribution observée. Il aide à décider quoi conserver, améliorer, regrouper ou retirer et où une nouvelle page est réellement nécessaire. Inventoriez les pages, réunissez des données comparables, examinez l’utilité et documentez chaque décision avec risques, responsable et date de revue.",
+    "heroSecondary": {
+      "label": "Utiliser la fiche d’inventaire",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Définir la décision avant de collecter toutes les métriques",
+        "body": [
+          "Choisissez le problème commercial : services peu clairs, affirmations périmées, guides qui se recoupent ou aide absente pour une décision d’achat. Définissez public, offre, langues et limites de l’inventaire. L’audit sert à décider ; un tableau contenant toutes les métriques disponibles n’est qu’un point de départ.",
+          "Distinguez acquisition par la recherche, évaluation d’achat, assistance et informations internes. Une explication du service peut influencer un acheteur sans être sa page d’entrée. Un guide peut attirer une demande pertinente sans conclure une vente lors de cette visite. Ne jugez pas ces pages sur un même objectif de vues."
+        ]
+      },
+      {
+        "heading": "Inventorier les pages canoniques et le rôle de chacune",
+        "body": [
+          "Notez URL, langue, format, question, étape d’achat, service principal, responsable et dernière revue substantielle. Regroupez versions linguistiques et véritables doublons sans supposer qu’ils doivent partager une canonique. Incluez les pages importantes absentes de la navigation ; excluez les éléments privés de l’inventaire public.",
+          "Désignez l’URL principale pour chaque question. Un service explique si vous pouvez réaliser le travail ; un guide aide à évaluer des prestataires ; une page tarifaire clarifie unités et périmètre. Un vocabulaire commun ne rend pas ces rôles interchangeables. Toute nouvelle page doit expliquer pourquoi une URL existante ne suffit pas."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Utiliser l’audit SEO pour le diagnostic technique et de recherche"
+          }
+        ]
+      },
+      {
+        "heading": "Réunir les preuves sans transformer les inconnues en zéros",
+        "body": [
+          "Rapprochez requêtes Search Console filtrées par page, sessions organiques d’entrée, référents pertinents et réservations rapprochées de leur source lorsque ces données existent. Notez dates, géographie, appareil, couverture d’attribution et dernier changement important. Comparez les mêmes cohortes avec assez de recul après publication.",
+          "Lisez impressions et clics ensemble. Un CTR en baisse peut venir d’un nouveau mélange de requêtes ; moins de clics peut suivre une demande moindre, une perte d’exposition ou un changement de position ou de présentation. Vérifiez les requêtes avant de modifier la page. Un cycle de vente long peut aussi séparer entrée initiale et réservation.",
+          "Attribution inconnue, requêtes masquées et pages trop récentes restent des inconnues. Une page indexée sans clic observé diffère d’une page jamais explorée. Aucun de ces états ne prouve automatiquement l’inutilité du contenu."
+        ]
+      },
+      {
+        "heading": "Examiner utilité, exactitude et preuves avec un regard éditorial",
+        "body": [
+          "Vérifiez si la page répond directement, aide à décider, explique ses limites et apporte des preuves vérifiables. Contrôlez les prix uniquement avec des faits approuvés ; relisez sens commercial, exemples, outils, sources et réservation dans chaque langue. Signalez les affirmations non étayées pour correction plutôt que de les renforcer.",
+          "Examinez les réponses concurrentes utiles à la même question. Recherchez critères, exemples, responsabilités ou preuves manquants. Ajoutez seulement ce qui améliore la décision. Davantage de titres, de mots-clés répétés et de longueur ne prouve pas un avantage."
+        ],
+        "items": [
+          "Comprend-on à qui la page sert et quand le conseil ne s’applique pas ?",
+          "Les exemples sont-ils clairement fictifs ou appuyés par des preuves publiques approuvées ?",
+          "Le lien suivant est-il utile et dans la langue choisie ?",
+          "Titre, réponse, FAQ visible et données structurées concordent-ils ?"
+        ]
+      },
+      {
+        "heading": "Choisir conserver, actualiser, regrouper ou retirer avec précaution",
+        "body": [
+          "Ces décisions éditoriales présentent des risques différents. Corrigez d’abord les inexactitudes et parcours cassés démontrés. Préservez les pages utiles pendant le plus petit changement pertinent. Avant de regrouper ou retirer, vérifiez intention distincte, liens, conversions et relations linguistiques."
+        ],
+        "table": {
+          "caption": "Matrice de décisions éditoriales",
+          "headers": [
+            "Action",
+            "Preuves qui la justifient",
+            "Précaution"
+          ],
+          "rows": [
+            [
+              "Conserver",
+              "Exact, utile et question distincte",
+              "Noter la prochaine revue ; préserver les éléments utiles"
+            ],
+            [
+              "Actualiser",
+              "Même intention ; manque démontré de réponse, preuves ou usage",
+              "Garder l’URL ; consigner changement et référence initiale"
+            ],
+            [
+              "Regrouper",
+              "Vrai doublon sans rôle unique utile",
+              "Examiner demande, liens et résultats ; prévoir les redirections"
+            ],
+            [
+              "Retirer",
+              "Aucun rôle public utile et plan vérifié",
+              "Contrôler liens entrants et internes, langues et réponse appropriée"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Parcourir un inventaire fictif de trois pages",
+        "body": [
+          "Ces lignes inventées illustrent la méthode. Ce ne sont ni des résultats clients, ni des références de marché, ni des recommandations de supprimer des pages comparables."
+        ],
+        "table": {
+          "caption": "Inventaire de contenu fictif",
+          "headers": [
+            "Page",
+            "Observation",
+            "Décision",
+            "Prochain contrôle"
+          ],
+          "rows": [
+            [
+              "Service",
+              "Visites pertinentes ; périmètre périmé",
+              "Actualiser les faits approuvés à la même URL",
+              "Valider exactitude et résultats ultérieurs"
+            ],
+            [
+              "Nouveau guide traduit",
+              "Pas de données mûres de requêtes ou réservations",
+              "Conserver ; vérifier découverte et langues",
+              "Revoir après la période documentée"
+            ],
+            [
+              "Deux anciens guides",
+              "Recoupement possible ; questions et liens non vérifiés",
+              "Reporter le regroupement en attendant les preuves",
+              "Cartographier intention, liens et résultats"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Relier contenu et parcours d’acquisition"
+          }
+        ]
+      },
+      {
+        "heading": "Approuver un plan ciblé de corrections et de publications",
+        "body": [
+          "Priorisez valeur pour l’acheteur, solidité des preuves, risque, effort et dépendances. Chaque action demande un responsable et une date de vérification. Si une nouvelle page comble un manque distinct, définissez question, limites, langues, aide originale et liens avant rédaction. Ne publiez pas seulement parce qu’un outil affiche du volume.",
+          "Après mise en œuvre, vérifiez page publique, ressources, navigation et mesure des sources. Comparez des cohortes mûres et la qualité des réservations réelles, pas une hausse immédiate des sessions totales. Tenez un journal pour distinguer changement éditorial, saisonnalité et attribution."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Consulter la mise en œuvre continue du SEO et du contenu"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Quelle différence entre inventaire et audit ?",
+        "answer": "L’inventaire énumère l’existant. L’audit ajoute preuves, examen de l’utilité et de l’exactitude, puis décision explicite avec responsable et date de vérification."
+      },
+      {
+        "question": "Faut-il supprimer toute page sans trafic organique ?",
+        "answer": "Non. Vérifiez ancienneté, découverte, indexation, rôle d’achat, information unique, liens et conversions disponibles. Des données absentes ou immatures ne prouvent pas qu’une suppression aide."
+      },
+      {
+        "question": "Quand créer un nouveau guide ?",
+        "answer": "Lorsqu’une question d’achat pertinente et distincte ne peut pas être bien servie par une URL existante. Définissez d’abord périmètre et parcours ; les estimations de mots-clés soutiennent la décision, pas un quota."
+      },
+      {
+        "question": "Comment savoir si une actualisation a fonctionné ?",
+        "answer": "Notez référence initiale et changement exact, vérifiez la mise en œuvre puis comparez cohortes mûres équivalentes et résultats avec leurs sources. Signalez changements externes et attribution incomplète comme limites."
+      }
+    ],
+    "related": [
+      "/guides/b2b-seo-audit/",
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "PathFactory : audit de contenu B2B",
+        "href": "https://www.pathfactory.com/blog/b2b-content-audit/"
+      },
+      {
+        "label": "Lform : liste de contrôle d’audit de contenu B2B",
+        "href": "https://lform.com/blog/post/the-ultimate-b2b-content-audit-checklist/"
+      },
+      {
+        "label": "Politique éditoriale de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 octobre 2026",
+    "sourceMethodology": "Les guides liés éclairent la comparaison des périmètres. La matrice et la fiche sont des méthodes de préparation Beespoke, pas un modèle de classement validé. Les lignes sont fictives ; aucune donnée client ni recommandation automatique de suppression n’est fournie.",
+    "decisionGuide": {
+      "heading": "Terminer avec des décisions, pas un quota de publications",
+      "body": [
+        "Améliorez l’existant lorsque les preuves le justifient. Les nouvelles pages doivent répondre à des questions distinctes et préserver les parcours utiles."
+      ],
+      "items": [
+        "Attribuez une question principale à chaque page.",
+        "Notez preuves, inconnues et risque de chaque action.",
+        "Approuvez redirections ou retraits après examen des dépendances.",
+        "Consignez la publication et comparez des résultats mûrs."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utiliser la fiche d’inventaire",
+      "eyebrow": "Préparation sans inscription",
+      "heading": "Consigner la décision pour chaque page",
+      "intro": "Reliez rôle d’achat, preuves et décision dans trois lignes. Le résumé compte les entrées, pas la qualité ni le potentiel de classement.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Inventaire",
+          "body": "Identifiez la page et la question d’achat."
+        },
+        {
+          "label": "2",
+          "heading": "Preuves",
+          "body": "Notez période, utilité et données manquantes."
+        },
+        {
+          "label": "3",
+          "heading": "Décision",
+          "body": "Écrivez conserver, actualiser, regrouper, retirer ou reporter, avec un responsable."
+        }
+      ],
+      "note": "Les données restent sur cette page et disparaissent au rechargement. Ne saisissez pas de données clients privées. L’exemple est inventé ; la fiche ne modifie ni ne supprime de page."
+    },
+    "worksheet": {
+      "fields": [
+        "Page et question d’achat",
+        "Preuves et informations manquantes",
+        "Décision proposée et précautions",
+        "Responsable et prochaine revue"
+      ],
+      "sample": [
+        "/guides/exemple/ — comparer les responsabilités",
+        "Fictif : requêtes pertinentes ; responsabilités incomplètes",
+        "Actualiser la même URL ; préserver les réponses utiles",
+        "Responsable éditorial ; vérifier le texte puis les requêtes mûres"
+      ]
+    }
+  }
+}

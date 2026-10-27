@@ -1533,5 +1533,117 @@
       "Source reconciliation and original-created booking cohort method",
       "Local-only arithmetic with explicit unknown and sample limitations"
     ]
+  },
+  {
+    "path": "/guides/b2b-seo-audit/",
+    "checkedAt": "2026-10-27",
+    "competitors": [
+      {
+        "url": "https://comms.thisisdefinition.com/services/b2b-seo/seo-audit",
+        "observed": "Primary publisher page read in Browserbase October 27; used for scope comparison, not a results claim."
+      },
+      {
+        "url": "https://www.windmillstrategy.com/how-to-conduct-a-basic-b2b-seo-audit/",
+        "observed": "Primary publisher page read in Browserbase October 27; used for scope comparison, not a results claim."
+      }
+    ],
+    "serpRequirements": [
+      "Distinct buyer question and scope",
+      "Clear direct answer",
+      "Dated primary-source method",
+      "Original decision framework",
+      "Explicit unknowns and safeguards",
+      "Useful local worksheet",
+      "Appropriate service handoff"
+    ],
+    "beespokeAdvantages": [
+      "Evidence-to-action method with explicit ownership and review dates",
+      "Ungated private worksheet and clearly fictional worked decisions"
+    ]
+  },
+  {
+    "path": "/guides/b2b-content-audit/",
+    "checkedAt": "2026-10-27",
+    "competitors": [
+      {
+        "url": "https://www.pathfactory.com/blog/b2b-content-audit/",
+        "observed": "Primary publisher page read in Browserbase October 27; used for scope comparison, not a results claim."
+      },
+      {
+        "url": "https://lform.com/blog/post/the-ultimate-b2b-content-audit-checklist/",
+        "observed": "Primary publisher page read in Browserbase October 27; used for scope comparison, not a results claim."
+      }
+    ],
+    "serpRequirements": [
+      "Distinct buyer question and scope",
+      "Clear direct answer",
+      "Dated primary-source method",
+      "Original decision framework",
+      "Explicit unknowns and safeguards",
+      "Useful local worksheet",
+      "Appropriate service handoff"
+    ],
+    "beespokeAdvantages": [
+      "Evidence-to-action method with explicit ownership and review dates",
+      "Ungated private worksheet and clearly fictional worked decisions"
+    ]
+  },
+  {
+    "path": "/guides/account-based-prospecting/",
+    "checkedAt": "2026-10-27",
+    "competitors": [
+      {
+        "url": "https://www.usergems.com/blog/account-based-prospecting",
+        "observed": "Primary publisher page read in Browserbase October 27; used for scope comparison, not a results claim."
+      }
+    ],
+    "serpRequirements": [
+      "Distinct buyer question and scope",
+      "Clear direct answer",
+      "Dated primary-source method",
+      "Original decision framework",
+      "Explicit unknowns and safeguards",
+      "Useful local worksheet",
+      "Appropriate service handoff"
+    ],
+    "beespokeAdvantages": [
+      "Evidence-to-action method with explicit ownership and review dates",
+      "Ungated private worksheet and clearly fictional worked decisions"
+    ]
+  },
+  {
+    "path": "/guides/aeo-audit/",
+    "checkedAt": "2026-10-27",
+    "competitors": [
+      {
+        "url": "https://developers.google.com/search/docs/appearance/ai-features",
+        "observed": "Primary publisher page read in Browserbase October 27; used for scope comparison, not a results claim."
+      },
+      {
+        "url": "https://blog.hubspot.com/marketing/aeo-audit",
+        "observed": "Primary publisher page read in Browserbase October 27; used for scope comparison, not a results claim."
+      },
+      {
+        "url": "https://blog.nextinymarketing.com/how-to-run-an-aeo-audit-see-how-ai-understands-your-company",
+        "observed": "Primary publisher page read in Browserbase October 27; used for scope comparison, not a results claim."
+      },
+      {
+        "url": "https://ahrefs.com/blog/ai-visibility-audit/",
+        "observed": "Primary publisher page read in Browserbase October 27; used for scope comparison, not a results claim."
+      }
+    ],
+    "serpRequirements": [
+      "Distinct buyer question and scope",
+      "Clear direct answer",
+      "Dated primary-source method",
+      "Original decision framework",
+      "Explicit unknowns and safeguards",
+      "Useful local worksheet",
+      "Appropriate service handoff"
+    ],
+    "beespokeAdvantages": [
+      "Evidence-to-action method with explicit ownership and review dates",
+      "Ungated private worksheet and clearly fictional worked decisions"
+    ]
   }
 ]

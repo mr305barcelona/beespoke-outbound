@@ -533,6 +533,10 @@ for (const [locale] of Object.entries(locales)) {
       pageDictionary[escapeHtml(source)] = translated;
     }
     if (page.path === '/guides/b2b-lead-generation-audit/') addCopyMappings(page, require('../data/lead-generation-audit-copy-20261027').page(locale), pageDictionary);
+    if (['b2b-seo-audit','b2b-content-audit','account-based-prospecting','aeo-audit'].some(slug=>page.path==='/guides/'+slug+'/')) for (const slug of ['b2b-seo-audit','b2b-content-audit','account-based-prospecting','aeo-audit']) {
+      const guide = require('../data/buyer-guides-20261027/'+slug+'.json');
+      addCopyMappings(guide.en, guide[locale], pageDictionary);
+    }
     // Related links and shared navigation need the other service's copy too.
     for (const other of pages.filter(p=>inboundPages.has(p.path))) {
       if (inboundLocalized[other.path]) addCopyMappings(other, inboundLocalized[other.path], pageDictionary);

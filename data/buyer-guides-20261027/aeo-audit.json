@@ -1,0 +1,1022 @@
+{
+  "en": {
+    "path": "/guides/aeo-audit/",
+    "serviceFamily": "inbound",
+    "title": "AEO Audit Checklist for B2B: Evidence & AI Visibility | Beespoke",
+    "description": "Audit AI-search mentions, exact citations, factual accuracy and referral outcomes. Includes a repeatable manual method and private evidence worksheet.",
+    "eyebrow": "Evidence-led AI search review",
+    "h1": "AEO audit checklist for B2B: measure AI search visibility with evidence",
+    "answer": "An AEO audit examines how answer engines describe your business, which pages they cite and whether relevant visits become genuine buyer conversations. Start with real buying questions and a repeatable observation log. Separate brand mentions, exact URL citations, referral sessions and bookings. Record the model, date and conditions; missing evidence is unassessable, not zero. An audit can guide improvements, but cannot guarantee inclusion in an AI answer.",
+    "heroSecondary": {
+      "label": "Use the AEO evidence worksheet",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Define the buyer questions and the audit boundary",
+        "body": [
+          "Choose questions a potential buyer would ask before selecting a service: what the service includes, who it fits, how to compare approaches and what evidence to request. Include questions without your brand as well as questions about it. Keep branded accuracy checks separate from unbranded discovery.",
+          "Write a fixed prompt set for each market and language. Record the exact wording and why the question matters. Avoid a large collection of near-identical prompts that makes a percentage look precise without covering different decisions. Do not put private customer, prospect or account information into a public model."
+        ]
+      },
+      {
+        "heading": "Make each observation reproducible",
+        "body": [
+          "For every run, record engine and visible model/version, timestamp, language, location if known, signed-in or clean context, exact prompt and whether browsing or sources were available. Preserve a concise answer excerpt or reference where appropriate. If a setting or model version is not disclosed, write unknown.",
+          "Personalization, model updates and answer variability limit comparisons. Repeat the same questions under matched conditions across documented review dates; do not compare one personalized answer with an unrelated clean session as though only your page changed. Manual observation is a sample, not a complete census of AI search."
+        ],
+        "items": [
+          "Capture whether the brand is mentioned and what is said about it.",
+          "Record each cited URL exactly and verify whether it supports the associated claim.",
+          "Mark source-panel availability separately from citation presence.",
+          "Log factual errors, unsupported statements and inaccessible evidence without filling gaps by inference."
+        ]
+      },
+      {
+        "heading": "Keep mentions, citations, referrals and bookings separate",
+        "body": [
+          "A mention means the answer names the business. A citation means a source link identifies a particular URL. A referral means an observed visit from an AI source. A genuine booking is a separate event that needs scheduling evidence. None of these proves the next stage occurred."
+        ],
+        "table": {
+          "caption": "AEO evidence definitions",
+          "headers": [
+            "Measure",
+            "What to record",
+            "What it does not establish"
+          ],
+          "rows": [
+            [
+              "Brand mention",
+              "Exact observed name and statement in the sampled answer",
+              "A link, recommendation or visit"
+            ],
+            [
+              "URL citation",
+              "Cited URL and the statement it supports",
+              "Traffic, endorsement or a new booking"
+            ],
+            [
+              "AI referral",
+              "Source-aware session or landing evidence with coverage limits",
+              "That a particular prompt caused the visit"
+            ],
+            [
+              "New website booking",
+              "Original-created booking, reconciled source and landing context where available",
+              "That all earlier AI exposure is known"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Check factual accuracy and ordinary search eligibility",
+        "body": [
+          "Review your own service explanations, organization facts, authorship, source dates and language consistency. The page should answer the buyer’s question plainly, show useful original help and distinguish approved facts from examples. Accurate visible content and matching structured data make the information more coherent; they do not force an engine to cite it.",
+          "Google’s AI-features guidance says the normal SEO foundations apply. Supporting pages need to be indexed and eligible to appear with a snippet. There is no special AI file or schema required for these features. Check access, indexability, canonical references and internal discovery before adding speculative technical files.",
+          "A page being crawlable is not proof of indexing; indexing is not proof of citation. Do not block useful search access as an untested visibility tactic or treat an llms.txt file as a ranking switch."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Check search and technical foundations"
+          }
+        ]
+      },
+      {
+        "heading": "Review answer gaps and competing sources carefully",
+        "body": [
+          "Inspect the pages actually cited for your buyer question when source links are available. Note which decision they help with, their evidence and what your existing page misses. A result that names a competitor does not establish why that competitor appeared. An unavailable source panel does not prove there were no citations.",
+          "Improve the relevant existing page when it can answer the question well: clarify scope, direct answers, responsibilities, sourced distinctions and useful examples. Create a new URL only for a distinct buyer job. Do not copy a cited page, invent client proof or add broad claims merely to resemble a sampled answer."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Decide whether to improve or create a page"
+          }
+        ]
+      },
+      {
+        "heading": "Use a fictional observation to choose the next check",
+        "body": [
+          "The example below is invented. It demonstrates coverage limits, not a measured AI result or a claim about any named engine."
+        ],
+        "table": {
+          "caption": "Fictional AEO observation",
+          "headers": [
+            "Question",
+            "Observed sample",
+            "Unknown",
+            "Next action"
+          ],
+          "rows": [
+            [
+              "What should a managed campaign include?",
+              "Invented answer mentions the business; source panel unavailable",
+              "Exact citations and any resulting visits",
+              "Record citation state as unassessable; check visible service accuracy"
+            ],
+            [
+              "How should we compare audit scopes?",
+              "Invented source panel cites a guide with clear responsibilities",
+              "Whether the citation produced a booking",
+              "Review the useful decision help; keep outcome measurement separate"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Connect AI visibility to the acquisition record",
+        "body": [
+          "Use source-aware analytics and original scheduling records to distinguish new website-acquired calls from outreach-led calls that later visit the site. Retain known landing pages and booking identifiers only with the necessary access and purpose. A Direct visit with no source cannot safely be assigned to AI, and one ChatGPT booking does not establish a conversion benchmark.",
+          "Exclude identified internal or audit visits and retain attribution gaps explicitly. Compare matched periods and mature booking cohorts, including cancellations, calls held and qualification. Report observation coverage alongside any share of sampled answers; never label the sample as market-wide AI visibility."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Reconcile the wider acquisition funnel"
+          }
+        ]
+      },
+      {
+        "heading": "Finish with a bounded action plan",
+        "body": [
+          "Rank proposed actions by verified factual risk, relevant buyer value, evidence strength, effort and dependencies. Name the page, exact change, responsible owner and next observation date. Correct a demonstrated false claim promptly; test an uncertain visibility hypothesis with a baseline rather than presenting it as a proven cause.",
+          "The worksheet below is a manual log. It does not query models, crawl your site or calculate a proprietary AI score. If you need implementation support, distinguish the audit from ongoing SEO and AI-search work and agree the scope separately."
+        ],
+        "links": [
+          {
+            "href": "/services/generative-engine-optimization/",
+            "label": "Review Beespoke’s AI-search service"
+          },
+          {
+            "href": "/guides/aeo-agency-pricing/",
+            "label": "Review AEO scope and pricing considerations"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What should an AEO audit measure?",
+        "answer": "Buyer-question coverage, sampled brand mentions, exact cited URLs, factual accuracy and source-panel availability, alongside ordinary search eligibility, observed AI referrals and genuine new bookings. Keep each measure and its coverage separate."
+      },
+      {
+        "question": "What is the difference between an AEO audit and an AI visibility audit?",
+        "answer": "The names overlap in practice. Define the actual scope: engines, prompts, languages, source inspection, technical review and outcome reconciliation. The label alone does not tell you what evidence is collected."
+      },
+      {
+        "question": "Does Google require special AI schema or llms.txt?",
+        "answer": "Google’s cited AI-features guidance states there is no special schema or AI file requirement. Normal SEO foundations and indexed, snippet-eligible supporting pages remain relevant. That does not guarantee inclusion or citations."
+      },
+      {
+        "question": "How can we compare two audits fairly?",
+        "answer": "Use the same buyer questions, engines, visible model versions, languages and known context, with recorded dates and evidence coverage. Report unavailable settings and source panels explicitly; answer variation still limits causal conclusions."
+      }
+    ],
+    "related": [
+      "/services/generative-engine-optimization/",
+      "/guides/b2b-seo-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Google Search Central: AI features and your website",
+        "href": "https://developers.google.com/search/docs/appearance/ai-features"
+      },
+      {
+        "label": "HubSpot: AEO audit",
+        "href": "https://blog.hubspot.com/marketing/aeo-audit"
+      },
+      {
+        "label": "Nextiny: how to run an AEO audit",
+        "href": "https://blog.nextinymarketing.com/how-to-run-an-aeo-audit-see-how-ai-understands-your-company"
+      },
+      {
+        "label": "Ahrefs: AI visibility audit",
+        "href": "https://ahrefs.com/blog/ai-visibility-audit/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "October 27, 2026",
+    "sourceMethodology": "Google supports the technical eligibility guidance; the publisher articles inform the method comparison. The manual worksheet is Beespoke planning help. All sample answers are invented. No live model benchmark, market-wide visibility score or causal booking result is claimed.",
+    "decisionGuide": {
+      "heading": "Choose the next action the evidence can support",
+      "body": [
+        "Preserve a dated prompt set and observation log. Improve useful, accurate buyer answers and technical access; judge business outcomes separately."
+      ],
+      "items": [
+        "Correct demonstrated factual errors.",
+        "Keep unknown source-panel states unassessable.",
+        "Compare matched observation conditions.",
+        "Validate changes and review mature visits and booking cohorts."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Use the AEO evidence worksheet",
+      "eyebrow": "Manual, private observation log",
+      "heading": "Log the answer and the limits of what you observed",
+      "intro": "Record three manual observations. Use public prompts and neutral references, not confidential data. The summary counts your entries; it does not grade AI visibility.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Question",
+          "body": "Record exact prompt and buyer purpose."
+        },
+        {
+          "label": "2",
+          "heading": "Conditions",
+          "body": "Include engine, model if visible, date, language and context."
+        },
+        {
+          "label": "3",
+          "heading": "Evidence",
+          "body": "Separate mention, exact citation, unavailable source panel and next check."
+        }
+      ],
+      "note": "Inputs stay on this page and clear on refresh. No model calls, crawling, uploads or messages are performed. The sample is fictional and cannot establish an AI ranking."
+    },
+    "worksheet": {
+      "fields": [
+        "Buyer question / exact public prompt",
+        "Engine, visible model, date, language and context",
+        "Mention, cited URLs, factual errors and source-panel limits",
+        "Next action, owner and review date"
+      ],
+      "sample": [
+        "Fictional prompt: what should a managed campaign include?",
+        "Invented engine example; model unknown; English; clean context",
+        "Invented mention; source panel unavailable; citations unassessable",
+        "Check service facts; repeat matched observation on a recorded date"
+      ]
+    }
+  },
+  "es": {
+    "path": "/guides/aeo-audit/",
+    "serviceFamily": "inbound",
+    "title": "Auditoría AEO B2B: pruebas y visibilidad en IA | Beespoke",
+    "description": "Revisa menciones, citas exactas, precisión y visitas desde búsquedas con IA. Incluye método manual repetible y ficha privada de evidencias.",
+    "eyebrow": "Revisión de búsqueda con IA basada en pruebas",
+    "h1": "Auditoría AEO B2B: mide con pruebas tu visibilidad en búsquedas con IA",
+    "answer": "Una auditoría AEO examina cómo los motores de respuesta describen tu empresa, qué páginas citan y si las visitas relevantes se convierten en conversaciones reales. Parte de preguntas de compra y un registro repetible. Separa menciones de marca, citas de URL, sesiones de referencia y reservas. Anota modelo, fecha y condiciones; una prueba ausente es no evaluable, no cero. La auditoría orienta mejoras, pero no garantiza aparecer en una respuesta.",
+    "heroSecondary": {
+      "label": "Usar la ficha de pruebas AEO",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Define preguntas de compra y límites de la auditoría",
+        "body": [
+          "Elige preguntas anteriores a contratar: qué incluye el servicio, a quién sirve, cómo comparar enfoques y qué pruebas pedir. Incluye preguntas sin tu marca y preguntas sobre ella. Separa comprobación de exactitud de marca y descubrimiento sin marca.",
+          "Fija un conjunto de prompts por mercado e idioma. Anota texto exacto y utilidad comercial. Muchas variantes casi iguales pueden aparentar precisión sin cubrir decisiones distintas. No introduzcas información privada de clientes, prospectos o cuentas en un modelo público."
+        ]
+      },
+      {
+        "heading": "Haz reproducible cada observación",
+        "body": [
+          "Registra motor y modelo o versión visibles, fecha y hora, idioma, ubicación conocida, sesión iniciada o contexto limpio, prompt exacto y disponibilidad de navegación o fuentes. Conserva un extracto breve o referencia cuando corresponda. Si un ajuste no se revela, escribe desconocido.",
+          "Personalización, cambios de modelo y variabilidad limitan la comparación. Repite preguntas en condiciones equivalentes y fechas documentadas; una respuesta personalizada y otra sesión limpia no permiten suponer que solo cambió tu página. La observación manual es una muestra, no un censo de búsquedas con IA."
+        ],
+        "items": [
+          "Anota si aparece la marca y qué se dice.",
+          "Registra cada URL citada y verifica si respalda la afirmación.",
+          "Separa disponibilidad del panel de fuentes y presencia de citas.",
+          "Registra errores, afirmaciones sin respaldo y pruebas inaccesibles sin completar huecos por inferencia."
+        ]
+      },
+      {
+        "heading": "Separa menciones, citas, referencias y reservas",
+        "body": [
+          "Una mención nombra la empresa. Una cita enlaza una URL concreta. Una referencia es una visita observada desde una fuente de IA. Una reserva real requiere pruebas independientes del sistema de citas. Ninguna etapa demuestra la siguiente."
+        ],
+        "table": {
+          "caption": "Definiciones de evidencia AEO",
+          "headers": [
+            "Medida",
+            "Qué registrar",
+            "Qué no demuestra"
+          ],
+          "rows": [
+            [
+              "Mención",
+              "Nombre y afirmación observados en la muestra",
+              "Enlace, recomendación o visita"
+            ],
+            [
+              "Cita de URL",
+              "URL y afirmación que respalda",
+              "Tráfico, aval o reserva nueva"
+            ],
+            [
+              "Referencia de IA",
+              "Sesión o entrada con fuente y límites de cobertura",
+              "Que un prompt concreto causara la visita"
+            ],
+            [
+              "Reserva nueva de la web",
+              "Creación original, fuente conciliada y entrada conocida",
+              "Que se conozca toda exposición previa a IA"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Comprueba precisión y requisitos habituales de búsqueda",
+        "body": [
+          "Revisa servicios, datos de organización, autoría, fechas e idiomas. La página debe responder claramente, aportar ayuda original y separar hechos aprobados de ejemplos. El contenido exacto y los datos estructurados coherentes facilitan la comprensión, pero no obligan a citar.",
+          "La documentación de Google sobre funciones de IA mantiene las bases habituales de SEO. Las páginas de apoyo deben estar indexadas y ser aptas para aparecer con un fragmento. No se exige archivo de IA ni marcado especial. Revisa acceso, indexabilidad, canónicas y descubrimiento interno antes de añadir archivos especulativos.",
+          "Ser rastreable no prueba indexación; estar indexado no prueba una cita. No bloquees acceso útil como táctica no comprobada ni trates llms.txt como interruptor de posicionamiento."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Comprueba las bases técnicas y de búsqueda"
+          }
+        ]
+      },
+      {
+        "heading": "Revisa carencias y fuentes competidoras con cuidado",
+        "body": [
+          "Inspecciona las páginas realmente citadas cuando haya enlaces. Anota qué decisión ayudan a tomar, sus pruebas y qué falta en tu página. Que aparezca un competidor no demuestra por qué apareció. Un panel no disponible no demuestra ausencia de citas.",
+          "Mejora la página existente cuando responda bien: alcance, respuestas directas, responsabilidades, distinciones documentadas y ejemplos útiles. Crea URL solo para una función de compra distinta. No copies fuentes, inventes casos ni añadas afirmaciones amplias para parecerte a la respuesta observada."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Decide si mejorar o crear una página"
+          }
+        ]
+      },
+      {
+        "heading": "Usa una observación ficticia para elegir la próxima comprobación",
+        "body": [
+          "El ejemplo es inventado. Ilustra límites de cobertura; no es un resultado medido ni una afirmación sobre un motor real."
+        ],
+        "table": {
+          "caption": "Observaciones AEO ficticias",
+          "headers": [
+            "Pregunta",
+            "Muestra observada",
+            "Desconocido",
+            "Acción"
+          ],
+          "rows": [
+            [
+              "¿Qué incluye una campaña gestionada?",
+              "Respuesta inventada menciona la empresa; panel no disponible",
+              "Citas exactas y visitas resultantes",
+              "Marcar citas no evaluables; comprobar hechos del servicio"
+            ],
+            [
+              "¿Cómo comparar auditorías?",
+              "Panel inventado cita una guía con responsabilidades",
+              "Si la cita produjo una reserva",
+              "Revisar ayuda práctica; medir resultados aparte"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Conecta visibilidad en IA y registro de captación",
+        "body": [
+          "Usa analítica con fuentes y registros originales de reservas para distinguir llamadas nuevas captadas por la web de llamadas iniciadas por outreach que después visitan el sitio. Conserva entradas e identificadores solo con acceso y finalidad adecuados. Una visita Direct sin fuente no puede asignarse a IA; una reserva desde ChatGPT no fija una tasa de conversión.",
+          "Excluye pruebas internas identificadas y conserva lagunas de atribución. Compara periodos equivalentes y cohortes maduras, con cancelaciones, llamadas celebradas y cualificación. Informa de cobertura junto con cualquier porcentaje de respuestas; la muestra no representa todo el mercado."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Concilia el embudo de captación completo"
+          }
+        ]
+      },
+      {
+        "heading": "Termina con un plan delimitado",
+        "body": [
+          "Ordena acciones por riesgo factual demostrado, valor para el comprador, solidez de pruebas, esfuerzo y dependencias. Identifica página, cambio exacto, responsable y próxima observación. Corrige afirmaciones falsas demostradas; prueba hipótesis inciertas con referencia inicial, sin presentarlas como causas probadas.",
+          "La ficha es un registro manual. No consulta modelos, rastrea webs ni calcula puntuaciones propietarias. Si necesitas implementación, distingue auditoría y trabajo continuo de SEO y búsqueda con IA y acuerda el alcance aparte."
+        ],
+        "links": [
+          {
+            "href": "/services/generative-engine-optimization/",
+            "label": "Consulta el servicio de búsqueda con IA"
+          },
+          {
+            "href": "/guides/aeo-agency-pricing/",
+            "label": "Revisa alcance y costes de AEO"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué debe medir una auditoría AEO?",
+        "answer": "Preguntas de compra cubiertas, menciones observadas, URL citadas, precisión y disponibilidad de fuentes, además de requisitos de búsqueda, referencias de IA y reservas nuevas reales. Separa cada medida y su cobertura."
+      },
+      {
+        "question": "¿Qué diferencia hay con una auditoría de visibilidad en IA?",
+        "answer": "Los nombres se solapan. Define alcance real: motores, prompts, idiomas, inspección de fuentes, revisión técnica y conciliación de resultados. La etiqueta no explica qué pruebas se recogen."
+      },
+      {
+        "question": "¿Google exige marcado especial o llms.txt?",
+        "answer": "La documentación citada dice que no exige marcado ni archivo de IA especial. Siguen siendo pertinentes las bases SEO y las páginas indexadas aptas para fragmentos. No garantiza inclusión ni citas."
+      },
+      {
+        "question": "¿Cómo comparar dos auditorías con rigor?",
+        "answer": "Usa las mismas preguntas, motores, versiones visibles, idiomas y contexto conocido, con fechas y cobertura registradas. Señala ajustes y paneles no disponibles; la variabilidad sigue limitando conclusiones causales."
+      }
+    ],
+    "related": [
+      "/services/generative-engine-optimization/",
+      "/guides/b2b-seo-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Google Search Central: funciones de IA y tu web",
+        "href": "https://developers.google.com/search/docs/appearance/ai-features"
+      },
+      {
+        "label": "HubSpot: auditoría AEO",
+        "href": "https://blog.hubspot.com/marketing/aeo-audit"
+      },
+      {
+        "label": "Nextiny: cómo realizar una auditoría AEO",
+        "href": "https://blog.nextinymarketing.com/how-to-run-an-aeo-audit-see-how-ai-understands-your-company"
+      },
+      {
+        "label": "Ahrefs: auditoría de visibilidad en IA",
+        "href": "https://ahrefs.com/blog/ai-visibility-audit/"
+      },
+      {
+        "label": "Política editorial de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 de octubre de 2026",
+    "sourceMethodology": "Google respalda la orientación técnica; los artículos informan la comparación de métodos. La ficha es una ayuda de planificación. Las respuestas son inventadas. No se afirma un benchmark de modelos, una puntuación de mercado ni causalidad sobre reservas.",
+    "decisionGuide": {
+      "heading": "Elige una acción que las pruebas puedan respaldar",
+      "body": [
+        "Conserva prompts fechados y un registro. Mejora respuestas útiles, precisión y acceso; evalúa resultados comerciales por separado."
+      ],
+      "items": [
+        "Corrige errores factuales demostrados.",
+        "Mantén como no evaluables los paneles desconocidos.",
+        "Compara condiciones equivalentes.",
+        "Valida cambios y revisa cohortes maduras de visitas y reservas."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Usar la ficha de pruebas AEO",
+      "eyebrow": "Registro manual privado",
+      "heading": "Anota la respuesta y los límites observados",
+      "intro": "Registra tres observaciones manuales con prompts públicos y referencias neutras, sin datos confidenciales. El resumen cuenta entradas, no califica visibilidad.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Pregunta",
+          "body": "Registra prompt exacto y finalidad de compra."
+        },
+        {
+          "label": "2",
+          "heading": "Condiciones",
+          "body": "Incluye motor, modelo visible, fecha, idioma y contexto."
+        },
+        {
+          "label": "3",
+          "heading": "Pruebas",
+          "body": "Separa mención, cita exacta, panel ausente y próxima comprobación."
+        }
+      ],
+      "note": "Los datos permanecen en esta página y se borran al recargar. No se consultan modelos ni se rastrea, sube o envía nada. El ejemplo es ficticio y no establece posiciones en IA."
+    },
+    "worksheet": {
+      "fields": [
+        "Pregunta de compra / prompt público exacto",
+        "Motor, modelo visible, fecha, idioma y contexto",
+        "Mención, URL citadas, errores y límites del panel",
+        "Acción siguiente, responsable y fecha"
+      ],
+      "sample": [
+        "Prompt ficticio: ¿qué incluye una campaña gestionada?",
+        "Motor inventado; modelo desconocido; español; contexto limpio",
+        "Mención inventada; panel ausente; citas no evaluables",
+        "Comprobar hechos del servicio; repetir en condiciones equivalentes"
+      ]
+    }
+  },
+  "ca": {
+    "path": "/guides/aeo-audit/",
+    "serviceFamily": "inbound",
+    "title": "Auditoria AEO B2B: evidències i visibilitat en IA | Beespoke",
+    "description": "Revisa mencions, cites exactes, precisió i visites des de cerques amb IA. Inclou un mètode manual repetible i una fitxa privada d’evidències.",
+    "eyebrow": "Revisió de cerca amb IA basada en evidències",
+    "h1": "Auditoria AEO B2B: mesura amb evidències la visibilitat en cerques amb IA",
+    "answer": "Una auditoria AEO examina com els motors de resposta descriuen l’empresa, quines pàgines citen i si les visites rellevants es converteixen en converses reals. Parteix de preguntes de compra i un registre repetible. Separa mencions de marca, cites d’URL, sessions de referència i reserves. Anota model, data i condicions; una evidència absent és no avaluable, no zero. L’auditoria orienta millores, però no garanteix aparèixer en una resposta.",
+    "heroSecondary": {
+      "label": "Utilitza la fitxa d’evidències AEO",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Defineix preguntes de compra i límits de l’auditoria",
+        "body": [
+          "Tria preguntes prèvies a contractar: què inclou el servei, a qui serveix, com comparar enfocaments i quines evidències demanar. Inclou preguntes sense marca i sobre la marca. Separa comprovació d’exactitud de marca i descobriment sense marca.",
+          "Fixa un conjunt de prompts per mercat i idioma. Anota text exacte i utilitat comercial. Moltes variants gairebé iguals poden aparentar precisió sense cobrir decisions diferents. No introdueixis informació privada de clients, prospectes o comptes en un model públic."
+        ]
+      },
+      {
+        "heading": "Fes reproduïble cada observació",
+        "body": [
+          "Registra motor i model o versió visibles, data i hora, idioma, ubicació coneguda, sessió iniciada o context net, prompt exacte i disponibilitat de navegació o fonts. Conserva un extracte breu o referència quan pertoqui. Si un ajust no es revela, escriu desconegut.",
+          "Personalització, canvis de model i variabilitat limiten la comparació. Repeteix preguntes en condicions equivalents i dates documentades; una resposta personalitzada i una sessió neta no permeten suposar que només ha canviat la pàgina. L’observació manual és una mostra, no un cens de cerques amb IA."
+        ],
+        "items": [
+          "Anota si apareix la marca i què se’n diu.",
+          "Registra cada URL citada i verifica si sosté l’afirmació.",
+          "Separa disponibilitat del panell de fonts i presència de cites.",
+          "Registra errors, afirmacions sense suport i evidències inaccessibles sense omplir buits per inferència."
+        ]
+      },
+      {
+        "heading": "Separa mencions, cites, referències i reserves",
+        "body": [
+          "Una menció anomena l’empresa. Una cita enllaça una URL concreta. Una referència és una visita observada des d’una font d’IA. Una reserva real requereix evidències independents del sistema de cites. Cap etapa demostra la següent."
+        ],
+        "table": {
+          "caption": "Definicions d’evidència AEO",
+          "headers": [
+            "Mesura",
+            "Què registrar",
+            "Què no demostra"
+          ],
+          "rows": [
+            [
+              "Menció",
+              "Nom i afirmació observats a la mostra",
+              "Enllaç, recomanació o visita"
+            ],
+            [
+              "Cita d’URL",
+              "URL i afirmació que sosté",
+              "Trànsit, aval o reserva nova"
+            ],
+            [
+              "Referència d’IA",
+              "Sessió o entrada amb font i límits de cobertura",
+              "Que un prompt concret hagi causat la visita"
+            ],
+            [
+              "Reserva nova del web",
+              "Creació original, font conciliada i entrada coneguda",
+              "Que es conegui tota exposició prèvia a IA"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Comprova precisió i requisits habituals de cerca",
+        "body": [
+          "Revisa serveis, dades d’organització, autoria, dates i idiomes. La pàgina ha de respondre clarament, aportar ajuda original i separar fets aprovats d’exemples. El contingut exacte i les dades estructurades coherents faciliten la comprensió, però no obliguen a citar.",
+          "La documentació de Google sobre funcions d’IA manté les bases habituals de SEO. Les pàgines de suport han d’estar indexades i ser aptes per aparèixer amb un fragment. No s’exigeix fitxer d’IA ni marcatge especial. Revisa accés, indexabilitat, canòniques i descobriment intern abans d’afegir fitxers especulatius.",
+          "Ser rastrejable no prova indexació; estar indexat no prova una cita. No bloquegis accés útil com a tàctica no comprovada ni tractis llms.txt com un interruptor de posicionament."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Comprova les bases tècniques i de cerca"
+          }
+        ]
+      },
+      {
+        "heading": "Revisa mancances i fonts competidores amb cura",
+        "body": [
+          "Inspecciona les pàgines realment citades quan hi hagi enllaços. Anota quina decisió ajuden a prendre, les evidències i què falta a la teva pàgina. Que aparegui un competidor no demostra per què hi apareix. Un panell no disponible no demostra absència de cites.",
+          "Millora la pàgina existent quan respongui bé: abast, respostes directes, responsabilitats, distincions documentades i exemples útils. Crea URL només per a una funció de compra diferent. No copiïs fonts, inventis casos ni afegeixis afirmacions àmplies per assemblar-te a la resposta observada."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Decideix si millorar o crear una pàgina"
+          }
+        ]
+      },
+      {
+        "heading": "Utilitza una observació fictícia per triar la pròxima comprovació",
+        "body": [
+          "L’exemple és inventat. Il·lustra límits de cobertura; no és un resultat mesurat ni una afirmació sobre un motor real."
+        ],
+        "table": {
+          "caption": "Observacions AEO fictícies",
+          "headers": [
+            "Pregunta",
+            "Mostra observada",
+            "Desconegut",
+            "Acció"
+          ],
+          "rows": [
+            [
+              "Què inclou una campanya gestionada?",
+              "Resposta inventada esmenta l’empresa; panell no disponible",
+              "Cites exactes i visites resultants",
+              "Marcar cites no avaluables; comprovar fets del servei"
+            ],
+            [
+              "Com comparar auditories?",
+              "Panell inventat cita una guia amb responsabilitats",
+              "Si la cita va produir una reserva",
+              "Revisar ajuda pràctica; mesurar resultats a part"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Connecta visibilitat en IA i registre de captació",
+        "body": [
+          "Utilitza analítica amb fonts i registres originals de reserves per distingir trucades noves captades pel web de trucades iniciades per outreach que després visiten el lloc. Conserva entrades i identificadors només amb accés i finalitat adequats. Una visita Direct sense font no es pot assignar a IA; una reserva des de ChatGPT no fixa una taxa de conversió.",
+          "Exclou proves internes identificades i conserva buits d’atribució. Compara períodes equivalents i cohorts madures, amb cancel·lacions, trucades celebrades i qualificació. Informa de cobertura juntament amb qualsevol percentatge de respostes; la mostra no representa tot el mercat."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Concilia l’embut de captació complet"
+          }
+        ]
+      },
+      {
+        "heading": "Acaba amb un pla delimitat",
+        "body": [
+          "Ordena accions per risc factual demostrat, valor per al comprador, solidesa d’evidències, esforç i dependències. Identifica pàgina, canvi exacte, responsable i pròxima observació. Corregeix afirmacions falses demostrades; prova hipòtesis incertes amb referència inicial, sense presentar-les com a causes provades.",
+          "La fitxa és un registre manual. No consulta models, rastreja webs ni calcula puntuacions propietàries. Si necessites implementació, diferencia auditoria i feina continuada de SEO i cerca amb IA i acorda’n l’abast a part."
+        ],
+        "links": [
+          {
+            "href": "/services/generative-engine-optimization/",
+            "label": "Consulta el servei de cerca amb IA"
+          },
+          {
+            "href": "/guides/aeo-agency-pricing/",
+            "label": "Revisa abast i costos d’AEO"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Què ha de mesurar una auditoria AEO?",
+        "answer": "Preguntes de compra cobertes, mencions observades, URL citades, precisió i disponibilitat de fonts, a més de requisits de cerca, referències d’IA i reserves noves reals. Separa cada mesura i la cobertura."
+      },
+      {
+        "question": "Quina diferència hi ha amb una auditoria de visibilitat en IA?",
+        "answer": "Els noms se solapen. Defineix l’abast real: motors, prompts, idiomes, inspecció de fonts, revisió tècnica i conciliació de resultats. L’etiqueta no explica quines evidències es recullen."
+      },
+      {
+        "question": "Google exigeix marcatge especial o llms.txt?",
+        "answer": "La documentació citada diu que no exigeix marcatge ni fitxer d’IA especial. Continuen sent pertinents les bases SEO i les pàgines indexades aptes per a fragments. No garanteix inclusió ni cites."
+      },
+      {
+        "question": "Com comparar dues auditories amb rigor?",
+        "answer": "Utilitza les mateixes preguntes, motors, versions visibles, idiomes i context conegut, amb dates i cobertura registrades. Assenyala ajustos i panells no disponibles; la variabilitat continua limitant conclusions causals."
+      }
+    ],
+    "related": [
+      "/services/generative-engine-optimization/",
+      "/guides/b2b-seo-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Google Search Central: funcions d’IA i el teu web",
+        "href": "https://developers.google.com/search/docs/appearance/ai-features"
+      },
+      {
+        "label": "HubSpot: auditoria AEO",
+        "href": "https://blog.hubspot.com/marketing/aeo-audit"
+      },
+      {
+        "label": "Nextiny: com fer una auditoria AEO",
+        "href": "https://blog.nextinymarketing.com/how-to-run-an-aeo-audit-see-how-ai-understands-your-company"
+      },
+      {
+        "label": "Ahrefs: auditoria de visibilitat en IA",
+        "href": "https://ahrefs.com/blog/ai-visibility-audit/"
+      },
+      {
+        "label": "Política editorial de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 d’octubre de 2026",
+    "sourceMethodology": "Google sosté l’orientació tècnica; els articles informen la comparació de mètodes. La fitxa és una ajuda de planificació. Les respostes són inventades. No s’afirma cap benchmark de models, puntuació de mercat ni causalitat sobre reserves.",
+    "decisionGuide": {
+      "heading": "Tria una acció que les evidències puguin sostenir",
+      "body": [
+        "Conserva prompts datats i un registre. Millora respostes útils, precisió i accés; avalua resultats comercials per separat."
+      ],
+      "items": [
+        "Corregeix errors factuals demostrats.",
+        "Mantén com a no avaluables els panells desconeguts.",
+        "Compara condicions equivalents.",
+        "Valida canvis i revisa cohorts madures de visites i reserves."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utilitza la fitxa d’evidències AEO",
+      "eyebrow": "Registre manual privat",
+      "heading": "Anota la resposta i els límits observats",
+      "intro": "Registra tres observacions manuals amb prompts públics i referències neutres, sense dades confidencials. El resum compta entrades, no qualifica visibilitat.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Pregunta",
+          "body": "Registra prompt exacte i finalitat de compra."
+        },
+        {
+          "label": "2",
+          "heading": "Condicions",
+          "body": "Inclou motor, model visible, data, idioma i context."
+        },
+        {
+          "label": "3",
+          "heading": "Evidències",
+          "body": "Separa menció, cita exacta, panell absent i pròxima comprovació."
+        }
+      ],
+      "note": "Les dades romanen en aquesta pàgina i s’esborren en recarregar. No es consulten models ni es rastreja, puja o envia res. L’exemple és fictici i no estableix posicions en IA."
+    },
+    "worksheet": {
+      "fields": [
+        "Pregunta de compra / prompt públic exacte",
+        "Motor, model visible, data, idioma i context",
+        "Menció, URL citades, errors i límits del panell",
+        "Acció següent, responsable i data"
+      ],
+      "sample": [
+        "Prompt fictici: què inclou una campanya gestionada?",
+        "Motor inventat; model desconegut; català; context net",
+        "Menció inventada; panell absent; cites no avaluables",
+        "Comprovar fets del servei; repetir en condicions equivalents"
+      ]
+    }
+  },
+  "fr": {
+    "path": "/guides/aeo-audit/",
+    "serviceFamily": "inbound",
+    "title": "Audit AEO B2B : preuves et visibilité dans l’IA | Beespoke",
+    "description": "Examinez mentions, citations exactes, exactitude et visites issues des recherches avec IA. Méthode manuelle reproductible et fiche privée de preuves.",
+    "eyebrow": "Revue de recherche avec IA fondée sur les preuves",
+    "h1": "Audit AEO B2B : mesurer sa visibilité dans les recherches avec IA à partir de preuves",
+    "answer": "Un audit AEO examine comment les moteurs de réponse décrivent votre entreprise, quelles pages ils citent et si les visites pertinentes deviennent de vraies conversations. Partez de questions d’achat et d’un journal reproductible. Séparez mentions de marque, citations d’URL, sessions référentes et réservations. Notez modèle, date et conditions ; une preuve absente est non évaluable, pas nulle. L’audit oriente les améliorations, sans garantir une présence dans les réponses.",
+    "heroSecondary": {
+      "label": "Utiliser la fiche de preuves AEO",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Définir les questions d’achat et les limites de l’audit",
+        "body": [
+          "Choisissez des questions précédant un achat : contenu du service, public adapté, comparaison des approches et preuves à demander. Incluez des questions sans marque et sur votre marque. Séparez contrôle d’exactitude de la marque et découverte sans marque.",
+          "Fixez un ensemble de prompts par marché et langue. Notez le texte exact et son utilité commerciale. De nombreuses variantes presque identiques peuvent donner une précision trompeuse sans couvrir des décisions différentes. Ne saisissez pas d’informations privées sur clients, prospects ou comptes dans un modèle public."
+        ]
+      },
+      {
+        "heading": "Rendre chaque observation reproductible",
+        "body": [
+          "Notez moteur et modèle ou version visibles, horodatage, langue, lieu connu, connexion ou contexte vierge, prompt exact et disponibilité de navigation ou de sources. Conservez un court extrait ou une référence si pertinent. Si un réglage n’est pas révélé, écrivez inconnu.",
+          "Personnalisation, mises à jour des modèles et variabilité limitent les comparaisons. Répétez les questions dans des conditions équivalentes et à des dates documentées ; une réponse personnalisée et une session vierge ne permettent pas de supposer que seule votre page a changé. L’observation manuelle est un échantillon, pas un recensement des recherches avec IA."
+        ],
+        "items": [
+          "Notez si la marque apparaît et ce qui en est dit.",
+          "Consignez chaque URL citée et vérifiez si elle étaye l’affirmation associée.",
+          "Séparez disponibilité du panneau de sources et présence de citations.",
+          "Notez erreurs, affirmations non étayées et preuves inaccessibles sans combler les lacunes par déduction."
+        ]
+      },
+      {
+        "heading": "Séparer mentions, citations, visites référentes et réservations",
+        "body": [
+          "Une mention nomme l’entreprise. Une citation renvoie à une URL précise. Une visite référente est observée depuis une source d’IA. Une vraie réservation demande une preuve distincte du système de rendez-vous. Aucune étape ne démontre la suivante."
+        ],
+        "table": {
+          "caption": "Définitions des preuves AEO",
+          "headers": [
+            "Mesure",
+            "Élément à noter",
+            "Ce qu’il ne prouve pas"
+          ],
+          "rows": [
+            [
+              "Mention",
+              "Nom et affirmation observés dans l’échantillon",
+              "Lien, recommandation ou visite"
+            ],
+            [
+              "Citation d’URL",
+              "URL et affirmation qu’elle étaye",
+              "Trafic, approbation ou nouvelle réservation"
+            ],
+            [
+              "Visite issue d’IA",
+              "Session ou entrée avec source et limites de couverture",
+              "Qu’un prompt précis ait causé la visite"
+            ],
+            [
+              "Nouvelle réservation du site",
+              "Création initiale, source rapprochée et entrée connue",
+              "Que toute exposition préalable à l’IA soit connue"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Vérifier l’exactitude et les conditions habituelles de recherche",
+        "body": [
+          "Relisez services, faits sur l’entreprise, auteurs, dates et langues. La page doit répondre clairement, apporter une aide originale et séparer faits approuvés et exemples. Un contenu exact et des données structurées cohérentes facilitent la compréhension, sans obliger un moteur à citer.",
+          "La documentation de Google sur les fonctions d’IA maintient les bases habituelles du SEO. Les pages d’appui doivent être indexées et susceptibles d’apparaître avec un extrait. Aucun fichier d’IA ni balisage particulier n’est exigé. Vérifiez accès, indexabilité, canoniques et découverte interne avant d’ajouter des fichiers spéculatifs.",
+          "Être explorable ne prouve pas l’indexation ; être indexé ne prouve pas une citation. Ne bloquez pas un accès utile comme tactique non vérifiée et ne traitez pas llms.txt comme un interrupteur de classement."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Vérifier les bases techniques et de recherche"
+          }
+        ]
+      },
+      {
+        "heading": "Examiner les lacunes et les sources concurrentes avec prudence",
+        "body": [
+          "Inspectez les pages réellement citées lorsque les liens sont disponibles. Notez la décision qu’elles facilitent, leurs preuves et ce qui manque à votre page. La présence d’un concurrent ne démontre pas sa cause. Un panneau indisponible ne prouve pas l’absence de citations.",
+          "Améliorez la page existante si elle peut bien répondre : périmètre, réponses directes, responsabilités, distinctions documentées et exemples utiles. Créez une URL seulement pour un rôle d’achat distinct. Ne copiez pas les sources, n’inventez pas de cas et n’ajoutez pas d’affirmations générales pour ressembler à une réponse observée."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Décider s’il faut améliorer ou créer une page"
+          }
+        ]
+      },
+      {
+        "heading": "Utiliser une observation fictive pour choisir le prochain contrôle",
+        "body": [
+          "Cet exemple est inventé. Il illustre des limites de couverture ; ce n’est ni un résultat mesuré ni une affirmation sur un moteur réel."
+        ],
+        "table": {
+          "caption": "Observations AEO fictives",
+          "headers": [
+            "Question",
+            "Échantillon observé",
+            "Inconnue",
+            "Action"
+          ],
+          "rows": [
+            [
+              "Que comprend une campagne gérée ?",
+              "Réponse inventée mentionnant l’entreprise ; panneau indisponible",
+              "Citations exactes et visites ultérieures",
+              "Noter les citations non évaluables ; vérifier les faits du service"
+            ],
+            [
+              "Comment comparer des audits ?",
+              "Panneau inventé citant un guide avec responsabilités",
+              "Si la citation a produit une réservation",
+              "Examiner l’aide pratique ; mesurer les résultats séparément"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Relier la visibilité dans l’IA au registre d’acquisition",
+        "body": [
+          "Utilisez l’analytique avec sources et les réservations originales pour distinguer nouveaux appels acquis par le site et appels initiés par prospection puis passés sur le site. Conservez pages d’entrée et identifiants seulement avec les accès et finalités nécessaires. Une visite Direct sans source ne peut être attribuée à l’IA ; une réservation depuis ChatGPT ne fixe pas un taux de conversion.",
+          "Excluez les tests internes identifiés et conservez les lacunes d’attribution. Comparez périodes équivalentes et cohortes mûres, avec annulations, appels tenus et qualification. Publiez la couverture avec tout pourcentage de réponses ; l’échantillon ne représente pas l’ensemble du marché."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Rapprocher l’ensemble du parcours d’acquisition"
+          }
+        ]
+      },
+      {
+        "heading": "Terminer par un plan délimité",
+        "body": [
+          "Classez les actions selon risque factuel démontré, valeur pour l’acheteur, solidité des preuves, effort et dépendances. Nommez page, changement exact, responsable et prochaine observation. Corrigez les affirmations fausses démontrées ; testez les hypothèses incertaines avec une référence initiale, sans les présenter comme causes établies.",
+          "La fiche est un journal manuel. Elle n’interroge aucun modèle, n’explore aucun site et ne calcule aucun score propriétaire. Si vous cherchez une mise en œuvre, distinguez audit et travail continu de SEO et de recherche avec IA et convenez du périmètre séparément."
+        ],
+        "links": [
+          {
+            "href": "/services/generative-engine-optimization/",
+            "label": "Consulter le service de recherche avec IA"
+          },
+          {
+            "href": "/guides/aeo-agency-pricing/",
+            "label": "Examiner périmètre et coûts de l’AEO"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Que doit mesurer un audit AEO ?",
+        "answer": "Questions d’achat couvertes, mentions observées, URL citées, exactitude et disponibilité des sources, plus conditions de recherche, visites référentes d’IA et nouvelles réservations réelles. Séparez chaque mesure et sa couverture."
+      },
+      {
+        "question": "Quelle différence avec un audit de visibilité dans l’IA ?",
+        "answer": "Les noms se recoupent. Définissez le périmètre réel : moteurs, prompts, langues, inspection des sources, revue technique et rapprochement des résultats. L’étiquette n’explique pas les preuves recueillies."
+      },
+      {
+        "question": "Google exige-t-il un balisage spécial ou llms.txt ?",
+        "answer": "La documentation citée n’exige ni balisage ni fichier d’IA spécial. Les bases SEO et les pages indexées pouvant afficher un extrait restent pertinentes. Cela ne garantit ni présence ni citations."
+      },
+      {
+        "question": "Comment comparer deux audits rigoureusement ?",
+        "answer": "Utilisez les mêmes questions, moteurs, versions visibles, langues et contexte connu, avec dates et couverture consignées. Signalez réglages et panneaux indisponibles ; la variabilité limite encore les conclusions causales."
+      }
+    ],
+    "related": [
+      "/services/generative-engine-optimization/",
+      "/guides/b2b-seo-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Google Search Central : fonctions d’IA et votre site",
+        "href": "https://developers.google.com/search/docs/appearance/ai-features"
+      },
+      {
+        "label": "HubSpot : audit AEO",
+        "href": "https://blog.hubspot.com/marketing/aeo-audit"
+      },
+      {
+        "label": "Nextiny : réaliser un audit AEO",
+        "href": "https://blog.nextinymarketing.com/how-to-run-an-aeo-audit-see-how-ai-understands-your-company"
+      },
+      {
+        "label": "Ahrefs : audit de visibilité dans l’IA",
+        "href": "https://ahrefs.com/blog/ai-visibility-audit/"
+      },
+      {
+        "label": "Politique éditoriale de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 octobre 2026",
+    "sourceMethodology": "Google étaye les indications techniques ; les articles éclairent la comparaison des méthodes. La fiche est une aide de préparation. Les réponses sont inventées. Aucun benchmark de modèles, score de marché ou effet causal sur les réservations n’est revendiqué.",
+    "decisionGuide": {
+      "heading": "Choisir une action que les preuves peuvent soutenir",
+      "body": [
+        "Conservez des prompts datés et un journal. Améliorez réponses utiles, exactitude et accès ; évaluez les résultats commerciaux séparément."
+      ],
+      "items": [
+        "Corrigez les erreurs factuelles démontrées.",
+        "Gardez les panneaux inconnus non évaluables.",
+        "Comparez des conditions équivalentes.",
+        "Validez les changements et examinez des cohortes mûres de visites et réservations."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utiliser la fiche de preuves AEO",
+      "eyebrow": "Journal manuel privé",
+      "heading": "Noter la réponse et les limites observées",
+      "intro": "Consignez trois observations manuelles avec prompts publics et références neutres, sans données confidentielles. Le résumé compte les entrées, pas la visibilité.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Question",
+          "body": "Notez prompt exact et objectif d’achat."
+        },
+        {
+          "label": "2",
+          "heading": "Conditions",
+          "body": "Incluez moteur, modèle visible, date, langue et contexte."
+        },
+        {
+          "label": "3",
+          "heading": "Preuves",
+          "body": "Séparez mention, citation exacte, panneau absent et prochain contrôle."
+        }
+      ],
+      "note": "Les données restent sur cette page et disparaissent au rechargement. Aucun modèle, crawl, envoi ou téléversement n’est lancé. L’exemple est fictif et n’établit aucun classement dans l’IA."
+    },
+    "worksheet": {
+      "fields": [
+        "Question d’achat / prompt public exact",
+        "Moteur, modèle visible, date, langue et contexte",
+        "Mention, URL citées, erreurs et limites du panneau",
+        "Action suivante, responsable et date"
+      ],
+      "sample": [
+        "Prompt fictif : que comprend une campagne gérée ?",
+        "Moteur inventé ; modèle inconnu ; français ; contexte vierge",
+        "Mention inventée ; panneau absent ; citations non évaluables",
+        "Vérifier les faits du service ; répéter dans des conditions équivalentes"
+      ]
+    }
+  }
+}

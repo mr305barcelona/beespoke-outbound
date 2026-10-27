@@ -1,0 +1,850 @@
+{
+  "en": {
+    "path": "/guides/b2b-seo-audit/",
+    "serviceFamily": "inbound",
+    "title": "B2B SEO Audit: Checklist, Evidence & Priorities | Beespoke",
+    "description": "Find what stops relevant B2B buyers discovering and using your pages. Use a technical and content checklist, a fictional work queue and a private audit worksheet.",
+    "eyebrow": "B2B search diagnosis",
+    "h1": "B2B SEO audit: find and prioritize what blocks qualified demand",
+    "answer": "A B2B SEO audit checks whether search engines can discover the right pages, whether those pages answer real buying questions, and whether visitors can progress toward a relevant conversation. Combine technical checks, page-level search evidence, content quality and source-aware conversion measurement. The deliverable is a prioritized work queue with evidence, an owner and a verification date—not an unexplained health score.",
+    "heroSecondary": {
+      "label": "Use the SEO audit worksheet",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Start with the business question and a page inventory",
+        "body": [
+          "Write down the offer, buying roles, markets and languages before opening a crawler. A page can attract many visits from people who will never buy your service. Agree which buyer questions the website should answer and what a useful next step looks like.",
+          "Inventory canonical public URLs, their purpose, language, linked service and most recent substantive change. Keep service pages, evaluation guides, pricing explanations and customer evidence as separate cohorts. Compare equivalent dates and search surfaces; annotate launches, migrations and changes to tracking. A newly published page needs discovery and time before its performance can be judged."
+        ]
+      },
+      {
+        "heading": "Check discovery, indexability and the selected canonical",
+        "body": [
+          "Sample important templates and every business-critical URL. Inspect the response status, redirects, robots rules, meta robots, canonical, sitemap inclusion and internal links. Search Console can distinguish discovery, crawling and indexing; an accepted sitemap submission establishes none of the later stages by itself.",
+          "Compare the declared canonical with Google’s selected canonical where that information is available. A real duplicate, blocked response or inaccessible stylesheet calls for a specific repair. “Discovered, not indexed” calls for investigation of quality, duplication, linking and crawl evidence; it does not automatically justify deleting the page."
+        ],
+        "items": [
+          "Check that the final HTTPS URL loads useful HTML and required assets.",
+          "Test reciprocal language alternatives, self-referencing canonicals and relevant links within each language.",
+          "Record the affected URL, observed response, date and reproduction steps. Retest the same failure after repair."
+        ]
+      },
+      {
+        "heading": "Assign buyer questions before changing titles or content",
+        "body": [
+          "Use page-filtered Search Console queries to see what Google currently associates with a URL. Record impressions, clicks, CTR and position with the date range, country, device and row coverage. Position is an average across different searches; it is not a single stable rank. Missing query rows are unknown, not proof that nobody searched.",
+          "For a page losing clicks, separate lost impressions from changes in CTR. Check which queries and countries changed, whether the average position moved and whether the results page now serves a different intent. A broader impression mix can reduce aggregate CTR without making every existing query worse. Compare the same query/page cohort before rewriting a successful answer.",
+          "Give each important question a primary page. Improve the title, concise answer, evidence or internal links only where the observed search intent supports it. Similar keywords do not always need new URLs; a genuinely different buying job sometimes does."
+        ]
+      },
+      {
+        "heading": "Review content, proof and the path to a decision",
+        "body": [
+          "Read the page as a potential buyer: does it answer the question quickly, explain limits and help you decide? Check factual accuracy, current service scope, dated sources, concrete examples, responsibilities and the next sensible action. A long article that avoids the decision can still be incomplete.",
+          "Inspect actual competing results for the question, noting their format and useful decision help. Add what the buyer needs that your page lacks; do not copy their claims, fabricate credentials or expand into unrelated subtopics merely to increase word count. Review the whole translated journey, including tools, pricing links and booking handoff."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Use the content audit for portfolio decisions"
+          }
+        ]
+      },
+      {
+        "heading": "Test mobile usability and genuine lead measurement",
+        "body": [
+          "Check navigation, readable headings, tables, contact controls and the booking path on desktop and narrow screens. Diagnose measured loading or interaction problems on representative templates before changing shared styles. Browser zoom and accessibility settings belong to visitors; production CSS should not compensate for a tester’s changed zoom.",
+          "Keep impressions, organic landing sessions, calendar opens, genuine new bookings, calls held and qualified outcomes separate. A confirmation-page visit alone does not prove a booking. Reconcile booking identifiers and original creation dates with the scheduling system where permission and data permit.",
+          "Exclude identified internal and audit visits before interpreting traffic growth. Preserve unknown attribution rather than classifying all Direct traffic as testing. When the cohort or source coverage is incomplete, report the limitation instead of calculating a confident conversion forecast."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Diagnose the wider acquisition funnel"
+          }
+        ]
+      },
+      {
+        "heading": "Prioritize an evidence-backed work queue",
+        "body": [
+          "Fix confirmed access or booking failures on important pages before cosmetic changes. Next, address demonstrated intent gaps and internal journeys. Treat uncertain explanations as tests with a baseline, owner, expected observation and review date. Estimate effort and dependencies separately from potential buyer value.",
+          "The following queue is fictional. Its order follows the specific evidence described; it is not a universal SEO ranking formula."
+        ],
+        "table": {
+          "caption": "Fictional three-page audit queue",
+          "headers": [
+            "Page",
+            "Evidence",
+            "Decision",
+            "Verification"
+          ],
+          "rows": [
+            [
+              "Core service",
+              "Returns a server error in the observed test",
+              "Repair access first; preserve content",
+              "Retest response, HTML and assets"
+            ],
+            [
+              "Buyer guide",
+              "Relevant queries appear; answer omits buyer responsibilities",
+              "Add a scoped responsibility section",
+              "Check copy and later matched-query results"
+            ],
+            [
+              "New language page",
+              "Recently published; no crawl evidence yet",
+              "Check discovery and links; retain page",
+              "Review crawl/index state after a recorded interval"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Know what a useful agency audit should deliver",
+        "body": [
+          "Ask for a reproducible URL-level issue register, the data period, access limitations and a clear distinction between confirmed failures and hypotheses. Each recommendation should name the proposed change, responsible person and how success will be checked. A checklist export without interpretation leaves prioritization with you.",
+          "An audit does not establish that implementation is included. Confirm who changes code or content, who approves commercial claims, and who validates the live release. If you need ongoing implementation, discuss that scope separately. No responsible audit can guarantee a number-one position or a fixed number of meetings."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Review Beespoke’s managed B2B SEO service"
+          },
+          {
+            "href": "/compare/b2b-seo-vs-ppc/",
+            "label": "Compare SEO and paid search for the next test"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What should a B2B SEO audit include?",
+        "answer": "A defined buyer and page inventory, crawl and index checks, page/query evidence, content and proof review, internal journeys, mobile usability and source-aware lead measurement. Its output should be a prioritized action register with owners and verification steps."
+      },
+      {
+        "question": "Is an SEO audit the same as a content audit?",
+        "answer": "They overlap. An SEO audit diagnoses search discovery and performance across technical and content factors. A content audit decides what the existing portfolio should keep, improve, combine or retire and where a new page is justified."
+      },
+      {
+        "question": "How often should we repeat the audit?",
+        "answer": "Review critical access and measurement after meaningful releases. Revisit the wider diagnosis after substantial site changes or when sufficiently mature page/query evidence changes. Use comparable periods rather than repeatedly reacting to daily noise."
+      },
+      {
+        "question": "Will fixing every issue guarantee higher rankings?",
+        "answer": "No. Fixes can remove barriers and improve usefulness, but demand, competition, search presentation and evaluation change. Record what changed and assess mature query-level exposure and genuine business outcomes."
+      }
+    ],
+    "related": [
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-content-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Definition: B2B SEO audit service scope",
+        "href": "https://comms.thisisdefinition.com/services/b2b-seo/seo-audit"
+      },
+      {
+        "label": "Windmill Strategy: basic B2B SEO audit",
+        "href": "https://www.windmillstrategy.com/how-to-conduct-a-basic-b2b-seo-audit/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "October 27, 2026",
+    "sourceMethodology": "The provider sources inform the scope comparison; they do not validate Beespoke results. The checklist and worksheet are Beespoke planning methods. All queue examples are invented. Search exposure and booking outcomes must be measured separately.",
+    "decisionGuide": {
+      "heading": "Choose the next fix by evidence and buyer impact",
+      "body": [
+        "Leave with a short work queue, not a large unranked export. Preserve working URLs and recent improvements while testing the specific constraint."
+      ],
+      "items": [
+        "Name the affected page and buying question.",
+        "Keep observed facts, inferences and missing evidence distinct.",
+        "Assign an owner and a verification date.",
+        "Review mature search and booking cohorts before expanding the change."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Use the SEO audit worksheet",
+      "eyebrow": "Private planning worksheet",
+      "heading": "Turn a finding into a verifiable action",
+      "intro": "Record three findings below. Use a page path and evidence reference, not private customer or account data. The summary counts your entries; it does not score your website.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidence",
+          "body": "Record the URL, dated observation and affected buyer question."
+        },
+        {
+          "label": "2",
+          "heading": "Decision",
+          "body": "Describe the smallest useful repair or test, with dependencies."
+        },
+        {
+          "label": "3",
+          "heading": "Verification",
+          "body": "Name the owner and the next check; keep unknowns explicit."
+        }
+      ],
+      "note": "Inputs stay on this page and are cleared by a refresh. The example is fictional. No automated crawl, grading, submission or ranking prediction is performed."
+    },
+    "worksheet": {
+      "fields": [
+        "Page or buyer question",
+        "Dated evidence / missing evidence",
+        "Proposed action",
+        "Owner and verification date"
+      ],
+      "sample": [
+        "/services/example/",
+        "Fictional: observed server error on an important service page",
+        "Confirm the response and repair the failing route",
+        "Site owner; retest immediately after repair"
+      ]
+    }
+  },
+  "es": {
+    "path": "/guides/b2b-seo-audit/",
+    "serviceFamily": "inbound",
+    "title": "Auditoría SEO B2B: lista de control y prioridades | Beespoke",
+    "description": "Detecta qué impide que compradores B2B relevantes encuentren y utilicen tus páginas. Incluye comprobaciones, una cola de trabajo ficticia y una ficha privada.",
+    "eyebrow": "Diagnóstico de búsqueda B2B",
+    "h1": "Auditoría SEO B2B: detecta y prioriza lo que frena la demanda cualificada",
+    "answer": "Una auditoría SEO B2B comprueba si los buscadores pueden descubrir las páginas adecuadas, si estas responden a preguntas reales de compra y si facilitan una conversación relevante. Combina revisión técnica, datos de búsqueda por página, calidad del contenido y medición de conversiones con fuentes identificadas. El resultado debe ser una lista de acciones priorizadas, con pruebas, responsable y fecha de verificación; una puntuación sin explicación no basta.",
+    "heroSecondary": {
+      "label": "Usar la ficha de auditoría SEO",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Empieza por el objetivo comercial y el inventario de páginas",
+        "body": [
+          "Define la oferta, los perfiles de compra, los mercados y los idiomas antes de utilizar un rastreador. Una página puede atraer muchas visitas de personas que nunca comprarán el servicio. Acordad qué preguntas debe resolver la web y cuál sería el siguiente paso útil.",
+          "Inventaría las URL públicas canónicas, su función, idioma, servicio relacionado y última modificación sustancial. Separa servicios, guías de evaluación, explicaciones de precios y casos publicados. Compara fechas y superficies de búsqueda equivalentes; anota lanzamientos, migraciones y cambios de medición. Una página nueva necesita tiempo y descubrimiento antes de juzgar su rendimiento."
+        ]
+      },
+      {
+        "heading": "Comprueba descubrimiento, indexabilidad y URL canónica elegida",
+        "body": [
+          "Revisa muestras de las plantillas y todas las URL esenciales para el negocio. Comprueba respuestas, redirecciones, robots, meta robots, canónicas, sitemap y enlaces internos. Search Console distingue descubrimiento, rastreo e indexación; que acepte un sitemap no demuestra los pasos posteriores.",
+          "Compara la canónica declarada con la elegida por Google cuando ese dato esté disponible. Un duplicado real, un bloqueo o una hoja de estilos inaccesible requieren una reparación concreta. «Descubierta, sin indexar» exige investigar calidad, duplicación, enlaces y rastreo; no justifica borrar la página automáticamente."
+        ],
+        "items": [
+          "Comprueba que la URL HTTPS final sirve HTML útil y los recursos necesarios.",
+          "Revisa alternativas de idioma recíprocas, canónicas propias y enlaces pertinentes en cada idioma.",
+          "Anota URL afectada, observación, fecha y pasos de reproducción. Repite la comprobación tras la reparación."
+        ]
+      },
+      {
+        "heading": "Asigna preguntas de compra antes de cambiar títulos o contenido",
+        "body": [
+          "Filtra las consultas de Search Console por página para ver qué búsquedas asocia Google con cada URL. Registra impresiones, clics, CTR y posición junto con periodo, país, dispositivo y cobertura de filas. La posición es una media de búsquedas distintas, no un puesto fijo. Las consultas que faltan son desconocidas, no búsquedas inexistentes.",
+          "Si caen los clics, distingue la pérdida de impresiones del cambio de CTR. Examina qué consultas y países cambiaron, si se movió la posición y si los resultados responden ahora a otra intención. Una mezcla más amplia de impresiones puede reducir el CTR agregado sin empeorar todas las consultas anteriores. Compara la misma cohorte de página y consulta antes de reescribir una respuesta que funciona.",
+          "Asigna una página principal a cada pregunta importante. Mejora título, respuesta, pruebas o enlaces cuando la intención observada lo justifique. Los sinónimos no siempre necesitan URL nuevas; una decisión de compra diferente sí puede necesitarlas."
+        ]
+      },
+      {
+        "heading": "Revisa contenido, pruebas y recorrido de decisión",
+        "body": [
+          "Lee como comprador: ¿la página responde pronto, explica límites y ayuda a decidir? Revisa exactitud, alcance vigente, fuentes fechadas, ejemplos, responsabilidades y siguiente paso. Un artículo extenso que esquiva la decisión puede seguir incompleto.",
+          "Inspecciona los resultados competidores reales y su ayuda práctica. Añade lo que necesita el comprador, sin copiar afirmaciones, inventar credenciales ni introducir temas irrelevantes para alargar el texto. Revisa también herramientas, enlaces de precios y reserva en cada idioma."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Usa la auditoría de contenidos para decidir sobre el conjunto de páginas"
+          }
+        ]
+      },
+      {
+        "heading": "Prueba la experiencia móvil y la medición de oportunidades reales",
+        "body": [
+          "Comprueba navegación, títulos, tablas, controles de contacto y reserva en escritorio y pantallas estrechas. Diagnostica problemas medidos de carga o interacción antes de cambiar estilos compartidos. El zoom y los ajustes de accesibilidad pertenecen al visitante; el CSS no debe compensar el zoom de quien prueba.",
+          "Separa impresiones, sesiones orgánicas de entrada, aperturas de calendario, reservas nuevas reales, llamadas celebradas y resultados cualificados. Visitar una confirmación no demuestra una reserva. Cuando haya permiso y datos, concilia identificadores y fechas originales de creación con el sistema de reservas.",
+          "Excluye visitas internas y de auditoría identificadas antes de interpretar crecimiento. Conserva las fuentes desconocidas; no clasifiques todo el tráfico Direct como pruebas. Si la cohorte o la atribución están incompletas, explica la limitación antes de pronosticar conversiones."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Diagnostica el embudo completo de captación"
+          }
+        ]
+      },
+      {
+        "heading": "Prioriza una cola de trabajo respaldada por pruebas",
+        "body": [
+          "Resuelve primero fallos confirmados de acceso o reserva en páginas importantes. Después aborda carencias demostradas de intención y recorrido. Trata explicaciones inciertas como pruebas, con referencia inicial, responsable, observación esperada y fecha de revisión. Estima esfuerzo y dependencias por separado del valor para el comprador.",
+          "Esta cola es ficticia. Su orden depende de las pruebas descritas, no de una fórmula universal de posicionamiento."
+        ],
+        "table": {
+          "caption": "Cola ficticia de tres páginas",
+          "headers": [
+            "Página",
+            "Prueba",
+            "Decisión",
+            "Verificación"
+          ],
+          "rows": [
+            [
+              "Servicio principal",
+              "Error de servidor observado",
+              "Reparar el acceso; conservar contenido",
+              "Volver a probar respuesta, HTML y recursos"
+            ],
+            [
+              "Guía de compra",
+              "Consultas relevantes; faltan responsabilidades",
+              "Añadir una sección delimitada",
+              "Revisar texto y futuras consultas comparables"
+            ],
+            [
+              "Página nueva en otro idioma",
+              "Publicación reciente; rastreo desconocido",
+              "Comprobar descubrimiento y enlaces; conservar",
+              "Revisar rastreo e indexación tras el plazo anotado"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Qué debe entregar una agencia en una auditoría útil",
+        "body": [
+          "Pide un registro reproducible de problemas por URL, el periodo analizado y las limitaciones de acceso. Debe distinguir fallos confirmados de hipótesis. Cada recomendación necesita cambio propuesto, responsable y criterio de comprobación. Un listado exportado sin interpretación te deja toda la priorización.",
+          "Una auditoría no implica que incluya implementación. Aclara quién modifica código o contenido, quién aprueba afirmaciones comerciales y quién valida la publicación. Si buscas ejecución continua, acuerda ese alcance aparte. Nadie puede garantizar el primer puesto ni un número fijo de reuniones."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Consulta el servicio de SEO B2B gestionado"
+          },
+          {
+            "href": "/compare/b2b-seo-vs-ppc/",
+            "label": "Compara SEO y búsqueda de pago"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué debe incluir una auditoría SEO B2B?",
+        "answer": "Definición del comprador, inventario, comprobaciones de rastreo e indexación, datos por página y consulta, revisión de contenido y pruebas, enlaces, usabilidad móvil y medición de oportunidades con fuentes. Debe terminar en acciones priorizadas con responsables y verificaciones."
+      },
+      {
+        "question": "¿Es lo mismo una auditoría SEO que una de contenidos?",
+        "answer": "Se solapan. La auditoría SEO diagnostica descubrimiento y rendimiento en búsqueda, incluidos factores técnicos y editoriales. La de contenidos decide qué conservar, mejorar, combinar o retirar y cuándo hace falta una página nueva."
+      },
+      {
+        "question": "¿Con qué frecuencia hay que repetirla?",
+        "answer": "Revisa acceso y medición tras publicaciones importantes. Repite el diagnóstico amplio después de cambios sustanciales o cuando cambien datos suficientemente maduros. Usa periodos comparables en vez de reaccionar al ruido diario."
+      },
+      {
+        "question": "¿Corregir todos los problemas garantiza mejores posiciones?",
+        "answer": "No. Las mejoras pueden eliminar barreras y aumentar la utilidad, pero cambian la demanda, la competencia y los resultados de búsqueda. Anota los cambios y evalúa consultas maduras y resultados comerciales reales."
+      }
+    ],
+    "related": [
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-content-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Definition: alcance de una auditoría SEO B2B",
+        "href": "https://comms.thisisdefinition.com/services/b2b-seo/seo-audit"
+      },
+      {
+        "label": "Windmill Strategy: auditoría SEO B2B básica",
+        "href": "https://www.windmillstrategy.com/how-to-conduct-a-basic-b2b-seo-audit/"
+      },
+      {
+        "label": "Política editorial de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 de octubre de 2026",
+    "sourceMethodology": "Las fuentes de proveedores informan la comparación de alcance; no validan resultados de Beespoke. La lista y la ficha son métodos de planificación propios. Todos los ejemplos son inventados. La exposición en búsqueda y las reservas se miden por separado.",
+    "decisionGuide": {
+      "heading": "Elige la siguiente mejora según pruebas e impacto",
+      "body": [
+        "Termina con una cola breve y ordenada. Conserva las URL que funcionan y las mejoras recientes mientras pruebas el obstáculo concreto."
+      ],
+      "items": [
+        "Identifica página y pregunta de compra.",
+        "Distingue observaciones, inferencias y datos ausentes.",
+        "Asigna responsable y fecha de verificación.",
+        "Revisa cohortes maduras antes de ampliar el cambio."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Usar la ficha de auditoría SEO",
+      "eyebrow": "Ficha privada de planificación",
+      "heading": "Convierte un hallazgo en una acción verificable",
+      "intro": "Registra tres hallazgos. Usa rutas y referencias de pruebas; no introduzcas datos privados de clientes o cuentas. El resumen cuenta entradas, no puntúa tu web.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Pruebas",
+          "body": "Anota URL, observación fechada y pregunta afectada."
+        },
+        {
+          "label": "2",
+          "heading": "Decisión",
+          "body": "Describe la reparación o prueba mínima útil y sus dependencias."
+        },
+        {
+          "label": "3",
+          "heading": "Verificación",
+          "body": "Indica responsable y próxima comprobación; conserva los datos desconocidos."
+        }
+      ],
+      "note": "Los datos permanecen en esta página y se borran al recargarla. El ejemplo es ficticio. No se ejecuta rastreo, calificación, envío ni predicción de posiciones."
+    },
+    "worksheet": {
+      "fields": [
+        "Página o pregunta de compra",
+        "Pruebas fechadas / pruebas ausentes",
+        "Acción propuesta",
+        "Responsable y fecha de verificación"
+      ],
+      "sample": [
+        "/services/ejemplo/",
+        "Ficticio: error de servidor observado en un servicio importante",
+        "Confirmar la respuesta y reparar la ruta",
+        "Responsable de la web; repetir la prueba tras reparar"
+      ]
+    }
+  },
+  "ca": {
+    "path": "/guides/b2b-seo-audit/",
+    "serviceFamily": "inbound",
+    "title": "Auditoria SEO B2B: comprovacions i prioritats | Beespoke",
+    "description": "Detecta què impedeix que compradors B2B rellevants trobin i utilitzin les pàgines. Inclou comprovacions, una cua fictícia i una fitxa privada de treball.",
+    "eyebrow": "Diagnòstic de cerca B2B",
+    "h1": "Auditoria SEO B2B: detecta i prioritza què frena la demanda qualificada",
+    "answer": "Una auditoria SEO B2B comprova si els cercadors poden descobrir les pàgines adequades, si responen a preguntes reals de compra i si faciliten una conversa rellevant. Combina revisió tècnica, dades de cerca per pàgina, qualitat del contingut i mesurament de conversions amb fonts identificades. El resultat ha de ser una llista d’accions prioritzades, amb evidències, responsable i data de verificació; una puntuació sense explicació no és suficient.",
+    "heroSecondary": {
+      "label": "Utilitza la fitxa d’auditoria SEO",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Comença per l’objectiu comercial i l’inventari de pàgines",
+        "body": [
+          "Defineix l’oferta, els perfils de compra, els mercats i els idiomes abans d’obrir un rastrejador. Una pàgina pot atreure moltes visites de persones que mai no compraran el servei. Acordeu quines preguntes ha de resoldre el web i quin seria el pas següent útil.",
+          "Inventaria les URL públiques canòniques, la funció, l’idioma, el servei relacionat i l’última modificació substancial. Separa serveis, guies d’avaluació, explicacions de preus i casos publicats. Compara dates i superfícies de cerca equivalents; anota llançaments, migracions i canvis de mesurament. Una pàgina nova necessita descobriment i temps abans de jutjar-ne el rendiment."
+        ]
+      },
+      {
+        "heading": "Comprova descobriment, indexabilitat i URL canònica triada",
+        "body": [
+          "Revisa mostres de les plantilles i totes les URL essencials per al negoci. Comprova respostes, redireccions, robots, meta robots, canòniques, sitemap i enllaços interns. Search Console diferencia descobriment, rastreig i indexació; acceptar un sitemap no demostra els passos posteriors.",
+          "Compara la canònica declarada amb la triada per Google quan hi hagi aquesta dada. Un duplicat real, un bloqueig o un full d’estils inaccessible requereixen una reparació concreta. «Descoberta, sense indexar» exigeix investigar qualitat, duplicació, enllaços i rastreig; no justifica eliminar la pàgina automàticament."
+        ],
+        "items": [
+          "Comprova que la URL HTTPS final serveix HTML útil i els recursos necessaris.",
+          "Revisa alternatives d’idioma recíproques, canòniques pròpies i enllaços pertinents en cada idioma.",
+          "Anota URL afectada, observació, data i passos de reproducció. Repeteix la comprovació després de reparar."
+        ]
+      },
+      {
+        "heading": "Assigna preguntes de compra abans de canviar títols o contingut",
+        "body": [
+          "Filtra les consultes de Search Console per pàgina per veure quines cerques associa Google amb cada URL. Registra impressions, clics, CTR i posició amb període, país, dispositiu i cobertura de files. La posició és una mitjana de cerques diferents, no un lloc fix. Les consultes absents són desconegudes, no cerques inexistents.",
+          "Si baixen els clics, separa la pèrdua d’impressions del canvi de CTR. Examina quines consultes i països han canviat, si s’ha mogut la posició i si els resultats responen ara a una altra intenció. Una combinació d’impressions més àmplia pot reduir el CTR agregat sense empitjorar totes les consultes anteriors. Compara la mateixa cohort de pàgina i consulta abans de reescriure una resposta que funciona.",
+          "Assigna una pàgina principal a cada pregunta important. Millora títol, resposta, evidències o enllaços quan la intenció observada ho justifiqui. Els sinònims no sempre necessiten URL noves; una decisió de compra diferent sí que pot necessitar-les."
+        ]
+      },
+      {
+        "heading": "Revisa contingut, evidències i recorregut de decisió",
+        "body": [
+          "Llegeix com a comprador: la pàgina respon aviat, explica límits i ajuda a decidir? Revisa exactitud, abast vigent, fonts datades, exemples, responsabilitats i pas següent. Un article extens que evita la decisió pot continuar incomplet.",
+          "Inspecciona els resultats competidors reals i l’ajuda pràctica que ofereixen. Afegeix allò que necessita el comprador, sense copiar afirmacions, inventar credencials ni introduir temes irrellevants per allargar el text. Revisa també eines, enllaços de preus i reserva en cada idioma."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Utilitza l’auditoria de continguts per decidir sobre el conjunt de pàgines"
+          }
+        ]
+      },
+      {
+        "heading": "Prova l’experiència mòbil i el mesurament d’oportunitats reals",
+        "body": [
+          "Comprova navegació, títols, taules, controls de contacte i reserva en escriptori i pantalles estretes. Diagnostica problemes mesurats de càrrega o interacció abans de canviar estils compartits. El zoom i els ajustos d’accessibilitat pertanyen al visitant; el CSS no ha de compensar el zoom de qui fa proves.",
+          "Separa impressions, sessions orgàniques d’entrada, obertures del calendari, reserves noves reals, trucades celebrades i resultats qualificats. Visitar una confirmació no demostra una reserva. Amb permís i dades, concilia identificadors i dates originals de creació amb el sistema de reserves.",
+          "Exclou visites internes i d’auditoria identificades abans d’interpretar creixement. Conserva les fonts desconegudes; no classifiquis tot el trànsit Direct com a proves. Si la cohort o l’atribució són incompletes, explica’n la limitació abans de pronosticar conversions."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Diagnostica l’embut complet de captació"
+          }
+        ]
+      },
+      {
+        "heading": "Prioritza una cua de treball basada en evidències",
+        "body": [
+          "Resol primer errors confirmats d’accés o reserva en pàgines importants. Després aborda mancances demostrades d’intenció i recorregut. Tracta les explicacions incertes com a proves, amb referència inicial, responsable, observació esperada i data de revisió. Estima esforç i dependències per separat del valor per al comprador.",
+          "Aquesta cua és fictícia. L’ordre depèn de les evidències descrites, no d’una fórmula universal de posicionament."
+        ],
+        "table": {
+          "caption": "Cua fictícia de tres pàgines",
+          "headers": [
+            "Pàgina",
+            "Evidència",
+            "Decisió",
+            "Verificació"
+          ],
+          "rows": [
+            [
+              "Servei principal",
+              "Error de servidor observat",
+              "Reparar l’accés; conservar contingut",
+              "Tornar a provar resposta, HTML i recursos"
+            ],
+            [
+              "Guia de compra",
+              "Consultes rellevants; falten responsabilitats",
+              "Afegir una secció delimitada",
+              "Revisar text i futures consultes comparables"
+            ],
+            [
+              "Pàgina nova en un altre idioma",
+              "Publicació recent; rastreig desconegut",
+              "Comprovar descobriment i enllaços; conservar",
+              "Revisar rastreig i indexació després del termini anotat"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Què ha de lliurar una agència en una auditoria útil",
+        "body": [
+          "Demana un registre reproduïble de problemes per URL, el període analitzat i les limitacions d’accés. Ha de distingir errors confirmats d’hipòtesis. Cada recomanació necessita canvi proposat, responsable i criteri de comprovació. Una exportació sense interpretació et deixa tota la priorització.",
+          "Una auditoria no implica que inclogui implementació. Aclareix qui modifica codi o contingut, qui aprova afirmacions comercials i qui valida la publicació. Si busques execució continuada, acorda’n l’abast a part. Ningú no pot garantir el primer lloc ni un nombre fix de reunions."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Consulta el servei de SEO B2B gestionat"
+          },
+          {
+            "href": "/compare/b2b-seo-vs-ppc/",
+            "label": "Compara SEO i cerca de pagament"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Què ha d’incloure una auditoria SEO B2B?",
+        "answer": "Definició del comprador, inventari, comprovacions de rastreig i indexació, dades per pàgina i consulta, revisió de contingut i evidències, enllaços, usabilitat mòbil i mesurament d’oportunitats amb fonts. Ha d’acabar en accions prioritzades amb responsables i verificacions."
+      },
+      {
+        "question": "Una auditoria SEO és el mateix que una de continguts?",
+        "answer": "Se solapen. L’auditoria SEO diagnostica descobriment i rendiment en cerca, inclosos factors tècnics i editorials. La de continguts decideix què conservar, millorar, combinar o retirar i quan cal una pàgina nova."
+      },
+      {
+        "question": "Amb quina freqüència cal repetir-la?",
+        "answer": "Revisa accés i mesurament després de publicacions importants. Repeteix el diagnòstic ampli després de canvis substancials o quan canviïn dades prou madures. Utilitza períodes comparables en lloc de reaccionar al soroll diari."
+      },
+      {
+        "question": "Corregir tots els problemes garanteix millors posicions?",
+        "answer": "No. Les millores poden eliminar barreres i augmentar la utilitat, però canvien la demanda, la competència i els resultats de cerca. Anota els canvis i avalua consultes madures i resultats comercials reals."
+      }
+    ],
+    "related": [
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-content-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Definition: abast d’una auditoria SEO B2B",
+        "href": "https://comms.thisisdefinition.com/services/b2b-seo/seo-audit"
+      },
+      {
+        "label": "Windmill Strategy: auditoria SEO B2B bàsica",
+        "href": "https://www.windmillstrategy.com/how-to-conduct-a-basic-b2b-seo-audit/"
+      },
+      {
+        "label": "Política editorial de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 d’octubre de 2026",
+    "sourceMethodology": "Les fonts de proveïdors informen la comparació d’abast; no validen resultats de Beespoke. La llista i la fitxa són mètodes de planificació propis. Tots els exemples són inventats. L’exposició en cerca i les reserves es mesuren per separat.",
+    "decisionGuide": {
+      "heading": "Tria la millora següent segons evidències i impacte",
+      "body": [
+        "Acaba amb una cua breu i ordenada. Conserva les URL que funcionen i les millores recents mentre proves l’obstacle concret."
+      ],
+      "items": [
+        "Identifica pàgina i pregunta de compra.",
+        "Distingeix observacions, inferències i dades absents.",
+        "Assigna responsable i data de verificació.",
+        "Revisa cohorts madures abans d’ampliar el canvi."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utilitza la fitxa d’auditoria SEO",
+      "eyebrow": "Fitxa privada de planificació",
+      "heading": "Converteix una troballa en una acció verificable",
+      "intro": "Registra tres troballes. Utilitza rutes i referències d’evidències; no introdueixis dades privades de clients o comptes. El resum compta entrades, no puntua el web.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidències",
+          "body": "Anota URL, observació datada i pregunta afectada."
+        },
+        {
+          "label": "2",
+          "heading": "Decisió",
+          "body": "Descriu la reparació o prova mínima útil i les dependències."
+        },
+        {
+          "label": "3",
+          "heading": "Verificació",
+          "body": "Indica responsable i pròxima comprovació; conserva les dades desconegudes."
+        }
+      ],
+      "note": "Les dades romanen en aquesta pàgina i s’esborren en tornar-la a carregar. L’exemple és fictici. No es fa rastreig, qualificació, enviament ni predicció de posicions."
+    },
+    "worksheet": {
+      "fields": [
+        "Pàgina o pregunta de compra",
+        "Evidències datades / evidències absents",
+        "Acció proposada",
+        "Responsable i data de verificació"
+      ],
+      "sample": [
+        "/services/exemple/",
+        "Fictici: error de servidor observat en un servei important",
+        "Confirmar la resposta i reparar la ruta",
+        "Responsable del web; repetir la prova després de reparar"
+      ]
+    }
+  },
+  "fr": {
+    "path": "/guides/b2b-seo-audit/",
+    "serviceFamily": "inbound",
+    "title": "Audit SEO B2B : contrôles, preuves et priorités | Beespoke",
+    "description": "Identifiez ce qui empêche les bons acheteurs B2B de trouver et d’utiliser vos pages. Contrôles techniques, file de travail fictive et fiche d’audit privée.",
+    "eyebrow": "Diagnostic de recherche B2B",
+    "h1": "Audit SEO B2B : identifier et prioriser les freins à une demande qualifiée",
+    "answer": "Un audit SEO B2B vérifie si les moteurs découvrent les bonnes pages, si celles-ci répondent à de vraies questions d’achat et si elles facilitent une conversation pertinente. Il associe contrôles techniques, données de recherche par page, qualité éditoriale et mesure des conversions avec leurs sources. Son résultat doit être une liste d’actions priorisées, avec preuves, responsable et date de vérification ; un score sans explication ne suffit pas.",
+    "heroSecondary": {
+      "label": "Utiliser la fiche d’audit SEO",
+      "href": "#buyer-worksheet"
+    },
+    "sections": [
+      {
+        "heading": "Partir de l’objectif commercial et de l’inventaire des pages",
+        "body": [
+          "Définissez l’offre, les rôles d’achat, les marchés et les langues avant de lancer un robot d’exploration. Une page peut attirer beaucoup de visiteurs qui n’achèteront jamais votre service. Convenez des questions auxquelles le site doit répondre et d’une prochaine étape utile.",
+          "Inventoriez les URL publiques canoniques, leur fonction, leur langue, le service associé et leur dernière modification substantielle. Séparez services, guides d’évaluation, explications tarifaires et cas publiés. Comparez des périodes et surfaces de recherche équivalentes ; annotez lancements, migrations et changements de mesure. Une nouvelle page doit être découverte et disposer de recul avant d’être jugée."
+        ]
+      },
+      {
+        "heading": "Vérifier la découverte, l’indexabilité et la canonique retenue",
+        "body": [
+          "Contrôlez un échantillon des modèles et toutes les URL essentielles au commerce. Examinez réponses, redirections, robots, meta robots, canoniques, sitemap et liens internes. Search Console distingue découverte, exploration et indexation ; l’acceptation d’un sitemap ne prouve pas les étapes suivantes.",
+          "Comparez la canonique déclarée à celle retenue par Google lorsque la donnée est disponible. Un véritable doublon, un blocage ou une feuille de style inaccessible demande une correction précise. « Détectée, actuellement non indexée » demande d’examiner qualité, duplication, liens et exploration ; ce statut ne justifie pas automatiquement une suppression."
+        ],
+        "items": [
+          "Vérifiez que l’URL HTTPS finale renvoie du HTML utile et les ressources nécessaires.",
+          "Contrôlez les variantes linguistiques réciproques, les canoniques propres et les liens pertinents dans chaque langue.",
+          "Notez URL, observation, date et étapes de reproduction. Répétez le contrôle après correction."
+        ]
+      },
+      {
+        "heading": "Attribuer les questions d’achat avant de modifier titres et contenu",
+        "body": [
+          "Filtrez les requêtes Search Console par page pour comprendre les recherches que Google associe à chaque URL. Enregistrez impressions, clics, CTR et position avec période, pays, appareil et couverture des lignes. La position est une moyenne de recherches différentes, pas une place fixe. Les requêtes absentes sont inconnues, pas inexistantes.",
+          "Si les clics baissent, distinguez perte d’impressions et évolution du CTR. Identifiez les requêtes et pays concernés, les mouvements de position et un éventuel changement d’intention dans les résultats. Un ensemble d’impressions plus large peut réduire le CTR global sans dégrader chaque ancienne requête. Comparez la même cohorte page-requête avant de réécrire une réponse qui fonctionne.",
+          "Attribuez une page principale à chaque question importante. Améliorez titre, réponse, preuves ou liens lorsque l’intention observée le justifie. Des synonymes ne demandent pas toujours de nouvelles URL ; une décision d’achat distincte peut en demander une."
+        ]
+      },
+      {
+        "heading": "Examiner le contenu, les preuves et le parcours de décision",
+        "body": [
+          "Lisez comme un acheteur : la page répond-elle vite, explique-t-elle ses limites et aide-t-elle à décider ? Vérifiez exactitude, périmètre actuel, sources datées, exemples, responsabilités et prochaine étape. Un long article qui évite la décision peut rester incomplet.",
+          "Examinez les résultats concurrents réels et leur aide pratique. Ajoutez ce dont l’acheteur a besoin, sans copier leurs affirmations, inventer des références ni allonger artificiellement le texte. Vérifiez aussi les outils, liens tarifaires et parcours de réservation dans chaque langue."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Utiliser l’audit de contenu pour les décisions sur le portefeuille de pages"
+          }
+        ]
+      },
+      {
+        "heading": "Tester l’usage mobile et la mesure de vrais contacts",
+        "body": [
+          "Vérifiez navigation, titres, tableaux, commandes de contact et réservation sur ordinateur et écran étroit. Diagnostiquez les problèmes mesurés de chargement ou d’interaction avant de modifier les styles partagés. Le zoom et les réglages d’accessibilité appartiennent aux visiteurs ; le CSS ne doit pas compenser le zoom de la personne qui teste.",
+          "Séparez impressions, sessions organiques d’entrée, ouvertures du calendrier, nouvelles réservations réelles, appels tenus et résultats qualifiés. Une visite de confirmation ne prouve pas une réservation. Avec les autorisations et données nécessaires, rapprochez identifiants et dates de création initiales du système de réservation.",
+          "Excluez les visites internes et d’audit identifiées avant d’interpréter la croissance. Conservez les sources inconnues ; ne classez pas tout le trafic Direct parmi les tests. Si cohorte ou attribution sont incomplètes, expliquez cette limite avant de prévoir les conversions."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Diagnostiquer l’ensemble du parcours d’acquisition"
+          }
+        ]
+      },
+      {
+        "heading": "Prioriser une file de travail étayée",
+        "body": [
+          "Réparez d’abord les échecs confirmés d’accès ou de réservation sur les pages importantes. Traitez ensuite les lacunes démontrées d’intention et de parcours. Abordez les explications incertaines comme des tests, avec référence initiale, responsable, observation attendue et date de revue. Estimez effort et dépendances séparément de la valeur pour l’acheteur.",
+          "Cette file est fictive. Son ordre suit les observations décrites ; il ne constitue pas une formule universelle de classement."
+        ],
+        "table": {
+          "caption": "File fictive de trois pages",
+          "headers": [
+            "Page",
+            "Preuve",
+            "Décision",
+            "Vérification"
+          ],
+          "rows": [
+            [
+              "Service principal",
+              "Erreur serveur observée",
+              "Réparer l’accès ; conserver le contenu",
+              "Retester réponse, HTML et ressources"
+            ],
+            [
+              "Guide d’achat",
+              "Requêtes pertinentes ; responsabilités absentes",
+              "Ajouter une section délimitée",
+              "Vérifier le texte et les futures requêtes comparables"
+            ],
+            [
+              "Nouvelle page linguistique",
+              "Publication récente ; exploration inconnue",
+              "Vérifier découverte et liens ; conserver",
+              "Revoir exploration et indexation après le délai noté"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Ce qu’une agence doit remettre pour un audit utile",
+        "body": [
+          "Demandez un registre reproductible des problèmes par URL, la période analysée et les limites d’accès. Il doit distinguer échecs confirmés et hypothèses. Chaque recommandation doit préciser changement proposé, responsable et contrôle. Un export sans interprétation vous laisse toute la priorisation.",
+          "Un audit n’implique pas que la mise en œuvre soit comprise. Précisez qui modifie code ou contenu, qui approuve les affirmations commerciales et qui valide la publication. Si vous cherchez une exécution continue, convenez-en séparément. Personne ne peut garantir la première place ni un nombre fixe de rendez-vous."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Consulter le service de SEO B2B géré"
+          },
+          {
+            "href": "/compare/b2b-seo-vs-ppc/",
+            "label": "Comparer SEO et recherche payante"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Que doit inclure un audit SEO B2B ?",
+        "answer": "Définition de l’acheteur, inventaire, contrôles d’exploration et d’indexation, données par page et requête, contenu et preuves, liens, usage mobile et mesure des contacts avec leurs sources. Il doit aboutir à des actions priorisées, responsables et vérifications."
+      },
+      {
+        "question": "Un audit SEO est-il identique à un audit de contenu ?",
+        "answer": "Ils se recoupent. L’audit SEO diagnostique découverte et performance en recherche, avec les facteurs techniques et éditoriaux. L’audit de contenu décide quoi conserver, améliorer, regrouper ou retirer et quand une nouvelle page est justifiée."
+      },
+      {
+        "question": "À quelle fréquence faut-il le refaire ?",
+        "answer": "Vérifiez accès et mesure après les publications importantes. Reprenez le diagnostic global après des changements substantiels ou lorsque des données suffisamment mûres évoluent. Comparez des périodes cohérentes au lieu de réagir au bruit quotidien."
+      },
+      {
+        "question": "Corriger tous les problèmes garantit-il de meilleures positions ?",
+        "answer": "Non. Les corrections peuvent supprimer des obstacles et améliorer l’utilité, mais demande, concurrence et résultats de recherche évoluent. Consignez les changements et évaluez des requêtes mûres et de vrais résultats commerciaux."
+      }
+    ],
+    "related": [
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-content-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Definition : périmètre d’un audit SEO B2B",
+        "href": "https://comms.thisisdefinition.com/services/b2b-seo/seo-audit"
+      },
+      {
+        "label": "Windmill Strategy : audit SEO B2B de base",
+        "href": "https://www.windmillstrategy.com/how-to-conduct-a-basic-b2b-seo-audit/"
+      },
+      {
+        "label": "Politique éditoriale de Beespoke",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceChecked": "27 octobre 2026",
+    "sourceMethodology": "Les sources de prestataires éclairent la comparaison des périmètres ; elles ne valident pas des résultats de Beespoke. La liste et la fiche sont nos méthodes de préparation. Tous les exemples sont inventés. Exposition en recherche et réservations se mesurent séparément.",
+    "decisionGuide": {
+      "heading": "Choisir la prochaine correction selon les preuves et l’impact",
+      "body": [
+        "Terminez avec une file courte et ordonnée. Préservez les URL utiles et les améliorations récentes pendant le test du frein précis."
+      ],
+      "items": [
+        "Nommez la page et la question d’achat.",
+        "Distinguez observations, inférences et données absentes.",
+        "Désignez un responsable et une date de vérification.",
+        "Examinez des cohortes mûres avant d’étendre le changement."
+      ]
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utiliser la fiche d’audit SEO",
+      "eyebrow": "Fiche privée de préparation",
+      "heading": "Transformer un constat en action vérifiable",
+      "intro": "Notez trois constats. Utilisez des chemins de page et des références de preuve, sans données privées de clients ou de comptes. Le résumé compte les entrées ; il ne note pas votre site.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Preuves",
+          "body": "Notez URL, observation datée et question concernée."
+        },
+        {
+          "label": "2",
+          "heading": "Décision",
+          "body": "Décrivez la plus petite correction ou le test utile et ses dépendances."
+        },
+        {
+          "label": "3",
+          "heading": "Vérification",
+          "body": "Indiquez responsable et prochain contrôle ; conservez les inconnues."
+        }
+      ],
+      "note": "Les données restent sur cette page et disparaissent au rechargement. L’exemple est fictif. Aucun crawl, score, envoi ou pronostic de classement n’est effectué."
+    },
+    "worksheet": {
+      "fields": [
+        "Page ou question d’achat",
+        "Preuves datées / preuves manquantes",
+        "Action proposée",
+        "Responsable et date de vérification"
+      ],
+      "sample": [
+        "/services/exemple/",
+        "Fictif : erreur serveur observée sur un service important",
+        "Confirmer la réponse et réparer la route",
+        "Responsable du site ; retester après correction"
+      ]
+    }
+  }
+}
