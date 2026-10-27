@@ -52,7 +52,8 @@ for (const url of targets) {
     const html = fs.readFileSync(file, "utf8");
     const graph = JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])["@graph"];
     const route=locale==='en'?url:`/${locale}${url}`;
-    const localConfig=localeGrowth.pages[route];
+    const buyerConfig=require('../data/buyer-clarity-20261027').metadata[route];
+    const localConfig=localeGrowth.pages[route]?{...localeGrowth.pages[route],...buyerConfig}:buyerConfig;
     assert(html.includes(reviewedDate(route,updatedDates.get(url))), `${file}: updated date missing`);
     assert(html.includes('class="reading-progress"') || html.includes('id="reading-progress"'), `${file}: reading progress missing`);
     assert(!html.includes('name="robots" content="noindex'), `${file}: unexpected noindex`);
@@ -83,7 +84,7 @@ const translated = (value, locale) => softwareComparison.dictionaries[locale][va
 for (const url of rankingLeveragePaths) {
   const page = pages.find((candidate) => candidate.path === url);
   const english = fs.readFileSync(path.join(root, url, "index.html"), "utf8");
-  const englishConfig=englishGrowth.config[url] || (url===broadGrowth.call?broadGrowth.callCopy.en:trafficGrowth.english[url]);
+  const englishConfig={...(englishGrowth.config[url] || (url===broadGrowth.call?broadGrowth.callCopy.en:trafficGrowth.english[url])||{}),...(require('../data/buyer-clarity-20261027').metadata[url]||{})};
   assert(english.includes(`<title>${escape(englishConfig?.title || page.title)}</title>`), `${url}: optimized English title missing`);
   assert(english.includes(`content="${escape(englishConfig?.description || page.description)}"`), `${url}: optimized English description missing`);
   assert(english.includes(reviewedDate(url,updatedDates.get(url))), `${url}: ranking-leverage update date missing`);
@@ -92,7 +93,7 @@ for (const url of rankingLeveragePaths) {
     const html = fs.readFileSync(file, "utf8");
     assert.equal(typeof translated(page.title, locale), "string", `${url}: ${locale} title translation missing`);
     assert.equal(typeof translated(page.description, locale), "string", `${url}: ${locale} description translation missing`);
-    const route=`/${locale}${url}`, localConfig=url===broadGrowth.call?broadGrowth.callCopy[locale]:localeGrowth.pages[route];
+    const route=`/${locale}${url}`, localConfig={...(url===broadGrowth.call?broadGrowth.callCopy[locale]:localeGrowth.pages[route]),...(require('../data/buyer-clarity-20261027').metadata[route]||{})};
     assert(html.includes(`<title>${escape(localConfig?.title || translated(page.title, locale))}</title>`), `${file}: optimized localized title missing`);
     assert(html.includes(`content="${escape(localConfig?.description || translated(page.description, locale))}"`), `${file}: optimized localized description missing`);
     assert(html.includes(reviewedDate(route,updatedDates.get(url))), `${file}: localized ranking-leverage date missing`);

@@ -7,7 +7,7 @@ const root = path.resolve(__dirname,'..');
 const origin = 'https://outbound-lead-generation.com';
 const esc = value => value.replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]));
 for(const [route,priorCopy] of Object.entries(growth.pages)) {
-  const copy={...priorCopy,...(require('../data/query-improvements-20261026.json').find(row=>row.path===route)||{})};
+  const copy={...priorCopy,...(require('../data/query-improvements-20261026.json').find(row=>row.path===route)||{}),...(require('../data/buyer-clarity-20261027').metadata[route]||{})};
   const html=fs.readFileSync(path.join(root,route,'index.html'),'utf8').replace(/&#39;/g,"'");
   assert(html.includes(`<title>${esc(copy.title)}</title>`));
   assert.equal((html.match(/<h1>/g)||[]).length,1);

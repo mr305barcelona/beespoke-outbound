@@ -1,0 +1,12 @@
+[data-buyer-model]{margin:1.5rem 0;padding:clamp(1rem,3vw,1.7rem);border:1px solid #dce3eb;border-radius:1rem;background:#f7f9fc;color:#17263a}
+[data-buyer-model] .buyer-cost-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.2rem}
+[data-buyer-model] fieldset{min-width:0;margin:0;padding:1rem;border:1px solid #dce3eb;border-radius:.8rem;background:#fff}
+[data-buyer-model] legend{font-weight:700;padding:0 .4rem}
+[data-buyer-model] label{display:block;margin-bottom:.45rem;font-weight:600}
+[data-buyer-model] input,[data-buyer-model] select,#handover-notes{display:block;box-sizing:border-box;width:100%;max-width:100%;padding:.7rem .8rem;border:1px solid #a5b3c3;border-radius:.55rem;background:#fff;color:#17263a;font:inherit;min-height:44px}
+[data-buyer-model] select{width:auto}
+[data-buyer-model] button{border:1px solid #153d51;border-radius:2rem;background:#153d51;color:#fff;font:inherit;font-weight:650;min-height:44px;padding:.7rem 1rem;margin:.3rem .3rem .3rem 0;cursor:pointer}
+[data-buyer-model] button[type=reset]{background:#fff;color:#153d51}
+[data-buyer-model] :is(input,select,button):focus-visible,#handover-notes:focus-visible{outline:3px solid #aa6b00;outline-offset:3px}
+[data-buyer-model] [data-model-status]{min-height:3em}
+@media(max-width:650px){[data-buyer-model] .buyer-cost-fields{grid-template-columns:1fr}[data-buyer-model] fieldset{padding:.8rem}[data-buyer-model] button{width:100%;margin-right:0}}
