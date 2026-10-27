@@ -532,6 +532,7 @@ for (const [locale] of Object.entries(locales)) {
       pageDictionary[source] = translated;
       pageDictionary[escapeHtml(source)] = translated;
     }
+    if (page.path === '/guides/b2b-lead-generation-audit/') addCopyMappings(page, require('../data/lead-generation-audit-copy-20261027').page(locale), pageDictionary);
     // Related links and shared navigation need the other service's copy too.
     for (const other of pages.filter(p=>inboundPages.has(p.path))) {
       if (inboundLocalized[other.path]) addCopyMappings(other, inboundLocalized[other.path], pageDictionary);
