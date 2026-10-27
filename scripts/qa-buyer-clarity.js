@@ -10,3 +10,5 @@ const en=fs.readFileSync(path.join(root,'guides/best-linkedin-lead-generation-ag
 const fr=fs.readFileSync(path.join(root,'fr/services/outsourced-sdr/index.html'),'utf8');for(const bad of ['Audit de la portée originale','propriétaire de la direction','Plan de rampe','Beespoke propose une campagne LinkedIn gérée'])assert(!fr.includes(bad),bad);
 const runtime=fs.readFileSync(path.join(root,'buyer-model.js'),'utf8');assert(!/\b(?:fetch|XMLHttpRequest|sendBeacon|localStorage|sessionStorage|gtag|dataLayer)\s*[.(]/.test(runtime),'No cost or note collection/storage');
 console.log('Buyer clarity QA: actual localized FAQ parity, divergence regression, approved scope, private local cost arithmetic and unknown/zero/invalid handling.');
+
+const modelPage=fs.readFileSync(path.join(root,'compare/lead-generation-agency-vs-in-house-team/index.html'),'utf8');assert(!/<form[^>]*data-buyer-model/.test(modelPage),'Cost inputs must never submit a GET form without the calculator script');assert(modelPage.includes('type="button" data-model-calculate disabled'));assert(modelPage.includes('type="button" data-model-reset disabled'));
