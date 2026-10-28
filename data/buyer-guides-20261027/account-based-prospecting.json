@@ -124,6 +124,125 @@
             "label": "Audit the wider acquisition and booking funnel"
           }
         ]
+      },
+      {
+        "heading": "Two complete fictional account briefs",
+        "body": [
+          "These accounts and signals are invented training examples, not companies researched by Beespoke. Account A is a fictional industrial testing business that has announced a second site. The hypothesis is that a multi-site operating change could create a relevant coordination question. Expansion does not prove a problem, budget or intention to buy.",
+          "Account B is a fictional software vendor that appears relevant by industry but publicly describes selling only to individual consumers. Our hypothetical campaign serves firms selling to business procurement teams. This contradictory evidence is a reason to hold or exclude B, not to force it into a target list."
+        ],
+        "table": {
+          "caption": "Completed fictional account briefs",
+          "headers": [
+            "Element",
+            "Account A: testing business",
+            "Account B: software vendor"
+          ],
+          "rows": [
+            [
+              "Buyer fit",
+              "B2B service; relevant operating model and target market",
+              "Industry label looks right; actual customer model conflicts"
+            ],
+            [
+              "Dated public evidence",
+              "Fictional Day 1: company announcement of second site",
+              "Fictional Day 1: company FAQ says consumer-only offer"
+            ],
+            [
+              "Hypothesis",
+              "Coordination between sites may warrant a question",
+              "No demonstrated B2B procurement problem"
+            ],
+            [
+              "Contradiction and exclusions",
+              "Existing supplier, no interest or out-of-market site still possible",
+              "Consumer-only scope is outside this campaign"
+            ],
+            [
+              "Unknowns",
+              "Who owns coordination? Is a change needed? Is contact permitted?",
+              "Any separate B2B division? No evidence yet"
+            ],
+            [
+              "Decision",
+              "Research the relevant role; obtain campaign approval before contact",
+              "Hold or exclude under agreed criteria; reopen only with new evidence"
+            ],
+            [
+              "Owner and next check",
+              "Research owner verifies source and role; commercial owner approves relevance",
+              "List owner records exclusion and avoids reimporting the same account"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Map buying roles without inventing authority",
+        "body": [
+          "The same title can have different responsibilities in different firms. Map the problem owner, commercial decision, operational or technical reviewer and possible champion as hypotheses. Do not label someone “decision-maker” merely because a data provider supplies a senior title. A small firm may combine roles; a larger one may add procurement or legal review."
+        ],
+        "table": {
+          "caption": "Fictional buying-role map for Account A",
+          "headers": [
+            "Possible role",
+            "Relevant question",
+            "Evidence needed",
+            "What remains unknown"
+          ],
+          "rows": [
+            [
+              "Operations lead",
+              "Who coordinates work between the two sites?",
+              "Current remit or a direct clarification",
+              "Whether coordination is a problem at all"
+            ],
+            [
+              "Technical reviewer",
+              "What inspection or integration constraints would a change need to satisfy?",
+              "Actual technical responsibility and requirements",
+              "Whether this person evaluates suppliers"
+            ],
+            [
+              "Commercial approver",
+              "Who approves a change if a relevant need is confirmed?",
+              "A permitted referral or direct confirmation",
+              "Budget, timing and authority"
+            ],
+            [
+              "Possible champion",
+              "Would a short scoping discussion help you assess the issue?",
+              "A relevant response showing personal involvement",
+              "Interest is not procurement approval"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Turn one observation into relevant questions and a sales handoff",
+        "body": [
+          "For Account A, an operations question could be: “Your fictional second-site announcement raised a question about who coordinates the handoff between locations. Is that part of your remit?” A technical question would instead ask which requirements matter if a change is considered. Neither should pretend that a breakdown, budget or active project is known. Coordinate the account approach so multiple people do not receive unrelated contradictory claims.",
+          "Fictional reply: “I coordinate that work, but we already have a supplier. I could discuss the handoff requirements next month.” Record confirmed remit, existing supplier and suggested timing exactly. This is a relevant reply, not proof of dissatisfaction or a qualified opportunity. Ask only the agreed necessary qualification questions and offer a useful next step.",
+          "A reviewable handoff includes account and role, public evidence reference/date, actual confirmed need, exact source of permission or interest, existing supplier constraint, unknown budget/authority, agreed next step, booking identity if genuinely created and the owner of follow-up. The client then owns discovery, proposals and closing. Preserve a decline or exclusion so another list import does not restart unwanted contact."
+        ]
+      },
+      {
+        "heading": "A controlled workflow and honest account-level measurement",
+        "body": [
+          "Use explicit states: excluded, research required, ready for approval, approved to contact, relevant reply, handoff and closed or paused. Name the research reviewer, message approver, reply owner and sales owner. A source signal can trigger research; it should not silently authorize a campaign or a new channel.",
+          "Fictional arithmetic: 20 accounts with 40 contacts produce six replies across four accounts. That is six contact replies and four responding accounts, not six interested companies. One genuine meeting later moves to a new time: one original booking, not two. Qualification and held-call status remain unknown until recorded. These invented counts illustrate denominators; they are not expected campaign performance.",
+          "Report which accounts met the agreed fit and which handoffs had enough confirmed context to be useful. More people contacted is not automatically better coverage. Cold email and/or cold LinkedIn belong to Beespoke’s base outbound scope; calling is separately quoted by market and does not become included because a buying-role map contains phone contacts."
+        ],
+        "links": [
+          {
+            "href": "/downloads/beespoke-icp-scorecard/",
+            "label": "Check account fit"
+          },
+          {
+            "href": "/downloads/beespoke-outbound-campaign-brief/",
+            "label": "Agree the campaign and approval boundaries"
+          }
+        ]
       }
     ],
     "faqs": [
@@ -178,7 +297,7 @@
       "navLabel": "Use the account-planning worksheet",
       "eyebrow": "Private account-selection brief",
       "heading": "Make the account hypothesis reviewable",
-      "intro": "Use invented account names or neutral labels. Record evidence and buying roles before proposing contact; this tool neither enriches contacts nor launches outreach.",
+      "intro": "Build account briefs, buying-role questions and handoffs in one reviewable register. Load two fictional account cases and their role and measurement records; keep public observations separate from assumptions and confirmed replies.",
       "blocks": [
         {
           "label": "1",
@@ -196,7 +315,7 @@
           "body": "Write the next research or approval step and responsible owner."
         }
       ],
-      "note": "Inputs remain on this page and clear on refresh. Avoid contact details and confidential account data. All sample values are invented, and no messages are sent."
+      "note": "Private, ungated workbook. Add up to 50 entries, load the complete fictional example, build a report and export CSV or print. Inputs stay in this page and disappear on reload. No automatic audit, score or verified outcome is produced."
     },
     "worksheet": {
       "fields": [
@@ -211,6 +330,67 @@
         "Research operational owner; approve truthful observation before contact",
         "Campaign owner; review before outreach"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "Account, contact role or handoff record",
+        "Buyer fit, exclusions and contradictory evidence",
+        "Dated evidence reference and what is actually confirmed",
+        "Role-specific question and unresolved authority/need",
+        "Workflow decision, approval and next action",
+        "Owner, review date and account/contact/booking denominator"
+      ],
+      "samples": [
+        [
+          "Fictional Account A · company",
+          "B2B testing; relevant market; existing supplier unknown",
+          "Invented Day 1 second-site announcement; no proven problem",
+          "Who coordinates cross-site handoff? Need and budget unknown",
+          "Research role, then commercial approval before contact",
+          "Research owner; Day 3 role review; one account"
+        ],
+        [
+          "Fictional Account B · company",
+          "Consumer-only vendor conflicts with B2B buyer criteria",
+          "Invented FAQ says consumer offer; no B2B division evidence",
+          "No suitable buying role established",
+          "Hold/exclude; do not force industry fit",
+          "List owner; reopen only with new evidence; one excluded account"
+        ],
+        [
+          "Account A · operations role",
+          "Potential problem owner, not confirmed budget authority",
+          "Fictional reply confirms coordination remit and existing supplier",
+          "Would a requirements discussion next month help? Budget unknown",
+          "Relevant reply; confirm agreed qualification and next step",
+          "Reply owner; client receives actual context; one contact in same account"
+        ],
+        [
+          "Account A · technical reviewer",
+          "Possible reviewer; do not assume purchase power",
+          "Fictional remit unconfirmed",
+          "Which requirements would matter if a change were considered?",
+          "Research/clarify only within approved campaign",
+          "Research reviewer; keep unknown status; same account"
+        ],
+        [
+          "Account A · sales handoff",
+          "Relevant fit, existing supplier and timing recorded",
+          "Fictional interest in a scoping discussion; no proven dissatisfaction",
+          "Need, budget and authority remain partly unknown",
+          "Transfer confirmed context; client owns discovery/closing",
+          "Sales owner; created booking and held/qualified status separately"
+        ],
+        [
+          "Fictional programme measurement",
+          "20 accounts;40 contacts;6 replies across 4 accounts",
+          "Invented teaching numbers; not a benchmark",
+          "Qualification and held status unassessed",
+          "One reschedule remains one original booking",
+          "Analyst; maintain entity and creation-date denominators"
+        ]
+      ],
+      "legend": "Account, buying-role and handoff evidence"
     }
   },
   "es": {
@@ -338,6 +518,125 @@
             "label": "Audita captación y reservas en conjunto"
           }
         ]
+      },
+      {
+        "heading": "Dos fichas de cuenta ficticias completas",
+        "body": [
+          "Las empresas y señales son inventadas; no describen investigaciones de Beespoke. La cuenta A es una empresa ficticia de ensayos industriales que anuncia una segunda sede. La hipótesis es que operar en varias sedes podría plantear una pregunta de coordinación. Crecer no demuestra problema, presupuesto ni intención de compra.",
+          "La cuenta B es un proveedor ficticio de software aparentemente afín por sector, pero su información pública describe una oferta solo para consumidores. La campaña hipotética busca empresas que venden a equipos de compras B2B. La contradicción justifica aplazar o excluir B, no forzar su inclusión."
+        ],
+        "table": {
+          "caption": "Fichas de cuenta ficticias",
+          "headers": [
+            "Elemento",
+            "Cuenta A: ensayos",
+            "Cuenta B: software"
+          ],
+          "rows": [
+            [
+              "Encaje",
+              "Servicio B2B; modelo y mercado pertinentes",
+              "Sector afín; modelo de cliente incompatible"
+            ],
+            [
+              "Prueba pública fechada",
+              "Ficticio día 1: anuncio de segunda sede",
+              "Ficticio día 1: FAQ confirma oferta solo B2C"
+            ],
+            [
+              "Hipótesis",
+              "La coordinación entre sedes puede merecer una pregunta",
+              "No consta un problema de compras B2B"
+            ],
+            [
+              "Contradicciones y exclusiones",
+              "Puede haber proveedor, falta de interés o sede fuera de mercado",
+              "Solo consumidores queda fuera de esta campaña"
+            ],
+            [
+              "Desconocido",
+              "¿Quién coordina? ¿Hace falta cambiar? ¿Está autorizado el contacto?",
+              "¿Existe división B2B? Sin evidencia"
+            ],
+            [
+              "Decisión",
+              "Investigar rol y obtener aprobación antes de contactar",
+              "Aplazar o excluir; reabrir solo con nueva prueba"
+            ],
+            [
+              "Responsable y control",
+              "Investigación valida fuente y rol; comercial aprueba pertinencia",
+              "Responsable de lista registra exclusión y evita reimportación"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Mapea funciones sin inventar autoridad",
+        "body": [
+          "Un mismo cargo puede tener responsabilidades distintas. Responsable del problema, decisión comercial, revisión técnica y posible promotor son hipótesis. Un título sénior de una base de datos no demuestra poder de compra. Una empresa pequeña puede reunir funciones; otra puede añadir compras o revisión jurídica."
+        ],
+        "table": {
+          "caption": "Roles hipotéticos en la cuenta A",
+          "headers": [
+            "Posible función",
+            "Pregunta pertinente",
+            "Evidencia necesaria",
+            "Qué falta saber"
+          ],
+          "rows": [
+            [
+              "Operaciones",
+              "¿Quién coordina el trabajo entre sedes?",
+              "Responsabilidad actual o aclaración directa",
+              "Si coordinar supone un problema"
+            ],
+            [
+              "Revisión técnica",
+              "¿Qué requisitos debe cumplir un cambio?",
+              "Responsabilidad técnica y requisitos reales",
+              "Si evalúa proveedores"
+            ],
+            [
+              "Aprobación comercial",
+              "¿Quién aprobaría un cambio con necesidad confirmada?",
+              "Referencia autorizada o confirmación directa",
+              "Presupuesto, plazo y autoridad"
+            ],
+            [
+              "Posible promotor interno",
+              "¿Ayudaría hablar del alcance para valorar el asunto?",
+              "Respuesta pertinente que confirme implicación",
+              "Interés no equivale a aprobación de compra"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "De una observación a preguntas pertinentes y un traspaso a ventas",
+        "body": [
+          "Para operaciones en A: “El anuncio ficticio de vuestra segunda sede plantea quién coordina el traspaso entre ubicaciones. ¿Forma parte de tus funciones?”. La pregunta técnica trataría requisitos si se considerase un cambio. Ninguna debe fingir que ya se conoce un fallo, presupuesto o proyecto activo. Coordina el contacto para no enviar afirmaciones contradictorias a varias personas.",
+          "Respuesta ficticia: “Lo coordino yo, pero ya tenemos proveedor. Podría hablar de los requisitos el mes que viene”. Registra función, proveedor y plazo tal como se confirman. Es una respuesta pertinente, no prueba de insatisfacción ni oportunidad cualificada. Haz solo las preguntas acordadas necesarias y propón un siguiente paso útil.",
+          "El traspaso debe incluir cuenta y función, fuente pública y fecha, necesidad realmente confirmada, origen del interés o permiso, limitación del proveedor actual, presupuesto/autoridad desconocidos, paso acordado, identificador de reserva si se crea y responsable de seguimiento. El cliente dirige discovery, propuestas y cierre. Conserva rechazos y exclusiones para no reiniciar contactos desde otra importación."
+        ]
+      },
+      {
+        "heading": "Flujo controlado y medición por cuenta",
+        "body": [
+          "Usa estados explícitos: excluida, requiere investigación, pendiente de aprobación, aprobada para contacto, respuesta pertinente, traspasada y cerrada o pausada. Asigna revisión de investigación, aprobación de mensajes, respuestas y ventas. Una señal activa investigación; no autoriza por sí sola campaña ni canal nuevo.",
+          "Aritmética ficticia:20 cuentas y 40 contactos producen seis respuestas de cuatro cuentas. Son seis respuestas de contactos y cuatro empresas que responden, no seis empresas interesadas. Una reunión real cambia de fecha: sigue siendo una reserva original. Celebración y cualificación son desconocidas hasta registrarlas. Son números didácticos, no previsiones.",
+          "Evalúa encaje y utilidad de los traspasos, no solo contactos. El precio base de Beespoke cubre cold email y/o LinkedIn en frío; las llamadas se presupuestan aparte según mercado. Incluir teléfonos en un mapa de funciones no las incorpora al servicio."
+        ],
+        "links": [
+          {
+            "href": "/downloads/beespoke-icp-scorecard/",
+            "label": "Comprobar encaje de cuenta"
+          },
+          {
+            "href": "/downloads/beespoke-outbound-campaign-brief/",
+            "label": "Acordar campaña y aprobaciones"
+          }
+        ]
       }
     ],
     "faqs": [
@@ -392,7 +691,7 @@
       "navLabel": "Usar la ficha de cuentas",
       "eyebrow": "Brief privado de selección",
       "heading": "Haz revisable la hipótesis de cuenta",
-      "intro": "Usa nombres inventados o etiquetas neutras. Registra pruebas y perfiles antes de proponer contacto; la herramienta no enriquece datos ni inicia campañas.",
+      "intro": "Crea fichas de cuenta, preguntas por función y traspasos en un registro revisable. Carga dos casos ficticios con sus roles y medición; separa observaciones públicas, hipótesis y respuestas confirmadas.",
       "blocks": [
         {
           "label": "1",
@@ -410,7 +709,7 @@
           "body": "Escribe próximo paso de investigación o aprobación y responsable."
         }
       ],
-      "note": "Los datos permanecen en esta página y se borran al recargar. Evita contactos y datos confidenciales. El ejemplo es inventado y no se envían mensajes."
+      "note": "Ficha privada y sin registro. Añade hasta 50 entradas, carga el ejemplo ficticio completo, crea un informe y expórtalo como CSV o imprímelo. Los datos permanecen en esta página y desaparecen al recargar. No realiza auditorías automáticas ni genera puntuaciones o resultados verificados."
     },
     "worksheet": {
       "fields": [
@@ -425,6 +724,67 @@
         "Investigar responsable operativo; aprobar observación veraz",
         "Responsable de campaña; revisar antes de contactar"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "Cuenta, función del contacto o registro de traspaso",
+        "Encaje, exclusiones y contradicciones",
+        "Fuente fechada y hechos realmente confirmados",
+        "Pregunta por función y autoridad/necesidad desconocidas",
+        "Decisión de flujo, aprobación y siguiente acción",
+        "Responsable, revisión y denominador de cuenta/contacto/reserva"
+      ],
+      "samples": [
+        [
+          "Cuenta ficticia A · empresa",
+          "Ensayos B2B; mercado pertinente; proveedor desconocido",
+          "Anuncio inventado día 1 de segunda sede; sin problema probado",
+          "¿Quién coordina sedes? Necesidad y presupuesto desconocidos",
+          "Investigar rol y aprobar pertinencia antes del contacto",
+          "Investigación; día 3; una cuenta"
+        ],
+        [
+          "Cuenta ficticia B · empresa",
+          "Solo B2C; no cumple comprador B2B",
+          "FAQ inventada confirma consumidores; sin prueba de división B2B",
+          "Sin función de compra adecuada identificada",
+          "Aplazar/excluir; no forzar encaje por sector",
+          "Lista; reabrir con pruebas nuevas; cuenta excluida"
+        ],
+        [
+          "A · operaciones",
+          "Posible responsable; autoridad presupuestaria no confirmada",
+          "Respuesta ficticia confirma coordinación y proveedor",
+          "¿Sería útil hablar de requisitos el mes que viene?",
+          "Respuesta pertinente; cualificación y paso según acuerdo",
+          "Respuestas; contexto real a ventas; contacto de la misma cuenta"
+        ],
+        [
+          "A · revisión técnica",
+          "Posible evaluador; sin asumir poder de compra",
+          "Función ficticia sin confirmar",
+          "¿Qué requisitos importarían si se valorase un cambio?",
+          "Investigar/aclarar dentro de campaña aprobada",
+          "Investigación; conservar desconocidos; misma cuenta"
+        ],
+        [
+          "A · traspaso a ventas",
+          "Encaje, proveedor y plazo registrados",
+          "Interés ficticio en hablar de alcance; no insatisfacción probada",
+          "Necesidad, presupuesto y autoridad incompletos",
+          "Transferir contexto; cliente dirige discovery/cierre",
+          "Ventas; reserva creada y llamada/cualificación por separado"
+        ],
+        [
+          "Medición ficticia",
+          "20 cuentas;40 contactos;6 respuestas de 4 cuentas",
+          "Datos didácticos inventados, no referencia de rendimiento",
+          "Celebración y cualificación sin evaluar",
+          "Una reprogramación sigue siendo una reserva original",
+          "Analista; mantener entidad y fecha de creación"
+        ]
+      ],
+      "legend": "Evidencias de cuenta, funciones y traspaso"
     }
   },
   "ca": {
@@ -552,6 +912,125 @@
             "label": "Audita captació i reserves conjuntament"
           }
         ]
+      },
+      {
+        "heading": "Dues fitxes de compte fictícies completes",
+        "body": [
+          "Empreses i senyals són inventats; no descriuen recerca de Beespoke. El compte A és una empresa fictícia d’assaigs industrials que anuncia una segona seu. La hipòtesi és que operar en diverses seus pot plantejar una pregunta de coordinació. Créixer no prova problema, pressupost ni intenció de compra.",
+          "El compte B és un proveïdor fictici de programari aparentment afí pel sector, però la informació pública descriu una oferta només per a consumidors. La campanya hipotètica busca empreses que venen a equips de compres B2B. La contradicció justifica ajornar o excloure B, no forçar-ne la inclusió."
+        ],
+        "table": {
+          "caption": "Fitxes de compte fictícies",
+          "headers": [
+            "Element",
+            "Compte A: assaigs",
+            "Compte B: programari"
+          ],
+          "rows": [
+            [
+              "Encaix",
+              "Servei B2B; model i mercat pertinents",
+              "Sector afí; model de client incompatible"
+            ],
+            [
+              "Evidència pública datada",
+              "Fictici dia 1: anunci de segona seu",
+              "Fictici dia 1: FAQ confirma oferta només B2C"
+            ],
+            [
+              "Hipòtesi",
+              "Coordinar seus pot merèixer una pregunta",
+              "No consta un problema de compres B2B"
+            ],
+            [
+              "Contradiccions i exclusions",
+              "Pot tenir proveïdor, no tenir interès o quedar fora de mercat",
+              "Només consumidors queda fora de campanya"
+            ],
+            [
+              "Desconegut",
+              "Qui coordina? Cal canviar? El contacte està autoritzat?",
+              "Hi ha divisió B2B? Sense evidència"
+            ],
+            [
+              "Decisió",
+              "Investigar funció i obtenir aprovació abans de contactar",
+              "Ajornar o excloure; reobrir només amb noves proves"
+            ],
+            [
+              "Responsable i control",
+              "Recerca valida font i funció; comercial aprova pertinència",
+              "Responsable de llista registra exclusió i evita reimportar"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Mapeja funcions sense inventar autoritat",
+        "body": [
+          "Un mateix càrrec pot tenir responsabilitats diferents. Responsable del problema, decisió comercial, revisió tècnica i possible promotor són hipòtesis. Un títol sènior d’una base de dades no prova poder de compra. Una empresa petita pot reunir funcions; una altra pot afegir compres o revisió jurídica."
+        ],
+        "table": {
+          "caption": "Funcions hipotètiques al compte A",
+          "headers": [
+            "Possible funció",
+            "Pregunta pertinent",
+            "Evidència necessària",
+            "Què falta saber"
+          ],
+          "rows": [
+            [
+              "Operacions",
+              "Qui coordina el treball entre seus?",
+              "Responsabilitat actual o aclariment directe",
+              "Si coordinar representa un problema"
+            ],
+            [
+              "Revisió tècnica",
+              "Quins requisits ha de complir un canvi?",
+              "Responsabilitat tècnica i requisits reals",
+              "Si avalua proveïdors"
+            ],
+            [
+              "Aprovació comercial",
+              "Qui aprovaria un canvi amb necessitat confirmada?",
+              "Referència autoritzada o confirmació directa",
+              "Pressupost, termini i autoritat"
+            ],
+            [
+              "Possible promotor intern",
+              "Ajudaria parlar de l’abast per valorar-ho?",
+              "Resposta pertinent que confirmi implicació",
+              "Interès no equival a aprovació de compra"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "D’una observació a preguntes pertinents i un traspàs a vendes",
+        "body": [
+          "Per a operacions a A: “L’anunci fictici de la vostra segona seu planteja qui coordina el traspàs entre ubicacions. Forma part de les teves funcions?”. La pregunta tècnica tractaria requisits si es considerés un canvi. Cap pregunta ha de fingir que ja es coneix un error, pressupost o projecte actiu. Coordina el contacte per no enviar afirmacions contradictòries a diverses persones.",
+          "Resposta fictícia: “Ho coordino jo, però ja tenim proveïdor. Podria parlar de requisits el mes vinent”. Registra funció, proveïdor i termini tal com es confirmen. És una resposta pertinent, no prova d’insatisfacció ni oportunitat qualificada. Fes només les preguntes necessàries acordades i proposa un pas següent útil.",
+          "El traspàs inclou compte i funció, font pública i data, necessitat realment confirmada, origen de l’interès o permís, límit del proveïdor actual, pressupost/autoritat desconeguts, pas acordat, identificador de reserva si es crea i responsable del seguiment. El client dirigeix descoberta, propostes i tancament. Conserva negatives i exclusions perquè una altra importació no reiniciï el contacte."
+        ]
+      },
+      {
+        "heading": "Flux controlat i mesura per compte",
+        "body": [
+          "Utilitza estats explícits: exclòs, necessita recerca, pendent d’aprovació, aprovat per contactar, resposta pertinent, traspassat i tancat o pausat. Assigna revisió de recerca, aprovació de missatges, respostes i vendes. Un senyal activa recerca; no autoritza per si sol campanya ni canal nou.",
+          "Aritmètica fictícia:20 comptes i 40 contactes generen sis respostes de quatre comptes. Són sis respostes de contactes i quatre empreses que responen, no sis empreses interessades. Una reunió real canvia de data: continua sent una reserva original. Celebració i qualificació són desconegudes fins a registrar-les. Són xifres didàctiques, no previsions.",
+          "Avalua encaix i utilitat dels traspassos, no només contactes. El preu base de Beespoke cobreix cold email i/o LinkedIn en fred; les trucades es pressuposten a part segons mercat. Incloure telèfons al mapa de funcions no les incorpora al servei."
+        ],
+        "links": [
+          {
+            "href": "/downloads/beespoke-icp-scorecard/",
+            "label": "Comprovar encaix del compte"
+          },
+          {
+            "href": "/downloads/beespoke-outbound-campaign-brief/",
+            "label": "Acordar campanya i aprovacions"
+          }
+        ]
       }
     ],
     "faqs": [
@@ -606,7 +1085,7 @@
       "navLabel": "Utilitza la fitxa de comptes",
       "eyebrow": "Brief privat de selecció",
       "heading": "Fes revisable la hipòtesi de compte",
-      "intro": "Utilitza noms inventats o etiquetes neutres. Registra evidències i perfils abans de proposar contacte; l’eina no enriqueix dades ni inicia campanyes.",
+      "intro": "Crea fitxes de compte, preguntes per funció i traspassos en un registre revisable. Carrega dos casos ficticis amb funcions i mesura; separa observacions públiques, hipòtesis i respostes confirmades.",
       "blocks": [
         {
           "label": "1",
@@ -624,7 +1103,7 @@
           "body": "Escriu el pròxim pas de recerca o aprovació i el responsable."
         }
       ],
-      "note": "Les dades romanen en aquesta pàgina i s’esborren en recarregar. Evita contactes i dades confidencials. L’exemple és inventat i no s’envien missatges."
+      "note": "Fitxa privada i sense registre. Afegeix fins a 50 entrades, carrega l’exemple fictici complet, crea un informe i exporta’l en CSV o imprimeix-lo. Les dades queden en aquesta pàgina i desapareixen en recarregar-la. No fa auditories automàtiques ni genera puntuacions o resultats verificats."
     },
     "worksheet": {
       "fields": [
@@ -639,12 +1118,73 @@
         "Investigar responsable operatiu; aprovar observació veraç",
         "Responsable de campanya; revisar abans de contactar"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "Compte, funció del contacte o registre de traspàs",
+        "Encaix, exclusions i contradiccions",
+        "Font datada i fets realment confirmats",
+        "Pregunta per funció i autoritat/necessitat desconegudes",
+        "Decisió de flux, aprovació i acció següent",
+        "Responsable, revisió i denominador de compte/contacte/reserva"
+      ],
+      "samples": [
+        [
+          "Compte fictici A · empresa",
+          "Assaigs B2B; mercat pertinent; proveïdor desconegut",
+          "Anunci inventat dia 1 de segona seu; sense problema provat",
+          "Qui coordina seus? Necessitat i pressupost desconeguts",
+          "Investigar funció i aprovar pertinència abans de contacte",
+          "Recerca; dia 3; un compte"
+        ],
+        [
+          "Compte fictici B · empresa",
+          "Només B2C; no compleix comprador B2B",
+          "FAQ inventada confirma consumidors; sense divisió B2B provada",
+          "Sense funció de compra adequada identificada",
+          "Ajornar/excloure; no forçar encaix pel sector",
+          "Llista; reobrir amb noves proves; compte exclòs"
+        ],
+        [
+          "A · operacions",
+          "Possible responsable; autoritat pressupostària no confirmada",
+          "Resposta fictícia confirma coordinació i proveïdor",
+          "Seria útil parlar de requisits el mes vinent?",
+          "Resposta pertinent; qualificació i pas segons acord",
+          "Respostes; context real a vendes; contacte del mateix compte"
+        ],
+        [
+          "A · revisió tècnica",
+          "Possible avaluador; sense assumir poder de compra",
+          "Funció fictícia no confirmada",
+          "Quins requisits importarien si es valorés un canvi?",
+          "Investigar/aclarir dins la campanya aprovada",
+          "Recerca; mantenir desconeguts; mateix compte"
+        ],
+        [
+          "A · traspàs a vendes",
+          "Encaix, proveïdor i termini registrats",
+          "Interès fictici en parlar d’abast; insatisfacció no provada",
+          "Necessitat, pressupost i autoritat incomplets",
+          "Transferir context; client dirigeix descoberta/tancament",
+          "Vendes; reserva creada i trucada/qualificació per separat"
+        ],
+        [
+          "Mesura fictícia",
+          "20 comptes;40 contactes;6 respostes de 4 comptes",
+          "Xifres didàctiques inventades, no referència de rendiment",
+          "Celebració i qualificació no avaluades",
+          "Una reprogramació continua sent una reserva original",
+          "Analista; mantenir entitat i data de creació"
+        ]
+      ],
+      "legend": "Evidències de compte, funcions i traspàs"
     }
   },
   "fr": {
     "path": "/guides/account-based-prospecting/",
     "serviceFamily": "outbound",
-    "title": "Prospection par comptes : entreprises et décideurs | Beespoke",
+    "title": "Prospection par comptes : entreprises et décideurs | Beespoke",
     "description": "Choisissez entreprises et rôles d’achat avant de prospecter. Critères de pertinence, preuves, priorités fictives et fiche privée de préparation.",
     "eyebrow": "Prospection B2B centrée sur les comptes",
     "h1": "Prospection par comptes : choisir les entreprises et les décideurs avant le premier contact",
@@ -665,7 +1205,7 @@
         "heading": "Écrire l’hypothèse de compte et les exclusions",
         "body": [
           "Définissez quelle organisation pourrait acheter, pourquoi le problème pourrait compter et quelles preuves publiques soutiendraient ou contrediraient l’hypothèse. Séparez clients potentiels, partenaires prescripteurs, distributeurs et fournisseurs. Une entreprise peut être utile sans acheter la même offre.",
-          "Fixez les exclusions avant de collecter des noms : clients actuels, opportunités ouvertes, secteurs inadaptés, conflits et organisations hors périmètre. Notez source et date de chaque signal utile. Une annonce d’expansion peut justifier une recherche, mais ne prouve ni budget, ni urgence, ni affirmation commerciale plus forte."
+          "Fixez les exclusions avant de collecter des noms : clients actuels, opportunités ouvertes, secteurs inadaptés, conflits et organisations hors périmètre. Notez source et date de chaque signal utile. Une annonce d’expansion peut justifier une recherche, mais ne prouve ni budget, ni urgence, ni affirmation commerciale plus forte."
         ],
         "items": [
           "Écrivez le problème et les conditions d’entreprise qui le rendent plausible.",
@@ -683,7 +1223,7 @@
       {
         "heading": "Prioriser selon les preuves plutôt qu’un score opaque",
         "body": [
-          "Créez peu de niveaux de travail selon pertinence et qualité des preuves. Une priorité élevée signifie une meilleure raison de rechercher ou contacter, pas une promesse d’achat. Une information absente reste non vérifiée ; un logo connu n’est pas un signal d’achat."
+          "Créez peu de niveaux de travail selon pertinence et qualité des preuves. Une priorité élevée signifie une meilleure raison de rechercher ou contacter, pas une promesse d’achat. Une information absente reste non vérifiée ; un logo connu n’est pas un signal d’achat."
         ],
         "table": {
           "caption": "Exemple fictif de priorités",
@@ -700,13 +1240,13 @@
             ],
             [
               "Clarifier la pertinence",
-              "Secteur plausible ; besoin ou unité d’achat flous",
+              "Secteur plausible ; besoin ou unité d’achat flous",
               "Rechercher avant de rédiger une affirmation précise"
             ],
             [
               "Exclure ou reporter",
               "Opportunité ouverte, marché non couvert ou preuve contradictoire",
-              "Respecter l’exclusion ; aucun contact automatique"
+              "Respecter l’exclusion ; aucun contact automatique"
             ]
           ]
         }
@@ -714,8 +1254,8 @@
       {
         "heading": "Cartographier les rôles d’achat et leurs questions",
         "body": [
-          "Identifiez la personne proche du problème, le responsable probable du budget et les évaluateurs opérationnels ou techniques. Les titres varient selon taille et marché ; un titre ne représente pas tout le comité. Notez pourquoi le rôle est pertinent et la source de la preuve. N’inventez pas de hiérarchie privée ou d’autorité d’achat.",
-          "Écrivez une question par rôle avant le message. Les opérations peuvent se soucier du processus ; la direction commerciale, de ses conséquences. Partez d’une observation véridique et d’une idée pertinente sans affirmer un problème non confirmé."
+          "Identifiez la personne proche du problème, le responsable probable du budget et les évaluateurs opérationnels ou techniques. Les titres varient selon taille et marché ; un titre ne représente pas tout le comité. Notez pourquoi le rôle est pertinent et la source de la preuve. N’inventez pas de hiérarchie privée ou d’autorité d’achat.",
+          "Écrivez une question par rôle avant le message. Les opérations peuvent se soucier du processus ; la direction commerciale, de ses conséquences. Partez d’une observation véridique et d’une idée pertinente sans affirmer un problème non confirmé."
         ],
         "links": [
           {
@@ -744,8 +1284,8 @@
       {
         "heading": "Relier la prospection à une transmission commerciale utile",
         "body": [
-          "Transmettez contexte du compte, preuves, rôle, réponse réelle et qualification à la personne qui mène la découverte. Budget, échéance et autorité inconnus restent inconnus. Les commerciaux doivent indiquer si l’appel a eu lieu, correspondait aux critères et a progressé ; sinon l’apprentissage s’arrête à la réservation.",
-          "L’outbound géré de Beespoke porte sur le cold email et/ou LinkedIn : sélection, recherche, messages, suivi, réponses, qualification et réservation selon les critères convenus, sous la direction du fondateur. Le client approuve affirmations et exclusions et gère découverte, propositions et conclusion. Les appels à froid sont chiffrés séparément selon le marché. Cela n’implique ni SDR dédié à temps plein ni volume garanti."
+          "Transmettez contexte du compte, preuves, rôle, réponse réelle et qualification à la personne qui mène la découverte. Budget, échéance et autorité inconnus restent inconnus. Les commerciaux doivent indiquer si l’appel a eu lieu, correspondait aux critères et a progressé ; sinon l’apprentissage s’arrête à la réservation.",
+          "L’outbound géré de Beespoke porte sur le cold email et/ou LinkedIn : sélection, recherche, messages, suivi, réponses, qualification et réservation selon les critères convenus, sous la direction du fondateur. Le client approuve affirmations et exclusions et gère découverte, propositions et conclusion. Les appels à froid sont chiffrés séparément selon le marché. Cela n’implique ni SDR dédié à temps plein ni volume garanti."
         ],
         "links": [
           {
@@ -757,7 +1297,7 @@
       {
         "heading": "Mesurer les bonnes conversations plutôt que la seule activité",
         "body": [
-          "Suivez la cohorte d’entreprises choisies, rôles contactés, réponses positives pertinentes, nouvelles réservations réelles, appels tenus et résultats qualifiés. Définissez dénominateurs et période. Plusieurs contacts ne deviennent pas plusieurs comptes ; un report n’est pas une nouvelle acquisition.",
+          "Suivez la cohorte d’entreprises choisies, rôles contactés, réponses positives pertinentes, nouvelles réservations réelles, appels tenus et résultats qualifiés. Définissez dénominateurs et période. Plusieurs contacts ne deviennent pas plusieurs comptes ; un report n’est pas une nouvelle acquisition.",
           "Examinez quels signaux et hypothèses de rôle ont produit des conversations utiles. N’attribuez pas toute opportunité ultérieure au premier message sans preuve. Séparez réservations créées par la prospection et acquises indépendamment par le site, même si le prospect lit ensuite un guide. Augmentez l’activité lorsque pertinence, capacité et retours commerciaux le justifient."
         ],
         "links": [
@@ -766,24 +1306,143 @@
             "label": "Auditer acquisition et réservations ensemble"
           }
         ]
+      },
+      {
+        "heading": "Deux fiches de compte fictives complètes",
+        "body": [
+          "Entreprises et signaux sont inventés ; ils ne décrivent pas une recherche de Beespoke. Le compte A est une entreprise fictive d’essais industriels annonçant un second site. L’hypothèse est qu’un changement multisite pourrait soulever une question de coordination. Une expansion ne prouve ni problème, ni budget, ni intention d’achat.",
+          "Le compte B est un éditeur fictif de logiciels dont le secteur paraît adapté, mais l’offre publique vise uniquement les particuliers. La campagne hypothétique cible des entreprises vendant à des équipes d’achat B2B. Cette contradiction justifie une mise en attente ou une exclusion, pas une inclusion forcée."
+        ],
+        "table": {
+          "caption": "Fiches de compte fictives",
+          "headers": [
+            "Élément",
+            "Compte A : essais",
+            "Compte B : logiciel"
+          ],
+          "rows": [
+            [
+              "Adéquation",
+              "Service B2B ; modèle et marché pertinents",
+              "Secteur adapté ; modèle client incompatible"
+            ],
+            [
+              "Preuve publique datée",
+              "Fictif jour 1 : annonce d’un second site",
+              "Fictif jour 1 : FAQ confirmant une offre B2C uniquement"
+            ],
+            [
+              "Hypothèse",
+              "La coordination des sites peut mériter une question",
+              "Aucun problème d’achat B2B démontré"
+            ],
+            [
+              "Contradictions et exclusions",
+              "Fournisseur existant, absence d’intérêt ou site hors marché possibles",
+              "Les particuliers sont hors périmètre de campagne"
+            ],
+            [
+              "Inconnues",
+              "Qui coordonne ? Faut-il changer ? Le contact est-il autorisé ?",
+              "Division B2B séparée ? Aucune preuve"
+            ],
+            [
+              "Décision",
+              "Rechercher le rôle puis obtenir l’accord avant contact",
+              "Attendre ou exclure ; rouvrir seulement avec nouvelle preuve"
+            ],
+            [
+              "Responsable et contrôle",
+              "Recherche vérifie source/rôle ; commercial approuve pertinence",
+              "Responsable de liste consigne exclusion et empêche réimportation"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Cartographier les rôles sans inventer l’autorité",
+        "body": [
+          "Un même titre peut recouvrir des responsabilités différentes. Responsable du problème, décision commerciale, évaluateur technique et possible relais interne restent des hypothèses. Un titre senior fourni par une base ne prouve pas le pouvoir d’achat. Une petite structure peut cumuler les rôles ; une autre peut ajouter achats ou juridique."
+        ],
+        "table": {
+          "caption": "Rôles hypothétiques du compte A",
+          "headers": [
+            "Rôle possible",
+            "Question pertinente",
+            "Preuve nécessaire",
+            "Inconnue restante"
+          ],
+          "rows": [
+            [
+              "Opérations",
+              "Qui coordonne le travail entre sites ?",
+              "Périmètre actuel ou clarification directe",
+              "La coordination pose-t-elle problème ?"
+            ],
+            [
+              "Évaluation technique",
+              "Quelles exigences un changement doit-il respecter ?",
+              "Responsabilité technique et exigences réelles",
+              "Cette personne évalue-t-elle les prestataires ?"
+            ],
+            [
+              "Approbation commerciale",
+              "Qui approuverait un changement si le besoin était confirmé ?",
+              "Orientation autorisée ou confirmation directe",
+              "Budget, calendrier et autorité"
+            ],
+            [
+              "Relais interne possible",
+              "Un échange de cadrage aiderait-il à évaluer la question ?",
+              "Réponse pertinente confirmant implication",
+              "Intérêt ne vaut pas accord d’achat"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "D’une observation aux questions pertinentes et au relais commercial",
+        "body": [
+          "Pour les opérations de A : “L’annonce fictive de votre second site soulève la question de la coordination entre implantations. Cela relève-t-il de votre rôle ?”. La question technique porte plutôt sur les exigences si un changement est envisagé. Aucune ne doit prétendre connaître un dysfonctionnement, budget ou projet actif. Coordonnez l’approche pour éviter des affirmations contradictoires à plusieurs personnes.",
+          "Réponse fictive : “Je coordonne ce travail, mais nous avons déjà un fournisseur. Je pourrais parler des exigences le mois prochain”. Consignez rôle, fournisseur et calendrier tels qu’ils sont confirmés. C’est une réponse pertinente, pas une preuve d’insatisfaction ni une opportunité qualifiée. Posez seulement les questions nécessaires convenues et proposez une suite utile.",
+          "La transmission comprend compte et rôle, référence publique datée, besoin réellement confirmé, origine de l’intérêt ou de l’autorisation, contrainte du fournisseur existant, budget/autorité inconnus, suite convenue, identifiant d’une réservation réellement créée et responsable du suivi. Le client mène découverte, propositions et conclusion. Conservez refus et exclusions pour qu’une autre importation ne relance pas le contact."
+        ]
+      },
+      {
+        "heading": "Un processus contrôlé et une mesure par compte",
+        "body": [
+          "Utilisez des états explicites : exclu, recherche requise, à approuver, contact autorisé, réponse pertinente, transmis et clôturé ou en pause. Attribuez revue de recherche, approbation des messages, réponses et ventes. Un signal peut déclencher une recherche ; il n’autorise pas automatiquement campagne ou nouveau canal.",
+          "Calcul fictif :20 comptes et 40 contacts produisent six réponses provenant de quatre comptes. Ce sont six réponses de contacts et quatre entreprises répondantes, pas six entreprises intéressées. Une réunion réelle est déplacée : elle reste une réservation originale. Tenue et qualification demeurent inconnues jusqu’à leur saisie. Ces chiffres sont pédagogiques, pas prévisionnels.",
+          "Évaluez adéquation et utilité des transmissions, pas seulement le nombre de contacts. Le périmètre outbound de base de Beespoke couvre l’email à froid et/ou LinkedIn à froid ; les appels sont chiffrés séparément selon le marché. La présence de numéros dans une cartographie ne les rend pas inclus."
+        ],
+        "links": [
+          {
+            "href": "/downloads/beespoke-icp-scorecard/",
+            "label": "Vérifier l’adéquation du compte"
+          },
+          {
+            "href": "/downloads/beespoke-outbound-campaign-brief/",
+            "label": "Convenir de la campagne et des approbations"
+          }
+        ]
       }
     ],
     "faqs": [
       {
-        "question": "Quelle différence avec une liste de contacts ?",
+        "question": "Quelle différence avec une liste de contacts ?",
         "answer": "L’approche part d’une hypothèse de pertinence de l’entreprise, d’exclusions et de preuves datées, puis cartographie rôles et messages pertinents. Une liste fournit des noms, pas une raison de les contacter."
       },
       {
-        "question": "Est-ce la même chose que l’ABM ?",
+        "question": "Est-ce la même chose que l’ABM ?",
         "answer": "Non. La prospection couvre sélection, contact, réponses et transmission. Le marketing par comptes peut englober un programme plus large de publicité, contenu, développement des clients et équipes."
       },
       {
-        "question": "Combien d’entreprises faut-il sélectionner ?",
+        "question": "Combien d’entreprises faut-il sélectionner ?",
         "answer": "Une cohorte que vous pouvez rechercher, examiner et suivre avec la capacité réelle. Il n’existe pas de nombre universel. Ajouter des comptes sans pertinence ni gestion des réponses peut affaiblir le test."
       },
       {
-        "question": "Les appels à froid ou un SDR dédié sont-ils inclus ?",
-        "answer": "Ce sont des décisions de périmètre distinctes. L’outbound standard de Beespoke porte sur cold email et/ou LinkedIn. Les appels sont chiffrés par marché ; aucun SDR dédié à temps plein n’est implicite."
+        "question": "Les appels à froid ou un SDR dédié sont-ils inclus ?",
+        "answer": "Ce sont des décisions de périmètre distinctes. L’outbound standard de Beespoke porte sur cold email et/ou LinkedIn. Les appels sont chiffrés par marché ; aucun SDR dédié à temps plein n’est implicite."
       }
     ],
     "related": [
@@ -793,7 +1452,7 @@
     ],
     "sources": [
       {
-        "label": "UserGems : prospection par comptes",
+        "label": "UserGems : prospection par comptes",
         "href": "https://www.usergems.com/blog/account-based-prospecting"
       },
       {
@@ -802,7 +1461,7 @@
       }
     ],
     "sourceChecked": "27 octobre 2026",
-    "sourceMethodology": "UserGems éclaire la comparaison des processus. La fiche et l’exemple de priorités sont des méthodes de préparation. Tous les comptes et signaux sont fictifs ; aucune liste privée, résultat de campagne ou affirmation d’intention d’achat n’est fourni.",
+    "sourceMethodology": "UserGems éclaire la comparaison des processus. La fiche et l’exemple de priorités sont des méthodes de préparation. Tous les comptes et signaux sont fictifs ; aucune liste privée, résultat de campagne ou affirmation d’intention d’achat n’est fourni.",
     "decisionGuide": {
       "heading": "Approuver la logique des comptes avant d’élargir les contacts",
       "body": [
@@ -820,7 +1479,7 @@
       "navLabel": "Utiliser la fiche de comptes",
       "eyebrow": "Brief privé de sélection",
       "heading": "Rendre l’hypothèse de compte vérifiable",
-      "intro": "Utilisez des noms inventés ou des étiquettes neutres. Notez preuves et rôles avant de proposer un contact ; l’outil n’enrichit pas de données et ne lance pas de campagne.",
+      "intro": "Créez fiches de compte, questions par rôle et transmissions dans un registre vérifiable. Chargez les deux cas fictifs, leurs rôles et leur mesure ; séparez observations publiques, hypothèses et réponses confirmées.",
       "blocks": [
         {
           "label": "1",
@@ -838,7 +1497,7 @@
           "body": "Écrivez la prochaine recherche ou approbation et son responsable."
         }
       ],
-      "note": "Les données restent sur cette page et disparaissent au rechargement. Évitez coordonnées et données confidentielles. L’exemple est inventé et aucun message n’est envoyé."
+      "note": "Fiche privée sans inscription. Ajoutez jusqu’à 50 entrées, chargez l’exemple fictif complet, créez un rapport puis exportez-le en CSV ou imprimez-le. Les données restent sur cette page et disparaissent au rechargement. Aucun audit automatique, score ou résultat vérifié n’est produit."
     },
     "worksheet": {
       "fields": [
@@ -849,10 +1508,71 @@
       ],
       "sample": [
         "Entreprise fictive A — processus B2B plausible",
-        "Page de processus inventée ; budget et échéance inconnus",
-        "Rechercher le responsable opérationnel ; approuver une observation véridique",
-        "Responsable de campagne ; revoir avant contact"
+        "Page de processus inventée ; budget et échéance inconnus",
+        "Rechercher le responsable opérationnel ; approuver une observation véridique",
+        "Responsable de campagne ; revoir avant contact"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "Compte, rôle du contact ou transmission",
+        "Adéquation, exclusions et contradictions",
+        "Source datée et faits réellement confirmés",
+        "Question par rôle et autorité/besoin inconnus",
+        "Décision de processus, approbation et prochaine action",
+        "Responsable, revue et dénominateur compte/contact/réservation"
+      ],
+      "samples": [
+        [
+          "Compte fictif A · entreprise",
+          "Essais B2B ; marché pertinent ; fournisseur inconnu",
+          "Annonce inventée jour 1 du second site ; aucun problème prouvé",
+          "Qui coordonne ? Besoin et budget inconnus",
+          "Rechercher rôle puis approuver pertinence avant contact",
+          "Recherche ; jour 3 ; un compte"
+        ],
+        [
+          "Compte fictif B · entreprise",
+          "B2C uniquement ; critère acheteur B2B non rempli",
+          "FAQ inventée ; aucune preuve de division B2B",
+          "Aucun rôle d’achat adapté établi",
+          "Attendre/exclure ; ne pas forcer le secteur",
+          "Liste ; rouvrir avec preuve nouvelle ; compte exclu"
+        ],
+        [
+          "A · opérations",
+          "Responsable possible ; autorité budgétaire non confirmée",
+          "Réponse fictive confirme coordination et fournisseur",
+          "Un échange sur les exigences le mois prochain serait-il utile ?",
+          "Réponse pertinente ; qualification et suite selon accord",
+          "Réponses ; contexte exact aux ventes ; même compte"
+        ],
+        [
+          "A · évaluateur technique",
+          "Évaluateur possible ; pas de pouvoir d’achat présumé",
+          "Rôle fictif non confirmé",
+          "Quelles exigences compteraient si un changement était envisagé ?",
+          "Rechercher/clarifier dans la campagne approuvée",
+          "Recherche ; conserver inconnues ; même compte"
+        ],
+        [
+          "A · transmission commerciale",
+          "Adéquation, fournisseur et calendrier notés",
+          "Intérêt fictif pour un cadrage ; aucune insatisfaction prouvée",
+          "Besoin, budget et autorité incomplets",
+          "Transmettre contexte ; client mène découverte/conclusion",
+          "Ventes ; réservation créée, tenue et qualification séparées"
+        ],
+        [
+          "Mesure fictive",
+          "20 comptes ;40 contacts ;6 réponses de 4 comptes",
+          "Chiffres pédagogiques inventés, pas une référence de performance",
+          "Tenue et qualification non évaluées",
+          "Un déplacement reste une réservation originale",
+          "Analyste ; préserver entité et date de création"
+        ]
+      ],
+      "legend": "Preuves de compte, rôles et transmission"
     }
   }
 }

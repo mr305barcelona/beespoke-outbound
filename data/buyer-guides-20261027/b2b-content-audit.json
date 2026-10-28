@@ -142,6 +142,83 @@
             "label": "Discuss ongoing SEO and content implementation"
           }
         ]
+      },
+      {
+        "heading": "Build an inventory that can support a decision",
+        "body": [
+          "Start with one record per canonical public URL and a separate language-family identifier. Keep the observed URL and redirect destination when they differ; do not silently join unrelated pages because their titles resemble one another. Add language, buyer question, stage, linked service, owner and last substantive change.",
+          "Join Search Console page/query records to the canonical using an explicitly documented mapping. Record dates, country, device and disclosed-query coverage. Keep GA4 landing sessions separate from pageviews and from all sessions in which a page appeared. Join booking evidence only where a legitimate identifier or source record supports it. Missing joins remain unknown.",
+          "The workbook separates these fields so a future editor can reproduce your decision. Search performance, landing activity, original-created bookings, held calls and qualification describe different things; do not put them in one undifferentiated “conversions” column."
+        ]
+      },
+      {
+        "heading": "A completed fictional portfolio: six reasons to make different decisions",
+        "body": [
+          "All counts, dates and paths below are invented training data, not Beespoke or client results. The comparison window is two complete 28-day periods, in one unchanged reporting setup. Booking evidence is separate from search and landing records."
+        ],
+        "table": {
+          "caption": "Fictional portfolio and action register",
+          "headers": [
+            "Page and role",
+            "Evidence and unknowns",
+            "Decision with reason",
+            "Approval and retest"
+          ],
+          "rows": [
+            [
+              "/services/calibration/ · evaluate provider",
+              "Relevant query clicks 8→9; organic landings 12→14; one original-created website booking verified, qualification unknown",
+              "Keep accurate service content; improve the specific unanswered scope question",
+              "Commercial owner approves scope; review matched query and genuine outcomes"
+            ],
+            [
+              "/guides/calibration-cost/ · budget",
+              "Clicks 7→3; old source describes a retired process; query mix changed",
+              "Update verified facts and missing cost drivers; retain URL",
+              "Subject owner verifies primary source; annotate revision and compare mature cohort"
+            ],
+            [
+              "/fr/guides/calibration-cost/ · French equivalent",
+              "Published recently; index and performance evidence not yet available",
+              "Hold performance judgment; retain and check discovery",
+              "Editor verifies full language journey; date next observation"
+            ],
+            [
+              "/downloads/site-preparation/ · prepare visit",
+              "One landing; buyers use it after discovery; SEO volume small",
+              "Keep useful supporting asset; do not delete for low traffic",
+              "Sales owner reviews usefulness, accuracy and next step"
+            ],
+            [
+              "/guides/calibration-basics-a/ · basic explanation",
+              "Same apparent question as B; external links and unique passages unreviewed",
+              "Possible combine, not authorized removal; compare both first",
+              "SEO/editor checks intent, links, equivalents and redirect plan"
+            ],
+            [
+              "/guides/retired-procedure/ · discontinued task",
+              "Owner confirms procedure retired; no useful replacement of the same job; links still need audit",
+              "Retirement candidate after review, not automatic redirect to homepage",
+              "Owner approves; resolve incoming links and language dependencies; validate final status"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Use conditional decisions rather than traffic thresholds",
+        "body": [
+          "Keep when the page is accurate and serves a distinct useful job. Update when the job remains valid but facts, answers, proof or usability have a demonstrated gap. Hold when age, attribution, index state or ownership is not assessed. Low clicks alone do not distinguish these cases.",
+          "Combine only when the same buyer job is genuinely duplicated and the retained destination can satisfy both audiences without losing useful material. Review incoming links, unique queries, booking contribution, language relationships and bookmarks. Prepare the destination and explicit redirect mapping before an approved retirement. Never redirect an unrelated retired page to a convenient service merely to avoid a 404.",
+          "Retire only after the responsible owner confirms that the job is obsolete, wrong or outside scope and useful alternatives have been assessed. Preserve the reasoning and rollback dependency. A content-audit worksheet does not authorize deleting URLs or changing commercial claims."
+        ]
+      },
+      {
+        "heading": "Make the handoff repeatable and keep the inventory current",
+        "body": [
+          "Assign an editorial owner for facts, an implementer for changes and a validator for live acceptance. A task needs the URL, buyer question, current evidence, smallest proposed change, approval hold, release and retest. Keep source-review dates separate from publication dates.",
+          "After substantive publication, check the final language pages, metadata, FAQ parity, assets, links and contact path. Then use sufficiently mature matched periods for search and source-aware booking evidence. A technical pass completes implementation; it does not prove that the new article caused an additional sale.",
+          "Use the local CSV as a portable decision register. Copy references rather than private prospect details. Load the six-row example to inspect the full decision trail; export your own notes before leaving because this page does not save them."
+        ]
       }
     ],
     "faqs": [
@@ -200,7 +277,7 @@
       "navLabel": "Use the content inventory worksheet",
       "eyebrow": "Ungated content planning",
       "heading": "Record the decision for each existing page",
-      "intro": "Use three blank rows to connect a page’s buyer job, evidence and proposed decision. The summary counts entries, not quality or ranking potential.",
+      "intro": "Inventory the page, its evidence and its decision separately. Load the complete six-page portfolio, then build a report or CSV containing your own decisions. No thresholds automatically delete or merge pages.",
       "blocks": [
         {
           "label": "1",
@@ -218,7 +295,7 @@
           "body": "Write keep, update, combine, retire or hold, with a responsible owner."
         }
       ],
-      "note": "Inputs remain on this page and clear on refresh. Do not enter private customer data. The sample is invented; no page is edited or removed by this worksheet."
+      "note": "Private, ungated workbook. Add up to 50 entries, load the complete fictional example, build a report and export CSV or print. Inputs stay in this page and disappear on reload. No automatic audit, score or verified outcome is produced."
     },
     "worksheet": {
       "fields": [
@@ -233,6 +310,95 @@
         "Update the same URL; preserve useful existing answers",
         "Content owner; verify copy, then review mature queries"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "Observed URL and canonical mapping",
+        "Language and equivalent-page family",
+        "Buyer question, stage and linked service",
+        "Content owner and last substantive change",
+        "Index state, date and evidence source",
+        "Search dates, country/device, metrics and row coverage",
+        "Landing dates and genuine booking/held/qualified evidence",
+        "Current proof, CTA and incoming/internal links",
+        "Keep/update/combine/retire/hold: reason and dependencies",
+        "Action owner, approval, implementation and review date"
+      ],
+      "samples": [
+        [
+          "/services/calibration/",
+          "en · calibration service family",
+          "Evaluate provider · decision · service",
+          "Commercial owner; current facts checked",
+          "Fictional indexed at review",
+          "Two fictional 28-day periods: clicks 8→9",
+          "Organic landings 12→14;1website booking verified; qualification unknown",
+          "Accurate proof; scope question missing; links retained",
+          "Keep; improve scope answer only",
+          "Commercial approval; editor; mature matched review"
+        ],
+        [
+          "/guides/calibration-cost/",
+          "en · cost guide family",
+          "Budget scope · evaluation · service",
+          "Subject owner; old procedure reference",
+          "Fictional indexed",
+          "Clicks 7→3; query mix changed",
+          "Booking source not established",
+          "Primary source outdated; current links not removed",
+          "Update verified facts and cost drivers; preserve URL",
+          "Subject approval; annotate revision; compare same queries"
+        ],
+        [
+          "/fr/guides/calibration-cost/",
+          "fr · same cost family",
+          "Budget in French · evaluation",
+          "French editor; newly published",
+          "Unknown; review discovery",
+          "No mature comparable window",
+          "Unknown, not zero",
+          "Complete equivalent; verify links and booking language",
+          "Hold performance judgment; retain",
+          "Editor checks discovery; record next inspection"
+        ],
+        [
+          "/downloads/site-preparation/",
+          "en · preparation resource",
+          "Prepare visit · supporting asset",
+          "Sales owner; accurate checklist",
+          "Unassessed",
+          "Small search sample",
+          "One landing; reported use after discovery; attribution limited",
+          "Useful preparation; next step relevant",
+          "Keep; low traffic is insufficient reason to remove",
+          "Sales owner; verify usefulness and facts"
+        ],
+        [
+          "/guides/calibration-basics-a/",
+          "en · basic guide family",
+          "Basic explanation · learning",
+          "Editor; B also exists",
+          "Unassessed",
+          "Unique query coverage incomplete",
+          "Unknown",
+          "Incoming links and unique passages not examined",
+          "Possible combine only after review; no deletion yet",
+          "SEO/editor compares A/B and language/redirect consequences"
+        ],
+        [
+          "/guides/retired-procedure/",
+          "en · retired procedure family",
+          "Discontinued task",
+          "Owner confirms retirement",
+          "Unassessed",
+          "No complete link review",
+          "Unknown",
+          "No equivalent useful destination established",
+          "Retirement candidate; approval and incoming-link review required",
+          "Owner approval; fix links; validate final status and equivalents"
+        ]
+      ],
+      "legend": "Content inventory and decision record"
     }
   },
   "es": {
@@ -378,6 +544,83 @@
             "label": "Consulta la ejecución continua de SEO y contenidos"
           }
         ]
+      },
+      {
+        "heading": "Crea un inventario que permita decidir",
+        "body": [
+          "Empieza con un registro por URL pública canónica y un identificador independiente para sus equivalentes lingüísticos. Conserva URL observada y destino de redirección cuando difieran; no unas páginas por tener títulos parecidos. Añade idioma, pregunta de compra, etapa, servicio relacionado, responsable y último cambio sustancial.",
+          "Relaciona los datos de páginas y consultas de Search Console con la canónica mediante un mapeo explícito. Registra fechas, país, dispositivo y cobertura de consultas. Separa las sesiones de entrada de GA4 de las páginas vistas y de las sesiones en las que una página apareció en cualquier momento. Vincula reservas solo cuando lo respalde un identificador o registro legítimo; lo que no se pueda relacionar sigue desconocido.",
+          "La ficha separa estos campos para que otro editor reproduzca la decisión. Rendimiento en búsquedas, actividad de entrada, reservas creadas originalmente, llamadas celebradas y cualificación no deben mezclarse en una sola columna de “conversiones”."
+        ]
+      },
+      {
+        "heading": "Un conjunto ficticio completo: seis motivos para decidir de forma distinta",
+        "body": [
+          "Todos los datos, fechas y rutas son inventados; no son resultados de Beespoke ni de clientes. Se comparan dos periodos completos de 28 días con la misma configuración. Las pruebas de reserva se registran por separado."
+        ],
+        "table": {
+          "caption": "Inventario ficticio y acciones",
+          "headers": [
+            "Página y función",
+            "Evidencias y dudas",
+            "Decisión razonada",
+            "Aprobación y control"
+          ],
+          "rows": [
+            [
+              "/services/calibration/ · evaluar proveedor",
+              "Clics relevantes 8→9; entradas orgánicas 12→14; una reserva web verificada, cualificación desconocida",
+              "Conservar contenido correcto; completar la pregunta concreta sobre alcance",
+              "Responsable comercial aprueba; revisar cohortes y resultados reales"
+            ],
+            [
+              "/guides/calibration-cost/ · presupuesto",
+              "Clics 7→3; fuente antigua con proceso retirado; cambia mezcla de consultas",
+              "Actualizar hechos y factores de coste; conservar URL",
+              "Especialista verifica fuente; anotar revisión y comparar datos maduros"
+            ],
+            [
+              "/fr/guides/calibration-cost/ · equivalente francés",
+              "Publicación reciente; indexación y rendimiento aún desconocidos",
+              "Aplazar juicio; conservar y revisar descubrimiento",
+              "Editor verifica recorrido completo y fecha próximo control"
+            ],
+            [
+              "/downloads/site-preparation/ · preparar visita",
+              "Una entrada; usado tras descubrimiento; volumen pequeño",
+              "Conservar recurso útil; no borrar por pocas visitas",
+              "Comercial revisa utilidad, exactitud y siguiente paso"
+            ],
+            [
+              "/guides/calibration-basics-a/ · explicación",
+              "Pregunta aparentemente igual a B; enlaces y pasajes únicos pendientes",
+              "Posible combinación; sin autorizar eliminación",
+              "SEO y edición revisan intención, enlaces, idiomas y redirección"
+            ],
+            [
+              "/guides/retired-procedure/ · tarea retirada",
+              "Responsable confirma retirada; no hay sustituto equivalente; faltan revisar enlaces",
+              "Candidato a retirada tras revisión; no redirigir automáticamente al inicio",
+              "Aprobación; resolver enlaces y dependencias; validar estado final"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Decisiones condicionales en lugar de umbrales de tráfico",
+        "body": [
+          "Conserva cuando la página sea correcta y resuelva una tarea útil y distinta. Actualiza si la tarea sigue vigente y existe una carencia demostrada en datos, respuestas, pruebas o uso. Aplaza si faltan antigüedad suficiente, atribución, indexación o responsable. Los clics bajos no distinguen por sí solos estos casos.",
+          "Combina solo si se duplica la misma pregunta y la página conservada puede servir a ambos públicos sin perder material útil. Revisa enlaces entrantes, consultas únicas, aportación a reservas, idiomas y marcadores. Prepara destino y mapeo de redirecciones antes de retirar con aprobación. No redirijas una página retirada a un servicio no equivalente solo para evitar un 404.",
+          "Retira únicamente cuando el responsable confirme obsolescencia, error o falta de encaje y se hayan evaluado alternativas. Documenta razones y dependencias de reversión. Esta ficha no autoriza borrar URLs ni cambiar afirmaciones comerciales."
+        ]
+      },
+      {
+        "heading": "Entrega reproducible e inventario actualizado",
+        "body": [
+          "Asigna un responsable editorial para los hechos, otro para implementar y otro para validar. Cada tarea requiere URL, pregunta, evidencia, cambio mínimo, aprobación pendiente, publicación y comprobación. Separa fecha de revisión de fuente y fecha de publicación.",
+          "Después de un cambio sustancial, revisa idiomas, metadatos, correspondencia de FAQs, recursos, enlaces y contacto. Después compara periodos maduros y reservas con origen. Una prueba técnica valida la implementación; no demuestra que el artículo haya provocado una venta.",
+          "El CSV local conserva decisiones y referencias sin datos privados de prospectos. Carga las seis filas ficticias para revisar el razonamiento y exporta tus notas antes de salir; la página no las guarda."
+        ]
       }
     ],
     "faqs": [
@@ -436,7 +679,7 @@
       "navLabel": "Usar la ficha de inventario",
       "eyebrow": "Planificación sin registro",
       "heading": "Registra la decisión sobre cada página",
-      "intro": "Conecta función de compra, pruebas y decisión en tres filas. El resumen cuenta entradas, no calidad ni potencial de posicionamiento.",
+      "intro": "Registra por separado página, evidencias y decisión. Carga el conjunto ficticio de seis páginas y crea un informe o CSV con tus propias decisiones. Ningún umbral borra o fusiona páginas automáticamente.",
       "blocks": [
         {
           "label": "1",
@@ -454,7 +697,7 @@
           "body": "Escribe conservar, actualizar, combinar, retirar o aplazar, con responsable."
         }
       ],
-      "note": "Los datos permanecen en esta página y se borran al recargar. No introduzcas datos privados de clientes. El ejemplo es inventado; la ficha no modifica ni elimina páginas."
+      "note": "Ficha privada y sin registro. Añade hasta 50 entradas, carga el ejemplo ficticio completo, crea un informe y expórtalo como CSV o imprímelo. Los datos permanecen en esta página y desaparecen al recargar. No realiza auditorías automáticas ni genera puntuaciones o resultados verificados."
     },
     "worksheet": {
       "fields": [
@@ -469,6 +712,95 @@
         "Actualizar la misma URL; preservar respuestas útiles",
         "Responsable editorial; revisar texto y después consultas maduras"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "URL observada y mapeo canónico",
+        "Idioma y familia de equivalentes",
+        "Pregunta de compra, etapa y servicio",
+        "Responsable y último cambio sustancial",
+        "Indexación, fecha y fuente",
+        "Fechas SEO, país/dispositivo, métricas y cobertura",
+        "Fechas de entrada y reservas/llamadas/cualificación reales",
+        "Pruebas, CTA y enlaces entrantes/internos",
+        "Conservar/actualizar/combinar/retirar/aplazar: razón y dependencias",
+        "Responsable de acción, aprobación, implementación y revisión"
+      ],
+      "samples": [
+        [
+          "/services/calibration/",
+          "en · familia del servicio",
+          "Evaluar proveedor · decisión · servicio",
+          "Comercial; hechos actuales",
+          "Indexación ficticia verificada",
+          "Dos periodos ficticios 28 días; clics 8→9",
+          "Entradas 12→14;1 reserva web verificada; cualificación desconocida",
+          "Pruebas correctas; falta aclarar alcance; conservar enlaces",
+          "Conservar; completar alcance",
+          "Aprobación comercial; edición; revisión madura"
+        ],
+        [
+          "/guides/calibration-cost/",
+          "en · familia de costes",
+          "Presupuesto · evaluación",
+          "Especialista; referencia antigua",
+          "Indexación ficticia",
+          "Clics 7→3; cambia mezcla",
+          "Origen de reservas desconocido",
+          "Fuente primaria anticuada; no eliminar enlaces",
+          "Actualizar hechos y factores; conservar URL",
+          "Aprobar datos; anotar revisión; mismas consultas"
+        ],
+        [
+          "/fr/guides/calibration-cost/",
+          "fr · misma familia",
+          "Presupuesto en francés",
+          "Editor francés; nueva",
+          "Desconocida; revisar descubrimiento",
+          "Sin periodo maduro",
+          "Desconocido, no cero",
+          "Equivalente completo; revisar enlaces y reserva",
+          "Aplazar juicio de resultados; conservar",
+          "Edición; fecha siguiente inspección"
+        ],
+        [
+          "/downloads/site-preparation/",
+          "en · recurso",
+          "Preparar visita · apoyo",
+          "Comercial; lista correcta",
+          "No evaluada",
+          "Muestra pequeña",
+          "Una entrada; uso comunicado tras descubrimiento; atribución limitada",
+          "Preparación útil; siguiente paso relevante",
+          "Conservar; poco tráfico no basta para borrar",
+          "Comercial verifica utilidad y hechos"
+        ],
+        [
+          "/guides/calibration-basics-a/",
+          "en · guía básica",
+          "Explicación inicial",
+          "Edición; también existe B",
+          "No evaluada",
+          "Consultas únicas incompletas",
+          "Desconocido",
+          "Enlaces y pasajes únicos sin revisar",
+          "Posible combinación tras revisión; no borrar",
+          "SEO/edición comparan A/B, idiomas y redirecciones"
+        ],
+        [
+          "/guides/retired-procedure/",
+          "en · procedimiento retirado",
+          "Tarea discontinuada",
+          "Responsable confirma retirada",
+          "No evaluada",
+          "Enlaces sin revisar por completo",
+          "Desconocido",
+          "Sin destino útil equivalente",
+          "Candidato a retirada; exige aprobación y revisión",
+          "Aprobar; reparar enlaces; validar estado e idiomas"
+        ]
+      ],
+      "legend": "Inventario de contenido y decisiones"
     }
   },
   "ca": {
@@ -614,6 +946,83 @@
             "label": "Consulta l’execució continuada de SEO i continguts"
           }
         ]
+      },
+      {
+        "heading": "Crea un inventari que permeti decidir",
+        "body": [
+          "Comença amb un registre per URL pública canònica i un identificador independent per als equivalents lingüístics. Conserva URL observada i destinació de redirecció quan difereixin; no uneixis pàgines perquè tenen títols semblants. Afegeix idioma, pregunta de compra, etapa, servei vinculat, responsable i últim canvi substancial.",
+          "Relaciona dades de pàgines i consultes de Search Console amb la canònica mitjançant un mapatge explícit. Registra dates, país, dispositiu i cobertura de consultes. Separa sessions d’entrada de GA4 de pàgines vistes i de sessions en què la pàgina apareix en qualsevol moment. Vincula reserves només amb un identificador o registre legítim; allò que no es pot relacionar continua desconegut.",
+          "La fitxa separa camps perquè un altre editor pugui reproduir la decisió. Rendiment en cerques, activitat d’entrada, reserves creades originalment, trucades fetes i qualificació no han de barrejar-se en una sola columna de “conversions”."
+        ]
+      },
+      {
+        "heading": "Un conjunt fictici complet: sis raons per decidir diferent",
+        "body": [
+          "Totes les dades, dates i rutes són inventades; no són resultats de Beespoke ni de clients. Es comparen dos períodes complets de 28 dies amb la mateixa configuració. L’evidència de reserves es registra per separat."
+        ],
+        "table": {
+          "caption": "Inventari fictici i accions",
+          "headers": [
+            "Pàgina i funció",
+            "Evidències i dubtes",
+            "Decisió raonada",
+            "Aprovació i control"
+          ],
+          "rows": [
+            [
+              "/services/calibration/ · valorar proveïdor",
+              "Clics pertinents 8→9; entrades orgàniques 12→14; una reserva web verificada, qualificació desconeguda",
+              "Conservar contingut correcte; aclarir la pregunta d’abast",
+              "Comercial aprova; revisar cohorts i resultats reals"
+            ],
+            [
+              "/guides/calibration-cost/ · pressupost",
+              "Clics 7→3; font antiga amb procés retirat; canvia barreja",
+              "Actualitzar fets i factors de cost; conservar URL",
+              "Especialista verifica font; anotar revisió i comparar dades madures"
+            ],
+            [
+              "/fr/guides/calibration-cost/ · francès",
+              "Recent; indexació i rendiment desconeguts",
+              "Ajornar judici; conservar i revisar descobriment",
+              "Edició verifica recorregut i pròxim control"
+            ],
+            [
+              "/downloads/site-preparation/ · preparar visita",
+              "Una entrada; ús després de descoberta; volum petit",
+              "Conservar recurs útil; no esborrar per poques visites",
+              "Comercial revisa utilitat, exactitud i pas següent"
+            ],
+            [
+              "/guides/calibration-basics-a/ · explicació",
+              "Pregunta aparentment igual a B; enllaços i passatges únics pendents",
+              "Possible combinació; eliminació no autoritzada",
+              "SEO/edició revisen intenció, enllaços, idiomes i redirecció"
+            ],
+            [
+              "/guides/retired-procedure/ · tasca retirada",
+              "Responsable confirma retirada; sense substitut equivalent; enllaços pendents",
+              "Candidat a retirada després de revisió; no redirigir a inici automàticament",
+              "Aprovar; resoldre enllaços i dependències; validar estat final"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Decisions condicionals en comptes de llindars de trànsit",
+        "body": [
+          "Conserva si la pàgina és correcta i resol una tasca útil i diferenciada. Actualitza si la tasca continua vigent i hi ha una mancança demostrada en fets, respostes, evidències o ús. Ajornar és adequat si falten antiguitat suficient, atribució, indexació o responsable. Pocs clics no distingeixen aquests casos.",
+          "Combina només quan es duplica la mateixa pregunta i la pàgina conservada pot servir tots dos públics sense perdre material útil. Revisa enllaços entrants, consultes úniques, contribució a reserves, idiomes i adreces d’interès. Prepara destinació i mapatge de redireccions abans d’una retirada aprovada. No redirigeixis una pàgina a un servei no equivalent només per evitar un 404.",
+          "Retira només quan el responsable confirmi obsolescència, error o manca d’encaix i s’hagin valorat alternatives. Documenta raons i dependències per revertir-ho. Aquesta fitxa no autoritza esborrar URLs ni canviar afirmacions comercials."
+        ]
+      },
+      {
+        "heading": "Entrega reproduïble i inventari al dia",
+        "body": [
+          "Assigna un responsable editorial dels fets, un implementador i un validador. Cada tasca necessita URL, pregunta, evidència, canvi mínim, aprovació pendent, publicació i comprovació. Separa revisió de font i data de publicació.",
+          "Després d’un canvi substancial, revisa idiomes, metadades, correspondència de FAQs, recursos, enllaços i contacte. Després compara períodes madurs i reserves amb origen. La prova tècnica valida la implementació; no demostra que l’article hagi provocat una venda.",
+          "El CSV local conserva decisions i referències sense dades privades de prospectes. Carrega les sis files fictícies per revisar el raonament i exporta les notes abans de sortir; la pàgina no les desa."
+        ]
       }
     ],
     "faqs": [
@@ -672,7 +1081,7 @@
       "navLabel": "Utilitza la fitxa d’inventari",
       "eyebrow": "Planificació sense registre",
       "heading": "Registra la decisió sobre cada pàgina",
-      "intro": "Connecta funció de compra, evidències i decisió en tres files. El resum compta entrades, no qualitat ni potencial de posicionament.",
+      "intro": "Registra pàgina, evidències i decisió per separat. Carrega el conjunt fictici de sis pàgines i crea un informe o CSV amb decisions pròpies. Cap llindar esborra o fusiona pàgines automàticament.",
       "blocks": [
         {
           "label": "1",
@@ -690,7 +1099,7 @@
           "body": "Escriu conservar, actualitzar, combinar, retirar o ajornar, amb responsable."
         }
       ],
-      "note": "Les dades romanen en aquesta pàgina i s’esborren en recarregar. No introdueixis dades privades de clients. L’exemple és inventat; la fitxa no modifica ni elimina pàgines."
+      "note": "Fitxa privada i sense registre. Afegeix fins a 50 entrades, carrega l’exemple fictici complet, crea un informe i exporta’l en CSV o imprimeix-lo. Les dades queden en aquesta pàgina i desapareixen en recarregar-la. No fa auditories automàtiques ni genera puntuacions o resultats verificats."
     },
     "worksheet": {
       "fields": [
@@ -705,15 +1114,104 @@
         "Actualitzar la mateixa URL; preservar respostes útils",
         "Responsable editorial; revisar text i després consultes madures"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "URL observada i mapatge canònic",
+        "Idioma i família d’equivalents",
+        "Pregunta de compra, etapa i servei",
+        "Responsable i últim canvi substancial",
+        "Indexació, data i font",
+        "Dates SEO, país/dispositiu, mètriques i cobertura",
+        "Dates d’entrada i reserves/trucades/qualificació reals",
+        "Evidències, CTA i enllaços entrants/interns",
+        "Conservar/actualitzar/combinar/retirar/ajornar: raó i dependències",
+        "Responsable d’acció, aprovació, implementació i revisió"
+      ],
+      "samples": [
+        [
+          "/services/calibration/",
+          "en · família del servei",
+          "Valorar proveïdor · decisió · servei",
+          "Comercial; fets actuals",
+          "Indexació fictícia verificada",
+          "Dos períodes ficticis 28 dies; clics 8→9",
+          "Entrades 12→14;1 reserva web verificada; qualificació desconeguda",
+          "Evidències correctes; falta abast; conservar enllaços",
+          "Conservar; aclarir abast",
+          "Aprovació comercial; edició; revisió madura"
+        ],
+        [
+          "/guides/calibration-cost/",
+          "en · família de costos",
+          "Pressupost · avaluació",
+          "Especialista; referència antiga",
+          "Indexació fictícia",
+          "Clics 7→3; canvia barreja",
+          "Origen de reserves desconegut",
+          "Font primària antiga; no eliminar enllaços",
+          "Actualitzar fets i factors; conservar URL",
+          "Aprovar fets; anotar revisió; mateixes consultes"
+        ],
+        [
+          "/fr/guides/calibration-cost/",
+          "fr · mateixa família",
+          "Pressupost en francès",
+          "Editor francès; nova",
+          "Desconeguda; revisar descobriment",
+          "Sense període madur",
+          "Desconegut, no zero",
+          "Equivalent complet; revisar enllaços i reserva",
+          "Ajornar judici de resultats; conservar",
+          "Edició; data d’inspecció següent"
+        ],
+        [
+          "/downloads/site-preparation/",
+          "en · recurs",
+          "Preparar visita · suport",
+          "Comercial; llista correcta",
+          "No avaluada",
+          "Mostra petita",
+          "Una entrada; ús comunicat després de descoberta; atribució limitada",
+          "Preparació útil; pas següent pertinent",
+          "Conservar; poc trànsit no basta per esborrar",
+          "Comercial comprova utilitat i fets"
+        ],
+        [
+          "/guides/calibration-basics-a/",
+          "en · guia bàsica",
+          "Explicació inicial",
+          "Edició; B també existeix",
+          "No avaluada",
+          "Consultes úniques incompletes",
+          "Desconegut",
+          "Enllaços i passatges únics no revisats",
+          "Possible combinació després de revisar; no esborrar",
+          "SEO/edició comparen A/B, idiomes i redireccions"
+        ],
+        [
+          "/guides/retired-procedure/",
+          "en · procediment retirat",
+          "Tasca discontinuada",
+          "Responsable confirma retirada",
+          "No avaluada",
+          "Enllaços sense revisió completa",
+          "Desconegut",
+          "Sense destinació útil equivalent",
+          "Candidat a retirada; aprovació i revisió necessàries",
+          "Aprovar; reparar enllaços; validar estat i idiomes"
+        ]
+      ],
+      "legend": "Inventari de contingut i decisions"
     }
   },
   "fr": {
     "path": "/guides/b2b-content-audit/",
     "serviceFamily": "inbound",
-    "title": "Audit de contenu B2B : que faut-il améliorer et publier ? | Beespoke",
+    "title": "Audit de contenu B2B : que faut-il améliorer et publier ? | Beespoke",
     "description": "Examinez vos contenus B2B selon les questions d’achat, les preuves et l’utilité commerciale. Matrice de décisions et fiche d’inventaire sans inscription.",
     "eyebrow": "Décisions sur le portefeuille de contenu B2B",
-    "h1": "Audit de contenu B2B : que conserver, améliorer et publier ensuite ?",
+    "h1": "Audit de contenu B2B : que conserver, améliorer et publier ensuite ?",
     "answer": "Un audit de contenu B2B examine les pages existantes selon les questions d’achat auxquelles elles doivent répondre, leur exactitude et leur contribution observée. Il aide à décider quoi conserver, améliorer, regrouper ou retirer et où une nouvelle page est réellement nécessaire. Inventoriez les pages, réunissez des données comparables, examinez l’utilité et documentez chaque décision avec risques, responsable et date de revue.",
     "heroSecondary": {
       "label": "Utiliser la fiche d’inventaire",
@@ -723,15 +1221,15 @@
       {
         "heading": "Définir la décision avant de collecter toutes les métriques",
         "body": [
-          "Choisissez le problème commercial : services peu clairs, affirmations périmées, guides qui se recoupent ou aide absente pour une décision d’achat. Définissez public, offre, langues et limites de l’inventaire. L’audit sert à décider ; un tableau contenant toutes les métriques disponibles n’est qu’un point de départ.",
+          "Choisissez le problème commercial : services peu clairs, affirmations périmées, guides qui se recoupent ou aide absente pour une décision d’achat. Définissez public, offre, langues et limites de l’inventaire. L’audit sert à décider ; un tableau contenant toutes les métriques disponibles n’est qu’un point de départ.",
           "Distinguez acquisition par la recherche, évaluation d’achat, assistance et informations internes. Une explication du service peut influencer un acheteur sans être sa page d’entrée. Un guide peut attirer une demande pertinente sans conclure une vente lors de cette visite. Ne jugez pas ces pages sur un même objectif de vues."
         ]
       },
       {
         "heading": "Inventorier les pages canoniques et le rôle de chacune",
         "body": [
-          "Notez URL, langue, format, question, étape d’achat, service principal, responsable et dernière revue substantielle. Regroupez versions linguistiques et véritables doublons sans supposer qu’ils doivent partager une canonique. Incluez les pages importantes absentes de la navigation ; excluez les éléments privés de l’inventaire public.",
-          "Désignez l’URL principale pour chaque question. Un service explique si vous pouvez réaliser le travail ; un guide aide à évaluer des prestataires ; une page tarifaire clarifie unités et périmètre. Un vocabulaire commun ne rend pas ces rôles interchangeables. Toute nouvelle page doit expliquer pourquoi une URL existante ne suffit pas."
+          "Notez URL, langue, format, question, étape d’achat, service principal, responsable et dernière revue substantielle. Regroupez versions linguistiques et véritables doublons sans supposer qu’ils doivent partager une canonique. Incluez les pages importantes absentes de la navigation ; excluez les éléments privés de l’inventaire public.",
+          "Désignez l’URL principale pour chaque question. Un service explique si vous pouvez réaliser le travail ; un guide aide à évaluer des prestataires ; une page tarifaire clarifie unités et périmètre. Un vocabulaire commun ne rend pas ces rôles interchangeables. Toute nouvelle page doit expliquer pourquoi une URL existante ne suffit pas."
         ],
         "links": [
           {
@@ -744,21 +1242,21 @@
         "heading": "Réunir les preuves sans transformer les inconnues en zéros",
         "body": [
           "Rapprochez requêtes Search Console filtrées par page, sessions organiques d’entrée, référents pertinents et réservations rapprochées de leur source lorsque ces données existent. Notez dates, géographie, appareil, couverture d’attribution et dernier changement important. Comparez les mêmes cohortes avec assez de recul après publication.",
-          "Lisez impressions et clics ensemble. Un CTR en baisse peut venir d’un nouveau mélange de requêtes ; moins de clics peut suivre une demande moindre, une perte d’exposition ou un changement de position ou de présentation. Vérifiez les requêtes avant de modifier la page. Un cycle de vente long peut aussi séparer entrée initiale et réservation.",
+          "Lisez impressions et clics ensemble. Un CTR en baisse peut venir d’un nouveau mélange de requêtes ; moins de clics peut suivre une demande moindre, une perte d’exposition ou un changement de position ou de présentation. Vérifiez les requêtes avant de modifier la page. Un cycle de vente long peut aussi séparer entrée initiale et réservation.",
           "Attribution inconnue, requêtes masquées et pages trop récentes restent des inconnues. Une page indexée sans clic observé diffère d’une page jamais explorée. Aucun de ces états ne prouve automatiquement l’inutilité du contenu."
         ]
       },
       {
         "heading": "Examiner utilité, exactitude et preuves avec un regard éditorial",
         "body": [
-          "Vérifiez si la page répond directement, aide à décider, explique ses limites et apporte des preuves vérifiables. Contrôlez les prix uniquement avec des faits approuvés ; relisez sens commercial, exemples, outils, sources et réservation dans chaque langue. Signalez les affirmations non étayées pour correction plutôt que de les renforcer.",
+          "Vérifiez si la page répond directement, aide à décider, explique ses limites et apporte des preuves vérifiables. Contrôlez les prix uniquement avec des faits approuvés ; relisez sens commercial, exemples, outils, sources et réservation dans chaque langue. Signalez les affirmations non étayées pour correction plutôt que de les renforcer.",
           "Examinez les réponses concurrentes utiles à la même question. Recherchez critères, exemples, responsabilités ou preuves manquants. Ajoutez seulement ce qui améliore la décision. Davantage de titres, de mots-clés répétés et de longueur ne prouve pas un avantage."
         ],
         "items": [
-          "Comprend-on à qui la page sert et quand le conseil ne s’applique pas ?",
-          "Les exemples sont-ils clairement fictifs ou appuyés par des preuves publiques approuvées ?",
-          "Le lien suivant est-il utile et dans la langue choisie ?",
-          "Titre, réponse, FAQ visible et données structurées concordent-ils ?"
+          "Comprend-on à qui la page sert et quand le conseil ne s’applique pas ?",
+          "Les exemples sont-ils clairement fictifs ou appuyés par des preuves publiques approuvées ?",
+          "Le lien suivant est-il utile et dans la langue choisie ?",
+          "Titre, réponse, FAQ visible et données structurées concordent-ils ?"
         ]
       },
       {
@@ -777,17 +1275,17 @@
             [
               "Conserver",
               "Exact, utile et question distincte",
-              "Noter la prochaine revue ; préserver les éléments utiles"
+              "Noter la prochaine revue ; préserver les éléments utiles"
             ],
             [
               "Actualiser",
-              "Même intention ; manque démontré de réponse, preuves ou usage",
-              "Garder l’URL ; consigner changement et référence initiale"
+              "Même intention ; manque démontré de réponse, preuves ou usage",
+              "Garder l’URL ; consigner changement et référence initiale"
             ],
             [
               "Regrouper",
               "Vrai doublon sans rôle unique utile",
-              "Examiner demande, liens et résultats ; prévoir les redirections"
+              "Examiner demande, liens et résultats ; prévoir les redirections"
             ],
             [
               "Retirer",
@@ -813,19 +1311,19 @@
           "rows": [
             [
               "Service",
-              "Visites pertinentes ; périmètre périmé",
+              "Visites pertinentes ; périmètre périmé",
               "Actualiser les faits approuvés à la même URL",
               "Valider exactitude et résultats ultérieurs"
             ],
             [
               "Nouveau guide traduit",
               "Pas de données mûres de requêtes ou réservations",
-              "Conserver ; vérifier découverte et langues",
+              "Conserver ; vérifier découverte et langues",
               "Revoir après la période documentée"
             ],
             [
               "Deux anciens guides",
-              "Recoupement possible ; questions et liens non vérifiés",
+              "Recoupement possible ; questions et liens non vérifiés",
               "Reporter le regroupement en attendant les preuves",
               "Cartographier intention, liens et résultats"
             ]
@@ -850,23 +1348,100 @@
             "label": "Consulter la mise en œuvre continue du SEO et du contenu"
           }
         ]
+      },
+      {
+        "heading": "Construire un inventaire qui permet de décider",
+        "body": [
+          "Commencez par un enregistrement par URL publique canonique et un identifiant distinct pour la famille linguistique. Conservez URL observée et destination de redirection lorsqu’elles diffèrent ; ne fusionnez pas des pages parce que leurs titres se ressemblent. Ajoutez langue, question d’achat, étape, service associé, responsable et dernière modification substantielle.",
+          "Rapprochez pages et requêtes Search Console de la canonique grâce à une correspondance explicite. Notez dates, pays, appareil et couverture des requêtes. Séparez sessions d’entrée GA4, pages vues et sessions où la page a été consultée plus tard. Reliez une réservation uniquement avec un identifiant ou une preuve de source légitime ; une correspondance absente reste inconnue.",
+          "La fiche sépare ces champs pour qu’un autre éditeur puisse reproduire la décision. Recherche, entrées, réservations créées initialement, appels tenus et qualification ne doivent pas se fondre dans une colonne unique de “conversions”."
+        ]
+      },
+      {
+        "heading": "Un portefeuille fictif complet : six raisons de décider différemment",
+        "body": [
+          "Données, dates et URL sont inventées ; elles ne décrivent ni Beespoke ni un client. Deux périodes complètes de 28 jours sont comparées dans la même configuration. Les preuves de réservation sont distinctes."
+        ],
+        "table": {
+          "caption": "Portefeuille fictif et actions",
+          "headers": [
+            "Page et rôle",
+            "Preuves et inconnues",
+            "Décision justifiée",
+            "Approbation et contrôle"
+          ],
+          "rows": [
+            [
+              "/services/calibration/ · évaluer",
+              "Clics pertinents 8→9 ; entrées organiques 12→14 ; une réservation web vérifiée, qualification inconnue",
+              "Conserver le service exact ; préciser la question de périmètre",
+              "Commercial approuve ; revue des cohortes et vrais résultats"
+            ],
+            [
+              "/guides/calibration-cost/ · budgéter",
+              "Clics 7→3 ; ancienne source sur un procédé retiré ; requêtes différentes",
+              "Actualiser faits et facteurs de coût ; garder l’URL",
+              "Spécialiste vérifie source ; annoter révision et comparer données mûres"
+            ],
+            [
+              "/fr/guides/calibration-cost/ · français",
+              "Publication récente ; indexation et performance inconnues",
+              "Différer le jugement ; conserver et vérifier découverte",
+              "Édition vérifie parcours et date le prochain contrôle"
+            ],
+            [
+              "/downloads/site-preparation/ · préparer",
+              "Une entrée ; utilisé après découverte ; petit volume",
+              "Garder l’outil utile ; ne pas supprimer pour faible trafic",
+              "Commercial examine utilité, exactitude et suite"
+            ],
+            [
+              "/guides/calibration-basics-a/ · expliquer",
+              "Question proche de B ; liens et passages uniques non examinés",
+              "Regroupement possible ; suppression non autorisée",
+              "SEO/édition vérifient intention, liens, langues et redirection"
+            ],
+            [
+              "/guides/retired-procedure/ · tâche retirée",
+              "Responsable confirme retrait ; aucun équivalent utile ; liens à examiner",
+              "Candidat au retrait après revue ; pas de redirection automatique vers l’accueil",
+              "Approbation ; résoudre liens et dépendances ; valider état final"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Des décisions conditionnelles plutôt que des seuils de trafic",
+        "body": [
+          "Conservez une page exacte qui répond à une tâche utile et distincte. Actualisez lorsque la tâche reste valable mais qu’une lacune est démontrée dans les faits, réponses, preuves ou usages. Différez si ancienneté, attribution, indexation ou responsabilité ne sont pas évaluées. Peu de clics ne distingue pas ces cas.",
+          "Regroupez seulement si la même question est réellement dupliquée et si la destination retenue peut servir les deux publics sans perdre de contenu utile. Examinez liens entrants, requêtes uniques, contribution aux réservations, langues et favoris. Préparez destination et correspondance de redirections avant un retrait approuvé. Ne redirigez pas une page retirée vers un service sans rapport pour éviter un 404.",
+          "Retirez seulement après confirmation du responsable que la tâche est obsolète, erronée ou hors périmètre et après examen des alternatives. Gardez raisons et dépendances du retour arrière. Cette fiche n’autorise ni suppression d’URL ni modification d’affirmations commerciales."
+        ]
+      },
+      {
+        "heading": "Une transmission reproductible et un inventaire maintenu",
+        "body": [
+          "Attribuez les faits à un responsable éditorial, les changements à un exécutant et la validation à un contrôleur. Chaque tâche précise URL, question, preuve, plus petit changement utile, approbation, publication et retest. Séparez date de vérification de source et publication.",
+          "Après un changement substantiel, contrôlez langues, métadonnées, parité des FAQ, ressources, liens et contact. Puis comparez des périodes suffisamment mûres et des réservations avec preuve de source. Un test technique valide l’exécution ; il ne prouve pas que l’article a causé une vente.",
+          "Le CSV local conserve décisions et références sans données privées de prospects. Chargez les six lignes fictives pour examiner le raisonnement, puis exportez vos notes avant de partir ; la page ne les enregistre pas."
+        ]
       }
     ],
     "faqs": [
       {
-        "question": "Quelle différence entre inventaire et audit ?",
+        "question": "Quelle différence entre inventaire et audit ?",
         "answer": "L’inventaire énumère l’existant. L’audit ajoute preuves, examen de l’utilité et de l’exactitude, puis décision explicite avec responsable et date de vérification."
       },
       {
-        "question": "Faut-il supprimer toute page sans trafic organique ?",
+        "question": "Faut-il supprimer toute page sans trafic organique ?",
         "answer": "Non. Vérifiez ancienneté, découverte, indexation, rôle d’achat, information unique, liens et conversions disponibles. Des données absentes ou immatures ne prouvent pas qu’une suppression aide."
       },
       {
-        "question": "Quand créer un nouveau guide ?",
-        "answer": "Lorsqu’une question d’achat pertinente et distincte ne peut pas être bien servie par une URL existante. Définissez d’abord périmètre et parcours ; les estimations de mots-clés soutiennent la décision, pas un quota."
+        "question": "Quand créer un nouveau guide ?",
+        "answer": "Lorsqu’une question d’achat pertinente et distincte ne peut pas être bien servie par une URL existante. Définissez d’abord périmètre et parcours ; les estimations de mots-clés soutiennent la décision, pas un quota."
       },
       {
-        "question": "Comment savoir si une actualisation a fonctionné ?",
+        "question": "Comment savoir si une actualisation a fonctionné ?",
         "answer": "Notez référence initiale et changement exact, vérifiez la mise en œuvre puis comparez cohortes mûres équivalentes et résultats avec leurs sources. Signalez changements externes et attribution incomplète comme limites."
       }
     ],
@@ -877,11 +1452,11 @@
     ],
     "sources": [
       {
-        "label": "PathFactory : audit de contenu B2B",
+        "label": "PathFactory : audit de contenu B2B",
         "href": "https://www.pathfactory.com/blog/b2b-content-audit/"
       },
       {
-        "label": "Lform : liste de contrôle d’audit de contenu B2B",
+        "label": "Lform : liste de contrôle d’audit de contenu B2B",
         "href": "https://lform.com/blog/post/the-ultimate-b2b-content-audit-checklist/"
       },
       {
@@ -890,7 +1465,7 @@
       }
     ],
     "sourceChecked": "27 octobre 2026",
-    "sourceMethodology": "Les guides liés éclairent la comparaison des périmètres. La matrice et la fiche sont des méthodes de préparation Beespoke, pas un modèle de classement validé. Les lignes sont fictives ; aucune donnée client ni recommandation automatique de suppression n’est fournie.",
+    "sourceMethodology": "Les guides liés éclairent la comparaison des périmètres. La matrice et la fiche sont des méthodes de préparation Beespoke, pas un modèle de classement validé. Les lignes sont fictives ; aucune donnée client ni recommandation automatique de suppression n’est fournie.",
     "decisionGuide": {
       "heading": "Terminer avec des décisions, pas un quota de publications",
       "body": [
@@ -908,7 +1483,7 @@
       "navLabel": "Utiliser la fiche d’inventaire",
       "eyebrow": "Préparation sans inscription",
       "heading": "Consigner la décision pour chaque page",
-      "intro": "Reliez rôle d’achat, preuves et décision dans trois lignes. Le résumé compte les entrées, pas la qualité ni le potentiel de classement.",
+      "intro": "Consignez séparément page, preuves et décision. Chargez le portefeuille fictif de six pages, puis créez votre rapport ou CSV. Aucun seuil ne supprime ou regroupe automatiquement des pages.",
       "blocks": [
         {
           "label": "1",
@@ -926,7 +1501,7 @@
           "body": "Écrivez conserver, actualiser, regrouper, retirer ou reporter, avec un responsable."
         }
       ],
-      "note": "Les données restent sur cette page et disparaissent au rechargement. Ne saisissez pas de données clients privées. L’exemple est inventé ; la fiche ne modifie ni ne supprime de page."
+      "note": "Fiche privée sans inscription. Ajoutez jusqu’à 50 entrées, chargez l’exemple fictif complet, créez un rapport puis exportez-le en CSV ou imprimez-le. Les données restent sur cette page et disparaissent au rechargement. Aucun audit automatique, score ou résultat vérifié n’est produit."
     },
     "worksheet": {
       "fields": [
@@ -937,10 +1512,99 @@
       ],
       "sample": [
         "/guides/exemple/ — comparer les responsabilités",
-        "Fictif : requêtes pertinentes ; responsabilités incomplètes",
-        "Actualiser la même URL ; préserver les réponses utiles",
-        "Responsable éditorial ; vérifier le texte puis les requêtes mûres"
+        "Fictif : requêtes pertinentes ; responsabilités incomplètes",
+        "Actualiser la même URL ; préserver les réponses utiles",
+        "Responsable éditorial ; vérifier le texte puis les requêtes mûres"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "URL observée et correspondance canonique",
+        "Langue et famille d’équivalents",
+        "Question d’achat, étape et service",
+        "Responsable et dernière modification substantielle",
+        "Indexation, date et source",
+        "Dates SEO, pays/appareil, métriques et couverture",
+        "Dates d’entrée et réservations/appels/qualification réels",
+        "Preuves, CTA et liens entrants/internes",
+        "Conserver/actualiser/regrouper/retirer/différer : raison et dépendances",
+        "Responsable d’action, approbation, exécution et revue"
+      ],
+      "samples": [
+        [
+          "/services/calibration/",
+          "en · famille du service",
+          "Évaluer prestataire · décision · service",
+          "Commercial ; faits actuels",
+          "Indexation fictive vérifiée",
+          "Deux périodes fictives 28 jours ; clics 8→9",
+          "Entrées 12→14 ;1 réservation web vérifiée ; qualification inconnue",
+          "Preuves exactes ; périmètre à préciser ; liens conservés",
+          "Conserver ; préciser périmètre",
+          "Approbation commerciale ; édition ; revue mûre"
+        ],
+        [
+          "/guides/calibration-cost/",
+          "en · famille des coûts",
+          "Budget · évaluation",
+          "Spécialiste ; ancienne référence",
+          "Indexation fictive",
+          "Clics 7→3 ; nouvelles requêtes",
+          "Source des réservations inconnue",
+          "Source primaire ancienne ; liens préservés",
+          "Actualiser faits et facteurs ; garder URL",
+          "Approuver faits ; annoter révision ; mêmes requêtes"
+        ],
+        [
+          "/fr/guides/calibration-cost/",
+          "fr · même famille",
+          "Budget en français",
+          "Éditeur français ; récent",
+          "Inconnue ; vérifier découverte",
+          "Aucune période mûre",
+          "Inconnu, pas zéro",
+          "Équivalent complet ; vérifier liens et réservation",
+          "Différer jugement de performance ; conserver",
+          "Édition ; dater prochaine inspection"
+        ],
+        [
+          "/downloads/site-preparation/",
+          "en · ressource",
+          "Préparer visite · appui",
+          "Commercial ; liste exacte",
+          "Non évaluée",
+          "Petit échantillon",
+          "Une entrée ; usage signalé après découverte ; attribution limitée",
+          "Préparation utile ; suite pertinente",
+          "Conserver ; faible trafic insuffisant pour supprimer",
+          "Commercial vérifie utilité et faits"
+        ],
+        [
+          "/guides/calibration-basics-a/",
+          "en · guide de base",
+          "Explication initiale",
+          "Édition ; B existe aussi",
+          "Non évaluée",
+          "Requêtes uniques incomplètes",
+          "Inconnu",
+          "Liens et passages uniques non examinés",
+          "Regroupement possible après revue ; aucune suppression",
+          "SEO/édition comparent A/B, langues et redirections"
+        ],
+        [
+          "/guides/retired-procedure/",
+          "en · procédure retirée",
+          "Tâche abandonnée",
+          "Responsable confirme retrait",
+          "Non évaluée",
+          "Revue de liens incomplète",
+          "Inconnu",
+          "Aucune destination utile équivalente",
+          "Candidat au retrait ; approbation et revue requises",
+          "Approuver ; réparer liens ; valider état et langues"
+        ]
+      ],
+      "legend": "Inventaire de contenu et décisions"
     }
   }
 }

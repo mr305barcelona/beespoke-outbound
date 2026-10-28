@@ -118,6 +118,154 @@
             "label": "Compare SEO and paid search for the next test"
           }
         ]
+      },
+      {
+        "heading": "A reproducible technical audit: observation, alternative, repair and retest",
+        "body": [
+          "Choose an important URL and record the exact test before expanding to the whole template. The same symptom can have different causes. An error on your connection is not proof of a universal outage; a declared canonical is not proof that Google selected it. Keep the raw evidence reference and access limitation in the register.",
+          "In URL Inspection, Google-selected canonical belongs to the indexed data. A live test cannot predict which version Google will select as canonical. Record the exact evidence type instead of treating a successful live fetch as canonical or indexing proof."
+        ],
+        "table": {
+          "caption": "Technical evidence checklist",
+          "headers": [
+            "Check",
+            "Where to inspect",
+            "Meaning and alternative",
+            "Action and retest"
+          ],
+          "rows": [
+            [
+              "Final response and redirects",
+              "Browser Network panel and a script-free response check",
+              "A 5xx may be intermittent; a redirect may be deliberate",
+              "Reproduce important failures; repair the route or destination; retest final HTML and assets"
+            ],
+            [
+              "Crawl versus index controls",
+              "robots.txt, page robots/X-Robots-Tag and URL Inspection",
+              "A crawl block and noindex do different jobs; robots is not privacy protection",
+              "Confirm intended public state; fix the actual rule and inspect again"
+            ],
+            [
+              "Canonical selection",
+              "Source canonical plus Google-selected canonical where available",
+              "A different selected URL may reflect real duplication or conflicting signals",
+              "Compare content, redirects, sitemap and internal links before changing signals"
+            ],
+            [
+              "Discovery and links",
+              "Rendered navigation, relevant articles, sitemap and crawl evidence",
+              "Sitemap acceptance is discovery input, not indexation",
+              "Repair broken or orphaned paths; verify relevant crawlable links"
+            ],
+            [
+              "Language alternatives",
+              "Each equivalent page’s canonical and reciprocal language links",
+              "Missing return links or a non-equivalent translation can confuse relationships",
+              "Restore complete equivalent pages and reciprocal links; retest each locale"
+            ],
+            [
+              "Useful rendered content",
+              "Compare initial HTML with the rendered main content",
+              "An empty shell can be a rendering problem; short text is not itself a defect",
+              "Make the actual answer and controls accessible; retest the affected template"
+            ],
+            [
+              "Performance and interaction",
+              "Representative mobile and desktop tests; field data if available",
+              "A fast synthetic run is not field performance; a slow request may be third party",
+              "Identify the actual blocking resource or interaction and repeat the same conditions"
+            ],
+            [
+              "Booking path and measurement",
+              "Real page controls and authorized event-source records",
+              "A button click is not a created booking; missing tracking is not zero bookings",
+              "Repair the demonstrated break and verify legitimate source records; never make fake production bookings"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Worked example: a six-page site and the decisions it supports",
+        "body": [
+          "Every path, count and event in this example is invented. Imagine a small industrial consultancy. Its core service returns an error, its guide attracts a new broader query mix, and a French equivalent was just published. Those are three different problems; “rewrite everything” does not follow."
+        ],
+        "table": {
+          "caption": "Fictional completed URL register",
+          "headers": [
+            "URL",
+            "Buyer job and evidence",
+            "Competing explanation",
+            "Decision",
+            "Owner and check"
+          ],
+          "rows": [
+            [
+              "/services/inspection/",
+              "Hire an inspection partner; repeated 503 in this test",
+              "Deployment failure, not necessarily copy quality",
+              "Repair access first; preserve existing text",
+              "Developer; response and assets after release"
+            ],
+            [
+              "/guides/inspection-cost/",
+              "Understand scope; query cohort below",
+              "Broader exposure can lower aggregate CTR",
+              "Retain the accurate answer; inspect the new query’s result type",
+              "SEO owner; matched query review"
+            ],
+            [
+              "/fr/services/inspection/",
+              "Evaluate delivery in French; new URL, no crawl record",
+              "Age and discovery unresolved",
+              "Retain; verify links, canonical and language returns",
+              "Editor; dated discovery check"
+            ],
+            [
+              "/downloads/preparation-list/",
+              "Prepare a site visit; few clicks but linked in a real buyer journey",
+              "Low volume does not prove low usefulness",
+              "Keep; review source evidence and next step",
+              "Commercial owner; usefulness review"
+            ],
+            [
+              "/guides/vendor-selection/",
+              "Choose a supplier; old safety reference",
+              "Outdated facts, not automatically duplicate intent",
+              "Verify primary source and update the affected advice",
+              "Subject owner; factual approval"
+            ],
+            [
+              "/guides/inspection-basics/",
+              "Learn the same question as a second basic guide",
+              "Overlap possible but unique links not checked",
+              "Hold consolidation pending intent and incoming-link review",
+              "SEO/editor; compare both URLs first"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Separate a changing query mix from a failing answer",
+        "body": [
+          "For this fictional guide, compare the same country, device and complete 28-day windows. Query A moves from 100 impressions and 5 clicks to 100 impressions and 5 clicks: 5% CTR in both. Query B moves from 0 impressions and 0 clicks to 400 impressions and 0 clicks. The combined total changes from 100/5 to 500/5, so CTR falls from 5% to 1% while clicks stay at five. That arithmetic does not prove that the existing answer deteriorated.",
+          "Inspect Query B’s actual results: does it ask for a calculator, service, definition or a different buying stage? If it belongs here, improve the missing answer. If another existing URL owns it, improve the internal relationship. If disclosed query rows do not reconcile with page totals, state the coverage gap instead of inventing an explanation for the remainder.",
+          "For an actual click decline, compare impressions and CTR within the stable named-query cohort, then inspect country, device, position and result-format changes. Annotate the release; observe mature results after the change. A concurrent booking or ranking movement is not a causal experiment."
+        ]
+      },
+      {
+        "heading": "Audit authority and corroboration without chasing a score",
+        "body": [
+          "Inspect relevant referring pages, their actual destination, whether the link is live and whether it helps a buyer corroborate a claim. Compare lost links with changed destinations, redirects and removed source pages. Vendor authority metrics can help prioritize investigation but do not verify a penalty, expertise or ranking benefit.",
+          "Check whether public company facts, named expertise, permitted case evidence and editorial sources agree. A real gap may be an accurate reference that points to a retired URL; the first fix is a working destination. Do not buy links, invent reviews, contact publishers or submit a disavow file from an unexplained backlink spike."
+        ]
+      },
+      {
+        "heading": "From diagnosis to implementation acceptance",
+        "body": [
+          "Ask the agency to show one completed issue before accepting a long report: affected URL, dated observation, alternative explanation, buyer impact, proposed repair, dependency, owner and retest. Confirm the access needed, the scope of the sample and which data was unavailable.",
+          "Agree who can edit templates, who approves facts and who validates the release. Acceptance needs the response or behavior that failed to pass under documented conditions, plus preservation of useful URLs, languages, tracking and buyer paths. The later business review asks a different question: did mature relevant search exposure and genuine qualified conversations improve?"
+        ]
       }
     ],
     "faqs": [
@@ -144,6 +292,18 @@
       "/guides/b2b-lead-generation-audit/"
     ],
     "sources": [
+      {
+        "label": "Google Search Central: canonical URL methods",
+        "href": "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls"
+      },
+      {
+        "label": "Google Search Central: crawl rules versus index controls",
+        "href": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+      },
+      {
+        "label": "Search Console Help: URL Inspection and Google-selected canonical",
+        "href": "https://support.google.com/webmasters/answer/9012289?hl=en"
+      },
       {
         "label": "Definition: B2B SEO audit service scope",
         "href": "https://comms.thisisdefinition.com/services/b2b-seo/seo-audit"
@@ -176,7 +336,7 @@
       "navLabel": "Use the SEO audit worksheet",
       "eyebrow": "Private planning worksheet",
       "heading": "Turn a finding into a verifiable action",
-      "intro": "Record three findings below. Use a page path and evidence reference, not private customer or account data. The summary counts your entries; it does not score your website.",
+      "intro": "Build a URL-level register with evidence, alternative explanations, responsibilities and retests. Load the six-page fictional example to see the complete output, then replace it with your own non-sensitive notes.",
       "blocks": [
         {
           "label": "1",
@@ -194,7 +354,7 @@
           "body": "Name the owner and the next check; keep unknowns explicit."
         }
       ],
-      "note": "Inputs stay on this page and are cleared by a refresh. The example is fictional. No automated crawl, grading, submission or ranking prediction is performed."
+      "note": "Private, ungated workbook. Add up to 50 entries, load the complete fictional example, build a report and export CSV or print. Inputs stay in this page and disappear on reload. No automatic audit, score or verified outcome is produced."
     },
     "worksheet": {
       "fields": [
@@ -209,6 +369,67 @@
         "Confirm the response and repair the failing route",
         "Site owner; retest immediately after repair"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "Canonical URL and buyer question",
+        "Check and dated evidence reference",
+        "Interpretation, uncertainty and alternative",
+        "Proposed action and dependency",
+        "Implementation owner",
+        "Retest method and review date"
+      ],
+      "samples": [
+        [
+          "/services/inspection/ · hire partner",
+          "Fictional Day 1: repeated 503 in two checks",
+          "Confirmed within this test; deployment cause still unknown",
+          "Repair route; preserve copy; deployment access needed",
+          "Developer",
+          "After release: final 200, useful HTML and assets"
+        ],
+        [
+          "/guides/inspection-cost/ · budget scope",
+          "Fictional query A100/5→100/5; B0/0→400/0",
+          "CTR mix changed; existing query stable",
+          "Inspect B intent before changing answer",
+          "SEO owner",
+          "Same country/device/cohort after mature interval"
+        ],
+        [
+          "/fr/services/inspection/ · French delivery",
+          "Fictional new URL; crawl state unavailable",
+          "Discovery and age unresolved, not proof of poor translation",
+          "Check relevant links, canonical and return links; retain",
+          "Editor",
+          "Record next inspection date and actual crawl evidence"
+        ],
+        [
+          "/downloads/preparation-list/ · prepare visit",
+          "Fictional few clicks; used in a buyer journey",
+          "Low volume alone does not establish low value",
+          "Keep; review utility with service owner",
+          "Commercial owner",
+          "Record source-aware use and relevant next step"
+        ],
+        [
+          "/guides/vendor-selection/ · evaluate",
+          "Fictional old safety reference",
+          "Fact may be obsolete; verify primary document",
+          "Update only affected advice after approval",
+          "Subject owner",
+          "Check source date and corrected statement"
+        ],
+        [
+          "/guides/inspection-basics/ · learn",
+          "Fictional second guide; incoming links unreviewed",
+          "Possible overlap remains a hypothesis",
+          "Hold merge; compare unique intent and incoming links",
+          "SEO/editor",
+          "Document both URL roles and redirect consequences"
+        ]
+      ],
+      "legend": "SEO finding and implementation record"
     }
   },
   "es": {
@@ -330,6 +551,154 @@
             "label": "Compara SEO y búsqueda de pago"
           }
         ]
+      },
+      {
+        "heading": "Auditoría técnica reproducible: observar, interpretar, corregir y comprobar",
+        "body": [
+          "Elige una URL importante y registra la prueba exacta antes de ampliarla a toda la plantilla. Un mismo síntoma puede tener distintas causas. Un error en tu conexión no demuestra una caída general; una canónica declarada no prueba que Google la haya elegido. Guarda la referencia de la evidencia y las limitaciones de acceso.",
+          "En Inspección de URLs, la canónica seleccionada por Google pertenece a los datos indexados. Una prueba en directo no predice qué versión elegirá. Registra el tipo de prueba; una carga correcta no demuestra canónica ni indexación."
+        ],
+        "table": {
+          "caption": "Lista de evidencias técnicas",
+          "headers": [
+            "Comprobación",
+            "Dónde mirar",
+            "Interpretación y alternativa",
+            "Acción y verificación"
+          ],
+          "rows": [
+            [
+              "Respuesta final y redirecciones",
+              "Panel Red del navegador y respuesta sin ejecutar scripts",
+              "Un 5xx puede ser intermitente; una redirección puede ser deliberada",
+              "Reproduce el fallo relevante; corrige ruta o destino; revisa HTML y recursos"
+            ],
+            [
+              "Rastreo e indexación",
+              "robots.txt, robots de página/X-Robots-Tag e Inspección de URLs",
+              "Bloquear rastreo y usar noindex tienen funciones distintas; robots no protege datos privados",
+              "Confirma el estado público deseado; corrige la regla concreta y comprueba"
+            ],
+            [
+              "Canónica elegida",
+              "Canónica del código y canónica seleccionada por Google, si está disponible",
+              "Otra URL puede indicar duplicación real o señales contradictorias",
+              "Compara contenido, redirecciones, sitemap y enlaces antes de cambiar señales"
+            ],
+            [
+              "Descubrimiento y enlaces",
+              "Navegación, artículos relevantes, sitemap y pruebas de rastreo",
+              "Aceptar un sitemap no equivale a indexar sus páginas",
+              "Repara rutas rotas o aisladas y comprueba enlaces rastreables relevantes"
+            ],
+            [
+              "Alternativas lingüísticas",
+              "Canónica y enlaces recíprocos de cada página equivalente",
+              "La falta de reciprocidad o de equivalencia puede confundir la relación",
+              "Completa las versiones y los enlaces; comprueba cada idioma"
+            ],
+            [
+              "Contenido renderizado útil",
+              "HTML inicial frente al contenido principal visible",
+              "Una estructura vacía puede ser un problema de renderizado; la brevedad no es un fallo por sí sola",
+              "Haz accesibles la respuesta y los controles; repite la prueba"
+            ],
+            [
+              "Rendimiento e interacción",
+              "Pruebas comparables en móvil y ordenador; datos de campo disponibles",
+              "Una prueba rápida no demuestra buen rendimiento real; la demora puede ser externa",
+              "Identifica recurso o interacción causante y repite las condiciones"
+            ],
+            [
+              "Reserva y medición",
+              "Controles reales y registros de origen autorizados",
+              "Un clic no es una reserva creada; la falta de tracking no demuestra cero reservas",
+              "Corrige la rotura observada y contrasta registros reales; no crees reservas ficticias en producción"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Ejemplo completo: seis páginas y decisiones diferentes",
+        "body": [
+          "Todos los datos, rutas y eventos de este ejemplo son inventados. Una consultora industrial tiene un error en su servicio principal, una guía con consultas más amplias y una versión francesa recién publicada. Son situaciones distintas; no justifican reescribirlo todo."
+        ],
+        "table": {
+          "caption": "Registro ficticio de URLs",
+          "headers": [
+            "URL",
+            "Pregunta y evidencia",
+            "Explicación alternativa",
+            "Decisión",
+            "Responsable y control"
+          ],
+          "rows": [
+            [
+              "/services/inspection/",
+              "Contratar inspección; 503 repetido en esta prueba",
+              "Fallo de despliegue, no necesariamente del texto",
+              "Reparar acceso; conservar contenido",
+              "Desarrollo; respuesta y recursos"
+            ],
+            [
+              "/guides/inspection-cost/",
+              "Entender alcance; cohorte de consultas inferior",
+              "Más exposición puede reducir el CTR agregado",
+              "Conservar respuesta correcta; revisar intención nueva",
+              "SEO; comparar mismas consultas"
+            ],
+            [
+              "/fr/services/inspection/",
+              "Evaluar servicio en francés; sin dato de rastreo",
+              "Antigüedad y descubrimiento sin resolver",
+              "Conservar; revisar enlaces y canónicas",
+              "Edición; control fechado"
+            ],
+            [
+              "/downloads/preparation-list/",
+              "Preparar visita; pocos clics pero uso en un recorrido real",
+              "Poco volumen no implica poca utilidad",
+              "Conservar; revisar origen y siguiente paso",
+              "Responsable comercial"
+            ],
+            [
+              "/guides/vendor-selection/",
+              "Elegir proveedor; referencia de seguridad antigua",
+              "Dato desactualizado, no duplicación automática",
+              "Comprobar fuente primaria y corregir consejo afectado",
+              "Especialista; aprobar dato"
+            ],
+            [
+              "/guides/inspection-basics/",
+              "Pregunta similar a otra guía básica",
+              "Enlaces y utilidad única pendientes de revisar",
+              "Aplazar consolidación; comparar ambas páginas",
+              "SEO y edición"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Distingue un cambio de consultas de una respuesta peor",
+        "body": [
+          "En este ejemplo ficticio se comparan el mismo país, dispositivo y dos periodos completos de 28 días. La consulta A pasa de 100 impresiones y 5 clics a 100 y 5: CTR del 5% en ambos. La B pasa de 0 y 0 a 400 y 0. El total cambia de 100/5 a 500/5: el CTR baja del 5% al 1%, pero los clics se mantienen en cinco. Eso no demuestra que la respuesta existente haya empeorado.",
+          "Revisa los resultados de B: ¿pide calculadora, servicio, definición u otra fase de compra? Si le corresponde esta página, completa la respuesta. Si ya la cubre otra URL, mejora la relación interna. Si las filas de consultas no cuadran con el total, declara la cobertura incompleta en vez de inventar una causa.",
+          "Ante una caída real de clics, separa impresiones y CTR en la misma cohorte e inspecciona país, dispositivo, posición y formato del resultado. Anota la publicación y espera datos comparables suficientemente maduros. Un cambio simultáneo de reservas o posiciones no constituye un experimento causal."
+        ]
+      },
+      {
+        "heading": "Revisa autoridad y corroboración sin perseguir una puntuación",
+        "body": [
+          "Inspecciona las páginas relevantes que enlazan, el destino real, si el enlace sigue activo y si permite contrastar una afirmación. En enlaces perdidos, comprueba cambios de destino, redirecciones y retirada de la fuente. Las métricas de autoridad sirven para orientar una investigación; no prueban penalizaciones, experiencia ni mejoras de ranking.",
+          "Contrasta datos de empresa, experiencia identificable, casos autorizados y fuentes editoriales. A veces la corrección es dirigir una referencia real a una URL vigente. No compres enlaces, inventes reseñas, contactes con editores ni envíes un disavow por un pico de backlinks sin explicar."
+        ]
+      },
+      {
+        "heading": "De un diagnóstico a una entrega aceptada",
+        "body": [
+          "Antes de aceptar un informe largo, pide un hallazgo completo: URL, observación fechada, alternativa, impacto para el comprador, corrección, dependencia, responsable y comprobación. Aclara acceso necesario, muestra analizada y datos ausentes.",
+          "Acuerda quién edita, quién aprueba los hechos y quién valida la publicación. Aceptar una corrección exige reproducir la prueba y conservar URLs útiles, idiomas, tracking y recorridos. La revisión comercial posterior responde otra pregunta: si mejoran la exposición relevante y las conversaciones cualificadas reales."
+        ]
       }
     ],
     "faqs": [
@@ -356,6 +725,18 @@
       "/guides/b2b-lead-generation-audit/"
     ],
     "sources": [
+      {
+        "label": "Google Search Central: métodos de URL canónica",
+        "href": "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls"
+      },
+      {
+        "label": "Google Search Central: rastreo frente a indexación",
+        "href": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+      },
+      {
+        "label": "Ayuda de Search Console: Inspección de URLs y canónica elegida",
+        "href": "https://support.google.com/webmasters/answer/9012289?hl=en"
+      },
       {
         "label": "Definition: alcance de una auditoría SEO B2B",
         "href": "https://comms.thisisdefinition.com/services/b2b-seo/seo-audit"
@@ -388,7 +769,7 @@
       "navLabel": "Usar la ficha de auditoría SEO",
       "eyebrow": "Ficha privada de planificación",
       "heading": "Convierte un hallazgo en una acción verificable",
-      "intro": "Registra tres hallazgos. Usa rutas y referencias de pruebas; no introduzcas datos privados de clientes o cuentas. El resumen cuenta entradas, no puntúa tu web.",
+      "intro": "Crea un registro por URL con pruebas, alternativas, responsabilidades y verificaciones. Carga el ejemplo ficticio de seis páginas para ver el resultado completo y sustitúyelo por notas propias sin datos sensibles.",
       "blocks": [
         {
           "label": "1",
@@ -406,7 +787,7 @@
           "body": "Indica responsable y próxima comprobación; conserva los datos desconocidos."
         }
       ],
-      "note": "Los datos permanecen en esta página y se borran al recargarla. El ejemplo es ficticio. No se ejecuta rastreo, calificación, envío ni predicción de posiciones."
+      "note": "Ficha privada y sin registro. Añade hasta 50 entradas, carga el ejemplo ficticio completo, crea un informe y expórtalo como CSV o imprímelo. Los datos permanecen en esta página y desaparecen al recargar. No realiza auditorías automáticas ni genera puntuaciones o resultados verificados."
     },
     "worksheet": {
       "fields": [
@@ -421,6 +802,67 @@
         "Confirmar la respuesta y reparar la ruta",
         "Responsable de la web; repetir la prueba tras reparar"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "URL canónica y pregunta de compra",
+        "Comprobación y evidencia fechada",
+        "Interpretación, incertidumbre y alternativa",
+        "Acción y dependencia",
+        "Responsable de implementación",
+        "Método de comprobación y fecha"
+      ],
+      "samples": [
+        [
+          "/services/inspection/ · contratar",
+          "Ficticio día 1: 503 repetido",
+          "Confirmado en esta prueba; causa desconocida",
+          "Reparar ruta sin cambiar texto; acceso al despliegue",
+          "Desarrollo",
+          "Respuesta 200, HTML útil y recursos tras publicar"
+        ],
+        [
+          "/guides/inspection-cost/ · alcance",
+          "Ficticio A100/5→100/5; B0/0→400/0",
+          "Cambia mezcla; consulta existente estable",
+          "Revisar intención de B antes de editar",
+          "SEO",
+          "Misma cohorte, país y dispositivo con datos maduros"
+        ],
+        [
+          "/fr/services/inspection/ · francés",
+          "Ficticio: URL nueva sin dato de rastreo",
+          "Descubrimiento y antigüedad sin resolver",
+          "Revisar enlaces, canónica y reciprocidad; conservar",
+          "Edición",
+          "Anotar siguiente inspección y dato real"
+        ],
+        [
+          "/downloads/preparation-list/ · preparación",
+          "Ficticio: pocos clics; usado en recorrido de compra",
+          "Poco volumen no demuestra poco valor",
+          "Conservar y revisar utilidad",
+          "Comercial",
+          "Revisar origen y siguiente paso"
+        ],
+        [
+          "/guides/vendor-selection/ · evaluación",
+          "Ficticio: referencia antigua",
+          "Posible obsolescencia; verificar fuente",
+          "Corregir consejo concreto tras aprobación",
+          "Especialista",
+          "Comprobar fecha y afirmación"
+        ],
+        [
+          "/guides/inspection-basics/ · aprender",
+          "Ficticio: segunda guía; enlaces pendientes",
+          "Solapamiento posible, no confirmado",
+          "Aplazar fusión; comparar intención y enlaces",
+          "SEO y edición",
+          "Documentar función y redirecciones"
+        ]
+      ],
+      "legend": "Hallazgo SEO y registro de implementación"
     }
   },
   "ca": {
@@ -542,6 +984,154 @@
             "label": "Compara SEO i cerca de pagament"
           }
         ]
+      },
+      {
+        "heading": "Auditoria tècnica reproduïble: observar, interpretar, corregir i verificar",
+        "body": [
+          "Tria una URL important i registra la prova exacta abans d’ampliar-la a tota la plantilla. Un símptoma pot tenir causes diferents. Un error a la teva connexió no demostra una caiguda general; una canònica declarada no prova que Google l’hagi triat. Conserva la referència de l’evidència i els límits d’accés.",
+          "A Inspecció d’URLs, la canònica seleccionada per Google pertany a les dades indexades. Una prova en directe no prediu quina versió triarà. Registra el tipus de prova; una càrrega correcta no demostra canònica ni indexació."
+        ],
+        "table": {
+          "caption": "Llista d’evidències tècniques",
+          "headers": [
+            "Comprovació",
+            "On mirar",
+            "Interpretació i alternativa",
+            "Acció i verificació"
+          ],
+          "rows": [
+            [
+              "Resposta final i redireccions",
+              "Panell Xarxa del navegador i resposta sense executar scripts",
+              "Un 5xx pot ser intermitent; una redirecció pot ser intencionada",
+              "Reprodueix el problema; corregeix ruta o destinació; revisa HTML i recursos"
+            ],
+            [
+              "Rastreig i indexació",
+              "robots.txt, robots de pàgina/X-Robots-Tag i Inspecció d’URLs",
+              "Bloquejar rastreig i usar noindex tenen funcions diferents; robots no protegeix dades privades",
+              "Confirma l’estat públic desitjat; corregeix la regla concreta i comprova"
+            ],
+            [
+              "Canònica seleccionada",
+              "Canònica del codi i la triada per Google, si es pot consultar",
+              "Una altra URL pot indicar duplicació real o senyals contradictoris",
+              "Compara contingut, redireccions, sitemap i enllaços abans de canviar senyals"
+            ],
+            [
+              "Descobriment i enllaços",
+              "Navegació, articles pertinents, sitemap i evidència de rastreig",
+              "Acceptar un sitemap no equival a indexar les pàgines",
+              "Repara rutes trencades o aïllades i comprova enllaços rastrejables pertinents"
+            ],
+            [
+              "Alternatives lingüístiques",
+              "Canònica i enllaços recíprocs de cada pàgina equivalent",
+              "La manca de reciprocitat o d’equivalència pot confondre la relació",
+              "Completa les versions i els enllaços; revisa cada idioma"
+            ],
+            [
+              "Contingut renderitzat útil",
+              "HTML inicial i contingut principal visible",
+              "Una estructura buida pot ser un problema de renderització; la brevetat no és un defecte per si sola",
+              "Fes accessibles resposta i controls; repeteix la prova"
+            ],
+            [
+              "Rendiment i interacció",
+              "Proves comparables en mòbil i ordinador; dades de camp disponibles",
+              "Una prova ràpida no demostra bon rendiment real; el retard pot ser extern",
+              "Identifica recurs o interacció causant i repeteix les condicions"
+            ],
+            [
+              "Reserva i mesura",
+              "Controls reals i registres d’origen autoritzats",
+              "Un clic no és una reserva creada; l’absència de tracking no prova zero reserves",
+              "Corregeix el trencament observat i contrasta registres reals; no creïs reserves fictícies en producció"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Exemple complet: sis pàgines amb decisions diferents",
+        "body": [
+          "Totes les dades, rutes i situacions d’aquest exemple són inventades. Una consultora industrial té un error al servei principal, una guia amb consultes més àmplies i una versió francesa acabada de publicar. Són casos diferents; no justifiquen reescriure-ho tot."
+        ],
+        "table": {
+          "caption": "Registre fictici d’URLs",
+          "headers": [
+            "URL",
+            "Pregunta i evidència",
+            "Explicació alternativa",
+            "Decisió",
+            "Responsable i control"
+          ],
+          "rows": [
+            [
+              "/services/inspection/",
+              "Contractar inspecció; 503 repetit en aquesta prova",
+              "Error de desplegament, no necessàriament de text",
+              "Reparar accés; conservar contingut",
+              "Desenvolupament; resposta i recursos"
+            ],
+            [
+              "/guides/inspection-cost/",
+              "Entendre abast; cohort de consultes següent",
+              "Més exposició pot abaixar el CTR agregat",
+              "Conservar resposta correcta; revisar intenció nova",
+              "SEO; comparar mateixes consultes"
+            ],
+            [
+              "/fr/services/inspection/",
+              "Valorar servei en francès; sense dades de rastreig",
+              "Antiguitat i descobriment pendents",
+              "Conservar; revisar enllaços i canòniques",
+              "Edició; control datat"
+            ],
+            [
+              "/downloads/preparation-list/",
+              "Preparar visita; pocs clics però ús en un recorregut real",
+              "Poc volum no implica poca utilitat",
+              "Conservar; revisar origen i pas següent",
+              "Responsable comercial"
+            ],
+            [
+              "/guides/vendor-selection/",
+              "Triar proveïdor; referència de seguretat antiga",
+              "Dada obsoleta, no duplicació automàtica",
+              "Comprovar font primària i corregir el consell afectat",
+              "Especialista; aprovar dada"
+            ],
+            [
+              "/guides/inspection-basics/",
+              "Pregunta semblant a una altra guia bàsica",
+              "Enllaços i utilitat única pendents",
+              "Ajornar consolidació; comparar totes dues",
+              "SEO i edició"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Separa un canvi de consultes d’una resposta pitjor",
+        "body": [
+          "En aquest exemple fictici es comparen el mateix país i dispositiu en dos períodes complets de 28 dies. La consulta A passa de 100 impressions i 5 clics a 100 i 5: CTR del 5% en tots dos. La B passa de 0 i 0 a 400 i 0. El total canvia de 100/5 a 500/5: el CTR baixa del 5% a l’1%, però els clics es mantenen en cinc. Això no demostra que la resposta existent hagi empitjorat.",
+          "Inspecciona els resultats de B: demana calculadora, servei, definició o una altra etapa de compra? Si pertoca a aquesta pàgina, completa la resposta. Si ja ho cobreix una altra URL, millora la relació interna. Si les files de consultes no quadren amb el total, declara la cobertura incompleta en comptes d’inventar una causa.",
+          "Davant d’una caiguda real de clics, separa impressions i CTR en la mateixa cohort i revisa país, dispositiu, posició i format del resultat. Anota la publicació i espera dades comparables prou madures. Un canvi simultani de reserves o posicions no és un experiment causal."
+        ]
+      },
+      {
+        "heading": "Revisa autoritat i corroboració sense perseguir una puntuació",
+        "body": [
+          "Inspecciona les pàgines pertinents que enllacen, la destinació real, si l’enllaç és actiu i si permet contrastar una afirmació. En enllaços perduts, comprova canvis de destinació, redireccions i retirada de la font. Les mètriques d’autoritat orienten la investigació; no proven penalitzacions, experiència ni millores de rànquing.",
+          "Contrasta dades d’empresa, experiència identificable, casos autoritzats i fonts editorials. De vegades cal dirigir una referència real a una URL vigent. No compris enllaços, inventis ressenyes, contactis amb editors ni enviïs un disavow per un pic de backlinks sense explicar."
+        ]
+      },
+      {
+        "heading": "Del diagnòstic a una entrega validada",
+        "body": [
+          "Abans d’acceptar un informe llarg, demana una troballa completa: URL, observació datada, alternativa, impacte per al comprador, correcció, dependència, responsable i comprovació. Aclareix accés necessari, mostra analitzada i dades absents.",
+          "Acorda qui edita, qui aprova els fets i qui valida la publicació. Acceptar una correcció requereix repetir la prova i conservar URLs útils, idiomes, tracking i recorreguts. La revisió comercial posterior respon una altra pregunta: si milloren l’exposició pertinent i les converses qualificades reals."
+        ]
       }
     ],
     "faqs": [
@@ -568,6 +1158,18 @@
       "/guides/b2b-lead-generation-audit/"
     ],
     "sources": [
+      {
+        "label": "Google Search Central: mètodes d’URL canònica",
+        "href": "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls"
+      },
+      {
+        "label": "Google Search Central: rastreig i indexació",
+        "href": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+      },
+      {
+        "label": "Ajuda de Search Console: Inspecció d’URLs i canònica triada",
+        "href": "https://support.google.com/webmasters/answer/9012289?hl=en"
+      },
       {
         "label": "Definition: abast d’una auditoria SEO B2B",
         "href": "https://comms.thisisdefinition.com/services/b2b-seo/seo-audit"
@@ -600,7 +1202,7 @@
       "navLabel": "Utilitza la fitxa d’auditoria SEO",
       "eyebrow": "Fitxa privada de planificació",
       "heading": "Converteix una troballa en una acció verificable",
-      "intro": "Registra tres troballes. Utilitza rutes i referències d’evidències; no introdueixis dades privades de clients o comptes. El resum compta entrades, no puntua el web.",
+      "intro": "Crea un registre per URL amb evidències, alternatives, responsabilitats i verificacions. Carrega l’exemple fictici de sis pàgines per veure el resultat complet i substitueix-lo per notes pròpies sense dades sensibles.",
       "blocks": [
         {
           "label": "1",
@@ -618,7 +1220,7 @@
           "body": "Indica responsable i pròxima comprovació; conserva les dades desconegudes."
         }
       ],
-      "note": "Les dades romanen en aquesta pàgina i s’esborren en tornar-la a carregar. L’exemple és fictici. No es fa rastreig, qualificació, enviament ni predicció de posicions."
+      "note": "Fitxa privada i sense registre. Afegeix fins a 50 entrades, carrega l’exemple fictici complet, crea un informe i exporta’l en CSV o imprimeix-lo. Les dades queden en aquesta pàgina i desapareixen en recarregar-la. No fa auditories automàtiques ni genera puntuacions o resultats verificats."
     },
     "worksheet": {
       "fields": [
@@ -633,16 +1235,77 @@
         "Confirmar la resposta i reparar la ruta",
         "Responsable del web; repetir la prova després de reparar"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "URL canònica i pregunta de compra",
+        "Comprovació i evidència datada",
+        "Interpretació, incertesa i alternativa",
+        "Acció i dependència",
+        "Responsable d’implementació",
+        "Mètode de comprovació i data"
+      ],
+      "samples": [
+        [
+          "/services/inspection/ · contractar",
+          "Fictici dia 1: 503 repetit",
+          "Confirmat en aquesta prova; causa desconeguda",
+          "Reparar ruta sense canviar text; accés al desplegament",
+          "Desenvolupament",
+          "Resposta 200, HTML útil i recursos després de publicar"
+        ],
+        [
+          "/guides/inspection-cost/ · abast",
+          "Fictici A100/5→100/5; B0/0→400/0",
+          "Canvia la barreja; consulta existent estable",
+          "Revisar intenció de B abans d’editar",
+          "SEO",
+          "Mateixa cohort, país i dispositiu amb dades madures"
+        ],
+        [
+          "/fr/services/inspection/ · francès",
+          "Fictici: URL nova sense dada de rastreig",
+          "Descobriment i antiguitat pendents",
+          "Revisar enllaços, canònica i reciprocitat; conservar",
+          "Edició",
+          "Anotar inspecció següent i dada real"
+        ],
+        [
+          "/downloads/preparation-list/ · preparació",
+          "Fictici: pocs clics; ús en recorregut de compra",
+          "Poc volum no prova poc valor",
+          "Conservar i revisar utilitat",
+          "Comercial",
+          "Revisar origen i pas següent"
+        ],
+        [
+          "/guides/vendor-selection/ · avaluació",
+          "Fictici: referència antiga",
+          "Possible obsolescència; verificar font",
+          "Corregir consell concret amb aprovació",
+          "Especialista",
+          "Comprovar data i afirmació"
+        ],
+        [
+          "/guides/inspection-basics/ · aprendre",
+          "Fictici: segona guia; enllaços pendents",
+          "Solapament possible, no confirmat",
+          "Ajornar fusió; comparar intenció i enllaços",
+          "SEO i edició",
+          "Documentar funció i redireccions"
+        ]
+      ],
+      "legend": "Troballa SEO i registre d’implementació"
     }
   },
   "fr": {
     "path": "/guides/b2b-seo-audit/",
     "serviceFamily": "inbound",
-    "title": "Audit SEO B2B : contrôles, preuves et priorités | Beespoke",
+    "title": "Audit SEO B2B : contrôles, preuves et priorités | Beespoke",
     "description": "Identifiez ce qui empêche les bons acheteurs B2B de trouver et d’utiliser vos pages. Contrôles techniques, file de travail fictive et fiche d’audit privée.",
     "eyebrow": "Diagnostic de recherche B2B",
     "h1": "Audit SEO B2B : identifier et prioriser les freins à une demande qualifiée",
-    "answer": "Un audit SEO B2B vérifie si les moteurs découvrent les bonnes pages, si celles-ci répondent à de vraies questions d’achat et si elles facilitent une conversation pertinente. Il associe contrôles techniques, données de recherche par page, qualité éditoriale et mesure des conversions avec leurs sources. Son résultat doit être une liste d’actions priorisées, avec preuves, responsable et date de vérification ; un score sans explication ne suffit pas.",
+    "answer": "Un audit SEO B2B vérifie si les moteurs découvrent les bonnes pages, si celles-ci répondent à de vraies questions d’achat et si elles facilitent une conversation pertinente. Il associe contrôles techniques, données de recherche par page, qualité éditoriale et mesure des conversions avec leurs sources. Son résultat doit être une liste d’actions priorisées, avec preuves, responsable et date de vérification ; un score sans explication ne suffit pas.",
     "heroSecondary": {
       "label": "Utiliser la fiche d’audit SEO",
       "href": "#buyer-worksheet"
@@ -652,14 +1315,14 @@
         "heading": "Partir de l’objectif commercial et de l’inventaire des pages",
         "body": [
           "Définissez l’offre, les rôles d’achat, les marchés et les langues avant de lancer un robot d’exploration. Une page peut attirer beaucoup de visiteurs qui n’achèteront jamais votre service. Convenez des questions auxquelles le site doit répondre et d’une prochaine étape utile.",
-          "Inventoriez les URL publiques canoniques, leur fonction, leur langue, le service associé et leur dernière modification substantielle. Séparez services, guides d’évaluation, explications tarifaires et cas publiés. Comparez des périodes et surfaces de recherche équivalentes ; annotez lancements, migrations et changements de mesure. Une nouvelle page doit être découverte et disposer de recul avant d’être jugée."
+          "Inventoriez les URL publiques canoniques, leur fonction, leur langue, le service associé et leur dernière modification substantielle. Séparez services, guides d’évaluation, explications tarifaires et cas publiés. Comparez des périodes et surfaces de recherche équivalentes ; annotez lancements, migrations et changements de mesure. Une nouvelle page doit être découverte et disposer de recul avant d’être jugée."
         ]
       },
       {
         "heading": "Vérifier la découverte, l’indexabilité et la canonique retenue",
         "body": [
-          "Contrôlez un échantillon des modèles et toutes les URL essentielles au commerce. Examinez réponses, redirections, robots, meta robots, canoniques, sitemap et liens internes. Search Console distingue découverte, exploration et indexation ; l’acceptation d’un sitemap ne prouve pas les étapes suivantes.",
-          "Comparez la canonique déclarée à celle retenue par Google lorsque la donnée est disponible. Un véritable doublon, un blocage ou une feuille de style inaccessible demande une correction précise. « Détectée, actuellement non indexée » demande d’examiner qualité, duplication, liens et exploration ; ce statut ne justifie pas automatiquement une suppression."
+          "Contrôlez un échantillon des modèles et toutes les URL essentielles au commerce. Examinez réponses, redirections, robots, meta robots, canoniques, sitemap et liens internes. Search Console distingue découverte, exploration et indexation ; l’acceptation d’un sitemap ne prouve pas les étapes suivantes.",
+          "Comparez la canonique déclarée à celle retenue par Google lorsque la donnée est disponible. Un véritable doublon, un blocage ou une feuille de style inaccessible demande une correction précise. « Détectée, actuellement non indexée » demande d’examiner qualité, duplication, liens et exploration ; ce statut ne justifie pas automatiquement une suppression."
         ],
         "items": [
           "Vérifiez que l’URL HTTPS finale renvoie du HTML utile et les ressources nécessaires.",
@@ -672,13 +1335,13 @@
         "body": [
           "Filtrez les requêtes Search Console par page pour comprendre les recherches que Google associe à chaque URL. Enregistrez impressions, clics, CTR et position avec période, pays, appareil et couverture des lignes. La position est une moyenne de recherches différentes, pas une place fixe. Les requêtes absentes sont inconnues, pas inexistantes.",
           "Si les clics baissent, distinguez perte d’impressions et évolution du CTR. Identifiez les requêtes et pays concernés, les mouvements de position et un éventuel changement d’intention dans les résultats. Un ensemble d’impressions plus large peut réduire le CTR global sans dégrader chaque ancienne requête. Comparez la même cohorte page-requête avant de réécrire une réponse qui fonctionne.",
-          "Attribuez une page principale à chaque question importante. Améliorez titre, réponse, preuves ou liens lorsque l’intention observée le justifie. Des synonymes ne demandent pas toujours de nouvelles URL ; une décision d’achat distincte peut en demander une."
+          "Attribuez une page principale à chaque question importante. Améliorez titre, réponse, preuves ou liens lorsque l’intention observée le justifie. Des synonymes ne demandent pas toujours de nouvelles URL ; une décision d’achat distincte peut en demander une."
         ]
       },
       {
         "heading": "Examiner le contenu, les preuves et le parcours de décision",
         "body": [
-          "Lisez comme un acheteur : la page répond-elle vite, explique-t-elle ses limites et aide-t-elle à décider ? Vérifiez exactitude, périmètre actuel, sources datées, exemples, responsabilités et prochaine étape. Un long article qui évite la décision peut rester incomplet.",
+          "Lisez comme un acheteur : la page répond-elle vite, explique-t-elle ses limites et aide-t-elle à décider ? Vérifiez exactitude, périmètre actuel, sources datées, exemples, responsabilités et prochaine étape. Un long article qui évite la décision peut rester incomplet.",
           "Examinez les résultats concurrents réels et leur aide pratique. Ajoutez ce dont l’acheteur a besoin, sans copier leurs affirmations, inventer des références ni allonger artificiellement le texte. Vérifiez aussi les outils, liens tarifaires et parcours de réservation dans chaque langue."
         ],
         "links": [
@@ -691,9 +1354,9 @@
       {
         "heading": "Tester l’usage mobile et la mesure de vrais contacts",
         "body": [
-          "Vérifiez navigation, titres, tableaux, commandes de contact et réservation sur ordinateur et écran étroit. Diagnostiquez les problèmes mesurés de chargement ou d’interaction avant de modifier les styles partagés. Le zoom et les réglages d’accessibilité appartiennent aux visiteurs ; le CSS ne doit pas compenser le zoom de la personne qui teste.",
+          "Vérifiez navigation, titres, tableaux, commandes de contact et réservation sur ordinateur et écran étroit. Diagnostiquez les problèmes mesurés de chargement ou d’interaction avant de modifier les styles partagés. Le zoom et les réglages d’accessibilité appartiennent aux visiteurs ; le CSS ne doit pas compenser le zoom de la personne qui teste.",
           "Séparez impressions, sessions organiques d’entrée, ouvertures du calendrier, nouvelles réservations réelles, appels tenus et résultats qualifiés. Une visite de confirmation ne prouve pas une réservation. Avec les autorisations et données nécessaires, rapprochez identifiants et dates de création initiales du système de réservation.",
-          "Excluez les visites internes et d’audit identifiées avant d’interpréter la croissance. Conservez les sources inconnues ; ne classez pas tout le trafic Direct parmi les tests. Si cohorte ou attribution sont incomplètes, expliquez cette limite avant de prévoir les conversions."
+          "Excluez les visites internes et d’audit identifiées avant d’interpréter la croissance. Conservez les sources inconnues ; ne classez pas tout le trafic Direct parmi les tests. Si cohorte ou attribution sont incomplètes, expliquez cette limite avant de prévoir les conversions."
         ],
         "links": [
           {
@@ -706,7 +1369,7 @@
         "heading": "Prioriser une file de travail étayée",
         "body": [
           "Réparez d’abord les échecs confirmés d’accès ou de réservation sur les pages importantes. Traitez ensuite les lacunes démontrées d’intention et de parcours. Abordez les explications incertaines comme des tests, avec référence initiale, responsable, observation attendue et date de revue. Estimez effort et dépendances séparément de la valeur pour l’acheteur.",
-          "Cette file est fictive. Son ordre suit les observations décrites ; il ne constitue pas une formule universelle de classement."
+          "Cette file est fictive. Son ordre suit les observations décrites ; il ne constitue pas une formule universelle de classement."
         ],
         "table": {
           "caption": "File fictive de trois pages",
@@ -720,19 +1383,19 @@
             [
               "Service principal",
               "Erreur serveur observée",
-              "Réparer l’accès ; conserver le contenu",
+              "Réparer l’accès ; conserver le contenu",
               "Retester réponse, HTML et ressources"
             ],
             [
               "Guide d’achat",
-              "Requêtes pertinentes ; responsabilités absentes",
+              "Requêtes pertinentes ; responsabilités absentes",
               "Ajouter une section délimitée",
               "Vérifier le texte et les futures requêtes comparables"
             ],
             [
               "Nouvelle page linguistique",
-              "Publication récente ; exploration inconnue",
-              "Vérifier découverte et liens ; conserver",
+              "Publication récente ; exploration inconnue",
+              "Vérifier découverte et liens ; conserver",
               "Revoir exploration et indexation après le délai noté"
             ]
           ]
@@ -754,23 +1417,171 @@
             "label": "Comparer SEO et recherche payante"
           }
         ]
+      },
+      {
+        "heading": "Un audit technique reproductible : observation, alternative, correction et contrôle",
+        "body": [
+          "Choisissez une URL importante et notez le test exact avant de l’étendre au modèle. Un symptôme peut avoir plusieurs causes. Une erreur sur votre connexion ne prouve pas une panne générale ; une canonique déclarée ne prouve pas que Google l’a choisie. Conservez la référence de preuve et les limites d’accès.",
+          "Dans Inspection d’URL, la canonique choisie par Google relève des données indexées. Le test en direct ne prédit pas la version retenue. Notez le type de preuve ; un chargement réussi ne prouve ni canonique ni indexation."
+        ],
+        "table": {
+          "caption": "Liste de preuves techniques",
+          "headers": [
+            "Contrôle",
+            "Où regarder",
+            "Interprétation et alternative",
+            "Action et vérification"
+          ],
+          "rows": [
+            [
+              "Réponse finale et redirections",
+              "Panneau Réseau du navigateur et réponse sans exécution de scripts",
+              "Un 5xx peut être intermittent ; une redirection peut être voulue",
+              "Reproduire le problème ; corriger route ou destination ; retester HTML et ressources"
+            ],
+            [
+              "Exploration et indexation",
+              "robots.txt, robots de page/X-Robots-Tag et Inspection d’URL",
+              "Blocage d’exploration et noindex ont des fonctions différentes ; robots ne protège pas les données privées",
+              "Confirmer l’état public souhaité ; corriger la règle précise et contrôler"
+            ],
+            [
+              "Canonique choisie",
+              "Canonique du code et sélection de Google si accessible",
+              "Une autre URL peut refléter un doublon réel ou des signaux contradictoires",
+              "Comparer contenu, redirections, sitemap et liens avant de modifier les signaux"
+            ],
+            [
+              "Découverte et liens",
+              "Navigation, articles pertinents, sitemap et preuves d’exploration",
+              "Acceptation du sitemap ne signifie pas indexation",
+              "Réparer les chemins cassés ou isolés ; vérifier les liens pertinents explorables"
+            ],
+            [
+              "Versions linguistiques",
+              "Canonique et liens réciproques de chaque équivalent",
+              "Absence de retour ou traduction non équivalente peut brouiller la relation",
+              "Compléter les versions et liens ; vérifier chaque langue"
+            ],
+            [
+              "Contenu rendu utile",
+              "HTML initial et contenu principal visible",
+              "Une coquille vide peut signaler un problème de rendu ; un texte court n’est pas un défaut en soi",
+              "Rendre réponse et commandes accessibles ; retester le modèle concerné"
+            ],
+            [
+              "Performance et interaction",
+              "Tests comparables sur mobile et ordinateur ; données terrain disponibles",
+              "Un test rapide ne prouve pas les performances réelles ; le retard peut venir d’un tiers",
+              "Identifier ressource ou interaction en cause et répéter les conditions"
+            ],
+            [
+              "Réservation et mesure",
+              "Commandes réelles et données de source autorisées",
+              "Un clic n’est pas une réservation créée ; une mesure absente ne prouve pas zéro réservation",
+              "Corriger la rupture observée et rapprocher les vrais enregistrements ; aucune fausse réservation en production"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Exemple complet : six pages et des décisions différentes",
+        "body": [
+          "Toutes les données, URL et situations de cet exemple sont inventées. Un cabinet industriel a une erreur sur son service principal, un guide exposé à de nouvelles requêtes et une version française récente. Ces situations ne justifient pas une réécriture générale."
+        ],
+        "table": {
+          "caption": "Registre fictif d’URL",
+          "headers": [
+            "URL",
+            "Question et preuve",
+            "Autre explication",
+            "Décision",
+            "Responsable et contrôle"
+          ],
+          "rows": [
+            [
+              "/services/inspection/",
+              "Choisir un prestataire ;503 répété dans ce test",
+              "Déploiement défaillant, pas forcément le texte",
+              "Réparer l’accès ; conserver le contenu",
+              "Développement ; réponse et ressources"
+            ],
+            [
+              "/guides/inspection-cost/",
+              "Comprendre le périmètre ; cohorte ci-dessous",
+              "Une exposition élargie peut réduire le CTR global",
+              "Garder la réponse exacte ; vérifier la nouvelle intention",
+              "SEO ; mêmes requêtes"
+            ],
+            [
+              "/fr/services/inspection/",
+              "Évaluer en français ; aucune donnée d’exploration",
+              "Ancienneté et découverte non résolues",
+              "Conserver ; vérifier liens et canoniques",
+              "Édition ; contrôle daté"
+            ],
+            [
+              "/downloads/preparation-list/",
+              "Préparer une visite ; peu de clics mais usage dans un parcours réel",
+              "Faible volume ne signifie pas faible utilité",
+              "Conserver ; examiner source et suite",
+              "Responsable commercial"
+            ],
+            [
+              "/guides/vendor-selection/",
+              "Choisir un fournisseur ; référence de sécurité ancienne",
+              "Fait obsolète, pas automatiquement un doublon",
+              "Vérifier la source primaire et corriger le conseil concerné",
+              "Spécialiste ; approbation factuelle"
+            ],
+            [
+              "/guides/inspection-basics/",
+              "Question proche d’un autre guide",
+              "Liens entrants et utilité propre non examinés",
+              "Différer le regroupement ; comparer les deux",
+              "SEO et édition"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Distinguer une nouvelle répartition des requêtes d’une réponse moins bonne",
+        "body": [
+          "Cet exemple fictif compare le même pays, le même appareil et deux périodes complètes de 28 jours. La requête A passe de 100impressions et 5clics à 100et 5 : CTR de 5% dans les deux cas. B passe de 0et 0 à 400et 0. Le total passe de 100/5 à 500/5 : le CTR descend de 5% à 1%, mais les clics restent à cinq. Cela ne démontre pas une dégradation de la réponse existante.",
+          "Examinez les résultats de B : calculateur, service, définition ou autre étape d’achat ? Si cette page doit répondre, complétez-la. Si une autre URL possède déjà cette question, améliorez leur relation interne. Si les lignes de requêtes ne correspondent pas au total de la page, indiquez cette couverture incomplète au lieu d’inventer une explication.",
+          "Lors d’une vraie baisse de clics, séparez impressions et CTR dans la même cohorte, puis examinez pays, appareil, position et format du résultat. Annotez la publication et attendez des données comparables suffisamment mûres. Une variation simultanée de positions ou réservations n’est pas une expérience causale."
+        ]
+      },
+      {
+        "heading": "Examiner autorité et corroboration sans poursuivre une note",
+        "body": [
+          "Inspectez les pages référentes pertinentes, leur destination réelle, la présence du lien et son utilité pour corroborer une affirmation. Pour un lien perdu, vérifiez changement de destination, redirection et suppression de la source. Les métriques d’autorité orientent l’examen ; elles ne prouvent ni pénalité, ni expertise, ni gain de position.",
+          "Comparez informations d’entreprise, expertise identifiable, cas autorisés et sources éditoriales. Parfois, il suffit de diriger une référence réelle vers une URL actuelle. N’achetez pas de liens, n’inventez pas d’avis, ne contactez pas d’éditeurs et ne soumettez pas de désaveu à partir d’un pic de backlinks inexpliqué."
+        ]
+      },
+      {
+        "heading": "Du diagnostic à une mise en œuvre validée",
+        "body": [
+          "Avant d’accepter un long rapport, demandez un constat complet : URL, observation datée, alternative, impact acheteur, correction, dépendance, responsable et contrôle. Précisez accès requis, échantillon et données absentes.",
+          "Convenez de qui modifie, approuve les faits et valide la publication. L’acceptation exige de reproduire le contrôle et de préserver URL utiles, langues, mesure et parcours. La revue commerciale ultérieure pose une autre question : l’exposition pertinente et les conversations qualifiées réelles ont-elles progressé ?"
+        ]
       }
     ],
     "faqs": [
       {
-        "question": "Que doit inclure un audit SEO B2B ?",
+        "question": "Que doit inclure un audit SEO B2B ?",
         "answer": "Définition de l’acheteur, inventaire, contrôles d’exploration et d’indexation, données par page et requête, contenu et preuves, liens, usage mobile et mesure des contacts avec leurs sources. Il doit aboutir à des actions priorisées, responsables et vérifications."
       },
       {
-        "question": "Un audit SEO est-il identique à un audit de contenu ?",
+        "question": "Un audit SEO est-il identique à un audit de contenu ?",
         "answer": "Ils se recoupent. L’audit SEO diagnostique découverte et performance en recherche, avec les facteurs techniques et éditoriaux. L’audit de contenu décide quoi conserver, améliorer, regrouper ou retirer et quand une nouvelle page est justifiée."
       },
       {
-        "question": "À quelle fréquence faut-il le refaire ?",
+        "question": "À quelle fréquence faut-il le refaire ?",
         "answer": "Vérifiez accès et mesure après les publications importantes. Reprenez le diagnostic global après des changements substantiels ou lorsque des données suffisamment mûres évoluent. Comparez des périodes cohérentes au lieu de réagir au bruit quotidien."
       },
       {
-        "question": "Corriger tous les problèmes garantit-il de meilleures positions ?",
+        "question": "Corriger tous les problèmes garantit-il de meilleures positions ?",
         "answer": "Non. Les corrections peuvent supprimer des obstacles et améliorer l’utilité, mais demande, concurrence et résultats de recherche évoluent. Consignez les changements et évaluez des requêtes mûres et de vrais résultats commerciaux."
       }
     ],
@@ -781,11 +1592,23 @@
     ],
     "sources": [
       {
-        "label": "Definition : périmètre d’un audit SEO B2B",
+        "label": "Google Search Central : méthodes de canonisation des URL",
+        "href": "https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls"
+      },
+      {
+        "label": "Google Search Central : exploration et indexation",
+        "href": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+      },
+      {
+        "label": "Aide Search Console : Inspection d’URL et canonique choisie",
+        "href": "https://support.google.com/webmasters/answer/9012289?hl=en"
+      },
+      {
+        "label": "Definition : périmètre d’un audit SEO B2B",
         "href": "https://comms.thisisdefinition.com/services/b2b-seo/seo-audit"
       },
       {
-        "label": "Windmill Strategy : audit SEO B2B de base",
+        "label": "Windmill Strategy : audit SEO B2B de base",
         "href": "https://www.windmillstrategy.com/how-to-conduct-a-basic-b2b-seo-audit/"
       },
       {
@@ -794,7 +1617,7 @@
       }
     ],
     "sourceChecked": "27 octobre 2026",
-    "sourceMethodology": "Les sources de prestataires éclairent la comparaison des périmètres ; elles ne valident pas des résultats de Beespoke. La liste et la fiche sont nos méthodes de préparation. Tous les exemples sont inventés. Exposition en recherche et réservations se mesurent séparément.",
+    "sourceMethodology": "Les sources de prestataires éclairent la comparaison des périmètres ; elles ne valident pas des résultats de Beespoke. La liste et la fiche sont nos méthodes de préparation. Tous les exemples sont inventés. Exposition en recherche et réservations se mesurent séparément.",
     "decisionGuide": {
       "heading": "Choisir la prochaine correction selon les preuves et l’impact",
       "body": [
@@ -812,7 +1635,7 @@
       "navLabel": "Utiliser la fiche d’audit SEO",
       "eyebrow": "Fiche privée de préparation",
       "heading": "Transformer un constat en action vérifiable",
-      "intro": "Notez trois constats. Utilisez des chemins de page et des références de preuve, sans données privées de clients ou de comptes. Le résumé compte les entrées ; il ne note pas votre site.",
+      "intro": "Créez un registre par URL avec preuves, alternatives, responsabilités et contrôles. Chargez l’exemple fictif de six pages pour voir le résultat complet, puis remplacez-le par vos notes non sensibles.",
       "blocks": [
         {
           "label": "1",
@@ -827,10 +1650,10 @@
         {
           "label": "3",
           "heading": "Vérification",
-          "body": "Indiquez responsable et prochain contrôle ; conservez les inconnues."
+          "body": "Indiquez responsable et prochain contrôle ; conservez les inconnues."
         }
       ],
-      "note": "Les données restent sur cette page et disparaissent au rechargement. L’exemple est fictif. Aucun crawl, score, envoi ou pronostic de classement n’est effectué."
+      "note": "Fiche privée sans inscription. Ajoutez jusqu’à 50 entrées, chargez l’exemple fictif complet, créez un rapport puis exportez-le en CSV ou imprimez-le. Les données restent sur cette page et disparaissent au rechargement. Aucun audit automatique, score ou résultat vérifié n’est produit."
     },
     "worksheet": {
       "fields": [
@@ -841,10 +1664,71 @@
       ],
       "sample": [
         "/services/exemple/",
-        "Fictif : erreur serveur observée sur un service important",
+        "Fictif : erreur serveur observée sur un service important",
         "Confirmer la réponse et réparer la route",
-        "Responsable du site ; retester après correction"
+        "Responsable du site ; retester après correction"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "URL canonique et question d’achat",
+        "Contrôle et référence de preuve datée",
+        "Interprétation, incertitude et alternative",
+        "Action et dépendance",
+        "Responsable de mise en œuvre",
+        "Méthode de contrôle et date"
+      ],
+      "samples": [
+        [
+          "/services/inspection/ · choisir",
+          "Fictif jour 1 :503 répété",
+          "Confirmé dans ce test ; cause inconnue",
+          "Réparer route sans réécrire ; accès au déploiement",
+          "Développement",
+          "Réponse 200, HTML utile et ressources après publication"
+        ],
+        [
+          "/guides/inspection-cost/ · périmètre",
+          "Fictif A100/5→100/5 ; B0/0→400/0",
+          "Répartition modifiée ; ancienne requête stable",
+          "Vérifier intention de B avant de réécrire",
+          "SEO",
+          "Même cohorte, pays et appareil après maturation"
+        ],
+        [
+          "/fr/services/inspection/ · français",
+          "Fictif : nouvelle URL sans donnée d’exploration",
+          "Découverte et ancienneté non résolues",
+          "Vérifier liens, canonique et réciprocité ; conserver",
+          "Édition",
+          "Dater prochaine inspection et preuve réelle"
+        ],
+        [
+          "/downloads/preparation-list/ · préparer",
+          "Fictif : peu de clics ; usage dans un parcours",
+          "Faible volume ne prouve pas faible valeur",
+          "Conserver et examiner utilité",
+          "Commercial",
+          "Examiner source et étape suivante"
+        ],
+        [
+          "/guides/vendor-selection/ · évaluer",
+          "Fictif : référence ancienne",
+          "Obsolescence possible ; vérifier source",
+          "Corriger le conseil précis après approbation",
+          "Spécialiste",
+          "Vérifier date et affirmation"
+        ],
+        [
+          "/guides/inspection-basics/ · apprendre",
+          "Fictif : second guide ; liens non examinés",
+          "Chevauchement possible, non confirmé",
+          "Différer fusion ; comparer intention et liens",
+          "SEO et édition",
+          "Documenter rôles et conséquences des redirections"
+        ]
+      ],
+      "legend": "Constat SEO et registre de mise en œuvre"
     }
   }
 }

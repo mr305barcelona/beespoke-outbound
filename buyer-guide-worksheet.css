@@ -1,8 +1,16 @@
 [data-buyer-worksheet] { margin-top:1.5rem; }
+[data-buyer-worksheet] details { margin:1rem 0; border:1px solid #c8ced6; border-radius:12px; background:#fff; color:#172535; }
+[data-buyer-worksheet] details > summary { padding:1rem; min-height:44px; cursor:pointer; font-weight:750; overflow-wrap:anywhere; }
+[data-buyer-worksheet] details > fieldset { margin:0; border:0; }
+[data-buyer-worksheet] [data-worksheet-report] { margin-top:1rem; padding:1rem; border:1px solid #8492a3; background:#fff; color:#172535; border-radius:12px; }
+[data-buyer-worksheet] [data-worksheet-report][hidden] { display:none; }
+[data-buyer-worksheet] [data-worksheet-report] section + section { border-top:1px solid #c8ced6; margin-top:1rem; padding-top:1rem; }
+[data-buyer-worksheet] dt { font-weight:750; margin-top:.75rem; }
+[data-buyer-worksheet] dd { margin:.3rem 0 .7rem; overflow-wrap:anywhere; white-space:pre-wrap; }
 [data-buyer-worksheet] fieldset { min-width:0; margin:1rem 0; padding:1rem; border:1px solid #c8ced6; border-radius:12px; }
 [data-buyer-worksheet] legend { max-width:100%; padding:0 .4rem; font-weight:750; overflow-wrap:anywhere; }
 [data-buyer-worksheet] .worksheet-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; }
-[data-buyer-worksheet] label { display:flex; flex-direction:column; gap:.4rem; color:#172535; font-weight:650; min-width:0; }
+[data-buyer-worksheet] label { display:flex; flex-direction:column; gap:.4rem; color:#172535; font-weight:650; min-width:0; overflow-wrap:anywhere; }
 [data-buyer-worksheet] textarea, [data-buyer-worksheet] select { box-sizing:border-box; width:100%; max-width:100%; min-width:0; padding:.65rem; border:1px solid #8492a3; border-radius:7px; font:inherit; font-weight:400; background:#fff; color:#172535; }
 [data-buyer-worksheet] textarea { min-height:6rem; resize:vertical; }
 [data-buyer-worksheet] select { min-height:44px; }
@@ -12,3 +20,9 @@
 [data-buyer-worksheet] :is(textarea,select,button):focus-visible { outline:3px solid #225fcb; outline-offset:3px; }
 [data-buyer-worksheet] [role=status] { padding:1rem; background:#fff8e6; border-radius:8px; overflow-wrap:anywhere; }
 @media(max-width:600px) { [data-buyer-worksheet] .worksheet-grid { grid-template-columns:1fr; } [data-buyer-worksheet] fieldset { padding:.75rem; } }
+@media print { [data-buyer-worksheet] [data-worksheet-rows], [data-buyer-worksheet] .worksheet-actions, [data-buyer-worksheet] [role=status] { display:none !important; } [data-buyer-worksheet] [data-worksheet-report]:not([hidden]) { display:block !important; border:0; padding:0; } [data-buyer-worksheet] [data-worksheet-report] section { break-inside:avoid; } }
+@media print {
+ body[data-workbook-print] { margin:0; background:#fff; }
+ body[data-workbook-print] > :not(main), body[data-workbook-print] main > :not(.article-grid), body[data-workbook-print] .article-grid > :not(article), body[data-workbook-print] article > :not(section:has([data-workbook-print-target])), body[data-workbook-print] section:has([data-workbook-print-target]) > :not([data-workbook-print-target]), body[data-workbook-print] [data-workbook-print-target] > :not([data-worksheet-report]) { display:none !important; }
+ body[data-workbook-print] main, body[data-workbook-print] .article-grid, body[data-workbook-print] article, body[data-workbook-print] section:has([data-workbook-print-target]), body[data-workbook-print] [data-workbook-print-target] { display:block; width:100%; max-width:none; padding:0; margin:0; border:0; box-shadow:none; background:#fff; }
+}

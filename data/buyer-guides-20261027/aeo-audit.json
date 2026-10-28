@@ -153,6 +153,189 @@
             "label": "Review AEO scope and pricing considerations"
           }
         ]
+      },
+      {
+        "heading": "A reusable buyer-question protocol",
+        "body": [
+          "Choose a small fixed set that represents actual buying decisions, then run the same wording under recorded conditions. The following prompts are a reusable template, not a claim about searches performed or answers currently produced. Replace bracketed terms with your approved public scope. Keep branded accuracy separate from unbranded discovery."
+        ],
+        "table": {
+          "caption": "Buyer-question prompt library",
+          "headers": [
+            "ID",
+            "Question template",
+            "What to inspect"
+          ],
+          "rows": [
+            [
+              "P1 · branded facts",
+              "What does [provider] offer to [buyer type] in [market]?",
+              "Service, audience and facts supported by sources"
+            ],
+            [
+              "P2 · discovery",
+              "How should a [buyer role] find help with [specific problem]?",
+              "Whether a suitable provider is mentioned and why"
+            ],
+            [
+              "P3 · scope",
+              "Does [provider] include [boundary item] in [service]?",
+              "Accuracy of inclusions and exclusions"
+            ],
+            [
+              "P4 · evaluation",
+              "What should we ask a provider before commissioning [service]?",
+              "Decision criteria, responsibilities and evidence"
+            ],
+            [
+              "P5 · comparison",
+              "When does [approach A] make more sense than [approach B] for [buyer context]?",
+              "Trade-offs and whether assumptions are disclosed"
+            ],
+            [
+              "P6 · responsibilities",
+              "What must our team provide before [service] can begin?",
+              "Access, approvals and client responsibilities"
+            ],
+            [
+              "P7 · constraints",
+              "What can go wrong if [dependency] is missing?",
+              "Whether the response explains genuine limits"
+            ],
+            [
+              "P8 · commercial facts",
+              "What are [provider]’s publicly stated terms for [service]?",
+              "Current source and exact currency/scope, not inferred prices"
+            ],
+            [
+              "P9 · proof",
+              "What evidence should we verify when evaluating [provider]?",
+              "Real permitted proof versus invented outcomes"
+            ],
+            [
+              "P10 · language",
+              "Can [buyer] evaluate [service] information in [language]?",
+              "Actual accessible page and correct language relationship"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "A complete fictional answer and source-panel review",
+        "body": [
+          "This entire response is invented for training: “Example Provider helps industrial firms research suitable accounts and manage email prospecting. It also includes unlimited native-language cold calling. The buyer handles proposals and closing. [1]” Fictional source panel [1]: https://example.com/services/. The fictional source page states that email prospecting is included and calling requires a separate quote.",
+          "The provider name is a mention. The source-panel URL is a citation if that panel is actually visible. The calling statement is an accuracy error even though the answer includes a citation: the cited page does not support it. The source is an example-domain placeholder, not a real provider or page inspected in this audit.",
+          "Record the precise unsupported statement and the conflicting primary fact. Check the actual public source before proposing a correction. If your own page is wrong, correct that page through normal approval and validation. If the page is already clear, preserve the observation, inspect other cited sources where available and repeat the matched test; do not manufacture another service claim to match the answer."
+        ]
+      },
+      {
+        "heading": "A completed two-pass observation example and its denominators",
+        "body": [
+          "All observations here are fictional. Run prompts P1–P5 twice, in fresh signed-out threads, in one language and with the same documented engine/context. If a model name or location is not shown, record unknown instead of guessing. The ten-row example can be loaded into the workbook; no live engine query is performed by this page."
+        ],
+        "table": {
+          "caption": "Fictional ten-answer register",
+          "headers": [
+            "Run / prompt",
+            "Source panel",
+            "Mention",
+            "Citation",
+            "Accuracy review"
+          ],
+          "rows": [
+            [
+              "R1 P1",
+              "Available",
+              "Yes",
+              "example.com/services/",
+              "Checked scope accurate"
+            ],
+            [
+              "R1 P2",
+              "Available",
+              "No",
+              "No",
+              "Not assessed"
+            ],
+            [
+              "R1 P3",
+              "Unavailable",
+              "Yes",
+              "Unassessable",
+              "Calling-included claim conflicts with fictional source"
+            ],
+            [
+              "R1 P4",
+              "Unavailable",
+              "No",
+              "Unassessable",
+              "Not assessed"
+            ],
+            [
+              "R1 P5",
+              "Available",
+              "No",
+              "No",
+              "Not assessed"
+            ],
+            [
+              "R2 P1",
+              "Available",
+              "Yes",
+              "example.com/services/",
+              "Checked scope accurate"
+            ],
+            [
+              "R2 P2",
+              "Available",
+              "No",
+              "No",
+              "Not assessed"
+            ],
+            [
+              "R2 P3",
+              "Unavailable",
+              "No",
+              "Unassessable",
+              "Not assessed"
+            ],
+            [
+              "R2 P4",
+              "Unavailable",
+              "No",
+              "Unassessable",
+              "Not assessed"
+            ],
+            [
+              "R2 P5",
+              "Available",
+              "No",
+              "No",
+              "Not assessed"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Describe observations without inventing an AI rank",
+        "body": [
+          "This example has three mentions in ten observed answers. Six answers expose a source panel; two of those six cite the example provider. Four panels are unavailable, so their citation state is unassessable, not zero. State the counts and denominators together. The six assessed panels are not necessarily representative of all ten answers or the wider market.",
+          "A second pass can vary without a page edit. A changed answer after an edit still does not isolate the cause; model, retrieval, source availability and context may also change. Do not report a small prompt sample as universal share of voice or a stable recommendation rank. A proprietary checker’s score describes its own method, not an engine requirement.",
+          "Export observations into a report with exact prompt, visible engine/model, date, language, known context, source-panel state, mention, exact citation, factual review, evidence reference and next action. Keep actual AI-referral sessions and source-reconciled bookings in separate reports. A citation is not a visit; a visit is not a qualified meeting."
+        ]
+      },
+      {
+        "heading": "Connect source corrections to a controlled page review",
+        "body": [
+          "For each actionable finding, record source URL, statement checked, current primary fact, proposed change, owner, approval and retest. For Google AI features, normal SEO foundations still apply: supporting pages must be indexed and snippet-eligible; no special AI file or schema is required. Google includes AI-feature activity in overall Web performance rather than a clean separate AI-impression bucket.",
+          "A manual buyer audit can be useful without pretending to be an automated grader. This workbook neither crawls submitted URLs nor queries models. It helps you retain the evidence, uncertainty and action trail that a bare score cannot provide."
+        ],
+        "links": [
+          {
+            "href": "https://developers.google.com/search/docs/appearance/ai-features",
+            "label": "Read Google’s AI-feature eligibility and measurement guidance"
+          }
+        ]
       }
     ],
     "faqs": [
@@ -219,7 +402,7 @@
       "navLabel": "Use the AEO evidence worksheet",
       "eyebrow": "Manual, private observation log",
       "heading": "Log the answer and the limits of what you observed",
-      "intro": "Record three manual observations. Use public prompts and neutral references, not confidential data. The summary counts your entries; it does not grade AI visibility.",
+      "intro": "Load the complete ten-answer fictional register or add your own observations. Record exact prompt wording when you adapt the library; preserve engine/context and unassessable source panels. Build a report, export CSV or print.",
       "blocks": [
         {
           "label": "1",
@@ -237,7 +420,7 @@
           "body": "Separate mention, exact citation, unavailable source panel and next check."
         }
       ],
-      "note": "Inputs stay on this page and clear on refresh. No model calls, crawling, uploads or messages are performed. The sample is fictional and cannot establish an AI ranking."
+      "note": "Private, ungated workbook. Add up to 50 entries, load the complete fictional example, build a report and export CSV or print. Inputs stay in this page and disappear on reload. No automatic audit, score or verified outcome is produced."
     },
     "worksheet": {
       "fields": [
@@ -252,6 +435,132 @@
         "Invented mention; source panel unavailable; citations unassessable",
         "Check service facts; repeat matched observation on a recorded date"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "Run and exact prompt or prompt-library reference",
+        "Engine, visible model and observation date",
+        "Language, known country and signed-in/thread context",
+        "Source-panel availability",
+        "Brand mention: yes/no/unknown",
+        "Exact cited URL or citation unassessable",
+        "Factual statement, check and accuracy limitation",
+        "Answer/source evidence reference",
+        "Page action, owner, approval and matched retest"
+      ],
+      "samples": [
+        [
+          "R1 P1",
+          "Fictional engine A; model not shown; Day 1/Day 8",
+          "English; country unknown; signed out; fresh thread",
+          "Available",
+          "Yes",
+          "https://example.com/services/",
+          "Accurate within checked scope",
+          "Fictional R1P1; example.com = reserved example",
+          "No change justified from this observation alone"
+        ],
+        [
+          "R1 P2",
+          "Fictional engine A; model not shown; Day 1/Day 8",
+          "English; country unknown; signed out; fresh thread",
+          "Available",
+          "No",
+          "No",
+          "Not assessed",
+          "Fictional R1P2; example.com = reserved example",
+          "No change justified from this observation alone"
+        ],
+        [
+          "R1 P3",
+          "Fictional engine A; model not shown; Day 1/Day 8",
+          "English; country unknown; signed out; fresh thread",
+          "Unavailable",
+          "Yes",
+          "Unknown / unassessable",
+          "Invented claim: calling included; contradicts fictional service page",
+          "Fictional R1P3; example.com = reserved example",
+          "Check source and page wording; retain baseline"
+        ],
+        [
+          "R1 P4",
+          "Fictional engine A; model not shown; Day 1/Day 8",
+          "English; country unknown; signed out; fresh thread",
+          "Unavailable",
+          "No",
+          "Unknown / unassessable",
+          "Not assessed",
+          "Fictional R1P4; example.com = reserved example",
+          "No change justified from this observation alone"
+        ],
+        [
+          "R1 P5",
+          "Fictional engine A; model not shown; Day 1/Day 8",
+          "English; country unknown; signed out; fresh thread",
+          "Available",
+          "No",
+          "No",
+          "Not assessed",
+          "Fictional R1P5; example.com = reserved example",
+          "No change justified from this observation alone"
+        ],
+        [
+          "R2 P1",
+          "Fictional engine A; model not shown; Day 1/Day 8",
+          "English; country unknown; signed out; fresh thread",
+          "Available",
+          "Yes",
+          "https://example.com/services/",
+          "Accurate within checked scope",
+          "Fictional R2P1; example.com = reserved example",
+          "No change justified from this observation alone"
+        ],
+        [
+          "R2 P2",
+          "Fictional engine A; model not shown; Day 1/Day 8",
+          "English; country unknown; signed out; fresh thread",
+          "Available",
+          "No",
+          "No",
+          "Not assessed",
+          "Fictional R2P2; example.com = reserved example",
+          "No change justified from this observation alone"
+        ],
+        [
+          "R2 P3",
+          "Fictional engine A; model not shown; Day 1/Day 8",
+          "English; country unknown; signed out; fresh thread",
+          "Unavailable",
+          "No",
+          "Unknown / unassessable",
+          "Not assessed",
+          "Fictional R2P3; example.com = reserved example",
+          "No change justified from this observation alone"
+        ],
+        [
+          "R2 P4",
+          "Fictional engine A; model not shown; Day 1/Day 8",
+          "English; country unknown; signed out; fresh thread",
+          "Unavailable",
+          "No",
+          "Unknown / unassessable",
+          "Not assessed",
+          "Fictional R2P4; example.com = reserved example",
+          "No change justified from this observation alone"
+        ],
+        [
+          "R2 P5",
+          "Fictional engine A; model not shown; Day 1/Day 8",
+          "English; country unknown; signed out; fresh thread",
+          "Available",
+          "No",
+          "No",
+          "Not assessed",
+          "Fictional R2P5; example.com = reserved example",
+          "No change justified from this observation alone"
+        ]
+      ],
+      "legend": "Prompt, source and factual-review observation"
     }
   },
   "es": {
@@ -408,6 +717,189 @@
             "label": "Revisa alcance y costes de AEO"
           }
         ]
+      },
+      {
+        "heading": "Un protocolo reutilizable de preguntas de compra",
+        "body": [
+          "Elige un conjunto pequeño y fijo de decisiones reales y repite la misma redacción con condiciones registradas. Estas preguntas son plantillas; no describen búsquedas realizadas ni respuestas actuales. Sustituye los corchetes por tu alcance público aprobado. Separa exactitud de marca y descubrimiento sin marca."
+        ],
+        "table": {
+          "caption": "Biblioteca de preguntas",
+          "headers": [
+            "ID",
+            "Plantilla",
+            "Qué revisar"
+          ],
+          "rows": [
+            [
+              "P1 · datos de marca",
+              "¿Qué ofrece [proveedor] a [tipo de comprador] en [mercado]?",
+              "Servicio, público y hechos respaldados"
+            ],
+            [
+              "P2 · descubrimiento",
+              "¿Cómo debería [función del comprador] buscar ayuda para [problema concreto]?",
+              "Si menciona un proveedor adecuado y por qué"
+            ],
+            [
+              "P3 · alcance",
+              "¿Incluye [proveedor] [elemento limitado] en [servicio]?",
+              "Inclusiones y exclusiones correctas"
+            ],
+            [
+              "P4 · evaluación",
+              "¿Qué debemos preguntar antes de contratar [servicio]?",
+              "Criterios, responsabilidades y pruebas"
+            ],
+            [
+              "P5 · comparación",
+              "¿Cuándo conviene [enfoque A] más que [enfoque B] para [contexto]?",
+              "Ventajas, límites e hipótesis declaradas"
+            ],
+            [
+              "P6 · responsabilidades",
+              "¿Qué debe aportar nuestro equipo antes de comenzar [servicio]?",
+              "Acceso, aprobaciones y tareas del cliente"
+            ],
+            [
+              "P7 · restricciones",
+              "¿Qué puede fallar si falta [dependencia]?",
+              "Límites reales explicados"
+            ],
+            [
+              "P8 · condiciones",
+              "¿Cuáles son las condiciones públicas de [proveedor] para [servicio]?",
+              "Fuente actual, moneda y alcance exactos; no precios inferidos"
+            ],
+            [
+              "P9 · evidencias",
+              "¿Qué pruebas conviene verificar al evaluar [proveedor]?",
+              "Pruebas autorizadas frente a resultados inventados"
+            ],
+            [
+              "P10 · idioma",
+              "¿Puede el comprador evaluar información de [servicio] en [idioma]?",
+              "Página real accesible y relación lingüística correcta"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Respuesta ficticia completa y revisión de sus fuentes",
+        "body": [
+          "Respuesta íntegramente inventada: “Example Provider ayuda a empresas industriales a investigar cuentas y gestionar prospección por email. También incluye llamadas ilimitadas con hablantes nativos. El comprador gestiona propuestas y cierre. [1]”. Panel de fuente ficticio [1]: https://example.com/services/. La fuente ficticia indica que incluye email y que las llamadas se cotizan aparte.",
+          "El nombre del proveedor es una mención. La URL del panel es una cita si el panel es visible. Incluir llamadas es un error factual aunque aparezca una cita: la página no respalda esa afirmación. El dominio de ejemplo no es un proveedor ni una página real investigada.",
+          "Registra afirmación exacta y hecho primario que la contradice. Comprueba la fuente pública antes de corregir. Si tu página está mal, corrígela con aprobación y validación habituales. Si ya es clara, conserva la observación, revisa otras fuentes visibles y repite la prueba comparable; no inventes un servicio para ajustarte a la respuesta."
+        ]
+      },
+      {
+        "heading": "Ejemplo completo de dos pasadas y sus denominadores",
+        "body": [
+          "Todas las observaciones son ficticias. Ejecuta P1–P5 dos veces, en conversaciones nuevas sin sesión, un idioma y mismo motor/contexto registrado. Si no aparece modelo o ubicación, anota desconocido. Carga las diez filas en la ficha; la página no consulta motores reales."
+        ],
+        "table": {
+          "caption": "Registro ficticio de diez respuestas",
+          "headers": [
+            "Pasada / pregunta",
+            "Panel de fuentes",
+            "Mención",
+            "Cita",
+            "Exactitud"
+          ],
+          "rows": [
+            [
+              "R1 P1",
+              "Disponible",
+              "Sí",
+              "example.com/services/",
+              "Alcance revisado correcto"
+            ],
+            [
+              "R1 P2",
+              "Disponible",
+              "No",
+              "No",
+              "No evaluada"
+            ],
+            [
+              "R1 P3",
+              "No disponible",
+              "Sí",
+              "No evaluable",
+              "Llamadas incluidas contradice fuente ficticia"
+            ],
+            [
+              "R1 P4",
+              "No disponible",
+              "No",
+              "No evaluable",
+              "No evaluada"
+            ],
+            [
+              "R1 P5",
+              "Disponible",
+              "No",
+              "No",
+              "No evaluada"
+            ],
+            [
+              "R2 P1",
+              "Disponible",
+              "Sí",
+              "example.com/services/",
+              "Alcance revisado correcto"
+            ],
+            [
+              "R2 P2",
+              "Disponible",
+              "No",
+              "No",
+              "No evaluada"
+            ],
+            [
+              "R2 P3",
+              "No disponible",
+              "No",
+              "No evaluable",
+              "No evaluada"
+            ],
+            [
+              "R2 P4",
+              "No disponible",
+              "No",
+              "No evaluable",
+              "No evaluada"
+            ],
+            [
+              "R2 P5",
+              "Disponible",
+              "No",
+              "No",
+              "No evaluada"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Describe observaciones sin inventar una posición en IA",
+        "body": [
+          "Hay tres menciones en diez respuestas observadas. Seis respuestas muestran panel de fuentes y dos de esas seis citan al proveedor. Cuatro paneles no están disponibles: su cita no es evaluable, no vale cero. Declara recuentos y denominadores juntos. Los seis paneles no representan necesariamente a las diez respuestas ni al mercado.",
+          "La segunda pasada puede variar sin editar páginas. Una respuesta distinta tras un cambio no aísla la causa: modelo, recuperación, fuentes y contexto también cambian. No conviertas una muestra pequeña en cuota universal de visibilidad o posición estable. La puntuación de un verificador describe su método, no un requisito del motor.",
+          "Exporta pregunta exacta, motor/modelo visible, fecha, idioma, contexto conocido, panel, mención, URL citada, revisión factual, evidencia y acción. Separa sesiones reales de referencia IA y reservas contrastadas. Una cita no es visita; una visita no es reunión cualificada."
+        ]
+      },
+      {
+        "heading": "Vincula correcciones de fuente con una revisión controlada",
+        "body": [
+          "En cada hallazgo accionable anota URL fuente, afirmación, hecho primario actual, cambio propuesto, responsable, aprobación y nueva prueba. En las funciones IA de Google se aplican los fundamentos SEO habituales: páginas indexadas y aptas para fragmentos; no se exige archivo ni schema especial. Google integra esta actividad en el rendimiento Web general, no en un bloque limpio de impresiones IA separadas.",
+          "La auditoría manual puede ser útil sin fingir que es un verificador automático. La ficha no rastrea URLs ni consulta modelos; conserva pruebas, incertidumbre y acciones que una puntuación aislada no explica."
+        ],
+        "links": [
+          {
+            "href": "https://developers.google.com/search/docs/appearance/ai-features",
+            "label": "Consultar requisitos y medición de funciones IA de Google"
+          }
+        ]
       }
     ],
     "faqs": [
@@ -474,7 +966,7 @@
       "navLabel": "Usar la ficha de pruebas AEO",
       "eyebrow": "Registro manual privado",
       "heading": "Anota la respuesta y los límites observados",
-      "intro": "Registra tres observaciones manuales con prompts públicos y referencias neutras, sin datos confidenciales. El resumen cuenta entradas, no califica visibilidad.",
+      "intro": "Carga el registro ficticio completo de diez respuestas o añade observaciones propias. Si adaptas preguntas, registra la redacción exacta; conserva contexto y paneles no evaluables. Crea el informe, exporta CSV o imprime.",
       "blocks": [
         {
           "label": "1",
@@ -492,7 +984,7 @@
           "body": "Separa mención, cita exacta, panel ausente y próxima comprobación."
         }
       ],
-      "note": "Los datos permanecen en esta página y se borran al recargar. No se consultan modelos ni se rastrea, sube o envía nada. El ejemplo es ficticio y no establece posiciones en IA."
+      "note": "Ficha privada y sin registro. Añade hasta 50 entradas, carga el ejemplo ficticio completo, crea un informe y expórtalo como CSV o imprímelo. Los datos permanecen en esta página y desaparecen al recargar. No realiza auditorías automáticas ni genera puntuaciones o resultados verificados."
     },
     "worksheet": {
       "fields": [
@@ -507,6 +999,132 @@
         "Mención inventada; panel ausente; citas no evaluables",
         "Comprobar hechos del servicio; repetir en condiciones equivalentes"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "Pasada y pregunta exacta o referencia de biblioteca",
+        "Motor, modelo visible y fecha",
+        "Idioma, país conocido y contexto de sesión/conversación",
+        "Disponibilidad del panel de fuentes",
+        "Mención de marca: sí/no/desconocido",
+        "URL citada exacta o cita no evaluable",
+        "Afirmación, verificación y límite de exactitud",
+        "Referencia de evidencia de respuesta/fuente",
+        "Acción de página, responsable, aprobación y nueva prueba comparable"
+      ],
+      "samples": [
+        [
+          "R1 P1",
+          "Motor ficticio A; modelo no visible; día 1/día 8",
+          "Español; país desconocido; sin sesión; conversación nueva",
+          "Disponible",
+          "Sí",
+          "https://example.com/services/",
+          "Correcto en el alcance revisado",
+          "Fictional R1P1; example.com = reserved example",
+          "Esta observación no justifica por sí sola un cambio"
+        ],
+        [
+          "R1 P2",
+          "Motor ficticio A; modelo no visible; día 1/día 8",
+          "Español; país desconocido; sin sesión; conversación nueva",
+          "Disponible",
+          "No",
+          "No",
+          "No evaluado",
+          "Fictional R1P2; example.com = reserved example",
+          "Esta observación no justifica por sí sola un cambio"
+        ],
+        [
+          "R1 P3",
+          "Motor ficticio A; modelo no visible; día 1/día 8",
+          "Español; país desconocido; sin sesión; conversación nueva",
+          "No disponible",
+          "Sí",
+          "Desconocido / no evaluable",
+          "Afirmación inventada: incluye llamadas; contradice servicio ficticio",
+          "Fictional R1P3; example.com = reserved example",
+          "Revisar fuente y texto; conservar referencia inicial"
+        ],
+        [
+          "R1 P4",
+          "Motor ficticio A; modelo no visible; día 1/día 8",
+          "Español; país desconocido; sin sesión; conversación nueva",
+          "No disponible",
+          "No",
+          "Desconocido / no evaluable",
+          "No evaluado",
+          "Fictional R1P4; example.com = reserved example",
+          "Esta observación no justifica por sí sola un cambio"
+        ],
+        [
+          "R1 P5",
+          "Motor ficticio A; modelo no visible; día 1/día 8",
+          "Español; país desconocido; sin sesión; conversación nueva",
+          "Disponible",
+          "No",
+          "No",
+          "No evaluado",
+          "Fictional R1P5; example.com = reserved example",
+          "Esta observación no justifica por sí sola un cambio"
+        ],
+        [
+          "R2 P1",
+          "Motor ficticio A; modelo no visible; día 1/día 8",
+          "Español; país desconocido; sin sesión; conversación nueva",
+          "Disponible",
+          "Sí",
+          "https://example.com/services/",
+          "Correcto en el alcance revisado",
+          "Fictional R2P1; example.com = reserved example",
+          "Esta observación no justifica por sí sola un cambio"
+        ],
+        [
+          "R2 P2",
+          "Motor ficticio A; modelo no visible; día 1/día 8",
+          "Español; país desconocido; sin sesión; conversación nueva",
+          "Disponible",
+          "No",
+          "No",
+          "No evaluado",
+          "Fictional R2P2; example.com = reserved example",
+          "Esta observación no justifica por sí sola un cambio"
+        ],
+        [
+          "R2 P3",
+          "Motor ficticio A; modelo no visible; día 1/día 8",
+          "Español; país desconocido; sin sesión; conversación nueva",
+          "No disponible",
+          "No",
+          "Desconocido / no evaluable",
+          "No evaluado",
+          "Fictional R2P3; example.com = reserved example",
+          "Esta observación no justifica por sí sola un cambio"
+        ],
+        [
+          "R2 P4",
+          "Motor ficticio A; modelo no visible; día 1/día 8",
+          "Español; país desconocido; sin sesión; conversación nueva",
+          "No disponible",
+          "No",
+          "Desconocido / no evaluable",
+          "No evaluado",
+          "Fictional R2P4; example.com = reserved example",
+          "Esta observación no justifica por sí sola un cambio"
+        ],
+        [
+          "R2 P5",
+          "Motor ficticio A; modelo no visible; día 1/día 8",
+          "Español; país desconocido; sin sesión; conversación nueva",
+          "Disponible",
+          "No",
+          "No",
+          "No evaluado",
+          "Fictional R2P5; example.com = reserved example",
+          "Esta observación no justifica por sí sola un cambio"
+        ]
+      ],
+      "legend": "Observación de pregunta, fuente y revisión factual"
     }
   },
   "ca": {
@@ -663,6 +1281,189 @@
             "label": "Revisa abast i costos d’AEO"
           }
         ]
+      },
+      {
+        "heading": "Un protocol reutilitzable de preguntes de compra",
+        "body": [
+          "Tria un conjunt petit i fix de decisions reals i repeteix el mateix redactat amb condicions registrades. Les preguntes són plantilles; no descriuen cerques executades ni respostes actuals. Substitueix els claudàtors pel teu abast públic aprovat. Separa exactitud de marca i descoberta sense marca."
+        ],
+        "table": {
+          "caption": "Biblioteca de preguntes",
+          "headers": [
+            "ID",
+            "Plantilla",
+            "Què revisar"
+          ],
+          "rows": [
+            [
+              "P1 · dades de marca",
+              "Què ofereix [proveïdor] a [tipus de comprador] a [mercat]?",
+              "Servei, públic i fets acreditats"
+            ],
+            [
+              "P2 · descoberta",
+              "Com hauria de buscar ajuda [funció del comprador] per a [problema concret]?",
+              "Si esmenta un proveïdor adequat i per què"
+            ],
+            [
+              "P3 · abast",
+              "Inclou [proveïdor] [element limitat] en [servei]?",
+              "Inclusions i exclusions correctes"
+            ],
+            [
+              "P4 · avaluació",
+              "Què hem de preguntar abans de contractar [servei]?",
+              "Criteris, responsabilitats i evidències"
+            ],
+            [
+              "P5 · comparació",
+              "Quan convé més [enfocament A] que [enfocament B] per a [context]?",
+              "Avantatges, límits i hipòtesis declarades"
+            ],
+            [
+              "P6 · responsabilitats",
+              "Què ha d’aportar l’equip abans d’iniciar [servei]?",
+              "Accés, aprovacions i tasques del client"
+            ],
+            [
+              "P7 · restriccions",
+              "Què pot fallar si falta [dependència]?",
+              "Límits reals explicats"
+            ],
+            [
+              "P8 · condicions",
+              "Quines condicions públiques ofereix [proveïdor] per a [servei]?",
+              "Font actual, moneda i abast exactes; no preus inferits"
+            ],
+            [
+              "P9 · evidències",
+              "Quines proves cal verificar en avaluar [proveïdor]?",
+              "Proves autoritzades davant de resultats inventats"
+            ],
+            [
+              "P10 · idioma",
+              "Pot el comprador avaluar informació de [servei] en [idioma]?",
+              "Pàgina real accessible i relació lingüística correcta"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Resposta fictícia completa i revisió de les fonts",
+        "body": [
+          "Resposta del tot inventada: “Example Provider ajuda empreses industrials a investigar comptes i gestionar prospecció per email. També inclou trucades il·limitades amb parlants nadius. El comprador gestiona propostes i tancament. [1]”. Panell fictici [1]: https://example.com/services/. La font fictícia diu que inclou email i que les trucades es pressuposten a part.",
+          "El nom del proveïdor és una menció. La URL del panell és una citació si el panell és visible. Les trucades incloses són un error factual encara que hi hagi citació: la pàgina no ho acredita. El domini d’exemple no és un proveïdor ni una pàgina real investigada.",
+          "Registra afirmació exacta i fet primari que la contradiu. Comprova la font pública abans de corregir. Si la pàgina pròpia és errònia, corregeix-la amb aprovació i validació habituals. Si ja és clara, conserva l’observació, revisa altres fonts visibles i repeteix la prova comparable; no inventis un servei per adaptar-te a la resposta."
+        ]
+      },
+      {
+        "heading": "Exemple complet de dues passades i denominadors",
+        "body": [
+          "Totes les observacions són fictícies. Executa P1–P5 dues vegades, en converses noves sense sessió, un idioma i el mateix motor/context registrat. Si no es mostra model o ubicació, anota desconegut. Carrega les deu files a la fitxa; la pàgina no consulta motors reals."
+        ],
+        "table": {
+          "caption": "Registre fictici de deu respostes",
+          "headers": [
+            "Passada / pregunta",
+            "Panell de fonts",
+            "Menció",
+            "Citació",
+            "Exactitud"
+          ],
+          "rows": [
+            [
+              "R1 P1",
+              "Disponible",
+              "Sí",
+              "example.com/services/",
+              "Abast revisat correcte"
+            ],
+            [
+              "R1 P2",
+              "Disponible",
+              "No",
+              "No",
+              "No avaluada"
+            ],
+            [
+              "R1 P3",
+              "No disponible",
+              "Sí",
+              "No avaluable",
+              "Trucades incloses contradiu la font fictícia"
+            ],
+            [
+              "R1 P4",
+              "No disponible",
+              "No",
+              "No avaluable",
+              "No avaluada"
+            ],
+            [
+              "R1 P5",
+              "Disponible",
+              "No",
+              "No",
+              "No avaluada"
+            ],
+            [
+              "R2 P1",
+              "Disponible",
+              "Sí",
+              "example.com/services/",
+              "Abast revisat correcte"
+            ],
+            [
+              "R2 P2",
+              "Disponible",
+              "No",
+              "No",
+              "No avaluada"
+            ],
+            [
+              "R2 P3",
+              "No disponible",
+              "No",
+              "No avaluable",
+              "No avaluada"
+            ],
+            [
+              "R2 P4",
+              "No disponible",
+              "No",
+              "No avaluable",
+              "No avaluada"
+            ],
+            [
+              "R2 P5",
+              "Disponible",
+              "No",
+              "No",
+              "No avaluada"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Descriu observacions sense inventar una posició en IA",
+        "body": [
+          "Hi ha tres mencions en deu respostes observades. Sis respostes mostren panell de fonts i dues d’aquestes sis citen el proveïdor. Quatre panells no estan disponibles: la citació no és avaluable, no val zero. Declara recomptes i denominadors plegats. Els sis panells no representen necessàriament les deu respostes ni el mercat.",
+          "La segona passada pot variar sense editar pàgines. Una resposta diferent després d’un canvi no aïlla la causa: model, recuperació, fonts i context també poden canviar. No converteixis una mostra petita en quota universal de visibilitat o posició estable. La puntuació d’un verificador descriu el seu mètode, no un requisit del motor.",
+          "Exporta pregunta exacta, motor/model visible, data, idioma, context conegut, panell, menció, URL citada, revisió factual, evidència i acció. Separa sessions reals de referència IA i reserves contrastades. Una citació no és una visita; una visita no és reunió qualificada."
+        ]
+      },
+      {
+        "heading": "Vincula correccions de font amb una revisió controlada",
+        "body": [
+          "En cada troballa accionable registra URL font, afirmació, fet primari actual, canvi proposat, responsable, aprovació i prova següent. A les funcions IA de Google s’apliquen els fonaments SEO habituals: pàgines indexades i aptes per a fragments; no s’exigeix cap fitxer ni schema especial. Google inclou aquesta activitat al rendiment Web general, no en un bloc net d’impressions IA separades.",
+          "L’auditoria manual pot ser útil sense fingir que és un verificador automàtic. La fitxa no rastreja URLs ni consulta models; conserva evidències, incertesa i accions que una puntuació sola no explica."
+        ],
+        "links": [
+          {
+            "href": "https://developers.google.com/search/docs/appearance/ai-features",
+            "label": "Consultar requisits i mesura de funcions IA de Google"
+          }
+        ]
       }
     ],
     "faqs": [
@@ -729,7 +1530,7 @@
       "navLabel": "Utilitza la fitxa d’evidències AEO",
       "eyebrow": "Registre manual privat",
       "heading": "Anota la resposta i els límits observats",
-      "intro": "Registra tres observacions manuals amb prompts públics i referències neutres, sense dades confidencials. El resum compta entrades, no qualifica visibilitat.",
+      "intro": "Carrega el registre fictici complet de deu respostes o afegeix observacions pròpies. Si adaptes preguntes, registra el redactat exacte; conserva context i panells no avaluables. Crea l’informe, exporta CSV o imprimeix.",
       "blocks": [
         {
           "label": "1",
@@ -747,7 +1548,7 @@
           "body": "Separa menció, cita exacta, panell absent i pròxima comprovació."
         }
       ],
-      "note": "Les dades romanen en aquesta pàgina i s’esborren en recarregar. No es consulten models ni es rastreja, puja o envia res. L’exemple és fictici i no estableix posicions en IA."
+      "note": "Fitxa privada i sense registre. Afegeix fins a 50 entrades, carrega l’exemple fictici complet, crea un informe i exporta’l en CSV o imprimeix-lo. Les dades queden en aquesta pàgina i desapareixen en recarregar-la. No fa auditories automàtiques ni genera puntuacions o resultats verificats."
     },
     "worksheet": {
       "fields": [
@@ -762,16 +1563,142 @@
         "Menció inventada; panell absent; cites no avaluables",
         "Comprovar fets del servei; repetir en condicions equivalents"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "Passada i pregunta exacta o referència de biblioteca",
+        "Motor, model visible i data",
+        "Idioma, país conegut i context de sessió/conversa",
+        "Disponibilitat del panell de fonts",
+        "Menció de marca: sí/no/desconegut",
+        "URL citada exacta o citació no avaluable",
+        "Afirmació, comprovació i límit d’exactitud",
+        "Referència d’evidència de resposta/font",
+        "Acció de pàgina, responsable, aprovació i prova comparable"
+      ],
+      "samples": [
+        [
+          "R1 P1",
+          "Motor fictici A; model no visible; dia 1/dia 8",
+          "Català; país desconegut; sense sessió; conversa nova",
+          "Disponible",
+          "Sí",
+          "https://example.com/services/",
+          "Correcte dins l’abast revisat",
+          "Fictional R1P1; example.com = reserved example",
+          "Aquesta observació sola no justifica cap canvi"
+        ],
+        [
+          "R1 P2",
+          "Motor fictici A; model no visible; dia 1/dia 8",
+          "Català; país desconegut; sense sessió; conversa nova",
+          "Disponible",
+          "No",
+          "No",
+          "No avaluat",
+          "Fictional R1P2; example.com = reserved example",
+          "Aquesta observació sola no justifica cap canvi"
+        ],
+        [
+          "R1 P3",
+          "Motor fictici A; model no visible; dia 1/dia 8",
+          "Català; país desconegut; sense sessió; conversa nova",
+          "No disponible",
+          "Sí",
+          "Desconegut / no avaluable",
+          "Afirmació inventada: inclou trucades; contradiu servei fictici",
+          "Fictional R1P3; example.com = reserved example",
+          "Revisar font i text; conservar referència inicial"
+        ],
+        [
+          "R1 P4",
+          "Motor fictici A; model no visible; dia 1/dia 8",
+          "Català; país desconegut; sense sessió; conversa nova",
+          "No disponible",
+          "No",
+          "Desconegut / no avaluable",
+          "No avaluat",
+          "Fictional R1P4; example.com = reserved example",
+          "Aquesta observació sola no justifica cap canvi"
+        ],
+        [
+          "R1 P5",
+          "Motor fictici A; model no visible; dia 1/dia 8",
+          "Català; país desconegut; sense sessió; conversa nova",
+          "Disponible",
+          "No",
+          "No",
+          "No avaluat",
+          "Fictional R1P5; example.com = reserved example",
+          "Aquesta observació sola no justifica cap canvi"
+        ],
+        [
+          "R2 P1",
+          "Motor fictici A; model no visible; dia 1/dia 8",
+          "Català; país desconegut; sense sessió; conversa nova",
+          "Disponible",
+          "Sí",
+          "https://example.com/services/",
+          "Correcte dins l’abast revisat",
+          "Fictional R2P1; example.com = reserved example",
+          "Aquesta observació sola no justifica cap canvi"
+        ],
+        [
+          "R2 P2",
+          "Motor fictici A; model no visible; dia 1/dia 8",
+          "Català; país desconegut; sense sessió; conversa nova",
+          "Disponible",
+          "No",
+          "No",
+          "No avaluat",
+          "Fictional R2P2; example.com = reserved example",
+          "Aquesta observació sola no justifica cap canvi"
+        ],
+        [
+          "R2 P3",
+          "Motor fictici A; model no visible; dia 1/dia 8",
+          "Català; país desconegut; sense sessió; conversa nova",
+          "No disponible",
+          "No",
+          "Desconegut / no avaluable",
+          "No avaluat",
+          "Fictional R2P3; example.com = reserved example",
+          "Aquesta observació sola no justifica cap canvi"
+        ],
+        [
+          "R2 P4",
+          "Motor fictici A; model no visible; dia 1/dia 8",
+          "Català; país desconegut; sense sessió; conversa nova",
+          "No disponible",
+          "No",
+          "Desconegut / no avaluable",
+          "No avaluat",
+          "Fictional R2P4; example.com = reserved example",
+          "Aquesta observació sola no justifica cap canvi"
+        ],
+        [
+          "R2 P5",
+          "Motor fictici A; model no visible; dia 1/dia 8",
+          "Català; país desconegut; sense sessió; conversa nova",
+          "Disponible",
+          "No",
+          "No",
+          "No avaluat",
+          "Fictional R2P5; example.com = reserved example",
+          "Aquesta observació sola no justifica cap canvi"
+        ]
+      ],
+      "legend": "Observació de pregunta, font i revisió factual"
     }
   },
   "fr": {
     "path": "/guides/aeo-audit/",
     "serviceFamily": "inbound",
-    "title": "Audit AEO B2B : preuves et visibilité dans l’IA | Beespoke",
+    "title": "Audit AEO B2B : preuves et visibilité dans l’IA | Beespoke",
     "description": "Examinez mentions, citations exactes, exactitude et visites issues des recherches avec IA. Méthode manuelle reproductible et fiche privée de preuves.",
     "eyebrow": "Revue de recherche avec IA fondée sur les preuves",
     "h1": "Audit AEO B2B : mesurer sa visibilité dans les recherches avec IA à partir de preuves",
-    "answer": "Un audit AEO examine comment les moteurs de réponse décrivent votre entreprise, quelles pages ils citent et si les visites pertinentes deviennent de vraies conversations. Partez de questions d’achat et d’un journal reproductible. Séparez mentions de marque, citations d’URL, sessions référentes et réservations. Notez modèle, date et conditions ; une preuve absente est non évaluable, pas nulle. L’audit oriente les améliorations, sans garantir une présence dans les réponses.",
+    "answer": "Un audit AEO examine comment les moteurs de réponse décrivent votre entreprise, quelles pages ils citent et si les visites pertinentes deviennent de vraies conversations. Partez de questions d’achat et d’un journal reproductible. Séparez mentions de marque, citations d’URL, sessions référentes et réservations. Notez modèle, date et conditions ; une preuve absente est non évaluable, pas nulle. L’audit oriente les améliorations, sans garantir une présence dans les réponses.",
     "heroSecondary": {
       "label": "Utiliser la fiche de preuves AEO",
       "href": "#buyer-worksheet"
@@ -780,7 +1707,7 @@
       {
         "heading": "Définir les questions d’achat et les limites de l’audit",
         "body": [
-          "Choisissez des questions précédant un achat : contenu du service, public adapté, comparaison des approches et preuves à demander. Incluez des questions sans marque et sur votre marque. Séparez contrôle d’exactitude de la marque et découverte sans marque.",
+          "Choisissez des questions précédant un achat : contenu du service, public adapté, comparaison des approches et preuves à demander. Incluez des questions sans marque et sur votre marque. Séparez contrôle d’exactitude de la marque et découverte sans marque.",
           "Fixez un ensemble de prompts par marché et langue. Notez le texte exact et son utilité commerciale. De nombreuses variantes presque identiques peuvent donner une précision trompeuse sans couvrir des décisions différentes. Ne saisissez pas d’informations privées sur clients, prospects ou comptes dans un modèle public."
         ]
       },
@@ -788,7 +1715,7 @@
         "heading": "Rendre chaque observation reproductible",
         "body": [
           "Notez moteur et modèle ou version visibles, horodatage, langue, lieu connu, connexion ou contexte vierge, prompt exact et disponibilité de navigation ou de sources. Conservez un court extrait ou une référence si pertinent. Si un réglage n’est pas révélé, écrivez inconnu.",
-          "Personnalisation, mises à jour des modèles et variabilité limitent les comparaisons. Répétez les questions dans des conditions équivalentes et à des dates documentées ; une réponse personnalisée et une session vierge ne permettent pas de supposer que seule votre page a changé. L’observation manuelle est un échantillon, pas un recensement des recherches avec IA."
+          "Personnalisation, mises à jour des modèles et variabilité limitent les comparaisons. Répétez les questions dans des conditions équivalentes et à des dates documentées ; une réponse personnalisée et une session vierge ne permettent pas de supposer que seule votre page a changé. L’observation manuelle est un échantillon, pas un recensement des recherches avec IA."
         ],
         "items": [
           "Notez si la marque apparaît et ce qui en est dit.",
@@ -838,7 +1765,7 @@
         "body": [
           "Relisez services, faits sur l’entreprise, auteurs, dates et langues. La page doit répondre clairement, apporter une aide originale et séparer faits approuvés et exemples. Un contenu exact et des données structurées cohérentes facilitent la compréhension, sans obliger un moteur à citer.",
           "La documentation de Google sur les fonctions d’IA maintient les bases habituelles du SEO. Les pages d’appui doivent être indexées et susceptibles d’apparaître avec un extrait. Aucun fichier d’IA ni balisage particulier n’est exigé. Vérifiez accès, indexabilité, canoniques et découverte interne avant d’ajouter des fichiers spéculatifs.",
-          "Être explorable ne prouve pas l’indexation ; être indexé ne prouve pas une citation. Ne bloquez pas un accès utile comme tactique non vérifiée et ne traitez pas llms.txt comme un interrupteur de classement."
+          "Être explorable ne prouve pas l’indexation ; être indexé ne prouve pas une citation. Ne bloquez pas un accès utile comme tactique non vérifiée et ne traitez pas llms.txt comme un interrupteur de classement."
         ],
         "links": [
           {
@@ -851,7 +1778,7 @@
         "heading": "Examiner les lacunes et les sources concurrentes avec prudence",
         "body": [
           "Inspectez les pages réellement citées lorsque les liens sont disponibles. Notez la décision qu’elles facilitent, leurs preuves et ce qui manque à votre page. La présence d’un concurrent ne démontre pas sa cause. Un panneau indisponible ne prouve pas l’absence de citations.",
-          "Améliorez la page existante si elle peut bien répondre : périmètre, réponses directes, responsabilités, distinctions documentées et exemples utiles. Créez une URL seulement pour un rôle d’achat distinct. Ne copiez pas les sources, n’inventez pas de cas et n’ajoutez pas d’affirmations générales pour ressembler à une réponse observée."
+          "Améliorez la page existante si elle peut bien répondre : périmètre, réponses directes, responsabilités, distinctions documentées et exemples utiles. Créez une URL seulement pour un rôle d’achat distinct. Ne copiez pas les sources, n’inventez pas de cas et n’ajoutez pas d’affirmations générales pour ressembler à une réponse observée."
         ],
         "links": [
           {
@@ -863,7 +1790,7 @@
       {
         "heading": "Utiliser une observation fictive pour choisir le prochain contrôle",
         "body": [
-          "Cet exemple est inventé. Il illustre des limites de couverture ; ce n’est ni un résultat mesuré ni une affirmation sur un moteur réel."
+          "Cet exemple est inventé. Il illustre des limites de couverture ; ce n’est ni un résultat mesuré ni une affirmation sur un moteur réel."
         ],
         "table": {
           "caption": "Observations AEO fictives",
@@ -875,16 +1802,16 @@
           ],
           "rows": [
             [
-              "Que comprend une campagne gérée ?",
-              "Réponse inventée mentionnant l’entreprise ; panneau indisponible",
+              "Que comprend une campagne gérée ?",
+              "Réponse inventée mentionnant l’entreprise ; panneau indisponible",
               "Citations exactes et visites ultérieures",
-              "Noter les citations non évaluables ; vérifier les faits du service"
+              "Noter les citations non évaluables ; vérifier les faits du service"
             ],
             [
-              "Comment comparer des audits ?",
+              "Comment comparer des audits ?",
               "Panneau inventé citant un guide avec responsabilités",
               "Si la citation a produit une réservation",
-              "Examiner l’aide pratique ; mesurer les résultats séparément"
+              "Examiner l’aide pratique ; mesurer les résultats séparément"
             ]
           ]
         }
@@ -892,8 +1819,8 @@
       {
         "heading": "Relier la visibilité dans l’IA au registre d’acquisition",
         "body": [
-          "Utilisez l’analytique avec sources et les réservations originales pour distinguer nouveaux appels acquis par le site et appels initiés par prospection puis passés sur le site. Conservez pages d’entrée et identifiants seulement avec les accès et finalités nécessaires. Une visite Direct sans source ne peut être attribuée à l’IA ; une réservation depuis ChatGPT ne fixe pas un taux de conversion.",
-          "Excluez les tests internes identifiés et conservez les lacunes d’attribution. Comparez périodes équivalentes et cohortes mûres, avec annulations, appels tenus et qualification. Publiez la couverture avec tout pourcentage de réponses ; l’échantillon ne représente pas l’ensemble du marché."
+          "Utilisez l’analytique avec sources et les réservations originales pour distinguer nouveaux appels acquis par le site et appels initiés par prospection puis passés sur le site. Conservez pages d’entrée et identifiants seulement avec les accès et finalités nécessaires. Une visite Direct sans source ne peut être attribuée à l’IA ; une réservation depuis ChatGPT ne fixe pas un taux de conversion.",
+          "Excluez les tests internes identifiés et conservez les lacunes d’attribution. Comparez périodes équivalentes et cohortes mûres, avec annulations, appels tenus et qualification. Publiez la couverture avec tout pourcentage de réponses ; l’échantillon ne représente pas l’ensemble du marché."
         ],
         "links": [
           {
@@ -905,7 +1832,7 @@
       {
         "heading": "Terminer par un plan délimité",
         "body": [
-          "Classez les actions selon risque factuel démontré, valeur pour l’acheteur, solidité des preuves, effort et dépendances. Nommez page, changement exact, responsable et prochaine observation. Corrigez les affirmations fausses démontrées ; testez les hypothèses incertaines avec une référence initiale, sans les présenter comme causes établies.",
+          "Classez les actions selon risque factuel démontré, valeur pour l’acheteur, solidité des preuves, effort et dépendances. Nommez page, changement exact, responsable et prochaine observation. Corrigez les affirmations fausses démontrées ; testez les hypothèses incertaines avec une référence initiale, sans les présenter comme causes établies.",
           "La fiche est un journal manuel. Elle n’interroge aucun modèle, n’explore aucun site et ne calcule aucun score propriétaire. Si vous cherchez une mise en œuvre, distinguez audit et travail continu de SEO et de recherche avec IA et convenez du périmètre séparément."
         ],
         "links": [
@@ -918,24 +1845,207 @@
             "label": "Examiner périmètre et coûts de l’AEO"
           }
         ]
+      },
+      {
+        "heading": "Un protocole réutilisable de questions d’achat",
+        "body": [
+          "Choisissez un petit ensemble fixe de décisions réelles et répétez le même libellé avec des conditions consignées. Les questions suivantes sont des modèles, pas des recherches exécutées ni des réponses actuelles. Remplacez les crochets par votre périmètre public approuvé. Séparez exactitude de marque et découverte sans marque."
+        ],
+        "table": {
+          "caption": "Bibliothèque de questions",
+          "headers": [
+            "ID",
+            "Modèle",
+            "Contrôle"
+          ],
+          "rows": [
+            [
+              "P1 · faits de marque",
+              "Que propose [prestataire] à [type d’acheteur] sur [marché] ?",
+              "Service, public et faits étayés"
+            ],
+            [
+              "P2 · découverte",
+              "Comment [rôle acheteur] devrait-il chercher de l’aide pour [problème précis] ?",
+              "Prestataire pertinent mentionné et raison"
+            ],
+            [
+              "P3 · périmètre",
+              "[Prestataire] inclut-il [élément limité] dans [service] ?",
+              "Inclusions et exclusions exactes"
+            ],
+            [
+              "P4 · évaluation",
+              "Que demander avant de commander [service] ?",
+              "Critères, responsabilités et preuves"
+            ],
+            [
+              "P5 · comparaison",
+              "Quand [approche A] convient-elle mieux que [approche B] pour [contexte] ?",
+              "Compromis et hypothèses explicites"
+            ],
+            [
+              "P6 · responsabilités",
+              "Que doit fournir notre équipe avant de commencer [service] ?",
+              "Accès, approbations et tâches du client"
+            ],
+            [
+              "P7 · contraintes",
+              "Que peut-il se passer si [dépendance] manque ?",
+              "Limites réelles expliquées"
+            ],
+            [
+              "P8 · conditions",
+              "Quelles conditions publiques [prestataire] annonce-t-il pour [service] ?",
+              "Source actuelle, devise et périmètre exacts ; pas de prix déduit"
+            ],
+            [
+              "P9 · preuves",
+              "Quelles preuves vérifier pour évaluer [prestataire] ?",
+              "Preuves autorisées et résultats inventés distingués"
+            ],
+            [
+              "P10 · langue",
+              "L’acheteur peut-il évaluer [service] dans [langue] ?",
+              "Page réelle accessible et relation linguistique correcte"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Une réponse fictive complète et l’examen des sources",
+        "body": [
+          "Réponse entièrement inventée : “Example Provider aide les entreprises industrielles à rechercher des comptes et à gérer la prospection par email. Il inclut aussi des appels illimités par des locuteurs natifs. L’acheteur gère propositions et conclusion. [1]”. Panneau fictif [1] : https://example.com/services/. La source fictive indique que l’email est inclus et que les appels nécessitent un devis séparé.",
+          "Le nom du prestataire est une mention. L’URL du panneau est une citation si ce panneau est visible. L’inclusion des appels est une erreur factuelle malgré la citation : la page ne soutient pas cette affirmation. Le domaine d’exemple n’est ni un vrai prestataire ni une page réellement examinée.",
+          "Consignez l’affirmation exacte et le fait primaire contradictoire. Vérifiez la source publique avant correction. Si votre page est erronée, corrigez-la selon les approbations et contrôles habituels. Si elle est déjà claire, conservez l’observation, examinez les autres sources visibles et répétez le test comparable ; n’inventez pas une offre pour correspondre à la réponse."
+        ]
+      },
+      {
+        "heading": "Deux passages complets et leurs dénominateurs",
+        "body": [
+          "Toutes les observations sont fictives. Exécutez P1–P5 deux fois, dans de nouveaux fils déconnectés, avec la même langue et le même moteur/contexte consignés. Si modèle ou localisation ne sont pas affichés, notez inconnu. Chargez les dix lignes dans la fiche ; cette page n’interroge aucun moteur réel."
+        ],
+        "table": {
+          "caption": "Registre fictif de dix réponses",
+          "headers": [
+            "Passage / question",
+            "Panneau de sources",
+            "Mention",
+            "Citation",
+            "Exactitude"
+          ],
+          "rows": [
+            [
+              "R1 P1",
+              "Disponible",
+              "Oui",
+              "example.com/services/",
+              "Périmètre vérifié exact"
+            ],
+            [
+              "R1 P2",
+              "Disponible",
+              "Non",
+              "Non",
+              "Non évaluée"
+            ],
+            [
+              "R1 P3",
+              "Indisponible",
+              "Oui",
+              "Non évaluable",
+              "Appels inclus contredit la source fictive"
+            ],
+            [
+              "R1 P4",
+              "Indisponible",
+              "Non",
+              "Non évaluable",
+              "Non évaluée"
+            ],
+            [
+              "R1 P5",
+              "Disponible",
+              "Non",
+              "Non",
+              "Non évaluée"
+            ],
+            [
+              "R2 P1",
+              "Disponible",
+              "Oui",
+              "example.com/services/",
+              "Périmètre vérifié exact"
+            ],
+            [
+              "R2 P2",
+              "Disponible",
+              "Non",
+              "Non",
+              "Non évaluée"
+            ],
+            [
+              "R2 P3",
+              "Indisponible",
+              "Non",
+              "Non évaluable",
+              "Non évaluée"
+            ],
+            [
+              "R2 P4",
+              "Indisponible",
+              "Non",
+              "Non évaluable",
+              "Non évaluée"
+            ],
+            [
+              "R2 P5",
+              "Disponible",
+              "Non",
+              "Non",
+              "Non évaluée"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Décrire les observations sans inventer un classement IA",
+        "body": [
+          "L’exemple contient trois mentions dans dix réponses observées. Six réponses affichent un panneau ; deux de ces six citent le prestataire. Quatre panneaux sont indisponibles : leur citation est non évaluable, pas égale à zéro. Présentez nombres et dénominateurs ensemble. Les six panneaux ne représentent pas nécessairement les dix réponses ni le marché.",
+          "Le second passage peut varier sans modification de page. Une réponse différente après modification n’isole pas la cause : modèle, récupération, sources et contexte peuvent évoluer. Ne transformez pas un petit échantillon en part universelle de visibilité ou position stable. Une note de vérificateur décrit sa méthode, pas une exigence du moteur.",
+          "Exportez question exacte, moteur/modèle visible, date, langue, contexte connu, panneau, mention, URL citée, contrôle factuel, preuve et action. Séparez sessions réelles provenant de l’IA et réservations rapprochées des sources. Une citation n’est pas une visite ; une visite n’est pas un rendez-vous qualifié."
+        ]
+      },
+      {
+        "heading": "Relier les corrections de source à une revue contrôlée",
+        "body": [
+          "Pour chaque constat exploitable, notez URL source, affirmation, fait primaire actuel, changement proposé, responsable, approbation et retest. Les fonctions IA de Google suivent les bases SEO habituelles : pages indexées et éligibles aux extraits ; aucun fichier ou schema spécial n’est requis. Google intègre cette activité au rapport Web global, pas à un compartiment distinct et complet d’impressions IA.",
+          "Un audit manuel peut être utile sans se présenter comme un outil de notation automatique. La fiche n’explore pas les URL et n’interroge pas les modèles ; elle conserve preuves, incertitude et actions qu’une note isolée n’explique pas."
+        ],
+        "links": [
+          {
+            "href": "https://developers.google.com/search/docs/appearance/ai-features",
+            "label": "Consulter les critères et la mesure des fonctions IA de Google"
+          }
+        ]
       }
     ],
     "faqs": [
       {
-        "question": "Que doit mesurer un audit AEO ?",
+        "question": "Que doit mesurer un audit AEO ?",
         "answer": "Questions d’achat couvertes, mentions observées, URL citées, exactitude et disponibilité des sources, plus conditions de recherche, visites référentes d’IA et nouvelles réservations réelles. Séparez chaque mesure et sa couverture."
       },
       {
-        "question": "Quelle différence avec un audit de visibilité dans l’IA ?",
-        "answer": "Les noms se recoupent. Définissez le périmètre réel : moteurs, prompts, langues, inspection des sources, revue technique et rapprochement des résultats. L’étiquette n’explique pas les preuves recueillies."
+        "question": "Quelle différence avec un audit de visibilité dans l’IA ?",
+        "answer": "Les noms se recoupent. Définissez le périmètre réel : moteurs, prompts, langues, inspection des sources, revue technique et rapprochement des résultats. L’étiquette n’explique pas les preuves recueillies."
       },
       {
-        "question": "Google exige-t-il un balisage spécial ou llms.txt ?",
+        "question": "Google exige-t-il un balisage spécial ou llms.txt ?",
         "answer": "La documentation citée n’exige ni balisage ni fichier d’IA spécial. Les bases SEO et les pages indexées pouvant afficher un extrait restent pertinentes. Cela ne garantit ni présence ni citations."
       },
       {
-        "question": "Comment comparer deux audits rigoureusement ?",
-        "answer": "Utilisez les mêmes questions, moteurs, versions visibles, langues et contexte connu, avec dates et couverture consignées. Signalez réglages et panneaux indisponibles ; la variabilité limite encore les conclusions causales."
+        "question": "Comment comparer deux audits rigoureusement ?",
+        "answer": "Utilisez les mêmes questions, moteurs, versions visibles, langues et contexte connu, avec dates et couverture consignées. Signalez réglages et panneaux indisponibles ; la variabilité limite encore les conclusions causales."
       }
     ],
     "related": [
@@ -945,19 +2055,19 @@
     ],
     "sources": [
       {
-        "label": "Google Search Central : fonctions d’IA et votre site",
+        "label": "Google Search Central : fonctions d’IA et votre site",
         "href": "https://developers.google.com/search/docs/appearance/ai-features"
       },
       {
-        "label": "HubSpot : audit AEO",
+        "label": "HubSpot : audit AEO",
         "href": "https://blog.hubspot.com/marketing/aeo-audit"
       },
       {
-        "label": "Nextiny : réaliser un audit AEO",
+        "label": "Nextiny : réaliser un audit AEO",
         "href": "https://blog.nextinymarketing.com/how-to-run-an-aeo-audit-see-how-ai-understands-your-company"
       },
       {
-        "label": "Ahrefs : audit de visibilité dans l’IA",
+        "label": "Ahrefs : audit de visibilité dans l’IA",
         "href": "https://ahrefs.com/blog/ai-visibility-audit/"
       },
       {
@@ -966,11 +2076,11 @@
       }
     ],
     "sourceChecked": "27 octobre 2026",
-    "sourceMethodology": "Google étaye les indications techniques ; les articles éclairent la comparaison des méthodes. La fiche est une aide de préparation. Les réponses sont inventées. Aucun benchmark de modèles, score de marché ou effet causal sur les réservations n’est revendiqué.",
+    "sourceMethodology": "Google étaye les indications techniques ; les articles éclairent la comparaison des méthodes. La fiche est une aide de préparation. Les réponses sont inventées. Aucun benchmark de modèles, score de marché ou effet causal sur les réservations n’est revendiqué.",
     "decisionGuide": {
       "heading": "Choisir une action que les preuves peuvent soutenir",
       "body": [
-        "Conservez des prompts datés et un journal. Améliorez réponses utiles, exactitude et accès ; évaluez les résultats commerciaux séparément."
+        "Conservez des prompts datés et un journal. Améliorez réponses utiles, exactitude et accès ; évaluez les résultats commerciaux séparément."
       ],
       "items": [
         "Corrigez les erreurs factuelles démontrées.",
@@ -984,7 +2094,7 @@
       "navLabel": "Utiliser la fiche de preuves AEO",
       "eyebrow": "Journal manuel privé",
       "heading": "Noter la réponse et les limites observées",
-      "intro": "Consignez trois observations manuelles avec prompts publics et références neutres, sans données confidentielles. Le résumé compte les entrées, pas la visibilité.",
+      "intro": "Chargez les dix réponses fictives ou ajoutez vos observations. Consignez le libellé exact des questions adaptées ; conservez contexte et panneaux non évaluables. Créez le rapport, exportez le CSV ou imprimez.",
       "blocks": [
         {
           "label": "1",
@@ -1002,7 +2112,7 @@
           "body": "Séparez mention, citation exacte, panneau absent et prochain contrôle."
         }
       ],
-      "note": "Les données restent sur cette page et disparaissent au rechargement. Aucun modèle, crawl, envoi ou téléversement n’est lancé. L’exemple est fictif et n’établit aucun classement dans l’IA."
+      "note": "Fiche privée sans inscription. Ajoutez jusqu’à 50 entrées, chargez l’exemple fictif complet, créez un rapport puis exportez-le en CSV ou imprimez-le. Les données restent sur cette page et disparaissent au rechargement. Aucun audit automatique, score ou résultat vérifié n’est produit."
     },
     "worksheet": {
       "fields": [
@@ -1012,11 +2122,137 @@
         "Action suivante, responsable et date"
       ],
       "sample": [
-        "Prompt fictif : que comprend une campagne gérée ?",
-        "Moteur inventé ; modèle inconnu ; français ; contexte vierge",
-        "Mention inventée ; panneau absent ; citations non évaluables",
-        "Vérifier les faits du service ; répéter dans des conditions équivalentes"
+        "Prompt fictif : que comprend une campagne gérée ?",
+        "Moteur inventé ; modèle inconnu ; français ; contexte vierge",
+        "Mention inventée ; panneau absent ; citations non évaluables",
+        "Vérifier les faits du service ; répéter dans des conditions équivalentes"
       ]
+    },
+    "workbook": {
+      "fields": [
+        "Passage et question exacte ou référence de bibliothèque",
+        "Moteur, modèle visible et date",
+        "Langue, pays connu et contexte de connexion/fil",
+        "Disponibilité du panneau de sources",
+        "Mention de marque : oui/non/inconnu",
+        "URL citée exacte ou citation non évaluable",
+        "Affirmation, contrôle et limite d’exactitude",
+        "Référence de preuve de réponse/source",
+        "Action de page, responsable, approbation et retest comparable"
+      ],
+      "samples": [
+        [
+          "R1 P1",
+          "Moteur fictif A ; modèle non affiché ; jour 1/jour 8",
+          "Français ; pays inconnu ; déconnecté ; nouveau fil",
+          "Disponible",
+          "Oui",
+          "https://example.com/services/",
+          "Exact dans le périmètre vérifié",
+          "Fictional R1P1; example.com = reserved example",
+          "Cette observation seule ne justifie pas de changement"
+        ],
+        [
+          "R1 P2",
+          "Moteur fictif A ; modèle non affiché ; jour 1/jour 8",
+          "Français ; pays inconnu ; déconnecté ; nouveau fil",
+          "Disponible",
+          "Non",
+          "Non",
+          "Non évalué",
+          "Fictional R1P2; example.com = reserved example",
+          "Cette observation seule ne justifie pas de changement"
+        ],
+        [
+          "R1 P3",
+          "Moteur fictif A ; modèle non affiché ; jour 1/jour 8",
+          "Français ; pays inconnu ; déconnecté ; nouveau fil",
+          "Indisponible",
+          "Oui",
+          "Inconnu / non évaluable",
+          "Affirmation inventée : appels inclus ; contredit le service fictif",
+          "Fictional R1P3; example.com = reserved example",
+          "Vérifier source et texte ; conserver référence initiale"
+        ],
+        [
+          "R1 P4",
+          "Moteur fictif A ; modèle non affiché ; jour 1/jour 8",
+          "Français ; pays inconnu ; déconnecté ; nouveau fil",
+          "Indisponible",
+          "Non",
+          "Inconnu / non évaluable",
+          "Non évalué",
+          "Fictional R1P4; example.com = reserved example",
+          "Cette observation seule ne justifie pas de changement"
+        ],
+        [
+          "R1 P5",
+          "Moteur fictif A ; modèle non affiché ; jour 1/jour 8",
+          "Français ; pays inconnu ; déconnecté ; nouveau fil",
+          "Disponible",
+          "Non",
+          "Non",
+          "Non évalué",
+          "Fictional R1P5; example.com = reserved example",
+          "Cette observation seule ne justifie pas de changement"
+        ],
+        [
+          "R2 P1",
+          "Moteur fictif A ; modèle non affiché ; jour 1/jour 8",
+          "Français ; pays inconnu ; déconnecté ; nouveau fil",
+          "Disponible",
+          "Oui",
+          "https://example.com/services/",
+          "Exact dans le périmètre vérifié",
+          "Fictional R2P1; example.com = reserved example",
+          "Cette observation seule ne justifie pas de changement"
+        ],
+        [
+          "R2 P2",
+          "Moteur fictif A ; modèle non affiché ; jour 1/jour 8",
+          "Français ; pays inconnu ; déconnecté ; nouveau fil",
+          "Disponible",
+          "Non",
+          "Non",
+          "Non évalué",
+          "Fictional R2P2; example.com = reserved example",
+          "Cette observation seule ne justifie pas de changement"
+        ],
+        [
+          "R2 P3",
+          "Moteur fictif A ; modèle non affiché ; jour 1/jour 8",
+          "Français ; pays inconnu ; déconnecté ; nouveau fil",
+          "Indisponible",
+          "Non",
+          "Inconnu / non évaluable",
+          "Non évalué",
+          "Fictional R2P3; example.com = reserved example",
+          "Cette observation seule ne justifie pas de changement"
+        ],
+        [
+          "R2 P4",
+          "Moteur fictif A ; modèle non affiché ; jour 1/jour 8",
+          "Français ; pays inconnu ; déconnecté ; nouveau fil",
+          "Indisponible",
+          "Non",
+          "Inconnu / non évaluable",
+          "Non évalué",
+          "Fictional R2P4; example.com = reserved example",
+          "Cette observation seule ne justifie pas de changement"
+        ],
+        [
+          "R2 P5",
+          "Moteur fictif A ; modèle non affiché ; jour 1/jour 8",
+          "Français ; pays inconnu ; déconnecté ; nouveau fil",
+          "Disponible",
+          "Non",
+          "Non",
+          "Non évalué",
+          "Fictional R2P5; example.com = reserved example",
+          "Cette observation seule ne justifie pas de changement"
+        ]
+      ],
+      "legend": "Observation de question, source et exactitude"
     }
   }
 }
