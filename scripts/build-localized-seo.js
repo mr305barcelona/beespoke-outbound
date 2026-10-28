@@ -523,6 +523,8 @@ for (const [locale] of Object.entries(locales)) {
     dictionary[en] = translated;
     dictionary[escapeHtml(en)] = translated;
   }
+  const buyerGrowthGuides = ["b2b-sales-prospecting-plan", "b2b-conversion-rate-optimization", "b2b-keyword-research", "inbound-vs-outbound-lead-generation", "lead-generation-vs-demand-generation"].map(slug=>require('../data/buyer-guides-20261028/'+slug+'.json'));
+  for (const g of buyerGrowthGuides) for (const key of ['title','description','eyebrow','h1','answer']) { dictionary[g.en[key]]=g[locale][key];dictionary[escapeHtml(g.en[key])]=g[locale][key]; }
   for (const page of pages) {
     const source = fs.readFileSync(path.join(root, page.path.replace(/^\//, ""), "index.html"), "utf8");
     const output = path.join(root, localizedPath(locale, page.path).replace(/^\//, ""), "index.html");
@@ -537,6 +539,7 @@ for (const [locale] of Object.entries(locales)) {
       const guide = require('../data/buyer-guides-20261027/'+slug+'.json');
       addCopyMappings(guide.en, guide[locale], pageDictionary);
     }
+    for (const g of buyerGrowthGuides) if(page.path===g.en.path) addCopyMappings(g.en,g[locale],pageDictionary);
     // Related links and shared navigation need the other service's copy too.
     for (const other of pages.filter(p=>inboundPages.has(p.path))) {
       if (inboundLocalized[other.path]) addCopyMappings(other, inboundLocalized[other.path], pageDictionary);

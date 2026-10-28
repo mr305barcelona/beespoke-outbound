@@ -1,0 +1,28 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const root=path.resolve(__dirname,'..'),slugs=['b2b-sales-prospecting-plan','b2b-conversion-rate-optimization','b2b-keyword-research','inbound-vs-outbound-lead-generation','lead-generation-vs-demand-generation'];
+const decode=s=>String(s).replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'");
+const registry=JSON.parse(fs.readFileSync(path.join(root,'data/seo-pages.json'),'utf8')),sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');assert.equal(new Set(registry.map(p=>p.path)).size,registry.length,'Duplicate page ownership');
+let checked=0;
+for(const slug of slugs){const guide=require('../data/buyer-guides-20261028/'+slug+'.json');assert.deepEqual(Object.keys(guide).sort(),['ca','en','es','fr']);
+ for(const l of ['en','es','ca','fr']){
+  const p=guide[l],prefix=l==='en'?'':'/'+l,route=prefix+p.path,h=fs.readFileSync(path.join(root,route.slice(1),'index.html'),'utf8'),article=h.match(/<article>([\s\S]*?)<\/article>/)[1],visible=decode(article);
+  assert.equal((h.match(/<h1>/g)||[]).length,1,route);assert(h.includes('<html lang="'+l+'">'));assert(h.includes('<h1>'+p.h1.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')+'</h1>'));
+  assert(h.includes('rel="canonical" href="https://outbound-lead-generation.com'+route+'"'));for(const lang of ['en','es','ca','fr','x-default'])assert(h.includes('hreflang="'+lang+'" href="https://outbound-lead-generation.com'+(['en','x-default'].includes(lang)?'':'/'+lang)+p.path+'"'));
+  for(const s of p.sections){assert(visible.includes(s.heading));for(const b of s.body)assert(visible.includes(b),route+' reviewed paragraph missing');}
+  if(l!=='en')for(const s of guide.en.sections)for(const b of s.body)if(b.length>75)assert(!visible.includes(b),route+' English paragraph leaked');
+  const graph=JSON.parse(h.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'],a=graph.find(x=>x['@type']==='Article'),faq=graph.find(x=>x['@type']==='FAQPage');assert.equal(a.inLanguage,l);assert.equal(a.headline,p.h1);assert.equal(a.datePublished,'2026-10-28T14:00:00+01:00');assert.equal(a.dateModified,'2026-10-28T14:00:00+01:00');assert.deepEqual(faq.mainEntity.map(x=>[x.name,x.acceptedAnswer.text]),p.faqs.map(x=>[x.question,x.answer]));for(const f of p.faqs)assert(visible.includes(f.answer));
+  assert(!/<form\b/i.test(h));assert.equal((h.match(/id="buyer-worksheet"/g)||[]).length,1);assert.equal((h.match(/<aside class="inline-cta">/g)||[]).length,2);
+  const cfg=JSON.parse(h.match(/<script type="application\/json" data-worksheet-config>([\s\S]*?)<\/script>/)[1]);assert.deepEqual(cfg.fields,p.workbook.fields);assert.equal(cfg.reportTitle,p.workbook.reportTitle);assert(cfg.samples.length>=6);assert(cfg.samples.every(x=>x.state==='fictional'&&x.values.length===cfg.fields.length));assert(cfg.summary.includes('{unknown}')&&cfg.summary.includes('{fictional}'));
+  for(const action of ['summary','add','sample','export','print','reset'])assert(h.includes('data-worksheet-'+action));
+  if(p.rateCheck){const rate=JSON.parse(h.match(/<script type="application\/json" data-rate-config>([\s\S]*?)<\/script>/)[1]);assert.equal(rate.locale,l);assert.equal((h.match(/data-rate-value /g)||[]).length,4);assert.equal((h.match(/data-rate-output>/g)||[]).length,3);assert(h.includes('id="cohort-rate-check"'));assert(h.includes('buyer-rate-check.js'));assert(h.includes('buyer-rate-check.css'));assert(h.includes('data-rate-cohort'));assert(h.includes('data-rate-calculate'));}else assert(!h.includes('buyer-rate-check.js'));
+  for(const m of h.matchAll(/href="#([^"]+)"/g))assert(h.includes('id="'+m[1]+'"'),route+' broken section '+m[1]);
+  for(const m of article.matchAll(/href="(\/[^"#?]+)"/g))if(l!=='en')assert(m[1].startsWith(prefix+'/'),route+' cross-language handoff '+m[1]);
+  for(const m of h.matchAll(/href="(\/[^"#?]+)"/g)){let target=m[1];if(/\.[a-z0-9]+$/i.test(target))continue;assert(fs.existsSync(path.join(root,target.slice(1),'index.html')),route+' missing internal owner '+target);}
+  const hub=fs.readFileSync(path.join(root,(prefix+'/resources/').slice(1),'index.html'),'utf8');assert(hub.includes('href="'+route+'"'));assert(decode(hub).includes(p.h1),route+' hub title not native');assert(sitemap.includes('<loc>https://outbound-lead-generation.com'+route+'</loc><lastmod>2026-10-28</lastmod>'));
+  for(const name of ['og:image','twitter:image'])assert(h.includes(name+'" content="https://outbound-lead-generation.com/assets/social/beespoke-og.png"'));assert(h.includes('beespoke-mark-c3.svg'));assert(h.includes('rel="icon"'));
+  assert(!/>undefined<|="undefined"|\[object Object\]|multisèU|Quels données/.test(h));checked++;
+ }
+}
+for(const l of ['en','es','ca','fr'])for(const slug of ['b2b-seo-audit','b2b-content-audit','account-based-prospecting']){const h=fs.readFileSync(path.join(root,(l==='en'?'':l+'/')+'guides/'+slug+'/index.html'),'utf8');assert.equal((h.match(/class="buyer-growth-link"/g)||[]).length,1,'Missing contextual referrer');}
+const rate=fs.readFileSync(path.join(root,'buyer-rate-check.js'),'utf8');assert(!/\b(fetch|XMLHttpRequest|sendBeacon|localStorage|sessionStorage|gtag|dataLayer|submit|location|URLSearchParams)\b/.test(rate),'Rate inputs must stay private');assert(rate.includes('Number.isSafeInteger'));assert(rate.includes('values[j+1]>values[j]'));assert(rate.includes('values[j]>0'));
+console.log('Buyer growth QA: '+checked+' complete new pages, native metadata/FAQ/body/tool parity, existing-page referrers, local-only rate arithmetic and discovery preserved.');

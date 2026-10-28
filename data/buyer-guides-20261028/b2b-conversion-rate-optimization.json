@@ -1,0 +1,1513 @@
+{
+  "en": {
+    "path": "/guides/b2b-conversion-rate-optimization/",
+    "serviceFamily": "inbound",
+    "title": "B2B Conversion Rate Optimization: Diagnose Buyer Friction | Beespoke",
+    "description": "Find why relevant B2B visits do not become useful enquiries. Audit intent, evidence, forms and booking friction with worked examples, rate checks and a private action workbook.",
+    "eyebrow": "From relevant visits to useful conversations",
+    "h1": "B2B conversion rate optimization: help the right visitors take a useful next step",
+    "answer": "B2B conversion rate optimization improves how suitable visitors understand an offer, evaluate evidence and progress to a relevant enquiry. Start with traffic fit and reliable measurement, then inspect the service, guide, proof and contact journey. Fix demonstrated access or usability failures before guessing at persuasion changes. Keep bookings, attendance and qualification separate; a higher form-fill rate alone does not establish better sales opportunities.",
+    "sections": [
+      {
+        "heading": "Define the outcome and the eligible audience",
+        "body": [
+          "A conversion can mean a form submission, a booked call, an attended conversation or an accepted opportunity. Choose the outcome that matches the decision and keep those stages separate. An email click, calendar opening or PDF download can help explain a journey without proving a commercial lead.",
+          "Define which visits belong in the denominator: page or landing cohort, dates, source, country/device where relevant, exclusions and identity limits. If bookers cannot be linked to that cohort, record the rate as unavailable. Do not divide every calendar booking by only organic sessions and call the result an organic conversion rate."
+        ]
+      },
+      {
+        "heading": "Check fit and measurement before rewriting a page",
+        "body": [
+          "Read the actual queries and acquisition sources. A page can gain more student, job-seeker or broad informational visits without attracting additional buyers. Compare the same buyer-relevant cohorts before changing a successful answer. More total sessions can include internal work, bots or different visitor intent.",
+          "Verify the event meaning and source: a confirmation URL visit is not booking proof. Reconcile original creation identities where permission and data support it; separate repeat meetings, cancellations, reschedules and outreach-assisted visits. Exclude your own testing before interpreting totals and preserve unattributed records as unknown."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Diagnose acquisition and attribution across the whole funnel"
+          }
+        ]
+      },
+      {
+        "heading": "Audit the buyer task across four important page types",
+        "body": [
+          "An article, service page and booking page do different work. Make the transition useful rather than interrupting every reader with the same sales pitch."
+        ],
+        "table": {
+          "caption": "Page-by-page conversion review",
+          "headers": [
+            "Page type",
+            "Buyer question",
+            "What to verify",
+            "Useful next step"
+          ],
+          "rows": [
+            [
+              "Service",
+              "Can you solve this for a business like ours?",
+              "Specific scope, fit, proof, responsibilities and exclusions",
+              "Discuss the relevant service with context"
+            ],
+            [
+              "Guide",
+              "What decision should we make and why?",
+              "Direct answer, limitations, examples and genuinely useful tool",
+              "Use the working asset or explore the appropriate service"
+            ],
+            [
+              "Proof or case evidence",
+              "What actually happened and what is transferable?",
+              "Permission, dates, denominators, context and limits",
+              "Evaluate relevance without turning one case into a promise"
+            ],
+            [
+              "Contact or booking",
+              "What will happen if I reach out?",
+              "Correct destination, loading, visible controls, labels, reassurance and source continuity",
+              "Create a real enquiry or booking without unnecessary confusion"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Find friction with an observable checklist",
+        "body": [
+          "On desktop and narrow screens, check that the heading explains the job, the main answer is visible and contact controls do not cover content. Confirm links and essential assets load, navigation works by keyboard, focus is visible and fields have meaningful labels and error messages. A label or loading failure is an observable issue; “the button colour feels weak” is a hypothesis.",
+          "Inspect the complete booking journey after asynchronous content loads. An initially empty date control may still be loading. Allow a bounded wait and record the final state before diagnosing no availability. Do not create fake production bookings to test conversion tracking.",
+          "Check that the page answers a buyer’s constraints: what is included, what the client must do, what evidence supports the offer and what happens next. Add only accurate, approved proof. Fabricated testimonials, false urgency or hidden qualification requirements may increase activity while damaging buyer trust."
+        ]
+      },
+      {
+        "heading": "Two fictional before-and-after examples with reasons",
+        "body": [
+          "Example 1 is an invented service page. Before: a broad headline, unexplained “Get started” button and no responsibilities. After: a specific buyer/problem heading, a visible scope/exclusion section, client responsibilities and “Discuss the delivery requirements”. The reason is clearer expectation, not a claim that these words produce more bookings.",
+          "Example 2 is an invented evaluation guide. Before: the answer is delayed by a sales block and its only next step is a generic contact form. After: a concise answer, completed decision example and optional ungated worksheet, followed by a relevant service link. This supports both learning and buying without assuming every reader is ready for a call.",
+          "Neither example has measured performance. A better explanation is a reason to test, not an observed conversion uplift. Preserve URLs, useful answers, access controls and genuine-user tracking when implementing a justified change."
+        ]
+      },
+      {
+        "heading": "Read conversion arithmetic without overclaiming",
+        "body": [
+          "Fictional period A has 40 eligible visits and 2 new bookers matched to those visits:5%. Period B has 60 visits and 3 matched new bookers:also 5%. More bookings here coincide with more eligible visits; the descriptive rate has not improved. Changes in buyer mix or attribution can still affect interpretation.",
+          "With 0 eligible visits, the rate is unavailable, not 0%. With a positive valid denominator and 0 matched bookers, the observed rate is 0%, but a small sample does not prove the page cannot convert. Unknown bookings must stay unknown. A numerator larger than this one-new-booker-per-visit cohort suggests a mismatch, repeat count or definition problem.",
+          "Use the rate check below only for a genuinely comparable, defined cohort. It is descriptive arithmetic, not statistical significance, proof of causation or a forecast of meetings. Do not invent a precise testing timeline from sparse B2B activity."
+        ]
+      },
+      {
+        "heading": "A completed fictional friction register",
+        "body": [
+          "All cases are invented. The order follows confirmed failure and buyer relevance, not a universal optimization score."
+        ],
+        "table": {
+          "caption": "Fictional action queue",
+          "headers": [
+            "Issue",
+            "Evidence and alternative",
+            "Decision",
+            "Owner and retest"
+          ],
+          "rows": [
+            [
+              "Service link fails",
+              "Repeated 404 from the relevant guide; destination may have moved",
+              "Repair the correct route first; preserve intent",
+              "Developer; final response and incoming links"
+            ],
+            [
+              "Booking appears empty",
+              "Date control fills after a short wait",
+              "No “zero availability” conclusion; explain loading only if confusing",
+              "UX owner; bounded loaded-state check"
+            ],
+            [
+              "Scope unclear",
+              "Buyer question about exclusions has no answer",
+              "Add approved scope and responsibilities",
+              "Commercial/editorial approval; verify text and journey"
+            ],
+            [
+              "Form field unexplained",
+              "Keyboard user cannot identify expected input",
+              "Add label and useful error guidance",
+              "Developer/accessibility reviewer; keyboard and error checks"
+            ],
+            [
+              "Guide interrupts answer",
+              "Sales block precedes the actual decision help",
+              "Test answer-first structure without removing useful next steps",
+              "Editor; content and mature matched cohort"
+            ],
+            [
+              "New locale has little data",
+              "Recently published; source coverage incomplete",
+              "Retain; verify language journey and wait for evidence",
+              "Language editor; discovery and later cohort review"
+            ],
+            [
+              "Sessions rise during audits",
+              "Known internal visits; unmarked Direct remains uncertain",
+              "Exclude future tests; keep historical lower bound explicit",
+              "Analytics owner; exclusion proof and coverage note"
+            ],
+            [
+              "Form fills rise but fit falls",
+              "More submissions, no reliable qualified-outcome join",
+              "Investigate fit and definitions before celebrating volume",
+              "Sales/analytics; reconcile genuine qualified outcomes"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Run the smallest justified change and review the right evidence",
+        "body": [
+          "Fix a broken control directly and retest the same failure. For a persuasion hypothesis, record the buyer problem, proposed difference, affected cohort, implementation date and review conditions. Avoid changing offer, layout, traffic source and qualification rules simultaneously if you want to understand what changed.",
+          "With enough appropriate traffic, a controlled experiment may answer a defined question. With sparse activity, combine descriptive counts, observed usability and real buyer feedback while keeping uncertainty explicit. Do not declare a winner from a handful of events or stop reporting cancelled, poor-fit or repeat bookings.",
+          "After release, inspect the actual pages, assets, mobile/keyboard path, source continuity and valid booking records. A clean technical check confirms the release works; later qualified outcomes determine whether it helped."
+        ]
+      },
+      {
+        "heading": "Choose responsibilities before choosing a conversion provider",
+        "body": [
+          "Ask who diagnoses measurement, writes approved content, implements code, reviews accessibility and verifies sales outcomes. Confirm access, scope, approval dependencies and deliverables. A report full of generic best practices does not replace a reproducible issue register.",
+          "Beespoke’s existing inbound work concerns Google Ads, SEO and AEO under agreed scope. This guide is educational and does not announce a standalone CRO service, specialist testing team, new development inclusion or guaranteed uplift. If implementation requires design, development or another specialist, agree that scope explicitly."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Review the managed SEO scope"
+          },
+          {
+            "href": "/services/b2b-ppc-agency/",
+            "label": "Review the managed PPC scope"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What should a B2B conversion audit check?",
+        "answer": "Traffic fit, measurement definitions, page intent, offer clarity, permitted evidence, responsibilities, usability, contact/booking friction and source-aware commercial outcomes. Confirmed failures and hypotheses should be separated."
+      },
+      {
+        "question": "What is a good B2B conversion rate?",
+        "answer": "A universal number is misleading without the audience, channel, conversion definition and data coverage. Compare the same relevant cohort and distinguish enquiries, bookings, held calls and qualification."
+      },
+      {
+        "question": "Should every guide push a call immediately?",
+        "answer": "No. A useful answer, working example or ungated tool may be the appropriate next step. Offer a relevant service and booking route without assuming every informational reader is ready to buy."
+      },
+      {
+        "question": "Can a small before-and-after comparison prove an uplift?",
+        "answer": "Not by itself. Traffic mix, timing, attribution and other changes can explain differences. Use controlled evidence where feasible and label sparse comparisons descriptive."
+      },
+      {
+        "question": "Does the workbook collect input or change the website?",
+        "answer": "No. It creates a local decision report and CSV/print output. Inputs disappear on reload, and it does not submit forms, create bookings or apply changes."
+      }
+    ],
+    "related": [
+      "/guides/b2b-lead-generation-audit/",
+      "/services/b2b-seo-agency/",
+      "/services/b2b-ppc-agency/",
+      "/guides/b2b-content-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Kontra: four pages for B2B conversion optimization",
+        "href": "https://kontra.agency/b2b-conversion-optimization-4-pages-you-need-to-get-conversion/"
+      },
+      {
+        "label": "Trajectory: B2B website conversion optimization",
+        "href": "https://www.trajectorywebdesign.com/blog/b2b-website-conversion-optimization/"
+      },
+      {
+        "label": "Cazbah: why industrial leads do not convert",
+        "href": "https://www.cazbah.net/b2b-website-conversion-optimization-why-good-industrial-leads-dont-convert/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "The linked primary publisher pages inform the comparison of methods. The workbook, decision rules and worked examples are Beespoke planning help. All sample businesses, counts and outcomes are fictional; no client result, universal benchmark or ranking promise is claimed. Sources reviewed October 27, 2026.",
+    "heroSecondary": {
+      "label": "Use the friction workbook",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Use the friction workbook",
+      "eyebrow": "Ungated working tool",
+      "heading": "Turn visitor friction into a reviewable action",
+      "intro": "Record the actual friction, evidence, alternative and smallest justified action. The complete fictional queue shows eight different decisions. Export a reviewable report without sending your notes.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidence",
+          "body": "Record what you know and where it came from. Preserve unknowns."
+        },
+        {
+          "label": "2",
+          "heading": "Decision",
+          "body": "Explain the choice, alternative and approval dependency."
+        },
+        {
+          "label": "3",
+          "heading": "Ownership",
+          "body": "Name the next action, owner and review. Export before leaving."
+        }
+      ],
+      "note": "Add up to 50 entries, load the complete fictional example and build a report for local CSV download or print. No data is sent or saved by this workbook. Reloading clears your inputs. It does not execute a campaign, audit a live site or verify your labels."
+    },
+    "workbook": {
+      "fields": [
+        "Page, buyer stage and friction",
+        "Dated observation and evidence source",
+        "Alternative explanation and measurement limit",
+        "Proposed change and preserved behavior",
+        "Implementation owner and approval",
+        "Retest, eligible cohort and review date"
+      ],
+      "samples": [
+        [
+          "Guide→service link",
+          "Fictional repeated 404",
+          "Destination may have moved; not copy failure",
+          "Repair correct route and incoming link; preserve buyer job",
+          "Developer",
+          "Final 200, useful HTML, links and assets"
+        ],
+        [
+          "Booking loading",
+          "Fictional dates fill after a bounded wait",
+          "Initial empty state is not zero availability",
+          "Do not alter schedule from the initial state",
+          "UX owner",
+          "Repeat loaded-state check; no fake production booking"
+        ],
+        [
+          "Service scope",
+          "Fictional missing exclusion answer",
+          "Buyer understanding gap; no measured uplift",
+          "Add approved scope/responsibilities; retain URL",
+          "Commercial approver and editor",
+          "Copy/journey check; later matched relevant cohort"
+        ],
+        [
+          "Form labeling",
+          "Fictional keyboard user cannot identify input",
+          "Observable usability issue",
+          "Add meaningful label/error; preserve privacy",
+          "Developer/accessibility reviewer",
+          "Keyboard, name, error and narrow-screen checks"
+        ],
+        [
+          "Guide sequence",
+          "Fictional sales block delays answer",
+          "Persuasion hypothesis, not proven cause",
+          "Test answer-first structure and relevant optional tool",
+          "Editor",
+          "Annotate release and compare mature cohort"
+        ],
+        [
+          "New language page",
+          "Fictional limited age and source evidence",
+          "Unknown is not zero",
+          "Retain; validate full language path",
+          "Language editor",
+          "Discovery and later page/source review"
+        ],
+        [
+          "Audit traffic",
+          "Fictional tagged test visits",
+          "Unmarked Direct remains uncertain",
+          "Exclude future audit traffic; historical lower bound",
+          "Analytics owner",
+          "Verify exclusion before testing"
+        ],
+        [
+          "Lead quality",
+          "Fictional more form fills; qualification join missing",
+          "Volume may include worse fit or definitions",
+          "Reconcile actual qualified outcomes before conclusion",
+          "Sales/analytics",
+          "Original-created identity, held and qualified separately"
+        ]
+      ],
+      "legend": "B2B Conversion Rate Optimization: Diagnose Buyer Friction",
+      "reportTitle": "Turn visitor friction into a reviewable action"
+    },
+    "decisionGuide": {
+      "heading": "Before you act",
+      "body": [
+        "Prioritize confirmed access and usability failures. Treat persuasion changes as hypotheses and evaluate genuine qualified outcomes after the page and measurement checks pass."
+      ],
+      "items": [
+        "Confirm the actual buyer task and evidence.",
+        "Keep the smallest justified action and explicit unknowns.",
+        "Name the owner, approval and useful next check.",
+        "Measure mature relevant outcomes, not activity alone."
+      ]
+    },
+    "rateCheck": {
+      "heading": "Check the arithmetic of two defined cohorts",
+      "navLabel": "Check conversion arithmetic",
+      "intro": "Enter eligible visits and unique new bookers matched to those visits in each period. Confirm the same definitions and comparable conditions first. The tool cannot verify your counts or their sources.",
+      "fields": [
+        "Period A: eligible visits",
+        "Period A: matched unique new bookers",
+        "Period B: eligible visits",
+        "Period B: matched unique new bookers"
+      ],
+      "cohort": "I have defined comparable cohorts and one unique new booker at most per eligible visit.",
+      "calculate": "Calculate descriptive rates",
+      "example": "Load fictional 40/2 and 60/3 example",
+      "clear": "Clear counts",
+      "outputs": [
+        "Period A rate",
+        "Period B rate",
+        "B minus A, percentage points"
+      ],
+      "empty": "Unavailable until the definitions are confirmed and valid counts are entered. Unknown is not zero.",
+      "invalid": "Use whole non-negative counts. Matched new bookers cannot exceed eligible visits in this defined cohort. Check definitions and duplicates instead of forcing the numbers.",
+      "result": "Descriptive arithmetic only: no statistical test, causal conclusion or meetings forecast. A zero denominator remains unavailable; a valid positive denominator with zero bookers is an observed 0%.",
+      "fiction": "Fictional training counts. Both periods are 5%; the descriptive rate change is zero despite more visits and bookings.",
+      "changed": "Counts changed. Calculate again; these are your assumptions, not verified outcomes.",
+      "unavailable": "Unavailable",
+      "privacy": "Counts stay in this page and disappear on reload. No network request or stored input. Without JavaScript: matched bookers ÷ eligible visits × 100, only for a positive valid denominator. Copy useful results into the decision workbook before exporting.",
+      "locale": "en"
+    }
+  },
+  "es": {
+    "path": "/guides/b2b-conversion-rate-optimization/",
+    "serviceFamily": "inbound",
+    "title": "Optimización de conversiones B2B: diagnostica la fricción | Beespoke",
+    "description": "Descubre por qué las visitas B2B relevantes no llegan a consultas útiles. Revisa intención, pruebas, formularios y reservas con ejemplos, cálculo de tasas y ficha privada.",
+    "eyebrow": "De visitas relevantes a conversaciones útiles",
+    "h1": "Optimización de conversiones B2B: facilita el siguiente paso al comprador adecuado",
+    "answer": "Optimizar conversiones B2B significa ayudar a visitantes adecuados a entender la oferta, evaluar pruebas y avanzar hacia una consulta relevante. Empieza por el encaje del tráfico y una medición fiable; revisa después servicio, guía, evidencias y contacto. Corrige fallos demostrados de acceso o uso antes de suponer problemas de persuasión. Separa reservas, asistencia y cualificación: más formularios no prueban mejores oportunidades.",
+    "sections": [
+      {
+        "heading": "Define resultado y público elegible",
+        "body": [
+          "Una conversión puede ser formulario, reserva, conversación celebrada u oportunidad aceptada. Elige la definición que responda a la decisión y mantén etapas separadas. Clics, aperturas de calendario o descargas explican partes del recorrido sin demostrar un lead comercial.",
+          "Define denominador: página o cohorte de entrada, fechas, origen, país/dispositivo, exclusiones y límites de identificación. Si no puedes relacionar las personas que reservaron con la cohorte, la tasa no está disponible. No dividas todas las reservas entre solo las sesiones orgánicas y lo llames conversión orgánica."
+        ]
+      },
+      {
+        "heading": "Comprueba encaje y medición antes de reescribir",
+        "body": [
+          "Lee consultas y fuentes reales. Puede crecer el tráfico de estudiantes, candidatos o consultas generales sin ganar compradores. Compara las mismas cohortes pertinentes antes de cambiar una respuesta que funciona. Las sesiones totales pueden incluir visitas internas, bots o intenciones distintas.",
+          "Una visita a confirmación no prueba reserva. Contrasta identidad y creación original con permiso y datos suficientes; separa repeticiones, cancelaciones, reprogramaciones y visitas asistidas por outreach. Excluye pruebas propias antes de interpretar totales y conserva desconocidos."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Diagnosticar adquisición y atribución del embudo completo"
+          }
+        ]
+      },
+      {
+        "heading": "Revisa cuatro tipos de página según la tarea del comprador",
+        "body": [
+          "Guía, servicio y reserva tienen funciones diferentes. Facilita la transición útil en lugar de repetir el mismo discurso de venta."
+        ],
+        "table": {
+          "caption": "Revisión por tipo de página",
+          "headers": [
+            "Tipo",
+            "Pregunta de compra",
+            "Qué comprobar",
+            "Siguiente paso útil"
+          ],
+          "rows": [
+            [
+              "Servicio",
+              "¿Podéis resolverlo para una empresa como la nuestra?",
+              "Alcance, encaje, pruebas, responsabilidades y exclusiones",
+              "Hablar del servicio con contexto"
+            ],
+            [
+              "Guía",
+              "¿Qué decisión tomar y por qué?",
+              "Respuesta directa, límites, ejemplos y herramienta útil",
+              "Usar recurso o explorar servicio adecuado"
+            ],
+            [
+              "Caso o evidencia",
+              "¿Qué ocurrió y qué se puede trasladar?",
+              "Permiso, fechas, denominadores y límites",
+              "Valorar pertinencia sin convertir caso en promesa"
+            ],
+            [
+              "Contacto/reserva",
+              "¿Qué pasa si contacto?",
+              "Destino, carga, controles, etiquetas y continuidad de origen",
+              "Consulta o reserva real sin confusión innecesaria"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Busca fricción observable",
+        "body": [
+          "En ordenador y pantallas estrechas, comprueba título, respuesta y controles que no cubran contenido. Revisa enlaces, recursos, teclado, foco, etiquetas y errores. Un campo sin etiqueta es un problema observable; preferir otro color de botón es una hipótesis.",
+          "Espera la carga asíncrona del calendario durante un intervalo acotado antes de concluir falta de disponibilidad. No crees reservas ficticias en producción. Comprueba alcance, tareas del cliente, pruebas autorizadas y lo que ocurrirá después. No inventes reseñas, urgencia ni requisitos de cualificación ocultos."
+        ]
+      },
+      {
+        "heading": "Dos cambios ficticios con una razón explícita",
+        "body": [
+          "Servicio ficticio: antes, titular amplio, “Empezar” sin explicar y ninguna responsabilidad. Después, problema y comprador concretos, alcance/exclusiones, tareas del cliente y “Hablar de requisitos”. La razón es aclarar expectativas, no prometer más reservas.",
+          "Guía ficticia: antes, venta previa a la respuesta y formulario genérico como única vía de contacto. Después, respuesta breve, ejemplo completo y ficha opcional sin registro, seguida del servicio pertinente. Ningún ejemplo tiene resultados medidos. Son hipótesis para evaluar conservando URLs, respuestas útiles, privacidad y tracking legítimo."
+        ]
+      },
+      {
+        "heading": "Lee las tasas sin exagerar conclusiones",
+        "body": [
+          "Ejemplo ficticio: periodo A,40 visitas elegibles y 2 personas nuevas que reservaron y se relacionan con esas visitas:5%. Periodo B,60 visitas y 3 personas:5% también. Más reservas coinciden con más visitas; la tasa descriptiva no mejora. La mezcla y atribución aún pueden influir.",
+          "Con 0 visitas, la tasa no está disponible. Con denominador positivo válido y 0 personas relacionadas, la tasa observada es 0%, sin probar que la página no convierta. Lo desconocido sigue desconocido. Más personas que visitas en esta cohorte de una persona nueva por visita señala definiciones o recuentos incompatibles.",
+          "Usa el cálculo inferior solo con una cohorte definida y comparable. Es aritmética descriptiva, no significación estadística, causalidad ni pronóstico de reuniones. Pocas acciones no justifican un plazo preciso de experimentación."
+        ]
+      },
+      {
+        "heading": "Registro ficticio completo de fricción",
+        "body": [
+          "Todos los casos son inventados. El orden prioriza fallos confirmados y pertinencia, no una puntuación universal."
+        ],
+        "table": {
+          "caption": "Cola ficticia de acciones",
+          "headers": [
+            "Problema",
+            "Prueba y alternativa",
+            "Decisión",
+            "Responsable y control"
+          ],
+          "rows": [
+            [
+              "Enlace a servicio roto",
+              "404 repetido desde guía; quizá cambió destino",
+              "Reparar ruta correcta conservando intención",
+              "Desarrollo; respuesta y enlaces"
+            ],
+            [
+              "Reserva parece vacía",
+              "Fechas cargan tras espera breve",
+              "No concluir cero disponibilidad ni cambiar agenda",
+              "UX; estado cargado"
+            ],
+            [
+              "Alcance confuso",
+              "Falta respuesta sobre exclusiones",
+              "Añadir alcance aprobado",
+              "Comercial/edición; texto y recorrido"
+            ],
+            [
+              "Campo sin explicación",
+              "Teclado no permite identificar dato esperado",
+              "Etiqueta y error útiles",
+              "Desarrollo/accesibilidad; teclado y errores"
+            ],
+            [
+              "Guía demora respuesta",
+              "Bloque de venta va primero",
+              "Probar estructura de respuesta primero",
+              "Edición; contenido y cohorte madura"
+            ],
+            [
+              "Idioma nuevo sin datos",
+              "Reciente; cobertura incompleta",
+              "Conservar y revisar recorrido",
+              "Edición; descubrimiento y cohorte posterior"
+            ],
+            [
+              "Suben sesiones por auditorías",
+              "Pruebas identificadas; Direct sin marca sigue incierto",
+              "Excluir futuras pruebas; mínimo histórico explícito",
+              "Analítica; evidencia y cobertura"
+            ],
+            [
+              "Más formularios, peor encaje",
+              "Sin relación fiable con cualificados",
+              "Investigar encaje y definiciones",
+              "Ventas/analítica; resultados reales"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "El menor cambio justificado y la evidencia adecuada",
+        "body": [
+          "Corrige el control roto y repite el fallo exacto. En hipótesis de persuasión, registra problema, diferencia propuesta, cohorte, fecha y condiciones de revisión. Cambiar oferta, diseño, origen y cualificación a la vez dificulta entender el resultado.",
+          "Con tráfico suficiente puede ser viable un experimento controlado. Con poco volumen, combina recuentos, observación de uso y comentarios reales manteniendo incertidumbre. No declares ganador por pocos eventos ni ocultes cancelados, repetidos o mal encajados. Valida página, recursos, móvil/teclado, origen y registros reales tras publicar."
+        ]
+      },
+      {
+        "heading": "Acuerda responsabilidades antes de elegir proveedor",
+        "body": [
+          "Pregunta quién diagnostica medición, escribe contenido aprobado, implementa código, revisa accesibilidad y verifica ventas. Aclara acceso, alcance, aprobaciones y entregables; consejos genéricos no sustituyen un registro reproducible.",
+          "El inbound de Beespoke trata Google Ads, SEO y AEO con alcance acordado. Esta guía no anuncia servicio CRO independiente, equipo especializado, desarrollo incluido nuevo ni mejora garantizada. Diseño, desarrollo u otros especialistas requieren alcance explícito."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Revisar alcance SEO gestionado"
+          },
+          {
+            "href": "/services/b2b-ppc-agency/",
+            "label": "Revisar alcance PPC gestionado"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué debe revisar una auditoría de conversión B2B?",
+        "answer": "Encaje, definiciones, intención, oferta, pruebas autorizadas, responsabilidades, uso, contacto/reserva y resultados comerciales con origen. Separa fallos confirmados e hipótesis."
+      },
+      {
+        "question": "¿Qué tasa es buena?",
+        "answer": "Una cifra universal sin público, canal, definición y cobertura es engañosa. Compara la misma cohorte pertinente y distingue consultas, reservas, llamadas y cualificación."
+      },
+      {
+        "question": "¿Todas las guías deben pedir una llamada inmediata?",
+        "answer": "No. Puede corresponder respuesta, ejemplo o herramienta sin registro. Ofrece servicio y reserva pertinentes sin suponer que todo lector informativo va a comprar."
+      },
+      {
+        "question": "¿Un antes/después pequeño prueba mejora?",
+        "answer": "No por sí solo. Mezcla, fechas, atribución y otros cambios pueden explicar diferencias. Usa control cuando sea viable y presenta muestras pequeñas como descriptivas."
+      },
+      {
+        "question": "¿La ficha recoge datos o cambia el sitio?",
+        "answer": "No. Genera informe local y CSV/impresión. Recargar borra campos; no envía formularios, crea reservas ni aplica cambios."
+      }
+    ],
+    "related": [
+      "/guides/b2b-lead-generation-audit/",
+      "/services/b2b-seo-agency/",
+      "/services/b2b-ppc-agency/",
+      "/guides/b2b-content-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Kontra: four pages for B2B conversion optimization",
+        "href": "https://kontra.agency/b2b-conversion-optimization-4-pages-you-need-to-get-conversion/"
+      },
+      {
+        "label": "Trajectory: B2B website conversion optimization",
+        "href": "https://www.trajectorywebdesign.com/blog/b2b-website-conversion-optimization/"
+      },
+      {
+        "label": "Cazbah: why industrial leads do not convert",
+        "href": "https://www.cazbah.net/b2b-website-conversion-optimization-why-good-industrial-leads-dont-convert/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "Las páginas enlazadas de los autores sirven para comparar métodos. La ficha, reglas y ejemplos son ayudas de planificación de Beespoke. Empresas, cifras y resultados de ejemplo son ficticios; no son resultados de clientes, referencias universales ni promesas de ranking. Fuentes revisadas el 27 de octubre de 2026.",
+    "heroSecondary": {
+      "label": "Usar la ficha de fricción",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Usar la ficha de fricción",
+      "eyebrow": "Herramienta sin registro",
+      "heading": "Convierte fricción en una acción revisable",
+      "intro": "Registra fricción, pruebas, alternativa y cambio mínimo. El ejemplo completo muestra ocho decisiones. Exporta un informe revisable sin enviar tus notas.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Pruebas",
+          "body": "Registra qué sabes y de dónde procede. Conserva lo desconocido."
+        },
+        {
+          "label": "2",
+          "heading": "Decisión",
+          "body": "Explica elección, alternativa y aprobación necesaria."
+        },
+        {
+          "label": "3",
+          "heading": "Responsable",
+          "body": "Indica acción, responsable y revisión. Exporta antes de salir."
+        }
+      ],
+      "note": "Añade hasta 50 entradas, carga el ejemplo ficticio completo y crea un informe para descargar CSV local o imprimir. La ficha no envía ni guarda datos. Recargar borra los campos. No ejecuta campañas, audita sitios reales ni verifica tus etiquetas."
+    },
+    "workbook": {
+      "fields": [
+        "Página, etapa y fricción",
+        "Observación fechada y fuente",
+        "Alternativa y límite de medición",
+        "Cambio propuesto y comportamiento conservado",
+        "Responsable y aprobación",
+        "Comprobación, cohorte elegible y revisión"
+      ],
+      "samples": [
+        [
+          "Guía→servicio",
+          "Ficticio:404 repetido",
+          "Quizá movieron destino; no fallo de texto",
+          "Reparar ruta manteniendo tarea",
+          "Desarrollo",
+          "200 final, HTML, enlaces y recursos"
+        ],
+        [
+          "Carga de reserva",
+          "Ficticio: fechas aparecen tras espera",
+          "Vacío inicial no es falta de disponibilidad",
+          "No cambiar horario por estado inicial",
+          "UX",
+          "Estado cargado; sin reserva ficticia"
+        ],
+        [
+          "Alcance",
+          "Ficticio: falta aclarar exclusiones",
+          "Carencia de comprensión; sin mejora medida",
+          "Añadir alcance/tareas aprobados; conservar URL",
+          "Comercial/edición",
+          "Texto/recorrido; cohorte madura"
+        ],
+        [
+          "Etiqueta de campo",
+          "Ficticio: teclado no identifica entrada",
+          "Fallo observable",
+          "Etiqueta/error claros; conservar privacidad",
+          "Desarrollo/accesibilidad",
+          "Teclado, nombre, error y móvil"
+        ],
+        [
+          "Orden de guía",
+          "Ficticio: venta retrasa respuesta",
+          "Hipótesis, no causa probada",
+          "Probar respuesta primero y herramienta opcional",
+          "Edición",
+          "Anotar cambio y comparar cohorte madura"
+        ],
+        [
+          "Idioma nuevo",
+          "Ficticio: poco tiempo y cobertura",
+          "Desconocido no es cero",
+          "Conservar y validar recorrido",
+          "Edición de idioma",
+          "Descubrimiento y revisión posterior"
+        ],
+        [
+          "Tráfico de auditoría",
+          "Ficticio: pruebas marcadas",
+          "Direct sin marca sigue incierto",
+          "Excluir futuras pruebas; mínimo histórico",
+          "Analítica",
+          "Verificar exclusión antes de probar"
+        ],
+        [
+          "Calidad de lead",
+          "Ficticio: más formularios; sin unión a cualificados",
+          "Posible peor encaje o definición",
+          "Contrastar cualificados antes de concluir",
+          "Ventas/analítica",
+          "Identidad original; celebración/cualificación separadas"
+        ]
+      ],
+      "legend": "Optimización de conversiones B2B: diagnostica la fricción",
+      "reportTitle": "Convierte fricción en una acción revisable"
+    },
+    "decisionGuide": {
+      "heading": "Antes de actuar",
+      "body": [
+        "Prioriza fallos confirmados de acceso y uso. Trata persuasión como hipótesis y evalúa resultados cualificados reales después de validar página y medición."
+      ],
+      "items": [
+        "Confirma la pregunta de compra y sus pruebas.",
+        "Conserva el cambio mínimo justificado y las dudas.",
+        "Asigna responsable, aprobación y comprobación útil.",
+        "Evalúa resultados pertinentes maduros, no solo actividad."
+      ]
+    },
+    "rateCheck": {
+      "heading": "Comprueba la aritmética de dos cohortes definidas",
+      "navLabel": "Comprobar tasas de conversión",
+      "intro": "Introduce visitas elegibles y personas nuevas únicas que reservaron y se relacionan con ellas en cada periodo. Confirma definiciones y condiciones comparables. La herramienta no verifica cifras ni fuentes.",
+      "fields": [
+        "Periodo A: visitas elegibles",
+        "Periodo A: personas nuevas únicas vinculadas que reservaron",
+        "Periodo B: visitas elegibles",
+        "Periodo B: personas nuevas únicas vinculadas que reservaron"
+      ],
+      "cohort": "He definido cohortes comparables y como máximo una persona nueva que reserva por visita elegible.",
+      "calculate": "Calcular tasas descriptivas",
+      "example": "Cargar ejemplo ficticio 40/2 y 60/3",
+      "clear": "Borrar cifras",
+      "outputs": [
+        "Tasa del periodo A",
+        "Tasa del periodo B",
+        "B menos A, puntos porcentuales"
+      ],
+      "empty": "No disponible hasta confirmar definiciones e introducir cifras válidas. Desconocido no es cero.",
+      "invalid": "Usa enteros no negativos. Las personas nuevas vinculadas no pueden superar las visitas en esta cohorte. Revisa definiciones y duplicados sin forzar cifras.",
+      "result": "Solo aritmética descriptiva: no es test estadístico, causalidad ni previsión de reuniones. Denominador cero no está disponible; denominador positivo válido con cero personas es 0% observado.",
+      "fiction": "Cifras ficticias de formación. Ambos periodos son 5%; la tasa no cambia pese a aumentar visitas y reservas.",
+      "changed": "Cifras modificadas. Calcula de nuevo; son tus supuestos, no resultados verificados.",
+      "unavailable": "No disponible",
+      "privacy": "Las cifras permanecen en esta página y desaparecen al recargar. Sin solicitudes de red ni almacenamiento. Sin JavaScript: personas vinculadas ÷ visitas elegibles × 100, solo con denominador positivo válido. Copia resultados útiles en la ficha antes de exportar.",
+      "locale": "es"
+    }
+  },
+  "ca": {
+    "path": "/guides/b2b-conversion-rate-optimization/",
+    "serviceFamily": "inbound",
+    "title": "Optimització de conversions B2B: diagnostica la fricció | Beespoke",
+    "description": "Descobreix per què visites B2B pertinents no arriben a consultes útils. Revisa intenció, evidències, formularis i reserves amb exemples, taxes i fitxa privada.",
+    "eyebrow": "De visites pertinents a converses útils",
+    "h1": "Optimització de conversions B2B: facilita el pas següent al comprador adequat",
+    "answer": "Optimitzar conversions B2B ajuda visitants adequats a entendre l’oferta, valorar evidències i avançar cap a una consulta pertinent. Comença per l’encaix del trànsit i una mesura fiable; revisa després servei, guia, proves i contacte. Corregeix errors demostrats d’accés o ús abans de suposar problemes de persuasió. Separa reserves, assistència i qualificació: més formularis no proven millors oportunitats.",
+    "sections": [
+      {
+        "heading": "Defineix resultat i públic elegible",
+        "body": [
+          "Una conversió pot ser formulari, reserva, conversa feta o oportunitat acceptada. Tria la definició que respongui a la decisió i mantén etapes separades. Clics, obertures de calendari o descàrregues expliquen parts del recorregut sense demostrar un lead comercial.",
+          "Defineix denominador: pàgina o cohort d’entrada, dates, origen, país/dispositiu, exclusions i límits d’identificació. Si no pots relacionar qui ha reservat amb la cohort, la taxa no està disponible. No divideixis totes les reserves entre només sessions orgàniques i ho anomenis conversió orgànica."
+        ]
+      },
+      {
+        "heading": "Comprova encaix i mesura abans de reescriure",
+        "body": [
+          "Llegeix consultes i fonts reals. Pot créixer trànsit d’estudiants, candidats o consultes generals sense guanyar compradors. Compara les mateixes cohorts pertinents abans de canviar una resposta que funciona. Sessions totals poden incloure visites internes, bots o intencions diferents.",
+          "Una visita de confirmació no prova reserva. Contrasta identitat i creació original amb permís i dades suficients; separa repeticions, cancel·lacions, reprogramacions i visites assistides per outreach. Exclou proves pròpies abans d’interpretar totals i conserva desconeguts."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Diagnosticar adquisició i atribució del conjunt de l’embut"
+          }
+        ]
+      },
+      {
+        "heading": "Revisa quatre tipus de pàgina segons la tasca",
+        "body": [
+          "Guia, servei i reserva tenen funcions diferents. Facilita una transició útil en comptes de repetir el mateix discurs de venda."
+        ],
+        "table": {
+          "caption": "Revisió per tipus de pàgina",
+          "headers": [
+            "Tipus",
+            "Pregunta de compra",
+            "Què comprovar",
+            "Pas següent útil"
+          ],
+          "rows": [
+            [
+              "Servei",
+              "Podeu resoldre-ho per a una empresa com la nostra?",
+              "Abast, encaix, evidències, responsabilitats i exclusions",
+              "Parlar del servei amb context"
+            ],
+            [
+              "Guia",
+              "Quina decisió prendre i per què?",
+              "Resposta directa, límits, exemples i eina útil",
+              "Utilitzar recurs o explorar servei adequat"
+            ],
+            [
+              "Cas o evidència",
+              "Què va passar i què es pot traslladar?",
+              "Permís, dates, denominadors i límits",
+              "Valorar pertinència sense convertir cas en promesa"
+            ],
+            [
+              "Contacte/reserva",
+              "Què passa si contacto?",
+              "Destinació, càrrega, controls, etiquetes i continuïtat d’origen",
+              "Consulta o reserva real sense confusió innecessària"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Busca fricció observable",
+        "body": [
+          "En ordinador i pantalles estretes, comprova títol, resposta i controls que no tapin contingut. Revisa enllaços, recursos, teclat, focus, etiquetes i errors. Un camp sense etiqueta és observable; preferir un altre color de botó és una hipòtesi.",
+          "Espera la càrrega asíncrona del calendari dins un interval acotat abans de concloure manca de disponibilitat. No creïs reserves fictícies en producció. Comprova abast, tasques del client, proves autoritzades i què passarà després. No inventis ressenyes, urgència ni requisits de qualificació ocults."
+        ]
+      },
+      {
+        "heading": "Dos canvis ficticis amb raó explícita",
+        "body": [
+          "Servei fictici: abans, titular ampli, “Començar” sense explicació i cap responsabilitat. Després, problema i comprador concrets, abast/exclusions, tasques del client i “Parlar de requisits”. La raó és aclarir expectatives, no prometre més reserves.",
+          "Guia fictícia: abans, venda prèvia a resposta i formulari genèric com a única via de contacte. Després, resposta breu, exemple complet i fitxa opcional sense registre, seguida del servei pertinent. Cap exemple té resultats mesurats. Són hipòtesis per avaluar preservant URLs, respostes útils, privacitat i tracking legítim."
+        ]
+      },
+      {
+        "heading": "Llegeix taxes sense exagerar conclusions",
+        "body": [
+          "Exemple fictici: període A,40 visites elegibles i 2 persones noves que reserven i es relacionen amb aquestes visites:5%. Període B,60 visites i 3 persones:5% també. Més reserves coincideixen amb més visites; la taxa descriptiva no millora. Barreja i atribució encara poden influir.",
+          "Amb 0 visites, la taxa no està disponible. Amb denominador positiu vàlid i 0 persones relacionades, la taxa observada és 0%, sense provar que la pàgina no converteixi. Allò desconegut continua desconegut. Més persones que visites en aquesta cohort d’una persona nova per visita indica definicions o recomptes incompatibles.",
+          "Utilitza el càlcul inferior només amb cohort definida i comparable. És aritmètica descriptiva, no significació estadística, causalitat ni previsió de reunions. Poques accions no justifiquen un termini precís d’experimentació."
+        ]
+      },
+      {
+        "heading": "Registre fictici complet de fricció",
+        "body": [
+          "Tots els casos són inventats. L’ordre prioritza errors confirmats i pertinència, no una puntuació universal."
+        ],
+        "table": {
+          "caption": "Cua fictícia d’accions",
+          "headers": [
+            "Problema",
+            "Evidència i alternativa",
+            "Decisió",
+            "Responsable i control"
+          ],
+          "rows": [
+            [
+              "Enllaç a servei trencat",
+              "404 repetit des de guia; potser canvià destinació",
+              "Reparar ruta correcta mantenint intenció",
+              "Desenvolupament; resposta i enllaços"
+            ],
+            [
+              "Reserva sembla buida",
+              "Dates carreguen després d’espera breu",
+              "No concloure zero disponibilitat ni canviar agenda",
+              "UX; estat carregat"
+            ],
+            [
+              "Abast confús",
+              "Manca resposta sobre exclusions",
+              "Afegir abast aprovat",
+              "Comercial/edició; text i recorregut"
+            ],
+            [
+              "Camp sense explicació",
+              "Teclat no permet identificar dada esperada",
+              "Etiqueta i error útils",
+              "Desenvolupament/accessibilitat; teclat i errors"
+            ],
+            [
+              "Guia retarda resposta",
+              "Bloc de venda primer",
+              "Provar estructura de resposta primer",
+              "Edició; contingut i cohort madura"
+            ],
+            [
+              "Idioma nou sense dades",
+              "Recent; cobertura incompleta",
+              "Conservar i revisar recorregut",
+              "Edició; descoberta i cohort posterior"
+            ],
+            [
+              "Sessions pugen per auditories",
+              "Proves identificades; Direct sense marca incert",
+              "Excloure futures proves; mínim històric explícit",
+              "Analítica; evidència i cobertura"
+            ],
+            [
+              "Més formularis, pitjor encaix",
+              "Sense relació fiable amb qualificats",
+              "Investigar encaix i definicions",
+              "Vendes/analítica; resultats reals"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "El canvi mínim justificat i l’evidència adequada",
+        "body": [
+          "Corregeix el control trencat i repeteix l’error exacte. En hipòtesis de persuasió, registra problema, diferència, cohort, data i condicions de revisió. Canviar oferta, disseny, origen i qualificació alhora dificulta entendre el resultat.",
+          "Amb prou trànsit pot ser viable un experiment controlat. Amb poc volum, combina recomptes, observació d’ús i comentaris reals mantenint incertesa. No declaris guanyador amb pocs esdeveniments ni amaguis cancel·lats, repetits o mal encaixats. Valida pàgina, recursos, mòbil/teclat, origen i registres reals després de publicar."
+        ]
+      },
+      {
+        "heading": "Acorda responsabilitats abans de triar proveïdor",
+        "body": [
+          "Pregunta qui diagnostica mesura, escriu contingut aprovat, implementa codi, revisa accessibilitat i verifica vendes. Aclareix accés, abast, aprovacions i entregables; consells genèrics no substitueixen un registre reproduïble.",
+          "L’inbound de Beespoke tracta Google Ads, SEO i AEO amb abast acordat. La guia no anuncia servei CRO independent, equip especialitzat, desenvolupament inclòs nou ni millora garantida. Disseny, desenvolupament o altres especialistes requereixen abast explícit."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Revisar abast SEO gestionat"
+          },
+          {
+            "href": "/services/b2b-ppc-agency/",
+            "label": "Revisar abast PPC gestionat"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Què revisa una auditoria de conversió B2B?",
+        "answer": "Encaix, definicions, intenció, oferta, proves autoritzades, responsabilitats, ús, contacte/reserva i resultats comercials amb origen. Separa errors confirmats i hipòtesis."
+      },
+      {
+        "question": "Quina taxa és bona?",
+        "answer": "Una xifra universal sense públic, canal, definició i cobertura és enganyosa. Compara la mateixa cohort pertinent i distingeix consultes, reserves, trucades i qualificació."
+      },
+      {
+        "question": "Totes les guies han de demanar una trucada immediata?",
+        "answer": "No. Pot correspondre resposta, exemple o eina sense registre. Ofereix servei i reserva pertinents sense suposar que tot lector informatiu comprarà."
+      },
+      {
+        "question": "Un abans/després petit prova millora?",
+        "answer": "No per si sol. Barreja, dates, atribució i altres canvis poden explicar diferències. Utilitza control quan sigui viable i descriu mostres petites com a descriptives."
+      },
+      {
+        "question": "La fitxa recull dades o canvia el lloc?",
+        "answer": "No. Genera informe local i CSV/impressió. Recarregar esborra camps; no envia formularis, crea reserves ni aplica canvis."
+      }
+    ],
+    "related": [
+      "/guides/b2b-lead-generation-audit/",
+      "/services/b2b-seo-agency/",
+      "/services/b2b-ppc-agency/",
+      "/guides/b2b-content-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Kontra: four pages for B2B conversion optimization",
+        "href": "https://kontra.agency/b2b-conversion-optimization-4-pages-you-need-to-get-conversion/"
+      },
+      {
+        "label": "Trajectory: B2B website conversion optimization",
+        "href": "https://www.trajectorywebdesign.com/blog/b2b-website-conversion-optimization/"
+      },
+      {
+        "label": "Cazbah: why industrial leads do not convert",
+        "href": "https://www.cazbah.net/b2b-website-conversion-optimization-why-good-industrial-leads-dont-convert/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "Les pàgines enllaçades dels autors permeten comparar mètodes. La fitxa, regles i exemples són ajudes de planificació de Beespoke. Empreses, xifres i resultats d’exemple són ficticis; no són resultats de clients, referències universals ni promeses de rànquing. Fonts revisades el 27 d’octubre de 2026.",
+    "heroSecondary": {
+      "label": "Utilitza la fitxa de fricció",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utilitza la fitxa de fricció",
+      "eyebrow": "Eina sense registre",
+      "heading": "Converteix fricció en una acció revisable",
+      "intro": "Registra fricció, evidències, alternativa i canvi mínim. L’exemple complet mostra vuit decisions. Exporta un informe revisable sense enviar les notes.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidències",
+          "body": "Registra què saps i d’on prové. Conserva allò desconegut."
+        },
+        {
+          "label": "2",
+          "heading": "Decisió",
+          "body": "Explica tria, alternativa i aprovació necessària."
+        },
+        {
+          "label": "3",
+          "heading": "Responsable",
+          "body": "Indica acció, responsable i revisió. Exporta abans de sortir."
+        }
+      ],
+      "note": "Afegeix fins a 50 entrades, carrega l’exemple fictici complet i crea un informe per descarregar CSV local o imprimir. La fitxa no envia ni desa dades. Recarregar esborra els camps. No executa campanyes, audita llocs reals ni verifica les etiquetes."
+    },
+    "workbook": {
+      "fields": [
+        "Pàgina, etapa i fricció",
+        "Observació datada i font",
+        "Alternativa i límit de mesura",
+        "Canvi proposat i comportament preservat",
+        "Responsable i aprovació",
+        "Comprovació, cohort elegible i revisió"
+      ],
+      "samples": [
+        [
+          "Guia→servei",
+          "Fictici:404 repetit",
+          "Potser destinació moguda; no error de text",
+          "Reparar ruta preservant tasca",
+          "Desenvolupament",
+          "200 final, HTML, enllaços i recursos"
+        ],
+        [
+          "Càrrega de reserva",
+          "Fictici: dates després d’esperar",
+          "Buit inicial no és manca de disponibilitat",
+          "No canviar horari per estat inicial",
+          "UX",
+          "Estat carregat; sense reserva fictícia"
+        ],
+        [
+          "Abast",
+          "Fictici: manca aclarir exclusions",
+          "Comprensió incompleta; sense millora mesurada",
+          "Afegir abast/tasques aprovats; conservar URL",
+          "Comercial/edició",
+          "Text/recorregut; cohort madura"
+        ],
+        [
+          "Etiqueta de camp",
+          "Fictici: teclat no identifica entrada",
+          "Error observable",
+          "Etiqueta/error clars; preservar privacitat",
+          "Desenvolupament/accessibilitat",
+          "Teclat, nom, error i mòbil"
+        ],
+        [
+          "Ordre de guia",
+          "Fictici: venda retarda resposta",
+          "Hipòtesi, no causa provada",
+          "Provar resposta primer i eina opcional",
+          "Edició",
+          "Anotar canvi i comparar cohort madura"
+        ],
+        [
+          "Idioma nou",
+          "Fictici: poc temps i cobertura",
+          "Desconegut no és zero",
+          "Conservar i validar recorregut",
+          "Edició d’idioma",
+          "Descoberta i revisió posterior"
+        ],
+        [
+          "Trànsit d’auditoria",
+          "Fictici: proves marcades",
+          "Direct sense marca incert",
+          "Excloure futures proves; mínim històric",
+          "Analítica",
+          "Verificar exclusió abans de provar"
+        ],
+        [
+          "Qualitat de lead",
+          "Fictici: més formularis; qualificació no vinculada",
+          "Possible pitjor encaix o definició",
+          "Contrastar qualificats abans de concloure",
+          "Vendes/analítica",
+          "Identitat original; celebració/qualificació separades"
+        ]
+      ],
+      "legend": "Optimització de conversions B2B: diagnostica la fricció",
+      "reportTitle": "Converteix fricció en una acció revisable"
+    },
+    "decisionGuide": {
+      "heading": "Abans d’actuar",
+      "body": [
+        "Prioritza errors confirmats d’accés i ús. Tracta persuasió com a hipòtesi i avalua resultats qualificats reals després de validar pàgina i mesura."
+      ],
+      "items": [
+        "Confirma la pregunta de compra i les evidències.",
+        "Conserva el canvi mínim justificat i els dubtes.",
+        "Assigna responsable, aprovació i comprovació útil.",
+        "Avalua resultats pertinents madurs, no només activitat."
+      ]
+    },
+    "rateCheck": {
+      "heading": "Comprova l’aritmètica de dues cohorts definides",
+      "navLabel": "Comprova taxes de conversió",
+      "intro": "Introdueix visites elegibles i persones noves úniques que han reservat i es relacionen amb aquestes visites en cada període. Confirma definicions i condicions comparables. L’eina no verifica xifres ni fonts.",
+      "fields": [
+        "Període A: visites elegibles",
+        "Període A: persones noves úniques vinculades que han reservat",
+        "Període B: visites elegibles",
+        "Període B: persones noves úniques vinculades que han reservat"
+      ],
+      "cohort": "He definit cohorts comparables i com a màxim una persona nova que reserva per visita elegible.",
+      "calculate": "Calcula taxes descriptives",
+      "example": "Carrega l’exemple fictici 40/2 i 60/3",
+      "clear": "Esborra les xifres",
+      "outputs": [
+        "Taxa del període A",
+        "Taxa del període B",
+        "B menys A, punts percentuals"
+      ],
+      "empty": "No disponible fins a confirmar definicions i introduir xifres vàlides. Desconegut no és zero.",
+      "invalid": "Utilitza enters no negatius. Les persones noves vinculades no poden superar les visites en aquesta cohort. Revisa definicions i duplicats sense forçar les xifres.",
+      "result": "Només aritmètica descriptiva: no és prova estadística, causalitat ni previsió de reunions. Denominador zero no està disponible; denominador positiu vàlid amb zero persones és 0% observat.",
+      "fiction": "Xifres fictícies de formació. Tots dos períodes són 5%; la taxa no canvia malgrat l’augment de visites i reserves.",
+      "changed": "Xifres modificades. Torna a calcular; són els teus supòsits, no resultats verificats.",
+      "unavailable": "No disponible",
+      "privacy": "Les xifres queden en aquesta pàgina i desapareixen en recarregar. Sense peticions de xarxa ni emmagatzematge. Sense JavaScript: persones vinculades ÷ visites elegibles × 100, només amb denominador positiu vàlid. Copia resultats útils a la fitxa abans d’exportar.",
+      "locale": "ca"
+    }
+  },
+  "fr": {
+    "path": "/guides/b2b-conversion-rate-optimization/",
+    "serviceFamily": "inbound",
+    "title": "Optimisation des conversions B2B : diagnostiquer les frictions | Beespoke",
+    "description": "Comprenez pourquoi les visites B2B pertinentes ne deviennent pas des demandes utiles. Intention, preuves, formulaires et réservation, exemples, calcul de taux et fiche privée.",
+    "eyebrow": "Des visites pertinentes aux conversations utiles",
+    "h1": "Optimisation des conversions B2B : faciliter la suite pour les bons acheteurs",
+    "answer": "L’optimisation des conversions B2B aide les bons visiteurs à comprendre l’offre, examiner les preuves et avancer vers une demande pertinente. Commencez par l’adéquation du trafic et une mesure fiable, puis examinez service, guide, preuves et contact. Corrigez les problèmes d’accès ou d’usage démontrés avant de supposer un défaut de persuasion. Séparez réservations, présence et qualification : davantage de formulaires ne prouve pas de meilleures opportunités.",
+    "sections": [
+      {
+        "heading": "Définir le résultat et le public éligible",
+        "body": [
+          "Une conversion peut être formulaire, réservation, conversation tenue ou opportunité acceptée. Choisissez la définition utile à la décision et gardez ces étapes distinctes. Clics, ouverture du calendrier et téléchargements expliquent un parcours sans prouver un lead commercial.",
+          "Définissez le dénominateur : page ou cohorte d’entrée, dates, source, pays/appareil, exclusions et limites d’identification. Si les nouveaux demandeurs ne peuvent pas être reliés à cette cohorte, le taux est indisponible. Ne divisez pas toutes les réservations par les seules sessions organiques pour annoncer un taux organique."
+        ]
+      },
+      {
+        "heading": "Vérifier adéquation et mesure avant réécriture",
+        "body": [
+          "Lisez requêtes et sources réelles. Étudiants, candidats et recherches générales peuvent augmenter les visites sans apporter d’acheteurs. Comparez les mêmes cohortes pertinentes avant de modifier une bonne réponse. Le total peut inclure visites internes, robots et intentions différentes.",
+          "Une visite de confirmation ne prouve pas une réservation. Rapprochez identité et création originale avec autorisation et données suffisantes ; séparez répétitions, annulations, déplacements et visites assistées par prospection. Excluez vos tests et conservez les sources inconnues."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Diagnostiquer acquisition et attribution du parcours complet"
+          }
+        ]
+      },
+      {
+        "heading": "Examiner quatre types de page selon la tâche",
+        "body": [
+          "Guide, service et réservation n’ont pas le même rôle. Facilitez une transition utile plutôt que de répéter partout le même discours commercial."
+        ],
+        "table": {
+          "caption": "Examen par type de page",
+          "headers": [
+            "Type",
+            "Question d’achat",
+            "Contrôle",
+            "Suite utile"
+          ],
+          "rows": [
+            [
+              "Service",
+              "Pouvez-vous résoudre cela pour une entreprise comme la nôtre ?",
+              "Périmètre, adéquation, preuves, responsabilités et exclusions",
+              "Parler du service avec contexte"
+            ],
+            [
+              "Guide",
+              "Quelle décision prendre et pourquoi ?",
+              "Réponse directe, limites, exemples et outil utile",
+              "Utiliser la ressource ou explorer le bon service"
+            ],
+            [
+              "Cas ou preuve",
+              "Que s’est-il passé et que peut-on transférer ?",
+              "Autorisation, dates, dénominateurs et limites",
+              "Évaluer pertinence sans transformer un cas en promesse"
+            ],
+            [
+              "Contact/réservation",
+              "Que se passe-t-il si je contacte ?",
+              "Destination, chargement, commandes, libellés et source",
+              "Demande ou réservation réelle sans confusion inutile"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Chercher une friction observable",
+        "body": [
+          "Sur ordinateur et écran étroit, contrôlez titre, réponse et commandes qui ne masquent pas le contenu. Vérifiez liens, ressources, clavier, focus, libellés et erreurs. Un champ sans nom est observable ; préférer une autre couleur de bouton reste une hypothèse.",
+          "Attendez le chargement asynchrone du calendrier dans une limite définie avant de conclure à l’absence de disponibilité. Ne créez aucune réservation fictive en production. Vérifiez périmètre, tâches du client, preuves autorisées et suite. N’inventez ni témoignages, ni urgence, ni exigences cachées de qualification."
+        ]
+      },
+      {
+        "heading": "Deux modifications fictives avec leur raison",
+        "body": [
+          "Service fictif : avant, titre large, bouton “Commencer” inexpliqué et responsabilités absentes. Après, acheteur/problème précis, périmètre/exclusions, tâches du client et “Parler des exigences”. La raison est une attente plus claire, pas une promesse de réservations.",
+          "Guide fictif : avant, bloc de vente avant la réponse et formulaire générique comme seule suite. Après, réponse brève, exemple complet et fiche facultative sans inscription, puis service pertinent. Aucun résultat n’est mesuré. Ce sont des hypothèses à évaluer en préservant URL, réponses utiles, confidentialité et mesure légitime."
+        ]
+      },
+      {
+        "heading": "Lire les taux sans exagérer",
+        "body": [
+          "Exemple fictif : période A,40 visites éligibles et 2 nouveaux demandeurs ayant réservé et reliés à ces visites :5%. Période B,60 visites et 3 demandeurs :5% également. Plus de réservations accompagne plus de visites ; le taux descriptif ne progresse pas. Composition du public et attribution peuvent encore intervenir.",
+          "Avec 0 visite, le taux est indisponible. Avec un dénominateur positif valide et 0 demandeur relié, le taux observé est 0%, sans prouver l’incapacité de la page à convertir. L’inconnu reste inconnu. Plus de demandeurs que de visites dans cette cohorte limitée à un nouveau demandeur par visite indique des définitions ou comptes incompatibles.",
+          "Utilisez le calcul ci-dessous seulement pour une cohorte définie et comparable. Il décrit une proportion, pas une significativité statistique, une causalité ou une prévision de rendez-vous. De rares événements ne justifient pas un calendrier d’expérimentation précis."
+        ]
+      },
+      {
+        "heading": "Un registre fictif complet des frictions",
+        "body": [
+          "Tous les cas sont inventés. L’ordre privilégie défaillance confirmée et pertinence, pas une note universelle."
+        ],
+        "table": {
+          "caption": "File fictive d’actions",
+          "headers": [
+            "Problème",
+            "Preuve et alternative",
+            "Décision",
+            "Responsable et contrôle"
+          ],
+          "rows": [
+            [
+              "Lien service cassé",
+              "404 répété depuis guide ; destination déplacée possible",
+              "Réparer la bonne route en gardant l’intention",
+              "Développement ; réponse et liens"
+            ],
+            [
+              "Réservation paraît vide",
+              "Dates chargées après courte attente",
+              "Ne pas conclure zéro disponibilité ni changer agenda",
+              "UX ; état chargé"
+            ],
+            [
+              "Périmètre confus",
+              "Exclusions sans réponse",
+              "Ajouter périmètre approuvé",
+              "Commercial/édition ; texte et parcours"
+            ],
+            [
+              "Champ inexpliqué",
+              "Clavier ne permet pas d’identifier la donnée",
+              "Libellé et erreur utiles",
+              "Développement/accessibilité ; clavier et erreurs"
+            ],
+            [
+              "Guide retarde réponse",
+              "Vente placée avant réponse",
+              "Tester une réponse d’abord",
+              "Édition ; contenu et cohorte mûre"
+            ],
+            [
+              "Nouvelle langue sans données",
+              "Récent ; couverture incomplète",
+              "Conserver et vérifier parcours",
+              "Édition ; découverte puis cohorte"
+            ],
+            [
+              "Sessions montent avec audits",
+              "Tests identifiés ; Direct non marqué incertain",
+              "Exclure futurs tests ; minimum historique explicite",
+              "Analytique ; preuve et couverture"
+            ],
+            [
+              "Plus de formulaires, moins d’adéquation",
+              "Qualification non reliée de manière fiable",
+              "Examiner adéquation et définitions",
+              "Ventes/analytique ; vrais résultats"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Le plus petit changement justifié et la bonne preuve",
+        "body": [
+          "Réparez la commande défaillante et répétez le test exact. Pour une hypothèse de persuasion, notez problème, différence, cohorte, date et revue. Modifier offre, présentation, source et qualification ensemble rend le résultat difficile à interpréter.",
+          "Avec assez de trafic adapté, une expérience contrôlée peut être faisable. À faible volume, associez comptes descriptifs, observation d’usage et vrais retours, en gardant l’incertitude. Ne déclarez pas de gagnant sur quelques événements et ne masquez pas annulations, répétitions ou mauvais profils. Après publication, vérifiez page, ressources, mobile/clavier, source et vrais enregistrements."
+        ]
+      },
+      {
+        "heading": "Convenir des responsabilités avant de choisir un prestataire",
+        "body": [
+          "Demandez qui diagnostique la mesure, écrit le contenu approuvé, modifie le code, examine l’accessibilité et vérifie les ventes. Précisez accès, périmètre, accords et livrables ; des conseils génériques ne remplacent pas un registre reproductible.",
+          "L’inbound de Beespoke concerne Google Ads, SEO et AEO dans un périmètre convenu. Ce guide n’annonce ni offre CRO autonome, ni équipe spécialisée, ni nouvelle inclusion du développement, ni gain garanti. Design, développement et autres spécialistes nécessitent un accord explicite."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Examiner le périmètre SEO géré"
+          },
+          {
+            "href": "/services/b2b-ppc-agency/",
+            "label": "Examiner le périmètre PPC géré"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Que vérifier dans un audit de conversion B2B ?",
+        "answer": "Adéquation, définitions, intention, offre, preuves autorisées, responsabilités, usage, contact/réservation et résultats commerciaux avec sources. Séparez défaillances et hypothèses."
+      },
+      {
+        "question": "Quel taux est bon ?",
+        "answer": "Un nombre universel sans public, canal, définition et couverture est trompeur. Comparez la même cohorte pertinente et distinguez demandes, réservations, appels et qualification."
+      },
+      {
+        "question": "Chaque guide doit-il demander un appel immédiat ?",
+        "answer": "Non. Une réponse, un exemple ou un outil sans inscription peut être la suite adaptée. Proposez service et réservation pertinents sans présumer que chaque lecteur est prêt à acheter."
+      },
+      {
+        "question": "Un petit avant/après prouve-t-il un gain ?",
+        "answer": "Pas seul. Public, dates, attribution et autres changements peuvent expliquer les différences. Utilisez un contrôle si possible et qualifiez les petits échantillons de descriptifs."
+      },
+      {
+        "question": "La fiche collecte-t-elle des données ou modifie-t-elle le site ?",
+        "answer": "Non. Elle crée rapport local et CSV/impression. Recharger efface les champs ; elle n’envoie pas de formulaire, ne réserve pas et ne modifie rien."
+      }
+    ],
+    "related": [
+      "/guides/b2b-lead-generation-audit/",
+      "/services/b2b-seo-agency/",
+      "/services/b2b-ppc-agency/",
+      "/guides/b2b-content-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Kontra: four pages for B2B conversion optimization",
+        "href": "https://kontra.agency/b2b-conversion-optimization-4-pages-you-need-to-get-conversion/"
+      },
+      {
+        "label": "Trajectory: B2B website conversion optimization",
+        "href": "https://www.trajectorywebdesign.com/blog/b2b-website-conversion-optimization/"
+      },
+      {
+        "label": "Cazbah: why industrial leads do not convert",
+        "href": "https://www.cazbah.net/b2b-website-conversion-optimization-why-good-industrial-leads-dont-convert/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "Les pages des éditeurs liés éclairent la comparaison des méthodes. La fiche, les règles et exemples sont des aides de préparation de Beespoke. Entreprises, chiffres et résultats d’exemple sont fictifs ; aucun résultat client, référence universelle ou classement promis. Sources examinées le 27 octobre 2026.",
+    "heroSecondary": {
+      "label": "Utiliser la fiche de friction",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utiliser la fiche de friction",
+      "eyebrow": "Outil sans inscription",
+      "heading": "Transformer une friction en action vérifiable",
+      "intro": "Consignez friction, preuves, alternative et plus petit changement. L’exemple complet montre huit décisions. Exportez un rapport vérifiable sans envoyer vos notes.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Preuves",
+          "body": "Consignez ce que vous savez et sa source. Conservez les inconnues."
+        },
+        {
+          "label": "2",
+          "heading": "Décision",
+          "body": "Expliquez choix, alternative et approbation requise."
+        },
+        {
+          "label": "3",
+          "heading": "Responsabilité",
+          "body": "Précisez action, responsable et revue. Exportez avant de partir."
+        }
+      ],
+      "note": "Ajoutez jusqu’à 50 entrées, chargez l’exemple fictif complet et créez un rapport pour télécharger un CSV local ou imprimer. La fiche n’envoie ni ne conserve les données. Le rechargement efface les champs. Elle n’exécute pas de campagne, n’audite pas de site réel et ne vérifie pas vos étiquettes."
+    },
+    "workbook": {
+      "fields": [
+        "Page, étape et friction",
+        "Observation datée et source",
+        "Alternative et limite de mesure",
+        "Changement proposé et comportement préservé",
+        "Responsable et approbation",
+        "Contrôle, cohorte éligible et revue"
+      ],
+      "samples": [
+        [
+          "Guide→service",
+          "Fictif :404 répété",
+          "Destination peut avoir bougé ; pas défaut de texte",
+          "Réparer route en préservant tâche",
+          "Développement",
+          "200 final, HTML, liens et ressources"
+        ],
+        [
+          "Chargement réservation",
+          "Fictif : dates après attente",
+          "Vide initial ne prouve pas indisponibilité",
+          "Ne pas changer horaires depuis cet état",
+          "UX",
+          "État chargé ; aucune réservation fictive"
+        ],
+        [
+          "Périmètre",
+          "Fictif : exclusions sans réponse",
+          "Compréhension incomplète ; aucun gain mesuré",
+          "Ajouter périmètre/tâches approuvés ; garder URL",
+          "Commercial/édition",
+          "Texte/parcours ; cohorte mûre"
+        ],
+        [
+          "Libellé de champ",
+          "Fictif : clavier ne permet pas d’identifier entrée",
+          "Défaut observable",
+          "Libellé/erreur clairs ; confidentialité préservée",
+          "Développement/accessibilité",
+          "Clavier, nom, erreur et mobile"
+        ],
+        [
+          "Ordre du guide",
+          "Fictif : vente retarde réponse",
+          "Hypothèse, pas cause prouvée",
+          "Tester réponse d’abord et outil facultatif",
+          "Édition",
+          "Annoter modification et comparer cohorte mûre"
+        ],
+        [
+          "Nouvelle langue",
+          "Fictif : peu de recul et de sources",
+          "Inconnu ne signifie pas zéro",
+          "Conserver et vérifier parcours",
+          "Édition linguistique",
+          "Découverte puis revue"
+        ],
+        [
+          "Trafic d’audit",
+          "Fictif : tests marqués",
+          "Direct non marqué incertain",
+          "Exclure futurs tests ; minimum historique",
+          "Analytique",
+          "Vérifier exclusion avant test"
+        ],
+        [
+          "Qualité du lead",
+          "Fictif : formulaires en hausse ; qualification non reliée",
+          "Adéquation ou définition peut avoir changé",
+          "Rapprocher qualifiés avant conclusion",
+          "Ventes/analytique",
+          "Identité originale ; tenue/qualification séparées"
+        ]
+      ],
+      "legend": "Optimisation des conversions B2B : diagnostiquer les frictions",
+      "reportTitle": "Transformer une friction en action vérifiable"
+    },
+    "decisionGuide": {
+      "heading": "Avant d’agir",
+      "body": [
+        "Priorisez les défaillances confirmées d’accès et d’usage. Traitez la persuasion comme hypothèse et évaluez les résultats qualifiés après validation de la page et de la mesure."
+      ],
+      "items": [
+        "Confirmez la question d’achat et les preuves.",
+        "Gardez l’action minimale justifiée et les inconnues.",
+        "Attribuez responsable, approbation et contrôle utile.",
+        "Mesurez des résultats pertinents mûrs, pas seulement l’activité."
+      ]
+    },
+    "rateCheck": {
+      "heading": "Vérifier le calcul de deux cohortes définies",
+      "navLabel": "Vérifier les taux de conversion",
+      "intro": "Saisissez visites éligibles et nouveaux demandeurs uniques ayant réservé et reliés à ces visites dans chaque période. Confirmez définitions et conditions comparables. L’outil ne vérifie ni chiffres ni sources.",
+      "fields": [
+        "Période A : visites éligibles",
+        "Période A : nouveaux demandeurs uniques reliés ayant réservé",
+        "Période B : visites éligibles",
+        "Période B : nouveaux demandeurs uniques reliés ayant réservé"
+      ],
+      "cohort": "J’ai défini des cohortes comparables avec au plus un nouveau demandeur par visite éligible.",
+      "calculate": "Calculer les taux descriptifs",
+      "example": "Charger l’exemple fictif 40/2 et 60/3",
+      "clear": "Effacer les chiffres",
+      "outputs": [
+        "Taux de la période A",
+        "Taux de la période B",
+        "B moins A, points de pourcentage"
+      ],
+      "empty": "Indisponible avant confirmation des définitions et saisie de chiffres valides. Inconnu ne signifie pas zéro.",
+      "invalid": "Utilisez des entiers non négatifs. Les nouveaux demandeurs reliés ne peuvent dépasser les visites de cette cohorte. Vérifiez définitions et doublons sans forcer les chiffres.",
+      "result": "Calcul descriptif uniquement : ni test statistique, ni causalité, ni prévision de rendez-vous. Un dénominateur nul reste indisponible ; un dénominateur positif valide sans demandeur donne 0% observé.",
+      "fiction": "Chiffres fictifs de formation. Les deux périodes sont à 5% ; le taux ne change pas malgré plus de visites et réservations.",
+      "changed": "Chiffres modifiés. Recalculez ; ce sont vos hypothèses, pas des résultats vérifiés.",
+      "unavailable": "Indisponible",
+      "privacy": "Les chiffres restent sur cette page et disparaissent au rechargement. Aucune requête réseau ni conservation. Sans JavaScript : demandeurs reliés ÷ visites éligibles × 100, uniquement avec un dénominateur positif valide. Copiez les résultats utiles dans la fiche avant export.",
+      "locale": "fr"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+[data-buyer-rate-check] { margin:2rem 0; padding:1.25rem; border:1px solid #8492a3; border-radius:16px; background:#f5faf9; color:#172535; }
+[data-buyer-rate-check] .rate-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; }
+[data-buyer-rate-check] label { display:flex; flex-direction:column; gap:.4rem; min-width:0; font-weight:650; overflow-wrap:anywhere; }
+[data-buyer-rate-check] input[type=text] { box-sizing:border-box; width:100%; min-width:0; padding:.7rem; border:1px solid #8492a3; border-radius:7px; color:#172535; background:#fff; font:inherit; }
+[data-buyer-rate-check] input[aria-invalid=true] { border:2px solid #9b2020; }
+[data-buyer-rate-check] .cohort-confirm { flex-direction:row; align-items:flex-start; margin:1rem 0; }
+[data-buyer-rate-check] input[type=checkbox] { flex:none; width:22px; height:22px; margin:.2rem .4rem 0 0; }
+[data-buyer-rate-check] .rate-actions { display:flex; flex-wrap:wrap; gap:.7rem; margin:1rem 0; }
+[data-buyer-rate-check] button { max-width:100%; min-height:44px; white-space:normal; }
+[data-buyer-rate-check] :is(input,button):focus-visible { outline:3px solid #225fcb; outline-offset:3px; }
+[data-buyer-rate-check] [role=status] { padding:1rem; background:#fff8e6; color:#172535; border-radius:8px; }
+[data-buyer-rate-check] dt { font-weight:700; margin-top:.8rem; }
+[data-buyer-rate-check] dd { margin:.25rem 0 .7rem; overflow-wrap:anywhere; }
+@media(max-width:600px){[data-buyer-rate-check] .rate-grid { grid-template-columns:1fr; }}

@@ -1,0 +1,1370 @@
+{
+  "en": {
+    "path": "/compare/inbound-vs-outbound-lead-generation/",
+    "serviceFamily": "inbound",
+    "title": "Inbound vs Outbound Lead Generation: Choose Your B2B Mix | Beespoke",
+    "description": "Compare inbound and outbound by buyer access, active demand, offer readiness, capacity and attribution. Use four fictional decisions and a private planning matrix.",
+    "eyebrow": "Choose an acquisition mechanism with evidence",
+    "h1": "Inbound vs outbound lead generation: choose the right B2B acquisition mix",
+    "answer": "Inbound lead generation attracts people to useful information or an offer; outbound initiates contact with selected accounts and roles. The right mix depends on buyer access, existing demand, offer clarity, proof, capacity and the work you can sustain. Compare those conditions before comparing activity or headline costs. Both can contribute to one journey, so keep original acquisition and later website assistance distinct.",
+    "sections": [
+      {
+        "heading": "Separate the acquisition mechanism from the business objective",
+        "body": [
+          "Inbound and outbound describe how a relationship begins. Demand generation and lead generation describe different objectives, such as creating awareness or converting existing interest into a relevant enquiry. These are not interchangeable comparisons. Both inbound and outbound can support more than one objective.",
+          "A search-led guide may introduce an unfamiliar approach, while a targeted outreach question may reveal already active demand. Avoid treating inbound as only long-term education or outbound as an instant meeting machine."
+        ],
+        "links": [
+          {
+            "href": "/compare/lead-generation-vs-demand-generation/",
+            "label": "Compare demand creation and lead capture as business objectives"
+          }
+        ]
+      },
+      {
+        "heading": "What each approach requires in practice",
+        "body": [
+          "Inbound needs discoverable, useful pages, a relevant offer and a coherent next step. SEO, search advertising and useful content have different dependencies and should not be collapsed into one tactic. Outbound needs defensible account fit, relevant roles, permitted evidence, approved messages and a functioning reply/handoff process."
+        ],
+        "table": {
+          "caption": "Acquisition mechanisms and dependencies",
+          "headers": [
+            "Condition",
+            "Inbound question",
+            "Outbound question",
+            "Decision implication"
+          ],
+          "rows": [
+            [
+              "Buyer access",
+              "Do suitable buyers search or visit relevant sources?",
+              "Can appropriate accounts and roles be identified?",
+              "Neither channel fixes an undefined audience"
+            ],
+            [
+              "Offer and evidence",
+              "Does the page explain a credible useful offer?",
+              "Is there a truthful reason this account might care?",
+              "Resolve weak offer/proof before scaling"
+            ],
+            [
+              "Existing assets",
+              "Do relevant pages already have useful exposure?",
+              "Is research and sender/reply infrastructure ready?",
+              "Start from actual assets rather than assume both begin at zero"
+            ],
+            [
+              "Capacity",
+              "Who handles content, implementation and enquiries?",
+              "Who researches, approves, replies and hands off?",
+              "An unanswered prospect is not a successful campaign"
+            ],
+            [
+              "Measurement",
+              "Can landing and source evidence support attribution?",
+              "Can contacted accounts and response sources be reconciled?",
+              "Do not double-credit website-assisted outreach"
+            ],
+            [
+              "Constraints",
+              "What access, media, development and approval is needed?",
+              "What data, systems, approvals and channel scope is needed?",
+              "Compare the full scope and dependencies"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Choose from evidence of buyer access and demand",
+        "body": [
+          "If a narrow set of suitable companies and roles can be identified and the offer is clear, outbound may be a useful first test of relevant conversations. That still requires research, permission boundaries, response capacity and a receiving sales owner. A target list is not evidence of interest.",
+          "If suitable buyers already expose relevant search questions and existing pages can answer them better, improving inbound may be the stronger first action. Search volume by itself does not establish fit, rankings or bookings. Paid and organic search also have different operating and media requirements.",
+          "When evidence is missing, make the uncertainty the next research task. A transparent hold is better than selecting a channel from a stereotype."
+        ]
+      },
+      {
+        "heading": "Compare complete costs and learning conditions",
+        "body": [
+          "Use the same period and scope. Separate management work, media spend, software/data, content or development dependencies and internal sales time. Agree what is included and who owns the assets. Do not compare outbound retainers against only ad spend or SEO fees against a fully loaded sales team.",
+          "Write down what must be true before either approach can teach you something: a clear offer, credible evidence, accurate targeting, approved execution and a real next step. Direct contact does not remove procurement or sales-cycle constraints. Existing inbound exposure means SEO does not always start from zero.",
+          "Do not invent universal cost-per-lead, ramp time or meeting forecasts. Populate the assumptions with your real evidence and compare created bookings, attendance and qualification separately. Current Beespoke terms belong on the existing pricing and service pages."
+        ],
+        "links": [
+          {
+            "href": "/pricing/",
+            "label": "Review current terms and inclusions"
+          },
+          {
+            "href": "/compare/b2b-seo-vs-ppc/",
+            "label": "Compare SEO and PPC within the inbound decision"
+          }
+        ]
+      },
+      {
+        "heading": "Four fictional choices and the conditions that could reverse them",
+        "body": [
+          "All situations are invented. They demonstrate reasoning, not observed client outcomes or universal channel rules."
+        ],
+        "table": {
+          "caption": "Conditional B2B acquisition choices",
+          "headers": [
+            "Situation",
+            "Evidence and missing information",
+            "Initial choice",
+            "What would change the choice"
+          ],
+          "rows": [
+            [
+              "Narrow known market",
+              "Suitable accounts/roles identifiable; approved offer; reply owner ready; search demand unassessed",
+              "A bounded outbound learning test, supported by accurate service/proof pages",
+              "Poor fit, unmanageable reply load or new strong relevant search evidence"
+            ],
+            [
+              "Existing active search",
+              "Relevant queries and useful page exposure observed; service answer has demonstrated gap; sales owner ready",
+              "Improve the existing inbound journey and measurement first",
+              "Results reveal a different intent, inaccessible buyers or a separate account opportunity"
+            ],
+            [
+              "Unvalidated offer",
+              "Buyer problem, proof and responsibilities unresolved",
+              "Hold channel scaling; clarify offer and buyer fit",
+              "New credible evidence and approved execution make a useful test possible"
+            ],
+            [
+              "Traffic without useful progression",
+              "Relevant visits exist; booking/control or scope failure observed; attribution partly unknown",
+              "Repair the conversion or measurement constraint before buying more traffic",
+              "After repair, mature source-aware outcomes reveal a genuine acquisition shortfall"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Design a combination without double-counting the same buyer",
+        "body": [
+          "An outbound recipient may inspect your service page, read a guide and then book. The website assisted the decision; that does not automatically make the website the original acquisition source. Conversely, a buyer who finds the site independently may later receive sales follow-up. Keep the known sequence and mark missing evidence as unknown.",
+          "Plan shared assets around actual buyer questions: service scope, proof, responsibilities, comparisons and useful preparation. They can help both channels without requiring a duplicate article library for every campaign. A useful link is not proof that it caused the booking.",
+          "Reconcile original-created booking identity where possible and keep reschedules, repeats, cancellations, held calls and qualification separate. Audit visits must be excluded before treating total-session growth as prospect growth."
+        ]
+      },
+      {
+        "heading": "Give the first test a responsible owner and a stopping condition",
+        "body": [
+          "Record audience, hypothesis, scope, prerequisites, approvals, capacity, next step, source evidence and review. Use an approved small execution sample to verify research/message quality or a specific existing-page repair to verify the inbound journey. The plan should state what to pause when fit, proof or capacity fails.",
+          "Review complete comparable periods and the buyer quality behind the counts. A few replies or clicks may expose a specific issue without supporting a precise expected conversion rate. Do not keep increasing activity to conceal an unresolved offer or handoff problem."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-sales-prospecting-plan/",
+            "label": "Build the outbound programme and handoff"
+          },
+          {
+            "href": "/guides/b2b-conversion-rate-optimization/",
+            "label": "Diagnose visitor-to-enquiry friction"
+          }
+        ]
+      },
+      {
+        "heading": "Match the provider’s actual scope to the decision",
+        "body": [
+          "Ask for named responsibilities, account/page ownership, source evidence, exclusions, approval process and commercial handoff. A provider who sells only one mechanism should still explain when the other approach or a prerequisite repair makes sense.",
+          "Beespoke’s outbound scope concerns cold email and/or cold LinkedIn, with calling quoted separately by market. Inbound work concerns Google Ads, SEO and AEO under agreed scope. The client handles discovery, proposals and closing. This comparison does not add a dedicated SDR, every demand-generation channel or a guaranteed outcome."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Review managed outbound"
+          },
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Review managed B2B SEO"
+          },
+          {
+            "href": "/services/b2b-ppc-agency/",
+            "label": "Review managed PPC"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is inbound or outbound better for B2B?",
+        "answer": "Neither universally. Examine buyer access, active demand, offer/proof, existing assets, capacity, scope and source-aware outcomes. The right first action may be a prerequisite repair rather than more acquisition."
+      },
+      {
+        "question": "Is outbound always faster?",
+        "answer": "No. Research, approvals, infrastructure, reply handling and the buyer’s decision process still matter. Direct contact does not guarantee interest or shorten every sales cycle."
+      },
+      {
+        "question": "Can we combine them?",
+        "answer": "Yes, when responsibilities, assets and measurement are coherent. Keep original acquisition and later assistance distinct so one buyer is not counted as two independent wins."
+      },
+      {
+        "question": "Does a website booking after outreach count as organic acquisition?",
+        "answer": "Not automatically. Record the known origin and sequence. A website-assisted outbound booking should not be relabelled organic merely because the last step occurred on the site."
+      },
+      {
+        "question": "How is this different from SEO versus PPC?",
+        "answer": "SEO and PPC compare approaches within inbound search acquisition. Inbound versus outbound compares attraction with initiated contact. Demand versus lead generation compares business objectives."
+      },
+      {
+        "question": "Does the matrix launch campaigns or collect notes?",
+        "answer": "No. It produces a local planning report and CSV/print output, sends no inputs and loses them on reload."
+      }
+    ],
+    "related": [
+      "/services/outbound-lead-generation/",
+      "/services/b2b-seo-agency/",
+      "/services/b2b-ppc-agency/",
+      "/compare/b2b-seo-vs-ppc/",
+      "/guides/b2b-lead-generation-audit/",
+      "/compare/lead-generation-vs-demand-generation/"
+    ],
+    "sources": [
+      {
+        "label": "Blend: inbound versus outbound lead generation",
+        "href": "https://www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities"
+      },
+      {
+        "label": "Thomas: inbound versus outbound leads",
+        "href": "https://blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "The linked primary publisher pages inform the comparison of methods. The workbook, decision rules and worked examples are Beespoke planning help. All sample businesses, counts and outcomes are fictional; no client result, universal benchmark or ranking promise is claimed. Sources reviewed October 27, 2026.",
+    "heroSecondary": {
+      "label": "Use the acquisition matrix",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Use the acquisition matrix",
+      "eyebrow": "Ungated working tool",
+      "heading": "Record the evidence for your acquisition mix",
+      "intro": "Compare the conditions that matter for your buyer and team. The complete fictional matrix includes cases for outbound first, inbound first, a hold and a conversion repair. Export the reasoning; no opaque channel score is calculated.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidence",
+          "body": "Record what you know and where it came from. Preserve unknowns."
+        },
+        {
+          "label": "2",
+          "heading": "Decision",
+          "body": "Explain the choice, alternative and approval dependency."
+        },
+        {
+          "label": "3",
+          "heading": "Ownership",
+          "body": "Name the next action, owner and review. Export before leaving."
+        }
+      ],
+      "note": "Add up to 50 entries, load the complete fictional example and build a report for local CSV download or print. No data is sent or saved by this workbook. Reloading clears your inputs. It does not execute a campaign, audit a live site or verify your labels."
+    },
+    "workbook": {
+      "fields": [
+        "Buyer situation or decision criterion",
+        "Known buyer access, demand and source evidence",
+        "Inbound opportunity, dependency and unknowns",
+        "Outbound opportunity, dependency and unknowns",
+        "Conditional choice, reason and reversal condition",
+        "Owner, scope/approval, capacity and review evidence"
+      ],
+      "samples": [
+        [
+          "Fictional narrow known market",
+          "Suitable accounts/roles identifiable; clear offer; search unassessed",
+          "Keep accurate service/proof pages; search potential unknown",
+          "Research and reply owner ready; approval required",
+          "Bounded outbound test; reverse if poor fit or capacity fails",
+          "Commercial/research/sales owners; agreed test and review"
+        ],
+        [
+          "Fictional active search",
+          "Relevant query/page exposure; clear missing answer",
+          "Improve existing page and next step; preserve URL",
+          "Specific account opportunity not assessed",
+          "Inbound improvement first; inspect actual intent",
+          "SEO/editor/sales; source-aware mature cohort"
+        ],
+        [
+          "Fictional unvalidated offer",
+          "Buyer problem/proof/responsibilities unresolved",
+          "More pages cannot validate an invented claim",
+          "More contact cannot replace fit/evidence",
+          "Hold scaling; clarify prerequisites",
+          "Commercial owner; approve offer and proof before execution"
+        ],
+        [
+          "Fictional progression failure",
+          "Relevant visits; demonstrated control/scope failure",
+          "Repair conversion and measurement before more traffic",
+          "More outreach may send buyers into the same broken journey",
+          "Fix observed constraint first; review after repair",
+          "Developer/editor/analytics; reproduce failure and retest"
+        ],
+        [
+          "Combined journey",
+          "Outreach→service page→guide→booking is fictional known sequence",
+          "Website assisted evaluation",
+          "Outbound initiated contact",
+          "One original acquisition with assistance, not two wins",
+          "Analyst; preserve original creation/source and unknowns"
+        ],
+        [
+          "Scope and review",
+          "Same period, full costs and distinct outcome definitions",
+          "Media/content/development/operating dependencies explicit",
+          "Data/systems/research/reply/sales dependencies explicit",
+          "Choose the smallest justified test; no universal speed/CPL promise",
+          "Owners approve scope/capacity; review genuine qualified outcomes"
+        ]
+      ],
+      "legend": "Inbound vs Outbound Lead Generation: Choose Your B2B Mix",
+      "reportTitle": "Record the evidence for your acquisition mix"
+    },
+    "decisionGuide": {
+      "heading": "Before you act",
+      "body": [
+        "Choose the next justified action, not a permanent allegiance to one channel. Resolve fit, proof, capacity and measurement before treating activity as commercial progress."
+      ],
+      "items": [
+        "Confirm the actual buyer task and evidence.",
+        "Keep the smallest justified action and explicit unknowns.",
+        "Name the owner, approval and useful next check.",
+        "Measure mature relevant outcomes, not activity alone."
+      ]
+    }
+  },
+  "es": {
+    "path": "/compare/inbound-vs-outbound-lead-generation/",
+    "serviceFamily": "inbound",
+    "title": "Inbound u outbound B2B: elige la combinación de captación | Beespoke",
+    "description": "Compara inbound y outbound según acceso al comprador, demanda, oferta, capacidad y atribución. Cuatro decisiones ficticias y una matriz privada de planificación.",
+    "eyebrow": "Elige cómo captar con evidencias",
+    "h1": "Inbound u outbound para captar clientes B2B: cómo elegir la combinación",
+    "answer": "El inbound atrae personas hacia información u ofertas útiles; el outbound inicia el contacto con cuentas y funciones seleccionadas. La combinación depende de acceso al comprador, demanda existente, claridad de oferta, pruebas, capacidad y trabajo sostenible. Compara esas condiciones antes que actividad o costes aislados. Ambos pueden participar en un recorrido: distingue adquisición original y ayuda posterior del sitio.",
+    "sections": [
+      {
+        "heading": "Separa mecanismo y objetivo comercial",
+        "body": [
+          "Inbound y outbound describen cómo empieza la relación. Generación de demanda y de leads describen objetivos, como crear conocimiento o convertir interés en una consulta. No son comparaciones intercambiables; ambos mecanismos pueden apoyar más de un objetivo.",
+          "Una guía en buscadores puede presentar un enfoque desconocido; una pregunta directa puede descubrir demanda activa. No reduzcas inbound a educación lenta ni outbound a reuniones instantáneas."
+        ],
+        "links": [
+          {
+            "href": "/compare/lead-generation-vs-demand-generation/",
+            "label": "Comparar creación de demanda y captación de interés"
+          }
+        ]
+      },
+      {
+        "heading": "Qué exige cada enfoque",
+        "body": [
+          "Inbound requiere páginas localizables y útiles, oferta pertinente y siguiente paso coherente. SEO, publicidad de búsqueda y contenido tienen dependencias distintas. Outbound requiere encaje defendible, funciones relevantes, pruebas permitidas, mensajes aprobados y respuestas/traspaso operativos."
+        ],
+        "table": {
+          "caption": "Mecanismos y dependencias",
+          "headers": [
+            "Condición",
+            "Pregunta inbound",
+            "Pregunta outbound",
+            "Implicación"
+          ],
+          "rows": [
+            [
+              "Acceso",
+              "¿Buscan los compradores o visitan fuentes relevantes?",
+              "¿Se identifican cuentas y funciones adecuadas?",
+              "Ninguno resuelve público indefinido"
+            ],
+            [
+              "Oferta/pruebas",
+              "¿Explica la página una oferta creíble?",
+              "¿Existe razón veraz de relevancia para la cuenta?",
+              "Resolver debilidad antes de escalar"
+            ],
+            [
+              "Activos",
+              "¿Hay páginas con exposición útil?",
+              "¿Están listos investigación, remitente y respuestas?",
+              "Partir de lo real, no suponer cero"
+            ],
+            [
+              "Capacidad",
+              "¿Quién lleva contenido, implementación y consultas?",
+              "¿Quién investiga, aprueba, responde y traspasa?",
+              "Prospecto sin respuesta no es éxito"
+            ],
+            [
+              "Medición",
+              "¿Se relacionan entradas y origen?",
+              "¿Se contrastan contactos y respuestas?",
+              "No duplicar crédito de outreach asistido por web"
+            ],
+            [
+              "Restricciones",
+              "¿Qué acceso, medios, desarrollo y aprobación?",
+              "¿Qué datos, sistemas y alcance de canal?",
+              "Comparar alcance completo y dependencias"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Decide con pruebas de acceso y demanda",
+        "body": [
+          "Si se identifican empresas y funciones concretas y la oferta está clara, outbound puede servir para un primer test de conversaciones relevantes. Requiere investigación, límites de autorización, capacidad de respuesta y ventas receptoras. Una lista no demuestra interés.",
+          "Si ya hay consultas pertinentes y páginas que pueden responder mejor, mejorar inbound puede ser la primera acción más sólida. Volumen no demuestra encaje, posiciones ni reservas; búsqueda pagada y orgánica tampoco tienen los mismos requisitos.",
+          "Cuando falten pruebas, investiga esa incertidumbre. Aplazar con razones es preferible a elegir por estereotipos."
+        ]
+      },
+      {
+        "heading": "Compara costes completos y condiciones de aprendizaje",
+        "body": [
+          "Usa el mismo periodo y alcance: gestión, medios, software/datos, contenido/desarrollo y tiempo comercial interno por separado. Aclara inclusiones y propiedad de activos. No compares retainer outbound con solo gasto publicitario ni SEO con todo un equipo comercial.",
+          "Ambos necesitan oferta clara, pruebas creíbles, targeting preciso, ejecución aprobada y siguiente paso real. Contactar directamente no elimina compras ni ciclo comercial. Tener exposición inbound existente significa que SEO no siempre empieza de cero.",
+          "No inventes costes por lead, plazos de puesta en marcha ni previsiones universales. Rellena supuestos con evidencia propia y separa reserva, asistencia y cualificación. Las condiciones actuales de Beespoke están en precios y servicios."
+        ],
+        "links": [
+          {
+            "href": "/pricing/",
+            "label": "Ver condiciones e inclusiones actuales"
+          },
+          {
+            "href": "/compare/b2b-seo-vs-ppc/",
+            "label": "Comparar SEO y PPC dentro del inbound"
+          }
+        ]
+      },
+      {
+        "heading": "Cuatro decisiones ficticias y qué las cambiaría",
+        "body": [
+          "Todas las situaciones son inventadas para explicar razonamiento, no resultados de clientes ni reglas universales."
+        ],
+        "table": {
+          "caption": "Elecciones condicionales B2B",
+          "headers": [
+            "Situación",
+            "Pruebas y dudas",
+            "Primera elección",
+            "Qué la cambiaría"
+          ],
+          "rows": [
+            [
+              "Mercado pequeño conocido",
+              "Cuentas/funciones identificables; oferta aprobada; responsable de respuestas; búsqueda sin evaluar",
+              "Test outbound acotado con páginas de servicio/pruebas correctas",
+              "Mal encaje, respuestas inmanejables o nueva demanda relevante"
+            ],
+            [
+              "Búsqueda activa existente",
+              "Consultas/exposición relevantes; carencia demostrada de respuesta; ventas listas",
+              "Mejorar recorrido inbound y medición existentes",
+              "Intención distinta, compradores inaccesibles u oportunidad por cuentas diferente"
+            ],
+            [
+              "Oferta sin validar",
+              "Problema, pruebas y responsabilidades pendientes",
+              "Aplazar escalado; aclarar oferta y encaje",
+              "Nuevas pruebas creíbles y ejecución aprobada"
+            ],
+            [
+              "Tráfico sin progresión útil",
+              "Visitas relevantes; fallo observado de control o alcance; atribución incompleta",
+              "Reparar conversión/medición antes de comprar más tráfico",
+              "Tras reparar, resultados maduros muestran falta real de adquisición"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Combina sin contar dos veces al mismo comprador",
+        "body": [
+          "Un destinatario outbound puede revisar servicio y guía antes de reservar. La web ayuda, pero no se vuelve automáticamente origen de adquisición. Un comprador que descubre el sitio de forma independiente también puede recibir seguimiento comercial. Conserva secuencia conocida y dudas.",
+          "Comparte activos que responden preguntas: alcance, pruebas, tareas, comparaciones y preparación. No necesitas otra biblioteca duplicada por campaña. Un enlace útil no demuestra que provocó una reserva.",
+          "Relaciona creación original cuando se pueda y separa repeticiones, reprogramaciones, cancelaciones, llamadas y cualificación. Excluye auditorías antes de interpretar crecimiento de sesiones como prospectos."
+        ]
+      },
+      {
+        "heading": "Un primer test con responsable y condición de parada",
+        "body": [
+          "Registra público, hipótesis, alcance, requisitos, aprobación, capacidad, siguiente paso, origen y revisión. Revisa una muestra de ejecución aprobada o una corrección concreta de página. Indica cuándo pausar por encaje, pruebas o capacidad.",
+          "Compara periodos completos y calidad detrás de los números. Pocos clics o respuestas pueden revelar un fallo sin permitir tasa esperada precisa. No aumentes actividad para ocultar oferta o traspaso sin resolver."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-sales-prospecting-plan/",
+            "label": "Planificar programa outbound y traspaso"
+          },
+          {
+            "href": "/guides/b2b-conversion-rate-optimization/",
+            "label": "Diagnosticar fricción de visita a consulta"
+          }
+        ]
+      },
+      {
+        "heading": "Encaja el alcance real del proveedor con la decisión",
+        "body": [
+          "Pide responsables, cuentas/páginas, fuentes, exclusiones, aprobaciones y traspaso. Aunque venda un solo mecanismo, debe explicar cuándo conviene otro o una reparación previa.",
+          "Outbound de Beespoke cubre cold email y/o LinkedIn en frío; llamadas aparte según mercado. Inbound trata Google Ads, SEO y AEO con alcance acordado. El cliente dirige discovery, propuestas y cierre. No incluye por esta comparación SDR dedicado, todos los canales ni resultados garantizados."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Ver outbound gestionado"
+          },
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Ver SEO B2B gestionado"
+          },
+          {
+            "href": "/services/b2b-ppc-agency/",
+            "label": "Ver PPC gestionado"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué es mejor en B2B?",
+        "answer": "No hay ganador universal. Revisa acceso, demanda, oferta/pruebas, activos, capacidad, alcance y resultados con origen. Puede convenir reparar una dependencia antes de captar más."
+      },
+      {
+        "question": "¿Outbound siempre es más rápido?",
+        "answer": "No. Investigación, aprobación, sistemas, respuestas y compra del cliente siguen importando. Contacto directo no garantiza interés ni acorta todos los ciclos."
+      },
+      {
+        "question": "¿Se pueden combinar?",
+        "answer": "Sí, con responsabilidades, activos y medición coherentes. Distingue adquisición original y ayuda posterior para no contar una persona como dos éxitos."
+      },
+      {
+        "question": "¿Una reserva web tras outreach es orgánica?",
+        "answer": "No automáticamente. Registra origen y secuencia. No reclasifiques outbound como orgánico porque el último paso fue el sitio."
+      },
+      {
+        "question": "¿Es lo mismo que SEO o PPC?",
+        "answer": "SEO/PPC compara opciones dentro de búsqueda inbound. Inbound/outbound compara atracción e inicio del contacto; demanda/leads compara objetivos."
+      },
+      {
+        "question": "¿La matriz lanza campañas o recoge notas?",
+        "answer": "No. Crea informe local y CSV/impresión, no envía datos y los pierde al recargar."
+      }
+    ],
+    "related": [
+      "/services/outbound-lead-generation/",
+      "/services/b2b-seo-agency/",
+      "/services/b2b-ppc-agency/",
+      "/compare/b2b-seo-vs-ppc/",
+      "/guides/b2b-lead-generation-audit/",
+      "/compare/lead-generation-vs-demand-generation/"
+    ],
+    "sources": [
+      {
+        "label": "Blend: inbound versus outbound lead generation",
+        "href": "https://www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities"
+      },
+      {
+        "label": "Thomas: inbound versus outbound leads",
+        "href": "https://blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "Las páginas enlazadas de los autores sirven para comparar métodos. La ficha, reglas y ejemplos son ayudas de planificación de Beespoke. Empresas, cifras y resultados de ejemplo son ficticios; no son resultados de clientes, referencias universales ni promesas de ranking. Fuentes revisadas el 27 de octubre de 2026.",
+    "heroSecondary": {
+      "label": "Usar la matriz de captación",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Usar la matriz de captación",
+      "eyebrow": "Herramienta sin registro",
+      "heading": "Registra pruebas para elegir la combinación",
+      "intro": "Compara condiciones del comprador y del equipo. La matriz ficticia completa muestra outbound primero, inbound primero, aplazamiento y reparación. Exporta razones; no calcula una puntuación opaca.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Pruebas",
+          "body": "Registra qué sabes y de dónde procede. Conserva lo desconocido."
+        },
+        {
+          "label": "2",
+          "heading": "Decisión",
+          "body": "Explica elección, alternativa y aprobación necesaria."
+        },
+        {
+          "label": "3",
+          "heading": "Responsable",
+          "body": "Indica acción, responsable y revisión. Exporta antes de salir."
+        }
+      ],
+      "note": "Añade hasta 50 entradas, carga el ejemplo ficticio completo y crea un informe para descargar CSV local o imprimir. La ficha no envía ni guarda datos. Recargar borra los campos. No ejecuta campañas, audita sitios reales ni verifica tus etiquetas."
+    },
+    "workbook": {
+      "fields": [
+        "Situación o criterio de decisión",
+        "Acceso, demanda y origen conocidos",
+        "Oportunidad inbound, dependencia y dudas",
+        "Oportunidad outbound, dependencia y dudas",
+        "Elección condicional, razón y cambio de criterio",
+        "Responsable, alcance/aprobación, capacidad y revisión"
+      ],
+      "samples": [
+        [
+          "Mercado conocido ficticio",
+          "Cuentas/funciones identificables; oferta clara; búsqueda sin evaluar",
+          "Mantener páginas correctas; potencial de búsqueda desconocido",
+          "Investigación/respuestas listas; aprobación necesaria",
+          "Test acotado; revisar si falla encaje/capacidad",
+          "Comercial/investigación/ventas; test y revisión acordados"
+        ],
+        [
+          "Búsqueda activa ficticia",
+          "Exposición pertinente; respuesta incompleta",
+          "Mejorar página y siguiente paso; conservar URL",
+          "Oportunidad por cuentas sin evaluar",
+          "Inbound primero; revisar intención real",
+          "SEO/edición/ventas; cohorte madura con origen"
+        ],
+        [
+          "Oferta ficticia sin validar",
+          "Problema/pruebas/tareas pendientes",
+          "Más páginas no validan afirmación inventada",
+          "Más contacto no sustituye encaje",
+          "Aplazar escalado; aclarar requisitos",
+          "Comercial aprueba oferta y pruebas antes de ejecutar"
+        ],
+        [
+          "Fallo ficticio de progresión",
+          "Visitas relevantes; fallo de control/alcance",
+          "Reparar conversión/medición antes de tráfico",
+          "Más outreach puede llevar al mismo fallo",
+          "Corregir restricción observada primero",
+          "Desarrollo/edición/analítica; reproducir y retestar"
+        ],
+        [
+          "Recorrido combinado ficticio",
+          "Outreach→servicio→guía→reserva",
+          "Web ayudó a evaluar",
+          "Outbound inició contacto",
+          "Una adquisición con ayuda, no dos",
+          "Analista; creación/origen e incertidumbre"
+        ],
+        [
+          "Alcance y revisión",
+          "Mismo periodo, costes completos, resultados separados",
+          "Medios/contenido/desarrollo/gestión explícitos",
+          "Datos/sistemas/investigación/respuestas/ventas explícitos",
+          "Menor test justificado; sin CPL/plazo universal",
+          "Aprobación de capacidad/alcance; resultados cualificados"
+        ]
+      ],
+      "legend": "Inbound u outbound B2B: elige la combinación de captación",
+      "reportTitle": "Registra pruebas para elegir la combinación"
+    },
+    "decisionGuide": {
+      "heading": "Antes de actuar",
+      "body": [
+        "Elige la siguiente acción justificada, no un canal para siempre. Resuelve encaje, pruebas, capacidad y medición antes de confundir actividad con progreso comercial."
+      ],
+      "items": [
+        "Confirma la pregunta de compra y sus pruebas.",
+        "Conserva el cambio mínimo justificado y las dudas.",
+        "Asigna responsable, aprobación y comprobación útil.",
+        "Evalúa resultados pertinentes maduros, no solo actividad."
+      ]
+    }
+  },
+  "ca": {
+    "path": "/compare/inbound-vs-outbound-lead-generation/",
+    "serviceFamily": "inbound",
+    "title": "Inbound o outbound B2B: tria la combinació de captació | Beespoke",
+    "description": "Compara inbound i outbound segons accés al comprador, demanda, oferta, capacitat i atribució. Quatre decisions fictícies i una matriu privada de planificació.",
+    "eyebrow": "Tria com captar amb evidències",
+    "h1": "Inbound o outbound per captar clients B2B: com triar la combinació",
+    "answer": "L’inbound atreu persones cap a informació o ofertes útils; l’outbound inicia contacte amb comptes i funcions seleccionats. La combinació depèn d’accés al comprador, demanda existent, claredat d’oferta, evidències, capacitat i treball sostenible. Compara aquestes condicions abans d’activitat o costos aïllats. Tots dos poden participar en un recorregut: separa adquisició original i ajuda posterior del web.",
+    "sections": [
+      {
+        "heading": "Separa mecanisme i objectiu comercial",
+        "body": [
+          "Inbound i outbound descriuen com comença la relació. Generació de demanda i de leads descriuen objectius, com crear coneixement o convertir interès en consulta. No són comparacions intercanviables; tots dos mecanismes poden donar suport a diversos objectius.",
+          "Una guia en cercadors pot presentar un enfocament desconegut; una pregunta directa pot descobrir demanda activa. No redueixis inbound a educació lenta ni outbound a reunions instantànies."
+        ],
+        "links": [
+          {
+            "href": "/compare/lead-generation-vs-demand-generation/",
+            "label": "Comparar creació de demanda i captació d’interès"
+          }
+        ]
+      },
+      {
+        "heading": "Què exigeix cada enfocament",
+        "body": [
+          "Inbound necessita pàgines localitzables i útils, oferta pertinent i pas següent coherent. SEO, publicitat de cerca i contingut tenen dependències diferents. Outbound necessita encaix defensable, funcions pertinents, proves permeses, missatges aprovats i respostes/traspàs operatius."
+        ],
+        "table": {
+          "caption": "Mecanismes i dependències",
+          "headers": [
+            "Condició",
+            "Pregunta inbound",
+            "Pregunta outbound",
+            "Implicació"
+          ],
+          "rows": [
+            [
+              "Accés",
+              "Cerquen els compradors o visiten fonts pertinents?",
+              "Es poden identificar comptes i funcions adequats?",
+              "Cap dels dos resol un públic indefinit"
+            ],
+            [
+              "Oferta/proves",
+              "Explica la pàgina una oferta creïble?",
+              "Hi ha una raó veraç de pertinència per al compte?",
+              "Resoldre feblesa abans d’escalar"
+            ],
+            [
+              "Actius",
+              "Hi ha pàgines amb exposició útil?",
+              "Estan llestos recerca, remitent i respostes?",
+              "Partir d’allò real, no suposar zero"
+            ],
+            [
+              "Capacitat",
+              "Qui porta contingut, implementació i consultes?",
+              "Qui investiga, aprova, respon i traspassa?",
+              "Un prospecte sense resposta no és èxit"
+            ],
+            [
+              "Mesura",
+              "Es relacionen entrades i origen?",
+              "Es contrasten contactes i respostes?",
+              "No duplicar crèdit d’outreach assistit pel web"
+            ],
+            [
+              "Restriccions",
+              "Quin accés, mitjans, desenvolupament i aprovació?",
+              "Quines dades, sistemes i abast de canal?",
+              "Comparar abast complet i dependències"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Decideix amb evidències d’accés i demanda",
+        "body": [
+          "Si s’identifiquen empreses i funcions concretes i l’oferta és clara, outbound pot servir per a una primera prova de converses pertinents. Necessita recerca, límits d’autorització, capacitat de resposta i vendes receptores. Una llista no demostra interès.",
+          "Si ja hi ha consultes pertinents i pàgines que poden respondre millor, millorar inbound pot ser la primera acció més sòlida. Volum no prova encaix, posicions ni reserves; cerca pagada i orgànica tampoc tenen requisits idèntics.",
+          "Quan faltin proves, investiga la incertesa. Ajornar amb raons és millor que triar per estereotips."
+        ]
+      },
+      {
+        "heading": "Compara costos complets i condicions d’aprenentatge",
+        "body": [
+          "Utilitza mateix període i abast: gestió, mitjans, programari/dades, contingut/desenvolupament i temps comercial intern per separat. Aclareix inclusions i propietat dels actius. No comparis honoraris outbound amb només despesa publicitària ni SEO amb tot un equip comercial.",
+          "Tots dos necessiten oferta clara, proves creïbles, segmentació precisa, execució aprovada i pas següent real. Contacte directe no elimina compres ni cicle comercial. Tenir exposició inbound vol dir que SEO no sempre comença de zero.",
+          "No inventis cost per lead, terminis ni previsions universals. Completa supòsits amb evidència pròpia i separa reserva, assistència i qualificació. Les condicions actuals de Beespoke són a preus i serveis."
+        ],
+        "links": [
+          {
+            "href": "/pricing/",
+            "label": "Veure condicions i inclusions actuals"
+          },
+          {
+            "href": "/compare/b2b-seo-vs-ppc/",
+            "label": "Comparar SEO i PPC dins l’inbound"
+          }
+        ]
+      },
+      {
+        "heading": "Quatre decisions fictícies i què les canviaria",
+        "body": [
+          "Totes les situacions són inventades per explicar raonament, no resultats de clients ni regles universals."
+        ],
+        "table": {
+          "caption": "Tries condicionals B2B",
+          "headers": [
+            "Situació",
+            "Evidències i dubtes",
+            "Primera tria",
+            "Què la canviaria"
+          ],
+          "rows": [
+            [
+              "Mercat petit conegut",
+              "Comptes/funcions identificables; oferta aprovada; respostes assignades; cerca no avaluada",
+              "Prova outbound acotada amb pàgines de servei/proves correctes",
+              "Mal encaix, respostes immanejables o nova demanda pertinent"
+            ],
+            [
+              "Cerca activa existent",
+              "Consultes/exposició pertinents; mancança demostrada de resposta; vendes llestes",
+              "Millorar recorregut inbound i mesura existents",
+              "Intenció diferent, compradors inaccessibles o oportunitat per comptes diferenciada"
+            ],
+            [
+              "Oferta no validada",
+              "Problema, proves i responsabilitats pendents",
+              "Ajornar escalat; aclarir oferta i encaix",
+              "Noves evidències creïbles i execució aprovada"
+            ],
+            [
+              "Trànsit sense progressió útil",
+              "Visites pertinents; error de control o abast; atribució incompleta",
+              "Reparar conversió/mesura abans de comprar més trànsit",
+              "Després de reparar, dades madures mostren manca real d’adquisició"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Combina sense comptar dues vegades el mateix comprador",
+        "body": [
+          "Un destinatari outbound pot revisar servei i guia abans de reservar. El web ajuda, però no esdevé automàticament l’origen d’adquisició. Un comprador que descobreix el lloc independentment també pot rebre seguiment comercial. Conserva seqüència coneguda i dubtes.",
+          "Comparteix actius que responen preguntes: abast, proves, tasques, comparacions i preparació. No cal una biblioteca duplicada per campanya. Un enllaç útil no demostra que hagi provocat reserva.",
+          "Relaciona creació original quan sigui possible i separa repeticions, reprogramacions, cancel·lacions, trucades i qualificació. Exclou auditories abans d’interpretar creixement de sessions com a prospectes."
+        ]
+      },
+      {
+        "heading": "Una primera prova amb responsable i condició d’aturada",
+        "body": [
+          "Registra públic, hipòtesi, abast, requisits, aprovació, capacitat, pas següent, origen i revisió. Revisa una mostra aprovada o una correcció concreta de pàgina. Indica quan pausar per encaix, proves o capacitat.",
+          "Compara períodes complets i qualitat rere les xifres. Pocs clics o respostes poden revelar un error sense permetre taxa esperada precisa. No augmentis activitat per amagar una oferta o traspàs pendents."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-sales-prospecting-plan/",
+            "label": "Planificar programa outbound i traspàs"
+          },
+          {
+            "href": "/guides/b2b-conversion-rate-optimization/",
+            "label": "Diagnosticar fricció de visita a consulta"
+          }
+        ]
+      },
+      {
+        "heading": "Ajusta l’abast real del proveïdor a la decisió",
+        "body": [
+          "Demana responsables, comptes/pàgines, fonts, exclusions, aprovacions i traspàs. Encara que vengui un mecanisme, ha d’explicar quan convé un altre o una reparació prèvia.",
+          "Outbound de Beespoke cobreix cold email i/o LinkedIn en fred; trucades a part segons mercat. Inbound tracta Google Ads, SEO i AEO amb abast acordat. El client dirigeix descoberta, propostes i tancament. La comparació no afegeix SDR dedicat, tots els canals ni resultats garantits."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Veure outbound gestionat"
+          },
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Veure SEO B2B gestionat"
+          },
+          {
+            "href": "/services/b2b-ppc-agency/",
+            "label": "Veure PPC gestionat"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Què és millor en B2B?",
+        "answer": "No hi ha guanyador universal. Revisa accés, demanda, oferta/proves, actius, capacitat, abast i resultats amb origen. Pot convenir reparar una dependència abans de captar més."
+      },
+      {
+        "question": "Outbound sempre és més ràpid?",
+        "answer": "No. Recerca, aprovació, sistemes, respostes i compra continuen important. Contacte directe no garanteix interès ni escurça tots els cicles."
+      },
+      {
+        "question": "Es poden combinar?",
+        "answer": "Sí, amb responsabilitats, actius i mesura coherents. Separa adquisició original i ajuda posterior per no comptar una persona com dos èxits."
+      },
+      {
+        "question": "Una reserva web després d’outreach és orgànica?",
+        "answer": "No automàticament. Registra origen i seqüència. No reclassifiquis outbound com a orgànic perquè l’últim pas va passar al web."
+      },
+      {
+        "question": "És el mateix que SEO o PPC?",
+        "answer": "SEO/PPC compara opcions dins cerca inbound. Inbound/outbound compara atracció i inici del contacte; demanda/leads compara objectius."
+      },
+      {
+        "question": "La matriu llança campanyes o recull notes?",
+        "answer": "No. Crea informe local i CSV/impressió, no envia dades i les perd en recarregar."
+      }
+    ],
+    "related": [
+      "/services/outbound-lead-generation/",
+      "/services/b2b-seo-agency/",
+      "/services/b2b-ppc-agency/",
+      "/compare/b2b-seo-vs-ppc/",
+      "/guides/b2b-lead-generation-audit/",
+      "/compare/lead-generation-vs-demand-generation/"
+    ],
+    "sources": [
+      {
+        "label": "Blend: inbound versus outbound lead generation",
+        "href": "https://www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities"
+      },
+      {
+        "label": "Thomas: inbound versus outbound leads",
+        "href": "https://blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "Les pàgines enllaçades dels autors permeten comparar mètodes. La fitxa, regles i exemples són ajudes de planificació de Beespoke. Empreses, xifres i resultats d’exemple són ficticis; no són resultats de clients, referències universals ni promeses de rànquing. Fonts revisades el 27 d’octubre de 2026.",
+    "heroSecondary": {
+      "label": "Utilitza la matriu de captació",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utilitza la matriu de captació",
+      "eyebrow": "Eina sense registre",
+      "heading": "Registra evidències per triar la combinació",
+      "intro": "Compara condicions del comprador i de l’equip. La matriu fictícia completa mostra outbound primer, inbound primer, ajornament i reparació. Exporta raons; no calcula una puntuació opaca.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidències",
+          "body": "Registra què saps i d’on prové. Conserva allò desconegut."
+        },
+        {
+          "label": "2",
+          "heading": "Decisió",
+          "body": "Explica tria, alternativa i aprovació necessària."
+        },
+        {
+          "label": "3",
+          "heading": "Responsable",
+          "body": "Indica acció, responsable i revisió. Exporta abans de sortir."
+        }
+      ],
+      "note": "Afegeix fins a 50 entrades, carrega l’exemple fictici complet i crea un informe per descarregar CSV local o imprimir. La fitxa no envia ni desa dades. Recarregar esborra els camps. No executa campanyes, audita llocs reals ni verifica les etiquetes."
+    },
+    "workbook": {
+      "fields": [
+        "Situació o criteri de decisió",
+        "Accés, demanda i origen coneguts",
+        "Oportunitat inbound, dependència i dubtes",
+        "Oportunitat outbound, dependència i dubtes",
+        "Tria condicional, raó i canvi de criteri",
+        "Responsable, abast/aprovació, capacitat i revisió"
+      ],
+      "samples": [
+        [
+          "Mercat conegut fictici",
+          "Comptes/funcions identificables; oferta clara; cerca no avaluada",
+          "Mantenir pàgines correctes; potencial desconegut",
+          "Recerca/respostes llestes; aprovació necessària",
+          "Prova acotada; revisar si falla encaix/capacitat",
+          "Comercial/recerca/vendes; prova i revisió acordades"
+        ],
+        [
+          "Cerca activa fictícia",
+          "Exposició pertinent; resposta incompleta",
+          "Millorar pàgina i pas següent; conservar URL",
+          "Oportunitat per comptes no avaluada",
+          "Inbound primer; revisar intenció real",
+          "SEO/edició/vendes; cohort madura amb origen"
+        ],
+        [
+          "Oferta fictícia no validada",
+          "Problema/proves/tasques pendents",
+          "Més pàgines no validen afirmació inventada",
+          "Més contacte no substitueix encaix",
+          "Ajornar escalat; aclarir requisits",
+          "Comercial aprova oferta i proves abans d’executar"
+        ],
+        [
+          "Error fictici de progressió",
+          "Visites pertinents; error de control/abast",
+          "Reparar conversió/mesura abans de trànsit",
+          "Més outreach pot portar al mateix error",
+          "Corregir restricció observada primer",
+          "Desenvolupament/edició/analítica; reproduir i retestar"
+        ],
+        [
+          "Recorregut combinat fictici",
+          "Outreach→servei→guia→reserva",
+          "Web va ajudar a avaluar",
+          "Outbound va iniciar contacte",
+          "Una adquisició amb ajuda, no dues",
+          "Analista; creació/origen i incertesa"
+        ],
+        [
+          "Abast i revisió",
+          "Mateix període, costos complets i resultats separats",
+          "Mitjans/contingut/desenvolupament/gestió explícits",
+          "Dades/sistemes/recerca/respostes/vendes explícits",
+          "Prova mínima justificada; sense cost/termini universal",
+          "Aprovar capacitat/abast; resultats qualificats"
+        ]
+      ],
+      "legend": "Inbound o outbound B2B: tria la combinació de captació",
+      "reportTitle": "Registra evidències per triar la combinació"
+    },
+    "decisionGuide": {
+      "heading": "Abans d’actuar",
+      "body": [
+        "Tria l’acció següent justificada, no un canal per sempre. Resol encaix, proves, capacitat i mesura abans de confondre activitat amb progrés comercial."
+      ],
+      "items": [
+        "Confirma la pregunta de compra i les evidències.",
+        "Conserva el canvi mínim justificat i els dubtes.",
+        "Assigna responsable, aprovació i comprovació útil.",
+        "Avalua resultats pertinents madurs, no només activitat."
+      ]
+    }
+  },
+  "fr": {
+    "path": "/compare/inbound-vs-outbound-lead-generation/",
+    "serviceFamily": "inbound",
+    "title": "Génération de leads inbound ou outbound : choisir sa combinaison B2B | Beespoke",
+    "description": "Comparez inbound et outbound selon accès aux acheteurs, demande, offre, capacité et attribution. Quatre décisions fictives et une matrice privée de préparation.",
+    "eyebrow": "Choisir un mécanisme d’acquisition avec des preuves",
+    "h1": "Génération de leads inbound ou outbound : choisir sa combinaison B2B",
+    "answer": "L’inbound attire des personnes vers une information ou une offre utile ; l’outbound initie le contact avec des comptes et rôles sélectionnés. La combinaison dépend d’accès aux acheteurs, demande existante, clarté de l’offre, preuves, capacité et travail soutenable. Comparez ces conditions avant activité ou coûts isolés. Les deux peuvent participer à un parcours : distinguez acquisition initiale et aide ultérieure du site.",
+    "sections": [
+      {
+        "heading": "Séparer mécanisme et objectif commercial",
+        "body": [
+          "Inbound et outbound décrivent le début de la relation. Génération de demande et de leads décrivent des objectifs, comme créer la connaissance ou convertir l’intérêt en demande pertinente. Ces comparaisons ne sont pas interchangeables ; chaque mécanisme peut soutenir plusieurs objectifs.",
+          "Un guide en recherche peut introduire une approche inconnue ; une question directe peut révéler une demande active. Ne réduisez pas inbound à une éducation lente, ni outbound à des rendez-vous immédiats."
+        ],
+        "links": [
+          {
+            "href": "/compare/lead-generation-vs-demand-generation/",
+            "label": "Comparer création de demande et capture de l’intérêt"
+          }
+        ]
+      },
+      {
+        "heading": "Les exigences pratiques des deux approches",
+        "body": [
+          "L’inbound exige des pages découvrables et utiles, une offre pertinente et une suite cohérente. SEO, publicité de recherche et contenu ont des dépendances différentes. L’outbound exige adéquation défendable, rôles pertinents, preuves autorisées, messages approuvés et traitement des réponses/transmissions."
+        ],
+        "table": {
+          "caption": "Mécanismes et dépendances",
+          "headers": [
+            "Condition",
+            "Question inbound",
+            "Question outbound",
+            "Conséquence"
+          ],
+          "rows": [
+            [
+              "Accès",
+              "Les acheteurs cherchent-ils ou fréquentent-ils des sources pertinentes ?",
+              "Peut-on identifier les comptes et rôles adaptés ?",
+              "Aucun mécanisme ne définit un public inconnu"
+            ],
+            [
+              "Offre/preuves",
+              "La page explique-t-elle une offre crédible ?",
+              "Existe-t-il une raison véridique de pertinence ?",
+              "Résoudre la faiblesse avant développement"
+            ],
+            [
+              "Actifs",
+              "Des pages ont-elles déjà une exposition utile ?",
+              "Recherche, expéditeur et réponses sont-ils prêts ?",
+              "Partir des actifs réels, pas d’un zéro supposé"
+            ],
+            [
+              "Capacité",
+              "Qui gère contenu, exécution et demandes ?",
+              "Qui recherche, approuve, répond et transmet ?",
+              "Un prospect sans réponse n’est pas un succès"
+            ],
+            [
+              "Mesure",
+              "Peut-on relier entrées et sources ?",
+              "Peut-on rapprocher contacts et réponses ?",
+              "Ne pas doubler le crédit d’une prospection assistée par le site"
+            ],
+            [
+              "Contraintes",
+              "Quels accès, médias, développement et accords ?",
+              "Quelles données, systèmes et canaux ?",
+              "Comparer périmètre complet et dépendances"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Décider à partir de l’accès et de la demande",
+        "body": [
+          "Si des entreprises et rôles précis sont identifiables et l’offre claire, l’outbound peut constituer un premier test de conversations pertinentes. Recherche, autorisations, réponses et responsable commercial récepteur restent nécessaires. Une liste ne prouve pas l’intérêt.",
+          "Si des questions pertinentes et des pages exposées existent déjà, améliorer l’inbound peut être le premier travail le plus solide. Le volume ne prouve ni adéquation, ni positions, ni réservations ; recherche payante et organique ont aussi des besoins différents.",
+          "Quand les preuves manquent, faites de l’incertitude la prochaine recherche. Différer avec des raisons vaut mieux que choisir un stéréotype."
+        ]
+      },
+      {
+        "heading": "Comparer les coûts complets et les conditions d’apprentissage",
+        "body": [
+          "Utilisez même période et périmètre : gestion, médias, logiciels/données, contenu/développement et temps commercial interne séparés. Précisez inclusions et propriété des actifs. Ne comparez pas honoraires outbound au seul achat média, ni SEO à une équipe commerciale complète.",
+          "Les deux requièrent offre claire, preuves crédibles, ciblage précis, exécution approuvée et suite réelle. Le contact direct ne supprime ni achats ni cycle commercial. Une exposition inbound existante signifie que le SEO ne commence pas toujours de zéro.",
+          "N’inventez ni coût par lead, ni calendrier, ni prévision universels. Utilisez vos preuves et séparez réservation, présence et qualification. Les conditions Beespoke actuelles figurent dans les pages tarifs et services."
+        ],
+        "links": [
+          {
+            "href": "/pricing/",
+            "label": "Consulter conditions et inclusions actuelles"
+          },
+          {
+            "href": "/compare/b2b-seo-vs-ppc/",
+            "label": "Comparer SEO et PPC au sein de l’inbound"
+          }
+        ]
+      },
+      {
+        "heading": "Quatre décisions fictives et leurs conditions de révision",
+        "body": [
+          "Toutes les situations sont inventées pour expliquer le raisonnement, pas des résultats clients ni des règles universelles."
+        ],
+        "table": {
+          "caption": "Choix B2B conditionnels",
+          "headers": [
+            "Situation",
+            "Preuves et inconnues",
+            "Premier choix",
+            "Ce qui le changerait"
+          ],
+          "rows": [
+            [
+              "Marché étroit connu",
+              "Comptes/rôles identifiables ; offre approuvée ; réponses attribuées ; recherche non évaluée",
+              "Test outbound délimité, avec pages de service/preuve exactes",
+              "Mauvaise adéquation, surcharge ou nouvelle demande pertinente"
+            ],
+            [
+              "Recherche active existante",
+              "Requêtes/exposition pertinentes ; réponse incomplète démontrée ; ventes prêtes",
+              "Améliorer parcours inbound et mesure existants",
+              "Autre intention, acheteurs inaccessibles ou occasion distincte par comptes"
+            ],
+            [
+              "Offre non validée",
+              "Problème, preuves et responsabilités non résolus",
+              "Différer le développement ; clarifier offre et adéquation",
+              "Nouvelles preuves crédibles et exécution approuvée"
+            ],
+            [
+              "Trafic sans suite utile",
+              "Visites pertinentes ; défaut de commande ou périmètre ; attribution partielle",
+              "Réparer conversion/mesure avant plus de trafic",
+              "Après réparation, résultats mûrs montrent un vrai manque d’acquisition"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Combiner sans compter deux fois le même acheteur",
+        "body": [
+          "Un destinataire outbound peut consulter service et guide avant de réserver. Le site aide, mais ne devient pas automatiquement source initiale. Un acheteur qui découvre le site indépendamment peut ensuite recevoir un suivi commercial. Gardez séquence connue et inconnues.",
+          "Partagez les actifs qui répondent aux questions : périmètre, preuves, tâches, comparaisons et préparation. Une bibliothèque dupliquée par campagne n’est pas nécessaire. Un lien utile ne prouve pas une réservation causée.",
+          "Rapprochez création originale lorsque possible et séparez répétitions, déplacements, annulations, appels et qualification. Excluez les audits avant d’interpréter croissance des sessions comme prospects."
+        ]
+      },
+      {
+        "heading": "Un premier test avec responsable et condition d’arrêt",
+        "body": [
+          "Consignez public, hypothèse, périmètre, prérequis, accord, capacité, suite, source et revue. Examinez un échantillon approuvé ou une correction précise de page. Indiquez quand mettre en pause pour défaut d’adéquation, preuve ou capacité.",
+          "Comparez périodes complètes et qualité derrière les nombres. Quelques clics ou réponses peuvent révéler un défaut sans permettre un taux attendu précis. N’augmentez pas l’activité pour masquer une offre ou un relais non résolus."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-sales-prospecting-plan/",
+            "label": "Préparer programme outbound et transmission"
+          },
+          {
+            "href": "/guides/b2b-conversion-rate-optimization/",
+            "label": "Diagnostiquer friction de la visite à la demande"
+          }
+        ]
+      },
+      {
+        "heading": "Adapter le vrai périmètre du prestataire à la décision",
+        "body": [
+          "Demandez responsables, comptes/pages, sources, exclusions, accords et relais. Même s’il vend un seul mécanisme, il doit expliquer quand un autre ou une réparation préalable convient.",
+          "L’outbound Beespoke concerne l’email à froid et/ou LinkedIn à froid ; les appels sont chiffrés séparément par marché. L’inbound couvre Google Ads, SEO et AEO dans un périmètre convenu. Le client mène découverte, propositions et conclusion. Cette comparaison n’ajoute ni SDR dédié, ni tous les canaux, ni résultats garantis."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Voir l’outbound géré"
+          },
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Voir le SEO B2B géré"
+          },
+          {
+            "href": "/services/b2b-ppc-agency/",
+            "label": "Voir le PPC géré"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Quelle approche est meilleure en B2B ?",
+        "answer": "Aucun gagnant universel. Examinez accès, demande, offre/preuves, actifs, capacité, périmètre et résultats avec sources. Il peut être préférable de réparer un prérequis avant plus d’acquisition."
+      },
+      {
+        "question": "L’outbound est-il toujours plus rapide ?",
+        "answer": "Non. Recherche, accords, systèmes, réponses et décision d’achat restent déterminants. Le contact direct ne garantit ni intérêt ni raccourcissement de chaque cycle."
+      },
+      {
+        "question": "Peut-on les combiner ?",
+        "answer": "Oui, avec responsabilités, actifs et mesure cohérents. Distinguez acquisition initiale et aide ultérieure pour ne pas compter une personne comme deux réussites."
+      },
+      {
+        "question": "Une réservation sur le site après prospection est-elle organique ?",
+        "answer": "Pas automatiquement. Notez origine et séquence. Ne requalifiez pas l’outbound en organique parce que la dernière étape a eu lieu sur le site."
+      },
+      {
+        "question": "Est-ce la même comparaison que SEO ou PPC ?",
+        "answer": "SEO/PPC compare des options au sein de la recherche inbound. Inbound/outbound compare attraction et initiation du contact ; demande/leads compare des objectifs."
+      },
+      {
+        "question": "La matrice lance-t-elle des campagnes ou collecte-t-elle les notes ?",
+        "answer": "Non. Rapport local et CSV/impression uniquement ; aucune donnée envoyée et les champs disparaissent au rechargement."
+      }
+    ],
+    "related": [
+      "/services/outbound-lead-generation/",
+      "/services/b2b-seo-agency/",
+      "/services/b2b-ppc-agency/",
+      "/compare/b2b-seo-vs-ppc/",
+      "/guides/b2b-lead-generation-audit/",
+      "/compare/lead-generation-vs-demand-generation/"
+    ],
+    "sources": [
+      {
+        "label": "Blend: inbound versus outbound lead generation",
+        "href": "https://www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities"
+      },
+      {
+        "label": "Thomas: inbound versus outbound leads",
+        "href": "https://blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "Les pages des éditeurs liés éclairent la comparaison des méthodes. La fiche, les règles et exemples sont des aides de préparation de Beespoke. Entreprises, chiffres et résultats d’exemple sont fictifs ; aucun résultat client, référence universelle ou classement promis. Sources examinées le 27 octobre 2026.",
+    "heroSecondary": {
+      "label": "Utiliser la matrice d’acquisition",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Utiliser la matrice d’acquisition",
+      "eyebrow": "Outil sans inscription",
+      "heading": "Consigner les preuves du choix d’acquisition",
+      "intro": "Comparez les conditions de l’acheteur et de l’équipe. La matrice fictive complète couvre outbound d’abord, inbound d’abord, attente et réparation. Exportez les raisons ; aucune note opaque.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Preuves",
+          "body": "Consignez ce que vous savez et sa source. Conservez les inconnues."
+        },
+        {
+          "label": "2",
+          "heading": "Décision",
+          "body": "Expliquez choix, alternative et approbation requise."
+        },
+        {
+          "label": "3",
+          "heading": "Responsabilité",
+          "body": "Précisez action, responsable et revue. Exportez avant de partir."
+        }
+      ],
+      "note": "Ajoutez jusqu’à 50 entrées, chargez l’exemple fictif complet et créez un rapport pour télécharger un CSV local ou imprimer. La fiche n’envoie ni ne conserve les données. Le rechargement efface les champs. Elle n’exécute pas de campagne, n’audite pas de site réel et ne vérifie pas vos étiquettes."
+    },
+    "workbook": {
+      "fields": [
+        "Situation ou critère de décision",
+        "Accès, demande et source connus",
+        "Possibilité inbound, dépendance et inconnues",
+        "Possibilité outbound, dépendance et inconnues",
+        "Choix conditionnel, raison et condition de révision",
+        "Responsable, périmètre/accord, capacité et revue"
+      ],
+      "samples": [
+        [
+          "Marché connu fictif",
+          "Comptes/rôles identifiables ; offre claire ; recherche non évaluée",
+          "Conserver des pages fiables ; potentiel inconnu",
+          "Recherche/réponses prêtes ; accord requis",
+          "Test délimité ; réviser si inadéquation/surcharge",
+          "Commercial/recherche/ventes ; test et revue convenus"
+        ],
+        [
+          "Recherche active fictive",
+          "Exposition pertinente ; réponse incomplète",
+          "Améliorer page et suite ; garder URL",
+          "Occasion par comptes non évaluée",
+          "Inbound d’abord ; examiner intention réelle",
+          "SEO/édition/ventes ; cohorte mûre avec sources"
+        ],
+        [
+          "Offre fictive non validée",
+          "Problème/preuves/tâches non résolus",
+          "Plus de pages ne valide pas une affirmation inventée",
+          "Plus de contact ne remplace pas adéquation",
+          "Différer développement ; clarifier prérequis",
+          "Commercial approuve offre et preuves"
+        ],
+        [
+          "Défaut fictif de progression",
+          "Visites pertinentes ; défaut commande/périmètre",
+          "Réparer conversion/mesure avant trafic",
+          "Plus de prospection peut rencontrer le même défaut",
+          "Corriger contrainte observée d’abord",
+          "Développement/édition/analytique ; reproduire et retester"
+        ],
+        [
+          "Parcours combiné fictif",
+          "Prospection→service→guide→réservation",
+          "Site a aidé l’évaluation",
+          "Outbound a initié contact",
+          "Une acquisition assistée, pas deux",
+          "Analyste ; création/source et inconnues"
+        ],
+        [
+          "Périmètre et revue",
+          "Même période, coûts complets et résultats distincts",
+          "Médias/contenu/développement/gestion explicites",
+          "Données/systèmes/recherche/réponses/ventes explicites",
+          "Plus petit test justifié ; aucun coût/délai universel",
+          "Accord capacité/périmètre ; résultats qualifiés"
+        ]
+      ],
+      "legend": "Génération de leads inbound ou outbound : choisir sa combinaison B2B",
+      "reportTitle": "Consigner les preuves du choix d’acquisition"
+    },
+    "decisionGuide": {
+      "heading": "Avant d’agir",
+      "body": [
+        "Choisissez la prochaine action justifiée, pas une fidélité permanente à un canal. Résolvez adéquation, preuves, capacité et mesure avant de confondre activité et progrès commercial."
+      ],
+      "items": [
+        "Confirmez la question d’achat et les preuves.",
+        "Gardez l’action minimale justifiée et les inconnues.",
+        "Attribuez responsable, approbation et contrôle utile.",
+        "Mesurez des résultats pertinents mûrs, pas seulement l’activité."
+      ]
+    }
+  }
+}

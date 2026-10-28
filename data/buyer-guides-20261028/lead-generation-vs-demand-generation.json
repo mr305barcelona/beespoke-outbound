@@ -1,0 +1,1362 @@
+{
+  "en": {
+    "path": "/compare/lead-generation-vs-demand-generation/",
+    "serviceFamily": "inbound",
+    "title": "Lead Generation vs Demand Generation: Diagnose the B2B Need | Beespoke",
+    "description": "Do you need awareness, relevant enquiries or better qualification? Compare demand and lead generation with four fictional diagnoses and a private decision workbook.",
+    "eyebrow": "Choose the objective before the activity",
+    "h1": "Lead generation vs demand generation: what does your B2B pipeline need?",
+    "answer": "Demand generation builds awareness, understanding and preference among relevant buyers. Lead generation turns relevant interest into identifiable enquiries or sales conversations. Their activities can overlap, and neither guarantees qualified opportunities. Choose the next objective by diagnosing the actual constraint: awareness, relevance, conversion, qualification or sales handoff. A larger contact database is not automatically more demand, and more enquiries are not automatically better meetings.",
+    "sections": [
+      {
+        "heading": "Use working definitions without turning them into rigid silos",
+        "body": [
+          "Marketing teams use these labels differently. For this comparison, demand generation concerns why the right audience notices, understands and considers an offer; lead generation concerns how relevant interest becomes an identifiable commercial next step. Make your own team’s definitions explicit before choosing metrics or suppliers.",
+          "Demand generation is not synonymous with ungated content, and lead generation is not synonymous with forms. A useful conversation can identify interest without a download gate. A form can collect details from people who have no relevant buying problem."
+        ]
+      },
+      {
+        "heading": "Compare objectives, outputs and evidence",
+        "body": [
+          "Ask what must change for the buyer, not only what activity the team can produce."
+        ],
+        "table": {
+          "caption": "Objectives and evidence",
+          "headers": [
+            "Dimension",
+            "Demand generation",
+            "Lead generation",
+            "What to avoid"
+          ],
+          "rows": [
+            [
+              "Buyer task",
+              "Understand problem, options and a credible offer",
+              "Express relevant interest or arrange a useful next step",
+              "Assuming every impression or form fill means intent"
+            ],
+            [
+              "Useful output",
+              "Clear education, relevant reach, corroboration and preference-building assets",
+              "Relevant enquiry, agreed follow-up, booking or qualified handoff",
+              "Treating a database as the outcome"
+            ],
+            [
+              "Evidence",
+              "Relevant audience exposure, real questions and bounded signs of understanding or consideration",
+              "Source-aware original enquiries/bookings, held calls and agreed qualification",
+              "Attributing all pipeline to one channel from an aggregate report"
+            ],
+            [
+              "Responsibility",
+              "Accurate positioning, useful proof and appropriate distribution",
+              "Conversion path, reply handling, qualification and sales ownership",
+              "Increasing activity while leaving the receiving process broken"
+            ],
+            [
+              "Time and cost",
+              "Depend on market, assets, audience access and learning conditions",
+              "Depend on active interest, offer, response capacity and decision process",
+              "Universal timelines, budget splits or cost-per-lead promises"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Keep inbound and outbound as a separate choice",
+        "body": [
+          "Inbound and outbound describe the acquisition mechanism, not the business objective. A useful search guide may introduce an unfamiliar solution, while an outbound question may reveal existing interest. Either can support education, evaluation or a relevant commercial next step.",
+          "Choose the mechanism from buyer access, demand, offer readiness and capacity after you know what is missing. Calling all content “demand generation” and all direct contact “lead generation” hides the actual work and may distort attribution."
+        ],
+        "links": [
+          {
+            "href": "/compare/inbound-vs-outbound-lead-generation/",
+            "label": "Choose the acquisition mechanism separately"
+          }
+        ]
+      },
+      {
+        "heading": "Diagnose where qualified conversations are being lost",
+        "body": [
+          "Start with fit: are the intended companies and roles present? Next ask whether they understand the problem and offer, can evaluate credible evidence, can take a useful next step and receive an appropriate commercial response. Keep missing evidence visible at each stage.",
+          "Relevant traffic with a demonstrated booking failure is a different constraint from an unfamiliar offer with no validated audience. More awareness will not repair a broken button; another form field will not create genuine buyer relevance. These are examples of separate problems, not proof of the cause on your site."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Audit the complete acquisition and sales-handoff path"
+          }
+        ]
+      },
+      {
+        "heading": "Four complete fictional diagnoses",
+        "body": [
+          "Every situation below is invented for training. No client performance or conversion benchmark is claimed."
+        ],
+        "table": {
+          "caption": "Fictional bottleneck decisions",
+          "headers": [
+            "Situation",
+            "Evidence and unknowns",
+            "First objective and action",
+            "What we would not conclude"
+          ],
+          "rows": [
+            [
+              "Unfamiliar relevant offer",
+              "Suitable roles identified; explanation and proof do not answer their basic questions; demand scale unassessed",
+              "Clarify the problem, offer and credible evidence; test whether the intended audience understands",
+              "Not “publish more articles and revenue will follow”"
+            ],
+            [
+              "Existing relevant interest, broken progression",
+              "Appropriate queries/visits observed; contact control fails in a reproducible test",
+              "Repair the contact path and verify source-aware enquiries before more acquisition",
+              "Not “demand is absent” from low recorded bookings"
+            ],
+            [
+              "Many downloads, wrong audience",
+              "Submissions mainly describe jobs or learning; buyer qualification not established",
+              "Revisit audience and offer relevance; separate resource users from commercial leads",
+              "Not “the larger list proves more demand”"
+            ],
+            [
+              "Relevant enquiries, weak handoff",
+              "Fit and interest confirmed; response ownership unclear; held/qualified progression incomplete",
+              "Assign timely response and agreed qualification; transfer real context to sales",
+              "Not “marketing must generate more leads” before fixing the workflow"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Choose a next step that earns the information it asks for",
+        "body": [
+          "A guide, comparison, worked example or ungated tool can help a buyer evaluate an offer. A form or call can be appropriate when its purpose and value are clear. Decide from the buyer task and privacy expectations rather than gating every asset or insisting every reader book immediately.",
+          "State what happens after contact, who responds and what information is genuinely needed. Avoid collecting fields merely because they are easy to add. Keep qualification proportionate to the agreed service and do not quietly introduce new mandatory hurdles into an existing booking flow.",
+          "A useful preparation asset can assist both demand and lead-generation work. Its low search volume or lack of a form does not automatically make it commercially irrelevant."
+        ]
+      },
+      {
+        "heading": "Define metrics that cannot hide poor fit",
+        "body": [
+          "Keep audience exposure, visits, downloads, contact records, relevant enquiries, original-created bookings, calls held and qualified outcomes separate. Define MQL, SQL or accepted opportunity with the receiving team; no universal label automatically establishes budget, authority or fit.",
+          "Reconcile actual sources where evidence permits. A prospect initiated through outreach who later reads a guide and books is not automatically website-acquired. A reschedule is not a new lead. Unknown origins stay unknown, and testing traffic must be excluded before interpreting visitor growth.",
+          "An increase in form fills can coexist with fewer relevant conversations. Conversely, fewer low-fit submissions can coexist with more useful meetings. Inspect the quality and coverage behind the counts before claiming success or forecasting a steady weekly volume."
+        ]
+      },
+      {
+        "heading": "Allocate effort from the constraint and compare the same scope",
+        "body": [
+          "Record which problem the proposed work addresses, what evidence supports it, what must be approved, who implements and what result can actually be assessed. Compare the same period and include internal work, operating fees, content/development, media and software/data dependencies where applicable.",
+          "Do not prescribe a universal demand-versus-lead budget split. Some assets and operating work serve both objectives, so allocating every outcome exclusively to one bucket can double-count costs or contributions. Keep shared assumptions explicit.",
+          "Agree stopping and review conditions: if fit fails, revisit the audience; if the source or progression is unmeasured, fix measurement; if a control fails, repair it. A small sample may identify a defect without supporting a reliable conversion forecast."
+        ]
+      },
+      {
+        "heading": "Commission a bounded deliverable rather than a label",
+        "body": [
+          "Ask a provider to explain the constraint, buyer role, permitted proof, proposed asset or execution, responsibilities, useful next step and measurement limits. The deliverable should change a buyer decision or repair a demonstrated process, not merely increase content output or contact counts.",
+          "Beespoke’s existing scope covers managed cold email and/or cold LinkedIn outbound and agreed Google Ads, SEO and AEO inbound work. Calling is separately quoted by market; the client owns discovery, proposals and closing. This page does not imply a full brand, PR, event, paid-social or dedicated SDR programme.",
+          "Use the workbook to document the decision and dependencies before execution. It provides no automated audit, campaign launch, score or guaranteed result."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Review managed outbound scope"
+          },
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Review managed SEO scope"
+          },
+          {
+            "href": "/guides/b2b-conversion-rate-optimization/",
+            "label": "Examine visitor-to-enquiry friction"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is demand generation the same as inbound?",
+        "answer": "No. Demand generation is an objective; inbound is an acquisition mechanism. Inbound and outbound can both support understanding, evaluation and relevant commercial interest."
+      },
+      {
+        "question": "Is lead generation just collecting form fills?",
+        "answer": "No. The useful outcome is an identifiable relevant enquiry or conversation under agreed definitions. A form fill alone does not establish buyer fit, intent or a qualified opportunity."
+      },
+      {
+        "question": "Should every asset be gated?",
+        "answer": "No. Choose the next step from the buyer task, value and privacy expectations. Ungated decision help can be useful; a clear form can also be appropriate. Avoid making contact details the only measure of value."
+      },
+      {
+        "question": "What do MQL and SQL mean here?",
+        "answer": "Use explicit company-specific definitions agreed with sales. Record the evidence and unknowns behind each label rather than treating the acronym as proof of authority, budget or readiness."
+      },
+      {
+        "question": "How should we split the budget?",
+        "answer": "There is no universal split. Diagnose the constraint, compare the same scope and period, include shared work and dependencies and choose a justified test before scaling."
+      },
+      {
+        "question": "How do we know which objective worked?",
+        "answer": "Use matched complete periods and the relevant evidence at each stage, including genuine source-aware bookings, attendance and qualification. Preserve unknowns and do not infer causation from a small before-and-after sample."
+      }
+    ],
+    "related": [
+      "/guides/b2b-lead-generation-audit/",
+      "/compare/inbound-vs-outbound-lead-generation/",
+      "/guides/b2b-conversion-rate-optimization/",
+      "/services/outbound-lead-generation/",
+      "/services/b2b-seo-agency/"
+    ],
+    "sources": [
+      {
+        "label": "Cognism: demand generation versus lead generation",
+        "href": "https://www.cognism.com/blog/demand-generation-vs-lead-generation"
+      },
+      {
+        "label": "Salesforce: demand generation versus lead generation",
+        "href": "https://www.salesforce.com/blog/sales/demand-generation-vs-lead-generation/"
+      },
+      {
+        "label": "ZoomInfo: demand generation versus lead generation",
+        "href": "https://pipeline.zoominfo.com/marketing/demand-generation-vs-lead-generation"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "The linked primary publisher pages inform the comparison of methods. The workbook, decision rules and worked examples are Beespoke planning help. All sample businesses, counts and outcomes are fictional; no client result, universal benchmark or ranking promise is claimed. Sources reviewed October 27, 2026.",
+    "heroSecondary": {
+      "label": "Diagnose the bottleneck",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Diagnose the bottleneck",
+      "eyebrow": "Ungated working tool",
+      "heading": "Choose the next objective from the constraint",
+      "intro": "Diagnose the constraint before choosing the label. The complete fictional workbook covers awareness, a broken conversion path, the wrong audience, sales handoff, channel choice and measurement. Export the reasoning without sending your notes.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidence",
+          "body": "Record what you know and where it came from. Preserve unknowns."
+        },
+        {
+          "label": "2",
+          "heading": "Decision",
+          "body": "Explain the choice, alternative and approval dependency."
+        },
+        {
+          "label": "3",
+          "heading": "Ownership",
+          "body": "Name the next action, owner and review. Export before leaving."
+        }
+      ],
+      "note": "Add up to 50 entries, load the complete fictional example and build a report for local CSV download or print. No data is sent or saved by this workbook. Reloading clears your inputs. It does not execute a campaign, audit a live site or verify your labels."
+    },
+    "workbook": {
+      "fields": [
+        "Buyer constraint or business objective",
+        "Observed evidence, source/date and what remains unknown",
+        "Demand/understanding work that may help",
+        "Lead/capture/handoff work that may help",
+        "Chosen next action, alternative and dependency",
+        "Owner, proof/scope approval and capacity",
+        "Distinct outcome, source coverage and review/stop condition"
+      ],
+      "samples": [
+        [
+          "Fictional unfamiliar offer",
+          "Suitable roles identified; basic explanation/proof incomplete; demand scale unknown",
+          "Clarify problem, offer and credible permitted evidence",
+          "Avoid premature contact gate or volume target",
+          "Test understanding with intended audience before scaling",
+          "Commercial/editorial owner approves facts and scope",
+          "Relevant questions/understanding; no revenue promise"
+        ],
+        [
+          "Fictional broken progression",
+          "Appropriate queries/visits; control failure reproduced",
+          "More awareness does not repair the control",
+          "Repair contact/booking path and source-aware measurement",
+          "Fix confirmed defect; then review mature outcomes",
+          "Developer/analytics owner; preserve normal visitor tracking",
+          "Actual path works; original enquiries/bookings separately"
+        ],
+        [
+          "Fictional wrong audience",
+          "Downloads mainly jobs/learning; qualification unassessed",
+          "Revisit audience and relevance",
+          "Separate resource users from commercial enquiries",
+          "Improve fit before collecting more details",
+          "Content/commercial owner",
+          "Relevant enquiries, not raw database growth"
+        ],
+        [
+          "Fictional weak handoff",
+          "Fit/interest confirmed; response owner unclear; later outcomes incomplete",
+          "Additional education may be supportive, not the demonstrated constraint",
+          "Assign replies, qualification and receiving sales owner",
+          "Transfer exact confirmed context and unknowns",
+          "Reply/sales owners; agreed criteria",
+          "Held and qualified progression, not just submitted forms"
+        ],
+        [
+          "Mechanism choice",
+          "Known buyer access and source sequence required",
+          "Inbound or outbound can support understanding",
+          "Inbound or outbound can support relevant next step",
+          "Choose mechanism separately; do not equate objectives with channels",
+          "Acquisition owner; approved execution scope",
+          "Original source and later assistance distinguished"
+        ],
+        [
+          "Measurement and budget",
+          "Same periods; full costs/shared assets; attribution incomplete",
+          "State bounded exposure/consideration evidence",
+          "Separate enquiries, original bookings, held/qualified outcomes",
+          "Choose smallest justified test; do not invent a universal split",
+          "Commercial/analytics owners",
+          "Stop/revise on poor fit, missing measurement or broken controls"
+        ]
+      ],
+      "legend": "Lead Generation vs Demand Generation: Diagnose the B2B Need",
+      "reportTitle": "Choose the next objective from the constraint"
+    },
+    "decisionGuide": {
+      "heading": "Before you act",
+      "body": [
+        "Choose the objective supported by evidence. More content, more contact records and more form fills are useful only when they help suitable buyers progress toward genuine qualified conversations."
+      ],
+      "items": [
+        "Confirm the actual buyer task and evidence.",
+        "Keep the smallest justified action and explicit unknowns.",
+        "Name the owner, approval and useful next check.",
+        "Measure mature relevant outcomes, not activity alone."
+      ]
+    }
+  },
+  "es": {
+    "path": "/compare/lead-generation-vs-demand-generation/",
+    "serviceFamily": "inbound",
+    "title": "Generación de demanda o de leads: qué necesita tu captación B2B | Beespoke",
+    "description": "¿Falta conocimiento, consultas relevantes o cualificación? Compara demanda y leads con cuatro diagnósticos ficticios y una ficha privada de decisiones.",
+    "eyebrow": "Elige el objetivo antes de la actividad",
+    "h1": "Generación de demanda o de leads: qué necesita tu captación B2B",
+    "answer": "Generar demanda desarrolla conocimiento, comprensión y preferencia entre compradores relevantes. Generar leads transforma interés pertinente en consultas identificables o conversaciones comerciales. Sus actividades se solapan y ninguna garantiza oportunidades cualificadas. Elige el objetivo diagnosticando el límite real: conocimiento, relevancia, conversión, cualificación o traspaso a ventas. Una base de contactos mayor no demuestra más demanda, ni más consultas mejores reuniones.",
+    "sections": [
+      {
+        "heading": "Definiciones de trabajo sin compartimentos rígidos",
+        "body": [
+          "Los equipos usan estas etiquetas de distintas formas. Aquí demanda significa por qué el público adecuado conoce, entiende y considera la oferta; leads significa cómo el interés relevante llega a un paso comercial identificable. Aclara definiciones internas antes de métricas o proveedores.",
+          "Demanda no equivale a contenido abierto y leads no equivale a formularios. Una conversación útil identifica interés sin exigir descarga. Un formulario puede recoger datos de personas sin problema de compra pertinente."
+        ]
+      },
+      {
+        "heading": "Compara objetivos, entregas y pruebas",
+        "body": [
+          "Pregunta qué debe cambiar para el comprador, no solo qué actividad puede producir el equipo."
+        ],
+        "table": {
+          "caption": "Objetivos y evidencias",
+          "headers": [
+            "Dimensión",
+            "Generación de demanda",
+            "Generación de leads",
+            "Qué evitar"
+          ],
+          "rows": [
+            [
+              "Tarea",
+              "Entender problema, opciones y oferta creíble",
+              "Expresar interés o acordar siguiente paso",
+              "Confundir impresión/formulario con intención"
+            ],
+            [
+              "Entrega útil",
+              "Educación clara, alcance relevante, corroboración y preferencia",
+              "Consulta pertinente, seguimiento, reserva o traspaso cualificado",
+              "Tratar base de datos como resultado"
+            ],
+            [
+              "Prueba",
+              "Exposición adecuada, preguntas reales y señales acotadas de comprensión",
+              "Consultas/reservas originales con origen, llamadas y criterios acordados",
+              "Atribuir todo pipeline a un canal agregado"
+            ],
+            [
+              "Responsabilidad",
+              "Posicionamiento correcto, pruebas útiles y distribución apropiada",
+              "Conversión, respuestas, cualificación y ventas receptoras",
+              "Aumentar actividad con recepción rota"
+            ],
+            [
+              "Tiempo/coste",
+              "Depende de mercado, activos, acceso y aprendizaje",
+              "Depende de interés, oferta, capacidad y proceso comprador",
+              "Plazos, reparto de presupuesto o CPL universales"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Inbound y outbound son otra decisión",
+        "body": [
+          "Inbound/outbound describen el mecanismo, no el objetivo. Una guía puede presentar una solución desconocida y una pregunta outbound revelar interés existente. Ambos apoyan educación, evaluación o un paso comercial pertinente.",
+          "Elige mecanismo por acceso, demanda, oferta y capacidad tras diagnosticar qué falta. Llamar demanda a todo contenido y leads a todo contacto oculta trabajo y distorsiona atribución."
+        ],
+        "links": [
+          {
+            "href": "/compare/inbound-vs-outbound-lead-generation/",
+            "label": "Elegir el mecanismo de captación por separado"
+          }
+        ]
+      },
+      {
+        "heading": "Diagnostica dónde se pierden conversaciones cualificadas",
+        "body": [
+          "Empieza por encaje: ¿están empresas y funciones adecuadas? Después, ¿entienden problema y oferta, evalúan pruebas, pueden avanzar y reciben respuesta comercial apropiada? Conserva dudas en cada etapa.",
+          "Tráfico pertinente con reserva rota no es lo mismo que oferta desconocida y público sin validar. Más conocimiento no repara un botón; otro campo no crea relevancia. Son problemas distintos, no causas demostradas en tu web."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Auditar adquisición y traspaso a ventas completos"
+          }
+        ]
+      },
+      {
+        "heading": "Cuatro diagnósticos ficticios completos",
+        "body": [
+          "Situaciones inventadas para formación; no son rendimiento de clientes ni referencias de conversión."
+        ],
+        "table": {
+          "caption": "Decisiones según el límite",
+          "headers": [
+            "Situación",
+            "Pruebas y dudas",
+            "Primer objetivo y acción",
+            "Qué no concluir"
+          ],
+          "rows": [
+            [
+              "Oferta pertinente desconocida",
+              "Funciones adecuadas; explicación/pruebas no responden preguntas básicas; escala de demanda desconocida",
+              "Aclarar problema, oferta y evidencias; comprobar comprensión",
+              "No “más artículos producirán ingresos”"
+            ],
+            [
+              "Interés pertinente sin progresión",
+              "Consultas/visitas adecuadas; control de contacto falla de forma reproducible",
+              "Reparar contacto y verificar consultas con origen antes de captar más",
+              "No “falta demanda” por pocas reservas medidas"
+            ],
+            [
+              "Muchas descargas, público incorrecto",
+              "Solicitudes principalmente empleo/aprendizaje; cualificación sin evaluar",
+              "Revisar público/oferta; separar usuarios de recurso y leads comerciales",
+              "No “lista mayor prueba más demanda”"
+            ],
+            [
+              "Consultas pertinentes, mal traspaso",
+              "Encaje/interés confirmados; responsable de respuesta incierto; avance incompleto",
+              "Asignar respuestas y cualificación; transferir contexto real",
+              "No pedir más leads antes de reparar flujo"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Un siguiente paso que merezca la información pedida",
+        "body": [
+          "Guía, comparación, ejemplo o herramienta abierta ayudan a evaluar. Formulario o llamada pueden encajar con propósito y valor claros. Decide por tarea y expectativas de privacidad, no por cerrar todos los recursos o exigir llamadas inmediatas.",
+          "Explica quién responde, qué ocurre y qué dato es necesario. No añadas campos porque sea fácil. Mantén cualificación proporcionada al servicio y no introduzcas barreras obligatorias ocultas en reservas existentes.",
+          "Un recurso de preparación sirve a ambos objetivos. Poca búsqueda o ausencia de formulario no lo hacen irrelevante."
+        ]
+      },
+      {
+        "heading": "Métricas que no oculten mal encaje",
+        "body": [
+          "Separa exposición, visitas, descargas, contactos, consultas pertinentes, reservas originales, llamadas y cualificación. Define MQL, SQL u oportunidad aceptada con ventas; ninguna sigla acredita automáticamente presupuesto, autoridad o encaje.",
+          "Contrasta orígenes cuando se pueda. Un prospecto iniciado por outreach que lee una guía y reserva no es automáticamente adquirido por web. Reprogramar no crea lead. Origen desconocido sigue desconocido y se excluyen pruebas antes de interpretar crecimiento.",
+          "Pueden subir formularios y bajar conversaciones pertinentes; también pueden bajar solicitudes de poco encaje y subir reuniones útiles. Revisa calidad y cobertura antes de celebrar o prever volumen semanal estable."
+        ]
+      },
+      {
+        "heading": "Asigna esfuerzo según el límite y compara el mismo alcance",
+        "body": [
+          "Registra problema, pruebas, aprobación, implementación y resultado evaluable. Compara mismo periodo e incluye trabajo interno, honorarios, contenido/desarrollo, medios y software/datos aplicables.",
+          "No hay reparto universal de presupuesto. Activos compartidos sirven a ambos objetivos; atribuir cada resultado exclusivamente a un bloque puede duplicar costes o contribuciones. Explicita supuestos.",
+          "Acuerda revisión y parada: mal encaje requiere revisar público; medición ausente requiere repararla; control roto requiere corrección. Pocos datos identifican un defecto sin permitir una previsión fiable."
+        ]
+      },
+      {
+        "heading": "Encarga una entrega delimitada, no una etiqueta",
+        "body": [
+          "Pide límite, función compradora, pruebas permitidas, activo/ejecución, responsabilidades, siguiente paso y límites de medición. Debe ayudar a decidir o corregir proceso, no solo producir artículos o contactos.",
+          "Beespoke ofrece outbound gestionado de cold email y/o LinkedIn en frío e inbound acordado de Google Ads, SEO y AEO. Las llamadas se cotizan aparte por mercado; el cliente lleva discovery, propuestas y cierre. No implica programa completo de marca, PR, eventos, paid social ni SDR dedicado.",
+          "La ficha documenta decisiones y dependencias. No audita automáticamente, lanza campañas, puntúa ni garantiza resultados."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Ver alcance outbound"
+          },
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Ver alcance SEO"
+          },
+          {
+            "href": "/guides/b2b-conversion-rate-optimization/",
+            "label": "Revisar fricción entre visita y consulta"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Demanda equivale a inbound?",
+        "answer": "No. Demanda es un objetivo e inbound un mecanismo. Inbound y outbound pueden apoyar comprensión, evaluación e interés comercial pertinente."
+      },
+      {
+        "question": "¿Leads equivale a formularios?",
+        "answer": "No. Lo útil es consulta o conversación pertinente identificable con definiciones acordadas. Un formulario no demuestra encaje, intención u oportunidad."
+      },
+      {
+        "question": "¿Hay que cerrar todos los recursos con formulario?",
+        "answer": "No. Decide por tarea, valor y privacidad. Ayuda abierta y formularios claros pueden servir; no midas valor solo por datos captados."
+      },
+      {
+        "question": "¿Qué significan MQL y SQL?",
+        "answer": "Definiciones propias acordadas con ventas. Registra evidencias y dudas, no trates la sigla como presupuesto, autoridad o preparación probados."
+      },
+      {
+        "question": "¿Cómo repartir presupuesto?",
+        "answer": "No existe reparto universal. Diagnostica límite, compara alcance/periodo e incluye trabajo compartido y dependencias antes de escalar."
+      },
+      {
+        "question": "¿Cómo sabemos qué objetivo funcionó?",
+        "answer": "Con periodos completos comparables y pruebas por etapa, reservas reales con origen, asistencia y cualificación. Conserva desconocidos y no deduzcas causalidad de muestras pequeñas."
+      }
+    ],
+    "related": [
+      "/guides/b2b-lead-generation-audit/",
+      "/compare/inbound-vs-outbound-lead-generation/",
+      "/guides/b2b-conversion-rate-optimization/",
+      "/services/outbound-lead-generation/",
+      "/services/b2b-seo-agency/"
+    ],
+    "sources": [
+      {
+        "label": "Cognism: demand generation versus lead generation",
+        "href": "https://www.cognism.com/blog/demand-generation-vs-lead-generation"
+      },
+      {
+        "label": "Salesforce: demand generation versus lead generation",
+        "href": "https://www.salesforce.com/blog/sales/demand-generation-vs-lead-generation/"
+      },
+      {
+        "label": "ZoomInfo: demand generation versus lead generation",
+        "href": "https://pipeline.zoominfo.com/marketing/demand-generation-vs-lead-generation"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "Las páginas enlazadas de los autores sirven para comparar métodos. La ficha, reglas y ejemplos son ayudas de planificación de Beespoke. Empresas, cifras y resultados de ejemplo son ficticios; no son resultados de clientes, referencias universales ni promesas de ranking. Fuentes revisadas el 27 de octubre de 2026.",
+    "heroSecondary": {
+      "label": "Diagnosticar el límite",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Diagnosticar el límite",
+      "eyebrow": "Herramienta sin registro",
+      "heading": "Elige objetivo según el límite observado",
+      "intro": "Diagnostica el límite antes de elegir etiqueta. El ejemplo completo cubre conocimiento, conversión rota, público incorrecto, traspaso, canal y medición. Exporta razones sin enviar notas.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Pruebas",
+          "body": "Registra qué sabes y de dónde procede. Conserva lo desconocido."
+        },
+        {
+          "label": "2",
+          "heading": "Decisión",
+          "body": "Explica elección, alternativa y aprobación necesaria."
+        },
+        {
+          "label": "3",
+          "heading": "Responsable",
+          "body": "Indica acción, responsable y revisión. Exporta antes de salir."
+        }
+      ],
+      "note": "Añade hasta 50 entradas, carga el ejemplo ficticio completo y crea un informe para descargar CSV local o imprimir. La ficha no envía ni guarda datos. Recargar borra los campos. No ejecuta campañas, audita sitios reales ni verifica tus etiquetas."
+    },
+    "workbook": {
+      "fields": [
+        "Límite del comprador u objetivo",
+        "Prueba observada, fuente/fecha y dudas",
+        "Trabajo de demanda/comprensión útil",
+        "Trabajo de captación/cualificación/traspaso útil",
+        "Acción elegida, alternativa y dependencia",
+        "Responsable, aprobación de pruebas/alcance y capacidad",
+        "Resultado distinto, cobertura y revisión/parada"
+      ],
+      "samples": [
+        [
+          "Oferta ficticia desconocida",
+          "Funciones adecuadas; explicación/pruebas incompletas; demanda desconocida",
+          "Aclarar problema, oferta y pruebas permitidas",
+          "Evitar barrera o volumen prematuros",
+          "Comprobar comprensión antes de escalar",
+          "Comercial/edición aprueban hechos y alcance",
+          "Preguntas/comprensión relevantes; sin prometer ingresos"
+        ],
+        [
+          "Progresión ficticia rota",
+          "Consultas/visitas adecuadas; fallo reproducido",
+          "Más conocimiento no repara control",
+          "Reparar contacto/reserva y medición de origen",
+          "Corregir defecto confirmado y revisar",
+          "Desarrollo/analítica; preservar tracking legítimo",
+          "Ruta real funciona; consultas/reservas separadas"
+        ],
+        [
+          "Público ficticio incorrecto",
+          "Descargas de empleo/aprendizaje; sin cualificación",
+          "Revisar público y relevancia",
+          "Separar usuarios de recurso y consultas",
+          "Mejorar encaje antes de recoger más datos",
+          "Contenido/comercial",
+          "Consultas pertinentes, no base bruta"
+        ],
+        [
+          "Traspaso ficticio débil",
+          "Encaje/interés confirmados; responsable incierto",
+          "Educación puede apoyar, no es límite demostrado",
+          "Asignar respuestas, criterios y ventas receptoras",
+          "Transferir hechos exactos y dudas",
+          "Respuestas/ventas; criterios acordados",
+          "Celebración y cualificación, no solo formularios"
+        ],
+        [
+          "Mecanismo",
+          "Acceso y secuencia de origen necesarios",
+          "Inbound/outbound apoyan comprensión",
+          "Inbound/outbound apoyan siguiente paso",
+          "Elegir mecanismo por separado",
+          "Captación; alcance de ejecución aprobado",
+          "Origen y ayuda posterior distintos"
+        ],
+        [
+          "Medición/presupuesto",
+          "Mismos periodos; costes completos; atribución incompleta",
+          "Exposición/consideración acotadas",
+          "Consultas, reservas y resultados separados",
+          "Menor test justificado; sin reparto universal",
+          "Comercial/analítica",
+          "Revisar por mal encaje, medición ausente o fallo"
+        ]
+      ],
+      "legend": "Generación de demanda o de leads: qué necesita tu captación B2B",
+      "reportTitle": "Elige objetivo según el límite observado"
+    },
+    "decisionGuide": {
+      "heading": "Antes de actuar",
+      "body": [
+        "Elige el objetivo respaldado por pruebas. Más contenido, contactos o formularios ayudan cuando permiten a compradores adecuados avanzar a conversaciones cualificadas reales."
+      ],
+      "items": [
+        "Confirma la pregunta de compra y sus pruebas.",
+        "Conserva el cambio mínimo justificado y las dudas.",
+        "Asigna responsable, aprobación y comprobación útil.",
+        "Evalúa resultados pertinentes maduros, no solo actividad."
+      ]
+    }
+  },
+  "ca": {
+    "path": "/compare/lead-generation-vs-demand-generation/",
+    "serviceFamily": "inbound",
+    "title": "Generació de demanda o de leads: què necessita la captació B2B | Beespoke",
+    "description": "Falta coneixement, consultes pertinents o qualificació? Compara demanda i leads amb quatre diagnòstics ficticis i una fitxa privada de decisions.",
+    "eyebrow": "Tria l’objectiu abans de l’activitat",
+    "h1": "Generació de demanda o de leads: què necessita la captació B2B?",
+    "answer": "Generar demanda desenvolupa coneixement, comprensió i preferència entre compradors pertinents. Generar leads transforma interès en consultes identificables o converses comercials. Les activitats se solapen i cap no garanteix oportunitats qualificades. Tria l’objectiu diagnosticant el límit real: coneixement, pertinència, conversió, qualificació o traspàs a vendes. Una base de contactes més gran no prova més demanda, ni més consultes millors reunions.",
+    "sections": [
+      {
+        "heading": "Definicions de treball sense compartiments rígids",
+        "body": [
+          "Els equips utilitzen les etiquetes de maneres diferents. Aquí demanda vol dir per què el públic adequat coneix, entén i considera l’oferta; leads vol dir com l’interès pertinent arriba a un pas comercial identificable. Aclareix definicions internes abans de mètriques o proveïdors.",
+          "Demanda no equival a contingut obert i leads no equival a formularis. Una conversa útil identifica interès sense exigir descàrrega. Un formulari pot recollir dades de persones sense problema de compra pertinent."
+        ]
+      },
+      {
+        "heading": "Compara objectius, entregues i evidències",
+        "body": [
+          "Pregunta què ha de canviar per al comprador, no només quina activitat pot produir l’equip."
+        ],
+        "table": {
+          "caption": "Objectius i evidències",
+          "headers": [
+            "Dimensió",
+            "Generació de demanda",
+            "Generació de leads",
+            "Què evitar"
+          ],
+          "rows": [
+            [
+              "Tasca",
+              "Entendre problema, opcions i oferta creïble",
+              "Expressar interès o acordar pas següent",
+              "Confondre impressió/formulari amb intenció"
+            ],
+            [
+              "Entrega útil",
+              "Educació clara, abast pertinent, corroboració i preferència",
+              "Consulta pertinent, seguiment, reserva o traspàs qualificat",
+              "Tractar base de dades com a resultat"
+            ],
+            [
+              "Evidència",
+              "Exposició adequada, preguntes reals i senyals acotats de comprensió",
+              "Consultes/reserves originals amb origen, trucades i criteris acordats",
+              "Atribuir tot el pipeline a un canal agregat"
+            ],
+            [
+              "Responsabilitat",
+              "Posicionament correcte, proves útils i distribució apropiada",
+              "Conversió, respostes, qualificació i vendes receptores",
+              "Augmentar activitat amb recepció trencada"
+            ],
+            [
+              "Temps/cost",
+              "Depèn de mercat, actius, accés i aprenentatge",
+              "Depèn d’interès, oferta, capacitat i procés comprador",
+              "Terminis, repartiment o cost per lead universals"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Inbound i outbound són una altra decisió",
+        "body": [
+          "Inbound/outbound descriuen mecanisme, no objectiu. Una guia presenta una solució desconeguda; una pregunta outbound pot revelar interès existent. Tots dos poden donar suport a educació, avaluació o pas comercial.",
+          "Tria mecanisme per accés, demanda, oferta i capacitat després de diagnosticar què falta. Dir demanda a tot contingut i leads a tot contacte amaga feina i distorsiona atribució."
+        ],
+        "links": [
+          {
+            "href": "/compare/inbound-vs-outbound-lead-generation/",
+            "label": "Triar el mecanisme de captació per separat"
+          }
+        ]
+      },
+      {
+        "heading": "Diagnostica on es perden converses qualificades",
+        "body": [
+          "Comença per encaix: hi ha empreses i funcions adequades? Després, entenen problema i oferta, avaluen proves, poden avançar i reben resposta comercial apropiada? Conserva dubtes a cada etapa.",
+          "Trànsit pertinent amb reserva trencada no és igual que oferta desconeguda i públic no validat. Més coneixement no repara un botó; un camp més no crea pertinència. Són problemes diferents, no causes demostrades al teu web."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Auditar adquisició i traspàs a vendes complets"
+          }
+        ]
+      },
+      {
+        "heading": "Quatre diagnòstics ficticis complets",
+        "body": [
+          "Situacions inventades per a formació; no són rendiment de clients ni referències de conversió."
+        ],
+        "table": {
+          "caption": "Decisions segons el límit",
+          "headers": [
+            "Situació",
+            "Evidències i dubtes",
+            "Primer objectiu i acció",
+            "Què no concloure"
+          ],
+          "rows": [
+            [
+              "Oferta pertinent desconeguda",
+              "Funcions adequades; explicació/proves no responen preguntes bàsiques; escala de demanda desconeguda",
+              "Aclarir problema, oferta i evidències; comprovar comprensió",
+              "No “més articles produiran ingressos”"
+            ],
+            [
+              "Interès pertinent sense progressió",
+              "Consultes/visites adequades; control de contacte falla de manera reproduïble",
+              "Reparar contacte i verificar consultes amb origen abans de captar més",
+              "No “falta demanda” per poques reserves mesurades"
+            ],
+            [
+              "Moltes descàrregues, públic incorrecte",
+              "Sol·licituds de feina/aprenentatge; qualificació no avaluada",
+              "Revisar públic/oferta; separar usuaris de recurs i leads comercials",
+              "No “llista més gran prova més demanda”"
+            ],
+            [
+              "Consultes pertinents, mal traspàs",
+              "Encaix/interès confirmats; responsable incert; avanç incomplet",
+              "Assignar respostes i qualificació; traspassar context real",
+              "No demanar més leads abans de reparar flux"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Un pas següent que mereixi la informació demanada",
+        "body": [
+          "Guia, comparació, exemple o eina oberta ajuden a avaluar. Formulari o trucada poden encaixar amb propòsit i valor clars. Decideix per tasca i expectatives de privacitat, no per tancar tots els recursos o exigir trucades immediates.",
+          "Explica qui respon, què passa i quina dada cal. No afegeixis camps només perquè és fàcil. Mantén qualificació proporcionada al servei i no introdueixis barreres obligatòries ocultes a reserves existents.",
+          "Un recurs de preparació serveix tots dos objectius. Poca cerca o absència de formulari no el fan irrellevant."
+        ]
+      },
+      {
+        "heading": "Mètriques que no amaguin mal encaix",
+        "body": [
+          "Separa exposició, visites, descàrregues, contactes, consultes pertinents, reserves originals, trucades i qualificació. Defineix MQL, SQL o oportunitat acceptada amb vendes; cap sigla prova pressupost, autoritat o encaix.",
+          "Contrasta orígens quan sigui possible. Un prospecte iniciat per outreach que llegeix una guia i reserva no és automàticament adquirit pel web. Reprogramar no crea lead. Origen desconegut continua desconegut i les proves s’exclouen abans d’interpretar creixement.",
+          "Poden pujar formularis i baixar converses pertinents; també poden baixar sol·licituds poc adequades i pujar reunions útils. Revisa qualitat i cobertura abans de celebrar o preveure volum setmanal estable."
+        ]
+      },
+      {
+        "heading": "Assigna esforç segons el límit i compara el mateix abast",
+        "body": [
+          "Registra problema, proves, aprovació, implementació i resultat avaluable. Compara mateix període i inclou feina interna, honoraris, contingut/desenvolupament, mitjans i programari/dades aplicables.",
+          "No hi ha repartiment universal de pressupost. Actius compartits serveixen tots dos objectius; atribuir cada resultat exclusivament a un bloc pot duplicar costos o contribucions. Explicita supòsits.",
+          "Acorda revisió i aturada: mal encaix requereix revisar públic; mesura absent requereix reparar-la; control trencat requereix correcció. Poques dades identifiquen un defecte sense permetre previsió fiable."
+        ]
+      },
+      {
+        "heading": "Encarrega una entrega delimitada, no una etiqueta",
+        "body": [
+          "Demana límit, funció compradora, proves permeses, actiu/execució, responsabilitats, pas següent i límits de mesura. Ha d’ajudar a decidir o corregir procés, no només produir articles o contactes.",
+          "Beespoke ofereix outbound gestionat de cold email i/o LinkedIn en fred i inbound acordat de Google Ads, SEO i AEO. Les trucades es pressuposten a part per mercat; el client porta descoberta, propostes i tancament. No implica programa complet de marca, PR, esdeveniments, paid social ni SDR dedicat.",
+          "La fitxa documenta decisions i dependències. No audita automàticament, llança campanyes, puntua ni garanteix resultats."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Veure abast outbound"
+          },
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Veure abast SEO"
+          },
+          {
+            "href": "/guides/b2b-conversion-rate-optimization/",
+            "label": "Revisar fricció de visita a consulta"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Demanda equival a inbound?",
+        "answer": "No. Demanda és objectiu i inbound és mecanisme. Inbound i outbound poden donar suport a comprensió, avaluació i interès comercial pertinent."
+      },
+      {
+        "question": "Leads equival a formularis?",
+        "answer": "No. Allò útil és consulta o conversa pertinent identificable amb definicions acordades. Un formulari no prova encaix, intenció ni oportunitat."
+      },
+      {
+        "question": "Cal tancar tots els recursos amb formulari?",
+        "answer": "No. Decideix per tasca, valor i privacitat. Ajuda oberta i formularis clars poden servir; no mesuris valor només per dades captades."
+      },
+      {
+        "question": "Què volen dir MQL i SQL?",
+        "answer": "Definicions pròpies acordades amb vendes. Registra proves i dubtes, no tractis la sigla com pressupost, autoritat o preparació demostrats."
+      },
+      {
+        "question": "Com repartir pressupost?",
+        "answer": "No hi ha repartiment universal. Diagnostica límit, compara abast/període i inclou feina compartida i dependències abans d’escalar."
+      },
+      {
+        "question": "Com sabem quin objectiu ha funcionat?",
+        "answer": "Amb períodes complets comparables i proves per etapa, reserves reals amb origen, assistència i qualificació. Conserva desconeguts i no dedueixis causalitat de mostres petites."
+      }
+    ],
+    "related": [
+      "/guides/b2b-lead-generation-audit/",
+      "/compare/inbound-vs-outbound-lead-generation/",
+      "/guides/b2b-conversion-rate-optimization/",
+      "/services/outbound-lead-generation/",
+      "/services/b2b-seo-agency/"
+    ],
+    "sources": [
+      {
+        "label": "Cognism: demand generation versus lead generation",
+        "href": "https://www.cognism.com/blog/demand-generation-vs-lead-generation"
+      },
+      {
+        "label": "Salesforce: demand generation versus lead generation",
+        "href": "https://www.salesforce.com/blog/sales/demand-generation-vs-lead-generation/"
+      },
+      {
+        "label": "ZoomInfo: demand generation versus lead generation",
+        "href": "https://pipeline.zoominfo.com/marketing/demand-generation-vs-lead-generation"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "Les pàgines enllaçades dels autors permeten comparar mètodes. La fitxa, regles i exemples són ajudes de planificació de Beespoke. Empreses, xifres i resultats d’exemple són ficticis; no són resultats de clients, referències universals ni promeses de rànquing. Fonts revisades el 27 d’octubre de 2026.",
+    "heroSecondary": {
+      "label": "Diagnostica el límit",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Diagnostica el límit",
+      "eyebrow": "Eina sense registre",
+      "heading": "Tria objectiu segons el límit observat",
+      "intro": "Diagnostica el límit abans de triar etiqueta. L’exemple complet cobreix coneixement, conversió trencada, públic incorrecte, traspàs, canal i mesura. Exporta raons sense enviar notes.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidències",
+          "body": "Registra què saps i d’on prové. Conserva allò desconegut."
+        },
+        {
+          "label": "2",
+          "heading": "Decisió",
+          "body": "Explica tria, alternativa i aprovació necessària."
+        },
+        {
+          "label": "3",
+          "heading": "Responsable",
+          "body": "Indica acció, responsable i revisió. Exporta abans de sortir."
+        }
+      ],
+      "note": "Afegeix fins a 50 entrades, carrega l’exemple fictici complet i crea un informe per descarregar CSV local o imprimir. La fitxa no envia ni desa dades. Recarregar esborra els camps. No executa campanyes, audita llocs reals ni verifica les etiquetes."
+    },
+    "workbook": {
+      "fields": [
+        "Límit del comprador o objectiu",
+        "Evidència observada, font/data i dubtes",
+        "Feina de demanda/comprensió útil",
+        "Feina de captació/qualificació/traspàs útil",
+        "Acció triada, alternativa i dependència",
+        "Responsable, aprovació de proves/abast i capacitat",
+        "Resultat diferenciat, cobertura i revisió/aturada"
+      ],
+      "samples": [
+        [
+          "Oferta fictícia desconeguda",
+          "Funcions adequades; explicació/proves incompletes; demanda desconeguda",
+          "Aclarir problema, oferta i proves permeses",
+          "Evitar barrera o volum prematurs",
+          "Comprovar comprensió abans d’escalar",
+          "Comercial/edició aproven fets i abast",
+          "Preguntes/comprensió pertinents; sense prometre ingressos"
+        ],
+        [
+          "Progressió fictícia trencada",
+          "Consultes/visites adequades; error reproduït",
+          "Més coneixement no repara control",
+          "Reparar contacte/reserva i mesura d’origen",
+          "Corregir defecte confirmat i revisar",
+          "Desenvolupament/analítica; preservar tracking legítim",
+          "Ruta funciona; consultes/reserves separades"
+        ],
+        [
+          "Públic fictici incorrecte",
+          "Descàrregues de feina/aprenentatge; sense qualificació",
+          "Revisar públic i pertinència",
+          "Separar usuaris de recurs i consultes",
+          "Millorar encaix abans de recollir més dades",
+          "Contingut/comercial",
+          "Consultes pertinents, no base bruta"
+        ],
+        [
+          "Traspàs fictici feble",
+          "Encaix/interès confirmats; responsable incert",
+          "Educació pot ajudar, no és límit demostrat",
+          "Assignar respostes, criteris i vendes receptores",
+          "Transferir fets exactes i dubtes",
+          "Respostes/vendes; criteris acordats",
+          "Celebració i qualificació, no només formularis"
+        ],
+        [
+          "Mecanisme",
+          "Accés i seqüència d’origen necessaris",
+          "Inbound/outbound donen suport a comprensió",
+          "Inbound/outbound donen suport al pas següent",
+          "Triar mecanisme per separat",
+          "Captació; abast aprovat",
+          "Origen i ajuda posterior diferents"
+        ],
+        [
+          "Mesura/pressupost",
+          "Mateixos períodes; costos complets; atribució incompleta",
+          "Exposició/consideració acotades",
+          "Consultes, reserves i resultats separats",
+          "Prova mínima justificada; sense repartiment universal",
+          "Comercial/analítica",
+          "Revisar per mal encaix, mesura absent o error"
+        ]
+      ],
+      "legend": "Generació de demanda o de leads: què necessita la captació B2B",
+      "reportTitle": "Tria objectiu segons el límit observat"
+    },
+    "decisionGuide": {
+      "heading": "Abans d’actuar",
+      "body": [
+        "Tria l’objectiu acreditat per evidències. Més contingut, contactes o formularis ajuden quan permeten a compradors adequats avançar cap a converses qualificades reals."
+      ],
+      "items": [
+        "Confirma la pregunta de compra i les evidències.",
+        "Conserva el canvi mínim justificat i els dubtes.",
+        "Assigna responsable, aprovació i comprovació útil.",
+        "Avalua resultats pertinents madurs, no només activitat."
+      ]
+    }
+  },
+  "fr": {
+    "path": "/compare/lead-generation-vs-demand-generation/",
+    "serviceFamily": "inbound",
+    "title": "Génération de demande ou de leads : choisir l’objectif B2B | Beespoke",
+    "description": "Manque de connaissance, de demandes pertinentes ou de qualification ? Comparez demande et leads avec quatre diagnostics fictifs et une fiche privée de décision.",
+    "eyebrow": "Choisir l’objectif avant l’activité",
+    "h1": "Génération de demande ou de leads : de quoi votre acquisition B2B a-t-elle besoin ?",
+    "answer": "La génération de demande développe connaissance, compréhension et préférence chez les acheteurs pertinents. La génération de leads transforme l’intérêt en demandes identifiables ou conversations commerciales. Les activités se recouvrent et aucune ne garantit des opportunités qualifiées. Diagnostiquez la contrainte : connaissance, pertinence, conversion, qualification ou relais commercial. Une base de contacts plus grande ne prouve pas plus de demande, ni davantage de demandes de meilleurs rendez-vous.",
+    "sections": [
+      {
+        "heading": "Des définitions de travail sans silos rigides",
+        "body": [
+          "Les équipes emploient ces étiquettes différemment. Ici, la demande concerne pourquoi le bon public connaît, comprend et considère l’offre ; les leads concernent comment l’intérêt pertinent devient une étape commerciale identifiable. Précisez vos définitions avant métriques ou prestataires.",
+          "Demande ne signifie pas contenu sans formulaire, ni leads collecte de formulaires. Une conversation utile identifie un intérêt sans téléchargement obligatoire. Un formulaire peut recueillir les coordonnées de personnes sans problème d’achat pertinent."
+        ]
+      },
+      {
+        "heading": "Comparer objectifs, livrables et preuves",
+        "body": [
+          "Demandez ce qui doit changer pour l’acheteur, pas seulement quelle activité l’équipe peut produire."
+        ],
+        "table": {
+          "caption": "Objectifs et preuves",
+          "headers": [
+            "Dimension",
+            "Génération de demande",
+            "Génération de leads",
+            "À éviter"
+          ],
+          "rows": [
+            [
+              "Tâche",
+              "Comprendre problème, options et offre crédible",
+              "Exprimer intérêt ou convenir d’une suite",
+              "Confondre impression/formulaire avec intention"
+            ],
+            [
+              "Livrable utile",
+              "Éducation claire, portée pertinente, corroboration et préférence",
+              "Demande pertinente, suivi, réservation ou transmission qualifiée",
+              "Prendre la base de données pour le résultat"
+            ],
+            [
+              "Preuve",
+              "Exposition adaptée, questions réelles et signes délimités de compréhension",
+              "Demandes/réservations originales avec sources, appels et critères convenus",
+              "Attribuer tout le pipeline à un canal agrégé"
+            ],
+            [
+              "Responsabilité",
+              "Positionnement exact, preuves utiles et diffusion appropriée",
+              "Conversion, réponses, qualification et réception commerciale",
+              "Augmenter activité avec réception défaillante"
+            ],
+            [
+              "Temps/coût",
+              "Dépend de marché, actifs, accès et apprentissage",
+              "Dépend d’intérêt, offre, capacité et processus d’achat",
+              "Délais, répartition budgétaire ou coût par lead universels"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Inbound et outbound sont une autre décision",
+        "body": [
+          "Inbound/outbound décrivent le mécanisme, pas l’objectif. Un guide peut introduire une solution inconnue ; une question outbound révéler un intérêt existant. Les deux soutiennent éducation, évaluation ou suite commerciale.",
+          "Choisissez le mécanisme par accès, demande, offre et capacité après diagnostic. Appeler tout contenu demande et tout contact direct leads masque le travail et déforme l’attribution."
+        ],
+        "links": [
+          {
+            "href": "/compare/inbound-vs-outbound-lead-generation/",
+            "label": "Choisir séparément le mécanisme d’acquisition"
+          }
+        ]
+      },
+      {
+        "heading": "Diagnostiquer où les conversations qualifiées se perdent",
+        "body": [
+          "Commencez par adéquation : bonnes entreprises et bons rôles sont-ils présents ? Puis comprennent-ils problème et offre, peuvent-ils examiner les preuves, avancer et recevoir une réponse commerciale adaptée ? Conservez les inconnues à chaque étape.",
+          "Un trafic pertinent avec réservation défaillante diffère d’une offre inconnue et d’un public non validé. Plus de connaissance ne répare pas un bouton ; un champ de plus ne crée pas la pertinence. Ce sont des problèmes distincts, pas des causes démontrées sur votre site."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-lead-generation-audit/",
+            "label": "Auditer acquisition et relais commercial complets"
+          }
+        ]
+      },
+      {
+        "heading": "Quatre diagnostics fictifs complets",
+        "body": [
+          "Situations inventées pour la formation ; aucune performance client ni référence de conversion."
+        ],
+        "table": {
+          "caption": "Décisions selon la contrainte",
+          "headers": [
+            "Situation",
+            "Preuves et inconnues",
+            "Premier objectif et action",
+            "Ce qu’on ne conclut pas"
+          ],
+          "rows": [
+            [
+              "Offre pertinente inconnue",
+              "Rôles adaptés ; explication/preuves ne répondent pas aux questions ; ampleur de demande inconnue",
+              "Clarifier problème, offre et preuves ; tester compréhension",
+              "Pas “plus d’articles produira des revenus”"
+            ],
+            [
+              "Intérêt pertinent sans progression",
+              "Requêtes/visites adaptées ; commande de contact en échec reproductible",
+              "Réparer contact et vérifier demandes avec sources avant plus d’acquisition",
+              "Pas “aucune demande” depuis peu de réservations mesurées"
+            ],
+            [
+              "Nombreux téléchargements, mauvais public",
+              "Principalement emploi/apprentissage ; qualification non évaluée",
+              "Revoir public/offre ; séparer utilisateurs de ressources et leads",
+              "Pas “la grande liste prouve plus de demande”"
+            ],
+            [
+              "Demandes pertinentes, mauvais relais",
+              "Adéquation/intérêt confirmés ; réponse mal attribuée ; progression incomplète",
+              "Attribuer réponses/qualification ; transmettre contexte réel",
+              "Pas demander plus de leads avant réparation du processus"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Une suite qui mérite l’information demandée",
+        "body": [
+          "Guide, comparaison, exemple ou outil ouvert facilitent l’évaluation. Formulaire ou appel conviennent quand valeur et objectif sont clairs. Décidez selon tâche et attentes de confidentialité, pas en fermant toutes les ressources ou exigeant un appel immédiat.",
+          "Expliquez responsable, suite et donnée nécessaire. N’ajoutez pas des champs par facilité. Gardez une qualification proportionnée au service et n’introduisez pas discrètement de nouveaux obstacles obligatoires dans la réservation existante.",
+          "Une ressource de préparation peut servir les deux objectifs. Faible recherche ou absence de formulaire ne la rend pas inutile."
+        ]
+      },
+      {
+        "heading": "Des métriques qui ne cachent pas la mauvaise adéquation",
+        "body": [
+          "Séparez exposition, visites, téléchargements, contacts, demandes pertinentes, réservations originales, appels et qualification. Définissez MQL, SQL ou opportunité acceptée avec les ventes ; aucun sigle ne prouve automatiquement budget, autorité ou adéquation.",
+          "Rapprochez les sources si possible. Un prospect initié par prospection qui lit un guide puis réserve n’est pas automatiquement acquis par le site. Un déplacement ne crée pas un lead. Une source inconnue le reste et les tests sont exclus avant d’interpréter la croissance.",
+          "Plus de formulaires peut accompagner moins de conversations pertinentes ; moins de demandes peu adaptées peut accompagner plus de rendez-vous utiles. Examinez qualité et couverture avant de célébrer ou prévoir un volume hebdomadaire stable."
+        ]
+      },
+      {
+        "heading": "Affecter l’effort selon la contrainte et comparer le même périmètre",
+        "body": [
+          "Notez problème, preuves, approbation, exécution et résultat évaluable. Comparez même période et incluez travail interne, honoraires, contenu/développement, médias et logiciels/données concernés.",
+          "Aucune répartition universelle du budget. Des actifs partagés servent les deux objectifs ; attribuer chaque résultat exclusivement à un bloc peut doubler coûts ou contributions. Rendez les hypothèses explicites.",
+          "Convenez revue et arrêt : inadéquation appelle revue du public ; mesure absente appelle réparation ; commande défaillante appelle correction. Peu de données peuvent révéler un défaut sans permettre une prévision fiable."
+        ]
+      },
+      {
+        "heading": "Commander un livrable délimité plutôt qu’une étiquette",
+        "body": [
+          "Demandez contrainte, rôle acheteur, preuves autorisées, actif/exécution, responsabilités, suite et limites de mesure. Le livrable doit aider à décider ou réparer un processus, pas seulement produire articles ou contacts.",
+          "Beespoke gère email à froid et/ou LinkedIn à froid en outbound, ainsi que Google Ads, SEO et AEO en inbound convenu. Les appels sont chiffrés séparément par marché ; le client mène découverte, propositions et conclusion. Cela n’annonce ni programme complet de marque, PR, événements ou médias sociaux payants, ni SDR dédié.",
+          "La fiche documente décisions et dépendances. Aucun audit automatique, lancement, score ou résultat garanti."
+        ],
+        "links": [
+          {
+            "href": "/services/outbound-lead-generation/",
+            "label": "Voir le périmètre outbound"
+          },
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Voir le périmètre SEO"
+          },
+          {
+            "href": "/guides/b2b-conversion-rate-optimization/",
+            "label": "Examiner la friction de la visite à la demande"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Demande signifie-t-elle inbound ?",
+        "answer": "Non. Demande est un objectif et inbound un mécanisme. Inbound et outbound soutiennent compréhension, évaluation et intérêt commercial pertinent."
+      },
+      {
+        "question": "Leads signifie-t-il formulaires ?",
+        "answer": "Non. Le résultat utile est une demande ou conversation pertinente identifiable selon des définitions convenues. Un formulaire ne prouve ni adéquation, ni intention, ni opportunité."
+      },
+      {
+        "question": "Faut-il un formulaire pour chaque ressource ?",
+        "answer": "Non. Décidez selon tâche, valeur et confidentialité. Aide ouverte et formulaires clairs peuvent convenir ; ne mesurez pas la valeur uniquement aux coordonnées recueillies."
+      },
+      {
+        "question": "Que signifient MQL et SQL ?",
+        "answer": "Des définitions propres convenues avec les ventes. Consignez preuves et inconnues, sans prendre le sigle pour un budget, une autorité ou une maturité démontrés."
+      },
+      {
+        "question": "Comment répartir le budget ?",
+        "answer": "Aucune répartition universelle. Diagnostiquez la contrainte, comparez périmètre/période et incluez travail partagé et dépendances avant de développer."
+      },
+      {
+        "question": "Comment savoir quel objectif a fonctionné ?",
+        "answer": "Périodes complètes comparables, preuves par étape, réservations réelles avec sources, présence et qualification. Gardez les inconnues et n’inférez pas la causalité d’un petit échantillon."
+      }
+    ],
+    "related": [
+      "/guides/b2b-lead-generation-audit/",
+      "/compare/inbound-vs-outbound-lead-generation/",
+      "/guides/b2b-conversion-rate-optimization/",
+      "/services/outbound-lead-generation/",
+      "/services/b2b-seo-agency/"
+    ],
+    "sources": [
+      {
+        "label": "Cognism: demand generation versus lead generation",
+        "href": "https://www.cognism.com/blog/demand-generation-vs-lead-generation"
+      },
+      {
+        "label": "Salesforce: demand generation versus lead generation",
+        "href": "https://www.salesforce.com/blog/sales/demand-generation-vs-lead-generation/"
+      },
+      {
+        "label": "ZoomInfo: demand generation versus lead generation",
+        "href": "https://pipeline.zoominfo.com/marketing/demand-generation-vs-lead-generation"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      }
+    ],
+    "sourceMethodology": "Les pages des éditeurs liés éclairent la comparaison des méthodes. La fiche, les règles et exemples sont des aides de préparation de Beespoke. Entreprises, chiffres et résultats d’exemple sont fictifs ; aucun résultat client, référence universelle ou classement promis. Sources examinées le 27 octobre 2026.",
+    "heroSecondary": {
+      "label": "Diagnostiquer la contrainte",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Diagnostiquer la contrainte",
+      "eyebrow": "Outil sans inscription",
+      "heading": "Choisir l’objectif selon la contrainte",
+      "intro": "Diagnostiquez la contrainte avant l’étiquette. L’exemple complet couvre connaissance, conversion défaillante, mauvais public, relais, canal et mesure. Exportez les raisons sans envoyer vos notes.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Preuves",
+          "body": "Consignez ce que vous savez et sa source. Conservez les inconnues."
+        },
+        {
+          "label": "2",
+          "heading": "Décision",
+          "body": "Expliquez choix, alternative et approbation requise."
+        },
+        {
+          "label": "3",
+          "heading": "Responsabilité",
+          "body": "Précisez action, responsable et revue. Exportez avant de partir."
+        }
+      ],
+      "note": "Ajoutez jusqu’à 50 entrées, chargez l’exemple fictif complet et créez un rapport pour télécharger un CSV local ou imprimer. La fiche n’envoie ni ne conserve les données. Le rechargement efface les champs. Elle n’exécute pas de campagne, n’audite pas de site réel et ne vérifie pas vos étiquettes."
+    },
+    "workbook": {
+      "fields": [
+        "Contrainte de l’acheteur ou objectif",
+        "Preuve observée, source/date et inconnues",
+        "Travail utile de demande/compréhension",
+        "Travail utile de capture/qualification/relais",
+        "Action choisie, alternative et dépendance",
+        "Responsable, approbation preuves/périmètre et capacité",
+        "Résultat distinct, couverture et revue/arrêt"
+      ],
+      "samples": [
+        [
+          "Offre fictive inconnue",
+          "Rôles adaptés ; explication/preuves incomplètes ; demande inconnue",
+          "Clarifier problème, offre et preuves autorisées",
+          "Éviter obstacle ou volume prématurés",
+          "Tester compréhension avant développement",
+          "Commercial/édition approuvent faits et périmètre",
+          "Questions/compréhension pertinentes ; aucun revenu promis"
+        ],
+        [
+          "Progression fictive défaillante",
+          "Requêtes/visites adaptées ; échec reproduit",
+          "Plus de connaissance ne répare pas commande",
+          "Réparer contact/réservation et mesure de source",
+          "Corriger défaut confirmé puis revoir",
+          "Développement/analytique ; préserver mesure légitime",
+          "Vrai parcours fonctionnel ; demandes/réservations séparées"
+        ],
+        [
+          "Mauvais public fictif",
+          "Téléchargements emploi/apprentissage ; qualification absente",
+          "Revoir public et pertinence",
+          "Séparer utilisateurs de ressources et demandes",
+          "Améliorer adéquation avant plus de coordonnées",
+          "Contenu/commercial",
+          "Demandes pertinentes, pas base brute"
+        ],
+        [
+          "Relais fictif faible",
+          "Adéquation/intérêt confirmés ; responsable incertain",
+          "Éducation peut aider, pas la contrainte démontrée",
+          "Attribuer réponses, critères et ventes réceptrices",
+          "Transmettre faits exacts et inconnues",
+          "Réponses/ventes ; critères convenus",
+          "Tenue et qualification, pas seuls formulaires"
+        ],
+        [
+          "Mécanisme",
+          "Accès et séquence de source nécessaires",
+          "Inbound/outbound soutiennent compréhension",
+          "Inbound/outbound soutiennent suite",
+          "Choisir mécanisme séparément",
+          "Acquisition ; exécution approuvée",
+          "Origine et aide ultérieure distinctes"
+        ],
+        [
+          "Mesure/budget",
+          "Mêmes périodes ; coûts complets ; attribution partielle",
+          "Exposition/considération délimitées",
+          "Demandes, réservations et résultats distincts",
+          "Plus petit test justifié ; aucune répartition universelle",
+          "Commercial/analytique",
+          "Réviser si inadéquation, mesure absente ou défaut"
+        ]
+      ],
+      "legend": "Génération de demande ou de leads : choisir l’objectif B2B",
+      "reportTitle": "Choisir l’objectif selon la contrainte"
+    },
+    "decisionGuide": {
+      "heading": "Avant d’agir",
+      "body": [
+        "Choisissez l’objectif étayé. Plus de contenu, contacts ou formulaires aide lorsque les bons acheteurs avancent vers de vraies conversations qualifiées."
+      ],
+      "items": [
+        "Confirmez la question d’achat et les preuves.",
+        "Gardez l’action minimale justifiée et les inconnues.",
+        "Attribuez responsable, approbation et contrôle utile.",
+        "Mesurez des résultats pertinents mûrs, pas seulement l’activité."
+      ]
+    }
+  }
+}

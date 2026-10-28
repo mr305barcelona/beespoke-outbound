@@ -1645,5 +1645,159 @@
       "Evidence-to-action method with explicit ownership and review dates",
       "Ungated private worksheet and clearly fictional worked decisions"
     ]
+  },
+  {
+    "path": "/guides/b2b-sales-prospecting-plan/",
+    "query": "b2b sales prospecting plan",
+    "reviewed": "2026-10-27",
+    "serpDifficulty": "Variable; vendor difficulty and result intent reviewed separately; no ranking guarantee",
+    "competitors": [
+      "https://www.richardson.com/blog/how-to-build-a-sales-prospecting-plan-for-b2b/",
+      "https://www.salesforce.com/sales/prospecting/",
+      "https://www.appvizer.com/magazine/marketing/lead-generation/why-and-how-to-adopt-a-new-sales-prospecting-plan"
+    ],
+    "serpRequirements": [
+      "buyer fit and exclusions",
+      "account and role research",
+      "workload and capacity planning",
+      "channel approval and stop conditions",
+      "reply qualification and sales handoff",
+      "account/contact denominator definitions",
+      "completed reusable plan"
+    ],
+    "beespokeAdvantages": [
+      "Complete six-workstream fictional operating plan",
+      "Capacity arithmetic with explicit assumptions",
+      "Private editable exportable handoff workbook"
+    ],
+    "externalConstraints": [
+      "Established publisher authority and earned links",
+      "Independent first-party experience and approved client proof",
+      "Crawl/index/ranking decisions and actual buyer demand",
+      "Inspected sources are a bounded sample, not every competing page"
+    ]
+  },
+  {
+    "path": "/guides/b2b-conversion-rate-optimization/",
+    "query": "b2b conversion rate optimization",
+    "reviewed": "2026-10-27",
+    "serpDifficulty": "Variable; vendor difficulty and result intent reviewed separately; no ranking guarantee",
+    "competitors": [
+      "https://kontra.agency/b2b-conversion-optimization-4-pages-you-need-to-get-conversion/",
+      "https://www.trajectorywebdesign.com/blog/b2b-website-conversion-optimization/",
+      "https://www.cazbah.net/b2b-website-conversion-optimization-why-good-industrial-leads-dont-convert/"
+    ],
+    "serpRequirements": [
+      "eligible visitor and outcome definitions",
+      "traffic fit and audit exclusion",
+      "service guide proof and contact journey",
+      "observable accessibility and usability friction",
+      "reasoned before and after examples",
+      "cohort arithmetic with unknown and zero handling",
+      "low-volume evaluation limits and action ownership"
+    ],
+    "beespokeAdvantages": [
+      "Private four-language friction register and report",
+      "Descriptive cohort calculator with unknown and zero rules",
+      "Fictional examples explicitly separate from measured uplift"
+    ],
+    "externalConstraints": [
+      "Established publisher authority and earned links",
+      "Independent first-party experience and approved client proof",
+      "Crawl/index/ranking decisions and actual buyer demand",
+      "Inspected sources are a bounded sample, not every competing page"
+    ]
+  },
+  {
+    "path": "/guides/b2b-keyword-research/",
+    "query": "b2b keyword research",
+    "reviewed": "2026-10-27",
+    "serpDifficulty": "Variable; vendor difficulty and result intent reviewed separately; no ranking guarantee",
+    "competitors": [
+      "https://neilpatel.com/blog/b2b-keyword-research/",
+      "https://www.konstructdigital.com/seo/b2b-keyword-research/",
+      "https://cxl.com/blog/b2b-keyword-research-customer-insights/"
+    ],
+    "serpRequirements": [
+      "buyer and offer context",
+      "permitted customer language",
+      "observed versus estimated demand",
+      "actual result format review",
+      "existing page ownership and consolidation",
+      "native market validation",
+      "complete keyword-to-page map and approval"
+    ],
+    "beespokeAdvantages": [
+      "Dated public US vendor example tied to existing page ownership",
+      "Full ten-query fictional map rather than a blank template",
+      "Private editable prioritization workbook and reports"
+    ],
+    "externalConstraints": [
+      "Established publisher authority and earned links",
+      "Independent first-party experience and approved client proof",
+      "Crawl/index/ranking decisions and actual buyer demand",
+      "Inspected sources are a bounded sample, not every competing page"
+    ]
+  },
+  {
+    "path": "/compare/inbound-vs-outbound-lead-generation/",
+    "query": "inbound vs outbound lead generation",
+    "reviewed": "2026-10-27",
+    "serpDifficulty": "Variable; vendor difficulty and result intent reviewed separately; no ranking guarantee",
+    "competitors": [
+      "https://www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities",
+      "https://blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads"
+    ],
+    "serpRequirements": [
+      "acquisition definitions",
+      "buyer access and existing demand",
+      "fit and capacity conditions",
+      "complete costs and scope",
+      "conditional examples and reversal rules",
+      "origin versus assistance attribution",
+      "responsibility and stop conditions"
+    ],
+    "beespokeAdvantages": [
+      "Four complete conditional acquisition decisions",
+      "Explicit held versus originally acquired meeting definitions",
+      "Private comparison workbook without provider price claims"
+    ],
+    "externalConstraints": [
+      "Established publisher authority and earned links",
+      "Independent first-party experience and approved client proof",
+      "Crawl/index/ranking decisions and actual buyer demand",
+      "Inspected sources are a bounded sample, not every competing page"
+    ]
+  },
+  {
+    "path": "/compare/lead-generation-vs-demand-generation/",
+    "query": "lead generation vs demand generation",
+    "reviewed": "2026-10-27",
+    "serpDifficulty": "Variable; vendor difficulty and result intent reviewed separately; no ranking guarantee",
+    "competitors": [
+      "https://www.cognism.com/blog/demand-generation-vs-lead-generation",
+      "https://www.salesforce.com/blog/sales/demand-generation-vs-lead-generation/",
+      "https://pipeline.zoominfo.com/marketing/demand-generation-vs-lead-generation"
+    ],
+    "serpRequirements": [
+      "working definitions and overlap",
+      "objective versus acquisition mechanism",
+      "awareness relevance conversion qualification and handoff constraints",
+      "conditional diagnoses",
+      "value before information requests",
+      "quality-aware outcome definitions",
+      "scope and effort allocation"
+    ],
+    "beespokeAdvantages": [
+      "Four fully worked bottleneck diagnoses",
+      "Keeps demand objective distinct from inbound mechanism",
+      "Private editable diagnosis and responsibility workbook"
+    ],
+    "externalConstraints": [
+      "Established publisher authority and earned links",
+      "Independent first-party experience and approved client proof",
+      "Crawl/index/ranking decisions and actual buyer demand",
+      "Inspected sources are a bounded sample, not every competing page"
+    ]
   }
 ]

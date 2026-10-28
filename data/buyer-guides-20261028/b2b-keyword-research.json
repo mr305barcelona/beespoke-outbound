@@ -1,0 +1,1842 @@
+{
+  "en": {
+    "path": "/guides/b2b-keyword-research/",
+    "serviceFamily": "inbound",
+    "title": "B2B Keyword Research: Buyer Questions, Priorities and Page Mapping | Beespoke",
+    "description": "Choose B2B buyer queries worth serving. Validate intent, compare real results and map each question to an existing or justified new page with a fictional example and private CSV workbook.",
+    "eyebrow": "Research that produces a page decision",
+    "h1": "B2B keyword research: choose buyer questions, priorities and page owners",
+    "answer": "B2B keyword research identifies the questions suitable buyers use to understand a problem, compare approaches and evaluate providers. Combine customer language, observed search evidence, dated keyword estimates and the actual results page. Then assign each question to an existing page, a useful improvement or a genuinely distinct new page. Search volume and difficulty help investigate demand; they do not establish buyer fit, ranking certainty or future bookings.",
+    "sections": [
+      {
+        "heading": "Start with the buyer decision and the service you actually deliver",
+        "body": [
+          "Write the buyer role, company context, problem, constraints and decision the page should help. Distinguish someone learning a term, evaluating an approach, comparing providers and checking scope. The same industry word can appear in job searches, academic work and purchase decisions.",
+          "Confirm that the proposed audience can use your real service. A large query about a product category you do not provide is not a growth opportunity for a service page. Keep unknown market fit or delivery scope as a hold, rather than inventing an offer to match a keyword."
+        ]
+      },
+      {
+        "heading": "Collect customer language without turning private material into content",
+        "body": [
+          "Start with permitted public product/service descriptions, questions buyers genuinely ask and existing page/query evidence. With authorization, sales or support themes can inform research; exact private messages, client keywords and confidential proposals are not automatically publishable. Record the source and what may be used.",
+          "Turn repeated questions into hypotheses: what causes the problem, what should be compared, what is included, who implements and what evidence matters? Do not assume that the company’s internal terminology is what a buyer searches. A seed list is a set of questions to validate, not a publication queue."
+        ]
+      },
+      {
+        "heading": "Keep observed exposure and estimated demand distinct",
+        "body": [
+          "Search Console shows the site’s observed page/query exposure for a selected period and surface. Record dates, page filters, country, device and disclosed-row coverage. Missing query rows do not prove zero searches. An average position across a mixed report is not one stable rank.",
+          "A keyword tool estimates demand and competition for its chosen database and date. Retain country, device, exact phrase, date and missing values. A rounded zero, n/a and an unavailable report are different states. Do not add overlapping variants into a fictional total market.",
+          "Use complete comparable windows when assessing the current page. Separate an impression loss, a CTR change and a new query mix before deciding the answer is wrong."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Diagnose observed page and query changes"
+          }
+        ]
+      },
+      {
+        "heading": "A real public-topic example: low difficulty does not mean another URL",
+        "body": [
+          "In the Semrush US desktop reports checked October 27, 2026, the four exact phrases below had the displayed estimates. They are estimated monthly searches and vendor difficulty, not our rankings, traffic, booking probability or independent audiences to add together. Non-English versions do not inherit US demand.",
+          "The decision combines those estimates with page ownership. An SEO audit, a broad website audit and keyword research do not automatically require three new pages. The buying-committee question can first strengthen the existing account-based guide rather than become another glossary page."
+        ],
+        "table": {
+          "caption": "Observed vendor estimates, US desktop, October 27, 2026",
+          "headers": [
+            "Exact phrase",
+            "Volume / KD",
+            "Existing buyer task",
+            "Page decision"
+          ],
+          "rows": [
+            [
+              "b2b seo audit",
+              "590 / 6%",
+              "Diagnose technical and search constraints",
+              "Strengthen the existing SEO audit guide"
+            ],
+            [
+              "b2b website audit",
+              "90 / 10%",
+              "Broad diagnosis may overlap SEO, content and funnel audits",
+              "Hold another audit URL until a distinct job is demonstrated"
+            ],
+            [
+              "b2b keyword research",
+              "590 / 20%",
+              "Discover questions and assign page owners before building",
+              "Distinct research guide: the page you are reading"
+            ],
+            [
+              "b2b buying committee",
+              "320 / 22%",
+              "Understand roles in account selection and outreach",
+              "Deepen the existing account-based prospecting role map first"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Existing SEO audit owner"
+          },
+          {
+            "href": "/guides/account-based-prospecting/",
+            "label": "Existing buying-role guidance"
+          }
+        ]
+      },
+      {
+        "heading": "Read the actual result set before choosing a format",
+        "body": [
+          "Inspect the strongest relevant results, not only a difficulty number. Note country/device/context, the apparent buyer task, result type and useful evidence or tools. A page of software products, a service shortlist and a practical audit guide need different kinds of answers.",
+          "Record what the buyer can actually do after reading: compare scope, reproduce a check, work an example, download a useful asset or evaluate proof. A competitor’s word count and heading list do not by themselves establish quality. A blocked page remains unassessed; it is not evidence that the page is weak.",
+          "Choose a format you can legitimately serve. Do not promise an automated site grader when you have a manual workbook, or claim firsthand results that have not been supplied and approved."
+        ]
+      },
+      {
+        "heading": "Map query families to the buying job, not to every synonym",
+        "body": [
+          "Give each important question a primary page owner. Two phrases with the same buyer task and result type often belong together. A service page answers whether you can do the work; a buyer guide helps evaluate an option; a pricing guide explains cost and inclusions. They can link without duplicating one another.",
+          "Before proposing a URL, inspect current canonicals, equivalent languages, internal referrers and actual query ownership. A page that is not indexed is not automatically redundant. Preserve useful URLs and recent improvements while addressing a demonstrated gap."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Review the existing inventory and overlap before adding pages"
+          }
+        ]
+      },
+      {
+        "heading": "A complete fictional keyword-to-page map",
+        "body": [
+          "The business and queries here are invented training material for an industrial calibration service. No search volumes, positions or results are claimed for these terms. “Unknown” means research is still required. The purpose is to show decisions, not to disguise made-up demand as a keyword report."
+        ],
+        "table": {
+          "caption": "Fictional query ownership and build decisions",
+          "headers": [
+            "Question or phrase",
+            "Buyer task and fit",
+            "Research state",
+            "Primary owner",
+            "Decision and reason"
+          ],
+          "rows": [
+            [
+              "industrial calibration provider",
+              "Hire an appropriate provider; core fit",
+              "Inspect current service results; metrics unknown",
+              "Existing /services/calibration/",
+              "Improve scope/proof only if missing; no new synonym URL"
+            ],
+            [
+              "calibration company",
+              "Same hiring task if results confirm it",
+              "Compare result intent; unknown",
+              "Same service page",
+              "Group if equivalent; do not build a second company page"
+            ],
+            [
+              "calibration cost",
+              "Budget and inclusions; evaluation fit",
+              "Cost-result format not yet inspected",
+              "Existing /guides/calibration-cost/",
+              "Improve complete cost drivers, assumptions and boundaries"
+            ],
+            [
+              "calibration pricing",
+              "Likely related to cost; not automatically a distinct task",
+              "Check actual result differences",
+              "Same cost guide provisionally",
+              "Hold separate-page proposal unless the task differs"
+            ],
+            [
+              "calibration readiness audit",
+              "Diagnose preparation before commissioning work",
+              "Guide/checklist usefulness to verify",
+              "Proposed /guides/calibration-readiness/",
+              "New page only if a complete distinct working method can be supplied"
+            ],
+            [
+              "calibration vs replacement",
+              "Choose approach; relevant decision",
+              "Compare result type and scope",
+              "Proposed comparison",
+              "Distinct decision aid if the service can honestly inform both options"
+            ],
+            [
+              "calibration jobs",
+              "Find employment; wrong acquisition audience",
+              "Buyer fit absent regardless of volume",
+              "No acquisition page",
+              "Exclude from this content programme"
+            ],
+            [
+              "calibration software",
+              "Choose a product not supplied by fictional service",
+              "Delivery mismatch",
+              "No product page",
+              "Do not invent software or a product-review business"
+            ],
+            [
+              "French equivalent of cost question",
+              "Same buying task in a supported language",
+              "Native wording and result intent unvalidated",
+              "French equivalent of the cost family",
+              "Localize the complete utility; no claim of 4×demand"
+            ],
+            [
+              "basic meaning of calibration",
+              "General learning; commercial relevance uncertain",
+              "Audience and current coverage unknown",
+              "Existing explanatory section initially",
+              "Support the relevant guide before commissioning another standalone page"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Prioritize an achievable advantage rather than low difficulty alone",
+        "body": [
+          "Assess buyer relevance, delivery fit, existing ownership, evidence of demand, result competition, the useful contribution you can provide and implementation effort. State why a topic wins rather than hiding the reasoning behind a proprietary score.",
+          "Hypothetical contrast: a phrase with 1,000 estimated searches about jobs can be less valuable to a service business than a 30-search provider question. Those numbers are invented for the comparison, not validated demand. Likewise, a low-difficulty term with product intent is a poor service-page choice.",
+          "For a proposed guide, name the advantage before the build: a complete worked decision, reliable primary evidence, a practical local workbook or clearer responsibility and scope guidance. If you cannot add meaningful buyer help beyond the best accessible results, strengthen the existing page or hold the topic."
+        ]
+      },
+      {
+        "heading": "Validate language and market separately",
+        "body": [
+          "A good translation and a locally appropriate search question are different checks. Inspect natural wording and actual local result types before retargeting a title. A country database is not proof that a phrase belongs to a particular language.",
+          "Do not multiply one US estimate by four because the website has four languages. Preserve English, Spanish, Catalan and French equivalents where appropriate, with complete tools, answers and local routes. If evidence is mixed or unavailable, record that uncertainty rather than substituting an unrelated high-volume phrase."
+        ]
+      },
+      {
+        "heading": "Turn research into a reviewable brief and a safe release",
+        "body": [
+          "The brief names buyer question, intended result type, existing or proposed URL, query family, evidence, competition gap, original utility, approved facts, source dates, related pages and a useful next step. Write what will be excluded, too. A keyword export without those decisions leaves the hardest work undone.",
+          "For substantial changes, review the complete language versions, title/description/H1, direct answer, source links, visible FAQs and matching schema, canonicals, language relationships and tool behavior. Preserve useful old paths. New sitemap discovery is separate from crawling, indexing, ranking and bookings.",
+          "After release, compare mature matched queries, relevant landing activity and genuine originally website-acquired bookings. Keep internal/audit visits and outreach-assisted journeys properly classified. More impressions or a larger content library do not by themselves show progress toward qualified conversations."
+        ]
+      },
+      {
+        "heading": "What a useful provider deliverable looks like",
+        "body": [
+          "Ask the provider to walk through one rejected keyword and one chosen keyword. A strong answer explains the buyer, evidence, result type, existing page owner, missing useful help, expected work and how uncertainty will be measured. A list of low-difficulty terms alone is insufficient.",
+          "Use the workbook to preserve those decisions and the current unknowns. It does not contact search engines, buy keyword credits or promise positions. For managed implementation, review the existing service scope and agree responsibilities and approvals."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Review managed B2B SEO and its responsibilities"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Should every keyword have a page?",
+        "answer": "No. Related phrases often share a buying task and primary page. Create a separate URL only when the buyer question, useful answer and result type justify it and existing pages cannot adequately serve it."
+      },
+      {
+        "question": "Is low keyword difficulty enough to choose a topic?",
+        "answer": "No. The audience, service fit, actual results, existing ownership and useful contribution still matter. A low-difficulty product or job query may be wrong for a service business."
+      },
+      {
+        "question": "What if the tool shows zero or no data?",
+        "answer": "Preserve the exact state. Rounded zero, n/a and unavailable metrics are different. Inspect buyer relevance and actual results before treating any of them as proof of no demand."
+      },
+      {
+        "question": "Can we translate the US keyword list into four languages?",
+        "answer": "Use it as a research starting point, not proof of local demand. Validate natural wording, market and result intent and provide complete equivalent utility."
+      },
+      {
+        "question": "How do we know research improved the business?",
+        "answer": "Track the resulting page decisions and releases, then mature relevant queries, landing activity and source-reconciled genuine bookings and qualification. Do not infer leads from impressions alone."
+      },
+      {
+        "question": "Does the workbook send queries or retain private data?",
+        "answer": "No. It is a local decision register with CSV and print output. It performs no searches or uploads, and inputs disappear when the page reloads."
+      }
+    ],
+    "related": [
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-seo-audit/",
+      "/guides/b2b-content-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Neil Patel: B2B keyword research",
+        "href": "https://neilpatel.com/blog/b2b-keyword-research/"
+      },
+      {
+        "label": "Konstruct: B2B keyword research",
+        "href": "https://www.konstructdigital.com/seo/b2b-keyword-research/"
+      },
+      {
+        "label": "CXL: keyword research through customer insights",
+        "href": "https://cxl.com/blog/b2b-keyword-research-customer-insights/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      },
+      {
+        "label": "Semrush · US · b2b seo audit · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20seo%20audit"
+      },
+      {
+        "label": "Semrush · US · b2b website audit · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20website%20audit"
+      },
+      {
+        "label": "Semrush · US · b2b keyword research · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20keyword%20research"
+      },
+      {
+        "label": "Semrush · US · b2b buying committee · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20buying%20committee"
+      }
+    ],
+    "sourceMethodology": "The public-topic table contains dated Semrush US estimates, clearly separated from the invented industrial example. Publisher articles inform the method comparison. The workbook and decision rules are Beespoke planning help; no client performance, ranking certainty or booking forecast is claimed.",
+    "heroSecondary": {
+      "label": "Map keywords to pages",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Map keywords to pages",
+      "eyebrow": "Ungated working tool",
+      "heading": "Map buyer questions to page decisions",
+      "intro": "Map buyer questions to evidence, page ownership and a justified action. Load the complete fictional map, preserve missing metrics and export the decisions. No keyword searches or paid credits are used by this tool.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidence",
+          "body": "Record what you know and where it came from. Preserve unknowns."
+        },
+        {
+          "label": "2",
+          "heading": "Decision",
+          "body": "Explain the choice, alternative and approval dependency."
+        },
+        {
+          "label": "3",
+          "heading": "Ownership",
+          "body": "Name the next action, owner and review. Export before leaving."
+        }
+      ],
+      "note": "Add up to 50 entries, load the complete fictional example and build a report for local CSV download or print. No data is sent or saved by this workbook. Reloading clears your inputs. It does not execute a campaign, audit a live site or verify your labels."
+    },
+    "workbook": {
+      "fields": [
+        "Exact phrase or question and buyer role",
+        "Buyer job, stage, service fit and exclusions",
+        "Evidence source, database, country/device, date and unknown metrics",
+        "Observed result type and useful competitor contribution",
+        "Existing primary URL, language family and overlap",
+        "Proposed action and original buyer utility",
+        "Reason for priority or hold, effort and approval dependency",
+        "Owner, release and mature review evidence"
+      ],
+      "samples": [
+        [
+          "Fictional: industrial calibration provider",
+          "Hire provider; core service fit",
+          "No metrics claimed; inspect actual database/date/context",
+          "Service results to verify; scope/proof required",
+          "Existing /services/calibration/; full language family",
+          "Improve demonstrated gap; no new synonym page",
+          "Core fit; verify evidence and facts before prioritizing",
+          "SEO/commercial owner; record baseline and release"
+        ],
+        [
+          "Fictional: calibration company",
+          "Same hiring task if validated",
+          "Unknown demand; not zero",
+          "Compare actual result equivalence",
+          "Same service provisionally",
+          "Group with provider question if same task",
+          "Avoid duplicate URL; hold if format differs",
+          "SEO owner; note result evidence"
+        ],
+        [
+          "Fictional: calibration cost",
+          "Budget/inclusions; evaluation",
+          "Current scope and sources needed; metrics unknown",
+          "Cost guide format to inspect",
+          "Existing /guides/calibration-cost/",
+          "Add useful assumptions/drivers if missing",
+          "Fit valid; facts require subject approval",
+          "Editor/subject owner; mature query review"
+        ],
+        [
+          "Fictional: calibration pricing",
+          "Likely same budget task",
+          "Unknown result difference",
+          "Verify intent before splitting",
+          "Same cost guide provisionally",
+          "Improve same page, not automatic new URL",
+          "Hold separate-page proposal",
+          "SEO/editor; document ownership"
+        ],
+        [
+          "Fictional: calibration readiness audit",
+          "Diagnose preparation; distinct potential task",
+          "Demand/result format unvalidated",
+          "Need a complete checklist and worked example",
+          "Proposed /guides/calibration-readiness/",
+          "Build only if distinct method and evidence available",
+          "Conditional new page, not an approved new service promise",
+          "Editor; approve facts and source scope"
+        ],
+        [
+          "Fictional: calibration vs replacement",
+          "Choose approach; relevant comparison",
+          "Unknown demand and scope evidence",
+          "Compare decision aids and limitations",
+          "Proposed comparison family",
+          "Original conditional decision matrix",
+          "Hold if cannot honestly explain alternatives",
+          "Subject/commercial owner; verify scope"
+        ],
+        [
+          "Fictional: calibration jobs",
+          "Employment; wrong acquisition audience",
+          "Volume irrelevant to this fit decision",
+          "Job results, not buyer decision",
+          "No acquisition page",
+          "Exclude",
+          "High potential volume would not change fit",
+          "Content owner records exclusion"
+        ],
+        [
+          "Fictional: calibration software",
+          "Product selection; fictional service sells no software",
+          "Scope mismatch",
+          "Product result type",
+          "No product page",
+          "Exclude; do not invent offering",
+          "Delivery fit fails",
+          "Commercial owner"
+        ],
+        [
+          "Fictional: French cost question",
+          "Same budget task; supported language",
+          "Native wording and local results unvalidated",
+          "Inspect local intent",
+          "French equivalent of cost family",
+          "Complete localization, tools and handoff",
+          "No 4×volume inference; hold retargeting until evidence",
+          "French editor/SEO owner"
+        ],
+        [
+          "Fictional: basic meaning",
+          "General learning; buyer relevance uncertain",
+          "Audience and existing coverage unknown",
+          "Definition result type to inspect",
+          "Existing explanatory section first",
+          "Support useful guide rather than expand automatically",
+          "Hold standalone build pending evidence",
+          "Editor; assess role and current coverage"
+        ]
+      ],
+      "legend": "B2B Keyword Research: Buyer Questions, Priorities and Page Mapping",
+      "reportTitle": "Map buyer questions to page decisions"
+    },
+    "decisionGuide": {
+      "heading": "Before you act",
+      "body": [
+        "A useful keyword plan reduces unsupported builds as well as identifying good additions. Choose the buyer task and page owner before rewriting titles or commissioning another URL."
+      ],
+      "items": [
+        "Confirm the actual buyer task and evidence.",
+        "Keep the smallest justified action and explicit unknowns.",
+        "Name the owner, approval and useful next check.",
+        "Measure mature relevant outcomes, not activity alone."
+      ]
+    }
+  },
+  "es": {
+    "path": "/guides/b2b-keyword-research/",
+    "serviceFamily": "inbound",
+    "title": "Investigación de palabras clave B2B: preguntas y páginas | Beespoke",
+    "description": "Elige consultas de compradores B2B que merezca responder. Valida intención, resultados y páginas existentes o nuevas con ejemplo ficticio y ficha CSV privada.",
+    "eyebrow": "Investigación que termina en una decisión de página",
+    "h1": "Investigación de palabras clave B2B: preguntas de compra, prioridades y páginas",
+    "answer": "La investigación de palabras clave B2B identifica preguntas que usan compradores adecuados para entender problemas, comparar opciones y evaluar proveedores. Combina lenguaje del cliente, exposición observada, estimaciones fechadas y resultados reales. Asigna cada pregunta a una página existente, una mejora o una nueva página distinta. Volumen y dificultad orientan la investigación; no demuestran encaje, posiciones seguras ni futuras reservas.",
+    "sections": [
+      {
+        "heading": "Empieza por la decisión de compra y el servicio real",
+        "body": [
+          "Define función, empresa, problema, restricciones y decisión que debe facilitar la página. Distingue aprender un término, evaluar un enfoque, comparar proveedores y comprobar alcance. Una palabra sectorial también aparece en búsquedas de empleo o estudios.",
+          "Confirma que el público puede utilizar tu servicio real. Una consulta grande de un producto que no vendes no justifica una página de servicio. Aplaza cuando mercado o alcance sean desconocidos, en vez de inventar una oferta."
+        ]
+      },
+      {
+        "heading": "Recoge lenguaje de cliente sin publicar material privado",
+        "body": [
+          "Empieza por descripciones públicas autorizadas, preguntas reales y evidencias de páginas/consultas existentes. Con permiso, temas de ventas o soporte pueden orientar investigación; mensajes exactos, keywords de clientes y propuestas confidenciales no son publicables automáticamente. Registra fuente y uso permitido.",
+          "Convierte preguntas recurrentes en hipótesis: causas, comparaciones, inclusiones, implementación y pruebas. El vocabulario interno no equivale a consulta del comprador. La lista inicial contiene preguntas por validar, no encargos de publicación."
+        ]
+      },
+      {
+        "heading": "Separa exposición observada y demanda estimada",
+        "body": [
+          "Search Console muestra exposición propia por página y consulta en un periodo y superficie. Registra fechas, filtros, país, dispositivo y cobertura de filas. Consultas ausentes no prueban cero búsquedas; posición media agregada no equivale a ranking estable.",
+          "Las herramientas estiman demanda y competencia de una base y fecha. Conserva país, dispositivo, frase exacta, fecha y estados ausentes. Cero redondeado, n/a e informe no disponible son distintos. No sumes variantes solapadas como mercado total.",
+          "Compara periodos completos: separa pérdida de impresiones, cambio de CTR y nueva mezcla antes de decidir que la respuesta falla."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Diagnosticar cambios observados por página y consulta"
+          }
+        ]
+      },
+      {
+        "heading": "Ejemplo público real: dificultad baja no significa otra URL",
+        "body": [
+          "Los informes Semrush de EE.UU. y ordenador revisados el 27 de octubre de 2026 mostraban estas estimaciones para las frases exactas. Son búsquedas mensuales y dificultad del proveedor, no rankings, tráfico, probabilidad de reserva ni públicos sumables. Los otros idiomas no heredan demanda estadounidense.",
+          "La decisión combina estimaciones y páginas existentes. Auditoría SEO, auditoría web amplia e investigación no exigen automáticamente tres URLs nuevas. Funciones de compra puede reforzar la guía por cuentas antes de convertirse en glosario separado."
+        ],
+        "table": {
+          "caption": "Estimaciones observadas, EE.UU., ordenador,27 de octubre de 2026",
+          "headers": [
+            "Frase exacta",
+            "Volumen / KD",
+            "Tarea de compra",
+            "Decisión de página"
+          ],
+          "rows": [
+            [
+              "b2b seo audit",
+              "590 / 6%",
+              "Diagnosticar límites técnicos y de búsqueda",
+              "Reforzar auditoría SEO existente"
+            ],
+            [
+              "b2b website audit",
+              "90 / 10%",
+              "Diagnóstico amplio puede solapar auditorías SEO, contenido y embudo",
+              "Aplazar otra URL hasta demostrar tarea distinta"
+            ],
+            [
+              "b2b keyword research",
+              "590 / 20%",
+              "Descubrir preguntas y asignar páginas antes de construir",
+              "Guía de investigación distinta: esta página"
+            ],
+            [
+              "b2b buying committee",
+              "320 / 22%",
+              "Entender funciones para cuentas y contacto",
+              "Ampliar primero mapa de funciones de la guía existente"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Página de auditoría SEO existente"
+          },
+          {
+            "href": "/guides/account-based-prospecting/",
+            "label": "Orientación existente sobre funciones"
+          }
+        ]
+      },
+      {
+        "heading": "Lee los resultados reales antes de elegir formato",
+        "body": [
+          "Inspecciona los resultados relevantes más fuertes, no solo dificultad. Anota país/dispositivo/contexto, tarea, formato y ayudas útiles. Software, listas de servicios y guía práctica necesitan respuestas diferentes.",
+          "Comprueba qué permite hacer la página: comparar alcance, reproducir prueba, trabajar ejemplo, descargar recurso útil o valorar evidencias. Número de palabras y encabezados no prueban calidad. Un acceso bloqueado sigue sin evaluar, no demuestra debilidad.",
+          "Elige un formato legítimo: no prometas verificador automático si solo tienes ficha manual ni experiencia propia no proporcionada y autorizada."
+        ]
+      },
+      {
+        "heading": "Agrupa por tarea de compra, no por cada sinónimo",
+        "body": [
+          "Da a cada pregunta importante una página principal. Dos frases con la misma tarea y resultados suelen compartirla. Servicio explica si podéis realizar el trabajo; guía ayuda a evaluar; precios explican costes e inclusiones. Pueden enlazarse sin duplicarse.",
+          "Antes de proponer URL, revisa canónicas, equivalentes, enlaces de entrada y consultas que ya poseen las páginas. No estar indexada no vuelve redundante una página. Conserva URLs útiles y mejoras recientes al corregir una carencia concreta."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Revisar inventario y solapamientos antes de añadir páginas"
+          }
+        ]
+      },
+      {
+        "heading": "Mapa ficticio completo de consultas y páginas",
+        "body": [
+          "Empresa y consultas inventadas para un servicio industrial de calibración. No se afirman volúmenes, posiciones ni resultados reales. Desconocido significa investigación pendiente. El ejemplo enseña decisiones, no disfraza demanda inventada."
+        ],
+        "table": {
+          "caption": "Propiedad ficticia de consultas",
+          "headers": [
+            "Consulta",
+            "Tarea y encaje",
+            "Estado de investigación",
+            "Página principal",
+            "Decisión y razón"
+          ],
+          "rows": [
+            [
+              "proveedor de calibración industrial",
+              "Contratar; encaje central",
+              "Revisar resultados de servicio; métricas desconocidas",
+              "Existente /services/calibration/",
+              "Completar alcance/pruebas si faltan; no nueva URL sinónima"
+            ],
+            [
+              "empresa de calibración",
+              "Misma contratación si se valida",
+              "Intención por comparar",
+              "Mismo servicio",
+              "Agrupar si es equivalente"
+            ],
+            [
+              "coste de calibración",
+              "Presupuesto e inclusiones",
+              "Formato de coste sin revisar",
+              "Existente /guides/calibration-cost/",
+              "Mejorar factores, supuestos y límites"
+            ],
+            [
+              "precios de calibración",
+              "Probable misma tarea presupuestaria",
+              "Comprobar diferencias reales",
+              "Misma guía provisionalmente",
+              "No separar sin tarea distinta"
+            ],
+            [
+              "auditoría de preparación de calibración",
+              "Diagnóstico previo distinto",
+              "Utilidad/formato por verificar",
+              "Propuesta /guides/calibration-readiness/",
+              "Crear solo con método distinto completo"
+            ],
+            [
+              "calibración o sustitución",
+              "Elegir enfoque pertinente",
+              "Comparar formato y alcance",
+              "Comparación propuesta",
+              "Crear ayuda condicional si se explican ambas opciones honestamente"
+            ],
+            [
+              "empleos de calibración",
+              "Empleo; público incorrecto",
+              "Sin encaje comprador",
+              "Ninguna página de captación",
+              "Excluir aunque tenga volumen"
+            ],
+            [
+              "software de calibración",
+              "Producto no suministrado",
+              "Incompatibilidad de oferta",
+              "Ninguna página de producto",
+              "No inventar software o negocio de reseñas"
+            ],
+            [
+              "equivalente francés de costes",
+              "Misma compra en idioma admitido",
+              "Redacción/resultados locales sin validar",
+              "Equivalente francés",
+              "Localizar utilidad completa; no inferir 4×demanda"
+            ],
+            [
+              "significado básico de calibración",
+              "Aprendizaje general; relevancia incierta",
+              "Público y cobertura desconocidos",
+              "Sección explicativa existente",
+              "Apoyar guía antes de crear otra página"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Prioriza una ventaja posible, no solo dificultad baja",
+        "body": [
+          "Evalúa relevancia de compra, encaje de servicio, página existente, evidencia de demanda, competencia, aporte útil y esfuerzo. Explica por qué gana el tema sin ocultarlo en una puntuación propietaria.",
+          "Contraste hipotético: una frase de empleo con 1.000 búsquedas estimadas puede valer menos para el servicio que una pregunta de proveedor con 30. Son cifras didácticas inventadas, no demanda validada. Una consulta de producto fácil también puede ser mala para un servicio.",
+          "Define la ventaja antes de construir: decisión completa, fuentes primarias fiables, ficha práctica o responsabilidades más claras. Si no puedes aportar ayuda sustancial frente a los mejores resultados accesibles, mejora lo existente o aplaza."
+        ]
+      },
+      {
+        "heading": "Valida idioma y mercado por separado",
+        "body": [
+          "Traducir bien y elegir una pregunta local son comprobaciones distintas. Revisa redacción natural y formatos reales antes de retargetear un título. Una base de país no demuestra idioma de la frase.",
+          "No multipliques una estimación estadounidense por cuatro. Conserva equivalentes completos en inglés, español, catalán y francés cuando corresponda, con herramientas, respuestas y rutas. Registra evidencia mixta o ausente; no sustituyas por frase ajena de gran volumen."
+        ]
+      },
+      {
+        "heading": "De investigación a brief y publicación segura",
+        "body": [
+          "El brief fija pregunta, formato, URL existente/propuesta, familia de consultas, evidencias, carencia competitiva, utilidad original, hechos aprobados, fuentes fechadas, páginas relacionadas y siguiente paso. También exclusiones. Un export de keywords no resuelve estas decisiones.",
+          "Revisa versiones completas, título/descripción/H1, respuesta, fuentes, FAQs y schema coherentes, canónicas, idiomas y herramientas. Conserva rutas útiles. Descubrimiento por sitemap no es rastreo, indexación, ranking ni reservas.",
+          "Después compara consultas maduras equivalentes, entradas relevantes y reservas adquiridas originalmente por web. Clasifica auditorías y visitas asistidas por outreach. Más impresiones o artículos no bastan para demostrar conversaciones cualificadas."
+        ]
+      },
+      {
+        "heading": "Qué entrega útil debe presentar un proveedor",
+        "body": [
+          "Pide explicar una keyword descartada y una elegida: comprador, fuente, resultado, página principal, ayuda ausente, trabajo e incertidumbre. Una lista de términos fáciles no basta.",
+          "La ficha conserva decisiones y desconocidos. No consulta buscadores, compra créditos ni promete posiciones. Para implementar, revisa el servicio existente y acuerda responsabilidades y aprobaciones."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Revisar SEO B2B gestionado y responsabilidades"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "¿Cada keyword necesita página?",
+        "answer": "No. Las frases relacionadas suelen compartir tarea y página. Separa solo si pregunta, utilidad y formato lo justifican y lo existente no basta."
+      },
+      {
+        "question": "¿Basta dificultad baja?",
+        "answer": "No. Público, servicio, resultados, propiedad actual y aportación útil importan. Un término fácil de empleo o producto puede ser inadecuado."
+      },
+      {
+        "question": "¿Qué significa cero o sin datos?",
+        "answer": "Conserva el estado exacto: cero redondeado, n/a y dato no disponible son distintos. Revisa relevancia y resultados antes de concluir falta de demanda."
+      },
+      {
+        "question": "¿Podemos traducir la lista de EE.UU.?",
+        "answer": "Úsala como punto de partida, no prueba local. Valida redacción, mercado e intención y ofrece utilidad completa equivalente."
+      },
+      {
+        "question": "¿Cómo medimos mejora comercial?",
+        "answer": "Registra decisiones y publicaciones; después consultas maduras, entradas relevantes y reservas/cualificación reales con origen. Impresiones no equivalen a leads."
+      },
+      {
+        "question": "¿La ficha envía búsquedas o guarda datos?",
+        "answer": "No. Es un registro local con CSV e impresión. No busca ni carga datos; recargar borra los campos."
+      }
+    ],
+    "related": [
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-seo-audit/",
+      "/guides/b2b-content-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Neil Patel: B2B keyword research",
+        "href": "https://neilpatel.com/blog/b2b-keyword-research/"
+      },
+      {
+        "label": "Konstruct: B2B keyword research",
+        "href": "https://www.konstructdigital.com/seo/b2b-keyword-research/"
+      },
+      {
+        "label": "CXL: keyword research through customer insights",
+        "href": "https://cxl.com/blog/b2b-keyword-research-customer-insights/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      },
+      {
+        "label": "Semrush · US · b2b seo audit · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20seo%20audit"
+      },
+      {
+        "label": "Semrush · US · b2b website audit · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20website%20audit"
+      },
+      {
+        "label": "Semrush · US · b2b keyword research · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20keyword%20research"
+      },
+      {
+        "label": "Semrush · US · b2b buying committee · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20buying%20committee"
+      }
+    ],
+    "sourceMethodology": "La tabla pública contiene estimaciones Semrush de EE.UU. fechadas, separadas del ejemplo industrial inventado. Los artículos comparan métodos. Ficha y reglas son ayudas de Beespoke, no rendimiento de clientes, certeza de ranking ni previsión de reservas.",
+    "heroSecondary": {
+      "label": "Mapear consultas y páginas",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Mapear consultas y páginas",
+      "eyebrow": "Herramienta sin registro",
+      "heading": "Asigna preguntas de compra a páginas",
+      "intro": "Mapea preguntas a pruebas, páginas y una acción justificada. Carga el ejemplo ficticio completo, conserva métricas ausentes y exporta decisiones. La ficha no busca keywords ni usa créditos.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Pruebas",
+          "body": "Registra qué sabes y de dónde procede. Conserva lo desconocido."
+        },
+        {
+          "label": "2",
+          "heading": "Decisión",
+          "body": "Explica elección, alternativa y aprobación necesaria."
+        },
+        {
+          "label": "3",
+          "heading": "Responsable",
+          "body": "Indica acción, responsable y revisión. Exporta antes de salir."
+        }
+      ],
+      "note": "Añade hasta 50 entradas, carga el ejemplo ficticio completo y crea un informe para descargar CSV local o imprimir. La ficha no envía ni guarda datos. Recargar borra los campos. No ejecuta campañas, audita sitios reales ni verifica tus etiquetas."
+    },
+    "workbook": {
+      "fields": [
+        "Frase exacta o pregunta y función compradora",
+        "Tarea, etapa, servicio y exclusiones",
+        "Fuente, base, país/dispositivo, fecha y métricas desconocidas",
+        "Formato observado y aporte útil de competidores",
+        "URL principal existente, familia de idioma y solapamiento",
+        "Acción propuesta y utilidad original",
+        "Razón de prioridad/aplazamiento, esfuerzo y aprobación",
+        "Responsable, publicación y revisión madura"
+      ],
+      "samples": [
+        [
+          "Ficticio: proveedor de calibración",
+          "Contratar; servicio central",
+          "Sin métricas afirmadas; revisar base/fecha/contexto",
+          "Servicios por verificar; alcance/pruebas necesarios",
+          "Existente /services/calibration/; familia completa",
+          "Mejorar carencia demostrada; no URL sinónima",
+          "Encaje central; verificar pruebas y hechos",
+          "SEO/comercial; referencia inicial y publicación"
+        ],
+        [
+          "Ficticio: empresa de calibración",
+          "Misma contratación si se valida",
+          "Demanda desconocida, no cero",
+          "Comparar equivalencia de resultados",
+          "Mismo servicio provisional",
+          "Agrupar si misma tarea",
+          "Evitar duplicación; aplazar si difiere formato",
+          "SEO; anotar prueba"
+        ],
+        [
+          "Ficticio: coste de calibración",
+          "Presupuesto/inclusiones",
+          "Alcance/fuentes actuales; métricas desconocidas",
+          "Formato de guía por revisar",
+          "Existente /guides/calibration-cost/",
+          "Añadir factores/supuestos útiles si faltan",
+          "Hechos requieren aprobación especialista",
+          "Edición/especialista; cohortes maduras"
+        ],
+        [
+          "Ficticio: precios de calibración",
+          "Probable misma tarea",
+          "Diferencias desconocidas",
+          "Validar antes de separar",
+          "Misma guía provisional",
+          "Mejorar misma página",
+          "Aplazar URL aparte",
+          "SEO/edición; documentar propiedad"
+        ],
+        [
+          "Ficticio: auditoría de preparación",
+          "Diagnóstico potencialmente distinto",
+          "Demanda/formato sin validar",
+          "Lista y ejemplo completos necesarios",
+          "Propuesta /guides/calibration-readiness/",
+          "Crear solo con método y pruebas propios",
+          "Nueva página condicional, no nuevo servicio prometido",
+          "Edición; aprobar hechos y fuentes"
+        ],
+        [
+          "Ficticio: calibración o sustitución",
+          "Elegir enfoque",
+          "Demanda/alcance desconocidos",
+          "Ayudas de decisión y límites",
+          "Comparación propuesta",
+          "Matriz condicional original",
+          "Aplazar si no se explican opciones honestamente",
+          "Especialista/comercial"
+        ],
+        [
+          "Ficticio: empleos",
+          "Trabajo, no público de captación",
+          "Volumen no resuelve encaje",
+          "Resultados de empleo",
+          "Ninguna página",
+          "Excluir",
+          "Gran volumen no cambia encaje",
+          "Responsable de contenido"
+        ],
+        [
+          "Ficticio: software",
+          "Producto no ofrecido",
+          "Oferta incompatible",
+          "Resultados de producto",
+          "Ninguna página",
+          "Excluir; no inventar oferta",
+          "Falla encaje de entrega",
+          "Comercial"
+        ],
+        [
+          "Ficticio: costes en francés",
+          "Misma compra; idioma admitido",
+          "Redacción/resultados sin validar",
+          "Inspeccionar intención local",
+          "Equivalente francés",
+          "Localización completa, herramientas y siguiente paso",
+          "No 4×volumen; aplazar retargeting",
+          "Edición francesa/SEO"
+        ],
+        [
+          "Ficticio: significado básico",
+          "Aprendizaje; relevancia incierta",
+          "Público/cobertura desconocidos",
+          "Definición por revisar",
+          "Sección existente primero",
+          "Apoyar guía antes de ampliar",
+          "Aplazar página nueva sin pruebas",
+          "Edición; revisar función y cobertura"
+        ]
+      ],
+      "legend": "Investigación de palabras clave B2B: preguntas y páginas",
+      "reportTitle": "Asigna preguntas de compra a páginas"
+    },
+    "decisionGuide": {
+      "heading": "Antes de actuar",
+      "body": [
+        "Un plan útil descarta construcciones sin fundamento y detecta buenas adiciones. Decide tarea y página principal antes de reescribir títulos o encargar otra URL."
+      ],
+      "items": [
+        "Confirma la pregunta de compra y sus pruebas.",
+        "Conserva el cambio mínimo justificado y las dudas.",
+        "Asigna responsable, aprobación y comprobación útil.",
+        "Evalúa resultados pertinentes maduros, no solo actividad."
+      ]
+    }
+  },
+  "ca": {
+    "path": "/guides/b2b-keyword-research/",
+    "serviceFamily": "inbound",
+    "title": "Recerca de paraules clau B2B: preguntes i pàgines | Beespoke",
+    "description": "Tria consultes de compradors B2B que valgui la pena respondre. Valida intenció, resultats i pàgines existents o noves amb exemple fictici i fitxa CSV privada.",
+    "eyebrow": "Recerca que acaba en una decisió de pàgina",
+    "h1": "Recerca de paraules clau B2B: preguntes de compra, prioritats i pàgines",
+    "answer": "La recerca de paraules clau B2B identifica preguntes de compradors adequats per entendre problemes, comparar opcions i avaluar proveïdors. Combina llenguatge del client, exposició observada, estimacions datades i resultats reals. Assigna cada pregunta a una pàgina existent, una millora o una pàgina nova diferenciada. Volum i dificultat orienten la recerca; no proven encaix, posicions segures ni reserves futures.",
+    "sections": [
+      {
+        "heading": "Comença per la decisió de compra i el servei real",
+        "body": [
+          "Defineix funció, empresa, problema, restriccions i decisió que ha de facilitar la pàgina. Distingeix aprendre un terme, valorar un enfocament, comparar proveïdors i comprovar abast. Una paraula sectorial també apareix en cerques de feina o estudis.",
+          "Confirma que el públic pot utilitzar el servei real. Una consulta gran d’un producte que no vens no justifica una pàgina de servei. Ajornar és adequat si mercat o abast són desconeguts; no inventis una oferta."
+        ]
+      },
+      {
+        "heading": "Recull llenguatge del client sense publicar material privat",
+        "body": [
+          "Comença per descripcions públiques autoritzades, preguntes reals i evidències de pàgines/consultes existents. Amb permís, temes de vendes o suport orienten recerca; missatges exactes, keywords de clients i propostes confidencials no són publicables automàticament. Registra font i ús permès.",
+          "Converteix preguntes recurrents en hipòtesis: causes, comparacions, inclusions, implementació i evidències. El vocabulari intern no equival a la consulta del comprador. La llista inicial conté preguntes per validar, no encàrrecs de publicació."
+        ]
+      },
+      {
+        "heading": "Separa exposició observada i demanda estimada",
+        "body": [
+          "Search Console mostra exposició pròpia per pàgina i consulta dins un període i superfície. Registra dates, filtres, país, dispositiu i cobertura de files. Consultes absents no proven zero cerques; posició mitjana agregada no equival a rànquing estable.",
+          "Les eines estimen demanda i competència d’una base i data. Conserva país, dispositiu, frase exacta, data i estats absents. Zero arrodonit, n/a i informe no disponible són diferents. No sumis variants solapades com a mercat total.",
+          "Compara períodes complets: separa pèrdua d’impressions, canvi de CTR i nova barreja abans de concloure que la resposta falla."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Diagnosticar canvis observats per pàgina i consulta"
+          }
+        ]
+      },
+      {
+        "heading": "Exemple públic real: poca dificultat no vol dir una altra URL",
+        "body": [
+          "Els informes Semrush dels EUA i ordinador revisats el 27 d’octubre de 2026 mostraven aquestes estimacions per a les frases exactes. Són cerques mensuals i dificultat del proveïdor, no rànquings, trànsit, probabilitat de reserva ni públics sumables. Els altres idiomes no hereten demanda nord-americana.",
+          "La decisió combina estimacions i pàgines existents. Auditoria SEO, auditoria web àmplia i recerca no exigeixen tres URLs noves automàticament. Funcions de compra pot reforçar la guia per comptes abans d’esdevenir glossari separat."
+        ],
+        "table": {
+          "caption": "Estimacions observades, EUA, ordinador,27 d’octubre de 2026",
+          "headers": [
+            "Frase exacta",
+            "Volum / KD",
+            "Tasca de compra",
+            "Decisió de pàgina"
+          ],
+          "rows": [
+            [
+              "b2b seo audit",
+              "590 / 6%",
+              "Diagnosticar límits tècnics i de cerca",
+              "Reforçar auditoria SEO existent"
+            ],
+            [
+              "b2b website audit",
+              "90 / 10%",
+              "Diagnòstic ampli pot solapar SEO, contingut i embut",
+              "Ajornar altra URL fins a demostrar tasca diferent"
+            ],
+            [
+              "b2b keyword research",
+              "590 / 20%",
+              "Descobrir preguntes i assignar pàgines abans de construir",
+              "Guia de recerca diferent: aquesta pàgina"
+            ],
+            [
+              "b2b buying committee",
+              "320 / 22%",
+              "Entendre funcions per a comptes i contacte",
+              "Ampliar primer mapa de funcions existent"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Pàgina d’auditoria SEO existent"
+          },
+          {
+            "href": "/guides/account-based-prospecting/",
+            "label": "Orientació existent sobre funcions"
+          }
+        ]
+      },
+      {
+        "heading": "Llegeix els resultats reals abans de triar format",
+        "body": [
+          "Inspecciona els resultats pertinents més forts, no només dificultat. Anota país/dispositiu/context, tasca, format i ajudes útils. Programari, llistes de serveis i guia pràctica necessiten respostes diferents.",
+          "Comprova què permet fer la pàgina: comparar abast, reproduir prova, treballar exemple, descarregar recurs útil o valorar evidències. Nombre de paraules i encapçalaments no proven qualitat. Un accés bloquejat continua no avaluat, no prova debilitat.",
+          "Tria un format legítim: no prometis verificador automàtic si només tens fitxa manual ni experiència pròpia no aportada i autoritzada."
+        ]
+      },
+      {
+        "heading": "Agrupa per tasca de compra, no per cada sinònim",
+        "body": [
+          "Dona a cada pregunta important una pàgina principal. Dues frases amb la mateixa tasca i resultats sovint la comparteixen. Servei explica si podeu fer la feina; guia ajuda a avaluar; preus expliquen costos i inclusions. Poden enllaçar-se sense duplicar-se.",
+          "Abans de proposar URL, revisa canòniques, equivalents, enllaços entrants i consultes que ja tenen les pàgines. No estar indexada no fa redundant una pàgina. Conserva URLs útils i millores recents quan corregeixis una mancança concreta."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Revisar inventari i solapaments abans d’afegir pàgines"
+          }
+        ]
+      },
+      {
+        "heading": "Mapa fictici complet de consultes i pàgines",
+        "body": [
+          "Empresa i consultes inventades per a un servei industrial de calibratge. No s’afirmen volums, posicions ni resultats reals. Desconegut vol dir recerca pendent. L’exemple ensenya decisions, no dissimula demanda inventada."
+        ],
+        "table": {
+          "caption": "Propietat fictícia de consultes",
+          "headers": [
+            "Consulta",
+            "Tasca i encaix",
+            "Estat de recerca",
+            "Pàgina principal",
+            "Decisió i raó"
+          ],
+          "rows": [
+            [
+              "proveïdor de calibratge industrial",
+              "Contractar; encaix central",
+              "Revisar resultats de servei; mètriques desconegudes",
+              "Existent /services/calibration/",
+              "Completar abast/proves si falten; no URL sinònima"
+            ],
+            [
+              "empresa de calibratge",
+              "Mateixa contractació si es valida",
+              "Comparar intenció",
+              "Mateix servei",
+              "Agrupar si és equivalent"
+            ],
+            [
+              "cost del calibratge",
+              "Pressupost i inclusions",
+              "Format de cost pendent",
+              "Existent /guides/calibration-cost/",
+              "Millorar factors, supòsits i límits"
+            ],
+            [
+              "preus de calibratge",
+              "Probable mateixa tasca",
+              "Comprovar diferències reals",
+              "Mateixa guia provisional",
+              "No separar sense tasca diferent"
+            ],
+            [
+              "auditoria de preparació del calibratge",
+              "Diagnòstic previ diferent",
+              "Utilitat/format pendents",
+              "Proposta /guides/calibration-readiness/",
+              "Crear només amb mètode diferent complet"
+            ],
+            [
+              "calibratge o substitució",
+              "Triar enfocament pertinent",
+              "Comparar format i abast",
+              "Comparació proposada",
+              "Ajuda condicional si s’expliquen honestament les dues opcions"
+            ],
+            [
+              "feines de calibratge",
+              "Ocupació; públic incorrecte",
+              "Sense encaix comprador",
+              "Cap pàgina de captació",
+              "Excloure encara que tingui volum"
+            ],
+            [
+              "programari de calibratge",
+              "Producte no subministrat",
+              "Oferta incompatible",
+              "Cap pàgina de producte",
+              "No inventar programari ni negoci de ressenyes"
+            ],
+            [
+              "equivalent francès de costos",
+              "Mateixa compra en idioma admès",
+              "Redactat/resultats locals no validats",
+              "Equivalent francès",
+              "Localitzar utilitat completa; no inferir 4×demanda"
+            ],
+            [
+              "significat bàsic de calibratge",
+              "Aprenentatge general; rellevància incerta",
+              "Públic i cobertura desconeguts",
+              "Secció explicativa existent",
+              "Reforçar guia abans de crear pàgina"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Prioritza un avantatge possible, no només poca dificultat",
+        "body": [
+          "Avalua pertinència de compra, encaix del servei, pàgina existent, demanda acreditada, competència, aportació útil i esforç. Explica per què guanya el tema sense amagar-ho dins una puntuació pròpia.",
+          "Contrast hipotètic: una frase de feina amb 1.000 cerques estimades pot valer menys per al servei que una pregunta de proveïdor amb 30. Són xifres didàctiques inventades, no demanda validada. Una consulta de producte fàcil també pot ser inadequada per a un servei.",
+          "Defineix l’avantatge abans de construir: decisió completa, fonts primàries fiables, fitxa pràctica o responsabilitats més clares. Si no pots aportar ajuda substancial davant els millors resultats accessibles, millora allò existent o ajorna."
+        ]
+      },
+      {
+        "heading": "Valida idioma i mercat per separat",
+        "body": [
+          "Traduir bé i triar una pregunta local són comprovacions diferents. Revisa redactat natural i formats reals abans de reorientar un títol. Una base de país no prova l’idioma de la frase.",
+          "No multipliquis una estimació dels EUA per quatre. Conserva equivalents complets en anglès, castellà, català i francès quan pertoqui, amb eines, respostes i rutes. Registra evidència mixta o absent; no substitueixis per una frase aliena de gran volum."
+        ]
+      },
+      {
+        "heading": "De recerca a brief i publicació segura",
+        "body": [
+          "El brief fixa pregunta, format, URL existent/proposada, família de consultes, evidències, mancança competitiva, utilitat original, fets aprovats, fonts datades, pàgines relacionades i pas següent. També exclusions. Exportar keywords no resol aquestes decisions.",
+          "Revisa versions completes, títol/descripció/H1, resposta, fonts, FAQs i schema coherents, canòniques, idiomes i eines. Conserva rutes útils. Descobriment per sitemap no és rastreig, indexació, rànquing ni reserves.",
+          "Després compara consultes madures equivalents, entrades pertinents i reserves adquirides originalment pel web. Classifica auditories i visites assistides per outreach. Més impressions o articles no demostren converses qualificades."
+        ]
+      },
+      {
+        "heading": "Quina entrega útil ha de presentar un proveïdor",
+        "body": [
+          "Demana explicar una keyword descartada i una triada: comprador, font, resultat, pàgina principal, ajuda absent, feina i incertesa. Una llista de termes fàcils no basta.",
+          "La fitxa conserva decisions i desconeguts. No consulta cercadors, compra crèdits ni promet posicions. Per implementar, revisa el servei existent i acorda responsabilitats i aprovacions."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Revisar SEO B2B gestionat i responsabilitats"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Cada keyword necessita pàgina?",
+        "answer": "No. Les frases relacionades sovint comparteixen tasca i pàgina. Separa només si pregunta, utilitat i format ho justifiquen i allò existent no basta."
+      },
+      {
+        "question": "N’hi ha prou amb poca dificultat?",
+        "answer": "No. Públic, servei, resultats, propietat actual i aportació útil importen. Un terme fàcil d’ocupació o producte pot ser inadequat."
+      },
+      {
+        "question": "Què vol dir zero o sense dades?",
+        "answer": "Conserva l’estat exacte: zero arrodonit, n/a i dada no disponible són diferents. Revisa rellevància i resultats abans de concloure manca de demanda."
+      },
+      {
+        "question": "Podem traduir la llista dels EUA?",
+        "answer": "Utilitza-la com a inici, no prova local. Valida redactat, mercat i intenció i ofereix utilitat completa equivalent."
+      },
+      {
+        "question": "Com mesurem millora comercial?",
+        "answer": "Registra decisions i publicacions; després consultes madures, entrades pertinents i reserves/qualificació reals amb origen. Impressions no equivalen a leads."
+      },
+      {
+        "question": "La fitxa envia cerques o desa dades?",
+        "answer": "No. És un registre local amb CSV i impressió. No cerca ni carrega dades; recarregar esborra els camps."
+      }
+    ],
+    "related": [
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-seo-audit/",
+      "/guides/b2b-content-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Neil Patel: B2B keyword research",
+        "href": "https://neilpatel.com/blog/b2b-keyword-research/"
+      },
+      {
+        "label": "Konstruct: B2B keyword research",
+        "href": "https://www.konstructdigital.com/seo/b2b-keyword-research/"
+      },
+      {
+        "label": "CXL: keyword research through customer insights",
+        "href": "https://cxl.com/blog/b2b-keyword-research-customer-insights/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      },
+      {
+        "label": "Semrush · US · b2b seo audit · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20seo%20audit"
+      },
+      {
+        "label": "Semrush · US · b2b website audit · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20website%20audit"
+      },
+      {
+        "label": "Semrush · US · b2b keyword research · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20keyword%20research"
+      },
+      {
+        "label": "Semrush · US · b2b buying committee · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20buying%20committee"
+      }
+    ],
+    "sourceMethodology": "La taula pública conté estimacions Semrush dels EUA datades, separades de l’exemple industrial inventat. Els articles comparen mètodes. Fitxa i regles són ajudes de Beespoke, no rendiment de clients, certesa de rànquing ni previsió de reserves.",
+    "heroSecondary": {
+      "label": "Mapeja consultes i pàgines",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Mapeja consultes i pàgines",
+      "eyebrow": "Eina sense registre",
+      "heading": "Assigna preguntes de compra a pàgines",
+      "intro": "Mapeja preguntes a evidències, pàgines i una acció justificada. Carrega el mapa fictici complet, conserva mètriques absents i exporta decisions. La fitxa no cerca keywords ni utilitza crèdits.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Evidències",
+          "body": "Registra què saps i d’on prové. Conserva allò desconegut."
+        },
+        {
+          "label": "2",
+          "heading": "Decisió",
+          "body": "Explica tria, alternativa i aprovació necessària."
+        },
+        {
+          "label": "3",
+          "heading": "Responsable",
+          "body": "Indica acció, responsable i revisió. Exporta abans de sortir."
+        }
+      ],
+      "note": "Afegeix fins a 50 entrades, carrega l’exemple fictici complet i crea un informe per descarregar CSV local o imprimir. La fitxa no envia ni desa dades. Recarregar esborra els camps. No executa campanyes, audita llocs reals ni verifica les etiquetes."
+    },
+    "workbook": {
+      "fields": [
+        "Frase exacta o pregunta i funció compradora",
+        "Tasca, etapa, servei i exclusions",
+        "Font, base, país/dispositiu, data i mètriques desconegudes",
+        "Format observat i aportació útil de competidors",
+        "URL principal existent, família d’idioma i solapament",
+        "Acció proposada i utilitat original",
+        "Raó de prioritat/ajornament, esforç i aprovació",
+        "Responsable, publicació i revisió madura"
+      ],
+      "samples": [
+        [
+          "Fictici: proveïdor de calibratge",
+          "Contractar; servei central",
+          "Sense mètriques afirmades; revisar base/data/context",
+          "Serveis per verificar; abast/proves necessaris",
+          "Existent /services/calibration/; família completa",
+          "Millorar mancança demostrada; no URL sinònima",
+          "Encaix central; comprovar proves i fets",
+          "SEO/comercial; referència inicial i publicació"
+        ],
+        [
+          "Fictici: empresa de calibratge",
+          "Mateixa contractació si es valida",
+          "Demanda desconeguda, no zero",
+          "Comparar equivalència de resultats",
+          "Mateix servei provisional",
+          "Agrupar si mateixa tasca",
+          "Evitar duplicació; ajornar si format diferent",
+          "SEO; anotar evidència"
+        ],
+        [
+          "Fictici: cost de calibratge",
+          "Pressupost/inclusions",
+          "Abast/fonts actuals; mètriques desconegudes",
+          "Format de guia pendent",
+          "Existent /guides/calibration-cost/",
+          "Afegir factors/supòsits útils si falten",
+          "Fets requereixen aprovació especialista",
+          "Edició/especialista; cohorts madures"
+        ],
+        [
+          "Fictici: preus de calibratge",
+          "Probable mateixa tasca",
+          "Diferències desconegudes",
+          "Validar abans de separar",
+          "Mateixa guia provisional",
+          "Millorar mateixa pàgina",
+          "Ajornar URL separada",
+          "SEO/edició; documentar propietat"
+        ],
+        [
+          "Fictici: auditoria de preparació",
+          "Diagnòstic potencialment diferent",
+          "Demanda/format no validats",
+          "Llista i exemple complets necessaris",
+          "Proposta /guides/calibration-readiness/",
+          "Crear només amb mètode i proves propis",
+          "Nova pàgina condicional, no servei nou promès",
+          "Edició; aprovar fets i fonts"
+        ],
+        [
+          "Fictici: calibratge o substitució",
+          "Triar enfocament",
+          "Demanda/abast desconeguts",
+          "Ajudes de decisió i límits",
+          "Comparació proposada",
+          "Matriu condicional original",
+          "Ajornar si no s’expliquen opcions honestament",
+          "Especialista/comercial"
+        ],
+        [
+          "Fictici: feines",
+          "Ocupació, no públic de captació",
+          "Volum no resol encaix",
+          "Resultats de feina",
+          "Cap pàgina",
+          "Excloure",
+          "Gran volum no canvia encaix",
+          "Responsable de contingut"
+        ],
+        [
+          "Fictici: programari",
+          "Producte no ofert",
+          "Oferta incompatible",
+          "Resultats de producte",
+          "Cap pàgina",
+          "Excloure; no inventar oferta",
+          "Falla encaix de lliurament",
+          "Comercial"
+        ],
+        [
+          "Fictici: costos en francès",
+          "Mateixa compra; idioma admès",
+          "Redactat/resultats no validats",
+          "Inspeccionar intenció local",
+          "Equivalent francès",
+          "Localització completa, eines i pas següent",
+          "No 4×volum; ajornar reorientació",
+          "Edició francesa/SEO"
+        ],
+        [
+          "Fictici: significat bàsic",
+          "Aprenentatge; rellevància incerta",
+          "Públic/cobertura desconeguts",
+          "Definició per revisar",
+          "Secció existent primer",
+          "Reforçar guia abans d’ampliar",
+          "Ajornar pàgina nova sense proves",
+          "Edició; revisar funció i cobertura"
+        ]
+      ],
+      "legend": "Recerca de paraules clau B2B: preguntes i pàgines",
+      "reportTitle": "Assigna preguntes de compra a pàgines"
+    },
+    "decisionGuide": {
+      "heading": "Abans d’actuar",
+      "body": [
+        "Un pla útil descarta construccions sense fonament i detecta bones addicions. Decideix tasca i pàgina principal abans de reescriure títols o encarregar una altra URL."
+      ],
+      "items": [
+        "Confirma la pregunta de compra i les evidències.",
+        "Conserva el canvi mínim justificat i els dubtes.",
+        "Assigna responsable, aprovació i comprovació útil.",
+        "Avalua resultats pertinents madurs, no només activitat."
+      ]
+    }
+  },
+  "fr": {
+    "path": "/guides/b2b-keyword-research/",
+    "serviceFamily": "inbound",
+    "title": "Recherche de mots-clés B2B : questions, priorités et pages | Beespoke",
+    "description": "Choisissez les recherches d’acheteurs B2B à servir. Vérifiez intention, résultats et pages existantes ou nouvelles avec un exemple fictif et une fiche CSV privée.",
+    "eyebrow": "Une recherche qui aboutit à une décision de page",
+    "h1": "Recherche de mots-clés B2B : choisir les questions d’achat, les priorités et les pages",
+    "answer": "La recherche de mots-clés B2B identifie les questions des bons acheteurs pour comprendre un problème, comparer des approches et évaluer des prestataires. Associez langage client, exposition observée, estimations datées et résultats réels. Attribuez chaque question à une page existante, une amélioration ou une nouvelle page distincte. Volume et difficulté orientent l’examen ; ils ne prouvent ni adéquation, ni classement certain, ni réservations futures.",
+    "sections": [
+      {
+        "heading": "Partir de la décision d’achat et du service réel",
+        "body": [
+          "Précisez rôle, entreprise, problème, contraintes et décision à faciliter. Distinguez apprendre un terme, évaluer une approche, comparer des prestataires et vérifier le périmètre. Un même terme sectoriel apparaît aussi dans des recherches d’emploi ou des études.",
+          "Confirmez que le public peut utiliser votre véritable service. Une grande requête de produit que vous ne vendez pas ne justifie pas une page de service. Différez lorsque marché ou périmètre sont inconnus, plutôt que d’inventer une offre."
+        ]
+      },
+      {
+        "heading": "Recueillir le langage client sans publier de données privées",
+        "body": [
+          "Commencez par descriptions publiques autorisées, questions réelles et preuves des pages/requêtes existantes. Avec accord, des thèmes de vente ou de support éclairent la recherche ; messages exacts, mots-clés clients et propositions confidentielles ne deviennent pas publiables automatiquement. Notez source et usage permis.",
+          "Transformez les questions répétées en hypothèses : causes, comparaisons, inclusions, mise en œuvre et preuves. Le vocabulaire interne n’est pas nécessairement celui de l’acheteur. La première liste contient des questions à vérifier, pas des commandes de publication."
+        ]
+      },
+      {
+        "heading": "Séparer exposition observée et demande estimée",
+        "body": [
+          "Search Console montre l’exposition propre au site par page et requête, pour une période et une surface. Notez dates, filtres, pays, appareil et couverture des lignes. Une requête absente ne prouve pas zéro recherche ; une position moyenne agrégée n’est pas un rang stable.",
+          "Les outils estiment demande et concurrence pour une base et une date. Gardez pays, appareil, phrase exacte, date et valeurs manquantes. Zéro arrondi, n/a et rapport indisponible diffèrent. N’additionnez pas des variantes qui se recouvrent pour inventer un marché total.",
+          "Comparez des périodes complètes : séparez perte d’impressions, variation de CTR et nouvelles requêtes avant de déclarer la réponse défaillante."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Diagnostiquer les variations observées par page et requête"
+          }
+        ]
+      },
+      {
+        "heading": "Exemple public réel : une faible difficulté ne justifie pas une autre URL",
+        "body": [
+          "Les rapports Semrush États-Unis sur ordinateur examinés le 27 octobre 2026 affichaient ces estimations pour les expressions exactes. Recherches mensuelles et difficulté du fournisseur ne sont ni nos positions, ni du trafic, ni une probabilité de réservation, ni des publics à additionner. Les autres langues n’héritent pas de la demande américaine.",
+          "La décision associe estimations et pages existantes. Audit SEO, audit global du site et recherche ne nécessitent pas automatiquement trois nouvelles URL. Les rôles d’achat peuvent d’abord enrichir le guide par comptes plutôt que devenir une page de glossaire."
+        ],
+        "table": {
+          "caption": "Estimations observées, États-Unis, ordinateur,27 octobre 2026",
+          "headers": [
+            "Expression exacte",
+            "Volume / KD",
+            "Tâche d’achat",
+            "Décision de page"
+          ],
+          "rows": [
+            [
+              "b2b seo audit",
+              "590 / 6%",
+              "Diagnostiquer contraintes techniques et de recherche",
+              "Renforcer le guide SEO existant"
+            ],
+            [
+              "b2b website audit",
+              "90 / 10%",
+              "Diagnostic large peut recouvrir SEO, contenu et parcours",
+              "Différer une autre URL sans tâche distincte démontrée"
+            ],
+            [
+              "b2b keyword research",
+              "590 / 20%",
+              "Découvrir questions et attribuer pages avant construction",
+              "Guide distinct de recherche : cette page"
+            ],
+            [
+              "b2b buying committee",
+              "320 / 22%",
+              "Comprendre rôles pour sélection et contact",
+              "Approfondir d’abord la cartographie existante"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "href": "/guides/b2b-seo-audit/",
+            "label": "Page existante d’audit SEO"
+          },
+          {
+            "href": "/guides/account-based-prospecting/",
+            "label": "Guide existant des rôles d’achat"
+          }
+        ]
+      },
+      {
+        "heading": "Lire les résultats réels avant de choisir un format",
+        "body": [
+          "Inspectez les meilleurs résultats pertinents, pas seulement la difficulté. Notez pays/appareil/contexte, tâche, format et aides utiles. Logiciels, listes de services et guides pratiques nécessitent des réponses différentes.",
+          "Vérifiez ce que la page permet : comparer périmètre, reproduire contrôle, travailler un exemple, télécharger un outil utile ou évaluer des preuves. Nombre de mots et titres ne prouvent pas qualité. Une page bloquée reste non évaluée, pas démontrée faible.",
+          "Choisissez un format légitime : ne promettez pas un vérificateur automatique avec une fiche manuelle, ni une expérience directe non fournie et approuvée."
+        ]
+      },
+      {
+        "heading": "Regrouper par tâche d’achat plutôt que par synonyme",
+        "body": [
+          "Attribuez à chaque question importante une page cible principale. Deux phrases ayant la même tâche et les mêmes types de résultats partagent souvent une page. Le service explique si vous faites le travail ; le guide aide à évaluer ; les prix expliquent coûts et inclusions. Ces pages peuvent se relier sans se dupliquer.",
+          "Avant une URL, examinez canoniques, équivalents, liens entrants et requêtes déjà associées aux pages. Une page non indexée n’est pas automatiquement redondante. Préservez URL utiles et améliorations récentes pendant une correction précise."
+        ],
+        "links": [
+          {
+            "href": "/guides/b2b-content-audit/",
+            "label": "Examiner inventaire et chevauchements avant un ajout"
+          }
+        ]
+      },
+      {
+        "heading": "Une correspondance fictive complète entre requêtes et pages",
+        "body": [
+          "Entreprise et questions sont inventées pour un service industriel d’étalonnage. Aucun volume, rang ou résultat réel n’est affirmé. Inconnu signifie recherche à faire. L’exemple enseigne des décisions sans déguiser une demande fabriquée."
+        ],
+        "table": {
+          "caption": "Questions et pages cibles fictives",
+          "headers": [
+            "Question",
+            "Tâche et adéquation",
+            "État de recherche",
+            "Page cible",
+            "Décision et raison"
+          ],
+          "rows": [
+            [
+              "prestataire d’étalonnage industriel",
+              "Choisir un prestataire ; adéquation centrale",
+              "Résultats de service à vérifier ; métriques inconnues",
+              "Existante /services/calibration/",
+              "Compléter périmètre/preuves si manquants ; pas de nouvelle URL synonyme"
+            ],
+            [
+              "entreprise d’étalonnage",
+              "Même choix si confirmé",
+              "Comparer intention",
+              "Même service",
+              "Regrouper si équivalent"
+            ],
+            [
+              "coût d’étalonnage",
+              "Budget et inclusions",
+              "Format de coût non examiné",
+              "Existante /guides/calibration-cost/",
+              "Améliorer facteurs, hypothèses et limites"
+            ],
+            [
+              "prix d’étalonnage",
+              "Probablement même tâche",
+              "Vérifier différences réelles",
+              "Même guide provisoire",
+              "Ne pas séparer sans tâche distincte"
+            ],
+            [
+              "audit de préparation à l’étalonnage",
+              "Diagnostic préalable distinct possible",
+              "Utilité/format à vérifier",
+              "Proposition /guides/calibration-readiness/",
+              "Créer seulement avec méthode distincte complète"
+            ],
+            [
+              "étalonnage ou remplacement",
+              "Choisir une approche pertinente",
+              "Comparer format et périmètre",
+              "Comparaison proposée",
+              "Aide conditionnelle si les deux choix peuvent être expliqués honnêtement"
+            ],
+            [
+              "emplois en étalonnage",
+              "Emploi ; mauvais public",
+              "Aucune adéquation acheteur",
+              "Aucune page d’acquisition",
+              "Exclure même si volume élevé"
+            ],
+            [
+              "logiciel d’étalonnage",
+              "Produit non fourni",
+              "Offre incompatible",
+              "Aucune page produit",
+              "Ne pas inventer logiciel ou activité d’avis"
+            ],
+            [
+              "question de coût en français",
+              "Même achat dans une langue prise en charge",
+              "Libellé/résultats locaux non validés",
+              "Équivalent français",
+              "Localiser toute l’utilité ; pas 4×la demande"
+            ],
+            [
+              "sens général d’étalonnage",
+              "Apprentissage ; pertinence commerciale incertaine",
+              "Public et couverture inconnus",
+              "Section existante d’abord",
+              "Renforcer le guide avant une page autonome"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Prioriser un avantage possible plutôt qu’une difficulté faible",
+        "body": [
+          "Évaluez pertinence acheteur, adéquation du service, page existante, preuve de demande, concurrence, contribution utile et effort. Expliquez le choix au lieu de le cacher dans une note propriétaire.",
+          "Contraste hypothétique : une requête d’emploi estimée à 1000 recherches peut valoir moins pour un service qu’une question de prestataire à 30. Ces nombres sont pédagogiques et inventés, pas une demande validée. Une requête produit facile peut aussi être inadéquate.",
+          "Définissez l’avantage avant de construire : décision complète, sources primaires fiables, fiche pratique ou responsabilités plus claires. Sans aide substantielle au-delà des meilleurs résultats accessibles, améliorez l’existant ou différez."
+        ]
+      },
+      {
+        "heading": "Valider langue et marché séparément",
+        "body": [
+          "Bien traduire et choisir une question locale sont deux contrôles. Examinez libellé naturel et formats réels avant de réorienter un titre. Une base nationale ne prouve pas la langue d’une phrase.",
+          "Ne multipliez pas une estimation américaine par quatre. Préservez les équivalents complets anglais, espagnol, catalan et français lorsque pertinents, avec outils, réponses et parcours. Notez preuves mixtes ou absentes ; ne remplacez pas par une requête étrangère à fort volume."
+        ]
+      },
+      {
+        "heading": "De la recherche au brief et à une publication sûre",
+        "body": [
+          "Le brief précise question, format, URL existante/proposée, famille de requêtes, preuves, manque concurrentiel, utilité originale, faits approuvés, sources datées, pages liées et suite. Il précise aussi les exclusions. Exporter des mots-clés ne résout pas ces décisions.",
+          "Vérifiez versions complètes, titre/description/H1, réponse, sources, FAQ et schema cohérents, canoniques, langues et outils. Préservez les chemins utiles. Découverte par sitemap ne signifie ni exploration, ni indexation, ni classement, ni réservation.",
+          "Ensuite, comparez requêtes mûres équivalentes, entrées pertinentes et réservations réellement acquises initialement par le site. Classez audits et visites assistées par prospection. Plus d’impressions ou d’articles ne prouve pas plus de conversations qualifiées."
+        ]
+      },
+      {
+        "heading": "Le livrable utile à demander au prestataire",
+        "body": [
+          "Demandez une requête rejetée et une retenue : acheteur, source, résultat, page cible, aide absente, travail et incertitude. Une liste de termes faciles ne suffit pas.",
+          "La fiche conserve décisions et inconnues. Elle n’interroge pas les moteurs, n’achète pas de crédits et ne promet pas de positions. Pour exécuter, examinez le service existant et convenez des responsabilités et accords."
+        ],
+        "links": [
+          {
+            "href": "/services/b2b-seo-agency/",
+            "label": "Examiner le SEO B2B géré et ses responsabilités"
+          }
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Faut-il une page par mot-clé ?",
+        "answer": "Non. Des phrases proches partagent souvent tâche et page. Séparez seulement si question, utilité et format le justifient et si l’existant ne suffit pas."
+      },
+      {
+        "question": "Une difficulté faible suffit-elle ?",
+        "answer": "Non. Public, service, résultats, page existante et contribution utile comptent. Un terme facile d’emploi ou de produit peut être inadéquat."
+      },
+      {
+        "question": "Que signifie zéro ou aucune donnée ?",
+        "answer": "Gardez l’état exact : zéro arrondi, n/a et valeur indisponible diffèrent. Examinez pertinence et résultats avant de conclure à l’absence de demande."
+      },
+      {
+        "question": "Peut-on traduire la liste américaine ?",
+        "answer": "Comme point de départ, pas comme preuve locale. Validez libellé, marché et intention, avec une utilité complète équivalente."
+      },
+      {
+        "question": "Comment mesurer le progrès commercial ?",
+        "answer": "Notez décisions et publications, puis requêtes mûres, entrées pertinentes et vraies réservations/qualifications rapprochées des sources. Impressions ne signifie pas leads."
+      },
+      {
+        "question": "La fiche envoie-t-elle des recherches ou conserve-t-elle des données ?",
+        "answer": "Non. C’est un registre local avec CSV et impression. Aucun moteur ni téléversement ; recharger efface les champs."
+      }
+    ],
+    "related": [
+      "/services/b2b-seo-agency/",
+      "/guides/b2b-seo-audit/",
+      "/guides/b2b-content-audit/",
+      "/guides/b2b-lead-generation-audit/"
+    ],
+    "sources": [
+      {
+        "label": "Neil Patel: B2B keyword research",
+        "href": "https://neilpatel.com/blog/b2b-keyword-research/"
+      },
+      {
+        "label": "Konstruct: B2B keyword research",
+        "href": "https://www.konstructdigital.com/seo/b2b-keyword-research/"
+      },
+      {
+        "label": "CXL: keyword research through customer insights",
+        "href": "https://cxl.com/blog/b2b-keyword-research-customer-insights/"
+      },
+      {
+        "label": "Beespoke editorial policy",
+        "href": "/editorial-policy/"
+      },
+      {
+        "label": "Semrush · US · b2b seo audit · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20seo%20audit"
+      },
+      {
+        "label": "Semrush · US · b2b website audit · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20website%20audit"
+      },
+      {
+        "label": "Semrush · US · b2b keyword research · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20keyword%20research"
+      },
+      {
+        "label": "Semrush · US · b2b buying committee · 2026-10-27",
+        "href": "https://www.semrush.com/analytics/keywordoverview/?db=us&q=b2b%20buying%20committee"
+      }
+    ],
+    "sourceMethodology": "Le tableau public contient des estimations Semrush américaines datées, séparées de l’exemple industriel inventé. Les articles éclairent les méthodes. Fiche et règles sont des aides Beespoke, pas des performances clients, une certitude de classement ou une prévision de réservations.",
+    "heroSecondary": {
+      "label": "Relier requêtes et pages",
+      "href": "#buyer-worksheet"
+    },
+    "tool": {
+      "id": "buyer-worksheet",
+      "navLabel": "Relier requêtes et pages",
+      "eyebrow": "Outil sans inscription",
+      "heading": "Relier questions d’achat et pages cibles",
+      "intro": "Reliez questions, preuves, pages et action justifiée. Chargez l’exemple fictif complet, conservez les métriques absentes et exportez les décisions. Aucun moteur ni crédit payant n’est utilisé.",
+      "blocks": [
+        {
+          "label": "1",
+          "heading": "Preuves",
+          "body": "Consignez ce que vous savez et sa source. Conservez les inconnues."
+        },
+        {
+          "label": "2",
+          "heading": "Décision",
+          "body": "Expliquez choix, alternative et approbation requise."
+        },
+        {
+          "label": "3",
+          "heading": "Responsabilité",
+          "body": "Précisez action, responsable et revue. Exportez avant de partir."
+        }
+      ],
+      "note": "Ajoutez jusqu’à 50 entrées, chargez l’exemple fictif complet et créez un rapport pour télécharger un CSV local ou imprimer. La fiche n’envoie ni ne conserve les données. Le rechargement efface les champs. Elle n’exécute pas de campagne, n’audite pas de site réel et ne vérifie pas vos étiquettes."
+    },
+    "workbook": {
+      "fields": [
+        "Phrase exacte ou question et rôle acheteur",
+        "Tâche, étape, service et exclusions",
+        "Source, base, pays/appareil, date et métriques inconnues",
+        "Format observé et aide utile des concurrents",
+        "URL cible existante, famille linguistique et chevauchement",
+        "Action proposée et utilité originale",
+        "Raison de priorité/attente, effort et approbation",
+        "Responsable, publication et revue mûre"
+      ],
+      "samples": [
+        [
+          "Fictif : prestataire d’étalonnage",
+          "Choisir ; service central",
+          "Aucune métrique affirmée ; vérifier base/date/contexte",
+          "Services à vérifier ; périmètre/preuves requis",
+          "Existante /services/calibration/ ; famille complète",
+          "Combler manque démontré ; pas d’URL synonyme",
+          "Adéquation centrale ; vérifier preuves et faits",
+          "SEO/commercial ; référence et publication"
+        ],
+        [
+          "Fictif : entreprise d’étalonnage",
+          "Même choix si confirmé",
+          "Demande inconnue, pas nulle",
+          "Comparer équivalence des résultats",
+          "Même service provisoire",
+          "Regrouper si même tâche",
+          "Éviter doublon ; attendre si format différent",
+          "SEO ; noter preuve"
+        ],
+        [
+          "Fictif : coût d’étalonnage",
+          "Budget/inclusions",
+          "Périmètre/sources actuels ; métriques inconnues",
+          "Guide à vérifier",
+          "Existante /guides/calibration-cost/",
+          "Ajouter facteurs/hypothèses utiles si absents",
+          "Faits à approuver par spécialiste",
+          "Édition/spécialiste ; cohortes mûres"
+        ],
+        [
+          "Fictif : prix d’étalonnage",
+          "Même tâche probable",
+          "Différences inconnues",
+          "Valider avant séparation",
+          "Même guide provisoire",
+          "Améliorer même page",
+          "Différer URL distincte",
+          "SEO/édition ; documenter cible"
+        ],
+        [
+          "Fictif : audit de préparation",
+          "Diagnostic distinct potentiel",
+          "Demande/format non validés",
+          "Liste et exemple complets nécessaires",
+          "Proposition /guides/calibration-readiness/",
+          "Créer seulement avec méthode et preuves propres",
+          "Nouvelle page conditionnelle, pas nouvelle offre promise",
+          "Édition ; approuver faits et sources"
+        ],
+        [
+          "Fictif : étalonnage ou remplacement",
+          "Choisir approche",
+          "Demande/périmètre inconnus",
+          "Aides à décider et limites",
+          "Comparaison proposée",
+          "Matrice conditionnelle originale",
+          "Attendre si alternatives non expliquées honnêtement",
+          "Spécialiste/commercial"
+        ],
+        [
+          "Fictif : emplois",
+          "Emploi, pas acquisition",
+          "Volume ne résout pas adéquation",
+          "Résultats d’emploi",
+          "Aucune page",
+          "Exclure",
+          "Grand volume ne change pas adéquation",
+          "Responsable contenu"
+        ],
+        [
+          "Fictif : logiciel",
+          "Produit non proposé",
+          "Offre incompatible",
+          "Résultats produit",
+          "Aucune page",
+          "Exclure ; ne pas inventer offre",
+          "Périmètre inadéquat",
+          "Commercial"
+        ],
+        [
+          "Fictif : coût en français",
+          "Même achat ; langue prise en charge",
+          "Libellé/résultats non validés",
+          "Examiner intention locale",
+          "Équivalent français",
+          "Localisation, outils et suite complets",
+          "Pas 4×volume ; attendre avant réorientation",
+          "Édition française/SEO"
+        ],
+        [
+          "Fictif : sens général",
+          "Apprentissage ; pertinence incertaine",
+          "Public/couverture inconnus",
+          "Définition à vérifier",
+          "Section existante d’abord",
+          "Renforcer guide avant expansion",
+          "Différer page sans preuve",
+          "Édition ; examiner rôle et couverture"
+        ]
+      ],
+      "legend": "Recherche de mots-clés B2B : questions, priorités et pages",
+      "reportTitle": "Relier questions d’achat et pages cibles"
+    },
+    "decisionGuide": {
+      "heading": "Avant d’agir",
+      "body": [
+        "Un plan utile écarte les constructions sans fondement et repère les bons ajouts. Décidez tâche et page cible avant de réécrire les titres ou commander une URL supplémentaire."
+      ],
+      "items": [
+        "Confirmez la question d’achat et les preuves.",
+        "Gardez l’action minimale justifiée et les inconnues.",
+        "Attribuez responsable, approbation et contrôle utile.",
+        "Mesurez des résultats pertinents mûrs, pas seulement l’activité."
+      ]
+    }
+  }
+}
