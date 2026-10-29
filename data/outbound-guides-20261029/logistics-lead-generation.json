@@ -1,0 +1,958 @@
+{
+  "en": {
+    "title": "Lead Generation for Logistics Companies | Beespoke",
+    "description": "Plan relevant B2B outreach for freight, 3PL and warehousing offers. Define accounts, buyer roles, operational fit and qualified handoff with a complete worked example.",
+    "eyebrow": "Commercial conversations that fit the operation",
+    "h1": "Lead generation for logistics companies: reach the right B2B buyers",
+    "answer": "Lead generation for logistics companies means identifying suitable business accounts and decision roles for a specific freight, forwarding, 3PL or warehousing offer, then starting relevant conversations and qualifying the next step. Define geography, service constraints and the actual buyer before choosing email or LinkedIn. Beespoke can manage the agreed prospecting workflow; the logistics provider retains operational discovery, freight quotations and closing.",
+    "path": "/industries/logistics-lead-generation/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Start with the logistics service you can actually deliver",
+        "body": [
+          "Lead generation for logistics companies should identify suitable business customers for a defined transport, forwarding or warehousing offer. “Any company that ships goods” is too broad. Establish the service geography, lanes, cargo or customer constraints, available capabilities, minimum commercial fit and the kind of conversation the provider can use. Beespoke’s role is managed prospecting, not operating transport or quoting freight on your behalf.",
+          "The client’s judgment matters most in target approval: which accounts fit the operation and which must be excluded. We supply research into the accounts and people, write individual messages and run the agreed email and/or LinkedIn prospecting when authorized. Your commercial team keeps discovery, operational scoping, quotations and closing."
+        ]
+      },
+      {
+        "heading": "Separate freight, contract logistics and warehousing buyers",
+        "body": [
+          "The rows below are planning examples, not universal job descriptions or a claim that every logistics provider offers each service. Pick the actual offer before finding contacts."
+        ],
+        "table": {
+          "caption": "Service-specific target and qualification map",
+          "headers": [
+            "Offer to define",
+            "Plausible buyer context",
+            "What to confirm",
+            "Do not assume"
+          ],
+          "rows": [
+            [
+              "Freight or forwarding on specified lanes",
+              "A shipper with relevant origins, destinations and cargo",
+              "Lane, cargo, service constraints, commercial owner and evaluation process",
+              "Shipment volumes, expiring contracts or dissatisfaction"
+            ],
+            [
+              "3PL or fulfilment",
+              "A brand or distributor evaluating an appropriate operating footprint",
+              "Order profile, required geography, systems, constraints and operational evaluator",
+              "A public product launch proves fulfilment problems"
+            ],
+            [
+              "Warehousing or overflow capacity",
+              "An operation with a potentially relevant location or seasonal requirement",
+              "Space/storage type, handling limits, timing and decision roles",
+              "Capacity needs from headcount or a funding announcement alone"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Research accounts without inventing shipping needs",
+        "body": [
+          "Useful public inputs can include the company’s own locations, product and service information, announced market launches, named operating responsibilities and published supplier processes. Record the exact source and date. An announced distribution location can justify a question about coverage; it does not establish pallet counts, shipment frequency, supplier terms or an urgent need to change provider.",
+          "Apply operational exclusions before building a large contact list. Exclude accounts outside the agreed coverage, unsuitable cargo or service requirements, current customers and protected relationships. A large recognizable brand is not automatically a better prospect than a smaller account that fits the actual operation."
+        ]
+      },
+      {
+        "heading": "Map the operational buyer and the commercial decision",
+        "body": [
+          "Supply-chain, logistics, operations, procurement and finance roles can participate in different ways. A title alone does not establish buying authority. Start with the person closest to the relevant operating question; ask how evaluation and approval work rather than claiming to know the decision committee. Coordinate contacts in the same account so several senders do not approach colleagues with conflicting propositions."
+        ]
+      },
+      {
+        "heading": "A complete fictional account-to-meeting example",
+        "body": [
+          "A regional warehousing provider wants conversations about a clearly defined storage offer. Its client approves the target geography, suitable goods, minimum commercial fit and exclusions. A fictional distributor announces a new regional sales footprint. That is the observation; a warehouse shortage, budget and contract deadline remain unknown. The campaign owner researches the person responsible for distribution and chooses LinkedIn or email from the person’s relevant activity."
+        ],
+        "examples": [
+          {
+            "heading": "Fictional opening for the distribution owner",
+            "fact": "An announced regional expansion; a plausible distribution role, both invented for this example.",
+            "unknown": "Current provider, actual storage need, volumes, timing and budget.",
+            "message": "Hi [first name],\n\nFor the [region] expansion, who is looking after the distribution coverage?\n\nWe provide [defined warehousing service] in [coverage area]. If reviewing a local storage option is useful, I’d be happy to discuss whether the offer fits your operation. I don’t know how your existing arrangement works and wouldn’t assume you need to replace it.\n\nIs this a question you handle?\n\nThanks,\n[sender]",
+            "notes": [
+              "The first question follows the public account fact rather than inventing a warehouse problem.",
+              "The offer is bounded by actual service and geography; fill those placeholders only from approved capabilities.",
+              "The incumbent is not disparaged, and a meeting is not assumed."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed.",
+            "follow": "Hi [first name], just checking in on the distribution question below."
+          }
+        ]
+      },
+      {
+        "heading": "Qualification before a calendar handoff",
+        "body": [
+          "If the fictional buyer replies with interest, confirm the actual service region, relevant operating requirement, person’s role and reason for a discussion before booking. Record unknown volumes or timing as unknown. Use the logistics provider’s existing calendar and transfer the message context and questions; its sales team evaluates the operation and any quote.",
+          "A reply, request for a quote, calendar click, booked conversation and held qualified meeting are different outcomes. Authorized CRM/calendar access or client confirmation establishes the booking. Do not count a reschedule as a new prospect or a freight-pricing request as an accepted sales opportunity without the agreed qualification."
+        ]
+      },
+      {
+        "heading": "Work with the incumbent and procurement reality",
+        "body": [
+          "An established logistics operation may already have a provider and a formal review process. The useful first conversation might concern a specific future lane, an additional location, an appropriate contingency option or the next supplier-evaluation window. Those are questions to qualify, not reasons to assert an urgent switch. Do not promise cheaper freight, spare capacity, compliance credentials or service levels that the actual provider has not approved."
+        ]
+      },
+      {
+        "heading": "What the managed campaign would include",
+        "body": [
+          "Agree one practical market brief, target and exclusion rules, allowed service claims and the person receiving commercial conversations. Beespoke can research accounts and roles, prepare individually relevant messages, configure authorized email and/or LinkedIn activity, handle replies and qualify calendar handoffs. We typically use a short email sequence rather than a large number of reminders; the channel order follows the person’s relevant activity. Calling is separately scoped and quoted."
+        ]
+      },
+      {
+        "heading": "Evaluate the work without invented logistics results",
+        "body": [
+          "This page describes a proposed prospecting workflow for logistics providers. The worked account and messages are explicitly fictional; they are not evidence of a logistics client result. Evaluate the quality of account reasoning, the fit of the target list, individual messages, reply handling and the verification of qualified conversations. Ask for relevant permissioned evidence before treating any agency’s niche-performance claim as established."
+        ]
+      }
+    ],
+    "related": [
+      "/services/b2b-lead-generation/",
+      "/services/b2b-appointment-setting/",
+      "/guides/b2b-sales-prospecting-plan/"
+    ],
+    "faqs": [
+      {
+        "question": "Who is this logistics lead-generation service for?",
+        "answer": "B2B logistics providers with a defined offer, service coverage, account fit and sales owner. It is not a parcel-tracking or freight-quotation service for consumers or shippers."
+      },
+      {
+        "question": "Which logistics buyers should we contact?",
+        "answer": "Choose from the actual offer and operation. Supply-chain, logistics, operations or procurement roles may be relevant, but job title alone does not establish buying authority or need."
+      },
+      {
+        "question": "Does Beespoke make transport quotations or include calling?",
+        "answer": "The logistics provider handles operational scoping and transport quotations. Beespoke’s agreed outbound work covers cold email and/or LinkedIn; calling is separately scoped and quoted by market."
+      },
+      {
+        "question": "Are the example accounts and messages real client results?",
+        "answer": "No. The logistics account and messages are fictional planning examples. They show research and qualification choices without claiming logistics client outcomes or guaranteed meetings."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Callbox — logistics lead generation",
+        "href": "https://www.callboxinc.com/industries-we-serve/logistics-lead-generation/"
+      },
+      {
+        "label": "Sopro — logistics lead generation",
+        "href": "https://sopro.io/solutions/lead-generation-for-logistics-companies/"
+      },
+      {
+        "label": "Cognism — logistics sales leads",
+        "href": "https://www.cognism.com/blog/logistics-sales-leads"
+      }
+    ],
+    "sourceMethodology": "The operating approach is supplied by Beespoke’s founder. The examples below are training scenarios unless expressly labelled as an inspected, anonymized adaptation. Source articles inform the questions covered; their performance claims are not adopted as our results.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Work through your own decision",
+      "heading": "Logistics account-fit and qualification workbook",
+      "intro": "Record the evidence, the individual reason for contact and the next owner. Keep missing information visible.",
+      "navLabel": "Logistics account-fit and qualification workbook",
+      "note": "Private working notes: do not enter confidential or identifying information. Nothing is uploaded or saved; export what you need before leaving."
+    },
+    "workbook": {
+      "fields": [
+        "Defined service",
+        "Agreed geography / lane",
+        "Account evidence and source",
+        "Operational unknowns",
+        "Relevant buyer role",
+        "Next question or action",
+        "Owner and verification"
+      ],
+      "legend": "Logistics account-fit and qualification workbook",
+      "reportTitle": "Logistics account-fit and qualification workbook",
+      "samples": [
+        [
+          "Fictional regional warehousing offer",
+          "One agreed region; no unverified wider coverage",
+          "Fictional distributor announces regional expansion",
+          "Goods and handling limits unconfirmed",
+          "Distribution / operations owner, to confirm",
+          "Confirm storage and handling capabilities before target research.",
+          "Campaign owner and client sales owner; booking not established"
+        ],
+        [
+          "Fictional regional warehousing offer",
+          "One agreed region; no unverified wider coverage",
+          "Fictional distributor announces regional expansion",
+          "Customer fit not yet approved",
+          "Distribution / operations owner, to confirm",
+          "Approve or exclude the account against real operational coverage.",
+          "Campaign owner and client sales owner; booking not established"
+        ],
+        [
+          "Fictional regional warehousing offer",
+          "One agreed region; no unverified wider coverage",
+          "Fictional distributor announces regional expansion",
+          "Buying role and process unknown",
+          "Distribution / operations owner, to confirm",
+          "Ask who owns distribution coverage; a title alone is insufficient.",
+          "Campaign owner and client sales owner; booking not established"
+        ],
+        [
+          "Fictional regional warehousing offer",
+          "One agreed region; no unverified wider coverage",
+          "Fictional distributor announces regional expansion",
+          "Incumbent, budget and interest unknown",
+          "Distribution / operations owner, to confirm",
+          "Ask whether reviewing a local storage option would be useful.",
+          "Campaign owner and client sales owner; booking not established"
+        ],
+        [
+          "Fictional regional warehousing offer",
+          "One agreed region; no unverified wider coverage",
+          "Fictional distributor announces regional expansion",
+          "Actual operating requirement and timing unknown",
+          "Distribution / operations owner, to confirm",
+          "Confirm actual goods, constraints and evaluation timing; send technical questions to the client.",
+          "Campaign owner and client sales owner; booking not established"
+        ],
+        [
+          "Fictional regional warehousing offer",
+          "One agreed region; no unverified wider coverage",
+          "Fictional distributor announces regional expansion",
+          "A calendar request is not yet a verified booking",
+          "Distribution / operations owner, to confirm",
+          "Use the client calendar; confirm original booking before counting a meeting.",
+          "Campaign owner and client sales owner; booking not established"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Before you hand this to a provider",
+      "body": [
+        "Review fit, evidence and ownership together. A useful message does not establish a booking or a qualified opportunity."
+      ],
+      "items": [
+        "Approve the proposed people and exclusions.",
+        "Check the source behind every specific claim and keep unknowns explicit.",
+        "Agree the authorized channel, concise follow-up, reply owner and stopping conditions.",
+        "Verify the calendar outcome through authorized access or client confirmation."
+      ]
+    }
+  },
+  "es": {
+    "title": "Captación de clientes para empresas logísticas B2B | Beespoke",
+    "description": "Planifica prospección B2B para transporte, 3PL y almacenaje. Define empresas, compradores, encaje operativo y traspaso cualificado con un ejemplo completo.",
+    "eyebrow": "Conversaciones comerciales que encajan con la operación",
+    "h1": "Captación de clientes para empresas logísticas: llega al comprador B2B adecuado",
+    "answer": "La captación de clientes logísticos identifica empresas y funciones decisoras adecuadas para una oferta concreta de transporte, transitarios, 3PL o almacenaje, inicia conversaciones relevantes y cualifica el siguiente paso. Define zona, restricciones y comprador real antes de elegir email o LinkedIn. Beespoke puede gestionar la prospección acordada; el proveedor logístico conserva diagnóstico operativo, presupuestos de transporte y cierre.",
+    "path": "/industries/logistics-lead-generation/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Empieza por el servicio logístico que puedes prestar",
+        "body": [
+          "La captación de clientes para empresas logísticas debe identificar compradores empresariales adecuados para una oferta concreta de transporte, transitarios o almacenaje. «Cualquier empresa que envíe mercancías» es demasiado amplio. Define zona, rutas, restricciones de carga o cliente, capacidades disponibles, encaje comercial mínimo y conversación útil. Beespoke gestiona la prospección; no opera transportes ni cotiza portes por tu cuenta.",
+          "El criterio del cliente es especialmente importante al aprobar empresas: cuáles encajan con la operación y cuáles deben excluirse. Aportamos investigación de empresas y personas, mensajes individuales y ejecución autorizada por email y/o LinkedIn. Tu equipo comercial conserva diagnóstico, definición operativa, presupuestos y cierre."
+        ]
+      },
+      {
+        "heading": "Distingue compradores de transporte, logística contractual y almacenaje",
+        "body": [
+          "Las filas son ejemplos de planificación, no funciones universales ni una afirmación de que todo proveedor ofrezca estos servicios. Elige la oferta real antes de buscar contactos."
+        ],
+        "table": {
+          "caption": "Mapa de contactos y cualificación según servicio",
+          "headers": [
+            "Oferta que definir",
+            "Contexto de compra plausible",
+            "Qué confirmar",
+            "No suponer"
+          ],
+          "rows": [
+            [
+              "Transporte o servicios de transitario en rutas concretas",
+              "Un cargador con orígenes, destinos y mercancía pertinentes",
+              "Ruta, mercancía, restricciones, responsable comercial y proceso de evaluación",
+              "Volúmenes, vencimiento de contratos o descontento"
+            ],
+            [
+              "3PL o preparación de pedidos",
+              "Una marca o distribuidor que valora una cobertura operativa adecuada",
+              "Perfil de pedidos, zona, sistemas, restricciones y evaluador operativo",
+              "Que un lanzamiento demuestre problemas de preparación de pedidos"
+            ],
+            [
+              "Almacenaje o capacidad de apoyo",
+              "Una operación con ubicación o necesidad estacional potencialmente relevante",
+              "Tipo de espacio, límites de manipulación, momento y funciones decisoras",
+              "Necesidades de capacidad solo por plantilla o financiación"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Investiga empresas sin inventar necesidades de transporte",
+        "body": [
+          "Las fuentes públicas útiles pueden incluir ubicaciones, productos y servicios propios, lanzamientos anunciados, responsabilidades operativas y procesos de proveedores publicados. Registra fuente exacta y fecha. Una ubicación de distribución anunciada puede justificar una pregunta sobre cobertura; no demuestra palés, frecuencia de envíos, condiciones con proveedores ni urgencia por cambiar de operador.",
+          "Aplica exclusiones operativas antes de crear una lista extensa. Excluye empresas fuera de cobertura, mercancía o requisitos inadecuados, clientes actuales y relaciones protegidas. Una marca grande y conocida no es automáticamente mejor contacto que una empresa pequeña que encaja con la operación."
+        ]
+      },
+      {
+        "heading": "Identifica al comprador operativo y la decisión comercial",
+        "body": [
+          "Cadena de suministro, logística, operaciones, compras y finanzas pueden participar de maneras distintas. Un cargo no demuestra autoridad de compra. Empieza por la persona más próxima a la pregunta operativa y consulta cómo funcionan evaluación y aprobación, sin fingir conocer el comité decisor. Coordina contactos de una misma empresa para no enviar propuestas contradictorias a varios colegas."
+        ]
+      },
+      {
+        "heading": "Un ejemplo ficticio completo: de la empresa a la reunión",
+        "body": [
+          "Un proveedor regional de almacenaje busca conversaciones sobre una oferta bien delimitada. El cliente aprueba zona, mercancía adecuada, encaje comercial mínimo y exclusiones. Un distribuidor ficticio anuncia presencia comercial en una nueva región. Ese es el hecho; siguen sin conocerse falta de espacio, presupuesto y vencimiento de contrato. El responsable investiga a quien coordina distribución y elige LinkedIn o email según su actividad relevante."
+        ],
+        "examples": [
+          {
+            "heading": "Inicio ficticio para el responsable de distribución",
+            "fact": "Una expansión regional anunciada y una función de distribución plausible; ambos datos son ficticios.",
+            "unknown": "Proveedor actual, necesidad real de almacenaje, volúmenes, plazos y presupuesto.",
+            "message": "Hola [nombre]:\n\nPara la expansión en [región], ¿quién coordina la cobertura de distribución?\n\nOfrecemos [servicio de almacenaje definido] en [zona de cobertura]. Si os resulta útil valorar una opción local, podríamos comentar si encaja con vuestra operación. No conozco vuestro acuerdo actual y no daría por hecho que necesitéis sustituirlo.\n\n¿Llevas tú este tema?\n\nGracias,\n[remitente]",
+            "notes": [
+              "La pregunta parte del hecho público, sin inventar un problema de almacenaje.",
+              "La oferta se limita a servicio y zona reales; completa los marcadores solo con capacidades aprobadas.",
+              "No se desacredita al proveedor actual ni se da por hecha una reunión."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente.",
+            "follow": "Hola [nombre], retomo brevemente la pregunta de abajo sobre distribución."
+          }
+        ]
+      },
+      {
+        "heading": "Cualificación antes del traspaso a la agenda",
+        "body": [
+          "Si el comprador ficticio muestra interés, confirma zona real, necesidad operativa pertinente, función y motivo de conversación antes de reservar. Registra volúmenes o plazos desconocidos como tales. Usa la agenda del proveedor y transmite contexto y preguntas; su equipo comercial evalúa la operación y el presupuesto.",
+          "Respuesta, petición de presupuesto, clic en agenda, reserva y reunión cualificada celebrada son resultados distintos. El acceso autorizado al CRM o calendario, o confirmación del cliente, acredita la reserva. No cuentes un cambio de fecha como contacto nuevo ni una consulta de tarifas como oportunidad aceptada sin la cualificación acordada."
+        ]
+      },
+      {
+        "heading": "Ten en cuenta al proveedor actual y el proceso de compras",
+        "body": [
+          "Una operación establecida puede tener ya proveedor y un proceso formal de revisión. La primera conversación útil puede tratar una ruta futura, una ubicación adicional, una alternativa de contingencia adecuada o la próxima evaluación de proveedores. Son preguntas que cualificar, no motivos para afirmar un cambio urgente. No prometas portes más baratos, capacidad libre, acreditaciones ni niveles de servicio que el proveedor no haya aprobado."
+        ]
+      },
+      {
+        "heading": "Qué incluiría la campaña gestionada",
+        "body": [
+          "Acordad un mercado operativo, reglas de contactos y exclusiones, afirmaciones permitidas y responsable de las conversaciones comerciales. Beespoke puede investigar empresas y funciones, preparar mensajes individuales, configurar actividad autorizada por email y/o LinkedIn, gestionar respuestas y cualificar traspasos a agenda. Solemos usar una secuencia breve de correo, sin muchos recordatorios; el orden de canales depende de la actividad relevante de la persona. Las llamadas tienen alcance y presupuesto separados."
+        ]
+      },
+      {
+        "heading": "Evalúa el trabajo sin inventar resultados logísticos",
+        "body": [
+          "Esta página describe un proceso propuesto para proveedores logísticos. La empresa y los mensajes del ejemplo son expresamente ficticios; no acreditan resultados de un cliente logístico. Evalúa razonamiento por empresa, encaje de la lista, mensajes individuales, gestión de respuestas y verificación de conversaciones cualificadas. Pide pruebas pertinentes y autorizadas antes de dar por demostrados los resultados sectoriales de una agencia."
+        ]
+      }
+    ],
+    "related": [
+      "/services/b2b-lead-generation/",
+      "/services/b2b-appointment-setting/",
+      "/guides/b2b-sales-prospecting-plan/"
+    ],
+    "faqs": [
+      {
+        "question": "¿A quién se dirige esta prospección logística?",
+        "answer": "A proveedores logísticos B2B con oferta, cobertura, encaje de empresas y responsable comercial definidos. No es un servicio de seguimiento de paquetes ni de cotización de portes para particulares o cargadores."
+      },
+      {
+        "question": "¿A qué compradores logísticos debemos contactar?",
+        "answer": "Elige según oferta y operación reales. Cadena de suministro, logística, operaciones o compras pueden ser relevantes, pero un cargo no demuestra autoridad de compra ni necesidad."
+      },
+      {
+        "question": "¿Beespoke cotiza transportes o incluye llamadas?",
+        "answer": "El proveedor logístico define la operación y cotiza el transporte. La prospección acordada de Beespoke cubre cold email y/o LinkedIn; las llamadas tienen alcance y presupuesto separados según mercado."
+      },
+      {
+        "question": "¿Los ejemplos son resultados reales de clientes?",
+        "answer": "No. La empresa y los mensajes logísticos son ejemplos ficticios de planificación. Muestran decisiones de investigación y cualificación sin afirmar resultados de clientes ni reuniones garantizadas."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Callbox — logistics lead generation",
+        "href": "https://www.callboxinc.com/industries-we-serve/logistics-lead-generation/"
+      },
+      {
+        "label": "Sopro — logistics lead generation",
+        "href": "https://sopro.io/solutions/lead-generation-for-logistics-companies/"
+      },
+      {
+        "label": "Cognism — logistics sales leads",
+        "href": "https://www.cognism.com/blog/logistics-sales-leads"
+      }
+    ],
+    "sourceMethodology": "El método operativo procede del fundador de Beespoke. Los ejemplos son situaciones de formación salvo que se identifiquen expresamente como adaptaciones inspeccionadas y anonimizadas. Las fuentes orientan las preguntas tratadas; sus resultados no se presentan como nuestros.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Trabaja tu propia decisión",
+      "heading": "Ficha de encaje y cualificación logística",
+      "intro": "Registra las pruebas, el motivo individual para contactar y el siguiente responsable. Mantén visibles las incógnitas.",
+      "navLabel": "Ficha de encaje y cualificación logística",
+      "note": "Notas privadas: no introduzcas información confidencial ni identificativa. No se carga ni guarda nada; exporta lo necesario antes de salir."
+    },
+    "workbook": {
+      "fields": [
+        "Servicio definido",
+        "Zona o ruta acordada",
+        "Pruebas y fuente de empresa",
+        "Incógnitas operativas",
+        "Función compradora relevante",
+        "Pregunta o acción siguiente",
+        "Responsable y verificación"
+      ],
+      "legend": "Ficha de encaje y cualificación logística",
+      "reportTitle": "Ficha de encaje y cualificación logística",
+      "samples": [
+        [
+          "Oferta ficticia de almacenaje regional",
+          "Una región acordada; sin ampliar cobertura sin pruebas",
+          "Un distribuidor ficticio anuncia expansión regional",
+          "Mercancía y límites de manipulación sin confirmar",
+          "Responsable de distribución u operaciones, por confirmar",
+          "Confirmar almacenamiento y manipulación antes de investigar contactos.",
+          "Responsable de campaña y comercial del cliente; reserva no acreditada"
+        ],
+        [
+          "Oferta ficticia de almacenaje regional",
+          "Una región acordada; sin ampliar cobertura sin pruebas",
+          "Un distribuidor ficticio anuncia expansión regional",
+          "Encaje del cliente aún sin aprobar",
+          "Responsable de distribución u operaciones, por confirmar",
+          "Aprobar o excluir la empresa según cobertura operativa real.",
+          "Responsable de campaña y comercial del cliente; reserva no acreditada"
+        ],
+        [
+          "Oferta ficticia de almacenaje regional",
+          "Una región acordada; sin ampliar cobertura sin pruebas",
+          "Un distribuidor ficticio anuncia expansión regional",
+          "Función compradora y proceso desconocidos",
+          "Responsable de distribución u operaciones, por confirmar",
+          "Preguntar quién coordina la distribución; el cargo no basta.",
+          "Responsable de campaña y comercial del cliente; reserva no acreditada"
+        ],
+        [
+          "Oferta ficticia de almacenaje regional",
+          "Una región acordada; sin ampliar cobertura sin pruebas",
+          "Un distribuidor ficticio anuncia expansión regional",
+          "Proveedor actual, presupuesto e interés desconocidos",
+          "Responsable de distribución u operaciones, por confirmar",
+          "Preguntar si sería útil valorar una opción local de almacenaje.",
+          "Responsable de campaña y comercial del cliente; reserva no acreditada"
+        ],
+        [
+          "Oferta ficticia de almacenaje regional",
+          "Una región acordada; sin ampliar cobertura sin pruebas",
+          "Un distribuidor ficticio anuncia expansión regional",
+          "Necesidad operativa real y plazos desconocidos",
+          "Responsable de distribución u operaciones, por confirmar",
+          "Confirmar mercancía, restricciones y plazos reales; pasar consultas técnicas al cliente.",
+          "Responsable de campaña y comercial del cliente; reserva no acreditada"
+        ],
+        [
+          "Oferta ficticia de almacenaje regional",
+          "Una región acordada; sin ampliar cobertura sin pruebas",
+          "Un distribuidor ficticio anuncia expansión regional",
+          "Una petición de agenda aún no es una reserva verificada",
+          "Responsable de distribución u operaciones, por confirmar",
+          "Usar la agenda del cliente y confirmar la reserva original antes de contar.",
+          "Responsable de campaña y comercial del cliente; reserva no acreditada"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Antes de entregarlo a un proveedor",
+      "body": [
+        "Revisa conjuntamente encaje, pruebas y responsabilidades. Un mensaje útil no demuestra una reserva ni una oportunidad cualificada."
+      ],
+      "items": [
+        "Aprueba las personas propuestas y las exclusiones.",
+        "Comprueba la fuente de cada afirmación concreta y explicita las incógnitas.",
+        "Acuerda canal autorizado, seguimiento breve, responsable de respuestas y condiciones de parada.",
+        "Verifica el resultado de agenda mediante acceso autorizado o confirmación del cliente."
+      ]
+    }
+  },
+  "ca": {
+    "title": "Captació de clients per a empreses logístiques B2B | Beespoke",
+    "description": "Planifica prospecció B2B per a transport, 3PL i emmagatzematge. Defineix empreses, compradors, encaix operatiu i traspàs qualificat amb un exemple complet.",
+    "eyebrow": "Converses comercials que encaixen amb l’operació",
+    "h1": "Captació de clients per a empreses logístiques: arriba al comprador B2B adequat",
+    "answer": "La captació de clients logístics identifica empreses i funcions decisores adequades per a una oferta concreta de transport, transitaris, 3PL o emmagatzematge, inicia converses rellevants i qualifica el pas següent. Defineix zona, restriccions i comprador real abans de triar email o LinkedIn. Beespoke pot gestionar la prospecció acordada; el proveïdor logístic conserva diagnòstic operatiu, pressupostos de transport i tancament.",
+    "path": "/industries/logistics-lead-generation/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Comença pel servei logístic que pots prestar",
+        "body": [
+          "La captació de clients per a empreses logístiques ha d’identificar compradors empresarials adequats per a una oferta concreta de transport, transitaris o emmagatzematge. «Qualsevol empresa que enviï mercaderies» és massa ampli. Defineix zona, rutes, restriccions de càrrega o client, capacitats disponibles, encaix comercial mínim i conversa útil. Beespoke gestiona la prospecció; no opera transports ni cotitza ports pel teu compte.",
+          "El criteri del client és especialment important per aprovar empreses: quines encaixen amb l’operació i quines cal excloure. Aportem recerca d’empreses i persones, missatges individuals i execució autoritzada per email i/o LinkedIn. El teu equip comercial conserva diagnòstic, definició operativa, pressupostos i tancament."
+        ]
+      },
+      {
+        "heading": "Distingeix compradors de transport, logística contractual i emmagatzematge",
+        "body": [
+          "Les files són exemples de planificació, no funcions universals ni una afirmació que tot proveïdor ofereixi aquests serveis. Tria l’oferta real abans de buscar contactes."
+        ],
+        "table": {
+          "caption": "Mapa de contactes i qualificació segons el servei",
+          "headers": [
+            "Oferta per definir",
+            "Context de compra plausible",
+            "Què confirmar",
+            "No suposar"
+          ],
+          "rows": [
+            [
+              "Transport o serveis de transitari en rutes concretes",
+              "Un carregador amb orígens, destinacions i mercaderia pertinents",
+              "Ruta, mercaderia, restriccions, responsable comercial i procés d’avaluació",
+              "Volums, venciment de contractes o descontentament"
+            ],
+            [
+              "3PL o preparació de comandes",
+              "Una marca o distribuïdor que valora una cobertura operativa adequada",
+              "Perfil de comandes, zona, sistemes, restriccions i avaluador operatiu",
+              "Que un llançament demostri problemes de preparació de comandes"
+            ],
+            [
+              "Emmagatzematge o capacitat de suport",
+              "Una operació amb ubicació o necessitat estacional potencialment rellevant",
+              "Tipus d’espai, límits de manipulació, moment i funcions decisores",
+              "Necessitats de capacitat només per plantilla o finançament"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Investiga empreses sense inventar necessitats de transport",
+        "body": [
+          "Les fonts públiques útils poden incloure ubicacions, productes i serveis propis, llançaments anunciats, responsabilitats operatives i processos de proveïdors publicats. Registra font exacta i data. Una ubicació de distribució anunciada pot justificar una pregunta sobre cobertura; no demostra palets, freqüència d’enviaments, condicions amb proveïdors ni urgència per canviar d’operador.",
+          "Aplica exclusions operatives abans de crear una llista extensa. Exclou empreses fora de cobertura, mercaderia o requisits inadequats, clients actuals i relacions protegides. Una marca gran i coneguda no és automàticament millor contacte que una empresa petita que encaixa amb l’operació."
+        ]
+      },
+      {
+        "heading": "Identifica el comprador operatiu i la decisió comercial",
+        "body": [
+          "Cadena de subministrament, logística, operacions, compres i finances poden participar de maneres diferents. Un càrrec no demostra autoritat de compra. Comença per la persona més propera a la pregunta operativa i consulta com funcionen avaluació i aprovació, sense fingir conèixer el comitè decisor. Coordina contactes d’una mateixa empresa per no enviar propostes contradictòries a diversos companys."
+        ]
+      },
+      {
+        "heading": "Un exemple fictici complet: de l’empresa a la reunió",
+        "body": [
+          "Un proveïdor regional d’emmagatzematge busca converses sobre una oferta ben delimitada. El client aprova zona, mercaderia adequada, encaix comercial mínim i exclusions. Un distribuïdor fictici anuncia presència comercial en una regió nova. Aquest és el fet; continuen sense conèixer-se manca d’espai, pressupost i venciment de contracte. El responsable investiga qui coordina distribució i tria LinkedIn o email segons l’activitat rellevant."
+        ],
+        "examples": [
+          {
+            "heading": "Inici fictici per al responsable de distribució",
+            "fact": "Una expansió regional anunciada i una funció de distribució plausible; totes dues dades són fictícies.",
+            "unknown": "Proveïdor actual, necessitat real d’emmagatzematge, volums, terminis i pressupost.",
+            "message": "Hola, [nom],\n\nPer a l’expansió a [regió], qui coordina la cobertura de distribució?\n\nOferim [servei d’emmagatzematge definit] a [zona de cobertura]. Si us és útil valorar una opció local, podríem comentar si encaixa amb la vostra operació. No conec el vostre acord actual i no donaria per fet que necessiteu substituir-lo.\n\nPortes tu aquest tema?\n\nGràcies,\n[remitent]",
+            "notes": [
+              "La pregunta parteix del fet públic, sense inventar un problema d’emmagatzematge.",
+              "L’oferta es limita a servei i zona reals; completa els marcadors només amb capacitats aprovades.",
+              "No es desacredita el proveïdor actual ni es dona per feta una reunió."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client.",
+            "follow": "Hola, [nom], reprenc breument la pregunta de sota sobre distribució."
+          }
+        ]
+      },
+      {
+        "heading": "Qualificació abans del traspàs a l’agenda",
+        "body": [
+          "Si el comprador fictici mostra interès, confirma zona real, necessitat operativa pertinent, funció i motiu de conversa abans de reservar. Registra volums o terminis desconeguts com a tals. Utilitza l’agenda del proveïdor i transmet context i preguntes; el seu equip comercial avalua l’operació i el pressupost.",
+          "Resposta, petició de pressupost, clic a l’agenda, reserva i reunió qualificada celebrada són resultats diferents. L’accés autoritzat al CRM o al calendari, o confirmació del client, acredita la reserva. No comptis un canvi de data com a contacte nou ni una consulta de tarifes com a oportunitat acceptada sense la qualificació acordada."
+        ]
+      },
+      {
+        "heading": "Tingues en compte el proveïdor actual i el procés de compres",
+        "body": [
+          "Una operació establerta pot tenir proveïdor i un procés formal de revisió. La primera conversa útil pot tractar una ruta futura, una ubicació addicional, una alternativa de contingència adequada o la pròxima avaluació de proveïdors. Són preguntes per qualificar, no motius per afirmar un canvi urgent. No prometis ports més barats, capacitat lliure, acreditacions ni nivells de servei que el proveïdor no hagi aprovat."
+        ]
+      },
+      {
+        "heading": "Què inclouria la campanya gestionada",
+        "body": [
+          "Acordeu un mercat operatiu, regles de contactes i exclusions, afirmacions permeses i responsable de les converses comercials. Beespoke pot investigar empreses i funcions, preparar missatges individuals, configurar activitat autoritzada per email i/o LinkedIn, gestionar respostes i qualificar traspassos a l’agenda. Acostumem a utilitzar una seqüència breu de correu, sense molts recordatoris; l’ordre de canals depèn de l’activitat rellevant de la persona. Les trucades tenen abast i pressupost separats."
+        ]
+      },
+      {
+        "heading": "Avalua la feina sense inventar resultats logístics",
+        "body": [
+          "Aquesta pàgina descriu un procés proposat per a proveïdors logístics. L’empresa i els missatges de l’exemple són expressament ficticis; no acrediten resultats d’un client logístic. Avalua raonament per empresa, encaix de la llista, missatges individuals, gestió de respostes i verificació de converses qualificades. Demana evidències pertinents i autoritzades abans de donar per demostrats els resultats sectorials d’una agència."
+        ]
+      }
+    ],
+    "related": [
+      "/services/b2b-lead-generation/",
+      "/services/b2b-appointment-setting/",
+      "/guides/b2b-sales-prospecting-plan/"
+    ],
+    "faqs": [
+      {
+        "question": "A qui s’adreça aquesta prospecció logística?",
+        "answer": "A proveïdors logístics B2B amb oferta, cobertura, encaix d’empreses i responsable comercial definits. No és un servei de seguiment de paquets ni de cotització de ports per a particulars o carregadors."
+      },
+      {
+        "question": "Amb quins compradors logístics hem de contactar?",
+        "answer": "Tria segons oferta i operació reals. Cadena de subministrament, logística, operacions o compres poden ser rellevants, però un càrrec no demostra autoritat de compra ni necessitat."
+      },
+      {
+        "question": "Beespoke cotitza transports o inclou trucades?",
+        "answer": "El proveïdor logístic defineix l’operació i cotitza el transport. La prospecció acordada de Beespoke cobreix cold email i/o LinkedIn; les trucades tenen abast i pressupost separats segons el mercat."
+      },
+      {
+        "question": "Els exemples són resultats reals de clients?",
+        "answer": "No. L’empresa i els missatges logístics són exemples ficticis de planificació. Mostren decisions de recerca i qualificació sense afirmar resultats de clients ni reunions garantides."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Callbox — logistics lead generation",
+        "href": "https://www.callboxinc.com/industries-we-serve/logistics-lead-generation/"
+      },
+      {
+        "label": "Sopro — logistics lead generation",
+        "href": "https://sopro.io/solutions/lead-generation-for-logistics-companies/"
+      },
+      {
+        "label": "Cognism — logistics sales leads",
+        "href": "https://www.cognism.com/blog/logistics-sales-leads"
+      }
+    ],
+    "sourceMethodology": "El mètode operatiu prové del fundador de Beespoke. Els exemples són situacions formatives, tret que s’identifiquin expressament com a adaptacions inspeccionades i anonimitzades. Les fonts orienten les preguntes tractades; els seus resultats no es presenten com a nostres.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Treballa la teva decisió",
+      "heading": "Fitxa d’encaix i qualificació logística",
+      "intro": "Registra les evidències, el motiu individual per contactar i el responsable següent. Mantén visibles les incògnites.",
+      "navLabel": "Fitxa d’encaix i qualificació logística",
+      "note": "Notes privades: no hi introdueixis informació confidencial ni identificativa. No es carrega ni desa res; exporta el que calgui abans de sortir."
+    },
+    "workbook": {
+      "fields": [
+        "Servei definit",
+        "Zona o ruta acordada",
+        "Evidències i font d’empresa",
+        "Incògnites operatives",
+        "Funció compradora rellevant",
+        "Pregunta o acció següent",
+        "Responsable i verificació"
+      ],
+      "legend": "Fitxa d’encaix i qualificació logística",
+      "reportTitle": "Fitxa d’encaix i qualificació logística",
+      "samples": [
+        [
+          "Oferta fictícia d’emmagatzematge regional",
+          "Una regió acordada; sense ampliar cobertura sense proves",
+          "Un distribuïdor fictici anuncia expansió regional",
+          "Mercaderia i límits de manipulació sense confirmar",
+          "Responsable de distribució o operacions, per confirmar",
+          "Confirmar emmagatzematge i manipulació abans d’investigar contactes.",
+          "Responsable de campanya i comercial del client; reserva no acreditada"
+        ],
+        [
+          "Oferta fictícia d’emmagatzematge regional",
+          "Una regió acordada; sense ampliar cobertura sense proves",
+          "Un distribuïdor fictici anuncia expansió regional",
+          "Encaix del client encara sense aprovar",
+          "Responsable de distribució o operacions, per confirmar",
+          "Aprovar o excloure l’empresa segons cobertura operativa real.",
+          "Responsable de campanya i comercial del client; reserva no acreditada"
+        ],
+        [
+          "Oferta fictícia d’emmagatzematge regional",
+          "Una regió acordada; sense ampliar cobertura sense proves",
+          "Un distribuïdor fictici anuncia expansió regional",
+          "Funció compradora i procés desconeguts",
+          "Responsable de distribució o operacions, per confirmar",
+          "Preguntar qui coordina la distribució; el càrrec no és suficient.",
+          "Responsable de campanya i comercial del client; reserva no acreditada"
+        ],
+        [
+          "Oferta fictícia d’emmagatzematge regional",
+          "Una regió acordada; sense ampliar cobertura sense proves",
+          "Un distribuïdor fictici anuncia expansió regional",
+          "Proveïdor actual, pressupost i interès desconeguts",
+          "Responsable de distribució o operacions, per confirmar",
+          "Preguntar si seria útil valorar una opció local d’emmagatzematge.",
+          "Responsable de campanya i comercial del client; reserva no acreditada"
+        ],
+        [
+          "Oferta fictícia d’emmagatzematge regional",
+          "Una regió acordada; sense ampliar cobertura sense proves",
+          "Un distribuïdor fictici anuncia expansió regional",
+          "Necessitat operativa real i terminis desconeguts",
+          "Responsable de distribució o operacions, per confirmar",
+          "Confirmar mercaderia, restriccions i terminis reals; passar consultes tècniques al client.",
+          "Responsable de campanya i comercial del client; reserva no acreditada"
+        ],
+        [
+          "Oferta fictícia d’emmagatzematge regional",
+          "Una regió acordada; sense ampliar cobertura sense proves",
+          "Un distribuïdor fictici anuncia expansió regional",
+          "Una petició d’agenda encara no és una reserva verificada",
+          "Responsable de distribució o operacions, per confirmar",
+          "Utilitzar l’agenda del client i confirmar la reserva original abans de comptar.",
+          "Responsable de campanya i comercial del client; reserva no acreditada"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Abans de lliurar-ho a un proveïdor",
+      "body": [
+        "Revisa conjuntament encaix, evidències i responsabilitats. Un missatge útil no demostra una reserva ni una oportunitat qualificada."
+      ],
+      "items": [
+        "Aprova les persones proposades i les exclusions.",
+        "Comprova la font de cada afirmació concreta i explicita les incògnites.",
+        "Acorda canal autoritzat, seguiment breu, responsable de respostes i condicions d’aturada.",
+        "Verifica el resultat de l’agenda mitjançant accés autoritzat o confirmació del client."
+      ]
+    }
+  },
+  "fr": {
+    "title": "Génération de leads pour entreprises logistiques B2B | Beespoke",
+    "description": "Préparez une prospection B2B pour le transport, la 3PL et le stockage : comptes, acheteurs, pertinence opérationnelle et transmission qualifiée avec un exemple complet.",
+    "eyebrow": "Des échanges commerciaux adaptés à l’exploitation",
+    "h1": "Génération de leads pour les entreprises logistiques : atteindre les bons acheteurs B2B",
+    "answer": "La génération de leads logistiques identifie les entreprises et rôles décisionnaires adaptés à une offre précise de transport, commission de transport, 3PL ou stockage, puis engage des conversations pertinentes et qualifie la suite. Définissez zone, contraintes et acheteur réel avant de choisir email ou LinkedIn. Beespoke peut gérer la prospection convenue ; le prestataire logistique conserve la découverte opérationnelle, les devis de fret et la conclusion.",
+    "path": "/industries/logistics-lead-generation/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Commencez par le service logistique réellement livrable",
+        "body": [
+          "La génération de leads pour les entreprises logistiques doit identifier des clients professionnels adaptés à une offre précise de transport, commission de transport ou stockage. « Toute entreprise qui expédie des marchandises » est trop large. Définissez zone, liaisons, contraintes de fret ou de clientèle, capacités disponibles, pertinence commerciale minimale et conversation utile. Beespoke gère la prospection, pas le transport ni les devis de fret à votre place.",
+          "Le jugement du client est essentiel pour valider les cibles : lesquelles correspondent à l’exploitation et lesquelles exclure. Nous fournissons la recherche sur les entreprises et personnes, les messages individuels et l’exécution autorisée par email et/ou LinkedIn. Votre équipe commerciale conserve la découverte, le cadrage opérationnel, les devis et la conclusion."
+        ]
+      },
+      {
+        "heading": "Distinguez les acheteurs de transport, logistique contractuelle et stockage",
+        "body": [
+          "Les lignes suivantes sont des exemples de préparation, pas des responsabilités universelles ni l’affirmation que chaque prestataire propose tous ces services. Choisissez l’offre réelle avant les contacts."
+        ],
+        "table": {
+          "caption": "Ciblage et qualification selon le service",
+          "headers": [
+            "Offre à définir",
+            "Contexte d’achat plausible",
+            "À confirmer",
+            "Ne pas présumer"
+          ],
+          "rows": [
+            [
+              "Transport ou commission de transport sur des liaisons précises",
+              "Un chargeur avec origines, destinations et fret pertinents",
+              "Liaison, fret, contraintes, responsable commercial et processus d’évaluation",
+              "Volumes, échéances contractuelles ou insatisfaction"
+            ],
+            [
+              "3PL ou préparation de commandes",
+              "Une marque ou un distributeur examinant une implantation adaptée",
+              "Profil des commandes, zone, systèmes, contraintes et évaluateur opérationnel",
+              "Qu’un lancement prouve des difficultés de préparation"
+            ],
+            [
+              "Stockage ou capacité complémentaire",
+              "Une exploitation avec un besoin potentiel lié au lieu ou à la saison",
+              "Type d’espace, limites de manutention, calendrier et rôles décisionnaires",
+              "Un besoin de capacité à partir du seul effectif ou financement"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Recherchez les entreprises sans inventer leurs besoins de transport",
+        "body": [
+          "Les informations publiques utiles comprennent notamment les implantations, produits et services de l’entreprise, les lancements annoncés, les responsabilités opérationnelles et les procédures fournisseurs publiées. Notez source exacte et date. Une implantation de distribution annoncée peut justifier une question de couverture ; elle ne prouve ni palettes, ni fréquence d’expédition, ni conditions fournisseurs, ni urgence à changer de prestataire.",
+          "Appliquez les exclusions opérationnelles avant de constituer une longue liste. Écartez les entreprises hors zone, les marchandises ou exigences inadaptées, les clients actuels et les relations protégées. Une grande marque connue n’est pas automatiquement une meilleure cible qu’un compte plus petit adapté à l’exploitation."
+        ]
+      },
+      {
+        "heading": "Identifiez l’acheteur opérationnel et la décision commerciale",
+        "body": [
+          "Les fonctions supply chain, logistique, opérations, achats et finance peuvent intervenir différemment. Un intitulé ne prouve pas l’autorité d’achat. Commencez par la personne la plus proche de la question opérationnelle et demandez comment fonctionnent évaluation et validation, sans prétendre connaître le comité de décision. Coordonnez les contacts d’un même compte pour éviter des propositions contradictoires à plusieurs collègues."
+        ]
+      },
+      {
+        "heading": "Un exemple fictif complet : du compte au rendez-vous",
+        "body": [
+          "Un prestataire régional de stockage recherche des conversations autour d’une offre bien délimitée. Le client valide zone, marchandises adaptées, pertinence commerciale minimale et exclusions. Un distributeur fictif annonce une présence commerciale dans une nouvelle région. C’est le fait observé ; manque de place, budget et échéance contractuelle restent inconnus. Le responsable recherche la personne chargée de la distribution et choisit LinkedIn ou email selon son activité pertinente."
+        ],
+        "examples": [
+          {
+            "heading": "Ouverture fictive pour le responsable distribution",
+            "fact": "Une expansion régionale annoncée et un rôle distribution plausible, tous deux inventés pour cet exemple.",
+            "unknown": "Prestataire actuel, besoin réel de stockage, volumes, calendrier et budget.",
+            "message": "Bonjour [prénom],\n\nPour l’expansion en [région], qui coordonne la couverture de distribution ?\n\nNous proposons [service de stockage défini] dans [zone desservie]. Si examiner une option locale est utile, nous pourrions discuter de son adéquation avec votre exploitation. Je ne connais pas votre organisation actuelle et ne suppose pas que vous cherchiez à la remplacer.\n\nEst-ce vous qui suivez ce sujet ?\n\nMerci,\n[expéditeur]",
+            "notes": [
+              "La question découle du fait public sans inventer un problème de stockage.",
+              "L’offre est limitée par le service et la zone réels ; renseignez les variables uniquement avec les capacités approuvées.",
+              "Le prestataire actuel n’est pas dénigré et aucun rendez-vous n’est présumé."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué.",
+            "follow": "Bonjour [prénom], je reviens brièvement sur la question ci-dessous concernant la distribution."
+          }
+        ]
+      },
+      {
+        "heading": "Qualification avant la transmission vers l’agenda",
+        "body": [
+          "Si l’acheteur fictif manifeste un intérêt, confirmez la zone réelle, le besoin opérationnel pertinent, le rôle et la raison d’un échange avant la réservation. Conservez les volumes ou délais inconnus comme tels. Utilisez l’agenda du prestataire et transmettez contexte et questions ; son équipe commerciale évalue l’exploitation et le devis.",
+          "Réponse, demande de devis, clic sur l’agenda, réservation et entretien qualifié tenu sont des résultats distincts. Un accès autorisé au CRM ou à l’agenda, ou la confirmation du client, établit la réservation. Ne comptez pas un report comme un nouveau prospect ni une demande tarifaire comme une opportunité acceptée sans la qualification convenue."
+        ]
+      },
+      {
+        "heading": "Tenez compte du prestataire actuel et des achats",
+        "body": [
+          "Une exploitation établie peut déjà disposer d’un prestataire et d’un processus formel de revue. Le premier échange utile peut concerner une liaison future, une implantation supplémentaire, une option de continuité adaptée ou la prochaine évaluation fournisseurs. Ce sont des questions à qualifier, pas la preuve d’un changement urgent. Ne promettez ni fret moins cher, ni capacité libre, ni accréditations ou niveaux de service non validés par le prestataire."
+        ]
+      },
+      {
+        "heading": "Ce que comprendrait la campagne gérée",
+        "body": [
+          "Convenez d’un marché concret, de règles de ciblage et d’exclusion, d’affirmations autorisées et du responsable des échanges commerciaux. Beespoke peut rechercher comptes et rôles, préparer des messages individuels, configurer l’activité autorisée par email et/ou LinkedIn, traiter les réponses et qualifier les transmissions vers l’agenda. Nous utilisons généralement une courte séquence email plutôt que de nombreux rappels ; l’ordre des canaux suit l’activité pertinente de la personne. Les appels ont un périmètre et un devis distincts."
+        ]
+      },
+      {
+        "heading": "Évaluez le travail sans inventer de résultats logistiques",
+        "body": [
+          "Cette page décrit un processus de prospection proposé aux prestataires logistiques. Le compte et les messages de l’exemple sont explicitement fictifs ; ils ne prouvent aucun résultat client dans la logistique. Évaluez le raisonnement par compte, la pertinence de la liste, les messages individuels, le traitement des réponses et la vérification des conversations qualifiées. Demandez des éléments pertinents et autorisés avant de considérer les résultats sectoriels d’une agence comme établis."
+        ]
+      }
+    ],
+    "related": [
+      "/services/b2b-lead-generation/",
+      "/services/b2b-appointment-setting/",
+      "/guides/b2b-sales-prospecting-plan/"
+    ],
+    "faqs": [
+      {
+        "question": "À qui s’adresse cette prospection logistique ?",
+        "answer": "Aux prestataires logistiques B2B disposant d’une offre, d’une zone, de critères de ciblage et d’un responsable commercial définis. Ce n’est pas un service de suivi de colis ou de devis de fret pour particuliers ou chargeurs."
+      },
+      {
+        "question": "Quels acheteurs logistiques contacter ?",
+        "answer": "Choisissez selon l’offre et l’exploitation réelles. Supply chain, logistique, opérations ou achats peuvent être pertinents, mais un intitulé ne prouve ni autorité d’achat ni besoin."
+      },
+      {
+        "question": "Beespoke établit-il les devis de transport ou inclut-il les appels ?",
+        "answer": "Le prestataire logistique cadre l’exploitation et établit les devis de transport. La prospection convenue de Beespoke couvre le cold email et/ou LinkedIn ; les appels ont un périmètre et un devis distincts selon le marché."
+      },
+      {
+        "question": "Les exemples sont-ils de vrais résultats clients ?",
+        "answer": "Non. Le compte et les messages logistiques sont des exemples fictifs de préparation. Ils illustrent recherche et qualification sans revendiquer de résultats clients ni de rendez-vous garantis."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Callbox — logistics lead generation",
+        "href": "https://www.callboxinc.com/industries-we-serve/logistics-lead-generation/"
+      },
+      {
+        "label": "Sopro — logistics lead generation",
+        "href": "https://sopro.io/solutions/lead-generation-for-logistics-companies/"
+      },
+      {
+        "label": "Cognism — logistics sales leads",
+        "href": "https://www.cognism.com/blog/logistics-sales-leads"
+      }
+    ],
+    "sourceMethodology": "La méthode opérationnelle est décrite par le fondateur de Beespoke. Les exemples sont des situations de formation, sauf indication explicite d’une adaptation inspectée et anonymisée. Les sources éclairent les questions traitées ; leurs résultats ne sont pas présentés comme les nôtres.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Préparez votre propre décision",
+      "heading": "Fiche de pertinence et qualification logistique",
+      "intro": "Notez les éléments observés, la raison individuelle du contact et le prochain responsable. Gardez les inconnues visibles.",
+      "navLabel": "Fiche de pertinence et qualification logistique",
+      "note": "Notes privées : ne saisissez aucune information confidentielle ou permettant une identification. Rien n’est transmis ni enregistré ; exportez les éléments utiles avant de partir."
+    },
+    "workbook": {
+      "fields": [
+        "Service défini",
+        "Zone ou liaison convenue",
+        "Éléments du compte et source",
+        "Inconnues opérationnelles",
+        "Rôle acheteur pertinent",
+        "Question ou action suivante",
+        "Responsable et vérification"
+      ],
+      "legend": "Fiche de pertinence et qualification logistique",
+      "reportTitle": "Fiche de pertinence et qualification logistique",
+      "samples": [
+        [
+          "Offre fictive de stockage régional",
+          "Une région convenue ; aucune couverture élargie non vérifiée",
+          "Un distributeur fictif annonce une expansion régionale",
+          "Marchandises et limites de manutention non confirmées",
+          "Responsable distribution ou opérations, à confirmer",
+          "Confirmer stockage et manutention avant la recherche de cibles.",
+          "Responsable de campagne et commercial du client ; réservation non établie"
+        ],
+        [
+          "Offre fictive de stockage régional",
+          "Une région convenue ; aucune couverture élargie non vérifiée",
+          "Un distributeur fictif annonce une expansion régionale",
+          "Pertinence du client pas encore validée",
+          "Responsable distribution ou opérations, à confirmer",
+          "Valider ou exclure le compte selon la couverture opérationnelle réelle.",
+          "Responsable de campagne et commercial du client ; réservation non établie"
+        ],
+        [
+          "Offre fictive de stockage régional",
+          "Une région convenue ; aucune couverture élargie non vérifiée",
+          "Un distributeur fictif annonce une expansion régionale",
+          "Rôle acheteur et processus inconnus",
+          "Responsable distribution ou opérations, à confirmer",
+          "Demander qui coordonne la distribution ; l’intitulé ne suffit pas.",
+          "Responsable de campagne et commercial du client ; réservation non établie"
+        ],
+        [
+          "Offre fictive de stockage régional",
+          "Une région convenue ; aucune couverture élargie non vérifiée",
+          "Un distributeur fictif annonce une expansion régionale",
+          "Prestataire actuel, budget et intérêt inconnus",
+          "Responsable distribution ou opérations, à confirmer",
+          "Demander si examiner une option locale de stockage serait utile.",
+          "Responsable de campagne et commercial du client ; réservation non établie"
+        ],
+        [
+          "Offre fictive de stockage régional",
+          "Une région convenue ; aucune couverture élargie non vérifiée",
+          "Un distributeur fictif annonce une expansion régionale",
+          "Besoin opérationnel réel et calendrier inconnus",
+          "Responsable distribution ou opérations, à confirmer",
+          "Confirmer marchandises, contraintes et calendrier réels ; transmettre les questions techniques au client.",
+          "Responsable de campagne et commercial du client ; réservation non établie"
+        ],
+        [
+          "Offre fictive de stockage régional",
+          "Une région convenue ; aucune couverture élargie non vérifiée",
+          "Un distributeur fictif annonce une expansion régionale",
+          "Une demande d’agenda n’est pas encore une réservation vérifiée",
+          "Responsable distribution ou opérations, à confirmer",
+          "Utiliser l’agenda du client et confirmer la réservation initiale avant de compter.",
+          "Responsable de campagne et commercial du client ; réservation non établie"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Avant de transmettre ce travail à un prestataire",
+      "body": [
+        "Examinez ensemble la pertinence, les preuves et les responsabilités. Un message utile ne prouve ni réservation ni opportunité qualifiée."
+      ],
+      "items": [
+        "Validez les interlocuteurs proposés et les exclusions.",
+        "Vérifiez la source de chaque affirmation précise et explicitez les inconnues.",
+        "Convenez du canal autorisé, de la courte relance, du responsable des réponses et des conditions d’arrêt.",
+        "Vérifiez le résultat dans l’agenda par un accès autorisé ou une confirmation du client."
+      ]
+    }
+  }
+}

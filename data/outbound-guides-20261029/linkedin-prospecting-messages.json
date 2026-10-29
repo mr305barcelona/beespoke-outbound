@@ -1,0 +1,1046 @@
+{
+  "en": {
+    "title": "LinkedIn Prospecting Messages: B2B Examples | Beespoke",
+    "description": "Write individual LinkedIn prospecting messages with four annotated examples, activity-based channel choice, short follow-ups, reply decisions and a private workbook.",
+    "eyebrow": "A specific person and a useful question",
+    "h1": "LinkedIn prospecting messages: individual relevance from the first conversation",
+    "answer": "A useful LinkedIn prospecting message connects a verified fact, the person’s relevant role and a proportionate question. Recent relevant activity can help decide whether LinkedIn should be the first channel, but it does not establish buying interest. Use a shared structure with genuinely individual content, keep follow-ups brief, respect replies and verify calendar outcomes separately from connections or reactions.",
+    "path": "/guides/linkedin-prospecting-messages/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "LinkedIn prospecting messages need individual relevance",
+        "body": [
+          "A LinkedIn prospecting message connects a checked reason for contact to one person’s role and a useful next step. The structure can be consistent while the business explanation changes for each recipient. An accepted connection is permission for neither an unlimited pitch sequence nor a claim of buying interest. Review the actual relationship and available messaging path before sending."
+        ]
+      },
+      {
+        "heading": "Choose LinkedIn when the activity supports it",
+        "body": [
+          "Check recent relevant posts, comments or other visible activity and confirm the person still owns the appropriate work. A profile existing is not evidence that its owner reads LinkedIn messages regularly. Where activity is absent and an appropriate email is available, email may be the better first channel. Record the basis for the choice rather than applying LinkedIn-first to the entire lead list."
+        ]
+      },
+      {
+        "heading": "Separate the invitation, first message and reply",
+        "body": [
+          "A connection request need not contain the whole proposition. If you use a note, state a genuine reason without invented familiarity. A simple fictional example is “Hello [name], I work on [relevant area] and would be glad to connect.” Only use that wording when it is true. Sending no note can also be a deliberate choice; do not manufacture a personal link to fill the space.",
+          "The first substantive message then earns its own relevance. Do not treat acceptance as a sales qualification or assume a mutual contact has endorsed you. A real introduction can be referenced accurately; a visible shared connection alone is not an introduction."
+        ]
+      },
+      {
+        "heading": "Four annotated LinkedIn message examples",
+        "body": [
+          "Each fictional case includes the recent activity, unknowns, first message and a short no-reply reminder. These are training examples, not private inbox screenshots or claims that a named client received a result. Adjust the whole relevance paragraph for the actual person, rather than replacing a name."
+        ],
+        "examples": [
+          {
+            "heading": "An MSP approaching an operations owner",
+            "fact": "In this fictional scenario the person recently posts about coordinating two sites.",
+            "unknown": "Its current IT provider, contract dates, budget and actual support problem are unknown.",
+            "message": "Hi [first name],\n\nYour post about keeping support consistent across sites raises a practical question: do you coordinate the IT support for both offices?\n\nWe help businesses in [service region] work through that coverage. If it is something you are reviewing, would comparing notes on the two-site setup be useful?",
+            "notes": [
+              "The recent relevant activity is a reason to consider LinkedIn first; it is not proof of buying interest.",
+              "The role question leaves room for correction; the message does not pretend to know the internal owner.",
+              "The brief follow-up depends on no reply. Stop the programmed sequence on a response and review its meaning."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed.",
+            "follow": "Hi [first name], just checking whether the question above is relevant to you."
+          },
+          {
+            "heading": "A specialist recruiter approaching an employer",
+            "fact": "In this fictional scenario the engineering owner discusses the open specialist roles.",
+            "unknown": "Vacancies do not prove a hiring failure, outside-agency budget or permission to send candidate details.",
+            "message": "Hi [first name],\n\nFor the [specialism] hiring you discussed this week, does your internal team handle the whole search?\n\nWe recruit in that area. If external support is useful, I’d first want to understand the experience you need rather than send unrelated profiles. Is that a question you own?",
+            "notes": [
+              "The recent relevant activity is a reason to consider LinkedIn first; it is not proof of buying interest.",
+              "The offer names a limited contribution and asks about the actual buying process before sending material.",
+              "The brief follow-up depends on no reply. Stop the programmed sequence on a response and review its meaning."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed.",
+            "follow": "Hi [first name], just checking whether the question above is relevant to you."
+          },
+          {
+            "heading": "A training provider approaching a multi-site operator",
+            "fact": "In this fictional scenario the operations owner comments on supervisor onboarding for a site.",
+            "unknown": "The training plan, legal requirements and procurement timing are unassessed.",
+            "message": "Hello [first name],\n\nOn your comment about bringing new supervisors into [site project], is induction already covered by the existing team?\n\nWe run practical manager workshops around real team situations. If one workshop would help with that transition, I’d be happy to discuss the situations it would need to cover. If it is already settled, no problem.",
+            "notes": [
+              "The recent relevant activity is a reason to consider LinkedIn first; it is not proof of buying interest.",
+              "It describes the work without guaranteeing productivity, compliance or a training outcome.",
+              "The brief follow-up depends on no reply. Stop the programmed sequence on a response and review its meaning."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed.",
+            "follow": "Hi [first name], just checking whether the question above is relevant to you."
+          },
+          {
+            "heading": "A design studio approaching a product owner",
+            "fact": "In this fictional scenario the product owner shares the reporting-module release.",
+            "unknown": "A new feature does not prove usability problems, low activation or a planned redesign.",
+            "message": "Hi [first name],\n\nDoes the [reporting module] you shared introduce a new user role, or is it for the existing dashboard users?\n\nWe work with product teams on those first-use journeys. If you are still reviewing how that role finds the right report, would a conversation about one specific journey be useful?",
+            "notes": [
+              "The recent relevant activity is a reason to consider LinkedIn first; it is not proof of buying interest.",
+              "The proposed discussion has a concrete boundary: one role and one first-use journey.",
+              "The brief follow-up depends on no reply. Stop the programmed sequence on a response and review its meaning."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed.",
+            "follow": "Hi [first name], just checking whether the question above is relevant to you."
+          }
+        ]
+      },
+      {
+        "heading": "Human writing without a forced casual voice",
+        "body": [
+          "Avoid generic praise, repeated “I noticed” wrappers and exaggerated language such as “revolutionize” or “unlock”. Refer directly to the specific topic when it matters. Do not force a joke, emoji or first-name familiarity into every message. A professional, plain question can sound more human than manufactured banter. AI-assisted and human-written drafts need the same checks for facts, relevance and sender voice."
+        ]
+      },
+      {
+        "heading": "Decide from the reply before changing channels",
+        "body": [
+          "Use one owner and one conversation history across the agreed channels. A LinkedIn response should stop a pending programmed email reminder. No response may justify reviewing another channel; a refusal does not justify repeating the pitch through email or another sender. If calling is appropriate, scope and quote it separately."
+        ],
+        "table": {
+          "caption": "Conversation states and next decisions",
+          "headers": [
+            "State",
+            "Appropriate next action",
+            "Evidence still missing"
+          ],
+          "rows": [
+            [
+              "Connection accepted",
+              "Review the relevant first message",
+              "Interest, fit and booking"
+            ],
+            [
+              "Question or referral",
+              "Stop the programmed sequence and review the actual question or role",
+              "An agreed meeting"
+            ],
+            [
+              "No reply",
+              "One brief follow-up if still appropriate; then review the channel plan",
+              "Any buying intent"
+            ],
+            [
+              "Decline",
+              "Close the sequence and respect the preference",
+              "No further pitch is justified by the decline"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "From a useful conversation to a verified client booking",
+        "body": [
+          "Beespoke researches and proposes the target list, writes individual messages and runs the authorized campaign work. The client’s judgment matters when approving suitable people and exclusions. When interest is relevant, use the client’s existing calendar link and pass the actual question and context to the sales owner. Authorized CRM/calendar access or client confirmation verifies the booking; a link send, reaction or accepted connection does not."
+        ]
+      }
+    ],
+    "related": [
+      "/services/linkedin-lead-generation/",
+      "/guides/b2b-cold-email-copywriting/",
+      "/guides/cold-email-follow-up/"
+    ],
+    "faqs": [
+      {
+        "question": "Should we use one LinkedIn template for everyone?",
+        "answer": "Use a structure, not identical relevance. Research the account and person and rewrite the substantive explanation for each recipient."
+      },
+      {
+        "question": "Does an accepted connection count as a lead?",
+        "answer": "It is a connection state, not proof of interest, qualification or a booking. Record the later conversation and verified outcomes separately."
+      },
+      {
+        "question": "What if the person is inactive on LinkedIn?",
+        "answer": "Review whether a suitable email or another agreed channel is more appropriate. Do not infer frequent inbox use from the existence of a profile."
+      },
+      {
+        "question": "Are these real client messages?",
+        "answer": "The four cases are fictional training examples. They illustrate Beespoke’s owner-described research and writing approach without publishing private sender, client or prospect identities."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Cognism — LinkedIn messaging examples",
+        "href": "https://www.cognism.com/blog/linkedin-messaging-templates"
+      },
+      {
+        "label": "NetHunt — LinkedIn outreach guidance",
+        "href": "https://nethunt.com/blog/how-to-write-high-converting-linkedin-prospecting-messages-templates/"
+      }
+    ],
+    "sourceMethodology": "The operating approach is supplied by Beespoke’s founder. The examples below are training scenarios unless expressly labelled as an inspected, anonymized adaptation. Source articles inform the questions covered; their performance claims are not adopted as our results.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Work through your own decision",
+      "heading": "LinkedIn message and channel review workbook",
+      "intro": "Record the evidence, the individual reason for contact and the next owner. Keep missing information visible.",
+      "navLabel": "LinkedIn message and channel review workbook",
+      "note": "Private working notes: do not enter confidential or identifying information. Nothing is uploaded or saved; export what you need before leaving."
+    },
+    "workbook": {
+      "fields": [
+        "Role and account context",
+        "Recent activity / source and date",
+        "Unknowns",
+        "Reason to consider LinkedIn first",
+        "Individual message and reminder",
+        "Reply / stop decision",
+        "Owner and calendar evidence"
+      ],
+      "legend": "LinkedIn message and channel review workbook",
+      "reportTitle": "LinkedIn message and channel review workbook",
+      "samples": [
+        [
+          "An MSP approaching an operations owner",
+          "In this fictional scenario the person recently posts about coordinating two sites.",
+          "Its current IT provider, contract dates, budget and actual support problem are unknown.",
+          "The recent relevant activity is a reason to consider LinkedIn first; it is not proof of buying interest.",
+          "Hi [first name],\n\nYour post about keeping support consistent across sites raises a practical question: do you coordinate the IT support for both offices?\n\nWe help businesses in [service region] work through that coverage. If it is something you are reviewing, would comparing notes on the two-site setup be useful?\n\nHi [first name], just checking whether the question above is relevant to you.",
+          "Stop the programmed sequence on any reply; review the meaning before another action.",
+          "Campaign owner; calendar outcome unverified in this fictional example."
+        ],
+        [
+          "A specialist recruiter approaching an employer",
+          "In this fictional scenario the engineering owner discusses the open specialist roles.",
+          "Vacancies do not prove a hiring failure, outside-agency budget or permission to send candidate details.",
+          "The recent relevant activity is a reason to consider LinkedIn first; it is not proof of buying interest.",
+          "Hi [first name],\n\nFor the [specialism] hiring you discussed this week, does your internal team handle the whole search?\n\nWe recruit in that area. If external support is useful, I’d first want to understand the experience you need rather than send unrelated profiles. Is that a question you own?\n\nHi [first name], just checking whether the question above is relevant to you.",
+          "Stop the programmed sequence on any reply; review the meaning before another action.",
+          "Campaign owner; calendar outcome unverified in this fictional example."
+        ],
+        [
+          "A training provider approaching a multi-site operator",
+          "In this fictional scenario the operations owner comments on supervisor onboarding for a site.",
+          "The training plan, legal requirements and procurement timing are unassessed.",
+          "The recent relevant activity is a reason to consider LinkedIn first; it is not proof of buying interest.",
+          "Hello [first name],\n\nOn your comment about bringing new supervisors into [site project], is induction already covered by the existing team?\n\nWe run practical manager workshops around real team situations. If one workshop would help with that transition, I’d be happy to discuss the situations it would need to cover. If it is already settled, no problem.\n\nHi [first name], just checking whether the question above is relevant to you.",
+          "Stop the programmed sequence on any reply; review the meaning before another action.",
+          "Campaign owner; calendar outcome unverified in this fictional example."
+        ],
+        [
+          "A design studio approaching a product owner",
+          "In this fictional scenario the product owner shares the reporting-module release.",
+          "A new feature does not prove usability problems, low activation or a planned redesign.",
+          "The recent relevant activity is a reason to consider LinkedIn first; it is not proof of buying interest.",
+          "Hi [first name],\n\nDoes the [reporting module] you shared introduce a new user role, or is it for the existing dashboard users?\n\nWe work with product teams on those first-use journeys. If you are still reviewing how that role finds the right report, would a conversation about one specific journey be useful?\n\nHi [first name], just checking whether the question above is relevant to you.",
+          "Stop the programmed sequence on any reply; review the meaning before another action.",
+          "Campaign owner; calendar outcome unverified in this fictional example."
+        ],
+        [
+          "Inactive profile: hold LinkedIn-first",
+          "Fictional decision example; confirm actual evidence",
+          "Interest and booking unknown",
+          "Review channel and role rather than assume fit",
+          "Review an appropriate email or the approved client calendar link",
+          "Stop the programmed sequence on any reply; review the meaning before another action.",
+          "Campaign owner; calendar outcome unverified in this fictional example."
+        ],
+        [
+          "Reply asks for a calendar: verify before counting",
+          "Fictional decision example; confirm actual evidence",
+          "Interest and booking unknown",
+          "Review channel and role rather than assume fit",
+          "Review an appropriate email or the approved client calendar link",
+          "Stop the programmed sequence on any reply; review the meaning before another action.",
+          "Campaign owner; calendar outcome unverified in this fictional example."
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Before you hand this to a provider",
+      "body": [
+        "Review fit, evidence and ownership together. A useful message does not establish a booking or a qualified opportunity."
+      ],
+      "items": [
+        "Approve the proposed people and exclusions.",
+        "Check the source behind every specific claim and keep unknowns explicit.",
+        "Agree the authorized channel, concise follow-up, reply owner and stopping conditions.",
+        "Verify the calendar outcome through authorized access or client confirmation."
+      ]
+    }
+  },
+  "es": {
+    "title": "Mensajes de prospección en LinkedIn: cuatro ejemplos B2B | Beespoke",
+    "description": "Redacta mensajes individuales de LinkedIn con cuatro ejemplos anotados, elección de canal por actividad, seguimientos breves, decisiones por respuesta y ficha privada.",
+    "eyebrow": "Una persona concreta y una pregunta útil",
+    "h1": "Mensajes de prospección en LinkedIn: relevancia individual desde el inicio",
+    "answer": "Un mensaje útil de prospección en LinkedIn conecta un hecho verificado, la función relevante de la persona y una pregunta proporcionada. La actividad reciente puede ayudar a elegir LinkedIn como primer canal, pero no demuestra intención de compra. Usa una estructura común con contenido individual, seguimientos breves y respeto a las respuestas; verifica las reservas aparte de conexiones o reacciones.",
+    "path": "/guides/linkedin-prospecting-messages/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Los mensajes de prospección en LinkedIn necesitan relevancia individual",
+        "body": [
+          "Un mensaje de prospección en LinkedIn conecta un motivo comprobado para contactar con la función de una persona y un siguiente paso útil. La estructura puede ser coherente mientras la explicación cambia para cada destinatario. Una conexión aceptada no autoriza una secuencia ilimitada ni demuestra interés de compra. Revisa la relación real y la vía de mensaje disponible antes de enviar."
+        ]
+      },
+      {
+        "heading": "Elige LinkedIn cuando la actividad lo justifique",
+        "body": [
+          "Comprueba publicaciones, comentarios u otra actividad visible reciente y relevante, y confirma las responsabilidades actuales. Tener perfil no demuestra que la persona lea mensajes de LinkedIn con frecuencia. Si no hay actividad y existe un correo adecuado, el email puede ser mejor primer canal. Registra el motivo de la elección, sin aplicar LinkedIn primero a toda la lista."
+        ]
+      },
+      {
+        "heading": "Separa invitación, primer mensaje y respuesta",
+        "body": [
+          "Una invitación no necesita contener toda la propuesta. Si añades una nota, explica un motivo real sin fingir familiaridad. Un ejemplo ficticio sencillo es «Hola [nombre], trabajo en [área relevante] y me gustaría conectar». Úsalo solo si es cierto. No añadir nota también puede ser una elección consciente; no inventes un vínculo personal para rellenarla.",
+          "El primer mensaje sustantivo debe justificar su relevancia. No interpretes la aceptación como cualificación comercial ni supongas que un contacto común te recomienda. Una presentación real puede citarse con precisión; una conexión compartida visible no es una presentación."
+        ]
+      },
+      {
+        "heading": "Cuatro ejemplos anotados de mensajes de LinkedIn",
+        "body": [
+          "Cada caso ficticio incluye actividad reciente, incógnitas, primer mensaje y un recordatorio breve si no responde. Son ejemplos formativos, no capturas privadas ni afirmaciones de resultados de un cliente. Adapta todo el párrafo de relevancia a la persona real, sin limitarte a cambiar el nombre."
+        ],
+        "examples": [
+          {
+            "heading": "Un MSP contacta a la persona responsable de operaciones",
+            "fact": "En este escenario ficticio, la persona publica recientemente sobre la coordinación de dos sedes.",
+            "unknown": "Se desconocen proveedor de TI, vencimientos, presupuesto y problema real de soporte.",
+            "message": "Hola [nombre]:\n\nTu publicación sobre mantener un soporte coherente entre sedes plantea una pregunta práctica: ¿coordinas tú el soporte informático de ambas oficinas?\n\nAyudamos a empresas de [zona de servicio] a revisar esa cobertura. Si lo estáis valorando, ¿sería útil comentar la organización entre las dos sedes?",
+            "notes": [
+              "La actividad reciente y relevante justifica considerar LinkedIn primero; no demuestra intención de compra.",
+              "La pregunta sobre responsabilidades permite corregir el contacto; el mensaje no finge conocer la organización interna.",
+              "El seguimiento breve depende de que no haya respuesta. Para la secuencia programada ante una respuesta y revisa su significado."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente.",
+            "follow": "Hola [nombre], retomo brevemente la pregunta de arriba para saber si te resulta pertinente."
+          },
+          {
+            "heading": "Una consultora de selección especializada contacta a una empresa",
+            "fact": "En este escenario ficticio, el responsable de ingeniería comenta las vacantes especializadas.",
+            "unknown": "Las vacantes no demuestran dificultades de contratación, presupuesto para agencias ni permiso para enviar datos de candidatos.",
+            "message": "Hola [nombre]:\n\nEn la contratación de [especialidad] que comentaste esta semana, ¿vuestro equipo interno gestiona toda la búsqueda?\n\nSeleccionamos perfiles de esa área. Si os sirve apoyo externo, primero querría entender la experiencia que necesitáis, sin enviar perfiles no relacionados. ¿Llevas tú este tema?",
+            "notes": [
+              "La actividad reciente y relevante justifica considerar LinkedIn primero; no demuestra intención de compra.",
+              "La oferta delimita la contribución y pregunta por el proceso de compra antes de enviar material.",
+              "El seguimiento breve depende de que no haya respuesta. Para la secuencia programada ante una respuesta y revisa su significado."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente.",
+            "follow": "Hola [nombre], retomo brevemente la pregunta de arriba para saber si te resulta pertinente."
+          },
+          {
+            "heading": "Una empresa de formación contacta a un operador con varias sedes",
+            "fact": "En este escenario ficticio, el responsable de operaciones comenta la incorporación de supervisores a una sede.",
+            "unknown": "No se han evaluado plan de formación, requisitos legales ni calendario de compras.",
+            "message": "Hola [nombre]:\n\nSobre tu comentario acerca de incorporar supervisores a [proyecto de sede], ¿el equipo actual ya tiene cubierta la formación inicial?\n\nHacemos talleres prácticos para responsables basados en situaciones reales. Si un taller pudiera ayudar en esa transición, podríamos comentar qué situaciones tendría que cubrir. Si ya está resuelto, ningún problema.",
+            "notes": [
+              "La actividad reciente y relevante justifica considerar LinkedIn primero; no demuestra intención de compra.",
+              "Describe el trabajo sin garantizar productividad, cumplimiento normativo ni resultados formativos.",
+              "El seguimiento breve depende de que no haya respuesta. Para la secuencia programada ante una respuesta y revisa su significado."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente.",
+            "follow": "Hola [nombre], retomo brevemente la pregunta de arriba para saber si te resulta pertinente."
+          },
+          {
+            "heading": "Un estudio de diseño contacta a un responsable de producto",
+            "fact": "En este escenario ficticio, el responsable de producto comparte el lanzamiento del módulo de informes.",
+            "unknown": "Una función nueva no demuestra problemas de usabilidad, baja activación ni un rediseño previsto.",
+            "message": "Hola [nombre]:\n\n¿El [módulo de informes] que compartiste introduce un nuevo perfil de usuario o se dirige a quienes ya usan el panel?\n\nTrabajamos con equipos de producto en esos recorridos de primer uso. Si seguís revisando cómo ese perfil encuentra el informe adecuado, ¿sería útil hablar de un recorrido concreto?",
+            "notes": [
+              "La actividad reciente y relevante justifica considerar LinkedIn primero; no demuestra intención de compra.",
+              "La conversación propuesta tiene límites concretos: una función y un recorrido inicial.",
+              "El seguimiento breve depende de que no haya respuesta. Para la secuencia programada ante una respuesta y revisa su significado."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente.",
+            "follow": "Hola [nombre], retomo brevemente la pregunta de arriba para saber si te resulta pertinente."
+          }
+        ]
+      },
+      {
+        "heading": "Redacción humana sin forzar la informalidad",
+        "body": [
+          "Evita elogios genéricos, inicios repetidos como «he visto que» y lenguaje exagerado como «revolucionar» o «desbloquear». Alude directamente al tema concreto cuando importa. No fuerces bromas, emojis o familiaridad en cada mensaje. Una pregunta profesional y sencilla puede sonar más humana que una confianza inventada. Los borradores humanos y los asistidos por IA necesitan las mismas comprobaciones de hechos, relevancia y voz."
+        ]
+      },
+      {
+        "heading": "Decide según la respuesta antes de cambiar de canal",
+        "body": [
+          "Utiliza un responsable y un historial común entre los canales acordados. Una respuesta en LinkedIn debe detener un recordatorio de correo programado. La falta de respuesta puede justificar revisar otro canal; un rechazo no justifica repetir la propuesta por email u otro remitente. Si proceden llamadas, delimita y presupuesta ese trabajo aparte."
+        ],
+        "table": {
+          "caption": "Estados de conversación y siguientes decisiones",
+          "headers": [
+            "Estado",
+            "Acción adecuada",
+            "Pruebas que faltan"
+          ],
+          "rows": [
+            [
+              "Conexión aceptada",
+              "Revisar el primer mensaje pertinente",
+              "Interés, encaje y reserva"
+            ],
+            [
+              "Pregunta o derivación",
+              "Parar la secuencia y revisar pregunta o función reales",
+              "Una reunión acordada"
+            ],
+            [
+              "Sin respuesta",
+              "Un seguimiento breve si procede; después revisar el plan de canales",
+              "Intención de compra"
+            ],
+            [
+              "Rechazo",
+              "Cerrar la secuencia y respetar la preferencia",
+              "El rechazo no justifica otra propuesta"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "De una conversación útil a una reserva verificada",
+        "body": [
+          "Beespoke investiga y propone la lista, redacta mensajes individuales y ejecuta la campaña autorizada. El criterio del cliente importa al aprobar personas adecuadas y exclusiones. Ante un interés pertinente, utiliza su enlace de agenda y transmite pregunta y contexto al responsable comercial. El acceso autorizado al CRM o calendario, o la confirmación del cliente, verifica la reserva; enviar un enlace, una reacción o una conexión aceptada no bastan."
+        ]
+      }
+    ],
+    "related": [
+      "/services/linkedin-lead-generation/",
+      "/guides/b2b-cold-email-copywriting/",
+      "/guides/cold-email-follow-up/"
+    ],
+    "faqs": [
+      {
+        "question": "¿Debemos usar una plantilla para todos?",
+        "answer": "Usa una estructura, sin repetir la misma justificación. Investiga empresa y persona y reescribe la explicación sustantiva para cada destinatario."
+      },
+      {
+        "question": "¿Una conexión aceptada cuenta como lead?",
+        "answer": "Es un estado de conexión, no una prueba de interés, cualificación ni reserva. Registra aparte la conversación posterior y los resultados verificados."
+      },
+      {
+        "question": "¿Y si la persona no está activa en LinkedIn?",
+        "answer": "Valora si un correo adecuado u otro canal acordado es más pertinente. Tener perfil no permite inferir que consulte el buzón a menudo."
+      },
+      {
+        "question": "¿Son mensajes reales de clientes?",
+        "answer": "Los cuatro casos son ejemplos ficticios de formación. Ilustran el método descrito por el fundador sin publicar identidades privadas de remitentes, clientes ni contactos."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Cognism — LinkedIn messaging examples",
+        "href": "https://www.cognism.com/blog/linkedin-messaging-templates"
+      },
+      {
+        "label": "NetHunt — LinkedIn outreach guidance",
+        "href": "https://nethunt.com/blog/how-to-write-high-converting-linkedin-prospecting-messages-templates/"
+      }
+    ],
+    "sourceMethodology": "El método operativo procede del fundador de Beespoke. Los ejemplos son situaciones de formación salvo que se identifiquen expresamente como adaptaciones inspeccionadas y anonimizadas. Las fuentes orientan las preguntas tratadas; sus resultados no se presentan como nuestros.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Trabaja tu propia decisión",
+      "heading": "Ficha de mensajes y canales de LinkedIn",
+      "intro": "Registra las pruebas, el motivo individual para contactar y el siguiente responsable. Mantén visibles las incógnitas.",
+      "navLabel": "Ficha de mensajes y canales de LinkedIn",
+      "note": "Notas privadas: no introduzcas información confidencial ni identificativa. No se carga ni guarda nada; exporta lo necesario antes de salir."
+    },
+    "workbook": {
+      "fields": [
+        "Función y contexto de empresa",
+        "Actividad reciente / fuente y fecha",
+        "Incógnitas",
+        "Motivo para considerar LinkedIn primero",
+        "Mensaje individual y recordatorio",
+        "Decisión ante respuesta o parada",
+        "Responsable y pruebas de agenda"
+      ],
+      "legend": "Ficha de mensajes y canales de LinkedIn",
+      "reportTitle": "Ficha de mensajes y canales de LinkedIn",
+      "samples": [
+        [
+          "Un MSP contacta a la persona responsable de operaciones",
+          "En este escenario ficticio, la persona publica recientemente sobre la coordinación de dos sedes.",
+          "Se desconocen proveedor de TI, vencimientos, presupuesto y problema real de soporte.",
+          "La actividad reciente y relevante justifica considerar LinkedIn primero; no demuestra intención de compra.",
+          "Hola [nombre]:\n\nTu publicación sobre mantener un soporte coherente entre sedes plantea una pregunta práctica: ¿coordinas tú el soporte informático de ambas oficinas?\n\nAyudamos a empresas de [zona de servicio] a revisar esa cobertura. Si lo estáis valorando, ¿sería útil comentar la organización entre las dos sedes?\n\nHola [nombre], retomo brevemente la pregunta de arriba para saber si te resulta pertinente.",
+          "Para la secuencia programada ante cualquier respuesta y revisa su significado.",
+          "Responsable de campaña; agenda sin verificar en este ejemplo ficticio."
+        ],
+        [
+          "Una consultora de selección especializada contacta a una empresa",
+          "En este escenario ficticio, el responsable de ingeniería comenta las vacantes especializadas.",
+          "Las vacantes no demuestran dificultades de contratación, presupuesto para agencias ni permiso para enviar datos de candidatos.",
+          "La actividad reciente y relevante justifica considerar LinkedIn primero; no demuestra intención de compra.",
+          "Hola [nombre]:\n\nEn la contratación de [especialidad] que comentaste esta semana, ¿vuestro equipo interno gestiona toda la búsqueda?\n\nSeleccionamos perfiles de esa área. Si os sirve apoyo externo, primero querría entender la experiencia que necesitáis, sin enviar perfiles no relacionados. ¿Llevas tú este tema?\n\nHola [nombre], retomo brevemente la pregunta de arriba para saber si te resulta pertinente.",
+          "Para la secuencia programada ante cualquier respuesta y revisa su significado.",
+          "Responsable de campaña; agenda sin verificar en este ejemplo ficticio."
+        ],
+        [
+          "Una empresa de formación contacta a un operador con varias sedes",
+          "En este escenario ficticio, el responsable de operaciones comenta la incorporación de supervisores a una sede.",
+          "No se han evaluado plan de formación, requisitos legales ni calendario de compras.",
+          "La actividad reciente y relevante justifica considerar LinkedIn primero; no demuestra intención de compra.",
+          "Hola [nombre]:\n\nSobre tu comentario acerca de incorporar supervisores a [proyecto de sede], ¿el equipo actual ya tiene cubierta la formación inicial?\n\nHacemos talleres prácticos para responsables basados en situaciones reales. Si un taller pudiera ayudar en esa transición, podríamos comentar qué situaciones tendría que cubrir. Si ya está resuelto, ningún problema.\n\nHola [nombre], retomo brevemente la pregunta de arriba para saber si te resulta pertinente.",
+          "Para la secuencia programada ante cualquier respuesta y revisa su significado.",
+          "Responsable de campaña; agenda sin verificar en este ejemplo ficticio."
+        ],
+        [
+          "Un estudio de diseño contacta a un responsable de producto",
+          "En este escenario ficticio, el responsable de producto comparte el lanzamiento del módulo de informes.",
+          "Una función nueva no demuestra problemas de usabilidad, baja activación ni un rediseño previsto.",
+          "La actividad reciente y relevante justifica considerar LinkedIn primero; no demuestra intención de compra.",
+          "Hola [nombre]:\n\n¿El [módulo de informes] que compartiste introduce un nuevo perfil de usuario o se dirige a quienes ya usan el panel?\n\nTrabajamos con equipos de producto en esos recorridos de primer uso. Si seguís revisando cómo ese perfil encuentra el informe adecuado, ¿sería útil hablar de un recorrido concreto?\n\nHola [nombre], retomo brevemente la pregunta de arriba para saber si te resulta pertinente.",
+          "Para la secuencia programada ante cualquier respuesta y revisa su significado.",
+          "Responsable de campaña; agenda sin verificar en este ejemplo ficticio."
+        ],
+        [
+          "Perfil inactivo: no empezar automáticamente por LinkedIn",
+          "Decisión ficticia; confirmar pruebas reales",
+          "Interés y reserva desconocidos",
+          "Revisar canal y función sin suponer encaje",
+          "Revisar correo adecuado o enlace de agenda autorizado",
+          "Para la secuencia programada ante cualquier respuesta y revisa su significado.",
+          "Responsable de campaña; agenda sin verificar en este ejemplo ficticio."
+        ],
+        [
+          "La respuesta pide agenda: verificar antes de contar",
+          "Decisión ficticia; confirmar pruebas reales",
+          "Interés y reserva desconocidos",
+          "Revisar canal y función sin suponer encaje",
+          "Revisar correo adecuado o enlace de agenda autorizado",
+          "Para la secuencia programada ante cualquier respuesta y revisa su significado.",
+          "Responsable de campaña; agenda sin verificar en este ejemplo ficticio."
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Antes de entregarlo a un proveedor",
+      "body": [
+        "Revisa conjuntamente encaje, pruebas y responsabilidades. Un mensaje útil no demuestra una reserva ni una oportunidad cualificada."
+      ],
+      "items": [
+        "Aprueba las personas propuestas y las exclusiones.",
+        "Comprueba la fuente de cada afirmación concreta y explicita las incógnitas.",
+        "Acuerda canal autorizado, seguimiento breve, responsable de respuestas y condiciones de parada.",
+        "Verifica el resultado de agenda mediante acceso autorizado o confirmación del cliente."
+      ]
+    }
+  },
+  "ca": {
+    "title": "Missatges de prospecció a LinkedIn: quatre exemples B2B | Beespoke",
+    "description": "Redacta missatges individuals de LinkedIn amb quatre exemples anotats, tria de canal segons activitat, seguiments breus, decisions per resposta i fitxa privada.",
+    "eyebrow": "Una persona concreta i una pregunta útil",
+    "h1": "Missatges de prospecció a LinkedIn: rellevància individual des de l’inici",
+    "answer": "Un missatge útil de prospecció a LinkedIn connecta un fet verificat, la funció rellevant de la persona i una pregunta proporcionada. L’activitat recent pot ajudar a triar LinkedIn com a primer canal, però no demostra intenció de compra. Utilitza una estructura comuna amb contingut individual, seguiments breus i respecte per les respostes; verifica les reserves a part de connexions o reaccions.",
+    "path": "/guides/linkedin-prospecting-messages/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Els missatges de prospecció a LinkedIn necessiten rellevància individual",
+        "body": [
+          "Un missatge de prospecció a LinkedIn connecta un motiu comprovat per contactar amb la funció d’una persona i un pas següent útil. L’estructura pot ser coherent mentre l’explicació canvia per a cada destinatari. Una connexió acceptada no autoritza una seqüència il·limitada ni demostra interès de compra. Revisa la relació real i la via de missatgeria disponible abans d’enviar."
+        ]
+      },
+      {
+        "heading": "Tria LinkedIn quan l’activitat ho justifiqui",
+        "body": [
+          "Comprova publicacions, comentaris o altra activitat visible recent i rellevant, i confirma les responsabilitats actuals. Tenir perfil no demostra que la persona llegeixi missatges de LinkedIn sovint. Si no hi ha activitat i existeix un correu adequat, l’email pot ser millor primer canal. Registra el motiu de la tria, sense aplicar LinkedIn primer a tota la llista."
+        ]
+      },
+      {
+        "heading": "Separa invitació, primer missatge i resposta",
+        "body": [
+          "Una invitació no necessita contenir tota la proposta. Si hi afegeixes una nota, explica un motiu real sense fingir familiaritat. Un exemple fictici senzill és «Hola, [nom], treballo en [àrea rellevant] i m’agradaria connectar». Utilitza’l només si és cert. No afegir nota també pot ser una tria conscient; no inventis un vincle personal per omplir-la.",
+          "El primer missatge substancial ha de justificar la seva rellevància. No interpretis l’acceptació com a qualificació comercial ni suposis que un contacte comú et recomana. Una presentació real es pot citar amb precisió; una connexió compartida visible no és una presentació."
+        ]
+      },
+      {
+        "heading": "Quatre exemples anotats de missatges de LinkedIn",
+        "body": [
+          "Cada cas fictici inclou activitat recent, incògnites, primer missatge i un recordatori breu si no respon. Són exemples formatius, no captures privades ni afirmacions de resultats d’un client. Adapta tot el paràgraf de rellevància a la persona real, sense limitar-te a canviar el nom."
+        ],
+        "examples": [
+          {
+            "heading": "Un MSP contacta amb la persona responsable d’operacions",
+            "fact": "En aquest escenari fictici, la persona publica recentment sobre la coordinació de dues seus.",
+            "unknown": "Es desconeixen proveïdor de TI, venciments, pressupost i problema real de suport.",
+            "message": "Hola, [nom],\n\nLa teva publicació sobre mantenir un suport coherent entre seus planteja una pregunta pràctica: coordines tu el suport informàtic de totes dues oficines?\n\nAjudem empreses de [zona de servei] a revisar aquesta cobertura. Si ho esteu valorant, seria útil comentar l’organització entre les dues seus?",
+            "notes": [
+              "L’activitat recent i rellevant justifica considerar LinkedIn primer; no demostra intenció de compra.",
+              "La pregunta sobre responsabilitats permet corregir el contacte; el missatge no fingeix conèixer l’organització interna.",
+              "El seguiment breu depèn que no hi hagi resposta. Atura la seqüència programada davant d’una resposta i revisa’n el significat."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client.",
+            "follow": "Hola, [nom], reprenc breument la pregunta de sobre per saber si et resulta pertinent."
+          },
+          {
+            "heading": "Una consultora de selecció especialitzada contacta amb una empresa",
+            "fact": "En aquest escenari fictici, el responsable d’enginyeria comenta les vacants especialitzades.",
+            "unknown": "Les vacants no demostren dificultats de contractació, pressupost per a agències ni permís per enviar dades de candidats.",
+            "message": "Hola, [nom],\n\nEn la contractació de [especialitat] que vas comentar aquesta setmana, el vostre equip intern gestiona tota la cerca?\n\nSeleccionem perfils d’aquesta àrea. Si us serveix suport extern, primer voldria entendre l’experiència que necessiteu, sense enviar perfils no relacionats. Portes tu aquest tema?",
+            "notes": [
+              "L’activitat recent i rellevant justifica considerar LinkedIn primer; no demostra intenció de compra.",
+              "L’oferta delimita la contribució i pregunta pel procés de compra abans d’enviar material.",
+              "El seguiment breu depèn que no hi hagi resposta. Atura la seqüència programada davant d’una resposta i revisa’n el significat."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client.",
+            "follow": "Hola, [nom], reprenc breument la pregunta de sobre per saber si et resulta pertinent."
+          },
+          {
+            "heading": "Una empresa de formació contacta amb un operador amb diverses seus",
+            "fact": "En aquest escenari fictici, el responsable d’operacions comenta la incorporació de supervisors a una seu.",
+            "unknown": "No s’han avaluat el pla de formació, els requisits legals ni el calendari de compres.",
+            "message": "Hola, [nom],\n\nSobre el teu comentari d’incorporar supervisors a [projecte de seu], l’equip actual ja té coberta la formació inicial?\n\nFem tallers pràctics per a responsables basats en situacions reals. Si un taller pogués ajudar en aquesta transició, podríem comentar quines situacions hauria de cobrir. Si ja està resolt, cap problema.",
+            "notes": [
+              "L’activitat recent i rellevant justifica considerar LinkedIn primer; no demostra intenció de compra.",
+              "Descriu la feina sense garantir productivitat, compliment normatiu ni resultats formatius.",
+              "El seguiment breu depèn que no hi hagi resposta. Atura la seqüència programada davant d’una resposta i revisa’n el significat."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client.",
+            "follow": "Hola, [nom], reprenc breument la pregunta de sobre per saber si et resulta pertinent."
+          },
+          {
+            "heading": "Un estudi de disseny contacta amb un responsable de producte",
+            "fact": "En aquest escenari fictici, el responsable de producte comparteix el llançament del mòdul d’informes.",
+            "unknown": "Una funció nova no demostra problemes d’usabilitat, baixa activació ni un redisseny previst.",
+            "message": "Hola, [nom],\n\nEl [mòdul d’informes] que vas compartir introdueix un perfil d’usuari nou o s’adreça a qui ja utilitza el tauler?\n\nTreballem amb equips de producte en aquests recorreguts de primer ús. Si continueu revisant com aquest perfil troba l’informe adequat, seria útil parlar d’un recorregut concret?",
+            "notes": [
+              "L’activitat recent i rellevant justifica considerar LinkedIn primer; no demostra intenció de compra.",
+              "La conversa proposada té límits concrets: un perfil i un recorregut inicial.",
+              "El seguiment breu depèn que no hi hagi resposta. Atura la seqüència programada davant d’una resposta i revisa’n el significat."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client.",
+            "follow": "Hola, [nom], reprenc breument la pregunta de sobre per saber si et resulta pertinent."
+          }
+        ]
+      },
+      {
+        "heading": "Redacció humana sense forçar la informalitat",
+        "body": [
+          "Evita elogis genèrics, inicis repetits com «he vist que» i llenguatge exagerat com «revolucionar» o «desbloquejar». Al·ludeix directament al tema concret quan importa. No forcis bromes, emojis o familiaritat a cada missatge. Una pregunta professional i senzilla pot sonar més humana que una confiança inventada. Els esborranys humans i els assistits per IA necessiten les mateixes comprovacions de fets, rellevància i veu."
+        ]
+      },
+      {
+        "heading": "Decideix segons la resposta abans de canviar de canal",
+        "body": [
+          "Utilitza un responsable i un historial comú entre els canals acordats. Una resposta a LinkedIn ha d’aturar un recordatori de correu programat. La manca de resposta pot justificar revisar un altre canal; un rebuig no justifica repetir la proposta per email o amb un altre remitent. Si escauen trucades, delimita i pressuposta aquesta feina a part."
+        ],
+        "table": {
+          "caption": "Estats de conversa i decisions següents",
+          "headers": [
+            "Estat",
+            "Acció adequada",
+            "Evidències que falten"
+          ],
+          "rows": [
+            [
+              "Connexió acceptada",
+              "Revisar el primer missatge pertinent",
+              "Interès, encaix i reserva"
+            ],
+            [
+              "Pregunta o derivació",
+              "Aturar la seqüència i revisar pregunta o funció reals",
+              "Una reunió acordada"
+            ],
+            [
+              "Sense resposta",
+              "Un seguiment breu si escau; després revisar el pla de canals",
+              "Intenció de compra"
+            ],
+            [
+              "Rebuig",
+              "Tancar la seqüència i respectar la preferència",
+              "El rebuig no justifica una altra proposta"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "D’una conversa útil a una reserva verificada",
+        "body": [
+          "Beespoke investiga i proposa la llista, redacta missatges individuals i executa la campanya autoritzada. El criteri del client importa per aprovar persones adequades i exclusions. Davant d’un interès pertinent, utilitza el seu enllaç d’agenda i transmet pregunta i context al responsable comercial. L’accés autoritzat al CRM o al calendari, o la confirmació del client, verifica la reserva; enviar un enllaç, una reacció o una connexió acceptada no són suficients."
+        ]
+      }
+    ],
+    "related": [
+      "/services/linkedin-lead-generation/",
+      "/guides/b2b-cold-email-copywriting/",
+      "/guides/cold-email-follow-up/"
+    ],
+    "faqs": [
+      {
+        "question": "Hem d’utilitzar una plantilla per a tothom?",
+        "answer": "Utilitza una estructura, sense repetir la mateixa justificació. Investiga empresa i persona i reescriu l’explicació substancial per a cada destinatari."
+      },
+      {
+        "question": "Una connexió acceptada compta com a lead?",
+        "answer": "És un estat de connexió, no una prova d’interès, qualificació ni reserva. Registra a part la conversa posterior i els resultats verificats."
+      },
+      {
+        "question": "I si la persona no és activa a LinkedIn?",
+        "answer": "Valora si un correu adequat o un altre canal acordat és més pertinent. Tenir perfil no permet inferir que consulti la bústia sovint."
+      },
+      {
+        "question": "Són missatges reals de clients?",
+        "answer": "Els quatre casos són exemples ficticis de formació. Il·lustren el mètode descrit pel fundador sense publicar identitats privades de remitents, clients ni contactes."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Cognism — LinkedIn messaging examples",
+        "href": "https://www.cognism.com/blog/linkedin-messaging-templates"
+      },
+      {
+        "label": "NetHunt — LinkedIn outreach guidance",
+        "href": "https://nethunt.com/blog/how-to-write-high-converting-linkedin-prospecting-messages-templates/"
+      }
+    ],
+    "sourceMethodology": "El mètode operatiu prové del fundador de Beespoke. Els exemples són situacions formatives, tret que s’identifiquin expressament com a adaptacions inspeccionades i anonimitzades. Les fonts orienten les preguntes tractades; els seus resultats no es presenten com a nostres.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Treballa la teva decisió",
+      "heading": "Fitxa de missatges i canals de LinkedIn",
+      "intro": "Registra les evidències, el motiu individual per contactar i el responsable següent. Mantén visibles les incògnites.",
+      "navLabel": "Fitxa de missatges i canals de LinkedIn",
+      "note": "Notes privades: no hi introdueixis informació confidencial ni identificativa. No es carrega ni desa res; exporta el que calgui abans de sortir."
+    },
+    "workbook": {
+      "fields": [
+        "Funció i context d’empresa",
+        "Activitat recent / font i data",
+        "Incògnites",
+        "Motiu per considerar LinkedIn primer",
+        "Missatge individual i recordatori",
+        "Decisió davant de resposta o aturada",
+        "Responsable i evidències d’agenda"
+      ],
+      "legend": "Fitxa de missatges i canals de LinkedIn",
+      "reportTitle": "Fitxa de missatges i canals de LinkedIn",
+      "samples": [
+        [
+          "Un MSP contacta amb la persona responsable d’operacions",
+          "En aquest escenari fictici, la persona publica recentment sobre la coordinació de dues seus.",
+          "Es desconeixen proveïdor de TI, venciments, pressupost i problema real de suport.",
+          "L’activitat recent i rellevant justifica considerar LinkedIn primer; no demostra intenció de compra.",
+          "Hola, [nom],\n\nLa teva publicació sobre mantenir un suport coherent entre seus planteja una pregunta pràctica: coordines tu el suport informàtic de totes dues oficines?\n\nAjudem empreses de [zona de servei] a revisar aquesta cobertura. Si ho esteu valorant, seria útil comentar l’organització entre les dues seus?\n\nHola, [nom], reprenc breument la pregunta de sobre per saber si et resulta pertinent.",
+          "Atura la seqüència programada davant de qualsevol resposta i revisa’n el significat.",
+          "Responsable de campanya; agenda sense verificar en aquest exemple fictici."
+        ],
+        [
+          "Una consultora de selecció especialitzada contacta amb una empresa",
+          "En aquest escenari fictici, el responsable d’enginyeria comenta les vacants especialitzades.",
+          "Les vacants no demostren dificultats de contractació, pressupost per a agències ni permís per enviar dades de candidats.",
+          "L’activitat recent i rellevant justifica considerar LinkedIn primer; no demostra intenció de compra.",
+          "Hola, [nom],\n\nEn la contractació de [especialitat] que vas comentar aquesta setmana, el vostre equip intern gestiona tota la cerca?\n\nSeleccionem perfils d’aquesta àrea. Si us serveix suport extern, primer voldria entendre l’experiència que necessiteu, sense enviar perfils no relacionats. Portes tu aquest tema?\n\nHola, [nom], reprenc breument la pregunta de sobre per saber si et resulta pertinent.",
+          "Atura la seqüència programada davant de qualsevol resposta i revisa’n el significat.",
+          "Responsable de campanya; agenda sense verificar en aquest exemple fictici."
+        ],
+        [
+          "Una empresa de formació contacta amb un operador amb diverses seus",
+          "En aquest escenari fictici, el responsable d’operacions comenta la incorporació de supervisors a una seu.",
+          "No s’han avaluat el pla de formació, els requisits legals ni el calendari de compres.",
+          "L’activitat recent i rellevant justifica considerar LinkedIn primer; no demostra intenció de compra.",
+          "Hola, [nom],\n\nSobre el teu comentari d’incorporar supervisors a [projecte de seu], l’equip actual ja té coberta la formació inicial?\n\nFem tallers pràctics per a responsables basats en situacions reals. Si un taller pogués ajudar en aquesta transició, podríem comentar quines situacions hauria de cobrir. Si ja està resolt, cap problema.\n\nHola, [nom], reprenc breument la pregunta de sobre per saber si et resulta pertinent.",
+          "Atura la seqüència programada davant de qualsevol resposta i revisa’n el significat.",
+          "Responsable de campanya; agenda sense verificar en aquest exemple fictici."
+        ],
+        [
+          "Un estudi de disseny contacta amb un responsable de producte",
+          "En aquest escenari fictici, el responsable de producte comparteix el llançament del mòdul d’informes.",
+          "Una funció nova no demostra problemes d’usabilitat, baixa activació ni un redisseny previst.",
+          "L’activitat recent i rellevant justifica considerar LinkedIn primer; no demostra intenció de compra.",
+          "Hola, [nom],\n\nEl [mòdul d’informes] que vas compartir introdueix un perfil d’usuari nou o s’adreça a qui ja utilitza el tauler?\n\nTreballem amb equips de producte en aquests recorreguts de primer ús. Si continueu revisant com aquest perfil troba l’informe adequat, seria útil parlar d’un recorregut concret?\n\nHola, [nom], reprenc breument la pregunta de sobre per saber si et resulta pertinent.",
+          "Atura la seqüència programada davant de qualsevol resposta i revisa’n el significat.",
+          "Responsable de campanya; agenda sense verificar en aquest exemple fictici."
+        ],
+        [
+          "Perfil inactiu: no començar automàticament per LinkedIn",
+          "Decisió fictícia; confirmar evidències reals",
+          "Interès i reserva desconeguts",
+          "Revisar canal i funció sense suposar encaix",
+          "Revisar correu adequat o enllaç d’agenda autoritzat",
+          "Atura la seqüència programada davant de qualsevol resposta i revisa’n el significat.",
+          "Responsable de campanya; agenda sense verificar en aquest exemple fictici."
+        ],
+        [
+          "La resposta demana agenda: verificar abans de comptar",
+          "Decisió fictícia; confirmar evidències reals",
+          "Interès i reserva desconeguts",
+          "Revisar canal i funció sense suposar encaix",
+          "Revisar correu adequat o enllaç d’agenda autoritzat",
+          "Atura la seqüència programada davant de qualsevol resposta i revisa’n el significat.",
+          "Responsable de campanya; agenda sense verificar en aquest exemple fictici."
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Abans de lliurar-ho a un proveïdor",
+      "body": [
+        "Revisa conjuntament encaix, evidències i responsabilitats. Un missatge útil no demostra una reserva ni una oportunitat qualificada."
+      ],
+      "items": [
+        "Aprova les persones proposades i les exclusions.",
+        "Comprova la font de cada afirmació concreta i explicita les incògnites.",
+        "Acorda canal autoritzat, seguiment breu, responsable de respostes i condicions d’aturada.",
+        "Verifica el resultat de l’agenda mitjançant accés autoritzat o confirmació del client."
+      ]
+    }
+  },
+  "fr": {
+    "title": "Messages de prospection LinkedIn : quatre exemples B2B | Beespoke",
+    "description": "Rédigez des messages LinkedIn individuels : quatre exemples annotés, choix du canal selon l’activité, courtes relances, décisions selon les réponses et fiche privée.",
+    "eyebrow": "Une personne précise et une question utile",
+    "h1": "Messages de prospection LinkedIn : la pertinence individuelle dès le départ",
+    "answer": "Un message de prospection LinkedIn utile relie un fait vérifié, le rôle pertinent de la personne et une question proportionnée. Une activité récente peut aider à choisir LinkedIn comme premier canal, sans prouver une intention d’achat. Utilisez une structure commune avec un contenu individuel, des relances brèves et le respect des réponses ; vérifiez les réservations séparément des connexions et réactions.",
+    "path": "/guides/linkedin-prospecting-messages/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Les messages de prospection LinkedIn exigent une pertinence individuelle",
+        "body": [
+          "Un message de prospection LinkedIn relie une raison vérifiée de contacter une personne à son rôle et à une prochaine étape utile. La structure peut rester cohérente tandis que l’explication change pour chaque destinataire. Une connexion acceptée ne justifie ni une séquence illimitée ni une conclusion d’intérêt commercial. Examinez la relation réelle et la voie de messagerie disponible avant l’envoi."
+        ]
+      },
+      {
+        "heading": "Choisissez LinkedIn lorsque l’activité le justifie",
+        "body": [
+          "Vérifiez les publications, commentaires ou autres activités visibles récentes et pertinentes, ainsi que les responsabilités actuelles. L’existence d’un profil ne prouve pas que son propriétaire lit régulièrement ses messages. Sans activité, avec une adresse adaptée, l’email peut être le meilleur premier canal. Notez la raison du choix plutôt que d’appliquer LinkedIn d’abord à toute la liste."
+        ]
+      },
+      {
+        "heading": "Distinguez invitation, premier message et réponse",
+        "body": [
+          "Une invitation n’a pas à contenir toute la proposition. Si vous ajoutez une note, donnez une raison réelle sans fausse familiarité. Exemple fictif simple : « Bonjour [prénom], je travaille sur [domaine pertinent] et serais ravi de vous compter parmi mes contacts. » Utilisez-le seulement s’il est vrai. Ne pas ajouter de note peut également être un choix ; n’inventez pas de relation personnelle pour remplir l’espace.",
+          "Le premier message substantiel doit ensuite justifier sa pertinence. Ne confondez pas acceptation et qualification commerciale, et ne supposez pas qu’un contact commun vous recommande. Une vraie introduction peut être citée précisément ; une relation partagée visible n’en constitue pas une."
+        ]
+      },
+      {
+        "heading": "Quatre exemples annotés de messages LinkedIn",
+        "body": [
+          "Chaque cas fictif comprend l’activité récente, les inconnues, le premier message et un court rappel sans réponse. Ce sont des exemples pédagogiques, pas des captures privées ou des résultats attribués à un client. Adaptez tout le paragraphe de pertinence à la personne réelle, plutôt que de remplacer son nom."
+        ],
+        "examples": [
+          {
+            "heading": "Un prestataire informatique approche la direction des opérations",
+            "fact": "Dans cette situation fictive, la personne publie récemment sur la coordination de deux sites.",
+            "unknown": "Le prestataire actuel, les échéances, le budget et les difficultés réelles de support sont inconnus.",
+            "message": "Bonjour [prénom],\n\nVotre publication sur la cohérence du support entre sites soulève une question pratique : coordonnez-vous le support informatique des deux bureaux ?\n\nNous aidons les entreprises de [zone desservie] à examiner cette couverture. Si vous étudiez ce sujet, serait-il utile de comparer nos observations sur les deux sites ?",
+            "notes": [
+              "L’activité récente et pertinente justifie d’envisager LinkedIn d’abord ; elle ne prouve pas une intention d’achat.",
+              "La question sur les responsabilités permet une correction ; le message ne prétend pas connaître l’organisation interne.",
+              "La courte relance suppose l’absence de réponse. Arrêtez la séquence programmée dès qu’une réponse arrive et examinez son sens."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué.",
+            "follow": "Bonjour [prénom], je vérifie simplement si la question ci-dessus vous concerne."
+          },
+          {
+            "heading": "Un cabinet de recrutement spécialisé approche un employeur",
+            "fact": "Dans cette situation fictive, le responsable ingénierie évoque les postes spécialisés ouverts.",
+            "unknown": "Ces postes ne prouvent ni échec de recrutement, ni budget de cabinet, ni autorisation d’envoyer des données de candidats.",
+            "message": "Bonjour [prénom],\n\nPour les recrutements en [spécialité] que vous avez évoqués cette semaine, votre équipe interne gère-t-elle toute la recherche ?\n\nNous recrutons dans ce domaine. Si un soutien externe est utile, je souhaiterais d’abord comprendre l’expérience recherchée, plutôt que vous envoyer des profils sans rapport. Est-ce vous qui suivez ce sujet ?",
+            "notes": [
+              "L’activité récente et pertinente justifie d’envisager LinkedIn d’abord ; elle ne prouve pas une intention d’achat.",
+              "L’offre délimite la contribution et vérifie le processus d’achat avant tout envoi de documents.",
+              "La courte relance suppose l’absence de réponse. Arrêtez la séquence programmée dès qu’une réponse arrive et examinez son sens."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué.",
+            "follow": "Bonjour [prénom], je vérifie simplement si la question ci-dessus vous concerne."
+          },
+          {
+            "heading": "Un organisme de formation approche une entreprise multisite",
+            "fact": "Dans cette situation fictive, le responsable des opérations commente l’intégration de superviseurs sur un site.",
+            "unknown": "Le plan de formation, les obligations légales et le calendrier d’achat ne sont pas évalués.",
+            "message": "Bonjour [prénom],\n\nConcernant votre commentaire sur l’arrivée de superviseurs dans [projet de site], leur intégration est-elle déjà couverte par l’équipe actuelle ?\n\nNous animons des ateliers pratiques pour responsables à partir de situations réelles. Si un atelier pouvait aider cette transition, nous pourrions discuter des situations à traiter. Si le sujet est déjà réglé, aucun problème.",
+            "notes": [
+              "L’activité récente et pertinente justifie d’envisager LinkedIn d’abord ; elle ne prouve pas une intention d’achat.",
+              "Il décrit le travail sans garantir productivité, conformité réglementaire ou résultat pédagogique.",
+              "La courte relance suppose l’absence de réponse. Arrêtez la séquence programmée dès qu’une réponse arrive et examinez son sens."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué.",
+            "follow": "Bonjour [prénom], je vérifie simplement si la question ci-dessus vous concerne."
+          },
+          {
+            "heading": "Un studio de design approche un responsable produit",
+            "fact": "Dans cette situation fictive, le responsable produit partage la sortie du module de reporting.",
+            "unknown": "Une nouvelle fonctionnalité ne prouve ni difficulté d’utilisation, ni faible activation, ni projet de refonte.",
+            "message": "Bonjour [prénom],\n\nLe [module de reporting] que vous avez partagé introduit-il un nouveau rôle utilisateur, ou concerne-t-il les utilisateurs actuels du tableau de bord ?\n\nNous travaillons avec des équipes produit sur ces parcours de première utilisation. Si vous examinez encore comment ce rôle trouve le bon rapport, un échange sur un parcours précis serait-il utile ?",
+            "notes": [
+              "L’activité récente et pertinente justifie d’envisager LinkedIn d’abord ; elle ne prouve pas une intention d’achat.",
+              "La discussion proposée a un périmètre précis : un rôle et un parcours de première utilisation.",
+              "La courte relance suppose l’absence de réponse. Arrêtez la séquence programmée dès qu’une réponse arrive et examinez son sens."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué.",
+            "follow": "Bonjour [prénom], je vérifie simplement si la question ci-dessus vous concerne."
+          }
+        ]
+      },
+      {
+        "heading": "Une écriture humaine sans familiarité forcée",
+        "body": [
+          "Évitez les éloges génériques, les ouvertures répétées comme « j’ai remarqué » et les promesses telles que « révolutionner » ou « débloquer ». Évoquez directement le sujet précis lorsqu’il compte. Ne forcez pas plaisanteries, emojis ou familiarité dans chaque message. Une question professionnelle simple peut sembler plus humaine qu’une complicité fabriquée. Les brouillons humains et assistés par IA exigent les mêmes vérifications de faits, pertinence et voix."
+        ]
+      },
+      {
+        "heading": "Décidez selon la réponse avant de changer de canal",
+        "body": [
+          "Utilisez un responsable et un historique commun aux canaux convenus. Une réponse LinkedIn doit interrompre une relance email programmée. L’absence de réponse peut justifier d’examiner un autre canal ; un refus ne justifie pas de répéter la proposition par email ou un autre expéditeur. Si des appels conviennent, définissez-les et chiffrez-les séparément."
+        ],
+        "table": {
+          "caption": "États de conversation et décisions suivantes",
+          "headers": [
+            "État",
+            "Action adaptée",
+            "Preuves encore manquantes"
+          ],
+          "rows": [
+            [
+              "Connexion acceptée",
+              "Examiner le premier message pertinent",
+              "Intérêt, pertinence et réservation"
+            ],
+            [
+              "Question ou orientation",
+              "Arrêter la séquence et examiner la question ou le rôle réel",
+              "Un rendez-vous convenu"
+            ],
+            [
+              "Aucune réponse",
+              "Une courte relance si elle convient encore, puis réexaminer les canaux",
+              "Une intention d’achat"
+            ],
+            [
+              "Refus",
+              "Clôturer la séquence et respecter la préférence",
+              "Le refus ne justifie pas un nouvel argumentaire"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "D’une conversation utile à une réservation vérifiée",
+        "body": [
+          "Beespoke recherche et propose la liste, rédige les messages individuels et exécute la campagne autorisée. Le jugement du client compte pour valider les interlocuteurs et exclusions. Lorsqu’un intérêt est pertinent, utilisez son lien de réservation et transmettez la question et le contexte au responsable commercial. Un accès autorisé au CRM ou à l’agenda, ou la confirmation du client, vérifie la réservation ; un lien envoyé, une réaction ou une connexion acceptée ne suffisent pas."
+        ]
+      }
+    ],
+    "related": [
+      "/services/linkedin-lead-generation/",
+      "/guides/b2b-cold-email-copywriting/",
+      "/guides/cold-email-follow-up/"
+    ],
+    "faqs": [
+      {
+        "question": "Faut-il un même modèle pour tout le monde ?",
+        "answer": "Utilisez une structure, sans répéter la même justification. Recherchez l’entreprise et la personne et réécrivez l’explication essentielle pour chaque destinataire."
+      },
+      {
+        "question": "Une connexion acceptée compte-t-elle comme un lead ?",
+        "answer": "C’est un état de connexion, pas une preuve d’intérêt, de qualification ou de réservation. Consignez séparément les échanges et résultats ultérieurs vérifiés."
+      },
+      {
+        "question": "Et si la personne est inactive sur LinkedIn ?",
+        "answer": "Examinez si une adresse adaptée ou un autre canal convenu convient mieux. L’existence d’un profil ne permet pas de déduire une consultation régulière des messages."
+      },
+      {
+        "question": "S’agit-il de vrais messages clients ?",
+        "answer": "Les quatre cas sont des exemples fictifs de formation. Ils illustrent la méthode décrite par le fondateur sans publier d’identités privées d’expéditeurs, clients ou prospects."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Cognism — LinkedIn messaging examples",
+        "href": "https://www.cognism.com/blog/linkedin-messaging-templates"
+      },
+      {
+        "label": "NetHunt — LinkedIn outreach guidance",
+        "href": "https://nethunt.com/blog/how-to-write-high-converting-linkedin-prospecting-messages-templates/"
+      }
+    ],
+    "sourceMethodology": "La méthode opérationnelle est décrite par le fondateur de Beespoke. Les exemples sont des situations de formation, sauf indication explicite d’une adaptation inspectée et anonymisée. Les sources éclairent les questions traitées ; leurs résultats ne sont pas présentés comme les nôtres.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Préparez votre propre décision",
+      "heading": "Fiche de messages et canaux LinkedIn",
+      "intro": "Notez les éléments observés, la raison individuelle du contact et le prochain responsable. Gardez les inconnues visibles.",
+      "navLabel": "Fiche de messages et canaux LinkedIn",
+      "note": "Notes privées : ne saisissez aucune information confidentielle ou permettant une identification. Rien n’est transmis ni enregistré ; exportez les éléments utiles avant de partir."
+    },
+    "workbook": {
+      "fields": [
+        "Rôle et contexte du compte",
+        "Activité récente / source et date",
+        "Inconnues",
+        "Raison d’envisager LinkedIn d’abord",
+        "Message individuel et rappel",
+        "Décision selon la réponse ou l’arrêt",
+        "Responsable et preuve dans l’agenda"
+      ],
+      "legend": "Fiche de messages et canaux LinkedIn",
+      "reportTitle": "Fiche de messages et canaux LinkedIn",
+      "samples": [
+        [
+          "Un prestataire informatique approche la direction des opérations",
+          "Dans cette situation fictive, la personne publie récemment sur la coordination de deux sites.",
+          "Le prestataire actuel, les échéances, le budget et les difficultés réelles de support sont inconnus.",
+          "L’activité récente et pertinente justifie d’envisager LinkedIn d’abord ; elle ne prouve pas une intention d’achat.",
+          "Bonjour [prénom],\n\nVotre publication sur la cohérence du support entre sites soulève une question pratique : coordonnez-vous le support informatique des deux bureaux ?\n\nNous aidons les entreprises de [zone desservie] à examiner cette couverture. Si vous étudiez ce sujet, serait-il utile de comparer nos observations sur les deux sites ?\n\nBonjour [prénom], je vérifie simplement si la question ci-dessus vous concerne.",
+          "Arrêtez la séquence programmée après toute réponse et examinez son sens.",
+          "Responsable de campagne ; résultat dans l’agenda non vérifié dans cet exemple fictif."
+        ],
+        [
+          "Un cabinet de recrutement spécialisé approche un employeur",
+          "Dans cette situation fictive, le responsable ingénierie évoque les postes spécialisés ouverts.",
+          "Ces postes ne prouvent ni échec de recrutement, ni budget de cabinet, ni autorisation d’envoyer des données de candidats.",
+          "L’activité récente et pertinente justifie d’envisager LinkedIn d’abord ; elle ne prouve pas une intention d’achat.",
+          "Bonjour [prénom],\n\nPour les recrutements en [spécialité] que vous avez évoqués cette semaine, votre équipe interne gère-t-elle toute la recherche ?\n\nNous recrutons dans ce domaine. Si un soutien externe est utile, je souhaiterais d’abord comprendre l’expérience recherchée, plutôt que vous envoyer des profils sans rapport. Est-ce vous qui suivez ce sujet ?\n\nBonjour [prénom], je vérifie simplement si la question ci-dessus vous concerne.",
+          "Arrêtez la séquence programmée après toute réponse et examinez son sens.",
+          "Responsable de campagne ; résultat dans l’agenda non vérifié dans cet exemple fictif."
+        ],
+        [
+          "Un organisme de formation approche une entreprise multisite",
+          "Dans cette situation fictive, le responsable des opérations commente l’intégration de superviseurs sur un site.",
+          "Le plan de formation, les obligations légales et le calendrier d’achat ne sont pas évalués.",
+          "L’activité récente et pertinente justifie d’envisager LinkedIn d’abord ; elle ne prouve pas une intention d’achat.",
+          "Bonjour [prénom],\n\nConcernant votre commentaire sur l’arrivée de superviseurs dans [projet de site], leur intégration est-elle déjà couverte par l’équipe actuelle ?\n\nNous animons des ateliers pratiques pour responsables à partir de situations réelles. Si un atelier pouvait aider cette transition, nous pourrions discuter des situations à traiter. Si le sujet est déjà réglé, aucun problème.\n\nBonjour [prénom], je vérifie simplement si la question ci-dessus vous concerne.",
+          "Arrêtez la séquence programmée après toute réponse et examinez son sens.",
+          "Responsable de campagne ; résultat dans l’agenda non vérifié dans cet exemple fictif."
+        ],
+        [
+          "Un studio de design approche un responsable produit",
+          "Dans cette situation fictive, le responsable produit partage la sortie du module de reporting.",
+          "Une nouvelle fonctionnalité ne prouve ni difficulté d’utilisation, ni faible activation, ni projet de refonte.",
+          "L’activité récente et pertinente justifie d’envisager LinkedIn d’abord ; elle ne prouve pas une intention d’achat.",
+          "Bonjour [prénom],\n\nLe [module de reporting] que vous avez partagé introduit-il un nouveau rôle utilisateur, ou concerne-t-il les utilisateurs actuels du tableau de bord ?\n\nNous travaillons avec des équipes produit sur ces parcours de première utilisation. Si vous examinez encore comment ce rôle trouve le bon rapport, un échange sur un parcours précis serait-il utile ?\n\nBonjour [prénom], je vérifie simplement si la question ci-dessus vous concerne.",
+          "Arrêtez la séquence programmée après toute réponse et examinez son sens.",
+          "Responsable de campagne ; résultat dans l’agenda non vérifié dans cet exemple fictif."
+        ],
+        [
+          "Profil inactif : ne pas commencer automatiquement par LinkedIn",
+          "Décision fictive ; confirmer les éléments réels",
+          "Intérêt et réservation inconnus",
+          "Examiner canal et rôle sans présumer de pertinence",
+          "Examiner un email adapté ou le lien de réservation autorisé",
+          "Arrêtez la séquence programmée après toute réponse et examinez son sens.",
+          "Responsable de campagne ; résultat dans l’agenda non vérifié dans cet exemple fictif."
+        ],
+        [
+          "La réponse demande l’agenda : vérifier avant de compter",
+          "Décision fictive ; confirmer les éléments réels",
+          "Intérêt et réservation inconnus",
+          "Examiner canal et rôle sans présumer de pertinence",
+          "Examiner un email adapté ou le lien de réservation autorisé",
+          "Arrêtez la séquence programmée après toute réponse et examinez son sens.",
+          "Responsable de campagne ; résultat dans l’agenda non vérifié dans cet exemple fictif."
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Avant de transmettre ce travail à un prestataire",
+      "body": [
+        "Examinez ensemble la pertinence, les preuves et les responsabilités. Un message utile ne prouve ni réservation ni opportunité qualifiée."
+      ],
+      "items": [
+        "Validez les interlocuteurs proposés et les exclusions.",
+        "Vérifiez la source de chaque affirmation précise et explicitez les inconnues.",
+        "Convenez du canal autorisé, de la courte relance, du responsable des réponses et des conditions d’arrêt.",
+        "Vérifiez le résultat dans l’agenda par un accès autorisé ou une confirmation du client."
+      ]
+    }
+  }
+}

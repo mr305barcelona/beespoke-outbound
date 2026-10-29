@@ -1,0 +1,1058 @@
+{
+  "en": {
+    "title": "B2B Cold Email Copywriting: Annotated Examples | Beespoke",
+    "description": "Write individually relevant B2B cold emails. Four annotated examples, research-to-message reasoning, a private phrase-review tool and exportable review workbook.",
+    "eyebrow": "Individual relevance before a reusable structure",
+    "h1": "B2B cold-email copywriting: show why this person should care",
+    "answer": "Good B2B cold-email copywriting combines a researched reason to contact a particular person, a clear explanation of the offer and a proportionate next step. Personalization changes the substance, not just the name. Keep observations separate from assumptions, write naturally whether AI assisted or not, and use short follow-ups rather than repeated long pitches. The examples and private tools below help review those choices; they do not predict replies or meetings.",
+    "path": "/guides/b2b-cold-email-copywriting/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Cold-email copywriting starts with a reason to write",
+        "body": [
+          "B2B cold-email copywriting turns researched relevance into a message one particular person can understand and answer. Personalization is the explanation of why this offer and question belong with this person now. A first name, compliment or scraped company summary cannot supply that explanation. Start with the buyer’s work and a fact you can support; then make a useful, proportionate request.",
+          "Beespoke uses a shared structure while researching and writing the substantive message individually. The client approves the proposed people and fit; we supply the research, copy and authorized campaign setup. Human-sounding writing matters whether a person or AI produced the first draft. It should reflect a real reason to contact someone rather than conceal the absence of one."
+        ]
+      },
+      {
+        "heading": "Keep observation, inference and the question separate",
+        "body": [
+          "Write down the source and the exact fact before drafting. “The company announced a second site” is an observation. “Its support is failing” is an unsupported inference. “Who coordinates support across the two sites?” is a question that the observation can reasonably earn. Check the contact’s current remit and whether your actual service can address the issue if it exists.",
+          "Do not turn a public announcement into invented urgency, a private budget, a contract expiry or a personal interest. If the evidence does not support a relevant question, hold the person for more research or exclude them. A fluent paragraph cannot repair weak targeting."
+        ]
+      },
+      {
+        "heading": "Four B2B cold-email examples with the reasoning exposed",
+        "body": [
+          "These complete fictional situations show what was observed, what remains unknown and why the wording is restrained. The numbered notes sit beside the message so you can inspect the decisions rather than copy a supposedly winning script. Replace every placeholder with checked facts before using an example in your own work."
+        ],
+        "examples": [
+          {
+            "heading": "An MSP approaching an operations owner",
+            "fact": "A fictional company announces a second office on its own website. The contact owns operations.",
+            "unknown": "Its current IT provider, contract dates, budget and actual support problem are unknown.",
+            "message": "Hi [first name],\n\nYour second office means there will soon be another team needing day-to-day IT support. Are you the person coordinating that across the two sites?\n\nWe help businesses in [service region] keep the same support process across offices. I don’t know how you handle it today, so I wouldn’t assume you need a replacement provider. If reviewing coverage is on your list, would a short conversation about the two-site setup be useful?\n\nThanks,\n[sender]",
+            "notes": [
+              "The opening refers directly to the observed expansion, without an “I noticed” wrapper or invented praise.",
+              "The role question leaves room for correction; the message does not pretend to know the internal owner.",
+              "A conditional invitation avoids inventing dissatisfaction, buying urgency or a replacement project."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed."
+          },
+          {
+            "heading": "A specialist recruiter approaching an employer",
+            "fact": "A fictional employer publishes several engineering vacancies in one location. The contact leads engineering.",
+            "unknown": "Vacancies do not prove a hiring failure, outside-agency budget or permission to send candidate details.",
+            "message": "Hi [first name],\n\nAre the [specialism] roles on your careers page being handled entirely by your internal team?\n\nWe recruit in that area and could help with a defined part of the search if outside support is useful. Before sending anything, I’d rather understand the experience you need and whether you work with external recruiters at all.\n\nWould you be the right person for that question?\n\nThanks,\n[sender]",
+            "notes": [
+              "The observed vacancies create a specific question, not a claim that the employer is struggling.",
+              "The offer names a limited contribution and asks about the actual buying process before sending material.",
+              "The intended lead is an employer-side buyer, not a job seeker; that distinction should survive the target-list review."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed."
+          },
+          {
+            "heading": "A training provider approaching a multi-site operator",
+            "fact": "A fictional operator publishes the opening of a new site; its operations role covers the rollout.",
+            "unknown": "The training plan, legal requirements and procurement timing are unassessed.",
+            "message": "Hello [first name],\n\nFor the [new site] opening, who is coordinating induction across the existing and new teams?\n\nOur work is practical manager training, delivered around a team’s real situations. If you are bringing new supervisors into the rollout, we could discuss a small workshop based on the decisions they will actually face.\n\nI don’t know whether training is already covered. Would this be relevant to you, or should I leave it there?\n\nThanks,\n[sender]",
+            "notes": [
+              "The message connects the event to one relevant operating responsibility instead of summarizing the entire company website.",
+              "It describes the work without guaranteeing productivity, compliance or a training outcome.",
+              "The recipient has a natural way to say this is already handled or irrelevant."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed."
+          },
+          {
+            "heading": "A design studio approaching a product owner",
+            "fact": "A fictional software company publishes a new reporting module and public product documentation.",
+            "unknown": "A new feature does not prove usability problems, low activation or a planned redesign.",
+            "message": "Hi [first name],\n\nIs the new [reporting module] intended for the same users as the existing dashboard, or a different team?\n\nWe help product teams work through those first-use decisions. If you are reviewing how a new role finds the right report, we could talk through one concrete journey rather than suggest a redesign of everything.\n\nIf that work is already settled, no problem. Is this a question you own?\n\nThanks,\n[sender]",
+            "notes": [
+              "An actual product distinction earns a question; the sender does not invent a broken funnel.",
+              "The proposed discussion has a concrete boundary: one role and one first-use journey.",
+              "A restrained close sounds like a person asking a real question, not a promised transformation."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed."
+          }
+        ]
+      },
+      {
+        "heading": "Review stock phrasing without inventing an AI detector",
+        "body": [
+          "Words such as “leverage”, “unlock”, “revolutionize” and “seamlessly” often add claims without concrete meaning. Repeated openings such as “I saw that”, “I noticed that” and “I was impressed by” can make researched messages sound assembled. Use the checklist as an editing prompt: replace inflated claims and repetitive framing with the specific fact or question that matters. No phrase proves who wrote a message, and an ordinary word is not automatically wrong."
+        ],
+        "table": {
+          "caption": "From generic phrasing to an evidenced question",
+          "headers": [
+            "Draft to review",
+            "Better direction",
+            "Why"
+          ],
+          "rows": [
+            [
+              "I noticed your impressive growth.",
+              "Your second office opens in [month]. Who owns support across both sites?",
+              "A checked event earns a specific role question; no unsupported praise."
+            ],
+            [
+              "We can unlock seamless transformation.",
+              "We can work through one onboarding journey with your product team.",
+              "Name the actual work and its boundary."
+            ],
+            [
+              "Regarding to your new launch…",
+              "On the [specific launch]…",
+              "Use natural, grammatical wording, not an awkward synonym swap."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Keep the structure; rewrite the actual business paragraph",
+        "body": [
+          "A structure can cover greeting, genuine context, a brief introduction, individual relevance and a reasonable next step. The business paragraph must change with the account and role. Ask: would this paragraph still work for an unrelated company after changing its name? If so, the relevance probably needs more work. Use a specific observation only when you can explain its connection to the offer.",
+          "Do not manufacture banter, local knowledge, a personal connection or a customer result. A sender’s real voice can include a warm opening or longer explanation when appropriate. Read the finished message aloud: would that person actually say it, and can the recipient answer without decoding a slogan?"
+        ]
+      },
+      {
+        "heading": "Length, follow-up and the next channel",
+        "body": [
+          "There is no word count that makes an email human. Keep the detail needed to explain a useful idea and remove repetition. A longer first email can be appropriate; that does not justify a longer programmed follow-up. Beespoke typically uses the opening plus one short reminder, often about four days later. The recipient can reread the original; the reminder need not sell the offer again.",
+          "Choose the initial platform from the person’s relevant activity. LinkedIn may come first for someone active there; email may come first otherwise. After no response, a coordinated other channel can make sense. A reply changes the plan, and a decline must not become an excuse to repeat the pitch elsewhere. Calling remains separately scoped and quoted."
+        ]
+      },
+      {
+        "heading": "Approve the targets and review the result honestly",
+        "body": [
+          "The client’s main campaign contribution is judgment on who fits. Beespoke supplies the research, writes the messages, configures authorized activity and manages replies, qualification and calendar coordination. The client keeps discovery, proposals and closing. Confirm a booking through authorized calendar/CRM access or client confirmation; an opening, reply or calendar-link click is a different observation.",
+          "An annotated example explains a design decision; it does not establish that a phrase caused a reply. Compare actual relevant responses and subsequent verified outcomes within the right campaign cohort. Keep timing, audience, channel and offer changes visible, and never publish identifying client or prospect evidence simply to make the example more persuasive."
+        ]
+      }
+    ],
+    "related": [
+      "/services/cold-email-lead-generation/",
+      "/guides/cold-email-agency/",
+      "/guides/cold-email-follow-up/"
+    ],
+    "faqs": [
+      {
+        "question": "What is cold-email personalization?",
+        "answer": "It connects a checked account fact, a person’s relevant role and a useful question to the actual offer. Changing a name or adding praise alone does not establish that relevance."
+      },
+      {
+        "question": "Can AI help write cold emails?",
+        "answer": "It can assist with drafting and editing, but a person must check the facts, relevance, sender voice and permitted claims. Our phrase review is an editorial aid, not an AI-authorship detector."
+      },
+      {
+        "question": "Should every cold email be short?",
+        "answer": "Keep only useful context, but do not impose a universal word count. A longer individually relevant opening can be appropriate. A brief follow-up usually need not repeat the full pitch."
+      },
+      {
+        "question": "Are these proven winning templates?",
+        "answer": "No. The four worked cases are explicitly fictional training examples. Their annotations explain decisions, not verified response rates, bookings or causal effects."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Clay — B2B cold-email copywriting",
+        "href": "https://www.clay.com/blog/b2b-cold-email-copywriting"
+      },
+      {
+        "label": "Copyhackers — cold-email example and analysis",
+        "href": "https://copyhackers.com/2017/09/cold-emails/"
+      },
+      {
+        "label": "Mailtrap — personalization",
+        "href": "https://mailtrap.io/blog/cold-email-personalization/"
+      },
+      {
+        "label": "Lavender — personalization process",
+        "href": "https://lavender.ai/blog/how-to-build-a-cold-email-personalization-process"
+      }
+    ],
+    "sourceMethodology": "The operating approach is supplied by Beespoke’s founder. The examples below are training scenarios unless expressly labelled as an inspected, anonymized adaptation. Source articles inform the questions covered; their performance claims are not adopted as our results.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Work through your own decision",
+      "heading": "Research-to-message review workbook",
+      "intro": "Record the evidence, the individual reason for contact and the next owner. Keep missing information visible.",
+      "navLabel": "Research-to-message review workbook",
+      "note": "Private working notes: do not enter confidential or identifying information. Nothing is uploaded or saved; export what you need before leaving."
+    },
+    "workbook": {
+      "fields": [
+        "Account and relevant role",
+        "Observed fact and source/date",
+        "Unknowns to keep open",
+        "Reason this person may care",
+        "Message or next action",
+        "Response / stop condition",
+        "Owner and verification"
+      ],
+      "legend": "Research-to-message review workbook",
+      "reportTitle": "Research-to-message review workbook",
+      "samples": [
+        [
+          "An MSP approaching an operations owner",
+          "A fictional company announces a second office on its own website. The contact owns operations.",
+          "Its current IT provider, contract dates, budget and actual support problem are unknown.",
+          "The opening refers directly to the observed expansion, without an “I noticed” wrapper or invented praise.",
+          "Hi [first name],\n\nYour second office means there will soon be another team needing day-to-day IT support. Are you the person coordinating that across the two sites?\n\nWe help businesses in [service region] keep the same support process across offices. I don’t know how you handle it today, so I wouldn’t assume you need a replacement provider. If reviewing coverage is on your list, would a short conversation about the two-site setup be useful?\n\nThanks,\n[sender]",
+          "Follow up briefly only if there is no reply; stop or change the plan on a reply.",
+          "Campaign owner; booking unverified in this fictional example."
+        ],
+        [
+          "A specialist recruiter approaching an employer",
+          "A fictional employer publishes several engineering vacancies in one location. The contact leads engineering.",
+          "Vacancies do not prove a hiring failure, outside-agency budget or permission to send candidate details.",
+          "The observed vacancies create a specific question, not a claim that the employer is struggling.",
+          "Hi [first name],\n\nAre the [specialism] roles on your careers page being handled entirely by your internal team?\n\nWe recruit in that area and could help with a defined part of the search if outside support is useful. Before sending anything, I’d rather understand the experience you need and whether you work with external recruiters at all.\n\nWould you be the right person for that question?\n\nThanks,\n[sender]",
+          "Follow up briefly only if there is no reply; stop or change the plan on a reply.",
+          "Campaign owner; booking unverified in this fictional example."
+        ],
+        [
+          "A training provider approaching a multi-site operator",
+          "A fictional operator publishes the opening of a new site; its operations role covers the rollout.",
+          "The training plan, legal requirements and procurement timing are unassessed.",
+          "The message connects the event to one relevant operating responsibility instead of summarizing the entire company website.",
+          "Hello [first name],\n\nFor the [new site] opening, who is coordinating induction across the existing and new teams?\n\nOur work is practical manager training, delivered around a team’s real situations. If you are bringing new supervisors into the rollout, we could discuss a small workshop based on the decisions they will actually face.\n\nI don’t know whether training is already covered. Would this be relevant to you, or should I leave it there?\n\nThanks,\n[sender]",
+          "Follow up briefly only if there is no reply; stop or change the plan on a reply.",
+          "Campaign owner; booking unverified in this fictional example."
+        ],
+        [
+          "A design studio approaching a product owner",
+          "A fictional software company publishes a new reporting module and public product documentation.",
+          "A new feature does not prove usability problems, low activation or a planned redesign.",
+          "An actual product distinction earns a question; the sender does not invent a broken funnel.",
+          "Hi [first name],\n\nIs the new [reporting module] intended for the same users as the existing dashboard, or a different team?\n\nWe help product teams work through those first-use decisions. If you are reviewing how a new role finds the right report, we could talk through one concrete journey rather than suggest a redesign of everything.\n\nIf that work is already settled, no problem. Is this a question you own?\n\nThanks,\n[sender]",
+          "Follow up briefly only if there is no reply; stop or change the plan on a reply.",
+          "Campaign owner; booking unverified in this fictional example."
+        ],
+        [
+          "Target review",
+          "Proposed role and company supplied for review",
+          "Client judgment still needed",
+          "Do not send until fit and exclusions are agreed",
+          "Obtain target approval",
+          "Hold",
+          "Client target owner"
+        ],
+        [
+          "Booking evidence",
+          "A fictional reply asks for a calendar link",
+          "No booking or held meeting established",
+          "Interest is not the final outcome",
+          "Share the approved client link and verify the outcome",
+          "Stop the automated sequence on reply",
+          "Reply owner / client calendar"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Before you hand this to a provider",
+      "body": [
+        "Review fit, evidence and ownership together. A useful message does not establish a booking or a qualified opportunity."
+      ],
+      "items": [
+        "Approve the proposed people and exclusions.",
+        "Check the source behind every specific claim and keep unknowns explicit.",
+        "Agree the authorized channel, concise follow-up, reply owner and stopping conditions.",
+        "Verify the calendar outcome through authorized access or client confirmation."
+      ]
+    }
+  },
+  "es": {
+    "title": "Redacción de cold email B2B: personalización y ejemplos | Beespoke",
+    "description": "Redacta cold emails B2B relevantes para cada persona. Cuatro ejemplos anotados, razonamiento desde la investigación, revisión privada de frases y ficha exportable.",
+    "eyebrow": "Relevancia individual antes que estructura reutilizable",
+    "h1": "Redacción de cold email B2B: explica por qué importa a esa persona",
+    "answer": "Una buena redacción de cold email B2B combina un motivo investigado para contactar a una persona concreta, una explicación clara de la oferta y un siguiente paso proporcionado. La personalización cambia el contenido, no solo el nombre. Separa observaciones y suposiciones, escribe con naturalidad con o sin IA y utiliza seguimientos breves. Los ejemplos y las herramientas privadas ayudan a revisar esas decisiones; no predicen respuestas ni reuniones.",
+    "path": "/guides/b2b-cold-email-copywriting/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "La redacción de cold email empieza por un motivo para escribir",
+        "body": [
+          "La redacción de cold email B2B convierte una relevancia investigada en un mensaje que una persona concreta puede entender y responder. Personalizar consiste en explicar por qué esa oferta y esa pregunta encajan con esa persona ahora. Un nombre, un elogio o un resumen de la empresa no bastan. Empieza por su trabajo y por un hecho verificable; después plantea una petición útil y proporcionada.",
+          "Beespoke utiliza una estructura común e investiga y redacta individualmente el contenido sustantivo. El cliente aprueba las personas propuestas y su encaje; nosotros aportamos investigación, textos y configuración autorizada. La naturalidad importa tanto si el primer borrador lo escribe una persona como una IA. Debe reflejar un motivo real para contactar, sin ocultar que falta ese motivo."
+        ]
+      },
+      {
+        "heading": "Separa observación, inferencia y pregunta",
+        "body": [
+          "Anota la fuente y el hecho exacto antes de redactar. «La empresa anunció una segunda sede» es una observación. «Su soporte falla» es una inferencia sin pruebas. «¿Quién coordina el soporte entre las dos sedes?» es una pregunta razonable a partir del hecho. Comprueba las responsabilidades actuales del contacto y si tu servicio puede abordar el problema en caso de existir.",
+          "No conviertas un anuncio público en urgencia inventada, presupuesto privado, vencimiento de contrato o interés personal. Si las pruebas no sostienen una pregunta pertinente, deja el contacto pendiente de investigación o exclúyelo. Un párrafo fluido no arregla una mala segmentación."
+        ]
+      },
+      {
+        "heading": "Cuatro ejemplos de cold email B2B con su razonamiento",
+        "body": [
+          "Estas situaciones ficticias completas muestran lo observado, lo desconocido y por qué se elige un lenguaje comedido. Las notas numeradas junto al mensaje permiten revisar las decisiones, sin copiar una supuesta fórmula ganadora. Sustituye cada marcador por hechos comprobados antes de usar un ejemplo."
+        ],
+        "examples": [
+          {
+            "heading": "Un MSP contacta a la persona responsable de operaciones",
+            "fact": "Una empresa ficticia anuncia una segunda oficina en su web. La persona contactada dirige operaciones.",
+            "unknown": "Se desconocen proveedor de TI, vencimientos, presupuesto y problema real de soporte.",
+            "message": "Hola [nombre]:\n\nCon la segunda oficina habrá otro equipo que necesite soporte informático diario. ¿Coordinas tú ese servicio entre las dos sedes?\n\nAyudamos a empresas de [zona de servicio] a mantener un mismo proceso de soporte entre oficinas. No sé cómo lo gestionáis hoy, así que no daría por hecho que necesitéis cambiar de proveedor. Si estáis revisando la cobertura, ¿sería útil una breve conversación sobre las dos sedes?\n\nGracias,\n[remitente]",
+            "notes": [
+              "El inicio menciona directamente la expansión observada, sin «he visto que» ni elogios inventados.",
+              "La pregunta sobre responsabilidades permite corregir el contacto; el mensaje no finge conocer la organización interna.",
+              "La invitación condicional evita inventar descontento, urgencia de compra o un proyecto de sustitución."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente."
+          },
+          {
+            "heading": "Una consultora de selección especializada contacta a una empresa",
+            "fact": "Una empresa ficticia publica varias vacantes de ingeniería en una localidad. El contacto dirige ingeniería.",
+            "unknown": "Las vacantes no demuestran dificultades de contratación, presupuesto para agencias ni permiso para enviar datos de candidatos.",
+            "message": "Hola [nombre]:\n\n¿Vuestro equipo interno está gestionando íntegramente los puestos de [especialidad] publicados en la página de empleo?\n\nSeleccionamos perfiles de esa especialidad y podríamos apoyar una parte concreta de la búsqueda si os sirve ayuda externa. Antes de enviar nada, prefiero entender la experiencia que necesitáis y si trabajáis con consultoras de selección.\n\n¿Serías la persona adecuada para esta consulta?\n\nGracias,\n[remitente]",
+            "notes": [
+              "Las vacantes generan una pregunta concreta, no una afirmación de que la empresa tenga dificultades.",
+              "La oferta delimita la contribución y pregunta por el proceso de compra antes de enviar material.",
+              "El lead buscado compra servicios para la empresa; no busca empleo. La revisión de la lista debe conservar esa distinción."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente."
+          },
+          {
+            "heading": "Una empresa de formación contacta a un operador con varias sedes",
+            "fact": "Un operador ficticio anuncia una nueva sede; la función de operaciones abarca la apertura.",
+            "unknown": "No se han evaluado plan de formación, requisitos legales ni calendario de compras.",
+            "message": "Hola [nombre]:\n\nPara la apertura de [nueva sede], ¿quién coordina la incorporación entre los equipos actuales y los nuevos?\n\nTrabajamos en formación práctica para responsables, basada en situaciones reales del equipo. Si incorporáis nuevos supervisores durante la apertura, podríamos comentar un taller breve centrado en las decisiones que afrontarán.\n\nNo sé si ya tenéis cubierta la formación. ¿Te resulta pertinente o lo dejamos aquí?\n\nGracias,\n[remitente]",
+            "notes": [
+              "El mensaje conecta la apertura con una responsabilidad operativa relevante, en lugar de resumir toda la web.",
+              "Describe el trabajo sin garantizar productividad, cumplimiento normativo ni resultados formativos.",
+              "La persona puede indicar con naturalidad que ya está resuelto o que no es pertinente."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente."
+          },
+          {
+            "heading": "Un estudio de diseño contacta a un responsable de producto",
+            "fact": "Una empresa ficticia de software publica un módulo de informes y documentación del producto.",
+            "unknown": "Una función nueva no demuestra problemas de usabilidad, baja activación ni un rediseño previsto.",
+            "message": "Hola [nombre]:\n\n¿El nuevo [módulo de informes] se dirige a los mismos usuarios del panel actual o a otro equipo?\n\nAyudamos a equipos de producto a resolver esas decisiones del primer uso. Si revisáis cómo un nuevo perfil de usuario encuentra el informe adecuado, podríamos comentar un recorrido concreto, sin proponer rediseñarlo todo.\n\nSi ya está resuelto, ningún problema. ¿Es un tema que llevas tú?\n\nGracias,\n[remitente]",
+            "notes": [
+              "Una distinción real del producto justifica la pregunta; no se inventa un embudo roto.",
+              "La conversación propuesta tiene límites concretos: una función y un recorrido inicial.",
+              "El cierre comedido plantea una pregunta real, sin prometer una transformación."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente."
+          }
+        ]
+      },
+      {
+        "heading": "Revisa las fórmulas prefabricadas sin inventar un detector de IA",
+        "body": [
+          "Palabras como «potenciar», «revolucionar» o «sin esfuerzo» suelen añadir promesas sin contenido concreto. Inicios repetidos como «he visto que», «he notado que» o «me impresionó» pueden hacer que un mensaje investigado parezca ensamblado. Usa la lista para editar: sustituye promesas infladas y marcos repetitivos por el hecho o la pregunta que importa. Ninguna frase demuestra quién escribió el mensaje, y una palabra corriente no es incorrecta por sí sola."
+        ],
+        "table": {
+          "caption": "De una fórmula genérica a una pregunta fundamentada",
+          "headers": [
+            "Borrador que revisar",
+            "Alternativa",
+            "Motivo"
+          ],
+          "rows": [
+            [
+              "He visto vuestro impresionante crecimiento.",
+              "Abrís la segunda oficina en [mes]. ¿Quién coordina el soporte entre ambas?",
+              "Un hecho comprobado justifica una pregunta concreta, sin elogios infundados."
+            ],
+            [
+              "Podemos impulsar una transformación sin esfuerzo.",
+              "Podemos revisar un recorrido de incorporación con vuestro equipo de producto.",
+              "Nombra el trabajo real y sus límites."
+            ],
+            [
+              "En relación a vuestro lanzamiento…",
+              "Sobre [lanzamiento concreto]…",
+              "Usa una redacción natural y correcta, sin sustituir palabras de forma forzada."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Conserva la estructura; reescribe el párrafo de negocio",
+        "body": [
+          "La estructura puede incluir saludo, contexto real, presentación breve, relevancia individual y siguiente paso razonable. El párrafo de negocio debe cambiar con la empresa y la función. Pregunta: ¿serviría para una empresa no relacionada si solo cambiara el nombre? Si es así, probablemente falta trabajar la relevancia. Usa una observación concreta solo si puedes explicar su relación con la oferta.",
+          "No inventes bromas compartidas, conocimiento local, relación personal ni resultados de clientes. La voz real del remitente puede incluir un saludo cálido o una explicación más extensa cuando procede. Lee el mensaje en voz alta: ¿lo diría esa persona y podría el destinatario responder sin descifrar un eslogan?"
+        ]
+      },
+      {
+        "heading": "Extensión, seguimiento y siguiente canal",
+        "body": [
+          "No hay un número de palabras que haga humano un correo. Conserva el detalle necesario para explicar una idea útil y elimina repeticiones. Un primer correo más largo puede ser adecuado; no justifica alargar el seguimiento programado. Beespoke suele utilizar el inicio y un recordatorio breve, a menudo unos cuatro días después. La persona puede releer el original; no hace falta volver a venderle la oferta.",
+          "Elige la plataforma inicial según la actividad relevante de la persona. LinkedIn puede ir primero para alguien activo allí; en otros casos puede empezar el correo. Ante la falta de respuesta, puede tener sentido otro canal coordinado. Una respuesta cambia el plan y un rechazo no permite repetir la propuesta por otra vía. Las llamadas mantienen alcance y presupuesto separados."
+        ]
+      },
+      {
+        "heading": "Aprueba los contactos y evalúa el resultado con rigor",
+        "body": [
+          "La principal aportación del cliente es su criterio sobre el encaje de los contactos. Beespoke aporta investigación, redacta mensajes, configura la actividad autorizada y gestiona respuestas, cualificación y coordinación de agenda. El cliente conserva diagnóstico comercial, propuestas y cierre. Confirma la reserva mediante acceso autorizado al calendario o CRM, o confirmación del cliente; apertura, respuesta o clic son observaciones distintas.",
+          "Un ejemplo anotado explica una decisión de redacción; no demuestra que una frase causara una respuesta. Compara respuestas relevantes y resultados posteriores verificados dentro de la cohorte correcta. Explicita cambios de momento, público, canal y oferta, y no publiques pruebas identificativas de clientes o contactos para hacer el ejemplo más convincente."
+        ]
+      }
+    ],
+    "related": [
+      "/services/cold-email-lead-generation/",
+      "/guides/cold-email-agency/",
+      "/guides/cold-email-follow-up/"
+    ],
+    "faqs": [
+      {
+        "question": "¿Qué es la personalización de cold email?",
+        "answer": "Conecta un hecho empresarial comprobado, una función relevante y una pregunta útil con la oferta real. Cambiar un nombre o añadir elogios no demuestra esa relevancia."
+      },
+      {
+        "question": "¿Puede la IA ayudar a redactar cold emails?",
+        "answer": "Puede ayudar a redactar y editar, pero una persona debe comprobar hechos, relevancia, voz del remitente y afirmaciones permitidas. La revisión de frases es una ayuda editorial, no un detector de autoría."
+      },
+      {
+        "question": "¿Debe ser breve todo cold email?",
+        "answer": "Conserva solo el contexto útil, sin imponer una extensión universal. Un inicio más largo y pertinente puede ser adecuado. Un seguimiento breve normalmente no necesita repetir toda la propuesta."
+      },
+      {
+        "question": "¿Son plantillas ganadoras demostradas?",
+        "answer": "No. Los cuatro casos son ejemplos de formación expresamente ficticios. Las anotaciones explican decisiones, no tasas de respuesta, reservas ni efectos causales verificados."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Clay — B2B cold-email copywriting",
+        "href": "https://www.clay.com/blog/b2b-cold-email-copywriting"
+      },
+      {
+        "label": "Copyhackers — cold-email example and analysis",
+        "href": "https://copyhackers.com/2017/09/cold-emails/"
+      },
+      {
+        "label": "Mailtrap — personalization",
+        "href": "https://mailtrap.io/blog/cold-email-personalization/"
+      },
+      {
+        "label": "Lavender — personalization process",
+        "href": "https://lavender.ai/blog/how-to-build-a-cold-email-personalization-process"
+      }
+    ],
+    "sourceMethodology": "El método operativo procede del fundador de Beespoke. Los ejemplos son situaciones de formación salvo que se identifiquen expresamente como adaptaciones inspeccionadas y anonimizadas. Las fuentes orientan las preguntas tratadas; sus resultados no se presentan como nuestros.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Trabaja tu propia decisión",
+      "heading": "Ficha de revisión: de la investigación al mensaje",
+      "intro": "Registra las pruebas, el motivo individual para contactar y el siguiente responsable. Mantén visibles las incógnitas.",
+      "navLabel": "Ficha de revisión: de la investigación al mensaje",
+      "note": "Notas privadas: no introduzcas información confidencial ni identificativa. No se carga ni guarda nada; exporta lo necesario antes de salir."
+    },
+    "workbook": {
+      "fields": [
+        "Empresa y función relevante",
+        "Hecho observado y fuente/fecha",
+        "Incógnitas que deben quedar abiertas",
+        "Motivo de relevancia para esta persona",
+        "Mensaje o siguiente acción",
+        "Respuesta o condición de parada",
+        "Responsable y verificación"
+      ],
+      "legend": "Ficha de revisión: de la investigación al mensaje",
+      "reportTitle": "Ficha de revisión: de la investigación al mensaje",
+      "samples": [
+        [
+          "Un MSP contacta a la persona responsable de operaciones",
+          "Una empresa ficticia anuncia una segunda oficina en su web. La persona contactada dirige operaciones.",
+          "Se desconocen proveedor de TI, vencimientos, presupuesto y problema real de soporte.",
+          "El inicio menciona directamente la expansión observada, sin «he visto que» ni elogios inventados.",
+          "Hola [nombre]:\n\nCon la segunda oficina habrá otro equipo que necesite soporte informático diario. ¿Coordinas tú ese servicio entre las dos sedes?\n\nAyudamos a empresas de [zona de servicio] a mantener un mismo proceso de soporte entre oficinas. No sé cómo lo gestionáis hoy, así que no daría por hecho que necesitéis cambiar de proveedor. Si estáis revisando la cobertura, ¿sería útil una breve conversación sobre las dos sedes?\n\nGracias,\n[remitente]",
+          "Haz un seguimiento breve solo si no hay respuesta; ante una respuesta, para o cambia el plan.",
+          "Responsable de campaña; reserva sin verificar en este ejemplo ficticio."
+        ],
+        [
+          "Una consultora de selección especializada contacta a una empresa",
+          "Una empresa ficticia publica varias vacantes de ingeniería en una localidad. El contacto dirige ingeniería.",
+          "Las vacantes no demuestran dificultades de contratación, presupuesto para agencias ni permiso para enviar datos de candidatos.",
+          "Las vacantes generan una pregunta concreta, no una afirmación de que la empresa tenga dificultades.",
+          "Hola [nombre]:\n\n¿Vuestro equipo interno está gestionando íntegramente los puestos de [especialidad] publicados en la página de empleo?\n\nSeleccionamos perfiles de esa especialidad y podríamos apoyar una parte concreta de la búsqueda si os sirve ayuda externa. Antes de enviar nada, prefiero entender la experiencia que necesitáis y si trabajáis con consultoras de selección.\n\n¿Serías la persona adecuada para esta consulta?\n\nGracias,\n[remitente]",
+          "Haz un seguimiento breve solo si no hay respuesta; ante una respuesta, para o cambia el plan.",
+          "Responsable de campaña; reserva sin verificar en este ejemplo ficticio."
+        ],
+        [
+          "Una empresa de formación contacta a un operador con varias sedes",
+          "Un operador ficticio anuncia una nueva sede; la función de operaciones abarca la apertura.",
+          "No se han evaluado plan de formación, requisitos legales ni calendario de compras.",
+          "El mensaje conecta la apertura con una responsabilidad operativa relevante, en lugar de resumir toda la web.",
+          "Hola [nombre]:\n\nPara la apertura de [nueva sede], ¿quién coordina la incorporación entre los equipos actuales y los nuevos?\n\nTrabajamos en formación práctica para responsables, basada en situaciones reales del equipo. Si incorporáis nuevos supervisores durante la apertura, podríamos comentar un taller breve centrado en las decisiones que afrontarán.\n\nNo sé si ya tenéis cubierta la formación. ¿Te resulta pertinente o lo dejamos aquí?\n\nGracias,\n[remitente]",
+          "Haz un seguimiento breve solo si no hay respuesta; ante una respuesta, para o cambia el plan.",
+          "Responsable de campaña; reserva sin verificar en este ejemplo ficticio."
+        ],
+        [
+          "Un estudio de diseño contacta a un responsable de producto",
+          "Una empresa ficticia de software publica un módulo de informes y documentación del producto.",
+          "Una función nueva no demuestra problemas de usabilidad, baja activación ni un rediseño previsto.",
+          "Una distinción real del producto justifica la pregunta; no se inventa un embudo roto.",
+          "Hola [nombre]:\n\n¿El nuevo [módulo de informes] se dirige a los mismos usuarios del panel actual o a otro equipo?\n\nAyudamos a equipos de producto a resolver esas decisiones del primer uso. Si revisáis cómo una función nueva encuentra el informe adecuado, podríamos comentar un recorrido concreto, sin proponer rediseñarlo todo.\n\nSi ya está resuelto, ningún problema. ¿Es un tema que llevas tú?\n\nGracias,\n[remitente]",
+          "Haz un seguimiento breve solo si no hay respuesta; ante una respuesta, para o cambia el plan.",
+          "Responsable de campaña; reserva sin verificar en este ejemplo ficticio."
+        ],
+        [
+          "Revisión de contactos",
+          "Empresa y función propuestas para revisión",
+          "Falta el criterio del cliente",
+          "No enviar hasta acordar encaje y exclusiones",
+          "Obtener aprobación de contactos",
+          "Pendiente",
+          "Responsable de contactos del cliente"
+        ],
+        [
+          "Pruebas de reserva",
+          "Una respuesta ficticia pide el enlace de agenda",
+          "No hay reserva ni reunión celebrada verificadas",
+          "El interés no es el resultado final",
+          "Compartir el enlace autorizado y verificar el resultado",
+          "Parar la secuencia automática al recibir respuesta",
+          "Responsable de respuestas / agenda del cliente"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Antes de entregarlo a un proveedor",
+      "body": [
+        "Revisa conjuntamente encaje, pruebas y responsabilidades. Un mensaje útil no demuestra una reserva ni una oportunidad cualificada."
+      ],
+      "items": [
+        "Aprueba las personas propuestas y las exclusiones.",
+        "Comprueba la fuente de cada afirmación concreta y explicita las incógnitas.",
+        "Acuerda canal autorizado, seguimiento breve, responsable de respuestas y condiciones de parada.",
+        "Verifica el resultado de agenda mediante acceso autorizado o confirmación del cliente."
+      ]
+    }
+  },
+  "ca": {
+    "title": "Redacció de cold email B2B: personalització i exemples | Beespoke",
+    "description": "Redacta cold emails B2B rellevants per a cada persona. Quatre exemples anotats, raonament des de la recerca, revisió privada de frases i fitxa exportable.",
+    "eyebrow": "Rellevància individual abans que estructura reutilitzable",
+    "h1": "Redacció de cold email B2B: explica per què importa a aquella persona",
+    "answer": "Una bona redacció de cold email B2B combina un motiu investigat per contactar una persona concreta, una explicació clara de l’oferta i un pas següent proporcionat. La personalització canvia el contingut, no només el nom. Separa observacions i suposicions, escriu amb naturalitat amb IA o sense i utilitza seguiments breus. Els exemples i les eines privades ajuden a revisar aquestes decisions; no prediuen respostes ni reunions.",
+    "path": "/guides/b2b-cold-email-copywriting/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "La redacció de cold email comença per un motiu per escriure",
+        "body": [
+          "La redacció de cold email B2B converteix una rellevància investigada en un missatge que una persona concreta pot entendre i respondre. Personalitzar consisteix a explicar per què aquella oferta i aquella pregunta encaixen amb aquella persona ara. Un nom, un elogi o un resum de l’empresa no n’aporten l’explicació. Comença per la seva feina i per un fet verificable; després planteja una petició útil i proporcionada.",
+          "Beespoke utilitza una estructura comuna i investiga i redacta individualment el contingut substancial. El client aprova les persones proposades i el seu encaix; nosaltres aportem recerca, textos i configuració autoritzada. La naturalitat importa tant si el primer esborrany l’escriu una persona com una IA. Ha de reflectir un motiu real per contactar, sense dissimular-ne l’absència."
+        ]
+      },
+      {
+        "heading": "Separa observació, inferència i pregunta",
+        "body": [
+          "Anota la font i el fet exacte abans de redactar. «L’empresa va anunciar una segona seu» és una observació. «El seu suport falla» és una inferència sense proves. «Qui coordina el suport entre les dues seus?» és una pregunta raonable a partir del fet. Comprova les responsabilitats actuals del contacte i si el teu servei pot abordar el problema en cas que existeixi.",
+          "No converteixis un anunci públic en urgència inventada, pressupost privat, venciment de contracte o interès personal. Si les evidències no sostenen una pregunta pertinent, deixa el contacte pendent de recerca o exclou-lo. Un paràgraf fluid no arregla una mala segmentació."
+        ]
+      },
+      {
+        "heading": "Quatre exemples de cold email B2B amb el raonament explicat",
+        "body": [
+          "Aquestes situacions fictícies completes mostren què s’ha observat, què es desconeix i per què es tria un llenguatge contingut. Les notes numerades al costat del missatge permeten revisar les decisions, sense copiar una suposada fórmula guanyadora. Substitueix cada marcador per fets comprovats abans d’utilitzar un exemple."
+        ],
+        "examples": [
+          {
+            "heading": "Un MSP contacta amb la persona responsable d’operacions",
+            "fact": "Una empresa fictícia anuncia una segona oficina al seu web. La persona contactada dirigeix operacions.",
+            "unknown": "Es desconeixen proveïdor de TI, venciments, pressupost i problema real de suport.",
+            "message": "Hola, [nom],\n\nAmb la segona oficina hi haurà un altre equip que necessiti suport informàtic diari. Coordines tu aquest servei entre les dues seus?\n\nAjudem empreses de [zona de servei] a mantenir un mateix procés de suport entre oficines. No sé com ho gestioneu avui, així que no donaria per fet que necessiteu canviar de proveïdor. Si esteu revisant la cobertura, seria útil una conversa breu sobre les dues seus?\n\nGràcies,\n[remitent]",
+            "notes": [
+              "L’inici es refereix directament a l’expansió observada, sense «he vist que» ni elogis inventats.",
+              "La pregunta sobre responsabilitats permet corregir el contacte; el missatge no fingeix conèixer l’organització interna.",
+              "La invitació condicional evita inventar descontentament, urgència de compra o un projecte de substitució."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client."
+          },
+          {
+            "heading": "Una consultora de selecció especialitzada contacta amb una empresa",
+            "fact": "Una empresa fictícia publica diverses vacants d’enginyeria en una localitat. El contacte dirigeix enginyeria.",
+            "unknown": "Les vacants no demostren dificultats de contractació, pressupost per a agències ni permís per enviar dades de candidats.",
+            "message": "Hola, [nom],\n\nEl vostre equip intern gestiona íntegrament els llocs de [especialitat] publicats a la pàgina de feina?\n\nSeleccionem perfils d’aquesta especialitat i podríem donar suport a una part concreta de la cerca si us és útil ajuda externa. Abans d’enviar res, prefereixo entendre l’experiència que necessiteu i si treballeu amb consultores de selecció.\n\nSeries la persona adequada per a aquesta consulta?\n\nGràcies,\n[remitent]",
+            "notes": [
+              "Les vacants generen una pregunta concreta, no una afirmació que l’empresa tingui dificultats.",
+              "L’oferta delimita la contribució i pregunta pel procés de compra abans d’enviar material.",
+              "El lead buscat compra serveis per a l’empresa; no busca feina. La revisió de la llista ha de conservar aquesta distinció."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client."
+          },
+          {
+            "heading": "Una empresa de formació contacta amb un operador amb diverses seus",
+            "fact": "Un operador fictici anuncia una seu nova; la funció d’operacions inclou l’obertura.",
+            "unknown": "No s’han avaluat el pla de formació, els requisits legals ni el calendari de compres.",
+            "message": "Hola, [nom],\n\nPer a l’obertura de [seu nova], qui coordina la incorporació entre els equips actuals i els nous?\n\nTreballem en formació pràctica per a responsables, basada en situacions reals de l’equip. Si incorporeu supervisors nous durant l’obertura, podríem comentar un taller breu centrat en les decisions que afrontaran.\n\nNo sé si ja teniu coberta la formació. Et resulta pertinent o ho deixem aquí?\n\nGràcies,\n[remitent]",
+            "notes": [
+              "El missatge connecta l’obertura amb una responsabilitat operativa rellevant, en lloc de resumir tot el web.",
+              "Descriu la feina sense garantir productivitat, compliment normatiu ni resultats formatius.",
+              "La persona pot indicar amb naturalitat que ja està resolt o que no és pertinent."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client."
+          },
+          {
+            "heading": "Un estudi de disseny contacta amb un responsable de producte",
+            "fact": "Una empresa fictícia de programari publica un mòdul d’informes i documentació del producte.",
+            "unknown": "Una funció nova no demostra problemes d’usabilitat, baixa activació ni un redisseny previst.",
+            "message": "Hola, [nom],\n\nEl nou [mòdul d’informes] s’adreça als mateixos usuaris del tauler actual o a un altre equip?\n\nAjudem equips de producte a resoldre aquestes decisions del primer ús. Si reviseu com un perfil nou troba l’informe adequat, podríem comentar un recorregut concret, sense proposar redissenyar-ho tot.\n\nSi ja està resolt, cap problema. És un tema que portes tu?\n\nGràcies,\n[remitent]",
+            "notes": [
+              "Una distinció real del producte justifica la pregunta; no s’inventa un embut trencat.",
+              "La conversa proposada té límits concrets: un perfil i un recorregut inicial.",
+              "El tancament contingut planteja una pregunta real, sense prometre cap transformació."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client."
+          }
+        ]
+      },
+      {
+        "heading": "Revisa les fórmules prefabricades sense inventar un detector d’IA",
+        "body": [
+          "Paraules com «potenciar», «revolucionar» o «sense esforç» sovint afegeixen promeses sense contingut concret. Inicis repetits com «he vist que», «he notat que» o «m’ha impressionat» poden fer que un missatge investigat sembli muntat. Utilitza la llista per editar: substitueix promeses inflades i fórmules repetitives pel fet o la pregunta que importa. Cap frase demostra qui ha escrit el missatge, i una paraula corrent no és incorrecta per si sola."
+        ],
+        "table": {
+          "caption": "D’una fórmula genèrica a una pregunta fonamentada",
+          "headers": [
+            "Esborrany per revisar",
+            "Alternativa",
+            "Motiu"
+          ],
+          "rows": [
+            [
+              "He vist el vostre creixement impressionant.",
+              "Obriu la segona oficina al [mes]. Qui coordina el suport entre totes dues?",
+              "Un fet comprovat justifica una pregunta concreta, sense elogis infundats."
+            ],
+            [
+              "Podem impulsar una transformació sense esforç.",
+              "Podem revisar un recorregut d’incorporació amb el vostre equip de producte.",
+              "Anomena la feina real i els seus límits."
+            ],
+            [
+              "En relació al vostre llançament…",
+              "Sobre [llançament concret]…",
+              "Utilitza una redacció natural i correcta, sense substituir paraules de manera forçada."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Conserva l’estructura; reescriu el paràgraf de negoci",
+        "body": [
+          "L’estructura pot incloure salutació, context real, presentació breu, rellevància individual i pas següent raonable. El paràgraf de negoci ha de canviar amb l’empresa i la funció. Pregunta: serviria per a una empresa no relacionada si només canviés el nom? Si és així, probablement cal treballar més la rellevància. Utilitza una observació concreta només si pots explicar-ne la relació amb l’oferta.",
+          "No inventis bromes compartides, coneixement local, relació personal ni resultats de clients. La veu real del remitent pot incloure una salutació càlida o una explicació més extensa quan toca. Llegeix el missatge en veu alta: ho diria aquella persona i podria el destinatari respondre sense desxifrar un eslògan?"
+        ]
+      },
+      {
+        "heading": "Extensió, seguiment i canal següent",
+        "body": [
+          "No hi ha un nombre de paraules que faci humà un correu. Conserva el detall necessari per explicar una idea útil i elimina repeticions. Un primer correu més llarg pot ser adequat; no justifica allargar el seguiment programat. Beespoke acostuma a utilitzar l’inici i un recordatori breu, sovint uns quatre dies després. La persona pot rellegir l’original; no cal tornar-li a vendre l’oferta.",
+          "Tria la plataforma inicial segons l’activitat rellevant de la persona. LinkedIn pot anar primer per a algú que hi és actiu; en altres casos pot començar el correu. Davant la manca de resposta, pot tenir sentit un altre canal coordinat. Una resposta canvia el pla i un rebuig no permet repetir la proposta per una altra via. Les trucades mantenen abast i pressupost separats."
+        ]
+      },
+      {
+        "heading": "Aprova els contactes i avalua el resultat amb rigor",
+        "body": [
+          "La principal aportació del client és el seu criteri sobre l’encaix dels contactes. Beespoke aporta recerca, redacta missatges, configura l’activitat autoritzada i gestiona respostes, qualificació i coordinació de l’agenda. El client conserva diagnòstic comercial, propostes i tancament. Confirma la reserva mitjançant accés autoritzat al calendari o CRM, o confirmació del client; obertura, resposta o clic són observacions diferents.",
+          "Un exemple anotat explica una decisió de redacció; no demostra que una frase causés una resposta. Compara respostes rellevants i resultats posteriors verificats dins de la cohort correcta. Explicita canvis de moment, públic, canal i oferta, i no publiquis evidències identificatives de clients o contactes per fer l’exemple més convincent."
+        ]
+      }
+    ],
+    "related": [
+      "/services/cold-email-lead-generation/",
+      "/guides/cold-email-agency/",
+      "/guides/cold-email-follow-up/"
+    ],
+    "faqs": [
+      {
+        "question": "Què és la personalització de cold email?",
+        "answer": "Connecta un fet empresarial comprovat, una funció rellevant i una pregunta útil amb l’oferta real. Canviar un nom o afegir elogis no demostra aquesta rellevància."
+      },
+      {
+        "question": "La IA pot ajudar a redactar cold emails?",
+        "answer": "Pot ajudar a redactar i editar, però una persona ha de comprovar fets, rellevància, veu del remitent i afirmacions permeses. La revisió de frases és una ajuda editorial, no un detector d’autoria."
+      },
+      {
+        "question": "Tot cold email ha de ser breu?",
+        "answer": "Conserva només el context útil, sense imposar una extensió universal. Un inici més llarg i pertinent pot ser adequat. Un seguiment breu normalment no necessita repetir tota la proposta."
+      },
+      {
+        "question": "Són plantilles guanyadores demostrades?",
+        "answer": "No. Els quatre casos són exemples formatius expressament ficticis. Les anotacions expliquen decisions, no taxes de resposta, reserves ni efectes causals verificats."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Clay — B2B cold-email copywriting",
+        "href": "https://www.clay.com/blog/b2b-cold-email-copywriting"
+      },
+      {
+        "label": "Copyhackers — cold-email example and analysis",
+        "href": "https://copyhackers.com/2017/09/cold-emails/"
+      },
+      {
+        "label": "Mailtrap — personalization",
+        "href": "https://mailtrap.io/blog/cold-email-personalization/"
+      },
+      {
+        "label": "Lavender — personalization process",
+        "href": "https://lavender.ai/blog/how-to-build-a-cold-email-personalization-process"
+      }
+    ],
+    "sourceMethodology": "El mètode operatiu prové del fundador de Beespoke. Els exemples són situacions formatives, tret que s’identifiquin expressament com a adaptacions inspeccionades i anonimitzades. Les fonts orienten les preguntes tractades; els seus resultats no es presenten com a nostres.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Treballa la teva decisió",
+      "heading": "Fitxa de revisió: de la recerca al missatge",
+      "intro": "Registra les evidències, el motiu individual per contactar i el responsable següent. Mantén visibles les incògnites.",
+      "navLabel": "Fitxa de revisió: de la recerca al missatge",
+      "note": "Notes privades: no hi introdueixis informació confidencial ni identificativa. No es carrega ni desa res; exporta el que calgui abans de sortir."
+    },
+    "workbook": {
+      "fields": [
+        "Empresa i funció rellevant",
+        "Fet observat i font/data",
+        "Incògnites que han de quedar obertes",
+        "Motiu de rellevància per a aquesta persona",
+        "Missatge o acció següent",
+        "Resposta o condició d’aturada",
+        "Responsable i verificació"
+      ],
+      "legend": "Fitxa de revisió: de la recerca al missatge",
+      "reportTitle": "Fitxa de revisió: de la recerca al missatge",
+      "samples": [
+        [
+          "Un MSP contacta amb la persona responsable d’operacions",
+          "Una empresa fictícia anuncia una segona oficina al seu web. La persona contactada dirigeix operacions.",
+          "Es desconeixen proveïdor de TI, venciments, pressupost i problema real de suport.",
+          "L’inici es refereix directament a l’expansió observada, sense «he vist que» ni elogis inventats.",
+          "Hola, [nom],\n\nAmb la segona oficina hi haurà un altre equip que necessiti suport informàtic diari. Coordines tu aquest servei entre les dues seus?\n\nAjudem empreses de [zona de servei] a mantenir un mateix procés de suport entre oficines. No sé com ho gestioneu avui, així que no donaria per fet que necessiteu canviar de proveïdor. Si esteu revisant la cobertura, seria útil una conversa breu sobre les dues seus?\n\nGràcies,\n[remitent]",
+          "Fes un seguiment breu només si no hi ha resposta; davant d’una resposta, atura o canvia el pla.",
+          "Responsable de campanya; reserva sense verificar en aquest exemple fictici."
+        ],
+        [
+          "Una consultora de selecció especialitzada contacta amb una empresa",
+          "Una empresa fictícia publica diverses vacants d’enginyeria en una localitat. El contacte dirigeix enginyeria.",
+          "Les vacants no demostren dificultats de contractació, pressupost per a agències ni permís per enviar dades de candidats.",
+          "Les vacants generen una pregunta concreta, no una afirmació que l’empresa tingui dificultats.",
+          "Hola, [nom],\n\nEl vostre equip intern gestiona íntegrament els llocs de [especialitat] publicats a la pàgina de feina?\n\nSeleccionem perfils d’aquesta especialitat i podríem donar suport a una part concreta de la cerca si us és útil ajuda externa. Abans d’enviar res, prefereixo entendre l’experiència que necessiteu i si treballeu amb consultores de selecció.\n\nSeries la persona adequada per a aquesta consulta?\n\nGràcies,\n[remitent]",
+          "Fes un seguiment breu només si no hi ha resposta; davant d’una resposta, atura o canvia el pla.",
+          "Responsable de campanya; reserva sense verificar en aquest exemple fictici."
+        ],
+        [
+          "Una empresa de formació contacta amb un operador amb diverses seus",
+          "Un operador fictici anuncia una seu nova; la funció d’operacions inclou l’obertura.",
+          "No s’han avaluat el pla de formació, els requisits legals ni el calendari de compres.",
+          "El missatge connecta l’obertura amb una responsabilitat operativa rellevant, en lloc de resumir tot el web.",
+          "Hola, [nom],\n\nPer a l’obertura de [seu nova], qui coordina la incorporació entre els equips actuals i els nous?\n\nTreballem en formació pràctica per a responsables, basada en situacions reals de l’equip. Si incorporeu supervisors nous durant l’obertura, podríem comentar un taller breu centrat en les decisions que afrontaran.\n\nNo sé si ja teniu coberta la formació. Et resulta pertinent o ho deixem aquí?\n\nGràcies,\n[remitent]",
+          "Fes un seguiment breu només si no hi ha resposta; davant d’una resposta, atura o canvia el pla.",
+          "Responsable de campanya; reserva sense verificar en aquest exemple fictici."
+        ],
+        [
+          "Un estudi de disseny contacta amb un responsable de producte",
+          "Una empresa fictícia de programari publica un mòdul d’informes i documentació del producte.",
+          "Una funció nova no demostra problemes d’usabilitat, baixa activació ni un redisseny previst.",
+          "Una distinció real del producte justifica la pregunta; no s’inventa un embut trencat.",
+          "Hola, [nom],\n\nEl nou [mòdul d’informes] s’adreça als mateixos usuaris del tauler actual o a un altre equip?\n\nAjudem equips de producte a resoldre aquestes decisions del primer ús. Si reviseu com un perfil nou troba l’informe adequat, podríem comentar un recorregut concret, sense proposar redissenyar-ho tot.\n\nSi ja està resolt, cap problema. És un tema que portes tu?\n\nGràcies,\n[remitent]",
+          "Fes un seguiment breu només si no hi ha resposta; davant d’una resposta, atura o canvia el pla.",
+          "Responsable de campanya; reserva sense verificar en aquest exemple fictici."
+        ],
+        [
+          "Revisió de contactes",
+          "Empresa i funció proposades per revisar",
+          "Falta el criteri del client",
+          "No enviar fins a acordar encaix i exclusions",
+          "Obtenir aprovació de contactes",
+          "Pendent",
+          "Responsable de contactes del client"
+        ],
+        [
+          "Evidències de reserva",
+          "Una resposta fictícia demana l’enllaç d’agenda",
+          "No hi ha reserva ni reunió celebrada verificades",
+          "L’interès no és el resultat final",
+          "Compartir l’enllaç autoritzat i verificar el resultat",
+          "Aturar la seqüència automàtica en rebre resposta",
+          "Responsable de respostes / agenda del client"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Abans de lliurar-ho a un proveïdor",
+      "body": [
+        "Revisa conjuntament encaix, evidències i responsabilitats. Un missatge útil no demostra una reserva ni una oportunitat qualificada."
+      ],
+      "items": [
+        "Aprova les persones proposades i les exclusions.",
+        "Comprova la font de cada afirmació concreta i explicita les incògnites.",
+        "Acorda canal autoritzat, seguiment breu, responsable de respostes i condicions d’aturada.",
+        "Verifica el resultat de l’agenda mitjançant accés autoritzat o confirmació del client."
+      ]
+    }
+  },
+  "fr": {
+    "title": "Rédaction de cold email B2B : personnalisation et exemples | Beespoke",
+    "description": "Rédigez des cold emails B2B pertinents pour chaque personne : quatre exemples annotés, raisonnement documenté, outil privé de révision et fiche exportable.",
+    "eyebrow": "La pertinence individuelle avant la structure réutilisable",
+    "h1": "Rédaction de cold email B2B : montrer pourquoi cette personne est concernée",
+    "answer": "Un bon cold email B2B associe une raison documentée de contacter une personne précise, une explication claire de l’offre et une prochaine étape proportionnée. La personnalisation modifie le fond, pas seulement le prénom. Séparez observations et hypothèses, écrivez naturellement avec ou sans IA et privilégiez des relances courtes. Les exemples et outils privés aident à examiner ces choix, sans prédire réponses ou rendez-vous.",
+    "path": "/guides/b2b-cold-email-copywriting/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Rédiger un cold email commence par une raison d’écrire",
+        "body": [
+          "La rédaction d’un cold email B2B transforme une pertinence documentée en un message qu’une personne précise peut comprendre et auquel elle peut répondre. Personnaliser consiste à expliquer pourquoi cette offre et cette question concernent cet interlocuteur maintenant. Un prénom, un compliment ou un résumé du site ne suffisent pas. Partez de son travail et d’un fait vérifiable, puis formulez une demande utile et proportionnée.",
+          "Beespoke utilise une structure commune tout en recherchant et rédigeant individuellement le contenu essentiel. Le client valide les interlocuteurs proposés et leur pertinence ; nous fournissons la recherche, les textes et la configuration autorisée. Le naturel compte, que le premier brouillon soit humain ou assisté par IA. Il doit traduire une vraie raison de contacter la personne, plutôt que masquer son absence."
+        ]
+      },
+      {
+        "heading": "Séparez observation, hypothèse et question",
+        "body": [
+          "Notez la source et le fait exact avant de rédiger. « L’entreprise a annoncé un deuxième site » est une observation. « Son support est défaillant » est une hypothèse sans preuve. « Qui coordonne le support entre les deux sites ? » est une question que ce fait peut raisonnablement justifier. Vérifiez le périmètre actuel de l’interlocuteur et la capacité réelle de votre service à traiter le sujet, s’il existe.",
+          "Ne transformez pas une annonce publique en urgence inventée, budget privé, échéance contractuelle ou intérêt personnel. Si les éléments ne justifient pas une question pertinente, poursuivez la recherche ou écartez le contact. Un paragraphe fluide ne corrige pas un mauvais ciblage."
+        ]
+      },
+      {
+        "heading": "Quatre exemples de cold email B2B avec leur raisonnement",
+        "body": [
+          "Ces situations fictives complètes montrent les observations, les inconnues et les raisons d’un langage mesuré. Les notes numérotées à côté du message permettent d’examiner les décisions sans copier une prétendue formule gagnante. Remplacez chaque variable par des faits vérifiés avant toute utilisation."
+        ],
+        "examples": [
+          {
+            "heading": "Un prestataire informatique approche la direction des opérations",
+            "fact": "Une entreprise fictive annonce un deuxième bureau sur son site. La personne contactée dirige les opérations.",
+            "unknown": "Le prestataire actuel, les échéances, le budget et les difficultés réelles de support sont inconnus.",
+            "message": "Bonjour [prénom],\n\nAvec votre deuxième bureau, une autre équipe aura bientôt besoin d’assistance informatique au quotidien. Est-ce vous qui coordonnez ce service entre les deux sites ?\n\nNous aidons les entreprises de [zone desservie] à conserver un même processus de support entre bureaux. Je ne connais pas votre organisation actuelle et ne suppose donc pas que vous cherchiez à changer de prestataire. Si la couverture fait partie de vos sujets, un bref échange sur les deux sites serait-il utile ?\n\nMerci,\n[expéditeur]",
+            "notes": [
+              "L’ouverture évoque directement l’expansion observée, sans formule « j’ai remarqué » ni éloge inventé.",
+              "La question sur les responsabilités permet une correction ; le message ne prétend pas connaître l’organisation interne.",
+              "L’invitation conditionnelle évite d’inventer une insatisfaction, une urgence ou un projet de remplacement."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué."
+          },
+          {
+            "heading": "Un cabinet de recrutement spécialisé approche un employeur",
+            "fact": "Un employeur fictif publie plusieurs postes d’ingénierie sur un même site. Le contact dirige l’ingénierie.",
+            "unknown": "Ces postes ne prouvent ni échec de recrutement, ni budget de cabinet, ni autorisation d’envoyer des données de candidats.",
+            "message": "Bonjour [prénom],\n\nLes postes en [spécialité] publiés sur votre page carrières sont-ils entièrement gérés par votre équipe interne ?\n\nNous recrutons dans ce domaine et pourrions intervenir sur une partie précise de la recherche si un soutien externe est utile. Avant d’envoyer quoi que ce soit, je préfère comprendre l’expérience recherchée et savoir si vous travaillez avec des cabinets.\n\nSeriez-vous la bonne personne pour cette question ?\n\nMerci,\n[expéditeur]",
+            "notes": [
+              "Les postes publiés suscitent une question précise, sans affirmer que l’employeur rencontre des difficultés.",
+              "L’offre délimite la contribution et vérifie le processus d’achat avant tout envoi de documents.",
+              "Le contact recherché achète pour l’employeur ; il ne recherche pas un emploi. La validation de la liste doit préserver cette distinction."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué."
+          },
+          {
+            "heading": "Un organisme de formation approche une entreprise multisite",
+            "fact": "Une entreprise fictive annonce un nouveau site ; les opérations couvrent son ouverture.",
+            "unknown": "Le plan de formation, les obligations légales et le calendrier d’achat ne sont pas évalués.",
+            "message": "Bonjour [prénom],\n\nPour l’ouverture du [nouveau site], qui coordonne l’intégration entre les équipes actuelles et les nouvelles ?\n\nNous proposons des formations pratiques pour les responsables, à partir des situations réelles de leurs équipes. Si de nouveaux superviseurs rejoignent ce déploiement, nous pourrions discuter d’un petit atelier consacré aux décisions qu’ils devront prendre.\n\nJe ne sais pas si la formation est déjà prévue. Ce sujet vous concerne-t-il, ou préférez-vous que nous en restions là ?\n\nMerci,\n[expéditeur]",
+            "notes": [
+              "Le message relie l’ouverture à une responsabilité opérationnelle pertinente, plutôt que de résumer tout le site.",
+              "Il décrit le travail sans garantir productivité, conformité réglementaire ou résultat pédagogique.",
+              "Le destinataire peut simplement indiquer que le sujet est déjà traité ou sans pertinence."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué."
+          },
+          {
+            "heading": "Un studio de design approche un responsable produit",
+            "fact": "Un éditeur fictif publie un module de reporting et sa documentation produit.",
+            "unknown": "Une nouvelle fonctionnalité ne prouve ni difficulté d’utilisation, ni faible activation, ni projet de refonte.",
+            "message": "Bonjour [prénom],\n\nLe nouveau [module de reporting] s’adresse-t-il aux utilisateurs du tableau de bord actuel ou à une autre équipe ?\n\nNous aidons les équipes produit à résoudre ces questions de première utilisation. Si vous examinez comment un nouveau rôle trouve le bon rapport, nous pourrions échanger sur un parcours précis, sans proposer de tout refaire.\n\nSi le sujet est déjà réglé, aucun problème. Est-ce vous qui le suivez ?\n\nMerci,\n[expéditeur]",
+            "notes": [
+              "Une différence produit réelle justifie la question ; l’expéditeur n’invente pas un parcours défaillant.",
+              "La discussion proposée a un périmètre précis : un rôle et un parcours de première utilisation.",
+              "La conclusion mesurée pose une vraie question, sans promettre une transformation."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué."
+          }
+        ]
+      },
+      {
+        "heading": "Révisez les formules toutes faites sans inventer un détecteur d’IA",
+        "body": [
+          "Des mots comme « révolutionner », « optimiser sans effort » ou « en toute fluidité » ajoutent souvent des promesses sans précision. Des ouvertures répétées comme « j’ai vu que », « j’ai remarqué que » ou « j’ai été impressionné » peuvent donner une impression d’assemblage. Utilisez la liste comme aide à la révision : remplacez les promesses vagues et les formules répétitives par le fait ou la question utile. Aucune expression ne prouve l’auteur d’un message, et un mot courant n’est pas automatiquement fautif."
+        ],
+        "table": {
+          "caption": "D’une formule générique à une question documentée",
+          "headers": [
+            "Brouillon à revoir",
+            "Autre direction",
+            "Pourquoi"
+          ],
+          "rows": [
+            [
+              "J’ai remarqué votre croissance impressionnante.",
+              "Votre deuxième bureau ouvre en [mois]. Qui coordonne le support des deux sites ?",
+              "Un événement vérifié justifie une question précise, sans éloge gratuit."
+            ],
+            [
+              "Nous pouvons révolutionner votre activité en toute fluidité.",
+              "Nous pouvons examiner un parcours d’intégration avec votre équipe produit.",
+              "Nommez le travail réel et ses limites."
+            ],
+            [
+              "Concernant à votre lancement…",
+              "Concernant [le lancement précis]…",
+              "Gardez une formulation naturelle et correcte, plutôt qu’un remplacement forcé."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Gardez la structure, réécrivez le paragraphe commercial",
+        "body": [
+          "Une structure peut réunir salutation, contexte réel, brève présentation, pertinence individuelle et prochaine étape raisonnable. Le paragraphe commercial doit changer selon l’entreprise et le rôle. Demandez-vous s’il conviendrait à une entreprise sans rapport en remplaçant simplement son nom. Si oui, la pertinence demande probablement plus de travail. N’utilisez une observation précise que si vous pouvez expliquer son lien avec l’offre.",
+          "N’inventez ni plaisanterie partagée, ni connaissance locale, ni relation personnelle, ni résultat client. La vraie voix de l’expéditeur peut comprendre une ouverture chaleureuse ou une explication plus longue lorsque cela convient. Lisez le message à voix haute : cette personne le dirait-elle, et le destinataire peut-il répondre sans décoder un slogan ?"
+        ]
+      },
+      {
+        "heading": "Longueur, relance et canal suivant",
+        "body": [
+          "Aucun nombre de mots ne rend un email humain. Conservez les précisions nécessaires à une idée utile et retirez les répétitions. Un premier email plus long peut convenir, sans justifier une longue relance programmée. Beespoke utilise généralement le premier message et un court rappel, souvent environ quatre jours plus tard. Le destinataire peut relire l’original ; le rappel n’a pas à vendre l’offre une seconde fois.",
+          "Choisissez le premier canal selon l’activité pertinente de la personne. LinkedIn peut venir en premier pour un utilisateur actif ; l’email peut convenir dans d’autres cas. Après une absence de réponse, un autre canal coordonné peut être pertinent. Une réponse modifie le plan et un refus ne justifie pas de répéter la proposition ailleurs. Les appels gardent un périmètre et un devis distincts."
+        ]
+      },
+      {
+        "heading": "Validez les cibles et évaluez honnêtement le résultat",
+        "body": [
+          "La principale contribution du client est son jugement sur la pertinence des contacts. Beespoke fournit la recherche, rédige les messages, configure l’activité autorisée et gère les réponses, la qualification et les agendas. Le client conserve la découverte, les propositions et la conclusion. Confirmez la réservation par un accès autorisé à l’agenda ou au CRM, ou par le client ; une ouverture, une réponse ou un clic sont des observations différentes.",
+          "Un exemple annoté explique un choix de rédaction ; il ne prouve pas qu’une phrase a provoqué une réponse. Comparez les réponses pertinentes et les résultats ultérieurs vérifiés dans la bonne cohorte. Rendez visibles les changements de moment, de public, de canal et d’offre, et ne publiez pas d’éléments identifiants sur un client ou un prospect pour rendre l’exemple plus convaincant."
+        ]
+      }
+    ],
+    "related": [
+      "/services/cold-email-lead-generation/",
+      "/guides/cold-email-agency/",
+      "/guides/cold-email-follow-up/"
+    ],
+    "faqs": [
+      {
+        "question": "Qu’est-ce que la personnalisation d’un cold email ?",
+        "answer": "Elle relie un fait vérifié sur l’entreprise, le rôle pertinent d’une personne et une question utile à l’offre réelle. Changer un nom ou ajouter un compliment ne suffit pas."
+      },
+      {
+        "question": "L’IA peut-elle aider à rédiger des cold emails ?",
+        "answer": "Elle peut aider à rédiger et réviser, mais une personne doit vérifier les faits, la pertinence, la voix et les affirmations autorisées. Notre revue des expressions est une aide éditoriale, pas un détecteur d’auteur."
+      },
+      {
+        "question": "Tout cold email doit-il être court ?",
+        "answer": "Gardez le contexte utile sans imposer de longueur universelle. Une ouverture individuelle plus développée peut convenir. Une courte relance n’a généralement pas à reprendre tout l’argumentaire."
+      },
+      {
+        "question": "Ces modèles sont-ils des formules gagnantes prouvées ?",
+        "answer": "Non. Les quatre cas sont explicitement fictifs et pédagogiques. Leurs annotations expliquent des choix, pas des taux de réponse, des réservations ou des effets causaux vérifiés."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Clay — B2B cold-email copywriting",
+        "href": "https://www.clay.com/blog/b2b-cold-email-copywriting"
+      },
+      {
+        "label": "Copyhackers — cold-email example and analysis",
+        "href": "https://copyhackers.com/2017/09/cold-emails/"
+      },
+      {
+        "label": "Mailtrap — personalization",
+        "href": "https://mailtrap.io/blog/cold-email-personalization/"
+      },
+      {
+        "label": "Lavender — personalization process",
+        "href": "https://lavender.ai/blog/how-to-build-a-cold-email-personalization-process"
+      }
+    ],
+    "sourceMethodology": "La méthode opérationnelle est décrite par le fondateur de Beespoke. Les exemples sont des situations de formation, sauf indication explicite d’une adaptation inspectée et anonymisée. Les sources éclairent les questions traitées ; leurs résultats ne sont pas présentés comme les nôtres.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Préparez votre propre décision",
+      "heading": "Fiche de révision : de la recherche au message",
+      "intro": "Notez les éléments observés, la raison individuelle du contact et le prochain responsable. Gardez les inconnues visibles.",
+      "navLabel": "Fiche de révision : de la recherche au message",
+      "note": "Notes privées : ne saisissez aucune information confidentielle ou permettant une identification. Rien n’est transmis ni enregistré ; exportez les éléments utiles avant de partir."
+    },
+    "workbook": {
+      "fields": [
+        "Entreprise et rôle pertinent",
+        "Fait observé et source/date",
+        "Inconnues à conserver",
+        "Raison de la pertinence pour cette personne",
+        "Message ou prochaine action",
+        "Réponse ou condition d’arrêt",
+        "Responsable et vérification"
+      ],
+      "legend": "Fiche de révision : de la recherche au message",
+      "reportTitle": "Fiche de révision : de la recherche au message",
+      "samples": [
+        [
+          "Un prestataire informatique approche la direction des opérations",
+          "Une entreprise fictive annonce un deuxième bureau sur son site. La personne contactée dirige les opérations.",
+          "Le prestataire actuel, les échéances, le budget et les difficultés réelles de support sont inconnus.",
+          "L’ouverture évoque directement l’expansion observée, sans formule « j’ai remarqué » ni éloge inventé.",
+          "Bonjour [prénom],\n\nAvec votre deuxième bureau, une autre équipe aura bientôt besoin d’assistance informatique au quotidien. Est-ce vous qui coordonnez ce service entre les deux sites ?\n\nNous aidons les entreprises de [zone desservie] à conserver un même processus de support entre bureaux. Je ne connais pas votre organisation actuelle et ne suppose donc pas que vous cherchiez à changer de prestataire. Si la couverture fait partie de vos sujets, un bref échange sur les deux sites serait-il utile ?\n\nMerci,\n[expéditeur]",
+          "Relancez brièvement uniquement sans réponse ; après une réponse, arrêtez ou adaptez le plan.",
+          "Responsable de campagne ; réservation non vérifiée dans cet exemple fictif."
+        ],
+        [
+          "Un cabinet de recrutement spécialisé approche un employeur",
+          "Un employeur fictif publie plusieurs postes d’ingénierie sur un même site. Le contact dirige l’ingénierie.",
+          "Ces postes ne prouvent ni échec de recrutement, ni budget de cabinet, ni autorisation d’envoyer des données de candidats.",
+          "Les postes publiés suscitent une question précise, sans affirmer que l’employeur rencontre des difficultés.",
+          "Bonjour [prénom],\n\nLes postes en [spécialité] publiés sur votre page carrières sont-ils entièrement gérés par votre équipe interne ?\n\nNous recrutons dans ce domaine et pourrions intervenir sur une partie précise de la recherche si un soutien externe est utile. Avant d’envoyer quoi que ce soit, je préfère comprendre l’expérience recherchée et savoir si vous travaillez avec des cabinets.\n\nSeriez-vous la bonne personne pour cette question ?\n\nMerci,\n[expéditeur]",
+          "Relancez brièvement uniquement sans réponse ; après une réponse, arrêtez ou adaptez le plan.",
+          "Responsable de campagne ; réservation non vérifiée dans cet exemple fictif."
+        ],
+        [
+          "Un organisme de formation approche une entreprise multisite",
+          "Une entreprise fictive annonce un nouveau site ; les opérations couvrent son ouverture.",
+          "Le plan de formation, les obligations légales et le calendrier d’achat ne sont pas évalués.",
+          "Le message relie l’ouverture à une responsabilité opérationnelle pertinente, plutôt que de résumer tout le site.",
+          "Bonjour [prénom],\n\nPour l’ouverture du [nouveau site], qui coordonne l’intégration entre les équipes actuelles et les nouvelles ?\n\nNous proposons des formations pratiques pour les responsables, à partir des situations réelles de leurs équipes. Si de nouveaux superviseurs rejoignent ce déploiement, nous pourrions discuter d’un petit atelier consacré aux décisions qu’ils devront prendre.\n\nJe ne sais pas si la formation est déjà prévue. Ce sujet vous concerne-t-il, ou préférez-vous que nous en restions là ?\n\nMerci,\n[expéditeur]",
+          "Relancez brièvement uniquement sans réponse ; après une réponse, arrêtez ou adaptez le plan.",
+          "Responsable de campagne ; réservation non vérifiée dans cet exemple fictif."
+        ],
+        [
+          "Un studio de design approche un responsable produit",
+          "Un éditeur fictif publie un module de reporting et sa documentation produit.",
+          "Une nouvelle fonctionnalité ne prouve ni difficulté d’utilisation, ni faible activation, ni projet de refonte.",
+          "Une différence produit réelle justifie la question ; l’expéditeur n’invente pas un parcours défaillant.",
+          "Bonjour [prénom],\n\nLe nouveau [module de reporting] s’adresse-t-il aux utilisateurs du tableau de bord actuel ou à une autre équipe ?\n\nNous aidons les équipes produit à résoudre ces questions de première utilisation. Si vous examinez comment un nouveau rôle trouve le bon rapport, nous pourrions échanger sur un parcours précis, sans proposer de tout refaire.\n\nSi le sujet est déjà réglé, aucun problème. Est-ce vous qui le suivez ?\n\nMerci,\n[expéditeur]",
+          "Relancez brièvement uniquement sans réponse ; après une réponse, arrêtez ou adaptez le plan.",
+          "Responsable de campagne ; réservation non vérifiée dans cet exemple fictif."
+        ],
+        [
+          "Validation des cibles",
+          "Entreprise et rôle proposés à la validation",
+          "Validation du client encore nécessaire",
+          "Ne pas envoyer avant accord sur pertinence et exclusions",
+          "Obtenir la validation des cibles",
+          "En attente",
+          "Responsable du ciblage côté client"
+        ],
+        [
+          "Preuve de réservation",
+          "Une réponse fictive demande le lien de réservation",
+          "Aucune réservation ni rencontre tenue établie",
+          "L’intérêt n’est pas le résultat final",
+          "Partager le lien autorisé et vérifier le résultat",
+          "Arrêter la séquence automatique après une réponse",
+          "Responsable des réponses / agenda du client"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Avant de transmettre ce travail à un prestataire",
+      "body": [
+        "Examinez ensemble la pertinence, les preuves et les responsabilités. Un message utile ne prouve ni réservation ni opportunité qualifiée."
+      ],
+      "items": [
+        "Validez les interlocuteurs proposés et les exclusions.",
+        "Vérifiez la source de chaque affirmation précise et explicitez les inconnues.",
+        "Convenez du canal autorisé, de la courte relance, du responsable des réponses et des conditions d’arrêt.",
+        "Vérifiez le résultat dans l’agenda par un accès autorisé ou une confirmation du client."
+      ]
+    }
+  }
+}

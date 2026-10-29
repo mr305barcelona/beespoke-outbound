@@ -1799,5 +1799,160 @@
       "Crawl/index/ranking decisions and actual buyer demand",
       "Inspected sources are a bounded sample, not every competing page"
     ]
+  },
+  {
+    "path": "/guides/b2b-cold-email-copywriting/",
+    "query": "cold email copywriting",
+    "reviewed": "2026-10-29",
+    "serpDifficulty": "Dated Semrush estimate and current intent review; not a ranking forecast",
+    "keywordEvidence": {
+      "provider": "Semrush",
+      "database": "US",
+      "device": "Desktop",
+      "checkedOn": "2026-10-29",
+      "estimatedMonthlyVolume": 210,
+      "keywordDifficulty": 16
+    },
+    "competitors": [
+      "https://www.clay.com/blog/b2b-cold-email-copywriting",
+      "https://copyhackers.com/2017/09/cold-emails/",
+      "https://mailtrap.io/blog/cold-email-personalization/",
+      "https://lavender.ai/blog/how-to-build-a-cold-email-personalization-process"
+    ],
+    "serpRequirements": [
+      "relevance before first-name tokens",
+      "research-to-message chain",
+      "clear sender voice",
+      "complete messages with rationale",
+      "poor-to-better wording choices",
+      "source and inference boundaries",
+      "next-step and follow-up ownership"
+    ],
+    "beespokeAdvantages": [
+      "Four full annotated research-to-message cases",
+      "Local phrase-review tool explicitly avoids authorship scores",
+      "Private source/unknown/message decision workbook"
+    ],
+    "externalConstraints": [
+      "Established competing publisher authority and relevant earned links",
+      "Real niche/client evidence cannot be replaced by fictional training material",
+      "Crawl, indexation, buyer intent and commercial outcomes still need measurement",
+      "Inspected source sample is bounded; native Google redirects were not treated as a universal domain ranking census"
+    ]
+  },
+  {
+    "path": "/guides/cold-email-follow-up/",
+    "query": "cold email follow up",
+    "reviewed": "2026-10-29",
+    "serpDifficulty": "Dated Semrush estimate and current intent review; not a ranking forecast",
+    "keywordEvidence": {
+      "provider": "Semrush",
+      "database": "US",
+      "device": "Desktop",
+      "checkedOn": "2026-10-29",
+      "estimatedMonthlyVolume": 1000,
+      "keywordDifficulty": 24
+    },
+    "competitors": [
+      "https://www.gmass.co/blog/cold-email-follow-up/",
+      "https://www.saleshandy.com/blog/cold-email-sequence/"
+    ],
+    "serpRequirements": [
+      "first-message context",
+      "complete short sequences",
+      "timing tied to actual sending",
+      "reply-specific routing",
+      "stopping and decline handling",
+      "channel coordination",
+      "booking evidence separate from replies"
+    ],
+    "beespokeAdvantages": [
+      "Three complete two-message sequences with decision annotations",
+      "Anonymized saved campaign reminder with accurate source limits",
+      "Private six-state reply-routing workbook"
+    ],
+    "externalConstraints": [
+      "Established competing publisher authority and relevant earned links",
+      "Real niche/client evidence cannot be replaced by fictional training material",
+      "Crawl, indexation, buyer intent and commercial outcomes still need measurement",
+      "Inspected source sample is bounded; native Google redirects were not treated as a universal domain ranking census"
+    ]
+  },
+  {
+    "path": "/guides/linkedin-prospecting-messages/",
+    "query": "linkedin prospecting messages",
+    "reviewed": "2026-10-29",
+    "serpDifficulty": "Dated Semrush estimate and current intent review; not a ranking forecast",
+    "keywordEvidence": {
+      "provider": "Semrush",
+      "database": "US",
+      "device": "Desktop",
+      "checkedOn": "2026-10-29",
+      "estimatedMonthlyVolume": 110,
+      "keywordDifficulty": 21
+    },
+    "competitors": [
+      "https://www.cognism.com/blog/linkedin-messaging-templates",
+      "https://nethunt.com/blog/how-to-write-high-converting-linkedin-prospecting-messages-templates/"
+    ],
+    "serpRequirements": [
+      "activity-based channel choice",
+      "connection versus first-message distinction",
+      "role-specific context",
+      "complete individual messages",
+      "concise no-reply follow-ups",
+      "reply and rejection routing",
+      "calendar verification"
+    ],
+    "beespokeAdvantages": [
+      "Four annotated individual first-message and reminder cases",
+      "Distinguishes profile activity, connection, interest and booking",
+      "Private channel/message workbook and non-scoring phrase review"
+    ],
+    "externalConstraints": [
+      "Established competing publisher authority and relevant earned links",
+      "Real niche/client evidence cannot be replaced by fictional training material",
+      "Crawl, indexation, buyer intent and commercial outcomes still need measurement",
+      "Inspected source sample is bounded; native Google redirects were not treated as a universal domain ranking census"
+    ]
+  },
+  {
+    "path": "/industries/logistics-lead-generation/",
+    "query": "lead generation for logistics companies",
+    "reviewed": "2026-10-29",
+    "serpDifficulty": "Dated Semrush estimate and current intent review; not a ranking forecast",
+    "keywordEvidence": {
+      "provider": "Semrush",
+      "database": "US",
+      "device": "Desktop",
+      "checkedOn": "2026-10-29",
+      "estimatedMonthlyVolume": 210,
+      "keywordDifficulty": 13
+    },
+    "competitors": [
+      "https://www.callboxinc.com/industries-we-serve/logistics-lead-generation/",
+      "https://sopro.io/solutions/lead-generation-for-logistics-companies/",
+      "https://www.cognism.com/blog/logistics-sales-leads"
+    ],
+    "serpRequirements": [
+      "freight versus3PL versuswarehousing segmentation",
+      "service geography and operating constraints",
+      "observed account evidence versus invented demand",
+      "buyer roles and multiple stakeholders",
+      "incumbent and procurement reality",
+      "complete qualification and handoff case",
+      "truthful niche proof and calling boundary"
+    ],
+    "beespokeAdvantages": [
+      "Complete fictional account-to-message-to-qualification workflow",
+      "Seven-field operational-fit workbook with six distinct stages",
+      "Explicit unknowns and no invented logistics-client outcome"
+    ],
+    "externalConstraints": [
+      "Established competing publisher authority and relevant earned links",
+      "Real niche/client evidence cannot be replaced by fictional training material",
+      "Crawl, indexation, buyer intent and commercial outcomes still need measurement",
+      "Inspected source sample is bounded; native Google redirects were not treated as a universal domain ranking census"
+    ]
   }
 ]

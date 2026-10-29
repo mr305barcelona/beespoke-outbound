@@ -11979,5 +11979,445 @@
         "Measure mature relevant outcomes, not activity alone."
       ]
     }
+  },
+  {
+    "path": "/guides/b2b-cold-email-copywriting/",
+    "serviceFamily": "outbound",
+    "title": "B2B Cold Email Copywriting: Annotated Examples | Beespoke",
+    "description": "Write individually relevant B2B cold emails. Four annotated examples, research-to-message reasoning, a private phrase-review tool and exportable review workbook.",
+    "eyebrow": "Individual relevance before a reusable structure",
+    "h1": "B2B cold-email copywriting: show why this person should care",
+    "answer": "Good B2B cold-email copywriting combines a researched reason to contact a particular person, a clear explanation of the offer and a proportionate next step. Personalization changes the substance, not just the name. Keep observations separate from assumptions, write naturally whether AI assisted or not, and use short follow-ups rather than repeated long pitches. The examples and private tools below help review those choices; they do not predict replies or meetings.",
+    "sections": [
+      {
+        "heading": "Cold-email copywriting starts with a reason to write",
+        "body": [
+          "B2B cold-email copywriting turns researched relevance into a message one particular person can understand and answer. Personalization is the explanation of why this offer and question belong with this person now. A first name, compliment or scraped company summary cannot supply that explanation. Start with the buyer’s work and a fact you can support; then make a useful, proportionate request.",
+          "Beespoke uses a shared structure while researching and writing the substantive message individually. The client approves the proposed people and fit; we supply the research, copy and authorized campaign setup. Human-sounding writing matters whether a person or AI produced the first draft. It should reflect a real reason to contact someone rather than conceal the absence of one."
+        ]
+      },
+      {
+        "heading": "Keep observation, inference and the question separate",
+        "body": [
+          "Write down the source and the exact fact before drafting. “The company announced a second site” is an observation. “Its support is failing” is an unsupported inference. “Who coordinates support across the two sites?” is a question that the observation can reasonably earn. Check the contact’s current remit and whether your actual service can address the issue if it exists.",
+          "Do not turn a public announcement into invented urgency, a private budget, a contract expiry or a personal interest. If the evidence does not support a relevant question, hold the person for more research or exclude them. A fluent paragraph cannot repair weak targeting."
+        ]
+      },
+      {
+        "heading": "Four B2B cold-email examples with the reasoning exposed",
+        "body": [
+          "These complete fictional situations show what was observed, what remains unknown and why the wording is restrained. The numbered notes sit beside the message so you can inspect the decisions rather than copy a supposedly winning script. Replace every placeholder with checked facts before using an example in your own work."
+        ]
+      },
+      {
+        "heading": "Review stock phrasing without inventing an AI detector",
+        "body": [
+          "Words such as “leverage”, “unlock”, “revolutionize” and “seamlessly” often add claims without concrete meaning. Repeated openings such as “I saw that”, “I noticed that” and “I was impressed by” can make researched messages sound assembled. Use the checklist as an editing prompt: replace inflated claims and repetitive framing with the specific fact or question that matters. No phrase proves who wrote a message, and an ordinary word is not automatically wrong."
+        ],
+        "table": {
+          "caption": "From generic phrasing to an evidenced question",
+          "headers": [
+            "Draft to review",
+            "Better direction",
+            "Why"
+          ],
+          "rows": [
+            [
+              "I noticed your impressive growth.",
+              "Your second office opens in [month]. Who owns support across both sites?",
+              "A checked event earns a specific role question; no unsupported praise."
+            ],
+            [
+              "We can unlock seamless transformation.",
+              "We can work through one onboarding journey with your product team.",
+              "Name the actual work and its boundary."
+            ],
+            [
+              "Regarding to your new launch…",
+              "On the [specific launch]…",
+              "Use natural, grammatical wording, not an awkward synonym swap."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Keep the structure; rewrite the actual business paragraph",
+        "body": [
+          "A structure can cover greeting, genuine context, a brief introduction, individual relevance and a reasonable next step. The business paragraph must change with the account and role. Ask: would this paragraph still work for an unrelated company after changing its name? If so, the relevance probably needs more work. Use a specific observation only when you can explain its connection to the offer.",
+          "Do not manufacture banter, local knowledge, a personal connection or a customer result. A sender’s real voice can include a warm opening or longer explanation when appropriate. Read the finished message aloud: would that person actually say it, and can the recipient answer without decoding a slogan?"
+        ]
+      },
+      {
+        "heading": "Length, follow-up and the next channel",
+        "body": [
+          "There is no word count that makes an email human. Keep the detail needed to explain a useful idea and remove repetition. A longer first email can be appropriate; that does not justify a longer programmed follow-up. Beespoke typically uses the opening plus one short reminder, often about four days later. The recipient can reread the original; the reminder need not sell the offer again.",
+          "Choose the initial platform from the person’s relevant activity. LinkedIn may come first for someone active there; email may come first otherwise. After no response, a coordinated other channel can make sense. A reply changes the plan, and a decline must not become an excuse to repeat the pitch elsewhere. Calling remains separately scoped and quoted."
+        ]
+      },
+      {
+        "heading": "Approve the targets and review the result honestly",
+        "body": [
+          "The client’s main campaign contribution is judgment on who fits. Beespoke supplies the research, writes the messages, configures authorized activity and manages replies, qualification and calendar coordination. The client keeps discovery, proposals and closing. Confirm a booking through authorized calendar/CRM access or client confirmation; an opening, reply or calendar-link click is a different observation.",
+          "An annotated example explains a design decision; it does not establish that a phrase caused a reply. Compare actual relevant responses and subsequent verified outcomes within the right campaign cohort. Keep timing, audience, channel and offer changes visible, and never publish identifying client or prospect evidence simply to make the example more persuasive."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is cold-email personalization?",
+        "answer": "It connects a checked account fact, a person’s relevant role and a useful question to the actual offer. Changing a name or adding praise alone does not establish that relevance."
+      },
+      {
+        "question": "Can AI help write cold emails?",
+        "answer": "It can assist with drafting and editing, but a person must check the facts, relevance, sender voice and permitted claims. Our phrase review is an editorial aid, not an AI-authorship detector."
+      },
+      {
+        "question": "Should every cold email be short?",
+        "answer": "Keep only useful context, but do not impose a universal word count. A longer individually relevant opening can be appropriate. A brief follow-up usually need not repeat the full pitch."
+      },
+      {
+        "question": "Are these proven winning templates?",
+        "answer": "No. The four worked cases are explicitly fictional training examples. Their annotations explain decisions, not verified response rates, bookings or causal effects."
+      }
+    ],
+    "related": [
+      "/services/cold-email-lead-generation/",
+      "/guides/cold-email-agency/",
+      "/guides/cold-email-follow-up/"
+    ]
+  },
+  {
+    "path": "/guides/cold-email-follow-up/",
+    "serviceFamily": "outbound",
+    "title": "Cold Email Follow-Up: Short Sequences and Examples | Beespoke",
+    "description": "Build a two-message cold-email sequence with three complete examples, reply branches, stopping rules and a private review workbook. Coordinate email and LinkedIn.",
+    "eyebrow": "A useful reminder, not a second sales essay",
+    "h1": "Cold-email follow-up: a short sequence with a reason to stop",
+    "answer": "A cold-email follow-up should briefly reconnect the recipient with a relevant unanswered first message. Beespoke typically uses an individual opening plus one short reminder, often about four days later. The timing is campaign-specific; any reply changes the plan. Use evidence to choose the next appropriate channel, respect declines and verify actual bookings separately from replies or link clicks.",
+    "sections": [
+      {
+        "heading": "What a cold-email follow-up should do",
+        "body": [
+          "A cold-email follow-up reminds the recipient of a relevant unanswered message and makes it easy to respond. It does not need to rebuild the whole sales argument. Beespoke typically uses two email messages: an individually researched opening and one brief reminder, often about four days later. That is our usual operating choice, not a proven universal optimum or a promise of replies.",
+          "Assume the recipient can read the original email. A short “Just checking in on this” can be appropriate when the first message already explains the relevance. If the initial message is vague or aimed at the wrong person, another reminder does not fix the targeting or copy."
+        ]
+      },
+      {
+        "heading": "Choose timing from the actual send and current context",
+        "body": [
+          "“About four days” describes a typical gap, not a compulsory calendar rule. Agree the actual delay and permitted sending window in the campaign. A weekend, timezone, absence or changed account context can affect the appropriate next action. Check the previous send and all reply channels before another message; do not calculate a follow-up from the date a list was imported."
+        ]
+      },
+      {
+        "heading": "Three complete two-message sequences",
+        "body": [
+          "Each example supplies the opening, concise reminder and decision notes. The situations are fictional. They illustrate a process, not delivered messages or measured results. Use the copywriting guide for the full research-to-first-message review."
+        ]
+      },
+      {
+        "heading": "Replies determine the next step",
+        "body": [
+          "Stop the programmed follow-up when a reply arrives and let the responsible person review it. Interest, a question, a referral, an automatic absence message and a decline need different decisions. Do not leave a scheduled reminder running because the reply was not the positive answer you hoped for."
+        ],
+        "table": {
+          "caption": "Reply disposition and ownership",
+          "headers": [
+            "Observed response",
+            "Next action",
+            "Do not count it as"
+          ],
+          "rows": [
+            [
+              "Question about scope",
+              "Answer the actual question; involve the client where expertise is needed.",
+              "A booking"
+            ],
+            [
+              "Referral to a colleague",
+              "Review the new role and the proposed introduction before contacting them.",
+              "The colleague’s interest"
+            ],
+            [
+              "Out-of-office reply",
+              "Pause and review the actual return context; do not treat it as interest.",
+              "A positive reply"
+            ],
+            [
+              "Not interested / stop",
+              "Close the sequence and respect the stated preference across channels.",
+              "Permission for another pitch"
+            ],
+            [
+              "Please send your calendar",
+              "Send the approved client link and verify the eventual booking.",
+              "A confirmed or held meeting"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Coordinate channels instead of adding endless touches",
+        "body": [
+          "Omnichannel does not mean every person receives every channel in parallel. Relevant LinkedIn activity can support a LinkedIn-first approach; where a person is inactive there and an appropriate email is available, email may come first. If there is no response after the short sequence, review whether another channel has a genuine reason and an agreed owner. Calling is a separate scoped cost, not automatically included.",
+          "Keep one conversation history so a LinkedIn reply stops a pending email reminder and the client knows what was already discussed. Channel switching should improve relevance, not bypass a rejection or hide repeated contact by different senders."
+        ]
+      },
+      {
+        "heading": "Report the conversation, not the reminder count",
+        "body": [
+          "Separate sent messages, human replies, relevant interest, original bookings, reschedules, held meetings and qualified outcomes. Use the client’s calendar link and authorized CRM/calendar access or client confirmation to reconcile bookings. An email asking for a call is useful interest but is not yet a booked call. Preserve the original date and source when a meeting moves."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How many follow-ups should we send?",
+        "answer": "There is no universal optimum. Beespoke typically uses one short email follow-up after the opening, then reviews whether another appropriate channel makes sense. Do not add touches just to fill a sequence."
+      },
+      {
+        "question": "Is “just checking in” too short?",
+        "answer": "It can be enough when the initial message already explains a specific relevant idea. It is not a substitute for a good first message and does not establish a response-rate advantage."
+      },
+      {
+        "question": "Should email always come before LinkedIn?",
+        "answer": "No. Choose from the person’s relevant activity and the agreed campaign scope. An active LinkedIn user may be better approached there first. Keep channel ownership coordinated and respect replies and declines."
+      },
+      {
+        "question": "What if someone replies before the reminder?",
+        "answer": "Stop the programmed follow-up and review the response. Interest, questions, referrals, automatic replies and declines need distinct handling; do not continue merely because it was not a positive reply."
+      }
+    ],
+    "related": [
+      "/guides/b2b-cold-email-copywriting/",
+      "/services/cold-email-lead-generation/",
+      "/guides/linkedin-prospecting-messages/"
+    ]
+  },
+  {
+    "path": "/guides/linkedin-prospecting-messages/",
+    "serviceFamily": "outbound",
+    "title": "LinkedIn Prospecting Messages: B2B Examples | Beespoke",
+    "description": "Write individual LinkedIn prospecting messages with four annotated examples, activity-based channel choice, short follow-ups, reply decisions and a private workbook.",
+    "eyebrow": "A specific person and a useful question",
+    "h1": "LinkedIn prospecting messages: individual relevance from the first conversation",
+    "answer": "A useful LinkedIn prospecting message connects a verified fact, the person’s relevant role and a proportionate question. Recent relevant activity can help decide whether LinkedIn should be the first channel, but it does not establish buying interest. Use a shared structure with genuinely individual content, keep follow-ups brief, respect replies and verify calendar outcomes separately from connections or reactions.",
+    "sections": [
+      {
+        "heading": "LinkedIn prospecting messages need individual relevance",
+        "body": [
+          "A LinkedIn prospecting message connects a checked reason for contact to one person’s role and a useful next step. The structure can be consistent while the business explanation changes for each recipient. An accepted connection is permission for neither an unlimited pitch sequence nor a claim of buying interest. Review the actual relationship and available messaging path before sending."
+        ]
+      },
+      {
+        "heading": "Choose LinkedIn when the activity supports it",
+        "body": [
+          "Check recent relevant posts, comments or other visible activity and confirm the person still owns the appropriate work. A profile existing is not evidence that its owner reads LinkedIn messages regularly. Where activity is absent and an appropriate email is available, email may be the better first channel. Record the basis for the choice rather than applying LinkedIn-first to the entire lead list."
+        ]
+      },
+      {
+        "heading": "Separate the invitation, first message and reply",
+        "body": [
+          "A connection request need not contain the whole proposition. If you use a note, state a genuine reason without invented familiarity. A simple fictional example is “Hello [name], I work on [relevant area] and would be glad to connect.” Only use that wording when it is true. Sending no note can also be a deliberate choice; do not manufacture a personal link to fill the space.",
+          "The first substantive message then earns its own relevance. Do not treat acceptance as a sales qualification or assume a mutual contact has endorsed you. A real introduction can be referenced accurately; a visible shared connection alone is not an introduction."
+        ]
+      },
+      {
+        "heading": "Four annotated LinkedIn message examples",
+        "body": [
+          "Each fictional case includes the recent activity, unknowns, first message and a short no-reply reminder. These are training examples, not private inbox screenshots or claims that a named client received a result. Adjust the whole relevance paragraph for the actual person, rather than replacing a name."
+        ]
+      },
+      {
+        "heading": "Human writing without a forced casual voice",
+        "body": [
+          "Avoid generic praise, repeated “I noticed” wrappers and exaggerated language such as “revolutionize” or “unlock”. Refer directly to the specific topic when it matters. Do not force a joke, emoji or first-name familiarity into every message. A professional, plain question can sound more human than manufactured banter. AI-assisted and human-written drafts need the same checks for facts, relevance and sender voice."
+        ]
+      },
+      {
+        "heading": "Decide from the reply before changing channels",
+        "body": [
+          "Use one owner and one conversation history across the agreed channels. A LinkedIn response should stop a pending programmed email reminder. No response may justify reviewing another channel; a refusal does not justify repeating the pitch through email or another sender. If calling is appropriate, scope and quote it separately."
+        ],
+        "table": {
+          "caption": "Conversation states and next decisions",
+          "headers": [
+            "State",
+            "Appropriate next action",
+            "Evidence still missing"
+          ],
+          "rows": [
+            [
+              "Connection accepted",
+              "Review the relevant first message",
+              "Interest, fit and booking"
+            ],
+            [
+              "Question or referral",
+              "Stop the programmed sequence and review the actual question or role",
+              "An agreed meeting"
+            ],
+            [
+              "No reply",
+              "One brief follow-up if still appropriate; then review the channel plan",
+              "Any buying intent"
+            ],
+            [
+              "Decline",
+              "Close the sequence and respect the preference",
+              "No further pitch is justified by the decline"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "From a useful conversation to a verified client booking",
+        "body": [
+          "Beespoke researches and proposes the target list, writes individual messages and runs the authorized campaign work. The client’s judgment matters when approving suitable people and exclusions. When interest is relevant, use the client’s existing calendar link and pass the actual question and context to the sales owner. Authorized CRM/calendar access or client confirmation verifies the booking; a link send, reaction or accepted connection does not."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Should we use one LinkedIn template for everyone?",
+        "answer": "Use a structure, not identical relevance. Research the account and person and rewrite the substantive explanation for each recipient."
+      },
+      {
+        "question": "Does an accepted connection count as a lead?",
+        "answer": "It is a connection state, not proof of interest, qualification or a booking. Record the later conversation and verified outcomes separately."
+      },
+      {
+        "question": "What if the person is inactive on LinkedIn?",
+        "answer": "Review whether a suitable email or another agreed channel is more appropriate. Do not infer frequent inbox use from the existence of a profile."
+      },
+      {
+        "question": "Are these real client messages?",
+        "answer": "The four cases are fictional training examples. They illustrate Beespoke’s owner-described research and writing approach without publishing private sender, client or prospect identities."
+      }
+    ],
+    "related": [
+      "/services/linkedin-lead-generation/",
+      "/guides/b2b-cold-email-copywriting/",
+      "/guides/cold-email-follow-up/"
+    ]
+  },
+  {
+    "path": "/industries/logistics-lead-generation/",
+    "serviceFamily": "outbound",
+    "title": "Lead Generation for Logistics Companies | Beespoke",
+    "description": "Plan relevant B2B outreach for freight, 3PL and warehousing offers. Define accounts, buyer roles, operational fit and qualified handoff with a complete worked example.",
+    "eyebrow": "Commercial conversations that fit the operation",
+    "h1": "Lead generation for logistics companies: reach the right B2B buyers",
+    "answer": "Lead generation for logistics companies means identifying suitable business accounts and decision roles for a specific freight, forwarding, 3PL or warehousing offer, then starting relevant conversations and qualifying the next step. Define geography, service constraints and the actual buyer before choosing email or LinkedIn. Beespoke can manage the agreed prospecting workflow; the logistics provider retains operational discovery, freight quotations and closing.",
+    "sections": [
+      {
+        "heading": "Start with the logistics service you can actually deliver",
+        "body": [
+          "Lead generation for logistics companies should identify suitable business customers for a defined transport, forwarding or warehousing offer. “Any company that ships goods” is too broad. Establish the service geography, lanes, cargo or customer constraints, available capabilities, minimum commercial fit and the kind of conversation the provider can use. Beespoke’s role is managed prospecting, not operating transport or quoting freight on your behalf.",
+          "The client’s judgment matters most in target approval: which accounts fit the operation and which must be excluded. We supply research into the accounts and people, write individual messages and run the agreed email and/or LinkedIn prospecting when authorized. Your commercial team keeps discovery, operational scoping, quotations and closing."
+        ]
+      },
+      {
+        "heading": "Separate freight, contract logistics and warehousing buyers",
+        "body": [
+          "The rows below are planning examples, not universal job descriptions or a claim that every logistics provider offers each service. Pick the actual offer before finding contacts."
+        ],
+        "table": {
+          "caption": "Service-specific target and qualification map",
+          "headers": [
+            "Offer to define",
+            "Plausible buyer context",
+            "What to confirm",
+            "Do not assume"
+          ],
+          "rows": [
+            [
+              "Freight or forwarding on specified lanes",
+              "A shipper with relevant origins, destinations and cargo",
+              "Lane, cargo, service constraints, commercial owner and evaluation process",
+              "Shipment volumes, expiring contracts or dissatisfaction"
+            ],
+            [
+              "3PL or fulfilment",
+              "A brand or distributor evaluating an appropriate operating footprint",
+              "Order profile, required geography, systems, constraints and operational evaluator",
+              "A public product launch proves fulfilment problems"
+            ],
+            [
+              "Warehousing or overflow capacity",
+              "An operation with a potentially relevant location or seasonal requirement",
+              "Space/storage type, handling limits, timing and decision roles",
+              "Capacity needs from headcount or a funding announcement alone"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Research accounts without inventing shipping needs",
+        "body": [
+          "Useful public inputs can include the company’s own locations, product and service information, announced market launches, named operating responsibilities and published supplier processes. Record the exact source and date. An announced distribution location can justify a question about coverage; it does not establish pallet counts, shipment frequency, supplier terms or an urgent need to change provider.",
+          "Apply operational exclusions before building a large contact list. Exclude accounts outside the agreed coverage, unsuitable cargo or service requirements, current customers and protected relationships. A large recognizable brand is not automatically a better prospect than a smaller account that fits the actual operation."
+        ]
+      },
+      {
+        "heading": "Map the operational buyer and the commercial decision",
+        "body": [
+          "Supply-chain, logistics, operations, procurement and finance roles can participate in different ways. A title alone does not establish buying authority. Start with the person closest to the relevant operating question; ask how evaluation and approval work rather than claiming to know the decision committee. Coordinate contacts in the same account so several senders do not approach colleagues with conflicting propositions."
+        ]
+      },
+      {
+        "heading": "A complete fictional account-to-meeting example",
+        "body": [
+          "A regional warehousing provider wants conversations about a clearly defined storage offer. Its client approves the target geography, suitable goods, minimum commercial fit and exclusions. A fictional distributor announces a new regional sales footprint. That is the observation; a warehouse shortage, budget and contract deadline remain unknown. The campaign owner researches the person responsible for distribution and chooses LinkedIn or email from the person’s relevant activity."
+        ]
+      },
+      {
+        "heading": "Qualification before a calendar handoff",
+        "body": [
+          "If the fictional buyer replies with interest, confirm the actual service region, relevant operating requirement, person’s role and reason for a discussion before booking. Record unknown volumes or timing as unknown. Use the logistics provider’s existing calendar and transfer the message context and questions; its sales team evaluates the operation and any quote.",
+          "A reply, request for a quote, calendar click, booked conversation and held qualified meeting are different outcomes. Authorized CRM/calendar access or client confirmation establishes the booking. Do not count a reschedule as a new prospect or a freight-pricing request as an accepted sales opportunity without the agreed qualification."
+        ]
+      },
+      {
+        "heading": "Work with the incumbent and procurement reality",
+        "body": [
+          "An established logistics operation may already have a provider and a formal review process. The useful first conversation might concern a specific future lane, an additional location, an appropriate contingency option or the next supplier-evaluation window. Those are questions to qualify, not reasons to assert an urgent switch. Do not promise cheaper freight, spare capacity, compliance credentials or service levels that the actual provider has not approved."
+        ]
+      },
+      {
+        "heading": "What the managed campaign would include",
+        "body": [
+          "Agree one practical market brief, target and exclusion rules, allowed service claims and the person receiving commercial conversations. Beespoke can research accounts and roles, prepare individually relevant messages, configure authorized email and/or LinkedIn activity, handle replies and qualify calendar handoffs. We typically use a short email sequence rather than a large number of reminders; the channel order follows the person’s relevant activity. Calling is separately scoped and quoted."
+        ]
+      },
+      {
+        "heading": "Evaluate the work without invented logistics results",
+        "body": [
+          "This page describes a proposed prospecting workflow for logistics providers. The worked account and messages are explicitly fictional; they are not evidence of a logistics client result. Evaluate the quality of account reasoning, the fit of the target list, individual messages, reply handling and the verification of qualified conversations. Ask for relevant permissioned evidence before treating any agency’s niche-performance claim as established."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is this logistics lead-generation service for?",
+        "answer": "B2B logistics providers with a defined offer, service coverage, account fit and sales owner. It is not a parcel-tracking or freight-quotation service for consumers or shippers."
+      },
+      {
+        "question": "Which logistics buyers should we contact?",
+        "answer": "Choose from the actual offer and operation. Supply-chain, logistics, operations or procurement roles may be relevant, but job title alone does not establish buying authority or need."
+      },
+      {
+        "question": "Does Beespoke make transport quotations or include calling?",
+        "answer": "The logistics provider handles operational scoping and transport quotations. Beespoke’s agreed outbound work covers cold email and/or LinkedIn; calling is separately scoped and quoted by market."
+      },
+      {
+        "question": "Are the example accounts and messages real client results?",
+        "answer": "No. The logistics account and messages are fictional planning examples. They show research and qualification choices without claiming logistics client outcomes or guaranteed meetings."
+      }
+    ],
+    "related": [
+      "/services/b2b-lead-generation/",
+      "/services/b2b-appointment-setting/",
+      "/guides/b2b-sales-prospecting-plan/"
+    ]
   }
 ]

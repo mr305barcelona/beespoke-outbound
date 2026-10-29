@@ -82,6 +82,7 @@ updatedOverrides.set('/services/cold-email-lead-generation/', '2026-10-26');
 updatedOverrides.set('/guides/b2b-lead-generation-audit/', '2026-10-27');
 for (const slug of ['b2b-seo-audit','b2b-content-audit','account-based-prospecting','aeo-audit']) updatedOverrides.set('/guides/'+slug+'/', '2026-10-27');
 for (const file of ["b2b-sales-prospecting-plan", "b2b-conversion-rate-optimization", "b2b-keyword-research", "inbound-vs-outbound-lead-generation", "lead-generation-vs-demand-generation"]) { const p=require('../data/buyer-guides-20261028/'+file+'.json').en;updatedOverrides.set(p.path,'2026-10-28'); }
+for(const slug of ["b2b-cold-email-copywriting", "cold-email-follow-up", "linkedin-prospecting-messages", "logistics-lead-generation"])updatedOverrides.set(require('../data/outbound-guides-20261029/'+slug+'.json').en.path,'2026-10-29');
 const updatedFor = (pagePath) => updatedOverrides.get(pagePath) || defaultUpdated;
 const modifiedDateTimeFor = (pagePath) => ['b2b-lead-generation-audit','b2b-seo-audit','b2b-content-audit','account-based-prospecting','aeo-audit'].some(slug=>pagePath==='/guides/'+slug+'/') ? '2026-10-27T09:00:00+01:00' : pagePath === "/services/cold-email-lead-generation/" ? "2026-10-26T18:30:00+01:00" : updatedOverrides.has(pagePath)
   ? `${updatedFor(pagePath)}T15:00:00+02:00`

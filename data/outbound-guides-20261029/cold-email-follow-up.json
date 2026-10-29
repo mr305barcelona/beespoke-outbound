@@ -1,0 +1,1018 @@
+{
+  "en": {
+    "title": "Cold Email Follow-Up: Short Sequences and Examples | Beespoke",
+    "description": "Build a two-message cold-email sequence with three complete examples, reply branches, stopping rules and a private review workbook. Coordinate email and LinkedIn.",
+    "eyebrow": "A useful reminder, not a second sales essay",
+    "h1": "Cold-email follow-up: a short sequence with a reason to stop",
+    "answer": "A cold-email follow-up should briefly reconnect the recipient with a relevant unanswered first message. Beespoke typically uses an individual opening plus one short reminder, often about four days later. The timing is campaign-specific; any reply changes the plan. Use evidence to choose the next appropriate channel, respect declines and verify actual bookings separately from replies or link clicks.",
+    "path": "/guides/cold-email-follow-up/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "What a cold-email follow-up should do",
+        "body": [
+          "A cold-email follow-up reminds the recipient of a relevant unanswered message and makes it easy to respond. It does not need to rebuild the whole sales argument. Beespoke typically uses two email messages: an individually researched opening and one brief reminder, often about four days later. That is our usual operating choice, not a proven universal optimum or a promise of replies.",
+          "Assume the recipient can read the original email. A short “Just checking in on this” can be appropriate when the first message already explains the relevance. If the initial message is vague or aimed at the wrong person, another reminder does not fix the targeting or copy."
+        ]
+      },
+      {
+        "heading": "Choose timing from the actual send and current context",
+        "body": [
+          "“About four days” describes a typical gap, not a compulsory calendar rule. Agree the actual delay and permitted sending window in the campaign. A weekend, timezone, absence or changed account context can affect the appropriate next action. Check the previous send and all reply channels before another message; do not calculate a follow-up from the date a list was imported."
+        ]
+      },
+      {
+        "heading": "Three complete two-message sequences",
+        "body": [
+          "Each example supplies the opening, concise reminder and decision notes. The situations are fictional. They illustrate a process, not delivered messages or measured results. Use the copywriting guide for the full research-to-first-message review."
+        ],
+        "examples": [
+          {
+            "heading": "Sequence 1: a specific question, then a short reminder",
+            "fact": "A fictional company announces a second office on its own website. The contact owns operations.",
+            "unknown": "Its current IT provider, contract dates, budget and actual support problem are unknown.",
+            "message": "Hi [first name],\n\nYour second office means there will soon be another team needing day-to-day IT support. Are you the person coordinating that across the two sites?\n\nWe help businesses in [service region] keep the same support process across offices. I don’t know how you handle it today, so I wouldn’t assume you need a replacement provider. If reviewing coverage is on your list, would a short conversation about the two-site setup be useful?\n\nThanks,\n[sender]",
+            "notes": [
+              "The opening refers directly to the observed expansion, without an “I noticed” wrapper or invented praise.",
+              "The role question leaves room for correction; the message does not pretend to know the internal owner.",
+              "A conditional invitation avoids inventing dissatisfaction, buying urgency or a replacement project."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed.",
+            "follow": "Hi [first name],\n\nJust checking in on the two-office support question below.\n\nThanks,\n[sender]"
+          },
+          {
+            "heading": "Sequence 2: an account owner and a referral",
+            "fact": "A fictional manufacturer describes an existing distributor programme on its website. The contact is responsible for channel partnerships.",
+            "unknown": "The programme’s current recruitment needs and internal owner are not confirmed.",
+            "message": "Hi [first name],\n\nWho looks after the distributor programme for [product area]?\n\nWe help manufacturers research potential partners in a defined market and start relevant conversations. If there is a specific region you are evaluating, I’d be happy to discuss whether a small researched account list would be useful.\n\nI don’t know if you are adding partners at the moment. Is this something you handle?\n\nThanks,\n[sender]",
+            "notes": [
+              "The opening asks about the actual programme; it does not assume an expansion project.",
+              "The follow-up repeats only the routing question. If the recipient names a colleague, stop the automated sequence and review whether an introduction is appropriate.",
+              "A referral is not a booking and does not establish the colleague’s interest."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed.",
+            "follow": "Hi [first name],\n\nWould you be the right person for the distributor question below?\n\nThanks,\n[sender]"
+          },
+          {
+            "heading": "Sequence 3: one bounded review rather than a new pitch",
+            "fact": "A fictional service company publishes an expansion of its customer onboarding team. The contact owns customer operations.",
+            "unknown": "We do not know whether a process review is needed or already underway.",
+            "message": "Hello [first name],\n\nWith the new onboarding roles, are you keeping the existing handoff between sales and customer operations?\n\nWe work through those handoffs with service teams: who receives the context, what must be confirmed and where questions go. If reviewing one part of that process is useful, we could compare notes on a single customer journey.\n\nIf your team already has it covered, that is useful to know too.\n\nThanks,\n[sender]",
+            "notes": [
+              "The proposed review stays narrow; the reminder does not introduce a different offer.",
+              "No new urgency, invented case study or long argument is added merely to create another touch.",
+              "An answer that the work is covered is a reason to close the sequence, not argue with the recipient."
+            ],
+            "label": "Fictional worked example. Names and situations are invented; no client result is claimed.",
+            "follow": "Hi [first name],\n\nJust checking whether the onboarding question below is relevant.\n\nThanks,\n[sender]"
+          }
+        ]
+      },
+      {
+        "heading": "Replies determine the next step",
+        "body": [
+          "Stop the programmed follow-up when a reply arrives and let the responsible person review it. Interest, a question, a referral, an automatic absence message and a decline need different decisions. Do not leave a scheduled reminder running because the reply was not the positive answer you hoped for."
+        ],
+        "table": {
+          "caption": "Reply disposition and ownership",
+          "headers": [
+            "Observed response",
+            "Next action",
+            "Do not count it as"
+          ],
+          "rows": [
+            [
+              "Question about scope",
+              "Answer the actual question; involve the client where expertise is needed.",
+              "A booking"
+            ],
+            [
+              "Referral to a colleague",
+              "Review the new role and the proposed introduction before contacting them.",
+              "The colleague’s interest"
+            ],
+            [
+              "Out-of-office reply",
+              "Pause and review the actual return context; do not treat it as interest.",
+              "A positive reply"
+            ],
+            [
+              "Not interested / stop",
+              "Close the sequence and respect the stated preference across channels.",
+              "Permission for another pitch"
+            ],
+            [
+              "Please send your calendar",
+              "Send the approved client link and verify the eventual booking.",
+              "A confirmed or held meeting"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Coordinate channels instead of adding endless touches",
+        "body": [
+          "Omnichannel does not mean every person receives every channel in parallel. Relevant LinkedIn activity can support a LinkedIn-first approach; where a person is inactive there and an appropriate email is available, email may come first. If there is no response after the short sequence, review whether another channel has a genuine reason and an agreed owner. Calling is a separate scoped cost, not automatically included.",
+          "Keep one conversation history so a LinkedIn reply stops a pending email reminder and the client knows what was already discussed. Channel switching should improve relevance, not bypass a rejection or hide repeated contact by different senders."
+        ]
+      },
+      {
+        "heading": "Report the conversation, not the reminder count",
+        "body": [
+          "Separate sent messages, human replies, relevant interest, original bookings, reschedules, held meetings and qualified outcomes. Use the client’s calendar link and authorized CRM/calendar access or client confirmation to reconcile bookings. An email asking for a call is useful interest but is not yet a booked call. Preserve the original date and source when a meeting moves."
+        ]
+      }
+    ],
+    "related": [
+      "/guides/b2b-cold-email-copywriting/",
+      "/services/cold-email-lead-generation/",
+      "/guides/linkedin-prospecting-messages/"
+    ],
+    "faqs": [
+      {
+        "question": "How many follow-ups should we send?",
+        "answer": "There is no universal optimum. Beespoke typically uses one short email follow-up after the opening, then reviews whether another appropriate channel makes sense. Do not add touches just to fill a sequence."
+      },
+      {
+        "question": "Is “just checking in” too short?",
+        "answer": "It can be enough when the initial message already explains a specific relevant idea. It is not a substitute for a good first message and does not establish a response-rate advantage."
+      },
+      {
+        "question": "Should email always come before LinkedIn?",
+        "answer": "No. Choose from the person’s relevant activity and the agreed campaign scope. An active LinkedIn user may be better approached there first. Keep channel ownership coordinated and respect replies and declines."
+      },
+      {
+        "question": "What if someone replies before the reminder?",
+        "answer": "Stop the programmed follow-up and review the response. Interest, questions, referrals, automatic replies and declines need distinct handling; do not continue merely because it was not a positive reply."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GMass — cold-email follow-up",
+        "href": "https://www.gmass.co/blog/cold-email-follow-up/"
+      },
+      {
+        "label": "Saleshandy — cold-email sequences",
+        "href": "https://www.saleshandy.com/blog/cold-email-sequence/"
+      }
+    ],
+    "sourceMethodology": "The operating approach is supplied by Beespoke’s founder. The examples below are training scenarios unless expressly labelled as an inspected, anonymized adaptation. Source articles inform the questions covered; their performance claims are not adopted as our results.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Work through your own decision",
+      "heading": "Sequence and reply decision workbook",
+      "intro": "Record the evidence, the individual reason for contact and the next owner. Keep missing information visible.",
+      "navLabel": "Sequence and reply decision workbook",
+      "note": "Private working notes: do not enter confidential or identifying information. Nothing is uploaded or saved; export what you need before leaving."
+    },
+    "workbook": {
+      "fields": [
+        "Sequence or person context",
+        "Previous send / evidence",
+        "Current reply state",
+        "Reason for next action",
+        "Next message or action",
+        "Stop / hold condition",
+        "Responsible owner"
+      ],
+      "legend": "Sequence and reply decision workbook",
+      "reportTitle": "Sequence and reply decision workbook",
+      "samples": [
+        [
+          "No response after opening",
+          "Not recorded; verify before acting",
+          "No reply observed",
+          "First relevant message can be reread",
+          "One brief reminder at the agreed time",
+          "Hold if evidence, timing or scope changed",
+          "Campaign / reply owner"
+        ],
+        [
+          "Question about scope",
+          "Not recorded; verify before acting",
+          "Question about scope",
+          "A booking",
+          "Answer the actual question; involve the client where expertise is needed.",
+          "Stop the programmed follow-up on a reply",
+          "Campaign / reply owner"
+        ],
+        [
+          "Referral to a colleague",
+          "Not recorded; verify before acting",
+          "Referral to a colleague",
+          "The colleague’s interest",
+          "Review the new role and the proposed introduction before contacting them.",
+          "Stop the programmed follow-up on a reply",
+          "Campaign / reply owner"
+        ],
+        [
+          "Out-of-office reply",
+          "Not recorded; verify before acting",
+          "Out-of-office reply",
+          "A positive reply",
+          "Pause and review the actual return context; do not treat it as interest.",
+          "Stop the programmed follow-up on a reply",
+          "Campaign / reply owner"
+        ],
+        [
+          "Not interested / stop",
+          "Not recorded; verify before acting",
+          "Not interested / stop",
+          "Permission for another pitch",
+          "Close the sequence and respect the stated preference across channels.",
+          "Stop the programmed follow-up on a reply",
+          "Campaign / reply owner"
+        ],
+        [
+          "Please send your calendar",
+          "Not recorded; verify before acting",
+          "Please send your calendar",
+          "A confirmed or held meeting",
+          "Send the approved client link and verify the eventual booking.",
+          "Stop the programmed follow-up on a reply",
+          "Campaign / reply owner"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Before you hand this to a provider",
+      "body": [
+        "Review fit, evidence and ownership together. A useful message does not establish a booking or a qualified opportunity."
+      ],
+      "items": [
+        "Approve the proposed people and exclusions.",
+        "Check the source behind every specific claim and keep unknowns explicit.",
+        "Agree the authorized channel, concise follow-up, reply owner and stopping conditions.",
+        "Verify the calendar outcome through authorized access or client confirmation."
+      ]
+    },
+    "savedReminder": {
+      "heading": "An anonymized reminder from a saved client campaign",
+      "body": "This is an anonymized adaptation of the saved follow-up inspected in one client email campaign. The opening used separate per-person fields; resolved recipient copy was not inspected for this guide. The reminder illustrates the concise follow-up we use. It is not a response-rate or booking case study.",
+      "message": "Hi [first name],\n\nJust checking in on this.\n\nBest regards,\n[sender]",
+      "label": "Saved English wording anonymized; no outcome claim"
+    }
+  },
+  "es": {
+    "title": "Seguimiento de cold email: secuencias breves y ejemplos | Beespoke",
+    "description": "Crea una secuencia breve de cold email con tres ejemplos completos, decisiones por respuesta, reglas de parada y ficha privada. Coordina correo y LinkedIn.",
+    "eyebrow": "Un recordatorio útil, no otro argumento extenso",
+    "h1": "Seguimiento de cold email: una secuencia breve que sabe cuándo parar",
+    "answer": "El seguimiento de cold email debe retomar brevemente un primer mensaje pertinente que sigue sin respuesta. Beespoke suele usar un inicio individual y un recordatorio breve, a menudo unos cuatro días después. El momento depende de la campaña; cualquier respuesta cambia el plan. Elige el siguiente canal con pruebas, respeta rechazos y verifica las reservas aparte de respuestas o clics.",
+    "path": "/guides/cold-email-follow-up/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Qué debe hacer un seguimiento de cold email",
+        "body": [
+          "Un seguimiento recuerda un mensaje pertinente que no ha recibido respuesta y facilita responder. No necesita reconstruir todo el argumento de venta. Beespoke suele utilizar dos correos: un inicio investigado individualmente y un recordatorio breve, a menudo unos cuatro días después. Es nuestra práctica habitual, no un óptimo universal demostrado ni una promesa de respuestas.",
+          "Da por hecho que la persona puede leer el correo original. Un «retomo brevemente este mensaje» puede bastar si el primero explica la relevancia. Si el inicio es vago o va dirigido a la persona equivocada, otro recordatorio no arregla la segmentación ni el texto."
+        ]
+      },
+      {
+        "heading": "Elige el momento desde el envío real y el contexto actual",
+        "body": [
+          "«Unos cuatro días» describe un intervalo habitual, no una regla obligatoria. Acuerda la demora real y la ventana de envío de la campaña. Fin de semana, zona horaria, ausencia o cambios en la empresa pueden afectar la siguiente acción. Comprueba el envío anterior y todos los canales de respuesta; no calcules el seguimiento desde la importación de la lista."
+        ]
+      },
+      {
+        "heading": "Tres secuencias completas de dos mensajes",
+        "body": [
+          "Cada ejemplo incluye inicio, recordatorio breve y notas de decisión. Las situaciones son ficticias. Ilustran un proceso, no mensajes entregados ni resultados medidos. La guía de redacción desarrolla la revisión desde la investigación al primer mensaje."
+        ],
+        "examples": [
+          {
+            "heading": "Secuencia 1: una pregunta concreta y un recordatorio breve",
+            "fact": "Una empresa ficticia anuncia una segunda oficina en su web. La persona contactada dirige operaciones.",
+            "unknown": "Se desconocen proveedor de TI, vencimientos, presupuesto y problema real de soporte.",
+            "message": "Hola [nombre]:\n\nCon la segunda oficina habrá otro equipo que necesite soporte informático diario. ¿Coordinas tú ese servicio entre las dos sedes?\n\nAyudamos a empresas de [zona de servicio] a mantener un mismo proceso de soporte entre oficinas. No sé cómo lo gestionáis hoy, así que no daría por hecho que necesitéis cambiar de proveedor. Si estáis revisando la cobertura, ¿sería útil una breve conversación sobre las dos sedes?\n\nGracias,\n[remitente]",
+            "notes": [
+              "El inicio menciona directamente la expansión observada, sin «he visto que» ni elogios inventados.",
+              "La pregunta sobre responsabilidades permite corregir el contacto; el mensaje no finge conocer la organización interna.",
+              "La invitación condicional evita inventar descontento, urgencia de compra o un proyecto de sustitución."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente.",
+            "follow": "Hola [nombre]:\n\nRetomo brevemente la pregunta de abajo sobre el soporte entre las dos oficinas.\n\nGracias,\n[remitente]"
+          },
+          {
+            "heading": "Secuencia 2: responsable de cuenta y derivación",
+            "fact": "Un fabricante ficticio describe su programa de distribuidores en su web. El contacto gestiona alianzas de canal.",
+            "unknown": "No están confirmadas las necesidades actuales del programa ni su responsable interno.",
+            "message": "Hola [nombre]:\n\n¿Quién gestiona el programa de distribuidores de [área de producto]?\n\nAyudamos a fabricantes a investigar posibles socios en un mercado definido y a iniciar conversaciones pertinentes. Si estáis evaluando una región concreta, podríamos comentar si os resultaría útil una pequeña lista investigada de empresas.\n\nNo sé si estáis incorporando socios ahora. ¿Llevas tú este tema?\n\nGracias,\n[remitente]",
+            "notes": [
+              "El inicio pregunta por el programa real, sin suponer una expansión.",
+              "El seguimiento repite solo la pregunta sobre el responsable. Si se menciona a un colega, para la secuencia automática y valora si procede una presentación.",
+              "Una derivación no es una reserva ni demuestra interés del colega."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente.",
+            "follow": "Hola [nombre]:\n\n¿Serías la persona adecuada para la pregunta de abajo sobre distribuidores?\n\nGracias,\n[remitente]"
+          },
+          {
+            "heading": "Secuencia 3: una revisión delimitada, sin otra propuesta extensa",
+            "fact": "Una empresa ficticia de servicios anuncia una ampliación del equipo de incorporación de clientes. El contacto dirige operaciones de clientes.",
+            "unknown": "No sabemos si necesita revisar procesos o si ya lo está haciendo.",
+            "message": "Hola [nombre]:\n\nCon las nuevas funciones de incorporación, ¿mantenéis el traspaso actual entre ventas y operaciones de clientes?\n\nTrabajamos esos traspasos con equipos de servicios: quién recibe el contexto, qué hay que confirmar y dónde se dirigen las preguntas. Si os sirve revisar una parte del proceso, podríamos comentar un recorrido de cliente concreto.\n\nSi ya lo tenéis cubierto, también me sirve saberlo.\n\nGracias,\n[remitente]",
+            "notes": [
+              "La revisión propuesta sigue delimitada; el recordatorio no introduce una oferta distinta.",
+              "No se añade urgencia, un caso inventado presentado como real ni otro argumento largo solo para justificar un contacto.",
+              "Si la respuesta dice que ya está cubierto, se cierra la secuencia, sin discutir."
+            ],
+            "label": "Ejemplo ficticio. Los nombres y las situaciones son inventados; no se presenta un resultado de cliente.",
+            "follow": "Hola [nombre]:\n\nSolo retomo la consulta de abajo para saber si os resulta pertinente.\n\nGracias,\n[remitente]"
+          }
+        ]
+      },
+      {
+        "heading": "Las respuestas determinan el siguiente paso",
+        "body": [
+          "Para el seguimiento programado cuando llegue una respuesta y permite que la revise el responsable. Interés, pregunta, derivación, ausencia automática y rechazo requieren decisiones distintas. No mantengas un recordatorio programado porque la respuesta no fuera la positiva que esperabas."
+        ],
+        "table": {
+          "caption": "Decisión y responsable según respuesta",
+          "headers": [
+            "Respuesta observada",
+            "Siguiente acción",
+            "No equivale a"
+          ],
+          "rows": [
+            [
+              "Pregunta sobre alcance",
+              "Responde a la pregunta real y consulta al cliente si hace falta su experiencia.",
+              "Una reserva"
+            ],
+            [
+              "Derivación a un colega",
+              "Revisa función y presentación propuesta antes de contactar.",
+              "Interés del colega"
+            ],
+            [
+              "Respuesta automática de ausencia",
+              "Pausa y revisa el contexto de regreso; no lo interpretes como interés.",
+              "Una respuesta positiva"
+            ],
+            [
+              "Sin interés / parar",
+              "Cierra la secuencia y respeta la preferencia en los demás canales.",
+              "Permiso para otra propuesta"
+            ],
+            [
+              "Envíame tu agenda",
+              "Envía el enlace autorizado y verifica la eventual reserva.",
+              "Una reunión confirmada o celebrada"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Coordina canales en lugar de acumular contactos",
+        "body": [
+          "Omnicanal no significa que cada persona reciba todos los canales a la vez. La actividad pertinente en LinkedIn puede justificar empezar allí; si la persona no está activa y hay un correo adecuado, puede empezar el email. Si no responde a la secuencia breve, revisa si otro canal tiene un motivo real y un responsable acordado. Las llamadas tienen un coste y alcance separados; no están incluidas automáticamente.",
+          "Mantén un historial único para que una respuesta por LinkedIn detenga un recordatorio por correo y el cliente conozca lo ya hablado. Cambiar de canal debe mejorar la pertinencia, sin eludir un rechazo ni ocultar contactos repetidos de distintos remitentes."
+        ]
+      },
+      {
+        "heading": "Informa de la conversación, no del número de recordatorios",
+        "body": [
+          "Distingue envíos, respuestas humanas, interés relevante, reservas originales, cambios de fecha, reuniones celebradas y resultados cualificados. Usa la agenda del cliente y acceso autorizado al CRM o calendario, o su confirmación, para conciliar reservas. Un correo que propone hablar indica interés, pero aún no es una reserva. Conserva fecha y fuente originales si la reunión cambia de día."
+        ]
+      }
+    ],
+    "related": [
+      "/guides/b2b-cold-email-copywriting/",
+      "/services/cold-email-lead-generation/",
+      "/guides/linkedin-prospecting-messages/"
+    ],
+    "faqs": [
+      {
+        "question": "¿Cuántos seguimientos deberíamos enviar?",
+        "answer": "No hay un óptimo universal. Beespoke suele utilizar un seguimiento breve después del inicio y luego valora si tiene sentido otro canal apropiado. No añadas contactos solo para llenar una secuencia."
+      },
+      {
+        "question": "¿Es demasiado breve un simple recordatorio?",
+        "answer": "Puede bastar si el mensaje inicial explica una idea concreta y pertinente. No sustituye un buen primer mensaje ni demuestra una ventaja en tasa de respuesta."
+      },
+      {
+        "question": "¿Debe ir siempre el correo antes que LinkedIn?",
+        "answer": "No. Elige según la actividad relevante de la persona y el alcance acordado. Puede ser mejor empezar por LinkedIn si está activa allí. Coordina responsabilidades y respeta respuestas y rechazos."
+      },
+      {
+        "question": "¿Y si alguien responde antes del recordatorio?",
+        "answer": "Para el seguimiento programado y revisa la respuesta. Interés, preguntas, derivaciones, respuestas automáticas y rechazos requieren tratamientos distintos; no continúes solo porque no fue positiva."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GMass — cold-email follow-up",
+        "href": "https://www.gmass.co/blog/cold-email-follow-up/"
+      },
+      {
+        "label": "Saleshandy — cold-email sequences",
+        "href": "https://www.saleshandy.com/blog/cold-email-sequence/"
+      }
+    ],
+    "sourceMethodology": "El método operativo procede del fundador de Beespoke. Los ejemplos son situaciones de formación salvo que se identifiquen expresamente como adaptaciones inspeccionadas y anonimizadas. Las fuentes orientan las preguntas tratadas; sus resultados no se presentan como nuestros.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Trabaja tu propia decisión",
+      "heading": "Ficha de secuencias y decisiones por respuesta",
+      "intro": "Registra las pruebas, el motivo individual para contactar y el siguiente responsable. Mantén visibles las incógnitas.",
+      "navLabel": "Ficha de secuencias y decisiones por respuesta",
+      "note": "Notas privadas: no introduzcas información confidencial ni identificativa. No se carga ni guarda nada; exporta lo necesario antes de salir."
+    },
+    "workbook": {
+      "fields": [
+        "Contexto de secuencia o persona",
+        "Envío anterior o pruebas",
+        "Estado actual de respuesta",
+        "Motivo de la siguiente acción",
+        "Mensaje o acción siguiente",
+        "Condición de parada o espera",
+        "Responsable"
+      ],
+      "legend": "Ficha de secuencias y decisiones por respuesta",
+      "reportTitle": "Ficha de secuencias y decisiones por respuesta",
+      "samples": [
+        [
+          "Sin respuesta al inicio",
+          "Sin registrar; verificar antes de actuar",
+          "No se observa respuesta",
+          "El primer mensaje pertinente se puede releer",
+          "Un recordatorio breve en el momento acordado",
+          "Esperar si cambian pruebas, momento o alcance",
+          "Responsable de campaña o respuestas"
+        ],
+        [
+          "Pregunta sobre alcance",
+          "Sin registrar; verificar antes de actuar",
+          "Pregunta sobre alcance",
+          "Una reserva",
+          "Responde a la pregunta real y consulta al cliente si hace falta su experiencia.",
+          "Parar el seguimiento programado ante una respuesta",
+          "Responsable de campaña o respuestas"
+        ],
+        [
+          "Derivación a un colega",
+          "Sin registrar; verificar antes de actuar",
+          "Derivación a un colega",
+          "Interés del colega",
+          "Revisa función y presentación propuesta antes de contactar.",
+          "Parar el seguimiento programado ante una respuesta",
+          "Responsable de campaña o respuestas"
+        ],
+        [
+          "Respuesta automática de ausencia",
+          "Sin registrar; verificar antes de actuar",
+          "Respuesta automática de ausencia",
+          "Una respuesta positiva",
+          "Pausa y revisa el contexto de regreso; no lo interpretes como interés.",
+          "Parar el seguimiento programado ante una respuesta",
+          "Responsable de campaña o respuestas"
+        ],
+        [
+          "Sin interés / parar",
+          "Sin registrar; verificar antes de actuar",
+          "Sin interés / parar",
+          "Permiso para otra propuesta",
+          "Cierra la secuencia y respeta la preferencia en los demás canales.",
+          "Parar el seguimiento programado ante una respuesta",
+          "Responsable de campaña o respuestas"
+        ],
+        [
+          "Envíame tu agenda",
+          "Sin registrar; verificar antes de actuar",
+          "Envíame tu agenda",
+          "Una reunión confirmada o celebrada",
+          "Envía el enlace autorizado y verifica la eventual reserva.",
+          "Parar el seguimiento programado ante una respuesta",
+          "Responsable de campaña o respuestas"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Antes de entregarlo a un proveedor",
+      "body": [
+        "Revisa conjuntamente encaje, pruebas y responsabilidades. Un mensaje útil no demuestra una reserva ni una oportunidad cualificada."
+      ],
+      "items": [
+        "Aprueba las personas propuestas y las exclusiones.",
+        "Comprueba la fuente de cada afirmación concreta y explicita las incógnitas.",
+        "Acuerda canal autorizado, seguimiento breve, responsable de respuestas y condiciones de parada.",
+        "Verifica el resultado de agenda mediante acceso autorizado o confirmación del cliente."
+      ]
+    },
+    "savedReminder": {
+      "heading": "Un recordatorio anonimizado de una campaña de cliente",
+      "body": "Esta es una adaptación anonimizada del seguimiento guardado que se revisó en una campaña de correo de cliente. El inicio utilizaba campos por persona; para esta guía no se revisó el texto resuelto de destinatarios. El recordatorio ilustra el seguimiento conciso que utilizamos. No es un caso de tasas de respuesta ni reservas.",
+      "message": "Hola [nombre]:\n\nRetomo brevemente este mensaje.\n\nUn saludo,\n[remitente]",
+      "label": "Adaptación traducida y anonimizada; sin afirmar resultados"
+    }
+  },
+  "ca": {
+    "title": "Seguiment de cold email: seqüències breus i exemples | Beespoke",
+    "description": "Crea una seqüència breu de cold email amb tres exemples complets, decisions per resposta, regles d’aturada i fitxa privada. Coordina correu i LinkedIn.",
+    "eyebrow": "Un recordatori útil, no un altre argument extens",
+    "h1": "Seguiment de cold email: una seqüència breu que sap quan aturar-se",
+    "answer": "El seguiment de cold email ha de reprendre breument un primer missatge pertinent que continua sense resposta. Beespoke acostuma a utilitzar un inici individual i un recordatori breu, sovint uns quatre dies després. El moment depèn de la campanya; qualsevol resposta canvia el pla. Tria el canal següent amb evidències, respecta els rebutjos i verifica les reserves a part de respostes o clics.",
+    "path": "/guides/cold-email-follow-up/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "Què ha de fer un seguiment de cold email",
+        "body": [
+          "Un seguiment recorda un missatge pertinent que no ha rebut resposta i facilita respondre. No necessita reconstruir tot l’argument de venda. Beespoke acostuma a utilitzar dos correus: un inici investigat individualment i un recordatori breu, sovint uns quatre dies després. És la nostra pràctica habitual, no un òptim universal demostrat ni una promesa de respostes.",
+          "Dona per fet que la persona pot llegir el correu original. Un «reprenc breument aquest missatge» pot ser suficient si el primer explica la rellevància. Si l’inici és vague o s’adreça a la persona equivocada, un altre recordatori no arregla la segmentació ni el text."
+        ]
+      },
+      {
+        "heading": "Tria el moment des de l’enviament real i el context actual",
+        "body": [
+          "«Uns quatre dies» descriu un interval habitual, no una regla obligatòria. Acorda la demora real i la finestra d’enviament de la campanya. Cap de setmana, zona horària, absència o canvis a l’empresa poden afectar l’acció següent. Comprova l’enviament anterior i tots els canals de resposta; no calculis el seguiment des de la importació de la llista."
+        ]
+      },
+      {
+        "heading": "Tres seqüències completes de dos missatges",
+        "body": [
+          "Cada exemple inclou inici, recordatori breu i notes de decisió. Les situacions són fictícies. Il·lustren un procés, no missatges lliurats ni resultats mesurats. La guia de redacció desenvolupa la revisió des de la recerca fins al primer missatge."
+        ],
+        "examples": [
+          {
+            "heading": "Seqüència 1: una pregunta concreta i un recordatori breu",
+            "fact": "Una empresa fictícia anuncia una segona oficina al seu web. La persona contactada dirigeix operacions.",
+            "unknown": "Es desconeixen proveïdor de TI, venciments, pressupost i problema real de suport.",
+            "message": "Hola, [nom],\n\nAmb la segona oficina hi haurà un altre equip que necessiti suport informàtic diari. Coordines tu aquest servei entre les dues seus?\n\nAjudem empreses de [zona de servei] a mantenir un mateix procés de suport entre oficines. No sé com ho gestioneu avui, així que no donaria per fet que necessiteu canviar de proveïdor. Si esteu revisant la cobertura, seria útil una conversa breu sobre les dues seus?\n\nGràcies,\n[remitent]",
+            "notes": [
+              "L’inici es refereix directament a l’expansió observada, sense «he vist que» ni elogis inventats.",
+              "La pregunta sobre responsabilitats permet corregir el contacte; el missatge no fingeix conèixer l’organització interna.",
+              "La invitació condicional evita inventar descontentament, urgència de compra o un projecte de substitució."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client.",
+            "follow": "Hola, [nom],\n\nReprenc breument la pregunta de sota sobre el suport entre les dues oficines.\n\nGràcies,\n[remitent]"
+          },
+          {
+            "heading": "Seqüència 2: responsable de compte i derivació",
+            "fact": "Un fabricant fictici descriu el seu programa de distribuïdors al web. El contacte gestiona aliances de canal.",
+            "unknown": "No estan confirmades les necessitats actuals del programa ni el responsable intern.",
+            "message": "Hola, [nom],\n\nQui gestiona el programa de distribuïdors de [àrea de producte]?\n\nAjudem fabricants a investigar possibles socis en un mercat definit i a iniciar converses pertinents. Si esteu avaluant una regió concreta, podríem comentar si us seria útil una llista petita d’empreses investigades.\n\nNo sé si incorporeu socis ara. Portes tu aquest tema?\n\nGràcies,\n[remitent]",
+            "notes": [
+              "L’inici pregunta pel programa real, sense suposar una expansió.",
+              "El seguiment repeteix només la pregunta sobre el responsable. Si s’esmenta un company, atura la seqüència automàtica i valora si escau una presentació.",
+              "Una derivació no és una reserva ni demostra interès del company."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client.",
+            "follow": "Hola, [nom],\n\nSeries la persona adequada per a la pregunta de sota sobre distribuïdors?\n\nGràcies,\n[remitent]"
+          },
+          {
+            "heading": "Seqüència 3: una revisió delimitada, sense una altra proposta extensa",
+            "fact": "Una empresa fictícia de serveis anuncia una ampliació de l’equip d’incorporació de clients. El contacte dirigeix operacions de clients.",
+            "unknown": "No sabem si necessita revisar processos o si ja ho està fent.",
+            "message": "Hola, [nom],\n\nAmb les noves funcions d’incorporació, manteniu el traspàs actual entre vendes i operacions de clients?\n\nTreballem aquests traspassos amb equips de serveis: qui rep el context, què cal confirmar i on es dirigeixen les preguntes. Si us serveix revisar una part del procés, podríem comentar un recorregut de client concret.\n\nSi ja ho teniu cobert, també em serveix saber-ho.\n\nGràcies,\n[remitent]",
+            "notes": [
+              "La revisió proposada continua delimitada; el recordatori no introdueix una oferta diferent.",
+              "No s’afegeix urgència, un cas inventat presentat com a real ni un altre argument llarg només per justificar un contacte.",
+              "Si la resposta diu que ja està cobert, es tanca la seqüència, sense discutir."
+            ],
+            "label": "Exemple fictici. Els noms i les situacions són inventats; no s’hi presenta cap resultat de client.",
+            "follow": "Hola, [nom],\n\nNomés reprenc la consulta de sota per saber si us resulta pertinent.\n\nGràcies,\n[remitent]"
+          }
+        ]
+      },
+      {
+        "heading": "Les respostes determinen el pas següent",
+        "body": [
+          "Atura el seguiment programat quan arribi una resposta i deixa que la revisi el responsable. Interès, pregunta, derivació, absència automàtica i rebuig requereixen decisions diferents. No mantinguis un recordatori programat perquè la resposta no fos la positiva que esperaves."
+        ],
+        "table": {
+          "caption": "Decisió i responsable segons la resposta",
+          "headers": [
+            "Resposta observada",
+            "Acció següent",
+            "No equival a"
+          ],
+          "rows": [
+            [
+              "Pregunta sobre l’abast",
+              "Respon la pregunta real i consulta el client si cal la seva experiència.",
+              "Una reserva"
+            ],
+            [
+              "Derivació a un company",
+              "Revisa funció i presentació proposada abans de contactar.",
+              "Interès del company"
+            ],
+            [
+              "Resposta automàtica d’absència",
+              "Pausa i revisa el context de retorn; no ho interpretis com a interès.",
+              "Una resposta positiva"
+            ],
+            [
+              "Sense interès / aturar",
+              "Tanca la seqüència i respecta la preferència als altres canals.",
+              "Permís per a una altra proposta"
+            ],
+            [
+              "Envia’m l’agenda",
+              "Envia l’enllaç autoritzat i verifica l’eventual reserva.",
+              "Una reunió confirmada o celebrada"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Coordina canals en lloc d’acumular contactes",
+        "body": [
+          "Omnicanal no vol dir que cada persona rebi tots els canals alhora. L’activitat pertinent a LinkedIn pot justificar començar-hi; si la persona no hi és activa i hi ha un correu adequat, pot començar l’email. Si no respon a la seqüència breu, revisa si un altre canal té un motiu real i un responsable acordat. Les trucades tenen un cost i un abast separats; no s’hi inclouen automàticament.",
+          "Mantén un historial únic perquè una resposta per LinkedIn aturi un recordatori per correu i el client conegui què s’ha parlat. Canviar de canal ha de millorar la pertinència, sense eludir un rebuig ni amagar contactes repetits de diferents remitents."
+        ]
+      },
+      {
+        "heading": "Informa de la conversa, no del nombre de recordatoris",
+        "body": [
+          "Distingeix enviaments, respostes humanes, interès rellevant, reserves originals, canvis de data, reunions celebrades i resultats qualificats. Utilitza l’agenda del client i accés autoritzat al CRM o al calendari, o la seva confirmació, per conciliar reserves. Un correu que proposa parlar indica interès, però encara no és una reserva. Conserva data i font originals si la reunió canvia de dia."
+        ]
+      }
+    ],
+    "related": [
+      "/guides/b2b-cold-email-copywriting/",
+      "/services/cold-email-lead-generation/",
+      "/guides/linkedin-prospecting-messages/"
+    ],
+    "faqs": [
+      {
+        "question": "Quants seguiments hauríem d’enviar?",
+        "answer": "No hi ha un òptim universal. Beespoke acostuma a utilitzar un seguiment breu després de l’inici i després valora si té sentit un altre canal apropiat. No afegeixis contactes només per omplir una seqüència."
+      },
+      {
+        "question": "És massa breu un simple recordatori?",
+        "answer": "Pot ser suficient si el missatge inicial explica una idea concreta i pertinent. No substitueix un bon primer missatge ni demostra un avantatge en taxa de resposta."
+      },
+      {
+        "question": "El correu ha d’anar sempre abans que LinkedIn?",
+        "answer": "No. Tria segons l’activitat rellevant de la persona i l’abast acordat. Pot ser millor començar per LinkedIn si hi és activa. Coordina responsabilitats i respecta respostes i rebutjos."
+      },
+      {
+        "question": "I si algú respon abans del recordatori?",
+        "answer": "Atura el seguiment programat i revisa la resposta. Interès, preguntes, derivacions, respostes automàtiques i rebutjos requereixen tractaments diferents; no continuïs només perquè no fos positiva."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GMass — cold-email follow-up",
+        "href": "https://www.gmass.co/blog/cold-email-follow-up/"
+      },
+      {
+        "label": "Saleshandy — cold-email sequences",
+        "href": "https://www.saleshandy.com/blog/cold-email-sequence/"
+      }
+    ],
+    "sourceMethodology": "El mètode operatiu prové del fundador de Beespoke. Els exemples són situacions formatives, tret que s’identifiquin expressament com a adaptacions inspeccionades i anonimitzades. Les fonts orienten les preguntes tractades; els seus resultats no es presenten com a nostres.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Treballa la teva decisió",
+      "heading": "Fitxa de seqüències i decisions per resposta",
+      "intro": "Registra les evidències, el motiu individual per contactar i el responsable següent. Mantén visibles les incògnites.",
+      "navLabel": "Fitxa de seqüències i decisions per resposta",
+      "note": "Notes privades: no hi introdueixis informació confidencial ni identificativa. No es carrega ni desa res; exporta el que calgui abans de sortir."
+    },
+    "workbook": {
+      "fields": [
+        "Context de seqüència o persona",
+        "Enviament anterior o evidències",
+        "Estat actual de resposta",
+        "Motiu de l’acció següent",
+        "Missatge o acció següent",
+        "Condició d’aturada o espera",
+        "Responsable"
+      ],
+      "legend": "Fitxa de seqüències i decisions per resposta",
+      "reportTitle": "Fitxa de seqüències i decisions per resposta",
+      "samples": [
+        [
+          "Sense resposta a l’inici",
+          "Sense registrar; verificar abans d’actuar",
+          "No s’observa resposta",
+          "El primer missatge pertinent es pot rellegir",
+          "Un recordatori breu en el moment acordat",
+          "Esperar si canvien evidències, moment o abast",
+          "Responsable de campanya o respostes"
+        ],
+        [
+          "Pregunta sobre l’abast",
+          "Sense registrar; verificar abans d’actuar",
+          "Pregunta sobre l’abast",
+          "Una reserva",
+          "Respon la pregunta real i consulta el client si cal la seva experiència.",
+          "Aturar el seguiment programat davant d’una resposta",
+          "Responsable de campanya o respostes"
+        ],
+        [
+          "Derivació a un company",
+          "Sense registrar; verificar abans d’actuar",
+          "Derivació a un company",
+          "Interès del company",
+          "Revisa funció i presentació proposada abans de contactar.",
+          "Aturar el seguiment programat davant d’una resposta",
+          "Responsable de campanya o respostes"
+        ],
+        [
+          "Resposta automàtica d’absència",
+          "Sense registrar; verificar abans d’actuar",
+          "Resposta automàtica d’absència",
+          "Una resposta positiva",
+          "Pausa i revisa el context de retorn; no ho interpretis com a interès.",
+          "Aturar el seguiment programat davant d’una resposta",
+          "Responsable de campanya o respostes"
+        ],
+        [
+          "Sense interès / aturar",
+          "Sense registrar; verificar abans d’actuar",
+          "Sense interès / aturar",
+          "Permís per a una altra proposta",
+          "Tanca la seqüència i respecta la preferència als altres canals.",
+          "Aturar el seguiment programat davant d’una resposta",
+          "Responsable de campanya o respostes"
+        ],
+        [
+          "Envia’m l’agenda",
+          "Sense registrar; verificar abans d’actuar",
+          "Envia’m l’agenda",
+          "Una reunió confirmada o celebrada",
+          "Envia l’enllaç autoritzat i verifica l’eventual reserva.",
+          "Aturar el seguiment programat davant d’una resposta",
+          "Responsable de campanya o respostes"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Abans de lliurar-ho a un proveïdor",
+      "body": [
+        "Revisa conjuntament encaix, evidències i responsabilitats. Un missatge útil no demostra una reserva ni una oportunitat qualificada."
+      ],
+      "items": [
+        "Aprova les persones proposades i les exclusions.",
+        "Comprova la font de cada afirmació concreta i explicita les incògnites.",
+        "Acorda canal autoritzat, seguiment breu, responsable de respostes i condicions d’aturada.",
+        "Verifica el resultat de l’agenda mitjançant accés autoritzat o confirmació del client."
+      ]
+    },
+    "savedReminder": {
+      "heading": "Un recordatori anonimitzat d’una campanya de client",
+      "body": "Aquesta és una adaptació anonimitzada del seguiment desat que es va revisar en una campanya de correu de client. L’inici utilitzava camps per persona; per a aquesta guia no es va revisar el text resolt dels destinataris. El recordatori il·lustra el seguiment concís que fem servir. No és un cas de taxes de resposta ni reserves.",
+      "message": "Hola, [nom],\n\nReprenc breument aquest missatge.\n\nSalutacions,\n[remitent]",
+      "label": "Adaptació traduïda i anonimitzada; sense afirmar resultats"
+    }
+  },
+  "fr": {
+    "title": "Relance de cold email : séquences courtes et exemples | Beespoke",
+    "description": "Préparez une courte séquence de cold email : trois exemples complets, décisions selon les réponses, règles d’arrêt et fiche privée. Coordonnez email et LinkedIn.",
+    "eyebrow": "Un rappel utile, pas un deuxième argumentaire",
+    "h1": "Relance de cold email : une séquence courte qui sait s’arrêter",
+    "answer": "Une relance de cold email doit rappeler brièvement un premier message pertinent resté sans réponse. Beespoke utilise généralement une ouverture individuelle et un court rappel, souvent environ quatre jours plus tard. Le délai dépend de la campagne ; toute réponse modifie le plan. Choisissez le canal suivant à partir d’éléments concrets, respectez les refus et vérifiez les réservations séparément des réponses et clics.",
+    "path": "/guides/cold-email-follow-up/",
+    "serviceFamily": "outbound",
+    "sections": [
+      {
+        "heading": "À quoi doit servir une relance de cold email",
+        "body": [
+          "Une relance rappelle un message pertinent resté sans réponse et facilite la réaction du destinataire. Elle n’a pas à reconstruire tout l’argumentaire. Beespoke utilise généralement deux emails : une ouverture documentée individuellement et un bref rappel, souvent environ quatre jours plus tard. C’est notre pratique habituelle, pas un optimum universel prouvé ni une promesse de réponses.",
+          "Partez du principe que le destinataire peut relire l’email initial. Un court « je reviens sur ce message » peut suffire si le premier explique déjà sa pertinence. Si l’ouverture est vague ou vise la mauvaise personne, un rappel supplémentaire ne corrige ni le ciblage ni le texte."
+        ]
+      },
+      {
+        "heading": "Choisissez le moment à partir de l’envoi réel et du contexte",
+        "body": [
+          "« Environ quatre jours » décrit un intervalle habituel, pas une règle obligatoire. Convenez du délai réel et de la fenêtre d’envoi de la campagne. Week-end, fuseau horaire, absence ou changement de contexte peuvent modifier l’action appropriée. Vérifiez l’envoi précédent et tous les canaux de réponse ; ne calculez pas la relance depuis l’import de la liste."
+        ]
+      },
+      {
+        "heading": "Trois séquences complètes de deux messages",
+        "body": [
+          "Chaque exemple comprend l’ouverture, la courte relance et les notes de décision. Les situations sont fictives. Elles illustrent un processus, pas des messages délivrés ni des résultats mesurés. Le guide de rédaction développe la revue de la recherche au premier message."
+        ],
+        "examples": [
+          {
+            "heading": "Séquence 1 : une question précise, puis un court rappel",
+            "fact": "Une entreprise fictive annonce un deuxième bureau sur son site. La personne contactée dirige les opérations.",
+            "unknown": "Le prestataire actuel, les échéances, le budget et les difficultés réelles de support sont inconnus.",
+            "message": "Bonjour [prénom],\n\nAvec votre deuxième bureau, une autre équipe aura bientôt besoin d’assistance informatique au quotidien. Est-ce vous qui coordonnez ce service entre les deux sites ?\n\nNous aidons les entreprises de [zone desservie] à conserver un même processus de support entre bureaux. Je ne connais pas votre organisation actuelle et ne suppose donc pas que vous cherchiez à changer de prestataire. Si la couverture fait partie de vos sujets, un bref échange sur les deux sites serait-il utile ?\n\nMerci,\n[expéditeur]",
+            "notes": [
+              "L’ouverture évoque directement l’expansion observée, sans formule « j’ai remarqué » ni éloge inventé.",
+              "La question sur les responsabilités permet une correction ; le message ne prétend pas connaître l’organisation interne.",
+              "L’invitation conditionnelle évite d’inventer une insatisfaction, une urgence ou un projet de remplacement."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué.",
+            "follow": "Bonjour [prénom],\n\nJe reviens brièvement sur la question ci-dessous concernant le support des deux bureaux.\n\nMerci,\n[expéditeur]"
+          },
+          {
+            "heading": "Séquence 2 : le responsable et une orientation",
+            "fact": "Un fabricant fictif présente son programme de distributeurs sur son site. Le contact gère les partenariats de distribution.",
+            "unknown": "Les besoins actuels du programme et son responsable interne ne sont pas confirmés.",
+            "message": "Bonjour [prénom],\n\nQui suit le programme de distributeurs pour [domaine produit] ?\n\nNous aidons les fabricants à rechercher des partenaires potentiels dans un marché précis et à engager des conversations pertinentes. Si vous examinez une région particulière, nous pourrions discuter de l’utilité d’une petite liste d’entreprises documentées.\n\nJe ne sais pas si vous recrutez des partenaires actuellement. Est-ce vous qui suivez ce sujet ?\n\nMerci,\n[expéditeur]",
+            "notes": [
+              "L’ouverture interroge le programme réel, sans présumer d’un projet d’expansion.",
+              "La relance reprend seulement la question d’orientation. Si un collègue est cité, arrêtez la séquence automatique et examinez la pertinence d’une introduction.",
+              "Une orientation ne constitue pas une réservation et ne prouve pas l’intérêt du collègue."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué.",
+            "follow": "Bonjour [prénom],\n\nSeriez-vous la bonne personne pour la question ci-dessous sur les distributeurs ?\n\nMerci,\n[expéditeur]"
+          },
+          {
+            "heading": "Séquence 3 : un examen délimité, sans nouvel argumentaire",
+            "fact": "Une entreprise fictive de services annonce un renforcement de son équipe d’intégration client. Le contact dirige les opérations clients.",
+            "unknown": "Nous ignorons si une revue des processus est nécessaire ou déjà engagée.",
+            "message": "Bonjour [prénom],\n\nAvec les nouveaux rôles d’intégration, conservez-vous la transmission actuelle entre les ventes et les opérations clients ?\n\nNous examinons ces transmissions avec des équipes de services : qui reçoit le contexte, ce qui doit être confirmé et où adresser les questions. Si revoir une partie du processus est utile, nous pourrions échanger sur un seul parcours client.\n\nSi votre équipe a déjà tout prévu, c’est également utile à savoir.\n\nMerci,\n[expéditeur]",
+            "notes": [
+              "L’examen proposé reste limité ; le rappel n’introduit pas une autre offre.",
+              "Aucune urgence, étude de cas inventée présentée comme réelle ou longue argumentation n’est ajoutée pour justifier un contact supplémentaire.",
+              "Une réponse indiquant que le sujet est couvert justifie de clore la séquence, pas de contester le destinataire."
+            ],
+            "label": "Exemple fictif. Les noms et situations sont inventés ; aucun résultat client n’est revendiqué.",
+            "follow": "Bonjour [prénom],\n\nJe vérifie simplement si la question ci-dessous sur l’intégration vous concerne.\n\nMerci,\n[expéditeur]"
+          }
+        ]
+      },
+      {
+        "heading": "Les réponses déterminent la suite",
+        "body": [
+          "Arrêtez la relance programmée lorsqu’une réponse arrive et confiez-la au responsable. Intérêt, question, orientation, absence automatique et refus nécessitent des décisions différentes. Ne laissez pas un rappel programmé parce que la réponse n’était pas celle espérée."
+        ],
+        "table": {
+          "caption": "Décision et responsable selon la réponse",
+          "headers": [
+            "Réponse observée",
+            "Prochaine action",
+            "Ce n’est pas"
+          ],
+          "rows": [
+            [
+              "Question sur le périmètre",
+              "Répondez à la vraie question et impliquez le client si son expertise est nécessaire.",
+              "Une réservation"
+            ],
+            [
+              "Orientation vers un collègue",
+              "Examinez le rôle et l’introduction proposée avant de contacter la personne.",
+              "L’intérêt du collègue"
+            ],
+            [
+              "Réponse automatique d’absence",
+              "Suspendez et examinez le contexte de retour ; ce n’est pas de l’intérêt.",
+              "Une réponse positive"
+            ],
+            [
+              "Pas intéressé / arrêt",
+              "Clôturez la séquence et respectez la préférence sur les autres canaux.",
+              "Une autorisation de relancer ailleurs"
+            ],
+            [
+              "Envoyez votre agenda",
+              "Envoyez le lien autorisé et vérifiez la réservation éventuelle.",
+              "Un rendez-vous confirmé ou tenu"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Coordonnez les canaux plutôt que multiplier les sollicitations",
+        "body": [
+          "Omnicanal ne signifie pas solliciter chaque personne sur tous les canaux en parallèle. Une activité pertinente sur LinkedIn peut justifier de commencer sur ce réseau ; si la personne y est inactive et qu’une adresse adaptée existe, l’email peut venir en premier. Sans réponse à la courte séquence, examinez la raison réelle d’un autre canal et son responsable. Les appels ont un coût et un périmètre distincts, sans inclusion automatique.",
+          "Conservez un historique unique pour qu’une réponse LinkedIn interrompe une relance email et que le client connaisse les échanges précédents. Changer de canal doit améliorer la pertinence, sans contourner un refus ni masquer des contacts répétés par plusieurs expéditeurs."
+        ]
+      },
+      {
+        "heading": "Rendez compte des conversations, pas du nombre de relances",
+        "body": [
+          "Distinguez envois, réponses humaines, intérêt pertinent, réservations initiales, reports, entretiens tenus et résultats qualifiés. Utilisez l’agenda du client et un accès autorisé au CRM ou au calendrier, ou sa confirmation, pour rapprocher les réservations. Un email proposant un appel traduit un intérêt, mais pas encore une réservation. Conservez la date et la source initiales en cas de report."
+        ]
+      }
+    ],
+    "related": [
+      "/guides/b2b-cold-email-copywriting/",
+      "/services/cold-email-lead-generation/",
+      "/guides/linkedin-prospecting-messages/"
+    ],
+    "faqs": [
+      {
+        "question": "Combien de relances faut-il envoyer ?",
+        "answer": "Il n’existe pas d’optimum universel. Beespoke utilise généralement une courte relance après l’ouverture, puis examine la pertinence d’un autre canal. N’ajoutez pas de sollicitations pour remplir une séquence."
+      },
+      {
+        "question": "Un simple rappel est-il trop court ?",
+        "answer": "Il peut suffire si le premier message explique déjà une idée précise et pertinente. Il ne remplace pas une bonne ouverture et ne prouve pas un meilleur taux de réponse."
+      },
+      {
+        "question": "L’email doit-il toujours précéder LinkedIn ?",
+        "answer": "Non. Choisissez selon l’activité pertinente de la personne et le périmètre convenu. Un utilisateur actif de LinkedIn peut être approché d’abord sur ce réseau. Coordonnez les responsabilités et respectez réponses et refus."
+      },
+      {
+        "question": "Que faire si une réponse arrive avant le rappel ?",
+        "answer": "Arrêtez la relance programmée et examinez la réponse. Intérêt, questions, orientations, réponses automatiques et refus demandent des traitements distincts ; ne continuez pas simplement parce que la réponse n’était pas positive."
+      }
+    ],
+    "sources": [
+      {
+        "label": "GMass — cold-email follow-up",
+        "href": "https://www.gmass.co/blog/cold-email-follow-up/"
+      },
+      {
+        "label": "Saleshandy — cold-email sequences",
+        "href": "https://www.saleshandy.com/blog/cold-email-sequence/"
+      }
+    ],
+    "sourceMethodology": "La méthode opérationnelle est décrite par le fondateur de Beespoke. Les exemples sont des situations de formation, sauf indication explicite d’une adaptation inspectée et anonymisée. Les sources éclairent les questions traitées ; leurs résultats ne sont pas présentés comme les nôtres.",
+    "tool": {
+      "id": "buyer-worksheet",
+      "eyebrow": "Préparez votre propre décision",
+      "heading": "Fiche de séquence et décisions selon les réponses",
+      "intro": "Notez les éléments observés, la raison individuelle du contact et le prochain responsable. Gardez les inconnues visibles.",
+      "navLabel": "Fiche de séquence et décisions selon les réponses",
+      "note": "Notes privées : ne saisissez aucune information confidentielle ou permettant une identification. Rien n’est transmis ni enregistré ; exportez les éléments utiles avant de partir."
+    },
+    "workbook": {
+      "fields": [
+        "Contexte de la séquence ou personne",
+        "Envoi précédent ou preuve",
+        "État actuel de la réponse",
+        "Raison de la prochaine action",
+        "Prochain message ou action",
+        "Condition d’arrêt ou d’attente",
+        "Responsable"
+      ],
+      "legend": "Fiche de séquence et décisions selon les réponses",
+      "reportTitle": "Fiche de séquence et décisions selon les réponses",
+      "samples": [
+        [
+          "Aucune réponse après l’ouverture",
+          "Non renseigné ; vérifier avant d’agir",
+          "Aucune réponse observée",
+          "Le premier message pertinent peut être relu",
+          "Un bref rappel au moment convenu",
+          "Attendre si les éléments, le moment ou le périmètre changent",
+          "Responsable de campagne ou des réponses"
+        ],
+        [
+          "Question sur le périmètre",
+          "Non renseigné ; vérifier avant d’agir",
+          "Question sur le périmètre",
+          "Une réservation",
+          "Répondez à la vraie question et impliquez le client si son expertise est nécessaire.",
+          "Arrêter la relance programmée après une réponse",
+          "Responsable de campagne ou des réponses"
+        ],
+        [
+          "Orientation vers un collègue",
+          "Non renseigné ; vérifier avant d’agir",
+          "Orientation vers un collègue",
+          "L’intérêt du collègue",
+          "Examinez le rôle et l’introduction proposée avant de contacter la personne.",
+          "Arrêter la relance programmée après une réponse",
+          "Responsable de campagne ou des réponses"
+        ],
+        [
+          "Réponse automatique d’absence",
+          "Non renseigné ; vérifier avant d’agir",
+          "Réponse automatique d’absence",
+          "Une réponse positive",
+          "Suspendez et examinez le contexte de retour ; ce n’est pas de l’intérêt.",
+          "Arrêter la relance programmée après une réponse",
+          "Responsable de campagne ou des réponses"
+        ],
+        [
+          "Pas intéressé / arrêt",
+          "Non renseigné ; vérifier avant d’agir",
+          "Pas intéressé / arrêt",
+          "Une autorisation de relancer ailleurs",
+          "Clôturez la séquence et respectez la préférence sur les autres canaux.",
+          "Arrêter la relance programmée après une réponse",
+          "Responsable de campagne ou des réponses"
+        ],
+        [
+          "Envoyez votre agenda",
+          "Non renseigné ; vérifier avant d’agir",
+          "Envoyez votre agenda",
+          "Un rendez-vous confirmé ou tenu",
+          "Envoyez le lien autorisé et vérifiez la réservation éventuelle.",
+          "Arrêter la relance programmée après une réponse",
+          "Responsable de campagne ou des réponses"
+        ]
+      ]
+    },
+    "decisionGuide": {
+      "heading": "Avant de transmettre ce travail à un prestataire",
+      "body": [
+        "Examinez ensemble la pertinence, les preuves et les responsabilités. Un message utile ne prouve ni réservation ni opportunité qualifiée."
+      ],
+      "items": [
+        "Validez les interlocuteurs proposés et les exclusions.",
+        "Vérifiez la source de chaque affirmation précise et explicitez les inconnues.",
+        "Convenez du canal autorisé, de la courte relance, du responsable des réponses et des conditions d’arrêt.",
+        "Vérifiez le résultat dans l’agenda par un accès autorisé ou une confirmation du client."
+      ]
+    },
+    "savedReminder": {
+      "heading": "Un rappel anonymisé issu d’une campagne client enregistrée",
+      "body": "Il s’agit d’une adaptation anonymisée de la relance enregistrée et inspectée dans une campagne email client. L’ouverture utilisait des champs individuels ; les messages destinataires résolus n’ont pas été inspectés pour ce guide. Ce rappel illustre la courte relance que nous utilisons, sans constituer une étude de taux de réponse ou de réservations.",
+      "message": "Bonjour [prénom],\n\nJe reviens brièvement sur ce message.\n\nBien à vous,\n[expéditeur]",
+      "label": "Adaptation traduite et anonymisée ; aucun résultat revendiqué"
+    }
+  }
+}
