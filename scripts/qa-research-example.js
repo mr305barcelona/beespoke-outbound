@@ -15,7 +15,10 @@ for(const l of locales){
  for(const worksheet of ['beespoke-icp-scorecard','beespoke-outbound-campaign-brief'])assert(html.includes(`href="${prefix(l)}/downloads/${worksheet}/"`),'Keep worksheet handoff in the selected language');
  const hub=read((prefix(l)+'/resources/').slice(1)+'index.html');
  assert(hub.includes(`href="${route}"`),'The new resource must be discoverable');
- assert(!/calendly|mailto:|<form|<input|<textarea/i.test(html),'The example must not collect data or present a live outreach or booking action');
+ const example=html.match(/<main\b[^>]*>[\s\S]*?<\/main>/)?.[0];
+ assert(example,'Keep a distinct example document');
+ assert(!/calendly|mailto:|<form|<input|<textarea/i.test(example),'The fictional example itself must not collect data or present a live outreach or booking action');
+ assert(html.includes('class="site-header journal-site-header"'),'The example retains the shared site navigation');
 }
 let count=0;
 for(const p of JSON.parse(read('data/seo-pages.json')).filter(p=>p.path.startsWith('/services/')))for(const l of locales){
