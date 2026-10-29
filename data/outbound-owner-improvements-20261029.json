@@ -1,0 +1,385 @@
+{
+  "/services/b2b-lead-generation/": {
+    "id": "outsourcing-responsibilities",
+    "en": {
+      "heading": "Outsourcing B2B lead generation: who does what",
+      "body": [
+        "Lead generation outsourcing transfers the agreed prospecting operation, not the judgment about who makes a good customer. Beespoke researches accounts and people, proposes the lead list, writes individually relevant messages and runs the agreed outreach when authorized. Your main campaign input is reviewing the proposed targets and flagging poor fits, existing relationships and exclusions.",
+        "Prospecting identifies and approaches suitable people; lead generation also concerns how relevant interest becomes an identifiable commercial next step. A contact list alone is neither a qualified lead nor a meeting. We handle replies, qualification and calendar coordination against agreed criteria. Your team leads discovery, proposals and closing, and supplies expert answers when a commercial or technical question needs its judgment."
+      ],
+      "scopeCorrections": [
+        [
+          "its LinkedIn-led scope",
+          "its agreed cold email and/or LinkedIn scope"
+        ]
+      ]
+    },
+    "es": {
+      "heading": "Externalizar la generación de leads B2B: quién hace qué",
+      "body": [
+        "Externalizar la generación de leads transfiere la operación de prospección acordada, no el criterio sobre quién es un buen cliente. Beespoke investiga empresas y personas, propone la lista, redacta mensajes individuales y ejecuta la prospección autorizada. Tu principal aportación a la campaña es revisar los contactos propuestos y señalar perfiles inadecuados, relaciones existentes y exclusiones.",
+        "La prospección identifica y contacta a personas adecuadas; la generación de leads también comprende cómo un interés relevante se convierte en un siguiente paso comercial identificable. Una lista de contactos no equivale a leads cualificados ni a reuniones. Gestionamos respuestas, cualificación y coordinación de agenda con los criterios acordados. Tu equipo dirige el diagnóstico comercial, las propuestas y el cierre, y aporta respuestas técnicas o comerciales que requieren su criterio."
+      ],
+      "scopeCorrections": [
+        [
+          "su alcance liderado por LinkedIn",
+          "su alcance acordado de cold email y/o LinkedIn"
+        ]
+      ]
+    },
+    "ca": {
+      "heading": "Externalitzar la generació de leads B2B: qui fa què",
+      "body": [
+        "Externalitzar la generació de leads transfereix l’operació de prospecció acordada, no el criteri sobre qui és un bon client. Beespoke investiga empreses i persones, proposa la llista, redacta missatges individuals i executa la prospecció autoritzada. La teva aportació principal a la campanya és revisar els contactes proposats i indicar perfils inadequats, relacions existents i exclusions.",
+        "La prospecció identifica i contacta persones adequades; la generació de leads també comprèn com un interès rellevant es converteix en un pas comercial identificable. Una llista de contactes no equival a leads qualificats ni a reunions. Gestionem respostes, qualificació i coordinació de l’agenda amb els criteris acordats. El teu equip dirigeix el diagnòstic comercial, les propostes i el tancament, i aporta les respostes tècniques o comercials que necessiten el seu criteri."
+      ],
+      "scopeCorrections": [
+        [
+          "el seu abast liderat per LinkedIn",
+          "el seu abast acordat de cold email i/o LinkedIn"
+        ]
+      ]
+    },
+    "fr": {
+      "heading": "Externaliser la génération de leads B2B : qui fait quoi",
+      "body": [
+        "Externaliser la génération de leads transfère la prospection convenue, sans remplacer votre jugement sur le profil d’un bon client. Beespoke recherche les entreprises et les interlocuteurs, propose la liste, rédige des messages individuels et met en œuvre la prospection autorisée. Votre principale contribution à la campagne consiste à valider les contacts proposés et à signaler les profils inadaptés, les relations existantes et les exclusions.",
+        "La prospection identifie et approche les personnes pertinentes ; la génération de leads concerne aussi la transformation d’un intérêt pertinent en prochaine étape commerciale identifiable. Une liste de contacts ne constitue ni des leads qualifiés ni des rendez-vous. Nous gérons les réponses, la qualification et la coordination des agendas selon les critères convenus. Votre équipe mène la découverte commerciale, les propositions et la conclusion des ventes, et apporte les réponses spécialisées qui nécessitent son expertise."
+      ],
+      "scopeCorrections": [
+        [
+          "sa portée dirigée par LinkedIn",
+          "son périmètre convenu de cold email et/ou LinkedIn"
+        ]
+      ]
+    }
+  },
+  "/services/b2b-appointment-setting/": {
+    "id": "outsourced-appointment-workflow",
+    "en": {
+      "heading": "How outsourced appointment setting works",
+      "body": [
+        "Outsourced appointment setting connects suitable people, relevant outreach and a verifiable calendar handoff. Outbound appointment setting should begin with your approval of the proposed accounts and people, not with a quota of invitations. Beespoke researches the individual context and chooses the initial channel from the evidence: relevant LinkedIn activity can support LinkedIn-first; a suitable email may be the better starting point for someone inactive there.",
+        "We use a shared message structure with genuinely individual content. A typical email sequence is the first message plus one brief follow-up, often about four days later, rather than repeated long pitches. A useful initial email can be longer when its context earns the space. Channel changes follow the person and the response; a decline is not a reason to try the same pitch elsewhere. Calling is separately scoped and quoted.",
+        "A suitable conversation goes through your existing Calendly, Google Calendar or other booking link. Authorized CRM/calendar access or your confirmation establishes whether a meeting was booked. We keep a reply, a calendar-link click, a booked appointment and a held qualified conversation separate. Agree the definition in the existing builder before evaluating a provider."
+      ]
+    },
+    "es": {
+      "heading": "Cómo funciona la concertación de reuniones externalizada",
+      "body": [
+        "La concertación de reuniones externalizada conecta personas adecuadas, mensajes relevantes y un traspaso verificable a la agenda. Debe empezar por tu aprobación de las empresas y personas propuestas, no por una cuota de invitaciones. Beespoke investiga el contexto individual y elige el canal inicial con pruebas: la actividad relevante en LinkedIn puede justificar empezar allí; un correo adecuado puede ser preferible para quien no está activo en esa red.",
+        "Usamos una estructura común con contenido verdaderamente individual. Una secuencia habitual de correo comprende el primer mensaje y un seguimiento breve, a menudo unos cuatro días después, en lugar de reiterar argumentos extensos. El primer correo puede ser más largo si el contexto lo justifica. Los cambios de canal dependen de la persona y su respuesta; un rechazo no justifica repetir la propuesta por otra vía. Las llamadas tienen alcance y presupuesto separados.",
+        "La conversación se agenda mediante tu enlace actual de Calendly, Google Calendar u otra herramienta. El acceso autorizado al CRM o calendario, o tu confirmación, permite comprobar si se ha reservado. Distinguimos respuesta, clic en el enlace, reserva y reunión cualificada celebrada. Acordad la definición con la herramienta existente antes de evaluar a un proveedor."
+      ]
+    },
+    "ca": {
+      "heading": "Com funciona la concertació de reunions externalitzada",
+      "body": [
+        "La concertació de reunions externalitzada connecta persones adequades, missatges rellevants i un traspàs verificable a l’agenda. Ha de començar per la teva aprovació de les empreses i persones proposades, no per una quota d’invitacions. Beespoke investiga el context individual i tria el canal inicial amb evidències: l’activitat rellevant a LinkedIn pot justificar començar-hi; un correu adequat pot ser preferible per a qui no hi és actiu.",
+        "Utilitzem una estructura comuna amb contingut realment individual. Una seqüència habitual de correu inclou el primer missatge i un seguiment breu, sovint uns quatre dies després, en comptes de repetir arguments llargs. El primer correu pot ser més extens si el context ho justifica. Els canvis de canal depenen de la persona i la resposta; un rebuig no justifica repetir la proposta per una altra via. Les trucades tenen abast i pressupost separats.",
+        "La conversa es reserva amb el teu enllaç actual de Calendly, Google Calendar o una altra eina. L’accés autoritzat al CRM o al calendari, o la teva confirmació, permet comprovar la reserva. Distingim resposta, clic a l’enllaç, reserva i reunió qualificada celebrada. Acordeu la definició amb l’eina existent abans d’avaluar un proveïdor."
+      ]
+    },
+    "fr": {
+      "heading": "Comment fonctionne la prise de rendez-vous externalisée",
+      "body": [
+        "La prise de rendez-vous externalisée relie des interlocuteurs pertinents, des messages adaptés et une transmission vérifiable vers votre agenda. Elle commence par votre validation des entreprises et personnes proposées, plutôt que par un quota d’invitations. Beespoke recherche le contexte individuel et choisit le canal initial à partir d’éléments concrets : une activité pertinente sur LinkedIn peut justifier de commencer sur ce réseau ; une adresse adaptée peut rendre l’email préférable pour une personne qui y est inactive.",
+        "Une structure commune sert de cadre à des messages réellement individuels. Une séquence email habituelle comprend le premier message et une courte relance, souvent environ quatre jours plus tard, plutôt que plusieurs argumentaires longs. Le premier email peut être plus développé lorsque son contexte le justifie. Le changement de canal dépend de la personne et de sa réponse ; un refus ne justifie pas de répéter la proposition ailleurs. Les appels ont un périmètre et un devis distincts.",
+        "La conversation passe par votre lien Calendly, Google Calendar ou autre outil habituel. Un accès autorisé au CRM ou à l’agenda, ou votre confirmation, permet de vérifier la réservation. Réponse, clic sur le lien, rendez-vous réservé et entretien qualifié tenu restent distincts. Convenez de cette définition avec l’outil existant avant de comparer les prestataires."
+      ]
+    }
+  },
+  "/services/outsourced-sdr/": {
+    "id": "sdr-service-models",
+    "en": {
+      "heading": "SDR as a service, fractional SDR and managed campaigns",
+      "body": [
+        "SDR as a service and sales development outsourcing describe ways to transfer prospecting work. They do not specify who researches, writes, handles replies or owns the sales handoff. Ask for those tasks and the actual availability in writing. A fractional SDR usually means a share of a person’s capacity; that is a different purchase from a managed campaign with agreed responsibilities.",
+        "Beespoke manages cold email and/or LinkedIn prospecting. We research the people, propose the targets for client approval, write individual messages and configure agreed outreach when authorized. Reply handling, qualification and calendar coordination are part of the defined workflow. This does not automatically supply a dedicated part-time employee, full-time SDR, calling team or outsourced closer. Compare the work and retained decisions before comparing labels."
+      ]
+    },
+    "es": {
+      "heading": "SDR como servicio, SDR fraccional y campañas gestionadas",
+      "body": [
+        "SDR como servicio y desarrollo comercial externalizado describen formas de delegar la prospección. No especifican quién investiga, redacta, gestiona respuestas o se responsabiliza del traspaso a ventas. Pide esas tareas y la disponibilidad real por escrito. Un SDR fraccional suele representar una parte de la capacidad de una persona; es una compra distinta de una campaña gestionada con responsabilidades acordadas.",
+        "Beespoke gestiona prospección por cold email y/o LinkedIn. Investigamos a las personas, proponemos contactos para aprobación del cliente, redactamos mensajes individuales y configuramos la prospección autorizada. La gestión de respuestas, la cualificación y la coordinación de agenda forman parte del proceso definido. Esto no incorpora automáticamente un empleado dedicado a tiempo parcial, un SDR a jornada completa, un equipo de llamadas ni un responsable externo del cierre. Compara trabajo y decisiones retenidas antes que etiquetas."
+      ],
+      "scopeCorrections": [
+        [
+          "Beespoke es una campaña gestionada en LinkedIn",
+          "Beespoke ofrece una campaña gestionada de cold email y/o LinkedIn"
+        ]
+      ]
+    },
+    "ca": {
+      "heading": "SDR com a servei, SDR fraccional i campanyes gestionades",
+      "body": [
+        "SDR com a servei i desenvolupament comercial externalitzat descriuen maneres de delegar la prospecció. No especifiquen qui investiga, redacta, gestiona respostes o assumeix el traspàs a vendes. Demana aquestes tasques i la disponibilitat real per escrit. Un SDR fraccional acostuma a representar una part de la capacitat d’una persona; és una compra diferent d’una campanya gestionada amb responsabilitats acordades.",
+        "Beespoke gestiona prospecció per cold email i/o LinkedIn. Investiguem les persones, proposem contactes per a l’aprovació del client, redactem missatges individuals i configurem la prospecció autoritzada. La gestió de respostes, la qualificació i la coordinació de l’agenda formen part del procés definit. Això no incorpora automàticament un empleat dedicat a temps parcial, un SDR a jornada completa, un equip de trucades ni un responsable extern del tancament. Compara feina i decisions retingudes abans que etiquetes."
+      ],
+      "scopeCorrections": [
+        [
+          "Beespoke és una campanya gestionada a LinkedIn",
+          "Beespoke ofereix una campanya gestionada de cold email i/o LinkedIn"
+        ]
+      ]
+    },
+    "fr": {
+      "heading": "SDR à la demande, SDR à temps partagé et campagnes gérées",
+      "body": [
+        "Les expressions SDR à la demande et développement commercial externalisé désignent différentes façons de déléguer la prospection. Elles ne précisent pas qui recherche, rédige, traite les réponses ou transmet le contexte aux commerciaux. Demandez ces tâches et la disponibilité réelle par écrit. Un SDR à temps partagé représente généralement une part de la capacité d’une personne ; cet achat diffère d’une campagne gérée avec des responsabilités convenues.",
+        "Beespoke gère la prospection par cold email et/ou LinkedIn. Nous recherchons les interlocuteurs, proposons les cibles à votre validation, rédigeons des messages individuels et configurons la prospection autorisée. Le traitement des réponses, la qualification et la coordination des agendas appartiennent au processus défini. Cela ne fournit pas automatiquement un salarié dédié à temps partiel, un SDR à temps plein, une équipe d’appels ou un commercial chargé de conclure. Comparez le travail et les décisions conservées avant les intitulés."
+      ]
+    }
+  },
+  "/services/linkedin-lead-generation/": {
+    "id": "linkedin-outreach-service-includes",
+    "en": {
+      "heading": "What our LinkedIn outreach service includes",
+      "body": [
+        "Our LinkedIn outreach services start with research into the company, relevant person and reason to contact them. Your team approves the proposed targets; Beespoke prepares individual messages, configures agreed activity when authorized, follows up briefly and manages replies and qualification. A reusable structure keeps the message coherent, but the substantive reason for writing changes for each person.",
+        "Recent relevant LinkedIn activity is one signal that the platform may be an appropriate place to start. It does not guarantee a response. Where email is more suitable, the agreed campaign can start there instead. We avoid long repeated pitches and coordinate the next channel rather than contacting the same person in parallel without a plan. A relevant conversation passes to your calendar and sales owner with its actual context."
+      ]
+    },
+    "es": {
+      "heading": "Qué incluye nuestro servicio de prospección en LinkedIn",
+      "body": [
+        "Nuestros servicios de prospección en LinkedIn empiezan por investigar la empresa, la persona pertinente y el motivo para contactarla. Tu equipo aprueba los contactos propuestos; Beespoke prepara mensajes individuales, configura la actividad autorizada, hace un seguimiento breve y gestiona respuestas y cualificación. Una estructura reutilizable da coherencia, pero el motivo concreto para escribir cambia con cada persona.",
+        "La actividad reciente y relevante en LinkedIn indica que la plataforma puede ser un punto de partida adecuado. No garantiza respuesta. Si el correo es más apropiado, la campaña acordada puede empezar por esa vía. Evitamos reiterar argumentos extensos y coordinamos el siguiente canal, en lugar de contactar a la misma persona en paralelo sin un plan. Una conversación pertinente llega a tu calendario y al responsable comercial con su contexto real."
+      ]
+    },
+    "ca": {
+      "heading": "Què inclou el nostre servei de prospecció a LinkedIn",
+      "body": [
+        "Els nostres serveis de prospecció a LinkedIn comencen investigant l’empresa, la persona pertinent i el motiu per contactar-la. El teu equip aprova els contactes proposats; Beespoke prepara missatges individuals, configura l’activitat autoritzada, fa un seguiment breu i gestiona respostes i qualificació. Una estructura reutilitzable dona coherència, però el motiu concret per escriure canvia amb cada persona.",
+        "L’activitat recent i rellevant a LinkedIn indica que la plataforma pot ser un punt de partida adequat. No garanteix resposta. Si el correu és més apropiat, la campanya acordada pot començar per aquesta via. Evitem repetir arguments llargs i coordinem el canal següent, en comptes de contactar la mateixa persona en paral·lel sense un pla. Una conversa pertinent arriba al teu calendari i al responsable comercial amb el seu context real."
+      ]
+    },
+    "fr": {
+      "heading": "Ce que comprend notre service de prospection LinkedIn",
+      "body": [
+        "Notre service de prospection LinkedIn commence par la recherche sur l’entreprise, le bon interlocuteur et la raison de le contacter. Votre équipe valide les cibles proposées ; Beespoke prépare les messages individuels, configure l’activité autorisée, effectue une courte relance et gère les réponses et la qualification. Une structure réutilisable assure la cohérence, mais la raison concrète d’écrire change pour chaque personne.",
+        "Une activité récente et pertinente sur LinkedIn indique que ce réseau peut être un bon point de départ. Elle ne garantit pas une réponse. Si l’email convient mieux, la campagne convenue peut commencer par ce canal. Nous évitons les longs argumentaires répétés et coordonnons le canal suivant, plutôt que de contacter la même personne en parallèle sans plan. Une conversation pertinente est transmise à votre agenda et au responsable commercial avec son contexte réel."
+      ]
+    }
+  },
+  "/services/outbound-sales-outsourcing/": {
+    "id": "choose-outbound-sales-agency",
+    "en": {
+      "heading": "Choosing an outbound sales agency: execution and sales ownership",
+      "body": [
+        "B2B sales outsourcing can mean different amounts of work. For a managed outbound campaign, ask who builds and researches the lead list, obtains target approval, writes the individual messages, configures the approved channel, handles replies and confirms a booking. Beespoke can own that campaign workflow; the client’s judgment is especially important when approving who should be contacted and what makes a meeting relevant.",
+        "A calendar handoff does not outsource the whole sale. Your team retains discovery, technical scoping, proposals, negotiations and closing. Use your calendar link and authorized CRM/calendar access or direct confirmation to reconcile bookings. Keep the original contact context, questions and unresolved issues with the sales handoff instead of passing a bare appointment."
+      ],
+      "scopeCorrections": [
+        [
+          "founder-led, LinkedIn-focused service",
+          "founder-led cold email and/or LinkedIn service"
+        ],
+        [
+          "message development, LinkedIn execution, response handling",
+          "message development, agreed cold email and/or LinkedIn execution, response handling"
+        ]
+      ]
+    },
+    "es": {
+      "heading": "Elegir una agencia de prospección comercial: ejecución y responsabilidades",
+      "body": [
+        "La externalización comercial B2B puede abarcar cantidades de trabajo distintas. En una campaña outbound gestionada, pregunta quién construye e investiga la lista, obtiene la aprobación de contactos, redacta mensajes individuales, configura el canal autorizado, gestiona respuestas y confirma reservas. Beespoke puede asumir ese proceso; el criterio del cliente es especialmente importante al aprobar a quién contactar y qué hace pertinente una reunión.",
+        "El traspaso a la agenda no externaliza toda la venta. Tu equipo conserva el diagnóstico comercial, el alcance técnico, las propuestas, la negociación y el cierre. Usa tu enlace de agenda y acceso autorizado al CRM o calendario, o confirmación directa, para conciliar reservas. Transmite el contexto original, las preguntas y los asuntos pendientes, en lugar de entregar una cita sin información."
+      ],
+      "scopeCorrections": [
+        [
+          "servicio dirigido por el fundador y centrado en LinkedIn",
+          "servicio de cold email y/o LinkedIn dirigido por el fundador"
+        ],
+        [
+          "desarrollo de mensajes, ejecución de LinkedIn, manejo de respuestas",
+          "desarrollo de mensajes, ejecución acordada de cold email y/o LinkedIn, gestión de respuestas"
+        ]
+      ]
+    },
+    "ca": {
+      "heading": "Triar una agència de prospecció comercial: execució i responsabilitats",
+      "body": [
+        "L’externalització comercial B2B pot incloure quantitats de feina diferents. En una campanya outbound gestionada, pregunta qui construeix i investiga la llista, obté l’aprovació de contactes, redacta missatges individuals, configura el canal autoritzat, gestiona respostes i confirma reserves. Beespoke pot assumir aquest procés; el criteri del client és especialment important per aprovar a qui contactar i què fa pertinent una reunió.",
+        "El traspàs a l’agenda no externalitza tota la venda. El teu equip conserva el diagnòstic comercial, l’abast tècnic, les propostes, la negociació i el tancament. Utilitza el teu enllaç d’agenda i accés autoritzat al CRM o al calendari, o confirmació directa, per conciliar reserves. Transmet el context original, les preguntes i els assumptes pendents, en lloc de lliurar una cita sense informació."
+      ],
+      "scopeCorrections": [
+        [
+          "servei dirigit pel fundador i centrat en LinkedIn",
+          "servei de cold email i/o LinkedIn dirigit pel fundador"
+        ],
+        [
+          "desenvolupament de missatges, execució a LinkedIn, gestió de respostes",
+          "desenvolupament de missatges, execució acordada de cold email i/o LinkedIn, gestió de respostes"
+        ]
+      ]
+    },
+    "fr": {
+      "heading": "Choisir une agence de prospection : exécution et responsabilités commerciales",
+      "body": [
+        "L’externalisation commerciale B2B peut transférer des tâches très différentes. Pour une campagne outbound gérée, demandez qui construit et documente la liste, obtient la validation des cibles, rédige les messages individuels, configure le canal autorisé, traite les réponses et confirme les réservations. Beespoke peut prendre en charge ce processus ; le jugement du client reste particulièrement important pour valider les interlocuteurs et les critères d’un rendez-vous pertinent.",
+        "La transmission vers un agenda n’externalise pas toute la vente. Votre équipe conserve la découverte, le cadrage technique, les propositions, la négociation et la conclusion. Utilisez votre lien de réservation et un accès autorisé au CRM ou à l’agenda, ou une confirmation directe, pour rapprocher les réservations. Transmettez le contexte initial, les questions et les points non résolus plutôt qu’un rendez-vous sans informations."
+      ],
+      "scopeCorrections": [
+        [
+          "service dirigé par le fondateur et centré sur LinkedIn",
+          "service de cold email et/ou LinkedIn dirigé par le fondateur"
+        ],
+        [
+          "développement du message, exécution LinkedIn, traitement des réponses",
+          "rédaction des messages, exécution convenue de cold email et/ou LinkedIn, traitement des réponses"
+        ]
+      ]
+    }
+  },
+  "/industries/it-services-lead-generation/": {
+    "id": "managed-service-provider-prospecting",
+    "en": {
+      "heading": "Lead generation for managed service providers",
+      "body": [
+        "For managed service providers, a plausible target needs more than an IT title. Define the geography, supported systems, company size, recurring-service fit and limits of the offer. Separate the technical evaluator from the owner of the business risk or recurring contract. Public hiring or expansion can justify a research question; it does not prove dissatisfaction with the incumbent or an imminent renewal.",
+        "Fictional planning example: an MSP serving one region researches a company opening a second office. The public announcement establishes expansion; it does not establish its IT provider, budget or renewal date. A relevant question is who owns continuity across the two offices and whether evaluating support coverage is useful. Before a meeting, confirm the actual service region, relevant role and interest; do not imply a security incident or make an unsupported savings claim."
+      ],
+      "scopeCorrections": [
+        [
+          "Beespoke can run focused LinkedIn-led outbound",
+          "Beespoke can run focused cold email and/or LinkedIn outbound"
+        ]
+      ]
+    },
+    "es": {
+      "heading": "Generación de leads para proveedores de servicios gestionados",
+      "body": [
+        "Para un proveedor de servicios gestionados, un contacto plausible necesita algo más que un cargo de TI. Define zona, sistemas compatibles, tamaño de empresa, encaje del servicio recurrente y límites de la oferta. Distingue al evaluador técnico de quien asume el riesgo empresarial o el contrato recurrente. Una contratación o expansión pública puede justificar una pregunta; no demuestra descontento con el proveedor actual ni una renovación inminente.",
+        "Ejemplo ficticio de planificación: un MSP regional investiga una empresa que abre una segunda oficina. El anuncio público confirma la expansión; no confirma proveedor de TI, presupuesto ni fecha de renovación. Una pregunta pertinente es quién coordina la continuidad entre oficinas y si sería útil revisar la cobertura de soporte. Antes de una reunión, confirma zona de servicio, función relevante e interés; no insinúes un incidente de seguridad ni ahorros sin pruebas."
+      ],
+      "scopeCorrections": [
+        [
+          "Beespoke puede gestionar una campaña de prospección centrada en LinkedIn",
+          "Beespoke puede gestionar una campaña de cold email y/o prospección en LinkedIn"
+        ]
+      ]
+    },
+    "ca": {
+      "heading": "Generació de leads per a proveïdors de serveis gestionats",
+      "body": [
+        "Per a un proveïdor de serveis gestionats, un contacte plausible necessita més que un càrrec de TI. Defineix zona, sistemes compatibles, mida d’empresa, encaix del servei recurrent i límits de l’oferta. Distingeix l’avaluador tècnic de qui assumeix el risc empresarial o el contracte recurrent. Una contractació o expansió pública pot justificar una pregunta; no demostra descontentament amb el proveïdor actual ni una renovació imminent.",
+        "Exemple fictici de planificació: un MSP regional investiga una empresa que obre una segona oficina. L’anunci públic confirma l’expansió; no confirma proveïdor de TI, pressupost ni data de renovació. Una pregunta pertinent és qui coordina la continuïtat entre oficines i si seria útil revisar la cobertura de suport. Abans d’una reunió, confirma zona de servei, funció rellevant i interès; no insinuïs un incident de seguretat ni estalvis sense proves."
+      ],
+      "scopeCorrections": [
+        [
+          "Beespoke pot gestionar una prospecció centrada en LinkedIn",
+          "Beespoke pot gestionar una campanya de cold email i/o prospecció a LinkedIn"
+        ]
+      ]
+    },
+    "fr": {
+      "heading": "Génération de leads pour les prestataires de services managés",
+      "body": [
+        "Pour un prestataire de services managés, un contact plausible exige plus qu’un intitulé informatique. Définissez la zone, les systèmes pris en charge, la taille d’entreprise, la pertinence d’un contrat récurrent et les limites de l’offre. Distinguez l’évaluateur technique du responsable du risque métier ou du contrat. Une annonce de recrutement ou d’expansion peut justifier une question ; elle ne prouve ni insatisfaction envers le prestataire actuel ni renouvellement imminent.",
+        "Exemple fictif de préparation : un prestataire régional recherche une entreprise qui ouvre un deuxième bureau. L’annonce publique établit cette expansion, mais pas son prestataire informatique, son budget ou son échéance contractuelle. Une question pertinente porte sur la continuité entre les bureaux et l’intérêt d’examiner la couverture du support. Avant un rendez-vous, confirmez la zone desservie, le rôle pertinent et l’intérêt ; ne suggérez ni incident de sécurité ni économies sans preuves."
+      ],
+      "scopeCorrections": [
+        [
+          "Beespoke peut mener une prospection ciblée sur LinkedIn",
+          "Beespoke peut mener une prospection ciblée par cold email et/ou LinkedIn"
+        ]
+      ]
+    }
+  },
+  "/guides/pay-per-meeting-lead-generation/": {
+    "id": "pay-per-appointment-definition",
+    "en": {
+      "heading": "What does pay-per-appointment lead generation actually buy?",
+      "body": [
+        "Pay-per-appointment lead generation is another label used for paying against a meeting-related unit. The label does not tell you whether the billable event is a booking, a held conversation or a meeting accepted against written qualification criteria. Ask for that event, the evidence and the treatment of cancellations, reschedules, duplicates and no-shows before comparing the quote.",
+        "Use the same cohort and currency when evaluating the effective cost. A rescheduled call is not automatically a new appointment, and a calendar-link click is not a booking. Beespoke’s own standard outbound offer remains a flat monthly service with no per-meeting fee; this guide helps evaluate a billing model and does not change that offer."
+      ]
+    },
+    "es": {
+      "heading": "¿Qué se compra al pagar por cita comercial?",
+      "body": [
+        "El pago por cita comercial es otra denominación para facturar una unidad relacionada con una reunión. La etiqueta no aclara si se cobra una reserva, una conversación celebrada o una reunión aceptada con criterios escritos de cualificación. Antes de comparar el presupuesto, pide esa definición, las pruebas y el tratamiento de cancelaciones, cambios de fecha, duplicados y ausencias.",
+        "Usa la misma cohorte y moneda para evaluar el coste efectivo. Una llamada reprogramada no constituye automáticamente una cita nueva, y un clic en el enlace no equivale a reserva. La oferta outbound estándar de Beespoke sigue siendo un servicio mensual fijo sin tarifa por reunión; esta guía ayuda a evaluar un modelo de facturación y no cambia esa oferta."
+      ]
+    },
+    "ca": {
+      "heading": "Què es compra quan es paga per cita comercial?",
+      "body": [
+        "El pagament per cita comercial és una altra denominació per facturar una unitat relacionada amb una reunió. L’etiqueta no aclareix si es cobra una reserva, una conversa celebrada o una reunió acceptada amb criteris escrits de qualificació. Abans de comparar el pressupost, demana aquesta definició, les evidències i el tractament de cancel·lacions, canvis de data, duplicats i absències.",
+        "Utilitza la mateixa cohort i moneda per avaluar el cost efectiu. Una trucada reprogramada no constitueix automàticament una cita nova, i un clic a l’enllaç no equival a una reserva. L’oferta outbound estàndard de Beespoke continua sent un servei mensual fix sense tarifa per reunió; aquesta guia ajuda a avaluar un model de facturació i no canvia aquesta oferta."
+      ]
+    },
+    "fr": {
+      "heading": "Que rémunère réellement une tarification au rendez-vous ?",
+      "body": [
+        "La tarification au rendez-vous rémunère une unité liée à une rencontre commerciale. Son intitulé ne précise pas si la facturation porte sur une réservation, un entretien tenu ou un rendez-vous accepté selon des critères écrits de qualification. Avant de comparer un devis, demandez cette définition, les justificatifs et le traitement des annulations, reports, doublons et absences.",
+        "Utilisez la même cohorte et la même devise pour évaluer le coût effectif. Un entretien reporté ne constitue pas automatiquement un nouveau rendez-vous, et un clic sur le lien ne prouve pas une réservation. L’offre outbound standard de Beespoke reste un forfait mensuel sans frais par rendez-vous ; ce guide aide à évaluer un modèle de facturation sans modifier cette offre."
+      ]
+    }
+  },
+  "/services/cold-email-lead-generation/": {
+    "id": "individual-email-campaign",
+    "en": {
+      "heading": "Individual cold-email messages within a managed campaign",
+      "body": [
+        "Cold-email lead generation starts with the person and the fit, not with filling a name into a universal pitch. Beespoke researches the account and role, proposes targets for your approval and writes the substantive reason for contact individually. A shared structure can organize the greeting, relevant observation, useful question and next step while the message itself changes for each person.",
+        "We typically use an initial email and one brief follow-up, often about four days later. A longer opening can be appropriate when its specific explanation earns the space; the reminder need not repeat the argument. Replies change the plan. We coordinate a suitable next channel rather than treating a decline as an invitation to keep pitching. Agreed scope can include cold email and/or LinkedIn; calling is quoted separately. Your calendar and authorized booking evidence complete the handoff."
+      ]
+    },
+    "es": {
+      "heading": "Mensajes de cold email individuales dentro de una campaña gestionada",
+      "body": [
+        "La generación de leads por cold email empieza por la persona y el encaje, no por insertar un nombre en un argumento universal. Beespoke investiga empresa y función, propone contactos para tu aprobación y redacta individualmente el motivo sustantivo para escribir. Una estructura común puede ordenar saludo, observación relevante, pregunta útil y siguiente paso, mientras el mensaje cambia para cada persona.",
+        "Habitualmente usamos un primer correo y un seguimiento breve, a menudo unos cuatro días después. Un inicio más largo puede ser adecuado si su explicación concreta lo justifica; el recordatorio no necesita repetir los argumentos. Las respuestas cambian el plan. Coordinamos un siguiente canal pertinente sin interpretar un rechazo como invitación a insistir. El alcance acordado puede incluir cold email y/o LinkedIn; las llamadas se presupuestan aparte. Tu calendario y la verificación autorizada de la reserva completan el traspaso."
+      ]
+    },
+    "ca": {
+      "heading": "Missatges individuals de cold email dins d’una campanya gestionada",
+      "body": [
+        "La generació de leads per cold email comença per la persona i l’encaix, no per inserir un nom en un argument universal. Beespoke investiga empresa i funció, proposa contactes per a la teva aprovació i redacta individualment el motiu substancial per escriure. Una estructura comuna pot ordenar salutació, observació rellevant, pregunta útil i pas següent, mentre el missatge canvia per a cada persona.",
+        "Habitualment fem servir un primer correu i un seguiment breu, sovint uns quatre dies després. Un inici més llarg pot ser adequat si l’explicació concreta ho justifica; el recordatori no necessita repetir els arguments. Les respostes canvien el pla. Coordinem un canal següent pertinent sense interpretar un rebuig com una invitació a insistir. L’abast acordat pot incloure cold email i/o LinkedIn; les trucades es pressuposten a part. El teu calendari i la verificació autoritzada de la reserva completen el traspàs."
+      ]
+    },
+    "fr": {
+      "heading": "Des emails de prospection individuels dans une campagne gérée",
+      "body": [
+        "La génération de leads par cold email commence par la personne et la pertinence de l’offre, plutôt que par l’insertion d’un nom dans un argumentaire universel. Beespoke recherche l’entreprise et le rôle, propose les cibles à votre validation et rédige individuellement la raison concrète du contact. Une structure commune peut organiser la salutation, l’observation pertinente, la question utile et la prochaine étape, tandis que le message change pour chaque interlocuteur.",
+        "Nous utilisons généralement un premier email et une courte relance, souvent environ quatre jours plus tard. Un premier message plus développé peut convenir si son explication précise le justifie ; la relance n’a pas besoin de répéter les arguments. Les réponses modifient le plan. Nous coordonnons un autre canal adapté sans interpréter un refus comme une invitation à insister. Le périmètre convenu peut comprendre le cold email et/ou LinkedIn ; les appels font l’objet d’un devis distinct. Votre agenda et la vérification autorisée de la réservation complètent la transmission."
+      ]
+    }
+  },
+  "/services/outbound-lead-generation/": {
+    "id": "managed-cold-outreach",
+    "en": {
+      "heading": "Managed cold outreach: the person determines the channel",
+      "body": [
+        "Managed cold outreach connects account research, person-specific messages, replies and an appropriate commercial handoff. The client approves proposed target fit; Beespoke supplies the research and campaign execution within the authorized scope. A list of companies or a high sending count does not replace a relevant reason to contact the individual.",
+        "Channel order follows the person. Relevant LinkedIn activity can justify starting there; a suitable email can be preferable where LinkedIn is inactive. Our usual short email sequence is one individually researched opening and one concise follow-up, often about four days later. Another appropriate channel may follow no response, with coordinated ownership and respect for declines. Cold calling remains separately scoped and quoted. Your sales team receives the context and keeps responsibility for discovery and closing."
+      ]
+    },
+    "es": {
+      "heading": "Prospección en frío gestionada: la persona determina el canal",
+      "body": [
+        "La prospección en frío gestionada conecta investigación de empresas, mensajes individuales, respuestas y un traspaso comercial adecuado. El cliente aprueba el encaje de los contactos propuestos; Beespoke aporta investigación y ejecución dentro del alcance autorizado. Una lista de empresas o un volumen alto de envíos no sustituye un motivo pertinente para contactar a la persona.",
+        "El orden de canales depende de la persona. La actividad relevante en LinkedIn puede justificar empezar allí; un correo adecuado puede ser preferible si esa red está inactiva. Nuestra secuencia breve habitual incluye un inicio investigado individualmente y un seguimiento conciso, a menudo unos cuatro días después. Otro canal apropiado puede seguir a la falta de respuesta, con coordinación y respeto a los rechazos. Las llamadas tienen alcance y presupuesto separados. Tu equipo comercial recibe el contexto y conserva el diagnóstico y el cierre."
+      ]
+    },
+    "ca": {
+      "heading": "Prospecció en fred gestionada: la persona determina el canal",
+      "body": [
+        "La prospecció en fred gestionada connecta recerca d’empreses, missatges individuals, respostes i un traspàs comercial adequat. El client aprova l’encaix dels contactes proposats; Beespoke aporta recerca i execució dins de l’abast autoritzat. Una llista d’empreses o un volum alt d’enviaments no substitueix un motiu pertinent per contactar la persona.",
+        "L’ordre dels canals depèn de la persona. L’activitat rellevant a LinkedIn pot justificar començar-hi; un correu adequat pot ser preferible si aquesta xarxa és inactiva. La nostra seqüència breu habitual inclou un inici investigat individualment i un seguiment concís, sovint uns quatre dies després. Un altre canal apropiat pot seguir la manca de resposta, amb coordinació i respecte pels rebutjos. Les trucades tenen abast i pressupost separats. El teu equip comercial rep el context i conserva el diagnòstic i el tancament."
+      ]
+    },
+    "fr": {
+      "heading": "Prospection à froid gérée : choisir le canal selon la personne",
+      "body": [
+        "La prospection à froid gérée relie la recherche sur les entreprises, des messages individuels, les réponses et une transmission commerciale adaptée. Le client valide la pertinence des cibles proposées ; Beespoke fournit la recherche et l’exécution dans le périmètre autorisé. Une liste d’entreprises ou un volume élevé d’envois ne remplace pas une raison pertinente de contacter la personne.",
+        "L’ordre des canaux dépend de l’interlocuteur. Une activité pertinente sur LinkedIn peut justifier de commencer sur ce réseau ; une adresse adaptée peut rendre l’email préférable si la personne y est inactive. Notre séquence email habituelle comprend un premier message documenté individuellement et une courte relance, souvent environ quatre jours plus tard. Un autre canal pertinent peut suivre une absence de réponse, avec une responsabilité coordonnée et dans le respect des refus. Les appels conservent un périmètre et un devis distincts. Votre équipe commerciale reçoit le contexte et conserve la découverte et la conclusion des ventes."
+      ]
+    }
+  }
+}
