@@ -1,0 +1,26 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),asset=require('./asset-version');
+const root=path.resolve(__dirname,'..'),locales=['en','es','ca','fr'],route='/guides/b2b-cold-email-copywriting/',origin='https://outbound-lead-generation.com',read=f=>fs.readFileSync(path.join(root,f),'utf8');
+const plain=s=>String(s).replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/&#39;/g,"'").replace(/&quot;/g,'"').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/\s+/g,' ').trim();
+const en=JSON.parse(read('data/cold-email-article-20261030/en.json')),sitemap=read('sitemap.xml');
+for(const locale of locales){
+ const p=JSON.parse(read('data/cold-email-article-20261030/'+locale+'.json')),pre=locale==='en'?'':'/'+locale,url=origin+pre+route,h=read((pre+route).slice(1)+'index.html'),body=h.match(/<main\b[^>]*>[\s\S]*?<\/main>/)[0],visible=plain(body);
+ assert.equal((h.match(/<h1>/g)||[]).length,1);assert.equal(plain(h.match(/<h1>([\s\S]*?)<\/h1>/)[1]),p.h1);assert(h.includes('<html lang="'+locale+'">'));assert(h.includes('rel="canonical" href="'+url+'"'));
+ assert(!/noindex|Full article preview|Revised for review|data-site-link/.test(h));
+ for(const l of [...locales,'x-default'])assert(h.includes('hreflang="'+l+'" href="'+origin+(['en','x-default'].includes(l)?'':'/'+l)+route+'"'));
+ assert.equal((body.match(/data-section-label=/g)||[]).length,12);assert.equal((body.match(/data-example="/g)||[]).length,4);assert.equal((body.match(/data-micro="/g)||[]).length,3);assert(body.includes('data-workbook>'));assert(!body.includes('data-workbook open'));
+ for(const sample of p.samples){assert(visible.includes(plain(sample.message)),locale+' complete static example '+sample.id);assert(!/https?:\/\/|[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i.test(sample.message));assert(h.includes('<option value="'+sample.id+'">'));if(locale!=='en')assert(!visible.includes(plain(en.samples.find(x=>x.id===sample.id).message)),locale+' English sample leak');}
+ const ids=[...h.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(ids.length,new Set(ids).size,locale+' duplicate ID');
+ for(const match of body.matchAll(/href="#([^"]+)"/g))assert(ids.includes(match[1]),locale+' anchor '+match[1]);
+ for(const old of ['guide-section-1','guide-section-2','guide-section-3','guide-section-4','guide-section-5','guide-section-6','guide-section-7','buyer-worksheet','phrase-review','buyer-decision-guide','frequently-asked-questions','sources'])assert(ids.includes(old),locale+' legacy fragment lost');
+ const graph=JSON.parse(h.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'],article=graph.find(n=>n['@type']==='Article'),faq=graph.find(n=>n['@type']==='FAQPage');
+ assert.equal(article.headline,p.h1);assert.equal(article.description,p.description);assert.equal(article.inLanguage,locale);assert.equal(article.datePublished,p.datePublished);assert.equal(article.dateModified,p.dateModified);assert.equal(article.author['@id'],origin+'/about/noah-levy/#person');assert.equal(faq.mainEntity.length,7);
+ for(const q of faq.mainEntity){assert(visible.includes(plain(q.name)));assert(visible.includes(plain(q.acceptedAnswer.text)));}
+ assert(graph.some(n=>n['@id']===origin+'/#organization'));assert(graph.some(n=>n['@id']===origin+'/about/noah-levy/#person'));
+ for(const m of h.matchAll(/(?:href|src)="(\/[^"?#]+)[^"]*"/g)){const target=m[1],file=path.join(root,target.slice(1),target.endsWith('/')?'index.html':'');assert(fs.existsSync(file),locale+' missing '+target);}
+ for(const m of body.matchAll(/href="(\/[^"?#]+)"/g))assert(locale==='en'?!/^\/(es|ca|fr)\//.test(m[1]):m[1].startsWith(pre+'/'),locale+' wrong-language route '+m[1]);
+ const config=JSON.parse(h.match(/<script type="application\/json" data-cold-email-config>([\s\S]*?)<\/script>/)[1]);assert.equal(config.locale,locale);assert.equal(config.samples.length,7);assert.equal(Object.keys(config.ui.fields).length,8);assert(config.ui.phraseOpeners.length>=4);assert(config.ui.phraseClaims.length>=5);
+ assert(h.includes('src="'+asset('/cold-email-article.js')+'"'));assert(h.includes('href="'+asset('/cold-email-article.css')+'"'));assert(h.includes('https://outbound-lead-generation.com/assets/social/beespoke-og.png'));assert(h.includes('src="'+asset('/seo.js')+'"'));assert.equal((h.match(/class="site-header journal-site-header"/g)||[]).length,1);
+ assert(sitemap.includes('<loc>'+url+'</loc><lastmod>2026-10-30</lastmod>'),locale+' sitemap date');const hub=read((pre+'/resources/').slice(1)+'index.html');assert(plain(hub).includes(plain(p.h1)));const item=JSON.parse(hub.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'].find(n=>n['@type']==='ItemList').itemListElement.find(x=>x.url===url);assert.equal(item.name,p.h1);
+}
+const js=read('cold-email-article.js');assert(!/\b(fetch|XMLHttpRequest|sendBeacon|localStorage|sessionStorage|gtag|dataLayer|openai|Tweak)\b/.test(js),'Drafts must remain private and production behavior must be independent');assert(!/\.innerHTML\s*=/.test(js),'Drafts must not become HTML');assert(!/zoom\s*:|user-scalable\s*=\s*no/i.test(read('cold-email-article.css')));
+console.log('Cold-email article QA:4 complete locales,12 sections/7 static examples/7 FAQs each, legacy fragments, entity/schema/metadata/source parity, localized private tools and discovery.');

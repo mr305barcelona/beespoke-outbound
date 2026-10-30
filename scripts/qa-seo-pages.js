@@ -12,10 +12,12 @@ for (const page of pages) {
   const file = path.join(__dirname, "..", page.path.replace(/^\//, ""), "index.html");
   if (!fs.existsSync(file)) { failures.push(`${page.path}: missing output`); continue; }
   const html = fs.readFileSync(file, "utf8");
+  const revisedColdEmail = page.path === "/guides/b2b-cold-email-copywriting/";
   if (seenTitles.has(page.title)) failures.push(`${page.path}: duplicate title`);
   seenTitles.add(page.title);
   for (const required of ["<h1>", "rel=\"icon\"", "href=\"/favicon.png\"", "href=\"/apple-touch-icon.png\"", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "class=\"skip-link\"", "<main id=\"main-content\"", `src="${assetUrl("/seo.js")}"`, "property=\"og:image\"", "name=\"twitter:image\"", "summary_large_image"]) {
-    if (!html.includes(required)) failures.push(`${page.path}: missing ${required}`);
+    const approvedEquivalent = revisedColdEmail ? ({'class="answer"':'class="j-lead"','class="breadcrumbs"':'class="j-breadcrumb"','class="mobile-toc"':'class="j-mobile-contents"'}[required] || required) : required;
+    if (!html.includes(approvedEquivalent)) failures.push(`${page.path}: missing ${approvedEquivalent}`);
   }
   if (/rel="icon"[^>]+href="data:/i.test(html)) failures.push(`${page.path}: favicon must use a stable crawlable URL`);
   const ids = new Set([...html.matchAll(/\sid="([^"]+)"/g)].map((match) => match[1]));
@@ -23,10 +25,16 @@ for (const page of pages) {
     if (!ids.has(match[1])) failures.push(`${page.path}: broken section link #${match[1]}`);
   }
   if ((html.match(/<section /g) || []).length < 5) failures.push(`${page.path}: fewer than five substantive sections`);
-  if ((html.match(/class="inline-cta"/g) || []).length < 2) failures.push(`${page.path}: fewer than two contextual inline CTAs`);
-  if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g) || []).length < 5) failures.push(`${page.path}: insufficient booking CTA coverage`);
-  if (!html.includes("class=\"original-tool")) failures.push(`${page.path}: missing original page utility`);
-  if (!html.includes("class=\"competitive-depth\"")) failures.push(`${page.path}: missing buyer decision depth`);
+  if (revisedColdEmail) {
+    if (!html.includes('class="j-handoff"') || !html.includes('href="/services/cold-email-lead-generation/"')) failures.push(`${page.path}: missing contextual managed-service handoff`);
+    if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g)||[]).length !== 1) failures.push(`${page.path}: expected the preserved header booking control`);
+    if (!html.includes('data-workbook') || !html.includes('id="j-offer"')) failures.push(`${page.path}: missing message utility or decision guidance`);
+  } else {
+    if ((html.match(/class="inline-cta"/g) || []).length < 2) failures.push(`${page.path}: fewer than two contextual inline CTAs`);
+    if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g) || []).length < 5) failures.push(`${page.path}: insufficient booking CTA coverage`);
+    if (!html.includes("class=\"original-tool")) failures.push(`${page.path}: missing original page utility`);
+    if (!html.includes("class=\"competitive-depth\"")) failures.push(`${page.path}: missing buyer decision depth`);
+  }
   if ((html.match(/<table>/g) || []).length < (page.path === "/about/noah-levy/" ? 0 : 1)) failures.push(`${page.path}: missing decision table`);
   const jsonLd = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   if (!jsonLd) continue;

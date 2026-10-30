@@ -1803,7 +1803,7 @@
   {
     "path": "/guides/b2b-cold-email-copywriting/",
     "query": "cold email copywriting",
-    "reviewed": "2026-10-29",
+    "reviewed": "2026-10-30",
     "serpDifficulty": "Dated Semrush estimate and current intent review; not a ranking forecast",
     "keywordEvidence": {
       "provider": "Semrush",
@@ -1814,31 +1814,52 @@
       "keywordDifficulty": 16
     },
     "competitors": [
+      "https://www.artisan.co/blog/cold-email-copywriting",
+      "https://demandscience.com/resources/blog/cold-email-copywriting/",
+      "https://pipeline.zoominfo.com/sales/cold-email-outreach",
+      "https://www.coldlytics.com/blog/cold-email-copywriting-basics",
+      "https://www.cleverly.co/blog/cold-email-copywriting",
       "https://www.clay.com/blog/b2b-cold-email-copywriting",
+      "https://carly.substack.com/p/how-to-write-a-cold-email",
       "https://copyhackers.com/2017/09/cold-emails/",
-      "https://mailtrap.io/blog/cold-email-personalization/",
-      "https://lavender.ai/blog/how-to-build-a-cold-email-personalization-process"
+      "https://quickmail.com/cold-email/copywriting",
+      "https://mailtrap.io/blog/cold-email-personalization/"
     ],
     "serpRequirements": [
-      "relevance before first-name tokens",
-      "research-to-message chain",
-      "clear sender voice",
-      "complete messages with rationale",
-      "poor-to-better wording choices",
-      "source and inference boundaries",
-      "next-step and follow-up ownership"
+      "complete subject/opening/offer/request lesson",
+      "genuine personal and business context",
+      "observations separate from unverified needs",
+      "four full annotated cases and contextual micro-cases",
+      "before-and-after editing reasoning",
+      "one primary request and appropriate tradeoffs",
+      "concise follow-up and stop conditions",
+      "optional private practical tools",
+      "source-specific claims and practitioner scope",
+      "readable keyboard/mobile experience and contextual service handoff"
     ],
     "beespokeAdvantages": [
-      "Four full annotated research-to-message cases",
-      "Local phrase-review tool explicitly avoids authorship scores",
-      "Private source/unknown/message decision workbook"
+      "Evidence/unknown boundaries applied within complete fictional examples",
+      "Worked generic/overworked/clearer edit and role-specific offer decisions",
+      "Genuine location, public-post and shared-interest cases without assumed buying need",
+      "Optional private single-message workbook and contextual phrase feedback without authorship or quality scores",
+      "Explicit brief reminder, response branches, targeting approval and verified calendar outcome distinction"
     ],
     "externalConstraints": [
       "Established competing publisher authority and relevant earned links",
       "Real niche/client evidence cannot be replaced by fictional training material",
       "Crawl, indexation, buyer intent and commercial outcomes still need measurement",
       "Inspected source sample is bounded; native Google redirects were not treated as a universal domain ranking census"
-    ]
+    ],
+    "serpObservation": {
+      "checkedOn": "2026-10-30",
+      "queries": [
+        "b2b cold email copywriting",
+        "cold email copywriting",
+        "b2b cold email personalization"
+      ],
+      "surface": "Google organic result observations, US-English settings; Oregon footer; ads, AI, forums and video distinguished",
+      "scope": "One dated Browserbase context, not universal ranking evidence; image-only example copy not separately transcribed"
+    }
   },
   {
     "path": "/guides/cold-email-follow-up/",

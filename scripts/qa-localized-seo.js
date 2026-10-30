@@ -52,7 +52,11 @@ for (const locale of locales) {
       if (html.includes(forbidden)) failures.push(`${localizedPath}: bad translation '${forbidden}'`);
     }
     for (const forbidden of editorialForbidden[locale]) {
-      if (new RegExp(`\\b${escapeRegExp(forbidden)}\\b`, "i").test(html.replace(/<script[\s\S]*?<\/script>/g, ""))) failures.push(`${localizedPath}: literal translation '${forbidden}'`);
+      let editorialText = html.replace(/<script[\s\S]*?<\/script>/g, "");
+      // In the approved shared-interest example this means long training runs,
+      // not the forbidden literal translation of outbound as "sorties".
+      if (locale === "fr" && page.path === "/guides/b2b-cold-email-copywriting/" && forbidden === "sorties") editorialText = editorialText.replace(/sorties longues/g, "séances de course");
+      if (new RegExp(`\\b${escapeRegExp(forbidden)}\\b`, "i").test(editorialText)) failures.push(`${localizedPath}: literal translation '${forbidden}'`);
     }
     if (page.path === "/editorial-policy/" && !html.includes(editorialClaimHeadings[locale])) failures.push(`${localizedPath}: editorial claim terminology is incorrect`);
     if (page.path === "/guides/outbound-lead-generation-cost/" && !html.includes(costModelHeadings[locale])) failures.push(`${localizedPath}: live-query pricing heading is not localized`);
