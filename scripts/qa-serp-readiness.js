@@ -12,7 +12,7 @@ for (const page of pages) {
   if (row.serpRequirements.length < 6) failures.push(`${page.path}: incomplete SERP requirements`);
   if (row.beespokeAdvantages.length < 2) failures.push(`${page.path}: insufficient differentiation`);
   const html = fs.readFileSync(path.join(root, page.path.replace(/^\//, ""), "index.html"), "utf8");
-  const required = page.path === "/guides/b2b-cold-email-copywriting/" ? ["data-workbook", 'id="j-offer"', "j-handoff", "reading-progress", "application/ld+json"] : ["original-tool", "competitive-depth", "inline-cta", "reading-progress", "application/ld+json"];
+  const required = ["/guides/b2b-cold-email-copywriting/", "/guides/cold-email-follow-up/"].includes(page.path) ? ["data-workbook", (page.path === '/guides/cold-email-follow-up/' ? 'id="f-decision"' : 'id="j-offer"'), "j-handoff", "reading-progress", "application/ld+json"] : ["original-tool", "competitive-depth", "inline-cta", "reading-progress", "application/ld+json"];
   for (const token of required) {
     if (!html.includes(token)) failures.push(`${page.path}: missing ${token}`);
   }
