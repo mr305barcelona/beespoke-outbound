@@ -56,6 +56,11 @@ for (const locale of locales) {
       // In the approved shared-interest example this means long training runs,
       // not the forbidden literal translation of outbound as "sorties".
       if (locale === "fr" && page.path === "/guides/b2b-cold-email-copywriting/" && forbidden === "sorties") editorialText = editorialText.replace(/sorties longues/g, "séances de course");
+      // These exact phrases concern a contractual exit, not a literal translation of outbound.
+      if (page.path === "/guides/cold-email-agency/") {
+        const exitPhrases = {es:["pruebas y salida", "condiciones de salida", "Acceso y salida", ">Salida</th>", "cualificación y salida", "Comprobación de salida", "Acceso, licencia y salida de activos"],ca:["proves i sortida", "condicions de sortida", "Accés i sortida", ">Sortida</th>", "qualificació i sortida", "Comprovació de sortida", "Accés, llicència i sortida d’actius"]};
+        if ((locale === 'es' && forbidden === 'salida') || (locale === 'ca' && forbidden === 'sortida')) for (const phrase of exitPhrases[locale]) editorialText = editorialText.split(phrase).join('[contract exit]');
+      }
       if (new RegExp(`\\b${escapeRegExp(forbidden)}\\b`, "i").test(editorialText)) failures.push(`${localizedPath}: literal translation '${forbidden}'`);
     }
     if (page.path === "/editorial-policy/" && !html.includes(editorialClaimHeadings[locale])) failures.push(`${localizedPath}: editorial claim terminology is incorrect`);

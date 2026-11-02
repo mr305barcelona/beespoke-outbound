@@ -2,7 +2,8 @@ const reviewedDateFor=require('./reviewed-publication').dateFor;
 const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
 const growth=require('../data/traffic-growth-20261015'),root=path.resolve(__dirname,'..'),origin='https://outbound-lead-generation.com';
 const esc=s=>s.replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[c]));
-for(const [route,copy] of Object.entries({...growth.english,...growth.spanish})){
+for(const [route,priorCopy] of Object.entries({...growth.english,...growth.spanish})){
+ const agency=/^(?:\/es)?\/guides\/cold-email-agency\/$/.test(route),copy=agency?require('../data/agency-article-20261102/'+(route.startsWith('/es/')?'es':'en')):priorCopy;
  const html=fs.readFileSync(path.join(root,route,'index.html'),'utf8');
  assert(html.includes(`<title>${esc(copy.title)}</title>`));assert(html.includes(`<h1>${esc(copy.h1)}</h1>`));
  assert.equal((html.match(/<h1>/g)||[]).length,1);assert(html.includes(`rel="canonical" href="${origin}${route}"`));
@@ -10,8 +11,8 @@ for(const [route,copy] of Object.entries({...growth.english,...growth.spanish}))
  const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(ids.length,new Set(ids).size);
  for(const [,id]of html.matchAll(/href="#([^"]+)"/g))assert(ids.includes(id),route+': '+id);
  const graph=JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'];
- assert(graph.find(n=>n['@id']===origin+route+'#page').dateModified.startsWith(reviewedDateFor(route,growth.updated)));
- for(const q of graph.find(n=>n['@type']==='FAQPage').mainEntity)assert(html.includes(`<summary>${esc(q.name)}</summary><p>${esc(q.acceptedAnswer.text)}</p>`));
+ assert(graph.find(n=>n['@id']===origin+route+'#page').dateModified.startsWith(agency?'2026-11-02':reviewedDateFor(route,growth.updated)));
+ for(const q of graph.find(n=>n['@type']==='FAQPage').mainEntity)assert(html.includes(`<summary${agency?' class="cursor-interaction"':''}>${esc(q.name)}</summary><p>${esc(q.acceptedAnswer.text)}</p>`));
  for(const l of ['en','es','ca','fr','x-default'])assert(html.includes(`hreflang="${l}"`));
 }
 const cost=fs.readFileSync(path.join(root,'guides/outbound-lead-generation-cost/index.html'),'utf8');
