@@ -12,12 +12,12 @@ for (const page of pages) {
   const file = path.join(__dirname, "..", page.path.replace(/^\//, ""), "index.html");
   if (!fs.existsSync(file)) { failures.push(`${page.path}: missing output`); continue; }
   const html = fs.readFileSync(file, "utf8");
-  const revisedColdEmail = ["/guides/b2b-cold-email-copywriting/", "/guides/cold-email-follow-up/"].includes(page.path);
+  const revisedColdEmail = ["/guides/b2b-cold-email-copywriting/", "/guides/cold-email-follow-up/", "/guides/linkedin-prospecting-messages/"].includes(page.path);
   if (seenTitles.has(page.title)) failures.push(`${page.path}: duplicate title`);
   seenTitles.add(page.title);
   for (const required of ["<h1>", "rel=\"icon\"", "href=\"/favicon.png\"", "href=\"/apple-touch-icon.png\"", "rel=\"canonical\"", "application/ld+json", "class=\"answer\"", "class=\"breadcrumbs\"", "class=\"reading-progress\"", "class=\"mobile-toc\"", "class=\"skip-link\"", "<main id=\"main-content\"", `src="${assetUrl("/seo.js")}"`, "property=\"og:image\"", "name=\"twitter:image\"", "summary_large_image"]) {
     const approvedEquivalent = revisedColdEmail ? ({'class="answer"':'class="j-lead"','class="breadcrumbs"':'class="j-breadcrumb"','class="mobile-toc"':'class="j-mobile-contents"'}[required] || required) : required;
-    if (!html.includes(approvedEquivalent)) failures.push(`${page.path}: missing ${approvedEquivalent}`);
+    if (!(required === '<main id="main-content"' ? /<main\b[^>]*\bid="main-content"/.test(html) : html.includes(approvedEquivalent))) failures.push(`${page.path}: missing ${approvedEquivalent}`);
   }
   if (/rel="icon"[^>]+href="data:/i.test(html)) failures.push(`${page.path}: favicon must use a stable crawlable URL`);
   const ids = new Set([...html.matchAll(/\sid="([^"]+)"/g)].map((match) => match[1]));
@@ -26,9 +26,9 @@ for (const page of pages) {
   }
   if ((html.match(/<section /g) || []).length < 5) failures.push(`${page.path}: fewer than five substantive sections`);
   if (revisedColdEmail) {
-    if (!html.includes('class="j-handoff"') || !html.includes('href="/services/cold-email-lead-generation/"')) failures.push(`${page.path}: missing contextual managed-service handoff`);
+    if (!html.includes('class="j-handoff"') || !html.includes(page.path === '/guides/linkedin-prospecting-messages/' ? 'href="/services/linkedin-lead-generation/"' : 'href="/services/cold-email-lead-generation/"')) failures.push(`${page.path}: missing contextual managed-service handoff`);
     if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g)||[]).length !== 1) failures.push(`${page.path}: expected the preserved header booking control`);
-    if (!html.includes('data-workbook') || !html.includes(page.path.includes('/cold-email-follow-up/') ? 'id="f-decision"' : 'id="j-offer"')) failures.push(`${page.path}: missing message utility or decision guidance`);
+    if (!html.includes('data-workbook') || !html.includes(page.path.includes('/cold-email-follow-up/') ? 'id="f-decision"' : page.path.includes('/linkedin-prospecting-messages/') ? 'id="l-route"' : 'id="j-offer"')) failures.push(`${page.path}: missing message utility or decision guidance`);
   } else {
     if ((html.match(/class="inline-cta"/g) || []).length < 2) failures.push(`${page.path}: fewer than two contextual inline CTAs`);
     if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g) || []).length < 5) failures.push(`${page.path}: insufficient booking CTA coverage`);

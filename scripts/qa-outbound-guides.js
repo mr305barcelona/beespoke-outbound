@@ -1,5 +1,5 @@
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
-const root=path.resolve(__dirname,'..'),slugs=['linkedin-prospecting-messages','logistics-lead-generation'];
+const root=path.resolve(__dirname,'..'),slugs=['logistics-lead-generation'];
 const decode=s=>String(s).replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;|&apos;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>');
 const plain=s=>decode(s.replace(/<[^>]+>/g,' ')).replace(/\s+/g,' ').trim(),normalize=s=>s.replace(/\s+/g,' ').trim();
 const pages=require('../data/seo-pages.json'),sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');assert.equal(new Set(pages.map(p=>p.path)).size,pages.length,'Duplicate URL owners');let checked=0;
@@ -30,3 +30,6 @@ require('./qa-cold-email-article-20261030');
 
 // The revised follow-up family has complete source and behavior acceptance.
 require('./qa-follow-up-article-20261030');
+
+// The LinkedIn family retains complete four-language acceptance coverage.
+require('./qa-linkedin-article-20261030');
