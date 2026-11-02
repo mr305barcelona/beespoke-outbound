@@ -1,5 +1,5 @@
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
-const root=path.resolve(__dirname,'..'),slugs=['logistics-lead-generation'];
+const root=path.resolve(__dirname,'..'),slugs=[];
 const decode=s=>String(s).replace(/&amp;/g,'&').replace(/&quot;/g,'"').replace(/&#39;|&apos;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>');
 const plain=s=>decode(s.replace(/<[^>]+>/g,' ')).replace(/\s+/g,' ').trim(),normalize=s=>s.replace(/\s+/g,' ').trim();
 const pages=require('../data/seo-pages.json'),sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');assert.equal(new Set(pages.map(p=>p.path)).size,pages.length,'Duplicate URL owners');let checked=0;
@@ -23,7 +23,7 @@ for(const slug of slugs){const g=require('../data/outbound-guides-20261029/'+slu
 for(const l of ['en','es','ca','fr'])for(const route of ['/services/cold-email-lead-generation/','/services/linkedin-lead-generation/','/services/b2b-appointment-setting/','/services/b2b-lead-generation/','/guides/cold-email-agency/']){const pre=l==='en'?'':'/'+l,h=fs.readFileSync(path.join(root,(pre+route).slice(1),'index.html'),'utf8');assert.equal((h.match(/class="outbound-guides-link"/g)||[]).length,1,pre+route+' contextual handoff');}
 const js=fs.readFileSync(path.join(root,'outbound-phrase-review.js'),'utf8');assert(!/\b(fetch|XMLHttpRequest|sendBeacon|localStorage|sessionStorage|gtag|dataLayer|submit)\b/.test(js),'Draft text must stay private');assert(!/\.innerHTML\s*=/.test(js),'User text must not become markup');assert(js.includes('textContent = phrase'));
 const css=fs.readFileSync(path.join(root,'outbound-message-examples.css'),'utf8');assert(!/(?:^|})\s*(?:html|body|:root)\b/.test(css),'New example CSS must stay scoped');assert(!/\bzoom\s*:/.test(css),'Do not force user zoom');
-console.log('Outbound guides QA: '+checked+' complete locales; individual examples, source labels, native metadata/FAQ/route parity, private topic workbooks and non-scoring phrase review.');
+console.log('Legacy asset/context checks; revised article-specific QA follows: '+checked+' complete locales; individual examples, source labels, native metadata/FAQ/route parity, private topic workbooks and non-scoring phrase review.');
 
 // The revised copywriting family has its own complete-source acceptance checks.
 require('./qa-cold-email-article-20261030');
@@ -33,3 +33,5 @@ require('./qa-follow-up-article-20261030');
 
 // The LinkedIn family retains complete four-language acceptance coverage.
 require('./qa-linkedin-article-20261030');
+
+require('./qa-logistics-article-20261102');
