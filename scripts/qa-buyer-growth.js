@@ -1,5 +1,5 @@
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
-const root=path.resolve(__dirname,'..'),slugs=['b2b-sales-prospecting-plan','b2b-conversion-rate-optimization','b2b-keyword-research','inbound-vs-outbound-lead-generation','lead-generation-vs-demand-generation'];
+const root=path.resolve(__dirname,'..'),slugs=['b2b-conversion-rate-optimization','b2b-keyword-research','inbound-vs-outbound-lead-generation','lead-generation-vs-demand-generation'];
 const decode=s=>String(s).replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'");
 const registry=JSON.parse(fs.readFileSync(path.join(root,'data/seo-pages.json'),'utf8')),sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');assert.equal(new Set(registry.map(p=>p.path)).size,registry.length,'Duplicate page ownership');
 let checked=0;
@@ -26,3 +26,6 @@ for(const slug of slugs){const guide=require('../data/buyer-guides-20261028/'+sl
 for(const l of ['en','es','ca','fr'])for(const slug of ['b2b-seo-audit','b2b-content-audit','account-based-prospecting']){const h=fs.readFileSync(path.join(root,(l==='en'?'':l+'/')+'guides/'+slug+'/index.html'),'utf8');assert.equal((h.match(/class="buyer-growth-link"/g)||[]).length,1,'Missing contextual referrer');}
 const rate=fs.readFileSync(path.join(root,'buyer-rate-check.js'),'utf8');assert(!/\b(fetch|XMLHttpRequest|sendBeacon|localStorage|sessionStorage|gtag|dataLayer|submit|location|URLSearchParams)\b/.test(rate),'Rate inputs must stay private');assert(rate.includes('Number.isSafeInteger'));assert(rate.includes('values[j+1]>values[j]'));assert(rate.includes('values[j]>0'));
 console.log('Buyer growth QA: '+checked+' complete new pages, native metadata/FAQ/body/tool parity, existing-page referrers, local-only rate arithmetic and discovery preserved.');
+
+// The revised prospecting-plan family has dedicated complete-source acceptance.
+require('./qa-plan-article-20261102');
