@@ -2,6 +2,7 @@ const fs=require('node:fs'),path=require('node:path'),assert=require('node:asser
 const root=path.resolve(__dirname,'..'),slugs=['b2b-seo-audit','b2b-content-audit','account-based-prospecting','aeo-audit'];
 const dec=s=>String(s).replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'");
 let count=0;for(const slug of slugs){const g=require('../data/buyer-guides-20261027/'+slug+'.json');for(const l of ['en','es','ca','fr']){
+ if(slug==='account-based-prospecting')continue; // Dedicated complete-source acceptance for the revised account family.
  const p=g[l],route=(l==='en'?'':'/'+l)+p.path,h=fs.readFileSync(path.join(root,route.slice(1),'index.html'),'utf8'),article=h.match(/<article>([\s\S]*?)<\/article>/)[1],visible=dec(article);
  assert.equal((h.match(/<h1>/g)||[]).length,1,route);assert(h.includes('<html lang="'+l+'">'));assert(h.includes('rel="canonical" href="https://outbound-lead-generation.com'+route+'"'));
  for(const lang of ['en','es','ca','fr','x-default'])assert(h.includes('hreflang="'+lang+'" href="https://outbound-lead-generation.com'+(['en','x-default'].includes(lang)?'':'/'+lang)+p.path+'"'));
@@ -19,3 +20,5 @@ let count=0;for(const slug of slugs){const g=require('../data/buyer-guides-20261
 }}
 const js=fs.readFileSync(path.join(root,'buyer-guide-worksheet.js'),'utf8');assert(!/\b(fetch|XMLHttpRequest|sendBeacon|localStorage|sessionStorage|gtag|dataLayer|submit|location|URLSearchParams)\b/.test(js),'Worksheet must not send/store inputs or change the URL');
 console.log('Buyer guide QA passed: '+count+' complete locales; reviewed body/FAQ parity, reciprocal language metadata, local-only non-form worksheets and section links.');
+
+require('./qa-account-article-20261103');

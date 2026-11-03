@@ -23,9 +23,11 @@ for(const slug of slugs){const guide=require('../data/buyer-guides-20261028/'+sl
   assert(!/>undefined<|="undefined"|\[object Object\]|multisèU|Quels données/.test(h));checked++;
  }
 }
-for(const l of ['en','es','ca','fr'])for(const slug of ['b2b-seo-audit','b2b-content-audit','account-based-prospecting']){const h=fs.readFileSync(path.join(root,(l==='en'?'':l+'/')+'guides/'+slug+'/index.html'),'utf8');assert.equal((h.match(/class="buyer-growth-link"/g)||[]).length,1,'Missing contextual referrer');}
+for(const l of ['en','es','ca','fr'])for(const slug of ['b2b-seo-audit','b2b-content-audit']){const h=fs.readFileSync(path.join(root,(l==='en'?'':l+'/')+'guides/'+slug+'/index.html'),'utf8');assert.equal((h.match(/class="buyer-growth-link"/g)||[]).length,1,'Missing contextual referrer');}
 const rate=fs.readFileSync(path.join(root,'buyer-rate-check.js'),'utf8');assert(!/\b(fetch|XMLHttpRequest|sendBeacon|localStorage|sessionStorage|gtag|dataLayer|submit|location|URLSearchParams)\b/.test(rate),'Rate inputs must stay private');assert(rate.includes('Number.isSafeInteger'));assert(rate.includes('values[j+1]>values[j]'));assert(rate.includes('values[j]>0'));
 console.log('Buyer growth QA: '+checked+' complete new pages, native metadata/FAQ/body/tool parity, existing-page referrers, local-only rate arithmetic and discovery preserved.');
 
 // The revised prospecting-plan family has dedicated complete-source acceptance.
 require('./qa-plan-article-20261102');
+
+require('./qa-account-article-20261103');
