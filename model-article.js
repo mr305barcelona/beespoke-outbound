@@ -1,0 +1,9 @@
+/* Reading navigation only. No user inputs, external calls or persistence. */
+(()=>{
+ const root=document.querySelector('#beespoke-model-full');if(!root)return;const {legacy}=JSON.parse(root.querySelector('[data-model-config]').textContent),sections=[...root.querySelectorAll('.m-section')],links=[...root.querySelectorAll('[data-model-contents] a')];let queued=false,printState=null;
+ root.querySelectorAll('[data-jump]').forEach(a=>a.addEventListener('click',()=>{const menu=root.querySelector('.m-mobile-contents');if(menu?.contains(a))menu.open=false;requestAnimationFrame(()=>root.querySelector('#'+a.dataset.jump)?.focus({preventScroll:true}));}));
+ function highlight(){queued=false;let section=sections[0];const line=Math.max(150,(parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop)||0)+(parseFloat(getComputedStyle(section).scrollMarginTop)||0)+16);for(const s of sections){if(s.getBoundingClientRect().top<=line)section=s;else break;}if(innerHeight+scrollY>=document.documentElement.scrollHeight-5)section=sections.at(-1);links.forEach(a=>{if(a.hash==='#'+section.id)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current');});}
+ const schedule=()=>{if(!queued){queued=true;requestAnimationFrame(highlight);}};addEventListener('scroll',schedule,{passive:true});addEventListener('resize',schedule);root.addEventListener('toggle',schedule,true);
+ function follow(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}if(legacy[id])root.querySelector('#'+legacy[id])?.scrollIntoView({block:'start'});schedule();}addEventListener('hashchange',follow);follow();
+ addEventListener('beforeprint',()=>{if(!printState){printState=[...root.querySelectorAll('#m-faq details')].map(e=>[e,e.open]);printState.forEach(([e])=>e.open=true);}});addEventListener('afterprint',()=>{if(printState){printState.forEach(([e,open])=>e.open=open);printState=null;}});root.dataset.modelReady='true';
+})();

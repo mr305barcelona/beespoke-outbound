@@ -1,0 +1,885 @@
+{
+  "description": "Compara capacitat SDR externalitzada i captació gestionada per responsabilitats, supervisió, abast i traspàs. Tres decisions de compra fictícies completes.",
+  "answer": "Un servei SDR externalitzat i una agència de generació de leads poden ser el mateix proveïdor. Avalua capacitat assignada quan et falta una persona o equip amb dedicació i gestió verificables. Avalua execució gestionada quan necessites que algú dirigeixi un programa acordat. Compara qui investiga, decideix, supervisa, respon i traspassa el context a vendes; l’etiqueta no aclareix aquestes responsabilitats.",
+  "kicker": "Triar la feina que vols externalitzar",
+  "resources": "Recursos",
+  "contents": "Continguts",
+  "author": "Per",
+  "updated": "Actualitzat el 3 de novembre de 2026",
+  "read": "Llegeix els casos de compra",
+  "fiction": "Tots els compradors, abasts, comptes, missatges i resultats següents són ficticis i didàctics. No són resultats de clients, valoracions de proveïdors ni previsions.",
+  "scroll": "Desplaça’t horitzontalment per llegir totes les columnes.",
+  "sourcesTitle": "Fonts i mètode",
+  "relatedTitle": "Continua amb la pregunta adequada",
+  "sourcesIntro": "Les pàgines públiques revisades el 3 de novembre de 2026 informen les preguntes i les diferències entre models. Els casos, la mostra i els registres són originals i ficticis. No utilitzem els resultats, preus o terminis de llançament dels proveïdors com a referències de rendiment. Una font explica la seva oferta, no allò que inclouen tots els proveïdors.",
+  "sourcesNotes": [
+    "SDR dins d’un programa gestionat, sense tractar-los com una categoria excloent.",
+    "Una agència pot aportar professionals SDR i gestió.",
+    "Abast, feina del client, preparació i costos comparables.",
+    "Capacitat interna, externa i híbrida; sense adoptar un repartiment universal.",
+    "Preguntes sobre visibilitat, recerca i aprovació des de la perspectiva d’una eina.",
+    "La dedicació, infraestructura i gestió depenen de la proposta."
+  ],
+  "relatedLabels": [
+    "Triar una agència outbound amb proves",
+    "Revisar els costos d’un SDR externalitzat",
+    "Comparar SDR extern i intern",
+    "Gestionar un equip SDR externalitzat",
+    "Preparar un pla de prospecció"
+  ],
+  "serviceLinks": [
+    "Explora outbound gestionat",
+    "Revisa l’abast actual del servei",
+    "Comenta la feina que necessites"
+  ],
+  "sections": [
+    {
+      "id": "m-models",
+      "label": "Models de treball",
+      "title": "Compara la feina, no l’etiqueta",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Una agència pot tenir SDR dedicats, compartir especialistes entre campanyes o aportar només recerca. Un SDR externalitzat pot dependre del responsable del proveïdor, del client o d’un acord compartit. «Dedicat» requereix una assignació escrita; «gestionat» requereix un responsable d’execució. Cap paraula demostra cobertura o resultats."
+        },
+        {
+          "type": "table",
+          "caption": "Cinc acords i què has de verificar",
+          "heads": [
+            "Acord",
+            "Què contractes",
+            "Feina que conserva el comprador",
+            "Proves abans de triar"
+          ],
+          "rows": [
+            [
+              "Suport de recerca",
+              "Recerca de comptes/contactes i un lliurable acordat.",
+              "Prospecció, respostes, supervisió i tancament.",
+              "Motius d’inclusió/exclusió, fonts permeses i qui utilitzarà la recerca."
+            ],
+            [
+              "Campanya gestionada",
+              "Segmentació, missatges, execució, respostes i traspàs sota un responsable.",
+              "Jutjar la llista i els límits de les afirmacions; aportar coneixement del producte, dirigir la descoberta comercial i tancar.",
+              "Canals, capacitat assignada, responsable, visibilitat i regles de traspàs."
+            ],
+            [
+              "Capacitat SDR assignada",
+              "Una persona o equip amb dedicació acordada; el suport varia.",
+              "Coneixement del producte i tota supervisió, sistema o tasca no inclosos.",
+              "Hores/cobertura, dedicació exclusiva o compartida, gestió, formació i continuïtat."
+            ],
+            [
+              "SDR intern",
+              "Personal i una funció interna de desenvolupament comercial.",
+              "Seleccionar, formar, finançar eines/dades, supervisar i cobrir absències.",
+              "Feina sostinguda, gestió competent, pressupost i permisos."
+            ],
+            [
+              "Direcció comercial a temps parcial",
+              "Disseny, acompanyament o direcció segons l’acord.",
+              "Persones que executin i un responsable del tancament.",
+              "Autoritat de decisió, abast de l’acompanyament, responsable d’execució i temps assignat."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Mantén l’execució interna i la direcció comercial dins de la comparació. Un proveïdor de campanyes no les substitueix automàticament. La guia de selecció d’agències cobreix les entrevistes detallades; aquesta pàgina ajuda a decidir quin acord val la pena avaluar."
+        }
+      ]
+    },
+    {
+      "id": "m-cases",
+      "label": "Casos de compra",
+      "title": "Tres decisions completes, inclosa «encara no contractar»",
+      "blocks": [
+        {
+          "type": "case",
+          "title": "Comprador A: pot atendre trucades, però no dirigir la prospecció",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Una assessoria fictícia B2B de planificació d’inventari ha venut un servei definit mitjançant presentacions personals. Busca responsables d’operacions de distribuïdors dels Estats Units. Exclou clients actuals, persones que ja han rebutjat el contacte i empreses fora del mercat que pot atendre. El fundador pot jutjar la llista, aprovar els límits de les afirmacions i dirigir la descoberta comercial, però no supervisar diàriament recerca, execució i respostes."
+            },
+            {
+              "type": "p",
+              "text": "Un programa gestionat de correu/LinkedIn és una opció raonable perquè falten execució i supervisió. Un servei de recerca deixa aquesta feina sense responsable; una proposta de personal també, llevat que inclogui la gestió. La tria és condicional: falten proves de capacitat, permisos de remitent i qualitat del traspàs."
+            },
+            {
+              "type": "p",
+              "text": "Decisió: deixar la proposta gestionada pendent d’aquestes proves, no d’una promesa de reunions. El comprador conserva el judici sobre la llista, la descoberta comercial i el tancament. Aquesta decisió didàctica no autoritza cap campanya."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Comprador B: cobertura concreta dins d’una operació comercial existent",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Un proveïdor tècnic fictici té un grup de compradors validat, formació de producte, responsable comercial intern i CRM. Necessita una persona assignada durant quatre matins concrets entre setmana, a la zona horària del seu calendari, que participi en el seguiment de l’equip. La necessitat és cobertura i integració, no simplement una altra campanya d’un canal."
+            },
+            {
+              "type": "p",
+              "text": "Val la pena avaluar capacitat SDR assignada si la dedicació, supervisió, formació i cobertura d’absències proposades satisfan el brief. Una agència gestionada també podria aportar-la; l’etiqueta no la descarta. Una campanya que només promet un lliurable mensual no demostra la disponibilitat necessària."
+            },
+            {
+              "type": "p",
+              "text": "Decisió: avaluar aquest acord de capacitat, pendent d’assignació escrita i accés permès. Comprova per separat canal i idioma. No donis per inclosos professionals nadius per a trucades ni una substitució immediata."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Comprador C: falten una oferta clara i un responsable de les trucades",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Un fundador fictici demana més reunions, però no pot definir el comprador, defensar l’oferta ni dir qui respondrà i dirigirà la descoberta comercial. Encara no hi ha proves d’una venda repetible. Tant un representant assignat com una campanya gestionada heretarien aquestes decisions pendents."
+            },
+            {
+              "type": "p",
+              "text": "Decisió: ajornar l’execució completa. Aclareix oferta, comprador i seguiment mitjançant converses del fundador o una tasca de diagnosi definida per separat. La recerca externa pot ajudar a aprendre; és una compra diferent d’un programa de reunions previsible. No s’inventa cap data de llançament ni resultat."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Canvia una condició del comprador A: si disposa d’un responsable intern competent i temps d’execució, el suport de recerca amb execució interna esdevé una alternativa creïble. No han canviat ni l’oferta ni el comprador, sinó la capacitat que faltava. Per això cap model no ha de guanyar per defecte."
+        }
+      ]
+    },
+    {
+      "id": "m-scopes",
+      "label": "Llegir l’abast",
+      "title": "Compara tres propostes fictícies amb el mateix brief",
+      "blocks": [
+        {
+          "type": "case",
+          "title": "Abast R: només recerca",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "«Lliurem una llista investigada de comptes amb motius d’inclusió i camps de fonts aprovats. El teu equip executa la prospecció i gestiona les respostes.»"
+            },
+            {
+              "type": "p",
+              "text": "El lliurable és clar, però el comprador A no té responsable d’execució. Descarta aquest acord per al seu brief actual, sense concloure que investigar sigui un mal servei. Podria encaixar si canvia la capacitat interna."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Abast M: correu/LinkedIn gestionats",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "«Un responsable dirigeix recerca, missatges aprovats, prospecció autoritzada, respostes i traspàs al calendari. Tu jutges la llista i els límits de les afirmacions i dirigeixes les converses comercials.»"
+            },
+            {
+              "type": "p",
+              "text": "Cobreix la feina que falta. Deixa’l pendent fins que especifiqui capacitat, permisos, canals, visibilitat i proves per al responsable comercial. «Gestionat» no respon tot sol aquestes preguntes."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Abast S: representant assignat, supervisió sense aclarir",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "«Un SDR assignat treballa al teu CRM. Tu aportes formació de producte. La gestió és compartida.»"
+            },
+            {
+              "type": "p",
+              "text": "«Assignat» no demostra hores exclusives. «Gestió compartida» no identifica qui forma, resol una resposta excepcional o cobreix una absència. Demana un mapa d’assignació i responsabilitats abans de valorar la proposta."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Preguntes que canvien la compra",
+          "heads": [
+            "Necessitat",
+            "Prova concreta que cal demanar",
+            "Decisió mentre falti"
+          ],
+          "rows": [
+            [
+              "Supervisió diària",
+              "Responsable de qualitat de llista, missatges, respostes i excepcions.",
+              "Deixar pendent la feina sense responsable."
+            ],
+            [
+              "Cobertura",
+              "Assignació escrita, zona horària i procediment davant d’absències.",
+              "No deduir disponibilitat de «dedicat»."
+            ],
+            [
+              "Accés i traspàs",
+              "Permisos concrets i un registre fictici complet o real autoritzat i anonimitzat.",
+              "No donar per autoritzats l’accés ni el llançament."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Una resposta convincent no substitueix el document. Un camp buit és una pregunta oberta, no una prova de deshonestedat. Utilitza el mateix brief per comparar propostes."
+        }
+      ]
+    },
+    {
+      "id": "m-roles",
+      "label": "Feina del client",
+      "title": "Escriu la feina que conserva el client",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Mapa de responsabilitats del comprador A",
+          "heads": [
+            "Tasca",
+            "Només personal",
+            "Execució gestionada",
+            "Decisió o feina del client"
+          ],
+          "rows": [
+            [
+              "Recerca i segmentació",
+              "El client dirigeix si no s’inclou recerca.",
+              "El responsable organitza recerca i preparació de llistes.",
+              "Jutjar si la llista conté les persones adequades."
+            ],
+            [
+              "Fets i missatges",
+              "El client aporta o aprova els fets permesos; cal identificar qui redacta.",
+              "El proveïdor investiga i redacta dins dels límits aprovats.",
+              "Aportar context veraç i resoldre afirmacions que requereixin el seu criteri."
+            ],
+            [
+              "Permís d’execució",
+              "El titular autoritza un abast concret.",
+              "El titular autoritza un abast concret.",
+              "Autoritzar l’execució en nom seu; l’accés no es pressuposa."
+            ],
+            [
+              "Supervisió diària",
+              "Responsable del client si no se n’inclou expressament un altre.",
+              "Responsable del proveïdor, amb consulta al client per a decisions.",
+              "Identificar qui resol les excepcions."
+            ],
+            [
+              "Respostes i objeccions",
+              "Representant assignat amb un procés definit.",
+              "El proveïdor gestiona respostes i deriva excepcions.",
+              "Respondre qüestions comercials o de producte fora del límit aprovat."
+            ],
+            [
+              "Calendari i CRM",
+              "Definir el registre i qui el rep.",
+              "El proveïdor coordina l’enllaç de calendari i el registre acordats.",
+              "Donar visibilitat permesa o confirmar resultats."
+            ],
+            [
+              "Descoberta, proposta i tancament",
+              "Responsable comercial del client.",
+              "Responsable comercial del client.",
+              "Assistir, avaluar l’encaix, preparar propostes i tancar."
+            ],
+            [
+              "Informació de resultats",
+              "El client confirma acceptació o rebuig.",
+              "El proveïdor utilitza els motius per millorar la feina.",
+              "Retornar motius útils; una reserva no és una oportunitat."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Aquesta comparació no imposa un nombre universal d’hores setmanals. Estima la feina que realment queda i comprova qui té temps per fer-la. Un abast més barat pot no servir si retorna al comprador precisament la feina que li falta."
+        }
+      ]
+    },
+    {
+      "id": "m-readiness",
+      "label": "Preparació i terminis",
+      "title": "Separa preparació, llançament i resultats comercials",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Dependències, no un calendari promès",
+          "heads": [
+            "Etapa",
+            "Prova per avançar",
+            "Què no demostra"
+          ],
+          "rows": [
+            [
+              "Preparat per avaluar",
+              "Oferta, objectiu, exclusions, responsable comercial i proves disponibles.",
+              "Que la demanda outbound sigui previsible."
+            ],
+            [
+              "Preparat per començar",
+              "Responsabilitats, permisos i responsable d’infraestructura acordats.",
+              "Que l’accés o l’enviament ja estiguin autoritzats."
+            ],
+            [
+              "Preparat per llançar",
+              "Llista/missatges revisats, execució autoritzada i ruta de respostes/traspàs.",
+              "Un termini per aconseguir la primera reunió."
+            ],
+            [
+              "Preparat per avaluar respostes",
+              "Respostes humanes reals amb context i definicions coherents.",
+              "Que totes les respostes positives estiguin qualificades."
+            ],
+            [
+              "Preparat per avaluar avenç comercial",
+              "Resultat de trucades celebrades, qualificació i oportunitats acceptades.",
+              "Ingressos, rendibilitat o una tendència repetible amb una mostra petita."
+            ],
+            [
+              "Preparat per revisar o ampliar",
+              "Proves, indicis contraris i un canvi següent acotat.",
+              "Que més volum o canals resolguin el problema."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Les revisions es fan dins de l’acord real. No creen una prova curta o gratuïta, un nou dret de cancel·lació ni una progressió mensual garantida. El mínim outbound aprovat de Beespoke és de tres mesos; preparació, llançament i resultats útils són fets diferents."
+        }
+      ]
+    },
+    {
+      "id": "m-channels",
+      "label": "Canals i idiomes",
+      "title": "Concreta canal, idioma i responsable de resposta",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Brief fictici de canals del comprador A",
+          "heads": [
+            "Fet o necessitat",
+            "Feina proposada",
+            "Permís o incògnita"
+          ],
+          "rows": [
+            [
+              "Un contacte té activitat pública pertinent a LinkedIn.",
+              "Valorar primer un acostament individual per LinkedIn.",
+              "L’activitat suggereix rellevància del canal, no un problema de compra ni consentiment."
+            ],
+            [
+              "Un altre contacte elegible no té activitat útil a LinkedIn, però hi ha una via de correu aprovada.",
+              "Valorar un correu individual i un seguiment breu adequat.",
+              "Verificar font, ús permès, exclusions i responsable de resposta."
+            ],
+            [
+              "El comprador demana trucades en un mercat i idioma concrets.",
+              "Avaluar abast i cobertura de professionals nadius per separat.",
+              "No pressuposar professional, preu, finestra de resposta ni data d’inici."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Correu i LinkedIn necessiten un responsable de coordinació. Pot ser adequat un seguiment breu al cap d’uns dies si el context ho justifica; no cal una seqüència automatitzada llarga. Un rebuig obliga a parar, no a canviar de persona o canal."
+        },
+        {
+          "type": "p",
+          "text": "L’abast outbound base de Beespoke cobreix cold email i/o prospecció en fred per LinkedIn. Les trucades es pressuposten a part segons el mercat; per a aquesta feina es contractarien professionals nadius de l’idioma. El fundador permet prestar serveis en anglès, castellà, català i francès. Això no promet un equip existent de trucades natives ni atenció permanent."
+        }
+      ]
+    },
+    {
+      "id": "m-sample",
+      "label": "Mostra de qualitat",
+      "title": "Comprova una raó individual per escriure",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A01 és un compte distribuïdor fictici que encaixa en el brief A. En aquest exemple, el seu responsable d’operacions pregunta públicament com coordinar el seguiment després d’un esdeveniment regional sense abordar dos cops el mateix compte. El càrrec, el mercat i la pregunta justifiquen una conversa pertinent; necessitat, autoritat, pressupost i moment continuen sent desconeguts."
+        },
+        {
+          "type": "message",
+          "label": "Obertura fictícia, sense atribuir-li resultats",
+          "text": "La teva pregunta sobre els seguiments repetits després de l’esdeveniment de distribuïdors em va fer pensar en com repartiu les respostes ara. Ajudem els equips a aclarir el traspàs entre recerca i vendes. Si hi esteu treballant, et seria útil un esquema breu?"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Context conegut: un càrrec pertinent i una pregunta pública explícita en el supòsit fictici.",
+            "Pregunta raonable: si ara estan treballant en el repartiment de respostes.",
+            "Afirmació sense suport: que l’empresa perd ingressos o necessita urgentment una agència.",
+            "Criteri humà: referir-se al punt concret, sense elogis buits ni una obertura mecànica amb «he vist». "
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Una ubicació, esdeveniment, interès compartit o publicació pot aportar una raó autèntica per escriure sense demostrar un problema comercial. Avalua el criteri de recerca, no la quantitat de camps personalitzats. Les guies de redacció i prospecció per comptes desenvolupen els exemples complets."
+        }
+      ]
+    },
+    {
+      "id": "m-handoff",
+      "label": "Traspàs comercial",
+      "title": "Inspecciona el traspàs i l’excepció",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Una resposta interessada encara no és una reunió qualificada. Al registre fictici M01, el contacte accepta parlar, però inicialment se’n desconeix l’autoritat de compra. La reserva es crea el dia 3; el responsable comercial rep la pregunta, l’encaix conegut, les qüestions obertes, el calendari/zona horària i la referència original. La trucada se celebra el dia 12; llavors el client confirma l’encaix acordat i accepta una oportunitat."
+        },
+        {
+          "type": "table",
+          "caption": "Dos registres ficticis, dos resultats",
+          "heads": [
+            "Registre",
+            "Resultat comprovable",
+            "Responsable següent i acció"
+          ],
+          "rows": [
+            [
+              "M01",
+              "Celebrada el dia 12; encaix confirmat; el client accepta una oportunitat.",
+              "El client dirigeix descoberta i tancament; el proveïdor rep la confirmació."
+            ],
+            [
+              "M02",
+              "Reserva original reprogramada; celebrada el dia 18. La responsabilitat no encaixa en el rol acordat.",
+              "El client retorna el motiu; el proveïdor revisa la segmentació. No es compta una oportunitat acceptada ni una altra captació."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "El registre ha de conservar allò que realment va dir el contacte, allò desconegut i els compromisos assumits. Una petició amable d’informació, un càrrec, un clic de calendari o un canvi de data no substitueixen les proves de qualificació i acceptació. No s’ha d’esquivar un rebuig real."
+        },
+        {
+          "type": "p",
+          "text": "El calendari pot ser del client a Calendly, Google Calendar o un altre sistema acordat. Per mesurar calen permisos de visibilitat al CRM o confirmació fiable del client; el calendari tot sol no demostra que la trucada s’ha celebrat o ha estat útil."
+        }
+      ]
+    },
+    {
+      "id": "m-outcomes",
+      "label": "Comparar resultats",
+      "title": "Llegeix una comparació petita sense declarar un guanyador",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Són dues cohorts fictícies diferents, no un experiment controlat. Cadascuna conté 50 contactes únics elegibles abordats per primer cop entre els dies 1–7. Les reserves originals es creen els dies 1–14; els resultats s’observen fins al dia 28. El període de costos també és dies 1–28. Ofertes, execució i condicions poden diferir; aquestes xifres no permeten atribuir al model un resultat millor."
+        },
+        {
+          "type": "table",
+          "caption": "Mateixes definicions i resultats encara oberts",
+          "heads": [
+            "Mesura",
+            "Cohort gestionada M",
+            "Cohort amb personal S"
+          ],
+          "rows": [
+            [
+              "Contactes únics elegibles",
+              "50",
+              "50"
+            ],
+            [
+              "Reserves originals",
+              "4",
+              "4"
+            ],
+            [
+              "Trucades celebrades fins al dia 28",
+              "2",
+              "3"
+            ],
+            [
+              "Celebrades que compleixen la qualificació acordada",
+              "1",
+              "2"
+            ],
+            [
+              "Oportunitats acceptades pel client",
+              "1",
+              "1"
+            ],
+            [
+              "Trucada futura pendent",
+              "1",
+              "1"
+            ],
+            [
+              "Cancel·lades abans de celebrar-se",
+              "1",
+              "0"
+            ],
+            [
+              "Celebrades retornades per rol incorrecte",
+              "1",
+              "1"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "M01 se celebra, es qualifica i s’accepta; M02 se celebra i es retorna; M03 es cancel·la; M04 queda programada per al dia 35. S01 se celebra, es qualifica i s’accepta; S02 se celebra i es qualifica, amb la decisió d’oportunitat pendent; S03 se celebra i es retorna; S04 queda per al dia 35. El canvi de data de M02 conserva la mateixa reserva original."
+        },
+        {
+          "type": "p",
+          "text": "Les proporcions celebrades són 2/4 = 50% i 3/4 = 75%, però totes dues cohorts tenen una oportunitat acceptada. Cap proporció demostra rendibilitat o avantatge del proveïdor. Els costos complets són desconeguts. Amb costos comparables coneguts C_M i C_S, el cost per reunió qualificada celebrada seria C_M/1 i C_S/2; és indefinit si el denominador és zero. Els costos desconeguts no són zero ni les trucades futures són absències."
+        }
+      ]
+    },
+    {
+      "id": "m-costs",
+      "label": "Costos complets",
+      "title": "Compara abasts i períodes compatibles",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Llista de normalització sense preus inventats",
+          "heads": [
+            "Cost o obligació",
+            "Què cal registrar",
+            "Què pot conservar el comprador"
+          ],
+          "rows": [
+            [
+              "Quota i període",
+              "Moneda, dates exactes i unitat contractada.",
+              "Períodes o feines no inclosos."
+            ],
+            [
+              "Mínim i preavís",
+              "Mínim, preavís, renovació i cancel·lació reals.",
+              "Compromisos fora del període d’execució."
+            ],
+            [
+              "Preparació i formació",
+              "Feina inclosa, coneixement del producte i aprovacions.",
+              "Fets del producte, permisos i temps del client."
+            ],
+            [
+              "Dades i programari",
+              "Llicències, límits, fonts permeses i costos addicionals.",
+              "Eines/dades omeses d’una quota baixa."
+            ],
+            [
+              "Supervisió i qualitat",
+              "Responsable, acompanyament, revisió i escalat.",
+              "Gestió no inclosa amb el personal."
+            ],
+            [
+              "Continuïtat",
+              "Cobertura d’absències, substitució i traspàs si s’acorden.",
+              "Cobertura interna o interrupcions."
+            ],
+            [
+              "Resultats",
+              "Definicions de reunió celebrada/qualificada i oportunitat al mateix tall.",
+              "Descoberta, propostes i tancament."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Una quota per mes natural i una altra per quatre setmanes no cobreixen el mateix període. De l’1 al 30 de novembre hi ha 30 dies naturals; quatre setmanes són 28. No comparis només la quota nominal ni prorrategis el període que falta sense les condicions escrites. És una il·lustració temporal, no un pressupost d’agència."
+        },
+        {
+          "type": "p",
+          "text": "Inclou salari o quota, costos laborals, eines, dades, temps de gestió i adaptació, risc de substitució, posada en marxa i càrrecs variables. Compara després el cost per reunió celebrada amb el perfil acordat i per oportunitat acceptada, no els missatges enviats. Un model barat surt car si has de refer la feina o les converses no poden avançar."
+        },
+        {
+          "type": "p",
+          "text": "La guia de costos i la calculadora de programari davant d’agència desenvolupen el càlcul. Aquesta comparació no introdueix referències salarials, tarifes de proveïdors, estalvis suposats ni conversions de moneda."
+        }
+      ]
+    },
+    {
+      "id": "m-hybrid",
+      "label": "Coordinació híbrida",
+      "title": "Un model híbrid necessita una regla de responsabilitat dels comptes",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "En aquest supòsit, l’equip intern conserva els comptes estratègics i un responsable extern avalua un segment separat. El repartiment depèn de la feina; no es pressuposa una regla de personal 70/30."
+        },
+        {
+          "type": "table",
+          "caption": "Una col·lisió i com resoldre-la",
+          "heads": [
+            "Situació",
+            "Responsable",
+            "Acció abans de continuar"
+          ],
+          "rows": [
+            [
+              "A01 ja pertany a l’equip intern.",
+              "Responsable comú del programa.",
+              "Excloure A01 del segment extern i conservar el responsable de la conversa."
+            ],
+            [
+              "A02 havia rebutjat el contacte.",
+              "Responsable de baixes/exclusions.",
+              "Transmetre la instrucció de parar mitjançant el registre permès; no provar un altre canal o company."
+            ],
+            [
+              "A03 pertany al segment extern i respon.",
+              "Responsable extern de resposta; vendes del client rep un traspàs útil.",
+              "Registrar resposta i responsable següent un sol cop, amb visibilitat permesa."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Si tots dos equips declaren la mateixa reunió, concilia la referència original i el registre de procedència abans d’atribuir-la. Un model híbrid afegeix supervisió, permisos i risc de col·lisió; no combina automàticament el millor de tots dos."
+        }
+      ]
+    },
+    {
+      "id": "m-continuity",
+      "label": "Continuïtat",
+      "title": "Resol una absència abans de contractar cobertura",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "La persona assignada fictícia del comprador B deixa d’estar disponible. Un nom de substitució no restaura tot sol la cobertura acordada. El responsable ha d’identificar què es pausa, qui pot respondre i quina informació i permís necessita el substitut."
+        },
+        {
+          "type": "table",
+          "caption": "Preguntes de continuïtat amb conseqüències pràctiques",
+          "heads": [
+            "Pregunta",
+            "Prova o responsable",
+            "Decisió si falta"
+          ],
+          "rows": [
+            [
+              "Qui supervisa?",
+              "Responsable identificat i ruta d’escalat.",
+              "Aturar l’execució sense gestió."
+            ],
+            [
+              "A què pot accedir un substitut?",
+              "El titular confirma permisos concrets.",
+              "No heretar accés per defecte."
+            ],
+            [
+              "Quin coneixement es traspassa?",
+              "Fets aprovats, exclusions, context i regles de traspàs.",
+              "Pausar afirmacions desconegudes o context incomplet."
+            ],
+            [
+              "Quina cobertura s’ha contractat?",
+              "Assignació i condicions escrites d’absència/substitució.",
+              "Explicar el buit; no inventar substitució immediata."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Les preguntes serveixen per a personal intern, una agència gestionada i capacitat assignada. L’exemple no concedeix dret a contractar l’SDR, un nou nivell de servei ni absència de riscos."
+        }
+      ]
+    },
+    {
+      "id": "m-access",
+      "label": "Accés i dades",
+      "title": "Registra el permís mínim necessari",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Sol·licitud fictícia d’accés AT01",
+          "heads": [
+            "Camp",
+            "Entrada proposada",
+            "Comprovació pendent"
+          ],
+          "rows": [
+            [
+              "Finalitat i abast",
+              "El rol d’execució només llegirà registres permesos de campanya/resultats necessaris per al traspàs.",
+              "El titular encara no ha concedit l’accés."
+            ],
+            [
+              "Dades i exclusions",
+              "Camps aprovats, procedència i responsable de baixes definits.",
+              "Ús permès, conservació i gestió d’incidents depenen de l’acord real."
+            ],
+            [
+              "Canvis i escalat",
+              "El titular decideix els accessos; el responsable d’execució escala incidents.",
+              "L’exemple no autoritza exportar, esborrar ni canviar campanyes."
+            ],
+            [
+              "Fi de la feina",
+              "Especificar exportacions permeses, drets i receptor; confirmar recepció.",
+              "Titularitat, drets d’exportació i conservació són qüestions diferents."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Comprova els sistemes concrets en lloc de demanar accés general. Un permís sense resoldre bloqueja l’execució corresponent. És una llista operativa, no una base jurídica, política de privadesa ni instrucció per canviar DNS, campanyes o comptes reals."
+        }
+      ]
+    },
+    {
+      "id": "m-proof",
+      "label": "Proves i privadesa",
+      "title": "Demana proves sense exposar el client ni el contacte",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Demana una mostra autoritzada i anonimitzada que expliqui període, feina contractada, cohort original, definicions de qualificació, feina del client i límits rellevants. Elimina identitats i context que permeti reconèixer-les, no només noms. Si no hi ha permís, utilitza una demostració fictícia original i aclareix que no prova resultats."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mètode: com passa un registre de compte elegible a prospecció, resposta i traspàs comercial.",
+            "Mesurament: separar reserva original, tall d’observació i decisions de celebració/qualificació/oportunitat.",
+            "Límits: què falta, està pendent o no es pot atribuir.",
+            "Permís: què es pot mostrar, a qui i de quina manera."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Un logotip, puntuació de ressenyes o total de reunions no determina què rebrà aquest comprador. No converteixis resultats aliens en proves de Beespoke ni contactis referències com a part de llegir la guia. La guia de selecció desenvolupa la revisió de proves."
+        }
+      ]
+    },
+    {
+      "id": "m-record",
+      "label": "Brief complet",
+      "title": "Acaba amb una decisió que puguis explicar",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pots llegir aquests registres complets sense formulari ni compte. Selecciona el text per reutilitzar l’estructura i substitueix els requisits i incògnites ficticis per informació verificada. Expressen un criteri; no puntuen agències ni autoritzen prospecció."
+        },
+        {
+          "type": "record",
+          "title": "Registre de decisió fictici A",
+          "rows": [
+            [
+              "Necessitat",
+              "Oferta provada i responsable de trucades preparat; falten execució i supervisió diàries."
+            ],
+            [
+              "Acord",
+              "Abast M de correu/LinkedIn gestionats, subjecte a assignació i permís escrits."
+            ],
+            [
+              "Proves",
+              "L’abast cobreix recerca, missatges, respostes i traspàs; capacitat i accés sense confirmar."
+            ],
+            [
+              "El client conserva",
+              "Judici sobre llista i fets, descoberta comercial i tancament."
+            ],
+            [
+              "Decisió",
+              "Pendent de proves de capacitat i accés."
+            ],
+            [
+              "Responsable següent",
+              "Comprador i responsable d’execució; revisar quan hi hagi els documents."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Registre fictici A2: canvia una condició",
+          "rows": [
+            [
+              "Fet nou",
+              "Ja hi ha responsable intern competent i temps d’execució."
+            ],
+            [
+              "Acord",
+              "Suport de recerca amb prospecció interna elegible; el programa gestionat és opcional."
+            ],
+            [
+              "Proves",
+              "Responsables identificats; fonts i permís de recerca encara per verificar."
+            ],
+            [
+              "El client conserva",
+              "Execució, respostes, supervisió i trucades comercials."
+            ],
+            [
+              "Decisió",
+              "Acceptar l’acord per avaluar-lo; no és selecció de proveïdor ni permís de llançament."
+            ],
+            [
+              "Responsable següent",
+              "El responsable intern verifica abast, accés i càrrega de feina abans de contractar."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "El comprador B pot avaluar cobertura; el C ha d’ajornar l’execució. El pas següent depèn de la feina i les proves que falten, no de la llista de canals més extensa o la promesa més persuasiva."
+        }
+      ]
+    },
+    {
+      "id": "m-service",
+      "label": "Abast de Beespoke",
+      "title": "On encaixa Beespoke",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Beespoke ofereix outbound gestionat dirigit pel fundador per a cold email i/o prospecció en fred per LinkedIn. Ens encarreguem de segmentació, recerca, preparació de llistes, missatges individuals, execució autoritzada, respostes, qualificació segons criteris acordats i traspàs al calendari. El client aporta el seu judici sobre la llista i conserva la descoberta comercial, les propostes i el tancament."
+        },
+        {
+          "type": "p",
+          "text": "Les tarifes regionals aprovades i el mínim de tres mesos figuren a continuació. No hi ha tarifa per reunió. Programari, dades i altres despeses de tercers van a part si no s’inclouen per escrit. Les trucades es pressuposten per separat segons el mercat; es contractarien professionals nadius per a aquesta feina. El fundador permet prestar serveis en anglès, castellà, català i francès."
+        },
+        {
+          "type": "p",
+          "text": "No inclou automàticament personal SDR dedicat a temps complet, direcció comercial ni capacitat multicanal il·limitada. No garanteix reunions o ingressos fixos. Si necessites un equip de trucades assignat o una cobertura concreta, compara l’abast proposat abans de contractar."
+        },
+        {
+          "type": "serviceLinks"
+        },
+        {
+          "type": "terms"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    [
+      "Quina diferència hi ha entre un SDR externalitzat i una agència de generació de leads?",
+      "Les etiquetes se solapen. Una agència pot aportar SDR i un servei SDR pot incloure gestió, recerca i execució. Compara capacitat assignada, supervisió, canals, sistemes, lliurables i responsabilitats del client dins de l’abast escrit."
+    ],
+    [
+      "Un SDR externalitzat és necessàriament exclusiu?",
+      "No. La capacitat pot ser exclusiva, compartida o lligada a un programa. Verifica temps o cobertura reals, supervisor, feina inclosa i condicions d’absència; l’etiqueta no demostra disponibilitat."
+    ],
+    [
+      "Quan encaixa millor una campanya gestionada?",
+      "Pot encaixar quan oferta i comprador són clars, el client pot jutjar la llista i atendre trucades, però falten execució i supervisió. Verifica abast i capacitat. Si falten oferta o responsable de seguiment, ajorna l’execució completa."
+    ],
+    [
+      "Qui dirigeix la descoberta comercial i tanca?",
+      "En l’abast aprovat de Beespoke, el client dirigeix descoberta, propostes i tancament. Beespoke gestiona la prospecció acordada i el traspàs al calendari. Reservar, celebrar, qualificar, acceptar una oportunitat i vendre són fets diferents."
+    ],
+    [
+      "El pla base inclou trucades i personal SDR dedicat?",
+      "El pla outbound cobreix cold email i/o prospecció en fred per LinkedIn. Les trucades es pressuposten a part segons el mercat, amb professionals nadius contractats per a aquesta feina. No inclou automàticament personal SDR dedicat a temps complet."
+    ],
+    [
+      "Quant ha de durar l’avaluació?",
+      "Utilitza revisions lligades a preparació, llançament, respostes i una cohort comercial prou madura dins del contracte real. No pressuposis un termini universal per aconseguir reunions. El mínim outbound aprovat de Beespoke és de tres mesos."
+    ],
+    [
+      "Com cal comparar costos i resultats?",
+      "Utilitza el mateix abast, període exacte de costos, cohort i tall d’observació. Separa reserves originals, reunions qualificades celebrades i oportunitats acceptades. Els costos que falten són desconeguts; el cost unitari és indefinit si no hi ha reunions qualificades celebrades."
+    ]
+  ]
+}

@@ -1,0 +1,885 @@
+{
+  "description": "Compare outsourced SDR capacity and managed lead generation by responsibilities, supervision, scope and handoff. Work through three fictional buyer decisions.",
+  "answer": "An outsourced SDR service and a lead generation agency can describe the same provider. Choose staffed capacity when the missing resource is a person or team with a verified allocation and management arrangement. Choose managed execution when you need an agreed programme run for you. Compare who researches, decides, supervises, responds and hands work to sales; the label alone tells you none of that.",
+  "kicker": "Choosing the work to outsource",
+  "resources": "Resources",
+  "contents": "Contents",
+  "author": "By",
+  "updated": "Updated November 3, 2026",
+  "read": "Read the buyer situations",
+  "fiction": "Every buyer, scope, account, message and result below is invented for teaching. These are not customer results, provider assessments or a forecast.",
+  "scroll": "Scroll sideways to read every column.",
+  "sourcesTitle": "Sources and method",
+  "relatedTitle": "Continue with the right question",
+  "sourcesIntro": "Public pages reviewed on November 3, 2026 informed the questions and model distinctions. The buyer situations, sample and records are original fiction. Provider outcomes, prices and launch claims are not adopted as benchmarks. A source explains its own offer; it does not establish what every provider includes.",
+  "sourcesNotes": [
+    "SDRs inside a managed programme, rather than a separate category.",
+    "An agency can supply sales-development people and management.",
+    "Scope, retained client work, readiness and compatible costs.",
+    "Internal, outsourced and hybrid capacity; no universal staffing split adopted.",
+    "Visibility, research and approval questions; tool-vendor perspective.",
+    "Allocation, infrastructure and management vary by proposal."
+  ],
+  "relatedLabels": [
+    "Choose an outbound agency using evidence",
+    "Review the outsourced SDR cost guide",
+    "Compare outsourced and internal SDR delivery",
+    "Manage an outsourced SDR team",
+    "Build a prospecting plan"
+  ],
+  "serviceLinks": [
+    "Explore managed outbound",
+    "Review the current service scope",
+    "Discuss the work you need"
+  ],
+  "sections": [
+    {
+      "id": "m-models",
+      "label": "Operating models",
+      "title": "Compare the work, not the category name",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "An agency may employ dedicated SDRs, share specialists across campaigns or supply research alone. An outsourced SDR may work under the provider’s manager, the buyer’s manager or a shared arrangement. “Dedicated” needs a written allocation; “managed” needs a named delivery owner. Neither word establishes coverage or results."
+        },
+        {
+          "type": "table",
+          "caption": "Five arrangements and what must be verified",
+          "heads": [
+            "Arrangement",
+            "What is bought",
+            "Work retained by the buyer",
+            "Evidence before choosing"
+          ],
+          "rows": [
+            [
+              "Research support",
+              "Account/contact research and an agreed research output.",
+              "Own outreach, response handling, supervision and closing.",
+              "Inclusion/exclusion rationale, permitted sources and who will use the research."
+            ],
+            [
+              "Managed campaign",
+              "Defined targeting, messages, execution, replies and handoff under a delivery owner.",
+              "Approve the target list and factual boundaries; provide product judgment, attend discovery and close.",
+              "Actual channels, allocated capacity, manager, review access and handoff rules."
+            ],
+            [
+              "Staffed SDR capacity",
+              "A person or team with an agreed allocation; support varies.",
+              "Supply product knowledge and any supervision, systems or work not included.",
+              "Hours/coverage, dedicated or shared allocation, manager, training and continuity."
+            ],
+            [
+              "Internal SDR",
+              "Employees and an internal operating function.",
+              "Recruit, coach, fund tools/data, supervise and cover absence.",
+              "Sustained work, capable management, budget and permission to operate."
+            ],
+            [
+              "Fractional sales leadership",
+              "Part-time design, coaching or leadership as agreed.",
+              "Provide people who execute and someone who closes.",
+              "Decision authority, coaching remit, execution owner and time allocation."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Keep internal delivery and fractional leadership in the comparison. A campaign provider does not automatically replace either. For detailed vendor interviews, use the agency-selection guide; this page decides which arrangement is worth evaluating."
+        }
+      ]
+    },
+    {
+      "id": "m-cases",
+      "label": "Buyer situations",
+      "title": "Three complete decisions, including “do not hire yet”",
+      "blocks": [
+        {
+          "type": "case",
+          "title": "Buyer A: a closer is ready, but nobody can run prospecting",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "A fictional B2B stock-planning adviser has sold a defined service through manual introductions. The intended buyers are operations leaders at US distributors. Existing customers, previous declines and companies outside the serviceable market are excluded. The founder can judge the list, approve factual boundaries and take discovery calls, but cannot supervise daily research, execution and replies."
+            },
+            {
+              "type": "p",
+              "text": "A managed email/LinkedIn programme is a plausible arrangement because execution and supervision are the missing work. Research-only support leaves that work unowned; a staffing-only proposal does too unless management is explicitly included. The model choice is conditional: provider capacity, permitted sender access and handoff evidence are still missing."
+            },
+            {
+              "type": "p",
+              "text": "Decision: hold the proposed managed arrangement for those artifacts, not for a meeting promise. The buyer still owns list judgment, discovery and closing. No campaign is authorised by this teaching decision."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Buyer B: specific coverage inside an existing sales operation",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "A fictional technical supplier has a tested buyer group, product training, an internal sales manager and a CRM. It needs an assigned representative during four specified weekday mornings in the buyer’s calendar time zone, with participation in the team’s review rhythm. The requirement is coverage and integration, not simply another channel campaign."
+            },
+            {
+              "type": "p",
+              "text": "Staffed SDR capacity is worth evaluating if the proposed allocation, supervisor, training and absence arrangements satisfy that brief. A managed agency could also provide it; the agency label does not rule it out. A campaign promising only a monthly output does not establish the required availability."
+            },
+            {
+              "type": "p",
+              "text": "Decision: choose the capacity arrangement for diligence, pending written allocation and allowed access. Ask separately whether the required channel and language are included. Neither native calling coverage nor an immediate replacement is assumed."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Buyer C: the offer and call owner are unresolved",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "A fictional founder asks for more meetings but cannot name the buyer, defend the offer or identify who will respond and run discovery. There is no evidence of a repeatable sale yet. Both an assigned rep and a managed campaign would inherit unresolved decisions."
+            },
+            {
+              "type": "p",
+              "text": "Decision: defer full execution. Clarify the offer, buyer and follow-up ownership through founder discovery or a separately defined diagnostic task. Outside research can support learning, but that is a different purchase from a predictable meeting programme. No launch date or result is invented."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Change one constraint in Buyer A: if a capable internal manager and execution time become available, research-only support plus internal execution becomes a credible alternative. The offer and buyer have not changed; the missing capability has. That is why a model should not win by default."
+        }
+      ]
+    },
+    {
+      "id": "m-scopes",
+      "label": "Read the scope",
+      "title": "Read three fictional proposals against Buyer A’s brief",
+      "blocks": [
+        {
+          "type": "case",
+          "title": "Scope R — research only",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "“We deliver a researched account list with inclusion reasons and approved source fields. Your team runs outreach and replies.”"
+            },
+            {
+              "type": "p",
+              "text": "The output is clear, but Buyer A has no execution owner. Reject this arrangement for the current brief, rather than calling research-only work a poor service. It could fit the changed-constraint situation."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Scope M — managed email/LinkedIn",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "“A delivery owner manages research, approved messages, authorised outreach, replies and calendar handoff. You approve the target list and factual boundaries, then run the sales calls.”"
+            },
+            {
+              "type": "p",
+              "text": "This covers the missing work. Hold until the proposal specifies allocated capacity, permissions, channels, visibility and the evidence handed to the closer. “Managed” alone does not answer those questions."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Scope S — assigned representative, unclear supervision",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "“An assigned SDR works in your CRM. You supply product training. Management is shared.”"
+            },
+            {
+              "type": "p",
+              "text": "“Assigned” does not establish dedicated hours. “Shared management” does not identify who coaches, resolves a reply exception or covers an absence. Request an allocation and responsibility map before judging this scope."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Questions that change the purchase",
+          "heads": [
+            "Requirement",
+            "Specific evidence to request",
+            "Decision while missing"
+          ],
+          "rows": [
+            [
+              "Daily supervision",
+              "Role accountable for list quality, messages, replies and exceptions.",
+              "Hold the work whose owner is unknown."
+            ],
+            [
+              "Coverage",
+              "Written allocation, calendar time zone and absence procedure.",
+              "Do not infer availability from “dedicated”."
+            ],
+            [
+              "Access and handoff",
+              "Permitted account/CRM scope and a complete fictional or authorised redacted record.",
+              "No launch or access assumed."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "A fluent answer is not the artifact. A missing field is an open question, not proof of dishonesty. Use the same brief when comparing proposals."
+        }
+      ]
+    },
+    {
+      "id": "m-roles",
+      "label": "Client workload",
+      "title": "Write down the client work left in each arrangement",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Responsibility map for Buyer A",
+          "heads": [
+            "Task",
+            "Staffing-only scope",
+            "Managed execution scope",
+            "Client decision or retained work"
+          ],
+          "rows": [
+            [
+              "Research and targeting",
+              "Buyer directs unless provider research is included.",
+              "Delivery owner organises research and list preparation.",
+              "Judge whether the target list contains the right people."
+            ],
+            [
+              "Facts and messaging",
+              "Buyer supplies or approves the permitted facts; writer must be named.",
+              "Provider researches and writes within approved factual boundaries.",
+              "Supply accurate offer context and resolve claims that need owner judgment."
+            ],
+            [
+              "Execution permission",
+              "Account owner grants the specific allowed scope.",
+              "Account owner grants the specific allowed scope.",
+              "Authorise execution on the client’s behalf; access is not inferred."
+            ],
+            [
+              "Daily supervision",
+              "Buyer manager, unless the proposal includes another owner.",
+              "Provider delivery owner, with escalation to the buyer for decisions.",
+              "Name the person who can resolve exceptions."
+            ],
+            [
+              "Replies and objections",
+              "Assigned rep, under a stated response process.",
+              "Provider handles replies and routes exceptions.",
+              "Answer product or commercial questions outside the approved boundary."
+            ],
+            [
+              "Calendar and CRM handoff",
+              "Define the record and receiving sales owner.",
+              "Provider coordinates the agreed calendar link and record.",
+              "Provide allowed visibility or confirmation of outcomes."
+            ],
+            [
+              "Discovery, proposal and close",
+              "Client sales owner.",
+              "Client sales owner.",
+              "Attend, assess fit, prepare proposals and close."
+            ],
+            [
+              "Result feedback",
+              "Buyer confirms accepted/rejected outcomes.",
+              "Provider uses client feedback to refine the work.",
+              "Return useful reasons; a booking alone is not an opportunity."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "There is no universal weekly-hours requirement in this comparison. Estimate the actual remaining work and check who has time to do it. A cheaper scope can be unsuitable when it returns the missing work to the buyer."
+        }
+      ]
+    },
+    {
+      "id": "m-readiness",
+      "label": "Readiness and ramp",
+      "title": "Separate launch readiness from sales results",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "A dependency path, not a promised timetable",
+          "heads": [
+            "Stage",
+            "Evidence needed to move on",
+            "What it does not prove"
+          ],
+          "rows": [
+            [
+              "Ready to evaluate",
+              "Defined offer, target, exclusions, sales owner and available evidence.",
+              "That outbound demand will be predictable."
+            ],
+            [
+              "Ready to prepare",
+              "Agreed responsibilities, permitted access and infrastructure owner.",
+              "That access or sending is already authorised."
+            ],
+            [
+              "Ready to launch",
+              "Reviewed list/messages, allowed execution and a working reply/handoff route.",
+              "A time-to-first-meeting promise."
+            ],
+            [
+              "Ready to assess response",
+              "Actual human replies with context and consistent definitions.",
+              "That every positive reply is qualified."
+            ],
+            [
+              "Ready to assess sales progression",
+              "Held-call outcomes, qualification and accepted-opportunity decisions.",
+              "Revenue, profitability or a repeatable trend from a small sample."
+            ],
+            [
+              "Ready to revise or expand",
+              "Specific evidence, counter-evidence and a bounded next change.",
+              "That more volume or more channels will solve the constraint."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Evaluation checkpoints operate within the actual agreement. They do not create a short or free pilot, a new cancellation right or a guaranteed monthly ramp. Beespoke’s approved outbound minimum is three months; setup, launch and useful sales outcomes are different events."
+        }
+      ]
+    },
+    {
+      "id": "m-channels",
+      "label": "Channels and languages",
+      "title": "Specify the channel, language and response owner",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "A fictional channel brief for Buyer A",
+          "heads": [
+            "Observed fact or requirement",
+            "Proposed work",
+            "Permission or unknown"
+          ],
+          "rows": [
+            [
+              "A target has relevant public LinkedIn activity.",
+              "Consider a personally researched LinkedIn approach first.",
+              "Activity suggests channel relevance, not a buying problem or consent."
+            ],
+            [
+              "Another eligible target has no useful LinkedIn activity, but an approved email route is available.",
+              "Consider individual email outreach and an appropriately brief follow-up.",
+              "Verify source, allowed use, exclusions and who handles the reply."
+            ],
+            [
+              "The buyer requests live calls in a particular market/language.",
+              "Evaluate calling scope and native caller coverage separately.",
+              "No caller, price, response window or start date is assumed."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Email and LinkedIn need one coordination owner. A brief follow-up may be appropriate after a few days when the context supports it; a long automated sequence is not a requirement. A refusal is a stop instruction, not a reason to switch person or channel."
+        },
+        {
+          "type": "p",
+          "text": "Beespoke’s base outbound scope covers cold email and/or cold LinkedIn. Cold calling is separately quoted by target market; native callers would be hired for that work. The founder supports service delivery in English, Spanish, Catalan and French. Those facts do not promise an existing native caller team or round-the-clock coverage."
+        }
+      ]
+    },
+    {
+      "id": "m-sample",
+      "label": "Quality sample",
+      "title": "Check one individual reason to write",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A01 is an invented distributor account within Buyer A’s brief. In this teaching situation, its operations lead asks publicly how teams coordinate follow-up after a regional event without approaching the same account twice. The role, market and public question support a relevant conversation; need, authority, budget and timing remain unknown."
+        },
+        {
+          "type": "message",
+          "label": "One fictional opening, not a reusable claim of results",
+          "text": "Your question about repeated follow-ups after the distributor event made me wonder how your team routes replies today. We help teams keep the handoff clear between research and sales. If that is a current task, would a short outline be useful?"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Known context: a relevant role and an explicit public question in the invented situation.",
+            "Reasonable question: whether the team is working on reply routing now.",
+            "Unsupported claim: that the company is losing revenue or urgently needs an agency.",
+            "Human judgment: refer to the actual point rather than add an empty compliment or an “I noticed” opening."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "A location, event, shared interest or social post can create a genuine reason to write without proving a business problem. Evaluate research judgment, not how many personalization fields appear. The copywriting and account-based prospecting guides own the fuller examples."
+        }
+      ]
+    },
+    {
+      "id": "m-handoff",
+      "label": "Sales handoff",
+      "title": "Inspect the handoff and the exception",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "An interested reply is not yet a qualified meeting. In the fictional M01 record, the contact accepts a discussion but purchasing authority is initially unknown. The booking is created on day 3; the sales owner receives the question, known fit, open issues, calendar/time zone and original booking reference. The call is held on day 12; only then does the client confirm the agreed fit and accept an opportunity."
+        },
+        {
+          "type": "table",
+          "caption": "Two fictional records with different outcomes",
+          "heads": [
+            "Record",
+            "Inspectable outcome",
+            "Next owner and action"
+          ],
+          "rows": [
+            [
+              "M01",
+              "Held day 12; agreed fit confirmed; one opportunity accepted by the client.",
+              "Client runs discovery and closing; provider receives the accepted-outcome feedback."
+            ],
+            [
+              "M02",
+              "Original booking later rescheduled; held day 18. Responsibility is outside the agreed buyer role.",
+              "Client returns a wrong-role reason; provider reviews targeting. No accepted opportunity or additional acquisition is counted."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The record should preserve what the prospect actually said, what remains unknown and the promises already made. A polite request for information, a job title, a calendar click or a reschedule cannot substitute for the agreed qualification and acceptance evidence. A genuine refusal must not be bypassed."
+        },
+        {
+          "type": "p",
+          "text": "The calendar can belong to the client in Calendly, Google Calendar or another agreed system. Tracking requires permitted CRM visibility or reliable client confirmation; calendar software alone does not prove a call was held or useful."
+        }
+      ]
+    },
+    {
+      "id": "m-outcomes",
+      "label": "Outcome comparison",
+      "title": "Read a small comparison without declaring a winner",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "These are two separate invented cohorts, not a controlled experiment. Each contains 50 eligible unique contacts first approached on days 1–7. Original bookings are created on days 1–14; outcomes are observed through day 28. The cost period is also days 1–28. Offers, execution and buyer conditions may still differ, so these figures cannot identify which delivery model caused a better result."
+        },
+        {
+          "type": "table",
+          "caption": "Same reporting definitions, different unresolved outcomes",
+          "heads": [
+            "Measure",
+            "Managed cohort M",
+            "Staffed cohort S"
+          ],
+          "rows": [
+            [
+              "Eligible unique contacts",
+              "50",
+              "50"
+            ],
+            [
+              "Original bookings",
+              "4",
+              "4"
+            ],
+            [
+              "Held calls by day 28",
+              "2",
+              "3"
+            ],
+            [
+              "Held calls meeting the agreed qualification",
+              "1",
+              "2"
+            ],
+            [
+              "Client-accepted opportunities",
+              "1",
+              "1"
+            ],
+            [
+              "Future call still pending",
+              "1",
+              "1"
+            ],
+            [
+              "Cancelled before being held",
+              "1",
+              "0"
+            ],
+            [
+              "Held but returned as wrong role",
+              "1",
+              "1"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "M01 is held, qualified and accepted; M02 is held and returned; M03 is cancelled; M04 remains scheduled for day 35. S01 is held, qualified and accepted; S02 is held and qualified with the opportunity decision still pending; S03 is held and returned; S04 remains scheduled for day 35. A changed time for M02 stays the same original booking."
+        },
+        {
+          "type": "p",
+          "text": "The held shares are 2/4 = 50% and 3/4 = 75%, but both cohorts currently have one accepted opportunity. Neither share establishes profitability or a provider advantage. Full costs remain unknown. With compatible known costs C_M and C_S, cost per held qualified meeting would be C_M/1 and C_S/2; it is undefined when the denominator is zero. Unknown costs are not zero, and future calls are not no-shows."
+        }
+      ]
+    },
+    {
+      "id": "m-costs",
+      "label": "Complete costs",
+      "title": "Compare compatible scope and periods",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Unpriced scope-normalisation checklist",
+          "heads": [
+            "Cost or obligation",
+            "What to record",
+            "What may remain with the buyer"
+          ],
+          "rows": [
+            [
+              "Fee and period",
+              "Currency, exact start/end dates and purchased unit.",
+              "Uncovered periods or work not included."
+            ],
+            [
+              "Minimum and notice",
+              "Actual minimum term, notice, renewal and cancellation terms.",
+              "Commitments outside the proposed delivery period."
+            ],
+            [
+              "Setup and training",
+              "Included preparation, product learning and approval dependencies.",
+              "Product facts, permissions and client time."
+            ],
+            [
+              "Data and software",
+              "Allowance, licences, permitted sources and separately billed costs.",
+              "Tools/data omitted from a low headline fee."
+            ],
+            [
+              "Supervision and quality",
+              "Named manager, coaching, review and escalation work.",
+              "Management not included in staffing."
+            ],
+            [
+              "Continuity",
+              "Absence cover, replacement process and knowledge transfer if agreed.",
+              "Internal cover or interrupted work."
+            ],
+            [
+              "Outcomes",
+              "Compatible held/qualified and opportunity definitions at one cutoff.",
+              "Discovery, proposals and closing."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "A calendar-month fee and a four-week fee are not the same billing period. November 1–30 contains 30 calendar days; four weeks covers 28. Do not compare the nominal fee alone or prorate the missing period without the written terms. This is a period illustration, not an agency quote."
+        },
+        {
+          "type": "p",
+          "text": "Normalize salary or retainer, employment costs, tools, data, management time, ramp, replacement risk, setup fees and performance charges. Then compare cost per held ICP meeting and accepted opportunity—not messages sent. A lower-cost model becomes expensive if your team must rebuild its work or the conversations cannot progress."
+        },
+        {
+          "type": "p",
+          "text": "Use the existing cost guide and software-versus-agency calculator for the deeper calculation. This comparison introduces no salary benchmark, provider rate, assumed saving or exchange conversion."
+        }
+      ]
+    },
+    {
+      "id": "m-hybrid",
+      "label": "Hybrid coordination",
+      "title": "A hybrid needs one account-ownership rule",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In this fictional arrangement, an internal team owns a strategic-account group while an external delivery owner evaluates a separate segment. Allocation follows the work; no 70/30 staffing rule is assumed."
+        },
+        {
+          "type": "table",
+          "caption": "A collision and its resolution",
+          "heads": [
+            "Situation",
+            "Accountable owner",
+            "Action before further outreach"
+          ],
+          "rows": [
+            [
+              "A01 is already assigned to the internal team.",
+              "Shared programme owner.",
+              "Exclude A01 from the external segment and keep the existing conversation owner."
+            ],
+            [
+              "A02 has previously declined.",
+              "Suppression owner.",
+              "Carry the stop instruction across the permitted coordination record; do not try another channel or colleague."
+            ],
+            [
+              "A03 belongs to the external test segment and replies.",
+              "External response owner; client sales owner receives a useful handoff.",
+              "Record the reply and next owner once, with only permitted visibility."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "If both teams report the same meeting, reconcile the original booking reference and source record before attribution. A hybrid can add supervision, permissions and collision risk; it is not automatically the best of both models."
+        }
+      ]
+    },
+    {
+      "id": "m-continuity",
+      "label": "Continuity",
+      "title": "Work through an absence before buying coverage",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The fictional assigned representative for Buyer B becomes unavailable. A replacement name alone does not restore the agreed coverage. The manager must identify the work that pauses, who may respond, and what information and permission a substitute needs."
+        },
+        {
+          "type": "table",
+          "caption": "Continuity questions with practical consequences",
+          "heads": [
+            "Question",
+            "Evidence or owner",
+            "Decision while unresolved"
+          ],
+          "rows": [
+            [
+              "Who supervises the work?",
+              "Named accountable manager and escalation route.",
+              "Hold unmanaged execution."
+            ],
+            [
+              "What can a substitute access?",
+              "Account owner confirms the specific permitted scope.",
+              "No inherited access assumed."
+            ],
+            [
+              "What knowledge transfers?",
+              "Approved facts, exclusions, response context and handoff rules.",
+              "Pause work requiring unknown claims or incomplete context."
+            ],
+            [
+              "What coverage is contracted?",
+              "Written allocation and absence/replacement terms.",
+              "Report the gap honestly; do not invent immediate replacement."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The same questions apply to an internal employee, a managed agency and staffed capacity. This example grants no hire-out right, new service level or zero-risk assurance."
+        }
+      ]
+    },
+    {
+      "id": "m-access",
+      "label": "Access and data",
+      "title": "Record the minimum permission needed",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Fictional access ticket AT01",
+          "heads": [
+            "Field",
+            "Proposed entry",
+            "Unresolved check"
+          ],
+          "rows": [
+            [
+              "Purpose and scope",
+              "Delivery role may read only permitted campaign/outcome records needed for the handoff.",
+              "Account owner has not yet granted that access."
+            ],
+            [
+              "Data and suppression",
+              "Approved fields, source/provenance and suppression owner are named.",
+              "Permitted use, retention and incident duties require the actual agreement."
+            ],
+            [
+              "Changes and escalation",
+              "Client account owner decides access changes; delivery manager escalates incidents.",
+              "No export, deletion or campaign change is authorised by this example."
+            ],
+            [
+              "End of work",
+              "List permitted exports, rights and the receiving owner; confirm receipt.",
+              "Account ownership, export rights and retention obligations are distinct questions."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Inspect the exact systems needed rather than asking for blanket access. Unresolved permission blocks the relevant execution. This is an operational checklist, not a legal basis, a privacy policy or an instruction to change DNS, campaigns or real account settings."
+        }
+      ]
+    },
+    {
+      "id": "m-proof",
+      "label": "Proof and privacy",
+      "title": "Ask for evidence without exposing a customer or prospect",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Request an authorised redacted sample that explains the period, purchased work, original cohort, qualification definitions, client’s retained work and material limitations. Remove identities and reidentifying context, not only names. If permission is missing, use an original fictional demonstration and say that it is not result evidence."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Method: how a record moves from eligible account to outreach, reply and sales handoff.",
+            "Measurement: original booking, cutoff and held/qualified/opportunity decisions kept separate.",
+            "Limits: what is missing, pending or not attributable.",
+            "Permission: what can be shown, to whom, and in what form."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "A logo, review score or total meeting count does not establish what this buyer will receive. Do not copy another provider’s customer outcomes into Beespoke proof or contact references as part of reading this guide. The agency-selection guide carries the fuller evidence-review process."
+        }
+      ]
+    },
+    {
+      "id": "m-record",
+      "label": "Completed brief",
+      "title": "Finish with a decision you can explain",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "These completed static records are available without a form or account. Select the text to reuse the structure, replacing the fictional requirements and unknowns with verified information. The records express a judgment; they do not score agencies or authorise outreach."
+        },
+        {
+          "type": "record",
+          "title": "Fictional decision record A",
+          "rows": [
+            [
+              "Requirement",
+              "Proven offer and ready closer; daily prospecting execution and supervision are missing."
+            ],
+            [
+              "Arrangement",
+              "Managed email/LinkedIn scope M, subject to written allocation and permission."
+            ],
+            [
+              "Evidence",
+              "Scope covers research, messages, replies and handoff; capacity and permitted access are not yet established."
+            ],
+            [
+              "Client retains",
+              "Target-list judgment, factual decisions, discovery and closing."
+            ],
+            [
+              "Decision",
+              "Hold for the missing capacity and access artifacts."
+            ],
+            [
+              "Next owner",
+              "Buyer decision owner and provider delivery owner; review when the artifacts are available."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Fictional record A2 — one constraint changes",
+          "rows": [
+            [
+              "Changed fact",
+              "A capable internal manager and execution time are now available."
+            ],
+            [
+              "Arrangement",
+              "Research support with internal outreach is now eligible; a full managed programme is optional."
+            ],
+            [
+              "Evidence",
+              "The buyer has identified the manager and work owner; research sources and permission still need verification."
+            ],
+            [
+              "Client retains",
+              "Execution, replies, supervision and sales calls."
+            ],
+            [
+              "Decision",
+              "Accept this arrangement for diligence; this is not supplier selection or launch approval."
+            ],
+            [
+              "Next owner",
+              "Internal manager verifies the research scope, allowed access and workload before purchase."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Buyer B can instead shortlist a coverage arrangement, and Buyer C should defer execution. The next useful action follows the missing work and evidence, not the largest channel list or most persuasive promise."
+        }
+      ]
+    },
+    {
+      "id": "m-service",
+      "label": "Beespoke scope",
+      "title": "Where Beespoke fits",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Beespoke runs founder-led managed outbound for cold email and/or cold LinkedIn. We handle targeting research, list preparation, individual messaging, authorised campaign execution, replies, qualification against agreed criteria and calendar handoff. The client supplies judgment on the target list and retains discovery, proposals and closing."
+        },
+        {
+          "type": "p",
+          "text": "The approved regional rates and three-month minimum appear below. There is no per-meeting fee. Software, data and other third-party costs are separate unless the written scope includes them. Cold calling is quoted separately by target market; native callers would be hired for that work. Service delivery is supported in English, Spanish, Catalan and French through the founder."
+        },
+        {
+          "type": "p",
+          "text": "This is not automatically dedicated full-time SDR staffing, sales leadership or unlimited multichannel capacity. No fixed meeting volume or revenue is guaranteed. If your requirement is an assigned calling team or a specific coverage window, compare the actual proposed scope before buying."
+        },
+        {
+          "type": "serviceLinks"
+        },
+        {
+          "type": "terms"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    [
+      "What is the difference between an outsourced SDR and a lead generation agency?",
+      "The labels overlap. An agency can provide SDRs, and an outsourced SDR service can include management, research and execution. Compare the allocated capacity, supervision, channels, systems, deliverables and client responsibilities in the written scope."
+    ],
+    [
+      "Does outsourced SDR mean a dedicated representative?",
+      "No. Allocation may be dedicated, shared or defined around a particular programme. Verify the actual time or coverage, supervisor, included work and absence arrangements; the label does not establish availability."
+    ],
+    [
+      "When is a managed campaign a better fit?",
+      "It may fit when the offer and buyer are clear, the client can judge the list and take sales calls, but execution and supervision are missing. Verify the provider’s scope and capacity. If the offer or follow-up owner is unresolved, defer full execution."
+    ],
+    [
+      "Who handles discovery and closing?",
+      "Under Beespoke’s approved scope, the client runs discovery, proposals and closing. Beespoke manages the agreed prospecting work and calendar handoff. A booked call is separate from a held call, qualification, client-accepted opportunity or sale."
+    ],
+    [
+      "Are calling and dedicated SDR staffing included in Beespoke’s base plan?",
+      "The base outbound plan covers cold email and/or cold LinkedIn. Calling is quoted separately according to the target market, with native callers hired for that work. Dedicated full-time SDR staffing is not automatically included."
+    ],
+    [
+      "How long should the evaluation take?",
+      "Use review points tied to preparation, launch, responses and a sufficiently mature sales cohort within the actual contract. Do not assume a universal ramp or time to meetings. Beespoke’s approved outbound minimum is three months."
+    ],
+    [
+      "How should costs and results be compared?",
+      "Use the same scope, exact cost period, cohort and observation cutoff. Separate original bookings, held/qualified meetings and accepted opportunities. Missing costs remain unknown; cost per qualified meeting is undefined when there are no qualifying held meetings."
+    ]
+  ]
+}

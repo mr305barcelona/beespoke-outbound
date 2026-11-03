@@ -11,5 +11,5 @@ const contentRoutes=new Set(require('../data/query-improvements-20261026.json').
 for(const locale of ['','/es','/ca','/fr'])for(const route of ['/services/cold-email-lead-generation/','/guides/cold-email-agency/','/guides/cold-email-agency-pricing/'])contentRoutes.add(locale+route);
 const buyerRoutes=new Set(require('../data/buyer-clarity-20261027').routes);
 const outboundOwnerRoutes=new Set(Object.keys(require('../data/outbound-owner-improvements-20261029.json')).flatMap(route=>['','/es','/ca','/fr'].map(pre=>pre+route)));outboundOwnerRoutes.add('/guides/cold-email-agency/');
-const dateFor=(route,fallback)=>outboundOwnerRoutes.has(route)?'2026-10-29':buyerRoutes.has(route)?'2026-10-27':contentRoutes.has(route)?'2026-10-26':routes.includes(route)?'2026-10-20':fallback;
+const dateFor=(route,fallback)=>/^(?:\/(?:es|ca|fr))?\/guides\/outsourced-sdr-vs-lead-generation-agency\/$/.test(route)?'2026-11-03':outboundOwnerRoutes.has(route)?'2026-10-29':buyerRoutes.has(route)?'2026-10-27':contentRoutes.has(route)?'2026-10-26':routes.includes(route)?'2026-10-20':fallback;
 module.exports={revise,dateFor};

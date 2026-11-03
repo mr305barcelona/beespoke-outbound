@@ -1,0 +1,885 @@
+{
+  "description": "Compara capacidad SDR externalizada y captación gestionada por responsabilidades, supervisión, alcance y traspaso. Tres decisiones ficticias completas.",
+  "answer": "Un servicio SDR externalizado y una agencia de generación de leads pueden ser el mismo proveedor. Evalúa capacidad asignada cuando te falta una persona o un equipo con dedicación y gestión verificables. Evalúa ejecución gestionada cuando necesitas que alguien dirija un programa acordado. Compara quién investiga, decide, supervisa, responde y entrega el contexto a ventas; la etiqueta no aclara esas responsabilidades.",
+  "kicker": "Elegir el trabajo que vas a externalizar",
+  "resources": "Recursos",
+  "contents": "Contenido",
+  "author": "Por",
+  "updated": "Actualizado el 3 de noviembre de 2026",
+  "read": "Leer los casos de compra",
+  "fiction": "Todos los compradores, alcances, cuentas, mensajes y resultados siguientes son ficticios y didácticos. No son resultados de clientes, evaluaciones de proveedores ni previsiones.",
+  "scroll": "Desplázate horizontalmente para leer todas las columnas.",
+  "sourcesTitle": "Fuentes y método",
+  "relatedTitle": "Continúa con la pregunta adecuada",
+  "sourcesIntro": "Las páginas públicas revisadas el 3 de noviembre de 2026 informan las preguntas y las diferencias entre modelos. Los casos, la muestra y los registros son originales y ficticios. No usamos los resultados, precios o plazos de lanzamiento de los proveedores como referencias de rendimiento. Una fuente explica su oferta, no lo que incluyen todos los proveedores.",
+  "sourcesNotes": [
+    "SDR dentro de un programa gestionado, sin tratarlos como categoría excluyente.",
+    "Una agencia puede aportar profesionales SDR y gestión.",
+    "Alcance, trabajo del cliente, preparación y costes comparables.",
+    "Capacidad interna, externa e híbrida; sin adoptar un reparto universal.",
+    "Preguntas sobre visibilidad, investigación y aprobación desde la perspectiva de una herramienta.",
+    "La dedicación, infraestructura y gestión dependen de la propuesta."
+  ],
+  "relatedLabels": [
+    "Elegir una agencia outbound con pruebas",
+    "Revisar los costes de un SDR externalizado",
+    "Comparar SDR externo e interno",
+    "Gestionar un equipo SDR externalizado",
+    "Preparar un plan de prospección"
+  ],
+  "serviceLinks": [
+    "Explorar outbound gestionado",
+    "Revisar el alcance actual del servicio",
+    "Comentar el trabajo que necesitas"
+  ],
+  "sections": [
+    {
+      "id": "m-models",
+      "label": "Modelos de trabajo",
+      "title": "Compara el trabajo, no la etiqueta",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Una agencia puede emplear SDR dedicados, compartir especialistas entre campañas o aportar solo investigación. Un SDR externalizado puede depender del responsable del proveedor, del cliente o de un acuerdo compartido. «Dedicado» exige una asignación escrita; «gestionado» exige un responsable de ejecución. Ninguna palabra demuestra cobertura o resultados."
+        },
+        {
+          "type": "table",
+          "caption": "Cinco acuerdos y qué debes verificar",
+          "heads": [
+            "Acuerdo",
+            "Qué contratas",
+            "Trabajo que conserva el comprador",
+            "Pruebas antes de elegir"
+          ],
+          "rows": [
+            [
+              "Apoyo de investigación",
+              "Investigación de cuentas/contactos y un entregable acordado.",
+              "Prospección, respuestas, supervisión y cierre.",
+              "Motivos de inclusión/exclusión, fuentes permitidas y quién utilizará la investigación."
+            ],
+            [
+              "Campaña gestionada",
+              "Segmentación, mensajes, ejecución, respuestas y traspaso bajo un responsable.",
+              "Juzgar la lista y los límites de las afirmaciones; aportar conocimiento del producto, dirigir el diagnóstico comercial y cerrar.",
+              "Canales, capacidad asignada, responsable, visibilidad y reglas de traspaso."
+            ],
+            [
+              "Capacidad SDR asignada",
+              "Una persona o equipo con dedicación acordada; el apoyo varía.",
+              "Conocimiento del producto y toda supervisión, sistema o tarea no incluida.",
+              "Horas/cobertura, dedicación exclusiva o compartida, gestión, formación y continuidad."
+            ],
+            [
+              "SDR interno",
+              "Personal y una función interna de desarrollo comercial.",
+              "Seleccionar, formar, financiar herramientas/datos, supervisar y cubrir ausencias.",
+              "Trabajo sostenido, gestión competente, presupuesto y permisos."
+            ],
+            [
+              "Dirección comercial a tiempo parcial",
+              "Diseño, acompañamiento o dirección según el acuerdo.",
+              "Personas que ejecuten y un responsable del cierre.",
+              "Autoridad de decisión, alcance del acompañamiento, responsable de ejecución y tiempo asignado."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Mantén la ejecución interna y la dirección comercial en la comparación. Un proveedor de campañas no las sustituye automáticamente. La guía de selección de agencias cubre las entrevistas detalladas; esta página ayuda a decidir qué acuerdo merece la pena evaluar."
+        }
+      ]
+    },
+    {
+      "id": "m-cases",
+      "label": "Casos de compra",
+      "title": "Tres decisiones completas, incluida «todavía no contratar»",
+      "blocks": [
+        {
+          "type": "case",
+          "title": "Comprador A: puede atender las llamadas, pero no dirigir la prospección",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Una asesoría ficticia B2B de planificación de inventario ha vendido un servicio definido mediante presentaciones personales. Busca responsables de operaciones de distribuidores estadounidenses. Excluye clientes actuales, personas que ya rechazaron el contacto y empresas fuera del mercado al que puede prestar servicio. El fundador puede juzgar la lista, aprobar los límites de las afirmaciones y dirigir el diagnóstico comercial, pero no supervisar cada día la investigación, la ejecución y las respuestas."
+            },
+            {
+              "type": "p",
+              "text": "Un programa gestionado de email/LinkedIn es una opción razonable porque faltan ejecución y supervisión. Un servicio de investigación deja ese trabajo sin dueño; una propuesta de personal también, salvo que incluya la gestión. La elección es condicional: faltan pruebas de capacidad, permisos de remitente y calidad del traspaso."
+            },
+            {
+              "type": "p",
+              "text": "Decisión: dejar la propuesta gestionada pendiente de esas pruebas, no de una promesa de reuniones. El comprador conserva el juicio sobre la lista, el diagnóstico comercial y el cierre. Esta decisión didáctica no autoriza ninguna campaña."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Comprador B: cobertura concreta dentro de una operación comercial existente",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Un proveedor técnico ficticio tiene un grupo de compradores validado, formación de producto, responsable comercial interno y CRM. Necesita una persona asignada durante cuatro mañanas concretas entre semana, en la zona horaria de su calendario, que participe en el seguimiento del equipo. La necesidad es cobertura e integración, no simplemente otra campaña de un canal."
+            },
+            {
+              "type": "p",
+              "text": "Merece la pena evaluar capacidad SDR asignada si la dedicación, supervisión, formación y cobertura de ausencias propuestas satisfacen el brief. Una agencia gestionada también podría ofrecerla; su etiqueta no la descarta. Una campaña que solo promete un entregable mensual no demuestra la disponibilidad necesaria."
+            },
+            {
+              "type": "p",
+              "text": "Decisión: evaluar ese acuerdo de capacidad, pendiente de asignación escrita y acceso permitido. Comprueba por separado el canal y el idioma. No des por incluidos profesionales nativos para llamadas ni una sustitución inmediata."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Comprador C: faltan una oferta clara y un responsable de las llamadas",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Un fundador ficticio pide más reuniones, pero no puede definir al comprador, respaldar la oferta ni decir quién responderá y dirigirá el diagnóstico comercial. Todavía no hay pruebas de una venta repetible. Tanto un representante asignado como una campaña gestionada heredarían esas decisiones pendientes."
+            },
+            {
+              "type": "p",
+              "text": "Decisión: aplazar la ejecución completa. Aclara la oferta, el comprador y el seguimiento mediante conversaciones del fundador o una tarea de diagnóstico definida por separado. La investigación externa puede apoyar el aprendizaje; es una compra diferente de un programa de reuniones previsible. No se inventa fecha de lanzamiento ni resultado."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Cambia una condición del comprador A: si dispone de un responsable interno competente y tiempo de ejecución, el apoyo de investigación con ejecución interna pasa a ser una alternativa creíble. No han cambiado ni la oferta ni el comprador, sino la capacidad que faltaba. Por eso ningún modelo debe ganar por defecto."
+        }
+      ]
+    },
+    {
+      "id": "m-scopes",
+      "label": "Leer el alcance",
+      "title": "Compara tres propuestas ficticias con el mismo brief",
+      "blocks": [
+        {
+          "type": "case",
+          "title": "Alcance R: solo investigación",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "«Entregamos una lista investigada de cuentas con motivos de inclusión y campos de fuentes aprobados. Tu equipo ejecuta la prospección y gestiona las respuestas.»"
+            },
+            {
+              "type": "p",
+              "text": "El entregable está claro, pero el comprador A no tiene responsable de ejecución. Descarta este acuerdo para su brief actual, sin concluir que investigar sea un mal servicio. Podría encajar si cambia la capacidad interna."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Alcance M: email/LinkedIn gestionados",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "«Un responsable dirige investigación, mensajes aprobados, prospección autorizada, respuestas y traspaso al calendario. Tú juzgas la lista y los límites de las afirmaciones y diriges las conversaciones comerciales.»"
+            },
+            {
+              "type": "p",
+              "text": "Cubre el trabajo que falta. Déjalo pendiente hasta especificar capacidad, permisos, canales, visibilidad y pruebas para el responsable comercial. «Gestionado» no responde por sí solo a esas preguntas."
+            }
+          ]
+        },
+        {
+          "type": "case",
+          "title": "Alcance S: representante asignado, supervisión sin aclarar",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "«Un SDR asignado trabaja en tu CRM. Tú aportas formación de producto. La gestión es compartida.»"
+            },
+            {
+              "type": "p",
+              "text": "«Asignado» no demuestra horas exclusivas. «Gestión compartida» no identifica quién forma, resuelve una respuesta excepcional o cubre una ausencia. Pide un mapa de asignación y responsabilidades antes de valorar la propuesta."
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Preguntas que cambian la compra",
+          "heads": [
+            "Necesidad",
+            "Prueba concreta que pedir",
+            "Decisión mientras falte"
+          ],
+          "rows": [
+            [
+              "Supervisión diaria",
+              "Responsable de calidad de lista, mensajes, respuestas y excepciones.",
+              "Dejar pendiente el trabajo sin responsable."
+            ],
+            [
+              "Cobertura",
+              "Asignación escrita, zona horaria y procedimiento ante ausencias.",
+              "No deducir disponibilidad de «dedicado»."
+            ],
+            [
+              "Acceso y traspaso",
+              "Permisos concretos y un registro ficticio completo o real autorizado y anonimizado.",
+              "No dar por autorizado el acceso ni el lanzamiento."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Una respuesta convincente no sustituye al documento. Un campo vacío es una pregunta abierta, no una prueba de deshonestidad. Usa el mismo brief para comparar propuestas."
+        }
+      ]
+    },
+    {
+      "id": "m-roles",
+      "label": "Trabajo del cliente",
+      "title": "Escribe el trabajo que conserva el cliente",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Mapa de responsabilidades del comprador A",
+          "heads": [
+            "Tarea",
+            "Solo personal",
+            "Ejecución gestionada",
+            "Decisión o trabajo del cliente"
+          ],
+          "rows": [
+            [
+              "Investigación y segmentación",
+              "El cliente dirige salvo que se incluya investigación.",
+              "El responsable organiza la investigación y la preparación de listas.",
+              "Juzgar si la lista contiene a las personas adecuadas."
+            ],
+            [
+              "Hechos y mensajes",
+              "El cliente aporta o aprueba los hechos permitidos; debe identificarse al redactor.",
+              "El proveedor investiga y redacta dentro de los límites aprobados.",
+              "Aportar contexto veraz y resolver afirmaciones que requieran su criterio."
+            ],
+            [
+              "Permiso de ejecución",
+              "El titular autoriza un alcance concreto.",
+              "El titular autoriza un alcance concreto.",
+              "Autorizar la ejecución en su nombre; el acceso no se presupone."
+            ],
+            [
+              "Supervisión diaria",
+              "Responsable del cliente salvo inclusión expresa de otra persona.",
+              "Responsable del proveedor, con escalado al cliente para decisiones.",
+              "Identificar quién resuelve las excepciones."
+            ],
+            [
+              "Respuestas y objeciones",
+              "Representante asignado con un proceso definido.",
+              "El proveedor gestiona respuestas y deriva excepciones.",
+              "Responder cuestiones comerciales o de producto fuera del límite aprobado."
+            ],
+            [
+              "Calendario y CRM",
+              "Definir el registro y quién lo recibe.",
+              "El proveedor coordina el enlace de calendario y el registro acordados.",
+              "Dar visibilidad permitida o confirmar resultados."
+            ],
+            [
+              "Diagnóstico, propuesta y cierre",
+              "Responsable comercial del cliente.",
+              "Responsable comercial del cliente.",
+              "Asistir, evaluar el encaje, preparar propuestas y cerrar."
+            ],
+            [
+              "Información de resultados",
+              "El cliente confirma aceptación o rechazo.",
+              "El proveedor utiliza esos motivos para mejorar el trabajo.",
+              "Devolver motivos útiles; una reserva no es una oportunidad."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Esta comparación no impone un número universal de horas semanales. Estima el trabajo que realmente queda y comprueba quién tiene tiempo para hacerlo. Un alcance más barato puede no servir si devuelve al comprador precisamente el trabajo que le falta."
+        }
+      ]
+    },
+    {
+      "id": "m-readiness",
+      "label": "Preparación y plazos",
+      "title": "Separa preparación, lanzamiento y resultados comerciales",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Dependencias, no un calendario prometido",
+          "heads": [
+            "Etapa",
+            "Prueba para avanzar",
+            "Qué no demuestra"
+          ],
+          "rows": [
+            [
+              "Listo para evaluar",
+              "Oferta, objetivo, exclusiones, responsable comercial y pruebas disponibles.",
+              "Que la demanda outbound sea previsible."
+            ],
+            [
+              "Listo para preparar",
+              "Responsabilidades, permisos y responsable de infraestructura acordados.",
+              "Que el acceso o el envío ya estén autorizados."
+            ],
+            [
+              "Listo para lanzar",
+              "Lista/mensajes revisados, ejecución autorizada y ruta de respuestas/traspaso.",
+              "Un plazo para conseguir la primera reunión."
+            ],
+            [
+              "Listo para evaluar respuestas",
+              "Respuestas humanas reales con contexto y definiciones coherentes.",
+              "Que todas las respuestas positivas estén cualificadas."
+            ],
+            [
+              "Listo para evaluar avance comercial",
+              "Resultado de llamadas celebradas, cualificación y oportunidades aceptadas.",
+              "Ingresos, rentabilidad o una tendencia repetible con una muestra pequeña."
+            ],
+            [
+              "Listo para revisar o ampliar",
+              "Pruebas, indicios contrarios y un siguiente cambio acotado.",
+              "Que más volumen o canales resuelvan el problema."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Las revisiones se hacen dentro del acuerdo real. No crean una prueba breve o gratuita, un nuevo derecho de cancelación ni una progresión mensual garantizada. El mínimo outbound aprobado de Beespoke es de tres meses; preparación, lanzamiento y resultados útiles son hechos distintos."
+        }
+      ]
+    },
+    {
+      "id": "m-channels",
+      "label": "Canales e idiomas",
+      "title": "Concreta canal, idioma y responsable de respuesta",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Brief ficticio de canales del comprador A",
+          "heads": [
+            "Hecho o necesidad",
+            "Trabajo propuesto",
+            "Permiso o incógnita"
+          ],
+          "rows": [
+            [
+              "Un contacto tiene actividad pública pertinente en LinkedIn.",
+              "Valorar primero un acercamiento individual por LinkedIn.",
+              "La actividad sugiere relevancia del canal, no un problema de compra ni consentimiento."
+            ],
+            [
+              "Otro contacto elegible no tiene actividad útil en LinkedIn, pero existe una vía de email aprobada.",
+              "Valorar un email individual y un seguimiento breve adecuado.",
+              "Verificar fuente, uso permitido, exclusiones y responsable de respuesta."
+            ],
+            [
+              "El comprador pide llamadas en un mercado e idioma concretos.",
+              "Evaluar alcance y cobertura de profesionales nativos por separado.",
+              "No presuponer profesional, precio, ventana de respuesta ni fecha de inicio."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Email y LinkedIn necesitan un responsable de coordinación. Puede ser adecuado un seguimiento breve al cabo de unos días si el contexto lo justifica; no se exige una secuencia automatizada larga. Un rechazo obliga a parar, no a cambiar de persona o canal."
+        },
+        {
+          "type": "p",
+          "text": "El alcance outbound base de Beespoke cubre cold email y/o prospección en frío por LinkedIn. Las llamadas se presupuestan aparte según el mercado; para ese trabajo se contratarían profesionales nativos del idioma. El fundador permite prestar servicios en inglés, español, catalán y francés. No se promete un equipo existente de llamadas nativas ni atención permanente."
+        }
+      ]
+    },
+    {
+      "id": "m-sample",
+      "label": "Muestra de calidad",
+      "title": "Comprueba una razón individual para escribir",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A01 es una cuenta distribuidora ficticia que encaja en el brief A. En este ejemplo, su responsable de operaciones pregunta públicamente cómo coordinar el seguimiento tras un evento regional sin abordar dos veces la misma cuenta. El cargo, el mercado y la pregunta justifican una conversación pertinente; necesidad, autoridad, presupuesto y momento siguen siendo desconocidos."
+        },
+        {
+          "type": "message",
+          "label": "Apertura ficticia, sin atribuirle resultados",
+          "text": "Tu pregunta sobre los seguimientos repetidos después del evento de distribuidores me hizo pensar en cómo repartís las respuestas hoy. Ayudamos a los equipos a aclarar el traspaso entre investigación y ventas. Si estáis trabajando en ello, ¿te sería útil un esquema breve?"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Contexto conocido: un cargo pertinente y una pregunta pública explícita en el supuesto ficticio.",
+            "Pregunta razonable: si ahora están trabajando en el reparto de respuestas.",
+            "Afirmación sin respaldo: que la empresa pierde ingresos o necesita urgentemente una agencia.",
+            "Criterio humano: referirse al punto concreto, sin elogios vacíos ni una apertura mecánica con «he visto». "
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Una ubicación, evento, interés compartido o publicación puede aportar una razón auténtica para escribir sin demostrar un problema comercial. Evalúa el criterio de investigación, no la cantidad de campos personalizados. Las guías de redacción y prospección por cuentas desarrollan los ejemplos completos."
+        }
+      ]
+    },
+    {
+      "id": "m-handoff",
+      "label": "Traspaso comercial",
+      "title": "Inspecciona el traspaso y la excepción",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Una respuesta interesada todavía no es una reunión cualificada. En el registro ficticio M01, el contacto acepta hablar, pero al principio se desconoce su autoridad de compra. La reserva se crea el día 3; el responsable comercial recibe la pregunta, el encaje conocido, las cuestiones abiertas, el calendario/zona horaria y la referencia original. La llamada se celebra el día 12; entonces el cliente confirma el encaje acordado y acepta una oportunidad."
+        },
+        {
+          "type": "table",
+          "caption": "Dos registros ficticios, dos resultados",
+          "heads": [
+            "Registro",
+            "Resultado comprobable",
+            "Siguiente responsable y acción"
+          ],
+          "rows": [
+            [
+              "M01",
+              "Celebrada el día 12; encaje confirmado; el cliente acepta una oportunidad.",
+              "El cliente dirige diagnóstico y cierre; el proveedor recibe la confirmación."
+            ],
+            [
+              "M02",
+              "Reserva original reprogramada; celebrada el día 18. La responsabilidad no encaja en el rol acordado.",
+              "El cliente devuelve el motivo; el proveedor revisa la segmentación. No se cuenta una oportunidad aceptada ni otra captación."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "El registro debe conservar lo que realmente dijo el contacto, lo desconocido y los compromisos asumidos. Una petición amable de información, un cargo, un clic de calendario o un cambio de fecha no sustituyen a las pruebas de cualificación y aceptación. No se debe sortear un rechazo real."
+        },
+        {
+          "type": "p",
+          "text": "El calendario puede ser del cliente en Calendly, Google Calendar u otro sistema acordado. Para medir hacen falta permisos de visibilidad en el CRM o confirmación fiable del cliente; el calendario por sí solo no demuestra que la llamada se celebró o fue útil."
+        }
+      ]
+    },
+    {
+      "id": "m-outcomes",
+      "label": "Comparar resultados",
+      "title": "Lee una comparación pequeña sin declarar un ganador",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Son dos cohortes ficticias distintas, no un experimento controlado. Cada una contiene 50 contactos únicos elegibles abordados por primera vez entre los días 1–7. Las reservas originales se crean en los días 1–14; los resultados se observan hasta el día 28. El periodo de costes también es días 1–28. Ofertas, ejecución y condiciones pueden diferir; estas cifras no permiten atribuir al modelo un resultado mejor."
+        },
+        {
+          "type": "table",
+          "caption": "Mismas definiciones y resultados todavía abiertos",
+          "heads": [
+            "Medida",
+            "Cohorte gestionada M",
+            "Cohorte con personal S"
+          ],
+          "rows": [
+            [
+              "Contactos únicos elegibles",
+              "50",
+              "50"
+            ],
+            [
+              "Reservas originales",
+              "4",
+              "4"
+            ],
+            [
+              "Llamadas celebradas hasta el día 28",
+              "2",
+              "3"
+            ],
+            [
+              "Celebradas que cumplen la cualificación acordada",
+              "1",
+              "2"
+            ],
+            [
+              "Oportunidades aceptadas por el cliente",
+              "1",
+              "1"
+            ],
+            [
+              "Llamada futura pendiente",
+              "1",
+              "1"
+            ],
+            [
+              "Canceladas antes de celebrarse",
+              "1",
+              "0"
+            ],
+            [
+              "Celebradas devueltas por rol incorrecto",
+              "1",
+              "1"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "M01 se celebra, se cualifica y se acepta; M02 se celebra y se devuelve; M03 se cancela; M04 queda programada para el día 35. S01 se celebra, se cualifica y se acepta; S02 se celebra y se cualifica, con la decisión de oportunidad pendiente; S03 se celebra y se devuelve; S04 queda para el día 35. El cambio de fecha de M02 conserva la misma reserva original."
+        },
+        {
+          "type": "p",
+          "text": "Las proporciones celebradas son 2/4 = 50% y 3/4 = 75%, pero ambas cohortes tienen una oportunidad aceptada. Ninguna proporción demuestra rentabilidad o ventaja del proveedor. Los costes completos son desconocidos. Con costes comparables conocidos C_M y C_S, el coste por reunión cualificada celebrada sería C_M/1 y C_S/2; es indefinido si el denominador es cero. Los costes desconocidos no son cero ni las llamadas futuras son ausencias."
+        }
+      ]
+    },
+    {
+      "id": "m-costs",
+      "label": "Costes completos",
+      "title": "Compara alcances y periodos compatibles",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Lista de normalización sin precios inventados",
+          "heads": [
+            "Coste u obligación",
+            "Qué registrar",
+            "Qué puede conservar el comprador"
+          ],
+          "rows": [
+            [
+              "Cuota y periodo",
+              "Moneda, fechas exactas y unidad contratada.",
+              "Periodos o trabajos no incluidos."
+            ],
+            [
+              "Mínimo y preaviso",
+              "Mínimo, preaviso, renovación y cancelación reales.",
+              "Compromisos fuera del periodo de ejecución."
+            ],
+            [
+              "Preparación y formación",
+              "Trabajo incluido, conocimiento del producto y aprobaciones.",
+              "Hechos del producto, permisos y tiempo del cliente."
+            ],
+            [
+              "Datos y software",
+              "Licencias, límites, fuentes permitidas y costes adicionales.",
+              "Herramientas/datos omitidos de una cuota baja."
+            ],
+            [
+              "Supervisión y calidad",
+              "Responsable, acompañamiento, revisión y escalado.",
+              "Gestión no incluida con el personal."
+            ],
+            [
+              "Continuidad",
+              "Cobertura de ausencias, sustitución y traspaso si se acuerdan.",
+              "Cobertura interna o interrupciones."
+            ],
+            [
+              "Resultados",
+              "Definiciones de reunión celebrada/cualificada y oportunidad al mismo corte.",
+              "Diagnóstico, propuestas y cierre."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Una cuota por mes natural y otra por cuatro semanas no cubren el mismo periodo. Del 1 al 30 de noviembre hay 30 días naturales; cuatro semanas son 28. No compares solo la cuota nominal ni prorratees el periodo que falta sin las condiciones escritas. Es una ilustración temporal, no un presupuesto de agencia."
+        },
+        {
+          "type": "p",
+          "text": "Incluye salario o cuota, costes laborales, herramientas, datos, tiempo de gestión y adaptación, riesgo de sustitución, puesta en marcha y cargos variables. Compara después el coste por reunión celebrada con el perfil acordado y por oportunidad aceptada, no los mensajes enviados. Un modelo barato sale caro si tienes que rehacer el trabajo o las conversaciones no pueden avanzar."
+        },
+        {
+          "type": "p",
+          "text": "La guía de costes y la calculadora de software frente a agencia desarrollan el cálculo. Esta comparación no introduce referencias salariales, tarifas de proveedores, ahorros supuestos ni conversiones de moneda."
+        }
+      ]
+    },
+    {
+      "id": "m-hybrid",
+      "label": "Coordinación híbrida",
+      "title": "Un modelo híbrido necesita una regla de propiedad de cuentas",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "En este supuesto, el equipo interno conserva las cuentas estratégicas y un responsable externo evalúa un segmento separado. El reparto depende del trabajo; no se presupone una regla de personal 70/30."
+        },
+        {
+          "type": "table",
+          "caption": "Una colisión y cómo resolverla",
+          "heads": [
+            "Situación",
+            "Responsable",
+            "Acción antes de seguir"
+          ],
+          "rows": [
+            [
+              "A01 ya pertenece al equipo interno.",
+              "Responsable común del programa.",
+              "Excluir A01 del segmento externo y conservar al dueño de la conversación."
+            ],
+            [
+              "A02 rechazó previamente el contacto.",
+              "Responsable de bajas/exclusiones.",
+              "Transmitir la instrucción de parar mediante el registro permitido; no probar otro canal o colega."
+            ],
+            [
+              "A03 pertenece al segmento externo y responde.",
+              "Responsable externo de respuesta; ventas del cliente recibe un traspaso útil.",
+              "Registrar respuesta y siguiente responsable una sola vez, con visibilidad permitida."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Si ambos equipos declaran la misma reunión, concilia la referencia original y el registro de procedencia antes de atribuirla. Un modelo híbrido añade supervisión, permisos y riesgo de colisión; no combina automáticamente lo mejor de ambos."
+        }
+      ]
+    },
+    {
+      "id": "m-continuity",
+      "label": "Continuidad",
+      "title": "Resuelve una ausencia antes de contratar cobertura",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "La persona asignada ficticia del comprador B deja de estar disponible. Un nombre de sustitución no restaura por sí solo la cobertura acordada. El responsable debe identificar qué se pausa, quién puede responder y qué información y permiso necesita el sustituto."
+        },
+        {
+          "type": "table",
+          "caption": "Preguntas de continuidad con consecuencias prácticas",
+          "heads": [
+            "Pregunta",
+            "Prueba o responsable",
+            "Decisión si falta"
+          ],
+          "rows": [
+            [
+              "¿Quién supervisa?",
+              "Responsable identificado y ruta de escalado.",
+              "Parar la ejecución sin gestión."
+            ],
+            [
+              "¿A qué puede acceder un sustituto?",
+              "El titular confirma permisos concretos.",
+              "No heredar acceso por defecto."
+            ],
+            [
+              "¿Qué conocimiento se traspasa?",
+              "Hechos aprobados, exclusiones, contexto y reglas de traspaso.",
+              "Pausar afirmaciones desconocidas o contexto incompleto."
+            ],
+            [
+              "¿Qué cobertura se contrató?",
+              "Asignación y condiciones escritas de ausencia/sustitución.",
+              "Explicar el vacío; no inventar sustitución inmediata."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Las preguntas sirven para personal interno, una agencia gestionada y capacidad asignada. El ejemplo no concede derecho a contratar al SDR, un nivel de servicio nuevo ni ausencia de riesgos."
+        }
+      ]
+    },
+    {
+      "id": "m-access",
+      "label": "Acceso y datos",
+      "title": "Registra el permiso mínimo necesario",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Solicitud ficticia de acceso AT01",
+          "heads": [
+            "Campo",
+            "Entrada propuesta",
+            "Comprobación pendiente"
+          ],
+          "rows": [
+            [
+              "Finalidad y alcance",
+              "El rol de ejecución solo leerá registros permitidos de campaña/resultados necesarios para el traspaso.",
+              "El titular todavía no ha concedido acceso."
+            ],
+            [
+              "Datos y exclusiones",
+              "Campos aprobados, procedencia y responsable de bajas definidos.",
+              "Uso permitido, conservación y gestión de incidentes dependen del acuerdo real."
+            ],
+            [
+              "Cambios y escalado",
+              "El titular decide los accesos; el responsable de ejecución escala incidentes.",
+              "El ejemplo no autoriza exportar, borrar ni cambiar campañas."
+            ],
+            [
+              "Fin del trabajo",
+              "Especificar exportaciones permitidas, derechos y receptor; confirmar recepción.",
+              "Titularidad, derechos de exportación y conservación son cuestiones distintas."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Comprueba los sistemas concretos en lugar de pedir acceso general. Un permiso sin resolver bloquea la ejecución correspondiente. Es una lista operativa, no una base jurídica, política de privacidad ni instrucción para cambiar DNS, campañas o cuentas reales."
+        }
+      ]
+    },
+    {
+      "id": "m-proof",
+      "label": "Pruebas y privacidad",
+      "title": "Pide pruebas sin exponer al cliente ni al contacto",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pide una muestra autorizada y anonimizada que explique periodo, trabajo contratado, cohorte original, definiciones de cualificación, trabajo del cliente y límites relevantes. Elimina identidades y contexto que permita reconocerlas, no solo nombres. Si no hay permiso, utiliza una demostración ficticia original y aclara que no prueba resultados."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Método: cómo pasa un registro de cuenta elegible a prospección, respuesta y traspaso comercial.",
+            "Medición: separar reserva original, corte de observación y decisiones de celebración/cualificación/oportunidad.",
+            "Límites: qué falta, está pendiente o no puede atribuirse.",
+            "Permiso: qué puede mostrarse, a quién y de qué forma."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Un logotipo, puntuación de reseñas o total de reuniones no determina qué recibirá este comprador. No conviertas los resultados ajenos en pruebas de Beespoke ni contactes con referencias como parte de leer la guía. La guía de selección desarrolla la revisión de pruebas."
+        }
+      ]
+    },
+    {
+      "id": "m-record",
+      "label": "Brief completo",
+      "title": "Termina con una decisión que puedas explicar",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Puedes leer estos registros completos sin formulario ni cuenta. Selecciona el texto para reutilizar la estructura y sustituye los requisitos e incógnitas ficticios por información verificada. Expresan un criterio; no puntúan agencias ni autorizan prospección."
+        },
+        {
+          "type": "record",
+          "title": "Registro de decisión ficticio A",
+          "rows": [
+            [
+              "Necesidad",
+              "Oferta probada y responsable de llamadas preparado; faltan ejecución y supervisión diarias."
+            ],
+            [
+              "Acuerdo",
+              "Alcance M de email/LinkedIn gestionados, sujeto a asignación y permiso escritos."
+            ],
+            [
+              "Pruebas",
+              "El alcance cubre investigación, mensajes, respuestas y traspaso; capacidad y acceso sin confirmar."
+            ],
+            [
+              "El cliente conserva",
+              "Juicio sobre lista y hechos, diagnóstico comercial y cierre."
+            ],
+            [
+              "Decisión",
+              "Pendiente de pruebas de capacidad y acceso."
+            ],
+            [
+              "Siguiente responsable",
+              "Comprador y responsable de ejecución; revisar cuando estén los documentos."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Registro ficticio A2: cambia una condición",
+          "rows": [
+            [
+              "Hecho nuevo",
+              "Ya hay responsable interno competente y tiempo de ejecución."
+            ],
+            [
+              "Acuerdo",
+              "Apoyo de investigación con prospección interna elegible; el programa gestionado es opcional."
+            ],
+            [
+              "Pruebas",
+              "Responsables identificados; fuentes y permiso de investigación todavía por verificar."
+            ],
+            [
+              "El cliente conserva",
+              "Ejecución, respuestas, supervisión y llamadas comerciales."
+            ],
+            [
+              "Decisión",
+              "Aceptar el acuerdo para evaluarlo; no es selección de proveedor ni permiso de lanzamiento."
+            ],
+            [
+              "Siguiente responsable",
+              "El responsable interno verifica alcance, acceso y carga de trabajo antes de contratar."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "El comprador B puede evaluar cobertura; el C debe aplazar la ejecución. El siguiente paso depende del trabajo y las pruebas que faltan, no de la lista de canales más extensa o la promesa más persuasiva."
+        }
+      ]
+    },
+    {
+      "id": "m-service",
+      "label": "Alcance de Beespoke",
+      "title": "Dónde encaja Beespoke",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Beespoke dirige outbound gestionado desde el fundador para cold email y/o prospección en frío por LinkedIn. Nos encargamos de segmentación, investigación, preparación de listas, mensajes individuales, ejecución autorizada, respuestas, cualificación según criterios acordados y traspaso al calendario. El cliente aporta su juicio sobre la lista y conserva el diagnóstico comercial, las propuestas y el cierre."
+        },
+        {
+          "type": "p",
+          "text": "Las tarifas regionales aprobadas y el mínimo de tres meses figuran abajo. No hay tarifa por reunión. Software, datos y otros gastos de terceros van aparte salvo inclusión escrita. Las llamadas se presupuestan por separado según el mercado; se contratarían profesionales nativos para ese trabajo. El fundador permite prestar servicios en inglés, español, catalán y francés."
+        },
+        {
+          "type": "p",
+          "text": "No incluye automáticamente personal SDR dedicado a tiempo completo, dirección comercial ni capacidad multicanal ilimitada. No garantiza reuniones o ingresos fijos. Si necesitas un equipo de llamadas asignado o una cobertura concreta, compara el alcance propuesto antes de contratar."
+        },
+        {
+          "type": "serviceLinks"
+        },
+        {
+          "type": "terms"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    [
+      "¿Qué diferencia hay entre un SDR externalizado y una agencia de generación de leads?",
+      "Las etiquetas se solapan. Una agencia puede aportar SDR y un servicio SDR puede incluir gestión, investigación y ejecución. Compara capacidad asignada, supervisión, canales, sistemas, entregables y responsabilidades del cliente en el alcance escrito."
+    ],
+    [
+      "¿Un SDR externalizado es necesariamente exclusivo?",
+      "No. La capacidad puede ser exclusiva, compartida o ligada a un programa. Verifica tiempo o cobertura reales, supervisor, trabajo incluido y condiciones de ausencia; la etiqueta no demuestra disponibilidad."
+    ],
+    [
+      "¿Cuándo encaja mejor una campaña gestionada?",
+      "Puede encajar cuando oferta y comprador están claros, el cliente puede juzgar la lista y atender llamadas, pero faltan ejecución y supervisión. Verifica alcance y capacidad. Si faltan oferta o responsable de seguimiento, aplaza la ejecución completa."
+    ],
+    [
+      "¿Quién dirige el diagnóstico comercial y cierra?",
+      "En el alcance aprobado de Beespoke, el cliente dirige diagnóstico, propuestas y cierre. Beespoke gestiona la prospección acordada y el traspaso al calendario. Reservar, celebrar, cualificar, aceptar una oportunidad y vender son hechos distintos."
+    ],
+    [
+      "¿El plan base incluye llamadas y personal SDR dedicado?",
+      "El plan outbound cubre cold email y/o prospección en frío por LinkedIn. Las llamadas se presupuestan aparte según el mercado, con profesionales nativos contratados para ese trabajo. No incluye automáticamente personal SDR dedicado a tiempo completo."
+    ],
+    [
+      "¿Cuánto debe durar la evaluación?",
+      "Utiliza revisiones ligadas a preparación, lanzamiento, respuestas y una cohorte comercial suficientemente madura dentro del contrato real. No presupongas un plazo universal para conseguir reuniones. El mínimo outbound aprobado de Beespoke es de tres meses."
+    ],
+    [
+      "¿Cómo comparar costes y resultados?",
+      "Usa el mismo alcance, periodo exacto de costes, cohorte y corte de observación. Separa reservas originales, reuniones cualificadas celebradas y oportunidades aceptadas. Los costes que faltan son desconocidos; el coste unitario es indefinido si no hay reuniones cualificadas celebradas."
+    ]
+  ]
+}
