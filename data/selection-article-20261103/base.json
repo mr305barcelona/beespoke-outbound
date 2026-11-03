@@ -1,0 +1,694 @@
+{
+  "en": {
+    "decision": {
+      "heading": "Outbound agency finalist scorecard",
+      "heads": [
+        "Area",
+        "Ask for",
+        "Reject when"
+      ],
+      "rows": [
+        [
+          "Team",
+          "Roles, seniority, capacity and management",
+          "Only senior salespeople are visible"
+        ],
+        [
+          "Research",
+          "Dated account sample with exclusions",
+          "Database filters are presented as intent"
+        ],
+        [
+          "Messages",
+          "Claim sources and approval workflow",
+          "Provider invents urgency or proof"
+        ],
+        [
+          "Qualification",
+          "Written held-meeting and acceptance rule",
+          "Every booking is billable"
+        ],
+        [
+          "Risk",
+          "Access, data, opt-out and escalation controls",
+          "Zero-risk promise or hidden automation"
+        ],
+        [
+          "Ownership",
+          "Exports, access removal and handover",
+          "Data and learning remain locked in"
+        ]
+      ],
+      "items": [
+        "Use one brief for every finalist.",
+        "Interview the delivery lead.",
+        "Verify references for the same model.",
+        "Contract a bounded test with a stopping rule."
+      ]
+    },
+    "h1": "How to choose an outbound lead generation agency without buying a promise",
+    "answer": "Choose an outbound lead generation agency by first defining the market, channel, responsibilities and qualified outcome you need. Then inspect the actual delivery team, a live or redacted work sample, research quality, messaging controls, reply handling, reporting, platform and data safeguards, pricing denominator, ownership and exit terms. Shortlist agencies whose operating model matches the constraint; do not rank them primarily by meeting promises, logos or activity volume.",
+    "sections": [
+      {
+        "id": "confirm-the-company-is-ready-to-outsource",
+        "heading": "Confirm the company is ready to outsource",
+        "body": [
+          "An agency can test targeting and messages, but it cannot manufacture a credible offer, proof, accessible market or competent sales response. Clarify the service, buyer, commercial threshold, sales owner and evidence before asking a provider to scale.",
+          "If the motion is uncertain, buy a bounded learning test rather than a long volume commitment. The test should define the assumptions, sample size, review cadence and stopping rule."
+        ],
+        "items": [],
+        "tables": [
+          {
+            "caption": "Readiness checks before provider selection",
+            "heads": [
+              "Area",
+              "Minimum condition",
+              "Resolve first when missing"
+            ],
+            "rows": [
+              [
+                "Offer",
+                "Specific problem and service boundary",
+                "Positioning and packaging"
+              ],
+              [
+                "Market",
+                "Identifiable organizations and buying roles",
+                "ICP research"
+              ],
+              [
+                "Proof",
+                "Claims the buyer can defend",
+                "Case, method or evidence development"
+              ],
+              [
+                "Economics",
+                "Deal value supports deliberate acquisition",
+                "Channel and commercial model"
+              ],
+              [
+                "Sales",
+                "Named owner can respond and lead discovery",
+                "Capacity and handoff process"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shortlist-by-operating-model",
+        "heading": "Shortlist by operating model",
+        "body": [
+          "Decide whether you need software assistance, a freelancer, staff augmentation, a focused managed agency, dedicated SDR capacity or a broad multichannel provider. Each model creates different management, risk and ownership requirements.",
+          "Ask which work is performed by named people, shared specialists, automation and the client. A proposal that calls everything done-for-you without a responsibility map is incomplete."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "audit-a-real-sample-of-the-work",
+        "heading": "Audit a real sample of the work",
+        "body": [
+          "Give each finalist the same hypothetical or consented account and ask for the research rationale, buying roles, message route, exclusions, reply handling and qualification decision. Do not require free campaign execution; the purpose is to evaluate judgment and process.",
+          "Look for dated evidence, restraint, role relevance and clear assumptions. Reject samples that infer confidential pain, invent compliments, misuse personal data or treat a purchased contact as intent."
+        ],
+        "items": [
+          "Account inclusion and exclusion rationale",
+          "Source links and retrieval date",
+          "Buying-group role map",
+          "Message with claim source",
+          "Positive, objection and opt-out reply routes",
+          "Qualified-meeting decision with reason"
+        ],
+        "tables": []
+      },
+      {
+        "id": "normalize-outcomes-and-pricing",
+        "heading": "Normalize outcomes and pricing",
+        "body": [
+          "Define contact, reply, positive reply, booked meeting, held meeting, qualified meeting and accepted opportunity. State how no-shows, reschedules, duplicates, existing pipeline and out-of-ICP attendees are handled.",
+          "Add setup, retainer, tools, data, variable fees and client time. Compare fully loaded cost over the same period and use held, qualified outcomes as the common denominator."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "inspect-governance-safety-and-ownership",
+        "heading": "Inspect governance, safety and ownership",
+        "body": [
+          "Review account access, data sourcing, privacy responsibilities, approved claims, platform rules, opt-outs, incident escalation, CRM visibility and the provider's use of subcontractors. No responsible agency should guarantee zero account, deliverability or compliance risk.",
+          "Confirm the client owns or can export account lists, research, copy, reply history, meeting context, outcome data and learning. Define access removal and handover before the first campaign."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "reference-check-the-delivery-model-then-contract-a-test",
+        "heading": "Reference-check the delivery model, then contract a test",
+        "body": [
+          "Ask references about the same team shape, channel, geography and service scope you are buying. Discuss response quality, visibility, problems, corrective action and handover—not just the number of meetings.",
+          "Use a test long enough to produce meaningful evidence but bounded enough to stop. The contract should name responsibilities, billing events, minimum term, cancellation, ownership, confidentiality, data handling and the review process."
+        ],
+        "items": [],
+        "tables": []
+      }
+    ],
+    "faqs": [
+      [
+        "What should I look for in a lead generation agency?",
+        "Look for operating-model fit, a credible delivery team, reviewable research and messaging, explicit qualification, prompt reply handling, record-level reporting, responsible platform and data controls, transparent economics and transferable assets."
+      ],
+      [
+        "How many agencies should I compare?",
+        "A focused shortlist of three comparable providers is often enough after operating-model screening. More proposals add little when they sell fundamentally different products or use incompatible outcome definitions."
+      ],
+      [
+        "Should an agency guarantee meetings?",
+        "A provider can commit to work, service levels or a carefully defined billing model, but a meeting promise does not remove market, attendance or sales risk. Inspect the qualification and replacement rules closely."
+      ],
+      [
+        "How long should an outbound agency test run?",
+        "The period should allow research, launch, response cycles and iteration for the selected market without creating an unnecessary lock-in. Define the evidence threshold and decision date in advance rather than relying on a universal month count."
+      ]
+    ]
+  },
+  "es": {
+    "decision": {
+      "heading": "Cuadro de mando finalista de agencia outbound",
+      "heads": [
+        "Área",
+        "Pedir",
+        "Rechazar cuando"
+      ],
+      "rows": [
+        [
+          "Equipo",
+          "Roles, antigüedad, capacidad y gestión",
+          "Sólo los vendedores senior son visibles"
+        ],
+        [
+          "Investigación",
+          "Muestra de cuenta fechada con exclusiones",
+          "Los filtros de la base de datos se presentan como intención."
+        ],
+        [
+          "Mensajes",
+          "Fuentes de afirmaciones y flujo de trabajo de aprobación",
+          "El proveedor inventa urgencia o prueba"
+        ],
+        [
+          "Calificación",
+          "Norma escrita de reunión y aceptación",
+          "Cada reserva es facturable."
+        ],
+        [
+          "Riesgo",
+          "Controles de acceso, datos, exclusión voluntaria y escalamiento",
+          "Promesa de riesgo cero o automatización oculta"
+        ],
+        [
+          "Propiedad",
+          "Exportaciones, retirada de acceso y entrega",
+          "Los datos y el aprendizaje permanecen bloqueados"
+        ]
+      ],
+      "items": [
+        "Utiliza el mismo brief para cada finalista.",
+        "Entrevista a quien dirigirá la prestación del servicio.",
+        "Comprueba referencias del mismo modelo.",
+        "Acuerda una evaluación acotada con una regla de parada."
+      ]
+    },
+    "h1": "Cómo elegir una agencia de generación de leads outbound sin comprar una promesa",
+    "answer": "Elige una agencia de generación de leads outbound definiendo primero el mercado, el canal, las responsabilidades y el resultado cualificado que necesitas. Después, revisa el equipo que realmente prestará el servicio, una muestra real o anonimizada, la calidad de la investigación, los controles de mensajes, la gestión de respuestas, los informes, la protección de plataformas y datos, el denominador de precio, la propiedad y las condiciones de finalización. Selecciona agencias cuyo modelo operativo responda a tu limitación; no las ordenes principalmente por promesas de reuniones, logotipos o volumen de actividad.",
+    "sections": [
+      {
+        "id": "confirm-the-company-is-ready-to-outsource",
+        "heading": "Confirmar que la empresa está lista para subcontratar",
+        "body": [
+          "Una agencia puede probar la segmentación y los mensajes, pero no puede inventar una oferta creíble, pruebas, un mercado accesible ni una respuesta comercial competente. Aclara el servicio, el comprador, el criterio comercial, el responsable de ventas y las pruebas antes de pedir al proveedor que aumente la actividad.",
+          "Si el planteamiento comercial es incierto, acuerda una prueba de aprendizaje acotada en lugar de comprometerte a un gran volumen de actividad. Define las hipótesis, el tamaño de la muestra, las fechas de revisión y la regla para detener la prueba."
+        ],
+        "items": [],
+        "tables": [
+          {
+            "caption": "Comprobaciones de preparación antes de la selección del proveedor.",
+            "heads": [
+              "Área",
+              "Condición mínima",
+              "Resolver primero cuando falta"
+            ],
+            "rows": [
+              [
+                "Oferta",
+                "Problema concreto y alcance del servicio",
+                "Posicionamiento y definición de la oferta"
+              ],
+              [
+                "Mercado",
+                "Empresas y roles de compra identificables",
+                "Investigación del perfil de cliente ideal"
+              ],
+              [
+                "Pruebas",
+                "Afirmaciones que el comprador puede respaldar",
+                "Casos, método o pruebas"
+              ],
+              [
+                "Economía",
+                "El valor del contrato permite invertir en captación",
+                "Canal y modelo comercial"
+              ],
+              [
+                "Ventas",
+                "Un responsable puede responder y dirigir el diagnóstico comercial",
+                "Capacidad y proceso de traspaso"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shortlist-by-operating-model",
+        "heading": "Lista corta por modelo operativo",
+        "body": [
+          "Decide si necesitas software, un profesional independiente, refuerzo de plantilla, una agencia que gestione una campaña concreta, capacidad SDR dedicada o un proveedor multicanal más amplio. Cada modelo exige una gestión y unas decisiones distintas sobre riesgos y propiedad.",
+          "Pregunta qué trabajo realizan las personas asignadas, los especialistas compartidos, la automatización y el cliente. Una propuesta que promete hacerlo todo por ti sin repartir las responsabilidades está incompleta."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "audit-a-real-sample-of-the-work",
+        "heading": "Audita una muestra real del trabajo",
+        "body": [
+          "Entrega a cada finalista la misma cuenta ficticia, o una cuenta real cuyo uso esté autorizado, y pide la justificación de la investigación, los roles de compra, el enfoque del mensaje, las exclusiones, la gestión de respuestas y la decisión de cualificación. No exijas que ejecute gratis una campaña: el objetivo es evaluar su criterio y su proceso.",
+          "Busca pruebas fechadas, prudencia, relevancia del rol e hipótesis claras. Descarta las muestras que atribuyan problemas privados sin pruebas, inventen elogios, utilicen indebidamente datos personales o confundan un contacto comprado con intención de compra."
+        ],
+        "items": [
+          "Justificación de inclusión y exclusión de cuentas",
+          "Enlaces a las fuentes y fecha de consulta",
+          "Mapa de roles del grupo de compra",
+          "Mensaje con las afirmaciones vinculadas a sus fuentes",
+          "Gestión de respuestas positivas, objeciones y solicitudes de baja",
+          "Decisión de cualificación de la reunión y su justificación"
+        ],
+        "tables": []
+      },
+      {
+        "id": "normalize-outcomes-and-pricing",
+        "heading": "Normalizar los resultados y los precios",
+        "body": [
+          "Define contacto, respuesta, respuesta positiva, reunión reservada, reunión celebrada, reunión cualificada y oportunidad aceptada. Explica cómo se tratan las ausencias, los cambios de fecha, los duplicados, las oportunidades previas y los asistentes que no encajan en el perfil de cliente ideal.",
+          "Incluye la puesta en marcha, la cuota recurrente, las herramientas, los datos, los cargos variables y el tiempo del cliente. Compara el coste completo durante el mismo periodo y utiliza las reuniones cualificadas celebradas como denominador común."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "inspect-governance-safety-and-ownership",
+        "heading": "Inspeccionar la gobernanza, la seguridad y la propiedad.",
+        "body": [
+          "Revisa el acceso a las cuentas, la procedencia de los datos, las responsabilidades de privacidad, las afirmaciones aprobadas, las reglas de las plataformas, las bajas, el procedimiento ante incidentes, la visibilidad en el CRM y la subcontratación. Ninguna agencia responsable debe garantizar la ausencia de riesgos para las cuentas, la entregabilidad o el cumplimiento normativo.",
+          "Confirma qué listas de cuentas, investigaciones, textos, historial de respuestas, contexto de reuniones, datos de resultados y aprendizajes conserva el cliente o puede exportar. Define la retirada de acceso y el traspaso antes de la primera campaña."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "reference-check-the-delivery-model-then-contract-a-test",
+        "heading": "Comprueba referencias del modelo de prestación y después contrata una prueba",
+        "body": [
+          "Pide referencias sobre el mismo tipo de equipo, canal, mercado y alcance que vas a contratar. Pregunta por la calidad de las respuestas, la visibilidad del trabajo, los problemas, las correcciones y el traspaso; no te limites al número de reuniones.",
+          "La evaluación debe durar lo suficiente para obtener pruebas útiles y tener límites claros. El contrato debe especificar responsabilidades, hechos que generan facturación, plazo mínimo, cancelación, propiedad, confidencialidad, tratamiento de datos y proceso de revisión."
+        ],
+        "items": [],
+        "tables": []
+      }
+    ],
+    "faqs": [
+      [
+        "¿Qué debo buscar en una agencia de generación de leads?",
+        "Busca un modelo adecuado, un equipo de prestación creíble, investigación y mensajes que puedas revisar, criterios de cualificación explícitos, gestión ágil de respuestas, informes que permitan revisar cada registro, controles responsables sobre plataformas y datos, costes claros y activos transferibles."
+      ],
+      [
+        "¿Cuántas agencias debo comparar?",
+        "Una lista de tres proveedores comparables suele bastar tras filtrar por modelo de trabajo. Más propuestas aportan poco si venden servicios diferentes o utilizan definiciones de resultados incompatibles."
+      ],
+      [
+        "¿Debería una agencia garantizar las reuniones?",
+        "Un proveedor puede comprometerse a un trabajo, unos niveles de servicio o un criterio de facturación definido. Una promesa de reuniones no elimina los riesgos de mercado, asistencia o ventas. Revisa las reglas de cualificación y sustitución."
+      ],
+      [
+        "¿Cuánto tiempo debe durar una prueba de agencia outbound?",
+        "Debe permitir investigar, lanzar, recibir respuestas e iterar en el mercado elegido sin crear una permanencia innecesaria. Define las pruebas que necesitas y la fecha de decisión con antelación; no te bases en un número universal de meses."
+      ]
+    ]
+  },
+  "ca": {
+    "decision": {
+      "heading": "Quadre de puntuació finalista de l'agència outbound",
+      "heads": [
+        "Àrea",
+        "Demana",
+        "Rebutja quan"
+      ],
+      "rows": [
+        [
+          "Equip",
+          "Funcions, antiguitat, capacitat i direcció",
+          "Només els venedors sèniors són visibles"
+        ],
+        [
+          "Recerca",
+          "Mostra de compte datada amb exclusions",
+          "Els filtres de bases de dades es presenten com a intenció"
+        ],
+        [
+          "Missatges",
+          "Fonts de reclamació i flux de treball d'aprovació",
+          "El proveïdor inventa la urgència o la prova"
+        ],
+        [
+          "Qualificació",
+          "Norma escrita de celebració de la reunió i acceptació",
+          "Cada reserva és facturable"
+        ],
+        [
+          "Risc",
+          "Controls d'accés, dades, desactivació i escalada",
+          "Promesa de risc zero o automatització oculta"
+        ],
+        [
+          "Propietat",
+          "Exportacions, eliminació d'accés i lliurament",
+          "Les dades i l'aprenentatge romanen tancats"
+        ]
+      ],
+      "items": [
+        "Utilitza el mateix brief per a cada finalista.",
+        "Entrevista qui dirigirà la prestació del servei.",
+        "Comprova referències del mateix model.",
+        "Acorda una avaluació acotada amb una regla d’aturada."
+      ]
+    },
+    "h1": "Com triar una agència de generació de leads outbound sense comprar una promesa",
+    "answer": "Tria una agència de generació de leads outbound definint primer el mercat, el canal, les responsabilitats i el resultat qualificat que necessites. Després, revisa l’equip que realment prestarà el servei, una mostra real o anonimitzada, la qualitat de la recerca, els controls de missatges, la gestió de respostes, els informes, la protecció de plataformes i dades, el denominador de preu, la propietat i les condicions de finalització. Selecciona agències amb un model operatiu que respongui a la teva limitació; no les ordenis principalment per promeses de reunions, logotips o volum d’activitat.",
+    "sections": [
+      {
+        "id": "confirm-the-company-is-ready-to-outsource",
+        "heading": "Confirmeu que l'empresa està preparada per subcontractar",
+        "body": [
+          "Una agència pot provar la segmentació i els missatges, però no pot inventar una oferta creïble, proves, un mercat accessible ni una resposta comercial competent. Aclareix el servei, el comprador, el criteri comercial, el responsable de vendes i les proves abans de demanar al proveïdor que augmenti l’activitat.",
+          "Si el plantejament comercial és incert, acorda una prova d’aprenentatge acotada en lloc de comprometre’t a un gran volum d’activitat. Defineix les hipòtesis, la mida de la mostra, les dates de revisió i la regla per aturar la prova."
+        ],
+        "items": [],
+        "tables": [
+          {
+            "caption": "Comprovacions de preparació abans de seleccionar el proveïdor",
+            "heads": [
+              "Àrea",
+              "Condició mínima",
+              "Resol primer quan falti"
+            ],
+            "rows": [
+              [
+                "Oferta",
+                "Problema concret i abast del servei",
+                "Posicionament i definició de l’oferta"
+              ],
+              [
+                "Mercat",
+                "Empreses i rols de compra identificables",
+                "Recerca del perfil de client ideal"
+              ],
+              [
+                "Proves",
+                "Afirmacions que el comprador pot defensar",
+                "Casos, mètode o proves"
+              ],
+              [
+                "Economia",
+                "El valor del contracte permet invertir en captació",
+                "Canal i model comercial"
+              ],
+              [
+                "Vendes",
+                "Un responsable pot respondre i dirigir la diagnosi comercial",
+                "Capacitat i procés de traspàs"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shortlist-by-operating-model",
+        "heading": "Llista preseleccionada per model operatiu",
+        "body": [
+          "Decideix si necessites programari, un professional independent, reforç de plantilla, una agència que gestioni una campanya concreta, capacitat SDR dedicada o un proveïdor multicanal més ampli. Cada model exigeix una gestió i unes decisions diferents sobre riscos i propietat.",
+          "Pregunta quina feina fan les persones assignades, els especialistes compartits, l’automatització i el client. Una proposta que promet fer-ho tot per tu sense repartir les responsabilitats és incompleta."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "audit-a-real-sample-of-the-work",
+        "heading": "Audita una mostra real de la feina",
+        "body": [
+          "Dona a cada finalista el mateix compte fictici, o un compte real que tinguis autorització per utilitzar, i demana la justificació de la recerca, els rols de compra, l’enfocament del missatge, les exclusions, la gestió de respostes i la decisió de qualificació. No exigeixis que executi una campanya de franc: l’objectiu és avaluar-ne el criteri i el procés.",
+          "Busca proves datades, prudència, rellevància del rol i hipòtesis clares. Descarta les mostres que atribueixin problemes privats sense proves, inventin elogis, facin un ús indegut de dades personals o confonguin un contacte comprat amb intenció de compra."
+        ],
+        "items": [
+          "Justificació de la inclusió i exclusió de comptes",
+          "Enllaços a les fonts i data de consulta",
+          "Mapa de rols del grup de compra",
+          "Missatge amb les afirmacions vinculades a les fonts",
+          "Gestió de respostes positives, objeccions i sol·licituds de baixa",
+          "Decisió de qualificació de la reunió i justificació"
+        ],
+        "tables": []
+      },
+      {
+        "id": "normalize-outcomes-and-pricing",
+        "heading": "Normalitzar els resultats i els preus",
+        "body": [
+          "Defineix contacte, resposta, resposta positiva, reunió reservada, reunió celebrada, reunió qualificada i oportunitat acceptada. Explica com es tracten les absències, els canvis de data, els duplicats, les oportunitats prèvies i els assistents que no encaixen en el perfil de client ideal.",
+          "Inclou la posada en marxa, la quota recurrent, les eines, les dades, els càrrecs variables i el temps del client. Compara el cost complet durant el mateix període i utilitza les reunions qualificades celebrades com a denominador comú."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "inspect-governance-safety-and-ownership",
+        "heading": "Inspeccionar la governança, la seguretat i la propietat",
+        "body": [
+          "Revisa l’accés als comptes, la procedència de les dades, les responsabilitats de privadesa, les afirmacions aprovades, les regles de les plataformes, les baixes, el procediment davant d’incidents, la visibilitat al CRM i la subcontractació. Cap agència responsable no hauria de garantir l’absència de riscos per als comptes, la capacitat de lliurament dels correus o el compliment normatiu.",
+          "Confirma quines llistes de comptes, recerques, textos, historial de respostes, context de reunions, dades de resultats i aprenentatges conserva el client o pot exportar. Defineix la revocació d’accés i el traspàs abans de la primera campanya."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "reference-check-the-delivery-model-then-contract-a-test",
+        "heading": "Comprova referències del model de prestació i després contracta una prova",
+        "body": [
+          "Demana referències sobre el mateix tipus d’equip, canal, mercat i abast que vols contractar. Pregunta per la qualitat de les respostes, la visibilitat de la feina, els problemes, les correccions i el traspàs; no et limitis al nombre de reunions.",
+          "L’avaluació ha de durar prou per obtenir proves útils i tenir límits clars. El contracte ha d’especificar responsabilitats, fets que generen facturació, termini mínim, cancel·lació, propietat, confidencialitat, tractament de dades i procés de revisió."
+        ],
+        "items": [],
+        "tables": []
+      }
+    ],
+    "faqs": [
+      [
+        "Què he de buscar en una agència de generació de leads?",
+        "Busca un model adequat, un equip de prestació creïble, recerca i missatges que puguis revisar, criteris de qualificació explícits, gestió àgil de respostes, informes que permetin revisar cada registre, controls responsables sobre plataformes i dades, costos clars i actius transferibles."
+      ],
+      [
+        "Quantes agències he de comparar?",
+        "Una llista de tres proveïdors comparables sol ser suficient després de filtrar per model de treball. Més propostes aporten poc si venen serveis diferents o utilitzen definicions de resultats incompatibles."
+      ],
+      [
+        "Una agència hauria de garantir les reunions?",
+        "Un proveïdor es pot comprometre a una feina, uns nivells de servei o un criteri de facturació definit. Una promesa de reunions no elimina els riscos de mercat, assistència o vendes. Revisa les regles de qualificació i substitució."
+      ],
+      [
+        "Quant de temps hauria de durar una prova d'agència outbound?",
+        "Ha de permetre investigar, llançar, rebre respostes i iterar al mercat triat sense crear una permanència innecessària. Defineix les proves que necessites i la data de decisió per endavant; no et basis en un nombre universal de mesos."
+      ]
+    ]
+  },
+  "fr": {
+    "decision": {
+      "heading": "Tableau de bord des finalistes de l'agence outbound",
+      "heads": [
+        "Zone",
+        "Demander",
+        "Rejeter quand"
+      ],
+      "rows": [
+        [
+          "Équipe",
+          "Rôles, ancienneté, capacité et gestion",
+          "Seuls les vendeurs seniors sont visibles"
+        ],
+        [
+          "Recherche",
+          "Exemple de compte daté avec exclusions",
+          "Les filtres de base de données sont présentés comme une intention"
+        ],
+        [
+          "Messages",
+          "Sources de réclamation et flux de travail d'approbation",
+          "Le fournisseur invente l’urgence ou la preuve"
+        ],
+        [
+          "Qualification",
+          "Règle écrite de tenue de réunion et d'acceptation",
+          "Chaque réservation est facturable"
+        ],
+        [
+          "Risque",
+          "Contrôles d’accès, de données, de désinscription et d’escalade",
+          "Promesse zéro risque ou automatisation cachée"
+        ],
+        [
+          "Propriété",
+          "Exportations, retrait d’accès et remise",
+          "Les données et l’apprentissage restent verrouillés"
+        ]
+      ],
+      "items": [
+        "Utilisez le même brief pour chaque finaliste.",
+        "Interrogez la personne qui dirigera la prestation.",
+        "Vérifiez les références concernant le même modèle.",
+        "Convenez d’une évaluation limitée avec une règle d’arrêt."
+      ]
+    },
+    "h1": "Comment choisir une agence de génération de leads outbound sans acheter une promesse",
+    "answer": "Choisissez une agence de génération de leads outbound en définissant d’abord le marché, le canal, les responsabilités et le résultat qualifié dont vous avez besoin. Examinez ensuite l’équipe qui réalisera effectivement la prestation, un échantillon réel ou anonymisé, la qualité de la recherche, les contrôles des messages, le traitement des réponses, le reporting, la protection des plateformes et des données, le dénominateur tarifaire, la propriété et les conditions de sortie. Retenez les agences dont le modèle opérationnel correspond à votre contrainte ; ne les classez pas principalement selon leurs promesses de rendez-vous, leurs logos ou leur volume d’activité.",
+    "sections": [
+      {
+        "id": "confirm-the-company-is-ready-to-outsource",
+        "heading": "Confirmer que l'entreprise est prête à externaliser",
+        "body": [
+          "Une agence peut tester le ciblage et les messages, mais elle ne peut pas inventer une offre crédible, des preuves, un marché accessible ni une réponse commerciale compétente. Clarifiez le service, l’acheteur, le critère commercial, le responsable commercial et les preuves avant de demander au prestataire d’augmenter l’activité.",
+          "Si la démarche commerciale reste incertaine, convenez d’un test d’apprentissage limité plutôt que d’un engagement sur un grand volume d’activité. Définissez les hypothèses, la taille de l’échantillon, les dates de revue et la règle d’arrêt."
+        ],
+        "items": [],
+        "tables": [
+          {
+            "caption": "Vérifications de préparation avant la sélection du fournisseur",
+            "heads": [
+              "Zone",
+              "Condition minimale",
+              "Résoudre d'abord en cas d'absence"
+            ],
+            "rows": [
+              [
+                "Offre",
+                "Problème précis et périmètre de prestation",
+                "Positionnement et définition de l’offre"
+              ],
+              [
+                "Marché",
+                "Entreprises et rôles d’achat identifiables",
+                "Recherche du profil de client idéal"
+              ],
+              [
+                "Preuves",
+                "Affirmations que l’acheteur peut étayer",
+                "Cas, méthode ou preuves"
+              ],
+              [
+                "Économie",
+                "La valeur du contrat permet d’investir dans l’acquisition",
+                "Canal et modèle commercial"
+              ],
+              [
+                "Ventes",
+                "Un responsable peut répondre et mener la découverte commerciale",
+                "Capacité et processus de transfert"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "shortlist-by-operating-model",
+        "heading": "Liste restreinte par modèle opérationnel",
+        "body": [
+          "Décidez si vous avez besoin d'une assistance logicielle, d'un pigiste, d'un renfort de personnel, d'une agence gérée ciblée, d'une capacité SDR dédiée ou d'un vaste fournisseur multicanal. Chaque modèle crée des exigences différentes en matière de gestion, de risque et de propriété.",
+          "Demandez qui réalise chaque tâche : personnes affectées au projet, spécialistes mutualisés, automatisation ou client. Une proposition qui promet de tout faire pour vous sans répartir les responsabilités reste incomplète."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "audit-a-real-sample-of-the-work",
+        "heading": "Auditer un échantillon réel du travail",
+        "body": [
+          "Donnez à chaque finaliste le même compte fictif, ou un compte réel dont l’utilisation est autorisée. Demandez la justification de la recherche, les rôles d’achat, l’approche du message, les exclusions, le traitement des réponses et la décision de qualification. N’exigez pas l’exécution gratuite d’une campagne : il s’agit d’évaluer le jugement et le processus.",
+          "Recherchez des preuves datées, de la prudence, un rôle pertinent et des hypothèses claires. Écartez les exemples qui attribuent des problèmes privés sans preuve, inventent des compliments, utilisent abusivement des données personnelles ou assimilent un contact acheté à une intention d’achat."
+        ],
+        "items": [
+          "Justification de l’inclusion et de l’exclusion des comptes",
+          "Liens vers les sources et date de consultation",
+          "Carte des rôles du groupe d’achat",
+          "Message dont les affirmations sont reliées à leurs sources",
+          "Traitement des réponses positives, objections et demandes de désinscription",
+          "Décision de qualification du rendez-vous et justification"
+        ],
+        "tables": []
+      },
+      {
+        "id": "normalize-outcomes-and-pricing",
+        "heading": "Normaliser les résultats et les prix",
+        "body": [
+          "Définissez le contact, la réponse, la réponse positive, le rendez-vous réservé, le rendez-vous tenu, le rendez-vous qualifié et l’opportunité acceptée. Précisez le traitement des absences, des changements de date, des doublons, des opportunités préexistantes et des participants hors du profil de client idéal.",
+          "Ajoutez la mise en place, les honoraires récurrents, les outils, les données, les frais variables et le temps du client. Comparez le coût complet sur une même période, avec les rendez-vous qualifiés effectivement tenus comme dénominateur commun."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "inspect-governance-safety-and-ownership",
+        "heading": "Inspecter la gouvernance, la sécurité et la propriété",
+        "body": [
+          "Examinez l’accès aux comptes, la provenance des données, les responsabilités de confidentialité, les affirmations approuvées, les règles des plateformes, les désinscriptions, le traitement des incidents, la visibilité dans le CRM et la sous-traitance. Aucune agence responsable ne devrait garantir l’absence de risques pour les comptes, la délivrabilité ou la conformité.",
+          "Vérifiez quelles listes de comptes, recherches, textes, réponses, informations sur les rendez-vous, données de résultats et connaissances le client conserve ou peut exporter. Définissez le retrait des accès et le transfert avant la première campagne."
+        ],
+        "items": [],
+        "tables": []
+      },
+      {
+        "id": "reference-check-the-delivery-model-then-contract-a-test",
+        "heading": "Vérifiez les références du modèle de prestation, puis contractualisez un test",
+        "body": [
+          "Demandez des références concernant le même type d’équipe, le même canal, le même marché et le même périmètre de prestation. Abordez la qualité des réponses, la visibilité du travail, les problèmes, les corrections et le transfert ; ne vous limitez pas au nombre de rendez-vous.",
+          "L’évaluation doit durer assez longtemps pour produire des preuves utiles, avec des limites claires. Le contrat doit préciser les responsabilités, les faits générateurs de facturation, la durée minimale, la résiliation, la propriété, la confidentialité, le traitement des données et le processus de revue."
+        ],
+        "items": [],
+        "tables": []
+      }
+    ],
+    "faqs": [
+      [
+        "Que dois-je rechercher dans une agence de génération de leads ?",
+        "Recherchez un modèle adapté, une équipe de prestation crédible, des recherches et messages vérifiables, des critères de qualification explicites, un traitement réactif des réponses, des rapports permettant d’examiner chaque enregistrement, des contrôles responsables sur les plateformes et les données, des coûts clairs et des actifs transférables."
+      ],
+      [
+        "Combien d’agences dois-je comparer ?",
+        "Une liste de trois prestataires comparables suffit souvent après sélection du modèle de travail. Davantage de propositions apportent peu si elles portent sur des prestations différentes ou des définitions de résultats incompatibles."
+      ],
+      [
+        "Une agence doit-elle garantir des rendez-vous ?",
+        "Un prestataire peut s’engager sur un travail, des niveaux de service ou un fait générateur de facturation défini. Une promesse de rendez-vous n’élimine pas les risques de marché, de présence ou de vente. Examinez les règles de qualification et de remplacement."
+      ],
+      [
+        "Combien de temps un test d'agence outbound doit-il durer ?",
+        "La durée doit permettre la recherche, le lancement, les réponses et l’itération sur le marché choisi, sans engagement inutile. Définissez les preuves attendues et la date de décision à l’avance plutôt que de retenir un nombre universel de mois."
+      ]
+    ]
+  }
+}

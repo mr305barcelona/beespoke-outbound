@@ -44,7 +44,7 @@ const sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');
 for(const route of require('../data/owner-reviewed-routes-20261019.json')){
  const loc='https://outbound-lead-generation.com'+route;
  const position=sitemap.indexOf('<loc>'+loc+'</loc>');if(position<0)continue;
- assert(sitemap.slice(position,position+loc.length+80).includes('<lastmod>'+(/^(?:\/(?:es|ca|fr))?\/guides\/cold-email-agency\/$/.test(route)?'2026-11-02':publication.dateFor(route,''))+'</lastmod>'),route+': reviewed sitemap date mismatch');
+ assert(sitemap.slice(position,position+loc.length+80).includes('<lastmod>'+(/^(?:\/(?:es|ca|fr))?\/guides\/how-to-choose-an-outbound-lead-generation-agency\/$/.test(route)?'2026-11-03':/^(?:\/(?:es|ca|fr))?\/guides\/cold-email-agency\/$/.test(route)?'2026-11-02':publication.dateFor(route,''))+'</lastmod>'),route+': reviewed sitemap date mismatch');
 }
 console.log('Reviewed sitemap dates agree with the scoped publication date.');
 
