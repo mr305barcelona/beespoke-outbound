@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Utilisez deux profils issus du même brief",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Donnez à chaque agence deux profils fictifs aux fonctions proches. Une personne vient de publier un retour sur l’intégration de partenaires régionaux. L’autre n’a pas d’activité récente qui apporte du contexte. Demandez quel canal l’agence choisirait, sur quels éléments et quand elle renoncerait à écrire. Une publication apporte du contexte. Elle ne démontre pas un besoin."
+        },
+        {
+          "kind": "table",
+          "title": "Même cible, deux approches",
+          "heads": [
+            "Situation",
+            "Justificatif à demander",
+            "Quand arrêter"
+          ],
+          "rows": [
+            [
+              "Publication récente et pertinente",
+              "Un brouillon qui reprend un point concret et pose une question adaptée",
+              "La référence ne peut pas être vérifiée"
+            ],
+            [
+              "Aucune activité utile sur LinkedIn",
+              "Une explication si un autre canal autorisé offre une meilleure raison d’écrire",
+              "Aucun canal valide ou aucun motif pertinent"
+            ],
+            [
+              "Demande de ne plus être contacté",
+              "La trace de l’exclusion et le responsable sur tous les canaux",
+              "Une relance reste programmée"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Relisez le texte avec la voix de l’expéditeur",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un exemple fictif serait « Dans votre publication sur l’intégration des partenaires régionaux, vous parliez d’une liste pour la première semaine. Qu’avez-vous finalement gardé dessus ? ». Demandez en quoi la réponse guiderait l’étape suivante. Si la personne semble intéressée mais que le profil reste incertain, le responsable doit trancher avant de qualifier le rendez-vous."
+        }
+      ]
+    },
+    {
+      "title": "Décidez qui peut valider, suspendre et révoquer",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Demandez la liste écrite des comptes, autorisations et outils. Définissez qui valide les changements de liste et de texte, comment vous suspendez la prospection et qui retire les accès à la fin. Vérifiez le processus au regard des conditions en vigueur de LinkedIn avant d’accorder l’accès. Demandez une démonstration du traitement d’une demande d’arrêt."
+        }
+      ]
+    },
+    {
+      "title": "Séparez l’activité du relais commercial",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Distinguez les prises de contact, les réponses, les rendez-vous tenus et l’acceptation par les ventes. Demandez quels champs arrivent dans le CRM et comment l’agence gère un profil incertain. Comparez les offres sur le même passage de relais."
+        },
+        {
+          "kind": "record",
+          "title": "Fiche de décision avant l’accès",
+          "rows": [
+            [
+              "Titulaire du compte",
+              "La personne dont le profil est utilisé"
+            ],
+            [
+              "Preuve de validation",
+              "Exemple relu et autorisation documentée"
+            ],
+            [
+              "Arrêt des envois",
+              "Une personne vérifie LinkedIn et les autres canaux autorisés"
+            ],
+            [
+              "Résultat à vérifier",
+              "Les ventes acceptent ou refusent le rendez-vous selon les critères convenus"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Demandez à une agence de génération de leads sur LinkedIn de montrer un message validé, une réponse et une demande d’arrêt. Vérifiez qui contrôle le compte et qui se charge de la suite.",
+  "description": "Comparez les agences de génération de leads sur LinkedIn avec un test d’accès et de passage de relais. Vérifiez la validation des messages, les réponses et l’arrêt des envois.",
+  "title": "Testez le processus avant d’accorder l’accès au compte",
+  "toc": "Tester l’accès et la prise de contact",
+  "fiction": "Messages et situations fictifs. L’exercice n’attribue aucun outil ni aucune pratique aux prestataires de la liste."
+}

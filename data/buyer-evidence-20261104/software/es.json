@@ -1,0 +1,98 @@
+{
+  "sections": [
+    {
+      "title": "Parte de la misma carga",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un equipo de software quiere investigar y prospectar un segmento aprobado. Necesita clasificar respuestas, tramitar bajas y entregar casos que acepte ventas. La herramienta cubre datos y envío. El cliente aún debe asignar investigación, mensajes, revisión y respuestas. La propuesta gestionada cubre la ejecución acordada. El cliente aprueba público y afirmaciones, atiende dudas expertas y dirige reuniones."
+        },
+        {
+          "kind": "table",
+          "title": "Datos a comprobar",
+          "heads": [
+            "Dato",
+            "Software",
+            "Agencia"
+          ],
+          "rows": [
+            [
+              "Arranque",
+              "Integración, revisión de datos y formación.",
+              "Trabajo inicial y cuota si figura en la propuesta."
+            ],
+            [
+              "Coste recurrente",
+              "Herramientas, datos y coste de horas internas.",
+              "Cuota, extras y tiempo interno de revisión y aprobación."
+            ],
+            [
+              "Cobertura",
+              "Operador y suplente para respuestas y excepciones.",
+              "Cobertura del proveedor y responsable de escalado del cliente."
+            ],
+            [
+              "Resultado",
+              "Oportunidades aceptadas del mismo grupo apto.",
+              "Misma regla de aceptación y ventana de observación."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comprueba el tiempo antes de comparar",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "El equipo estima 20 horas mensuales con software y ocho con gestión externa. En tres meses son 60 y 24 horas. Comprueba agendas y suplencias. Introduce horas y costes mensuales en sus campos y arranque en los de pago único. Convierte todos los importes a USD antes de introducirlos. La calculadora muestra USD y no convierte divisas. Un dato sin confirmar sigue pendiente aunque un cero permita calcular."
+        }
+      ]
+    },
+    {
+      "title": "Compara resultados equivalentes",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Si el software tiene cinco oportunidades aceptadas y la agencia tres aceptadas y dos pendientes, los totales divididos por cinco y tres describen lo ocurrido hasta hoy. Espera un seguimiento equivalente para comparar. Registra la oportunidad aceptada aparte de una respuesta o reserva. Con cero aceptadas, el coste por oportunidad queda sin definir. El umbral de la calculadora depende de los datos y no predice resultados."
+        }
+      ]
+    },
+    {
+      "title": "Recorre la decisión",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Decisión completada",
+          "rows": [
+            [
+              "Límite",
+              "El cliente tiene ocho horas para aprobar y revisar, pero nadie para el resto del trabajo."
+            ],
+            [
+              "Decisión",
+              "Define ejecución gestionada para un segmento si hay cobertura de respuestas y el cliente puede atender escalados."
+            ],
+            [
+              "Reconsiderar",
+              "Si se incorpora un operador formado y un suplente, prueba software con el mismo alcance. Si nadie dirige reuniones, aplaza ambas compras."
+            ],
+            [
+              "Traspaso",
+              "Comprueba que puedas usar instrucciones, registros permitidos, reglas de respuesta y exclusiones al cambiar de modelo."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Contrasta la primera revisión con el alcance y los traspasos aceptados. Una cuota menor no resuelve por sí sola la falta de cobertura."
+        }
+      ]
+    }
+  ],
+  "answer": "Compra software si una persona puede investigar cuentas, ejecutar la prospección y gestionar respuestas, con tiempo de supervisión. Contrata ejecución gestionada si esas tareas son el problema. Compara el mismo alcance de 90 días y comprueba quién hará el trabajo antes de decidir con los totales.",
+  "description": "Compara software y agencia de captación en 90 días con el mismo alcance, tiempo interno y definición de oportunidad.",
+  "title": "Usa la calculadora para una decisión de 90 días",
+  "toc": "Ejemplo de software frente a agencia",
+  "fiction": "El equipo, las horas y las decisiones son ficticios. Utiliza tus presupuestos y horas registradas."
+}

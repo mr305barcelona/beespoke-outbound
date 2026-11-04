@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Repérez où les prospects restent bloqués",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Une équipe doit ouvrir des conversations sur un nouveau marché. Une autre reçoit de bonnes demandes entrantes, mais y répond trop tard. Une troisième prospecte déjà et doit mieux étudier les entreprises ciblées. Toutes demandent de la génération de leads, avec trois besoins distincts."
+        },
+        {
+          "kind": "table",
+          "title": "Associez le travail au problème",
+          "heads": [
+            "Situation",
+            "Justificatif à demander",
+            "Motif pour écarter l’offre"
+          ],
+          "rows": [
+            [
+              "Pas de prospection sur le marché cible",
+              "Un exemple de liste validée, un brouillon et le relais d’une réponse aux ventes",
+              "L’équipe ne couvre pas la langue ou la région"
+            ],
+            [
+              "Les demandes entrantes restent sans réponse",
+              "Un exemple de demande reçue, attribuée et traitée",
+              "Personne n’assure le traitement des réponses"
+            ],
+            [
+              "La prospection fonctionne, mais la recherche est insuffisante",
+              "Un exemple d’export avec sources datées et exclusions documentées",
+              "Le choix des entreprises ne peut pas être vérifié"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Donnez le même brief à chaque agence",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Communiquez les fonctions visées, les marchés, les exclusions, les canaux disponibles et qui peut assurer les rendez-vous. Appliquez la même règle d’acceptation commerciale. Demandez ce que l’agence prend en charge, ce que vous devez valider et ce qu’elle écarterait. Vérifiez les contraintes avant d’attribuer une note."
+        }
+      ]
+    },
+    {
+      "title": "Demandez une preuve adaptée au travail",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un échantillon de recherche ne prouve pas qu’une agence traite les réponses. Le nombre de rendez-vous ne montre pas combien l’équipe commerciale en a acceptés. Demandez un exemple anonymisé pertinent ou une démonstration fictive. Vérifiez comment une exception est traitée, où elle est enregistrée et qui décide."
+        }
+      ]
+    },
+    {
+      "title": "Décidez et fixez un point de réexamen",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Notez le périmètre retenu, le responsable interne et le point à vérifier avant le lancement. Réexaminez le choix si le problème initial change ou si une condition de passage de relais n’est pas tenue. Appliquez la même exigence aux autres prestataires."
+        },
+        {
+          "kind": "record",
+          "title": "Exemple de fiche de sélection",
+          "rows": [
+            [
+              "Problème",
+              "De bonnes demandes attendent d’être attribuées"
+            ],
+            [
+              "Démonstration attendue",
+              "Une demande fictive arrive à la bonne équipe et reçoit une réponse"
+            ],
+            [
+              "Responsable interne",
+              "Les opérations commerciales répartissent les demandes et valident le relais"
+            ],
+            [
+              "Quand réexaminer",
+              "Une demande valide reste sans responsable selon la procédure convenue"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Choisissez une agence de génération de leads B2B selon le travail à couvrir. Comparez les propositions sur le même brief et vérifiez que chaque équipe sait résoudre votre problème concret.",
+  "description": "Comparez les agences de génération de leads B2B selon le travail à couvrir. Utilisez un même brief pour évaluer la prospection, le suivi, la recherche et le relais commercial.",
+  "title": "Comparez les agences selon le travail à couvrir",
+  "toc": "Vérifier l’adéquation des offres",
+  "fiction": "Trois situations d’achat fictives. Les exemples ne décrivent aucun prestataire nommé ni ses résultats."
+}

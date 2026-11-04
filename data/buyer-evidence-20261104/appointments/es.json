@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Cuenta cada cita original una sola vez",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Partimos de 12 citas originales. Ocho se celebraron, dos se cancelaron y dos siguen pendientes. Dos cambiaron de fecha y conservan su identificador original. De las ocho reuniones celebradas, seis cumplieron los criterios acordados y el equipo comercial las aceptó. Las otras dos también cuentan como celebradas."
+        },
+        {
+          "kind": "table",
+          "title": "Las mismas citas, tres criterios de facturación",
+          "heads": [
+            "Concepto facturable",
+            "Unidades antes de ajustes",
+            "Qué comprobar"
+          ],
+          "rows": [
+            [
+              "Citas originales",
+              "12",
+              "Identificadores originales y tratamiento de las cancelaciones"
+            ],
+            [
+              "Reuniones celebradas",
+              "8",
+              "Asistencia y regla aplicable a las ausencias"
+            ],
+            [
+              "Reuniones cualificadas y aceptadas",
+              "6",
+              "Asistencia, criterios cumplidos y decisión registrada"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Contrasta la factura con el contrato",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Pide a cada proveedor que aplique sus condiciones a estas mismas citas. Aclara qué activa el cobro, si las ausencias generan un abono o una sustitución, quién puede rechazar una cita y en qué plazo. Revisa cómo aparecen los duplicados, los cambios de fecha y las reuniones pendientes al cierre. Cada abono debería apuntar a su línea original."
+        }
+      ]
+    },
+    {
+      "title": "Calcula el coste del mismo resultado",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Usa el mismo periodo y la misma moneda. Suma los importes comprometidos, la puesta en marcha, las herramientas aparte y el tiempo interno de revisión y seguimiento. Resta solo los abonos documentados. Divide por las seis reuniones aceptadas. Si no se acepta ninguna, informa del gasto y de que hubo cero reuniones aceptadas. En ese caso no se puede calcular el coste por reunión aceptada."
+        }
+      ]
+    },
+    {
+      "title": "Haz una revisión semanal",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Cruza calendario, CRM y factura. Registra quién aceptó o rechazó la cita y por qué. Conserva el identificador al cambiar la fecha. Antes de firmar, pide una factura de ejemplo con una línea en disputa."
+        },
+        {
+          "kind": "record",
+          "title": "Ejemplo de línea que revisar",
+          "rows": [
+            [
+              "Identificador original",
+              "F-012, con un cambio de fecha"
+            ],
+            [
+              "Estado",
+              "Celebrada"
+            ],
+            [
+              "Decisión comercial",
+              "Rechazada porque el cargo no encajaba en el perfil acordado"
+            ],
+            [
+              "Factura",
+              "Podría facturarse como celebrada. Comprueba si corresponde un abono."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Compara presupuestos con la misma definición de reunión aceptada. Una cita en el calendario, una reunión celebrada y una reunión cualificada que valida tu equipo comercial son resultados distintos.",
+  "description": "Compara precios de concertación de citas B2B según qué se factura. Revisa las citas agendadas, celebradas y aceptadas, y calcula el coste por reunión aceptada.",
+  "title": "Cómo comparar lo que realmente facturan dos presupuestos",
+  "toc": "Qué se factura",
+  "fiction": "Caso ficticio. Las cifras ilustran cómo funciona un contrato y no representan resultados ni tarifas."
+}

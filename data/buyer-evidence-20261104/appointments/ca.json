@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Compta cada cita original una sola vegada",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Partim de 12 cites originals. Se'n van fer vuit, se'n van cancel·lar dues i en queden dues de pendents. Dues van canviar de data i mantenen l'identificador original. Sis de les vuit reunions fetes van complir els criteris acordats i l'equip comercial les va acceptar. Les altres dues també compten com a fetes."
+        },
+        {
+          "kind": "table",
+          "title": "Les mateixes cites, tres criteris de facturació",
+          "heads": [
+            "Concepte facturable",
+            "Unitats abans dels ajustos",
+            "Què cal comprovar"
+          ],
+          "rows": [
+            [
+              "Cites originals",
+              "12",
+              "Identificadors originals i tractament de les cancel·lacions"
+            ],
+            [
+              "Reunions fetes",
+              "8",
+              "Assistència i regla aplicable a les absències"
+            ],
+            [
+              "Reunions qualificades i acceptades",
+              "6",
+              "Assistència, criteris complerts i decisió registrada"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Contrasta la factura amb el contracte",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Demana a cada proveïdor que apliqui les seves condicions a aquestes cites. Aclareix què activa el cobrament, si les absències comporten un abonament o una substitució, qui pot rebutjar una reunió i en quin termini. Revisa com es tracten els duplicats, els canvis de data i les cites pendents en tancar la factura. Cada abonament ha d'enllaçar amb la línia original."
+        }
+      ]
+    },
+    {
+      "title": "Calcula el cost del mateix resultat",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Fes servir el mateix període i la mateixa moneda. Suma els imports compromesos, la posada en marxa, les eines facturades a part i el temps intern de revisió i seguiment. Resta només els abonaments documentats. Divideix el cost per les sis reunions acceptades. Si no se n'accepta cap, informa de la despesa i del zero. En aquest cas no es pot calcular el cost per reunió acceptada."
+        }
+      ]
+    },
+    {
+      "title": "Revisa les dades cada setmana",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Creua el calendari, el CRM i la factura. Anota qui ha acceptat o rebutjat la reunió i per què. Conserva l'identificador si es mou la data. Abans de signar, demana una factura de mostra amb una línia en disputa."
+        },
+        {
+          "kind": "record",
+          "title": "Exemple de línia per revisar",
+          "rows": [
+            [
+              "Identificador original",
+              "F-012, amb un canvi de data"
+            ],
+            [
+              "Estat",
+              "Feta"
+            ],
+            [
+              "Decisió comercial",
+              "Rebutjada perquè el càrrec no encaixava en el perfil acordat"
+            ],
+            [
+              "Factura",
+              "Es podria facturar com a feta. Comprova si hi correspon un abonament."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Compara els pressupostos amb la mateixa definició de reunió acceptada. Una cita al calendari, una reunió feta i una reunió qualificada que valida l'equip comercial són resultats diferents.",
+  "description": "Compara preus de concertació de cites B2B segons què es factura. Revisa les cites reservades, fetes i acceptades, i calcula el cost per reunió acceptada.",
+  "title": "Com comparar què facturen realment dos pressupostos",
+  "toc": "Què es factura",
+  "fiction": "Cas fictici. Les xifres expliquen com funciona el contracte i no representen resultats ni tarifes."
+}

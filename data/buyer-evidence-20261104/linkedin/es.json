@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Usa dos perfiles del mismo encargo",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Da a cada agencia dos perfiles ficticios con cargos parecidos. Una persona acaba de compartir una publicación sobre cómo incorpora a socios regionales. La otra no tiene actividad reciente que aporte contexto. Pregunta qué canal elegirían, en qué se basarían y cuándo preferirían no escribir. Una publicación aporta contexto. Por sí sola no demuestra que la persona necesite tu servicio."
+        },
+        {
+          "kind": "table",
+          "title": "Mismo perfil objetivo, dos caminos",
+          "heads": [
+            "Situación",
+            "Qué pedir como prueba",
+            "Cuándo detener el contacto"
+          ],
+          "rows": [
+            [
+              "Publicación reciente y pertinente",
+              "Un borrador que cite un detalle y haga una pregunta proporcionada",
+              "No se puede verificar la referencia"
+            ],
+            [
+              "Sin actividad útil en LinkedIn",
+              "Una explicación de si otro canal aprobado ofrece un motivo mejor",
+              "No hay un canal válido o un motivo pertinente"
+            ],
+            [
+              "Petición de no contacto",
+              "El registro de exclusión y el responsable en todos los canales",
+              "Queda programado algún seguimiento"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lee el texto como si fueras quien lo envía",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un inicio ficticio sería «En tu publicación sobre incorporar a socios regionales hablabas de una lista para la primera semana. ¿Qué puntos acabaste dejando?». Pregunta por qué importa la respuesta y cómo orientaría el siguiente paso. Si hay interés pero no queda claro el encaje, quien revisa el caso debe resolverlo antes de marcar una cita como cualificada."
+        }
+      ]
+    },
+    {
+      "title": "Define quién puede aprobar, pausar y revocar",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Pide por escrito las cuentas, los permisos y las herramientas. Aclara quién valida cambios en listas o mensajes, cómo puedes pausar la actividad y quién retira el acceso al terminar. Contrasta la propuesta con las condiciones vigentes de LinkedIn antes de dar acceso. Pide una demostración de cómo se tramita una solicitud de no contacto."
+        }
+      ]
+    },
+    {
+      "title": "Separa la actividad del traspaso a ventas",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Distingue contactos, respuestas, reuniones celebradas y aceptación comercial. Pide que te enseñen qué campos envían al CRM y qué hacen cuando no se puede verificar el encaje. Compara las propuestas con el mismo traspaso."
+        },
+        {
+          "kind": "record",
+          "title": "Ficha antes de conceder acceso",
+          "rows": [
+            [
+              "Titular de la cuenta",
+              "La persona cuyo perfil se utiliza"
+            ],
+            [
+              "Prueba de aprobación",
+              "Muestra revisada y permiso documentado"
+            ],
+            [
+              "Cómo detener los envíos",
+              "Una persona comprueba LinkedIn y los demás canales autorizados"
+            ],
+            [
+              "Resultado que verificar",
+              "Ventas acepta o rechaza la reunión según los criterios acordados"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Pide a la agencia de generación de leads en LinkedIn que muestre un mensaje aprobado, una respuesta y una solicitud de no contacto. Comprueba quién controla la cuenta y quién se encarga del siguiente paso.",
+  "description": "Compara agencias de generación de leads en LinkedIn con una prueba de acceso y traspaso. Verifica la aprobación de mensajes, la gestión de respuestas y la posibilidad de detener los envíos.",
+  "title": "Prueba el proceso antes de dar acceso a una cuenta",
+  "toc": "Prueba de acceso y contacto",
+  "fiction": "Mensajes y situaciones ficticios. El ejercicio no atribuye herramientas ni prácticas a ninguna empresa de la lista."
+}

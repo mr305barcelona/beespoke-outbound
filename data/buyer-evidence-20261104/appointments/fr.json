@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Comptez une seule fois chaque réservation initiale",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Sur 12 réservations initiales, huit rendez-vous ont eu lieu, deux ont été annulés et deux sont en attente. Deux ont été reportés et gardent leur identifiant initial. Six des huit rendez-vous tenus répondaient aux critères convenus et ont été acceptés par l'équipe commerciale. Les deux autres comptent aussi parmi les rendez-vous tenus."
+        },
+        {
+          "kind": "table",
+          "title": "Mêmes rendez-vous, trois bases de facturation",
+          "heads": [
+            "Base de facturation",
+            "Unités avant ajustements",
+            "Justificatif à demander"
+          ],
+          "rows": [
+            [
+              "Réservations initiales",
+              "12",
+              "Identifiants d'origine et traitement des annulations"
+            ],
+            [
+              "Rendez-vous tenus",
+              "8",
+              "Présence et règle en cas d'absence"
+            ],
+            [
+              "Rendez-vous qualifiés et acceptés",
+              "6",
+              "Présence, critères remplis et décision enregistrée"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rapprochez la facture du contrat",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Demandez à chaque prestataire d'appliquer ses règles au même groupe de rendez-vous. Définissez ce qui déclenche la facturation, si une absence donne lieu à un avoir ou à un remplacement, qui peut refuser un rendez-vous hors cible et dans quel délai. Vérifiez le traitement des doublons, des reports et des rendez-vous en attente à la clôture. Reliez chaque avoir à sa ligne initiale."
+        }
+      ]
+    },
+    {
+      "title": "Comparez le coût du même résultat",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Utilisez la même période et la même devise. Additionnez les frais engagés, le lancement, les outils facturés à part et le temps passé en interne sur le contrôle et le suivi. Déduisez seulement les avoirs justifiés. Divisez le coût par les six rendez-vous acceptés. Si aucun n'est accepté, indiquez la dépense et le nombre zéro. Le coût par rendez-vous accepté ne peut alors pas être calculé."
+        }
+      ]
+    },
+    {
+      "title": "Faites un point chaque semaine",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Recoupez le calendrier, le CRM et la facture. Notez qui a accepté ou refusé le rendez-vous et pourquoi. Gardez le même identifiant après un report. Avant de signer, demandez un exemple de facture avec une ligne contestée."
+        },
+        {
+          "kind": "record",
+          "title": "Exemple de ligne à vérifier",
+          "rows": [
+            [
+              "Identifiant initial",
+              "F-012, reporté une fois"
+            ],
+            [
+              "État",
+              "Tenu"
+            ],
+            [
+              "Décision commerciale",
+              "Refusé, car la fonction sortait du profil convenu"
+            ],
+            [
+              "Facture",
+              "Peut être facturé au titre des rendez-vous tenus. Vérifiez si un avoir s'applique."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Comparez les devis avec la même définition du rendez-vous accepté. Une réservation, un rendez-vous tenu et un rendez-vous qualifié que votre équipe commerciale valide sont trois résultats distincts.",
+  "description": "Comparez les tarifs de prise de rendez-vous B2B selon ce qui est facturé. Rapprochez les rendez-vous réservés, tenus et acceptés, puis calculez le coût par rendez-vous accepté.",
+  "title": "Comparer ce que deux devis facturent réellement",
+  "toc": "Ce qui est facturé",
+  "fiction": "Cas fictif. Les chiffres illustrent les mécanismes contractuels et ne représentent ni résultats ni tarifs."
+}

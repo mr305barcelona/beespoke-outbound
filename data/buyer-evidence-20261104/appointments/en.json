@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Count each original booking once",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Start with 12 original appointments. Eight were held, two were canceled and two are pending. Two were rescheduled and stay under their original booking IDs. Six of the eight held meetings met the agreed criteria and were accepted by sales. The other two held calls still belong in the held count."
+        },
+        {
+          "kind": "table",
+          "title": "Same cohort, three possible billing definitions",
+          "heads": [
+            "Invoice basis",
+            "Units before adjustments",
+            "Evidence to request"
+          ],
+          "rows": [
+            [
+              "Original bookings",
+              "12",
+              "Original booking IDs and the treatment of cancellations"
+            ],
+            [
+              "Held meetings",
+              "8",
+              "Attendance records and the no-show rule"
+            ],
+            [
+              "Accepted qualified meetings",
+              "6",
+              "Attendance, qualification evidence and a recorded decision"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reconcile the invoice against the contract",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Ask each bidder to apply its rules to the same cohort. Specify which records trigger billing, whether no-shows are credited or replaced, who can reject an off-target meeting and when a dispute closes. Ask how duplicates, reschedules and meetings still pending at the invoice cutoff appear on the next invoice. Review how a credit links to its original line."
+        }
+      ]
+    },
+    {
+      "title": "Compare the cost of the same outcome",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Use the same period and currency for every quote. Add committed fees, setup, separately billed tools and the internal time needed to review and follow up. Subtract only documented credits. Divide the resulting cost by the six accepted meetings. If none were accepted, report the total spend and zero accepted meetings. A cost per accepted meeting cannot be calculated in that case."
+        }
+      ]
+    },
+    {
+      "title": "Keep a weekly reconciliation record",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Compare the calendar with the CRM and invoice. Record who accepted or rejected each call and why. Keep original IDs stable when dates move. Ask for a sample invoice and a disputed line before signing."
+        },
+        {
+          "kind": "record",
+          "title": "Example line to reconcile",
+          "rows": [
+            [
+              "Original booking ID",
+              "F-012, moved once"
+            ],
+            [
+              "Calendar status",
+              "Held"
+            ],
+            [
+              "Sales decision",
+              "Rejected because the role fell outside the brief"
+            ],
+            [
+              "Invoice check",
+              "Billable under the held rule if the contract confirms it. Review any agreed credit."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Compare appointment-setting quotes using the same definition of an accepted meeting. A calendar booking, an attended call, and a qualified meeting your sales team accepts are different outcomes.",
+  "description": "Compare B2B appointment-setting pricing by what actually gets billed. Reconcile booked, held and accepted meetings, and calculate the cost per accepted meeting.",
+  "title": "How to compare what two quotes actually bill",
+  "toc": "Compare what gets billed",
+  "fiction": "Fictional cohort. The counts illustrate contract mechanics and do not represent results or rates."
+}

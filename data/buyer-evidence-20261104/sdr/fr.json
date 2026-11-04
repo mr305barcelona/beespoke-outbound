@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Donnez le même brief à chacun",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Imaginez un éditeur B2B qui vend aux responsables des opérations. Il a un CRM et une personne pour assurer les rendez-vous, mais personne pour rechercher des contacts ou traiter les réponses. Donnez à chaque prestataire les mêmes fonctions cibles, zones, exclusions et un exemple de conversation qualifiée. Demandez quelle partie il écarterait et pourquoi."
+        },
+        {
+          "kind": "table",
+          "title": "Choisissez le modèle selon le travail à couvrir",
+          "heads": [
+            "Option",
+            "Ce qu'il faut vérifier",
+            "Ce qui reste au client"
+          ],
+          "rows": [
+            [
+              "SDR dédié",
+              "Qui est affecté, qui prend le relais et qui supervise",
+              "Désigner un responsable et répartir la recherche et la rédaction"
+            ],
+            [
+              "Prospection gérée",
+              "Qui assure la recherche, la rédaction, les envois et le tri",
+              "Valider le ciblage, trancher les cas ambigus et assurer les rendez-vous"
+            ],
+            [
+              "Soutien téléphonique",
+              "Qui appelle, dans quelle langue et comment le résultat est saisi",
+              "Valider les listes, la procédure d'escalade et le passage aux ventes"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Demandez comment le travail est réparti",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Rencontrez la personne responsable de la prestation. Demandez qui valide une liste, accompagne le SDR et prend le relais en son absence. Demandez un exemple anonymisé de revue hebdomadaire avec une décision et son responsable. Notez le temps qui restera à la charge de votre équipe."
+        }
+      ]
+    },
+    {
+      "title": "Répétez le passage de relais dans le CRM",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Soumettez une réponse fictive comme « Quelqu'un d'autre s'en occupe. De quoi s'agit-il ? ». Demandez au prestataire d'enregistrer l'orientation, de vérifier la fonction, de décider de la réponse et d'avertir l'équipe commerciale quand il le faut. Gardez la réponse ouverte tant que la qualification manque."
+        }
+      ]
+    },
+    {
+      "title": "Fixez les conditions de poursuite ou de fin",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Prévoyez une date de bilan et les éléments nécessaires pour poursuivre. Demandez un exemple d'export avec identifiants, versions de messages, réponses et statuts. Confirmez qui peut révoquer les accès et qui garde les documents. Revoyez votre décision si le relais annoncé ne peut être démontré."
+        },
+        {
+          "kind": "record",
+          "title": "Fiche de décision",
+          "rows": [
+            [
+              "Travail à couvrir",
+              "Recherche et tri des réponses"
+            ],
+            [
+              "Preuve attendue",
+              "Démonstration du passage de relais et suppléant désigné"
+            ],
+            [
+              "Engagement interne",
+              "Une personne pour les validations et les cas ambigus"
+            ],
+            [
+              "Quand réexaminer",
+              "Le prestataire ne peut pas expliquer comment il traite les réponses ambiguës ou contestées"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Présélectionnez les prestataires de SDR externalisés selon le travail dont votre équipe a besoin. Donnez-leur le même brief et vérifiez qui fait le travail et comment l'équipe gère une réponse ambiguë.",
+  "description": "Comparez les prestataires de SDR externalisés sur un brief commun. Vérifiez l'équipe, la supervision, la qualification, le relais dans le CRM et les données conservées.",
+  "title": "Soumettez le même exercice à chaque prestataire SDR",
+  "toc": "Comparer les offres SDR",
+  "fiction": "Exercice d’achat fictif. Les options illustrent des modèles de prestation, sans les attribuer aux entreprises de la liste."
+}

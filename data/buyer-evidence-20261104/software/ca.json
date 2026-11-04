@@ -1,0 +1,98 @@
+{
+  "sections": [
+    {
+      "title": "Parteix de la mateixa càrrega",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un equip de programari vol investigar i prospectar un segment aprovat. Ha de classificar respostes, tramitar baixes i lliurar casos que accepti vendes. L’eina cobreix dades i enviament. El client encara ha d’assignar recerca, missatges, revisió i respostes. La proposta gestionada cobreix l’execució acordada. El client aprova el públic i les afirmacions, atén dubtes experts i porta reunions."
+        },
+        {
+          "kind": "table",
+          "title": "Dades que cal comprovar",
+          "heads": [
+            "Dada",
+            "Programari",
+            "Agència"
+          ],
+          "rows": [
+            [
+              "Arrencada",
+              "Integració, revisió de dades i formació.",
+              "Feina inicial i quota si consta a la proposta."
+            ],
+            [
+              "Cost recurrent",
+              "Eines, dades i cost d’hores internes.",
+              "Quota, extres i temps intern de revisió i aprovació."
+            ],
+            [
+              "Cobertura",
+              "Operador i suplent per a respostes i excepcions.",
+              "Cobertura del proveïdor i responsable d’escalat del client."
+            ],
+            [
+              "Resultat",
+              "Oportunitats acceptades del mateix grup apte.",
+              "Mateixa regla d’acceptació i període d’observació."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comprova el temps abans de comparar",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "L’equip estima 20 hores mensuals amb programari i vuit amb gestió externa. En tres mesos són 60 i 24 hores. Comprova agendes i suplències. Introdueix hores i costos mensuals als camps mensuals i l’arrencada als de pagament únic. Converteix tots els imports a USD abans d’introduir-los. La calculadora mostra USD i no converteix divises. Una dada pendent continua oberta encara que un zero permeti calcular."
+        }
+      ]
+    },
+    {
+      "title": "Compara resultats equivalents",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Si el programari té cinc oportunitats acceptades i l’agència tres acceptades i dues pendents, els totals dividits per cinc i tres descriuen el que ha passat fins avui. Espera un seguiment equivalent. Registra l’oportunitat acceptada a part d’una resposta o reserva. Amb zero acceptades, el cost per oportunitat queda indefinit. El llindar de la calculadora depèn de les dades i no prediu resultats."
+        }
+      ]
+    },
+    {
+      "title": "Recorre la decisió",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Decisió completada",
+          "rows": [
+            [
+              "Límit",
+              "El client té vuit hores per aprovar i revisar, però ningú per fer la resta."
+            ],
+            [
+              "Decisió",
+              "Defineix execució gestionada per a un segment si es cobreixen respostes i el client pot atendre escalats."
+            ],
+            [
+              "Reconsiderar",
+              "Si hi ha un operador format i un suplent, prova programari amb el mateix abast. Si ningú porta reunions, ajorna les dues compres."
+            ],
+            [
+              "Traspàs",
+              "Comprova que puguis fer servir instruccions, registres permesos, regles de resposta i exclusions en canviar de model."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Contrasta la primera revisió amb l’abast i els traspassos acceptats. Una quota menor no resol per si sola la manca de cobertura."
+        }
+      ]
+    }
+  ],
+  "answer": "Compra programari si una persona pot investigar comptes, prospectar i gestionar respostes, amb temps de supervisió. Contracta execució gestionada si aquestes tasques són l’entrebanc. Compara el mateix abast de 90 dies i comprova qui farà la feina abans de decidir amb els totals.",
+  "description": "Compara programari i agència de captació en 90 dies amb el mateix abast, temps intern i definició d’oportunitat.",
+  "title": "Fes servir la calculadora per a una decisió de 90 dies",
+  "toc": "Exemple de programari i agència",
+  "fiction": "L’equip, les hores i les decisions són ficticis. Fes servir els teus pressupostos i hores registrades."
+}

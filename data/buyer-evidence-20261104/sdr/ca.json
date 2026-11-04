@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Dona a tothom el mateix encàrrec",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Imagina una empresa de programari B2B que ven a responsables d’operacions. Té un CRM i algú que atén les reunions, però ningú investiga contactes ni classifica respostes. Dona a tothom els mateixos càrrecs, mercats, exclusions i un exemple de conversa qualificada. Pregunta quina part de l’encàrrec descartarien i per què."
+        },
+        {
+          "kind": "table",
+          "title": "Tria el model segons la feina pendent",
+          "heads": [
+            "Opció",
+            "Què cal verificar",
+            "Què queda en mans del comprador"
+          ],
+          "rows": [
+            [
+              "SDR dedicat",
+              "Qui hi treballa, qui cobreix absències i qui supervisa",
+              "Assignar un responsable i definir qui prepara llistes i textos"
+            ],
+            [
+              "Prospecció gestionada",
+              "Qui investiga, redacta, envia i classifica respostes",
+              "Aprovar la segmentació, resoldre dubtes i atendre reunions"
+            ],
+            [
+              "Suport telefònic",
+              "Qui truca, en quina llengua i com registra el resultat",
+              "Validar llistes, criteris de derivació i traspàs a vendes"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Demana proves del repartiment de la feina",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Parla amb la persona que dirigeix el servei. Demana-li qui valida una llista, orienta l’SDR i cobreix les respostes quan no hi és. Sol·licita un exemple anonimitzat de revisió setmanal que mostri una decisió i el seu responsable. Anota el temps que haurà de dedicar-hi el teu equip."
+        }
+      ]
+    },
+    {
+      "title": "Assaja el traspàs al CRM",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Fes servir una resposta fictícia com «Això ho porta una altra persona. De què es tracta?». Demana que registrin la derivació, comprovin el càrrec nou, decideixin què respondre i avisin vendes quan pertoqui. Mantén la resposta oberta fins que hi hagi motius per qualificar-la."
+        }
+      ]
+    },
+    {
+      "title": "Acorda com es revisa o es tanca el servei",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Fixa una data de revisió i quines proves caldran per continuar. Demana una exportació de mostra amb identificadors, versions dels missatges, respostes i estats. Confirma qui pot revocar els accessos i qui conserva els materials. Revisa la decisió si no es pot demostrar la cobertura acordada."
+        },
+        {
+          "kind": "record",
+          "title": "Fitxa de decisió",
+          "rows": [
+            [
+              "Feina pendent",
+              "Recerca i classificació de respostes"
+            ],
+            [
+              "Prova necessària",
+              "Demostració del traspàs i una persona suplent assignada"
+            ],
+            [
+              "Compromís intern",
+              "Una persona per a aprovacions i dubtes"
+            ],
+            [
+              "Quan cal revisar-ho",
+              "El proveïdor no pot explicar com gestiona respostes ambigües o discrepàncies"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Tria proveïdors d’SDR externs segons la feina que necessita l’equip. Dona’ls el mateix encàrrec i comprova qui el fa i com gestiona una resposta ambigua.",
+  "description": "Compara empreses d’externalització d’SDR amb el mateix encàrrec. Verifica l’equip, la supervisió, la qualificació, el traspàs al CRM i les dades que conserves.",
+  "title": "Planteja el mateix exercici a cada proveïdor d’SDR",
+  "toc": "Compara propostes d’SDR",
+  "fiction": "Exercici de compra fictici. Les opcions descriuen models de servei i no s’atribueixen a les empreses de la llista."
+}

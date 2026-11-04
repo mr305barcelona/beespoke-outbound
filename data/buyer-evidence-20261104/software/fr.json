@@ -1,0 +1,98 @@
+{
+  "sections": [
+    {
+      "title": "Partez de la même charge",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un éditeur veut rechercher et prospecter un segment validé. Il doit classer les réponses, traiter les refus et transmettre des dossiers que les ventes acceptent. L’outil couvre données et envois. Le client attribue recherche, messages, contrôle et réponses. La proposition gérée couvre l’exécution convenue. Le client valide cible et affirmations, traite les questions expertes et mène les rendez-vous."
+        },
+        {
+          "kind": "table",
+          "title": "Données à vérifier",
+          "heads": [
+            "Entrée",
+            "Logiciel",
+            "Agence"
+          ],
+          "rows": [
+            [
+              "Démarrage",
+              "Intégration, contrôle des données et formation.",
+              "Travail initial et frais éventuels au devis."
+            ],
+            [
+              "Coût récurrent",
+              "Outils, données et temps de travail interne.",
+              "Forfait, frais séparés et temps client de validation."
+            ],
+            [
+              "Couverture",
+              "Opérateur et suppléant pour les réponses et exceptions.",
+              "Couverture du prestataire et relais côté client."
+            ],
+            [
+              "Résultat",
+              "Opportunités acceptées issues du même groupe admissible.",
+              "Même règle d’acceptation et même fenêtre."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vérifiez le temps avant de comparer",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "L’équipe prévoit 20 heures par mois avec le logiciel et huit avec la prestation gérée. Sur trois mois, cela donne 60 et 24 heures. Vérifiez les agendas et la suppléance. Saisissez les heures et frais mensuels dans les champs mensuels et le démarrage dans les frais uniques. Convertissez les montants en USD avant de les saisir. Le calculateur affiche les USD et ne convertit pas les devises. Un montant inconnu reste ouvert, même si un zéro permet un calcul."
+        }
+      ]
+    },
+    {
+      "title": "Comparez des résultats équivalents",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Si le logiciel compte cinq opportunités acceptées et l’agence trois acceptées et deux en attente, diviser les totaux par cinq et trois décrit le bilan à date. Attendez des suivis comparables. Distinguez l’opportunité acceptée d’une réponse ou d’une réservation. À zéro opportunité acceptée, le coût unitaire est indéfini. Le seuil du calculateur dépend des données et ne prédit aucun résultat."
+        }
+      ]
+    },
+    {
+      "title": "Parcourez la décision",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Fiche de décision complétée",
+          "rows": [
+            [
+              "Contrainte",
+              "Le client a huit heures pour valider et contrôler, mais personne pour le reste."
+            ],
+            [
+              "Décision",
+              "Cadrez une prestation gérée sur un segment si les réponses sont couvertes et si le client peut traiter les questions transmises."
+            ],
+            [
+              "Réexamen",
+              "Si un opérateur formé et un suppléant sont disponibles, testez le logiciel sur le même périmètre. Si personne ne mène les rendez-vous, reportez l’achat."
+            ],
+            [
+              "Passation",
+              "Vérifiez la réutilisation du cahier des charges, des fiches autorisées, des règles de réponse et des exclusions."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Comparez la première revue au périmètre et aux transmissions acceptées. Un abonnement moins cher ne résout pas un défaut de couverture."
+        }
+      ]
+    }
+  ],
+  "answer": "Choisissez un logiciel si quelqu’un peut rechercher les comptes, gérer les envois et traiter les réponses, avec un encadrement disponible. Choisissez une prestation gérée si ces tâches manquent. Comparez le même périmètre sur 90 jours et vérifiez qui peut l’exécuter avant de décider à partir des totaux.",
+  "description": "Comparez logiciel et agence de génération de leads sur 90 jours avec un périmètre, un temps interne et des opportunités comparables.",
+  "title": "Utilisez le calculateur pour décider sur 90 jours",
+  "toc": "Exemple logiciel ou agence",
+  "fiction": "L’équipe, les heures et les décisions sont fictives. Utilisez vos propres devis et relevés de temps."
+}

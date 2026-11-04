@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Fes servir dos perfils del mateix encàrrec",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Dona a cada agència dos perfils ficticis amb càrrecs semblants. Una persona acaba de compartir una publicació sobre com incorpora socis regionals. L’altra no té activitat recent que aporti context. Pregunta quin canal triarien, en què es basarien i quan preferirien no escriure. Una publicació dona context. Per si sola no demostra que la persona necessiti el teu servei."
+        },
+        {
+          "kind": "table",
+          "title": "Mateix perfil objectiu, dos camins",
+          "heads": [
+            "Situació",
+            "Què cal demanar",
+            "Quan cal aturar el contacte"
+          ],
+          "rows": [
+            [
+              "Publicació recent i pertinent",
+              "Un esborrany que esmenti un detall i faci una pregunta proporcionada",
+              "No es pot verificar la referència"
+            ],
+            [
+              "Sense activitat útil a LinkedIn",
+              "Una explicació de si un altre canal aprovat ofereix un motiu millor",
+              "No hi ha cap via vàlida o cap motiu pertinent"
+            ],
+            [
+              "Petició perquè deixin d’escriure",
+              "El registre d’exclusió i el responsable a tots els canals",
+              "Encara hi ha un seguiment programat"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Llegeix el text amb la veu de qui l’envia",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un inici fictici seria «A la publicació sobre incorporar socis regionals parlaves d’una llista per a la primera setmana. Quins punts hi vas acabar deixant?». Pregunta per què importa la resposta i què en faria l’equip. Si hi ha interès però l’encaix és incert, qui revisa el cas ho ha de resoldre abans de marcar la reunió com a qualificada."
+        }
+      ]
+    },
+    {
+      "title": "Acorda qui pot aprovar, aturar i revocar",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Demana per escrit la llista de comptes, permisos i eines. Aclareix qui aprova els canvis de llistes i missatges, com pots aturar els enviaments i qui retira els accessos en acabar. Contrasta el procés amb les condicions vigents de LinkedIn abans de donar accés. Demana una demostració d’una petició perquè deixin d’escriure."
+        }
+      ]
+    },
+    {
+      "title": "Separa l’activitat del traspàs a vendes",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Distingeix contactes, respostes, reunions fetes i acceptació comercial. Demana que et mostrin els camps que envien al CRM i què fan si no es pot verificar l’encaix. Compara les propostes amb el mateix traspàs."
+        },
+        {
+          "kind": "record",
+          "title": "Fitxa abans de concedir accés",
+          "rows": [
+            [
+              "Titular del compte",
+              "La persona de qui es fa servir el perfil"
+            ],
+            [
+              "Prova d’aprovació",
+              "Mostra revisada i permís documentat"
+            ],
+            [
+              "Com s’aturen els enviaments",
+              "Una persona comprova LinkedIn i els altres canals autoritzats"
+            ],
+            [
+              "Resultat que cal verificar",
+              "Vendes accepta o rebutja la reunió segons els criteris acordats"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Demana a l’agència de generació de contactes a LinkedIn que mostri un missatge aprovat, una resposta i una petició perquè deixin d’escriure. Comprova qui controla el compte i qui assumeix el pas següent.",
+  "description": "Compara agències de generació de contactes a LinkedIn amb una prova d’accés i traspàs. Verifica l’aprovació dels missatges, les respostes i com s’aturen els enviaments.",
+  "title": "Prova el procés abans de donar accés al compte",
+  "toc": "Prova d’accés i contacte",
+  "fiction": "Missatges i situacions ficticis. L’exercici no atribueix eines ni pràctiques a cap empresa de la llista."
+}

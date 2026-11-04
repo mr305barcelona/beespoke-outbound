@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Identifica dónde se atascan los contactos",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un equipo necesita iniciar conversaciones en un mercado nuevo. Otro recibe buenas consultas, pero responde tarde. Un tercero ya prospecta y necesita investigar mejor las cuentas. Aunque los tres pidan generación de leads, cada uno necesita un resultado distinto."
+        },
+        {
+          "kind": "table",
+          "title": "Relaciona el trabajo con el problema",
+          "heads": [
+            "Situación",
+            "Qué pedir como prueba",
+            "Cuándo descartar la propuesta"
+          ],
+          "rows": [
+            [
+              "No hay prospección en el mercado objetivo",
+              "Una lista aprobada de ejemplo, un borrador y una respuesta traspasada a ventas",
+              "El equipo no cubre el idioma o la región"
+            ],
+            [
+              "Las consultas existentes quedan sin atender",
+              "Un ejemplo de consulta recibida, asignada y atendida",
+              "Nadie se responsabiliza de las respuestas"
+            ],
+            [
+              "La prospección funciona, pero falla la investigación",
+              "Una exportación de muestra con fuentes fechadas y exclusiones documentadas",
+              "No se puede verificar cómo se eligieron las cuentas"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dale a cada agencia el mismo encargo",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Comparte los cargos objetivo, los mercados, las exclusiones, los canales disponibles y quién puede atender las reuniones. Aplica el mismo criterio para aceptar un traspaso. Pide que indiquen qué asumen, qué tendrás que aprobar y qué excluirían. Contrasta cada propuesta con tus necesidades antes de puntuarla."
+        }
+      ]
+    },
+    {
+      "title": "Pide pruebas que correspondan al trabajo",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Una muestra de investigación no demuestra que la agencia gestione respuestas. El número de reuniones no indica cuántas aceptó el equipo comercial. Solicita un ejemplo anonimizado pertinente o una demostración ficticia. Comprueba cómo se gestiona una excepción, dónde queda registrada y quién decide."
+        }
+      ]
+    },
+    {
+      "title": "Decide y fija cuándo volver a revisar",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Anota el alcance elegido, el responsable interno y qué queda por verificar antes de empezar. Revisa la decisión si cambia el problema de partida o falla un requisito acordado de traspaso. Aplica el mismo criterio de prueba a cualquier alternativa."
+        },
+        {
+          "kind": "record",
+          "title": "Ejemplo de ficha de selección",
+          "rows": [
+            [
+              "Problema",
+              "Hay buenas consultas pendientes de asignación"
+            ],
+            [
+              "Demostración requerida",
+              "Una consulta ficticia llega al equipo correcto y recibe respuesta"
+            ],
+            [
+              "Responsable interno",
+              "Operaciones comerciales asigna la cobertura y valida el traspaso"
+            ],
+            [
+              "Cuándo revisar",
+              "Una consulta válida queda sin responsable según el proceso acordado"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Elige una agencia de generación de leads B2B según el trabajo que falta. Compara las propuestas con el mismo encargo y pide pruebas de que cada equipo puede resolver el problema concreto.",
+  "description": "Compara agencias de generación de leads B2B según el trabajo que necesitas. Usa el mismo encargo para evaluar prospección, seguimiento, investigación y traspaso a ventas.",
+  "title": "Compara las agencias según el trabajo que necesitas",
+  "toc": "Comprueba el encaje de las propuestas",
+  "fiction": "Tres casos ficticios de compra. Los ejemplos no describen a ninguna empresa de la lista ni sus resultados."
+}

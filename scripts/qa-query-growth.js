@@ -80,13 +80,14 @@ assert.equal((4000 + 500) / 15, 300);
 assert(example.callout.includes("undefined, not zero"), "Guard the zero-meeting denominator");
 
 const localeIndex = { es: 1, ca: 2, fr: 3 };
+const reviewedDescription = require('./reviewed-publication').buyerDescription;
 const translated = (value, locale) => softwareComparison.dictionaries[locale][value] || sprint.dictionaries[locale][value] || copy.find((row) => row[0] === value)?.[localeIndex[locale]];
 for (const url of rankingLeveragePaths) {
   const page = pages.find((candidate) => candidate.path === url);
   const english = fs.readFileSync(path.join(root, url, "index.html"), "utf8");
   const englishConfig=url==='/guides/cold-email-agency/'?require('../data/agency-article-20261102/en'):{...(englishGrowth.config[url] || (url===broadGrowth.call?broadGrowth.callCopy.en:trafficGrowth.english[url])||{}),...(require('../data/buyer-clarity-20261027').metadata[url]||{})};
   assert(english.includes(`<title>${escape(englishConfig?.title || page.title)}</title>`), `${url}: optimized English title missing`);
-  assert(english.includes(`content="${escape(englishConfig?.description || page.description)}"`), `${url}: optimized English description missing`);
+  assert(english.includes(`content="${escape(reviewedDescription(url, "en", englishConfig?.description || page.description))}"`), `${url}: optimized English description missing`);
   assert(english.includes((url==='/guides/cold-email-agency/'?require('../data/agency-article-20261102/en').updated:reviewedDate(url,updatedDates.get(url)))), `${url}: ranking-leverage update date missing`);
   for (const locale of Object.keys(localeIndex)) {
     const file = path.join(root, locale, url, "index.html");
@@ -95,7 +96,7 @@ for (const url of rankingLeveragePaths) {
     assert.equal(typeof translated(page.description, locale), "string", `${url}: ${locale} description translation missing`);
     const route=`/${locale}${url}`, localConfig=url==='/guides/cold-email-agency/'?require('../data/agency-article-20261102/'+locale):{...(url===broadGrowth.call?broadGrowth.callCopy[locale]:localeGrowth.pages[route]),...(require('../data/buyer-clarity-20261027').metadata[route]||{})};
     assert(html.includes(`<title>${escape(localConfig?.title || translated(page.title, locale))}</title>`), `${file}: optimized localized title missing`);
-    assert(html.includes(`content="${escape(localConfig?.description || translated(page.description, locale))}"`), `${file}: optimized localized description missing`);
+    assert(html.includes(`content="${escape(reviewedDescription(url, locale, localConfig?.description || translated(page.description, locale)))}"`), `${file}: optimized localized description missing`);
     assert(html.includes((url==='/guides/cold-email-agency/'?require('../data/agency-article-20261102/'+locale).updated:reviewedDate(route,updatedDates.get(url)))), `${file}: localized ranking-leverage date missing`);
   }
 }

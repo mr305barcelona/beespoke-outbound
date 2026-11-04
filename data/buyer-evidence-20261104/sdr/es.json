@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Dale a cada proveedor el mismo encargo",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Imagina una empresa de software B2B que vende a responsables de operaciones. Tiene un CRM y a alguien que atiende reuniones, pero nadie investiga contactos ni clasifica respuestas. Entrega a todos los mismos cargos, mercados, exclusiones y un ejemplo de conversación cualificada. Pregunta qué parte del encargo no asumirían y por qué."
+        },
+        {
+          "kind": "table",
+          "title": "Ajusta el modelo de servicio al trabajo pendiente",
+          "heads": [
+            "Opción",
+            "Qué verificar",
+            "Qué queda en manos del comprador"
+          ],
+          "rows": [
+            [
+              "SDR dedicado",
+              "Quién está asignado, quién cubre ausencias y quién supervisa",
+              "Nombrar a un responsable y definir quién prepara listas y textos"
+            ],
+            [
+              "Prospección gestionada",
+              "Quién investiga, redacta, envía y clasifica respuestas",
+              "Aprobar la segmentación, resolver dudas y atender reuniones"
+            ],
+            [
+              "Apoyo telefónico",
+              "Quién llama, en qué idioma y cómo registra el resultado",
+              "Validar listas, criterios de escalado y traspaso a ventas"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pide pruebas de cómo se reparte el trabajo",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Habla con quien dirige el servicio. Pide que explique quién valida una lista, asesora al SDR y cubre las respuestas en su ausencia. Solicita un ejemplo anonimizado de una revisión semanal con una decisión y su responsable. Anota cuánto tiempo tendrás que dedicar tú."
+        }
+      ]
+    },
+    {
+      "title": "Ensaya el traspaso al CRM",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Usa una respuesta ficticia como «Esto lo lleva otra persona. ¿De qué se trata?». Pide a cada proveedor que registre la derivación, verifique el nuevo cargo, decida qué responder y avise a ventas cuando corresponda. Mantén la respuesta abierta hasta que haya motivos para considerarla cualificada."
+        }
+      ]
+    },
+    {
+      "title": "Acuerda cómo se revisa o se cierra el servicio",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Fija una fecha de revisión y las pruebas necesarias para seguir. Solicita una exportación de muestra con identificadores, versiones de mensajes, respuestas y estados. Confirma quién puede revocar accesos y quién conserva los materiales. Revisa la decisión si no se demuestra la cobertura prometida."
+        },
+        {
+          "kind": "record",
+          "title": "Ficha de decisión",
+          "rows": [
+            [
+              "Trabajo pendiente",
+              "Investigación y clasificación de respuestas"
+            ],
+            [
+              "Prueba necesaria",
+              "Demostración del traspaso y un suplente asignado"
+            ],
+            [
+              "Compromiso interno",
+              "Una persona para aprobaciones y dudas"
+            ],
+            [
+              "Cuándo revisar",
+              "El proveedor no puede explicar cómo gestiona respuestas ambiguas o disputas"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Elige proveedores de SDR externos según el trabajo que necesita tu equipo. Dales el mismo encargo y comprueba quién lo ejecuta y cómo gestiona una respuesta ambigua.",
+  "description": "Compara empresas de externalización de SDR con el mismo encargo. Verifica el equipo, la supervisión, la cualificación, el traspaso al CRM y los datos que conservas.",
+  "title": "Plantea el mismo ejercicio a cada proveedor de SDR",
+  "toc": "Compara propuestas de SDR",
+  "fiction": "Ejercicio ficticio de compra. Las opciones describen modelos de servicio, sin atribuirlos a las empresas de la lista."
+}

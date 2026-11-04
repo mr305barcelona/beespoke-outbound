@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Give everyone the same brief",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Imagine a small B2B software team that sells to operations leaders. It has a CRM and someone who can take sales calls, but nobody owns list research or reply triage. Give every bidder the same buyer roles, regions, exclusions and example of a qualified conversation. Ask which parts of the brief they would decline and why."
+        },
+        {
+          "kind": "table",
+          "title": "Match the operating model to the missing work",
+          "heads": [
+            "Option",
+            "What to verify",
+            "Where the buyer still has work"
+          ],
+          "rows": [
+            [
+              "Dedicated SDR capacity",
+              "Who is assigned, who covers absences and who coaches",
+              "Assign a manager and clarify who builds lists and writes copy"
+            ],
+            [
+              "Managed outbound",
+              "Who owns research, messaging, sending and reply triage",
+              "Approve targeting, decide on ambiguous replies and take sales calls"
+            ],
+            [
+              "Calling support",
+              "Who calls, in what language and how dispositions are recorded",
+              "Confirm approved lists, escalation and call handoff"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ask for proof of day-to-day ownership",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Ask to meet the delivery lead. Have them map who approves a list, coaches a rep and covers replies when the assigned person is away. Request a redacted example of a weekly review with an actual decision and its owner. Record which tasks still require your team's time."
+        }
+      ]
+    },
+    {
+      "title": "Rehearse the CRM handoff",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Use a fictional reply such as “Someone else handles this. Can you tell me what it's about?” Ask each bidder to show how it records the referral, verifies the new role, decides what to send and alerts sales. Keep the record as an open reply until there is enough evidence for a qualified handoff."
+        }
+      ]
+    },
+    {
+      "title": "Decide what happens at renewal or exit",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Agree on a review date and the evidence required to continue. Request a sample export with account IDs, message versions, reply history and dispositions. Confirm who can revoke access and who retains working assets. Revisit the decision if the promised backup or triage coverage cannot be demonstrated."
+        },
+        {
+          "kind": "record",
+          "title": "Shortlist decision record",
+          "rows": [
+            [
+              "Missing work",
+              "Research and reply triage"
+            ],
+            [
+              "Evidence to accept",
+              "A live handoff demonstration and a named backup role"
+            ],
+            [
+              "Buyer commitment",
+              "One owner for approvals and escalations"
+            ],
+            [
+              "Revisit when",
+              "The provider cannot show how disputed or uncertain replies are handled"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Shortlist an outsourced SDR provider by the job your team needs done. Give each bidder the same brief, then verify who does the work and how they handle an uncertain reply.",
+  "description": "Compare outsourced SDR companies with one buyer brief. Verify staffing, supervision, qualification, CRM handoff and what you retain at the end.",
+  "title": "Run the same buying exercise with every SDR provider",
+  "toc": "Compare SDR proposals",
+  "fiction": "Fictional buying exercise. The options below describe service models, not the named providers in the shortlist."
+}

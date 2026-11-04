@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Identifica on s’encallen els contactes",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un equip ha d’obrir converses en un mercat nou. Un altre rep bones consultes, però respon tard. Un tercer ja prospecta i necessita investigar millor les empreses. Tot i que tots tres demanin captació de contactes, cadascun necessita un resultat diferent."
+        },
+        {
+          "kind": "table",
+          "title": "Relaciona la feina amb el problema",
+          "heads": [
+            "Situació",
+            "Què cal demanar",
+            "Quan cal descartar la proposta"
+          ],
+          "rows": [
+            [
+              "No hi ha prospecció al mercat objectiu",
+              "Una llista aprovada de mostra, un esborrany i una resposta traspassada a vendes",
+              "L’equip no cobreix la llengua o la regió"
+            ],
+            [
+              "Les consultes queden sense atendre",
+              "Un exemple de consulta rebuda, assignada i atesa",
+              "Ningú es fa responsable de les respostes"
+            ],
+            [
+              "La prospecció funciona, però falla la recerca",
+              "Una exportació de mostra amb fonts datades i exclusions documentades",
+              "No es pot comprovar com s’han triat les empreses"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dona a cada agència el mateix encàrrec",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Comparteix els càrrecs objectiu, els mercats, les exclusions, els canals disponibles i qui pot atendre les reunions. Aplica el mateix criteri per acceptar un traspàs. Demana què assumeixen, què hauràs d’aprovar i què exclourien. Contrasta cada proposta amb les necessitats abans de puntuar-la."
+        }
+      ]
+    },
+    {
+      "title": "Demana proves que corresponguin a la feina",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Una mostra de recerca no demostra que l’agència gestioni respostes. El recompte de reunions no diu quantes n’ha acceptat vendes. Demana un exemple anonimitzat pertinent o una demostració fictícia. Comprova com es resol una excepció, on es registra i qui decideix."
+        }
+      ]
+    },
+    {
+      "title": "Pren una decisió i fixa quan cal revisar-la",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Anota l’abast triat, el responsable intern i què queda per comprovar abans de començar. Revisa la decisió si canvia el problema de partida o falla un requisit acordat del traspàs. Exigeix la mateixa prova a qualsevol alternativa."
+        },
+        {
+          "kind": "record",
+          "title": "Exemple de fitxa de selecció",
+          "rows": [
+            [
+              "Problema",
+              "Hi ha bones consultes pendents d’assignació"
+            ],
+            [
+              "Demostració requerida",
+              "Una consulta fictícia arriba a l’equip adequat i rep resposta"
+            ],
+            [
+              "Responsable intern",
+              "Operacions comercials assigna la cobertura i valida el traspàs"
+            ],
+            [
+              "Quan cal revisar",
+              "Una consulta vàlida queda sense responsable segons el procés acordat"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Tria una agència de captació B2B segons la feina pendent. Compara les propostes amb el mateix encàrrec i demana proves que cada equip pot resoldre el problema concret.",
+  "description": "Compara agències de captació B2B segons la feina que necessites. Fes servir un sol encàrrec per valorar prospecció, seguiment, recerca i traspàs a vendes.",
+  "title": "Compara les agències segons la feina que necessites",
+  "toc": "Comprova l’encaix de les propostes",
+  "fiction": "Tres casos de compra ficticis. Els exemples no descriuen cap empresa de la llista ni els seus resultats."
+}

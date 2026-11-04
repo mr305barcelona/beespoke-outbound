@@ -16,5 +16,17 @@ const workedGuideRoutes = new Set([
  '/compare/lead-generation-agency-vs-in-house-team/','/guides/outsourced-sdr-pros-and-cons/',
  '/compare/sdr-vs-bdr-outsourcing/'
 ].flatMap(p=>['','/es','/ca','/fr'].map(prefix=>prefix+p)));
-const dateFor=(route,fallback)=>workedGuideRoutes.has(route)?'2026-11-04':/^(?:\/(?:es|ca|fr))?\/guides\/b2b-lead-generation-consultant-vs-agency\/$/.test(route)?'2026-11-04':/^(?:\/(?:es|ca|fr))?\/guides\/outsourced-sdr-vs-lead-generation-agency\/$/.test(route)?'2026-11-03':outboundOwnerRoutes.has(route)?'2026-10-29':buyerRoutes.has(route)?'2026-10-27':contentRoutes.has(route)?'2026-10-26':routes.includes(route)?'2026-10-20':fallback;
-module.exports={revise,dateFor};
+const buyerEvidenceRoutes = new Map([
+  ['/compare/lead-generation-agency-vs-software/', 'software'],
+  ['/guides/appointment-setting-pricing/', 'appointments'],
+  ['/guides/best-outsourced-sdr-companies/', 'sdr'],
+  ['/guides/best-linkedin-lead-generation-agencies/', 'linkedin'],
+  ['/guides/best-b2b-lead-generation-agencies/', 'b2b']
+]);
+const unlocalized = route => route.replace(/^\/(?:es|ca|fr)(?=\/)/, '');
+function buyerDescription(route, locale, fallback) {
+  const guide = buyerEvidenceRoutes.get(unlocalized(route));
+  return guide ? require('../data/buyer-evidence-20261104/' + guide + '/' + locale).description : fallback;
+}
+const dateFor=(route,fallback)=>workedGuideRoutes.has(route)||buyerEvidenceRoutes.has(unlocalized(route))?'2026-11-04':/^(?:\/(?:es|ca|fr))?\/guides\/b2b-lead-generation-consultant-vs-agency\/$/.test(route)?'2026-11-04':/^(?:\/(?:es|ca|fr))?\/guides\/outsourced-sdr-vs-lead-generation-agency\/$/.test(route)?'2026-11-03':outboundOwnerRoutes.has(route)?'2026-10-29':buyerRoutes.has(route)?'2026-10-27':contentRoutes.has(route)?'2026-10-26':routes.includes(route)?'2026-10-20':fallback;
+module.exports={revise,dateFor,buyerDescription};

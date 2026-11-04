@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Write down where prospects are getting stuck",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "One team needs to start conversations in a market it has never contacted. Another receives good inbound inquiries but responds too slowly. A third already runs outreach and needs cleaner account research. Each team needs a different deliverable, even if all three ask for lead generation."
+        },
+        {
+          "kind": "table",
+          "title": "Match the work to the constraint",
+          "heads": [
+            "Buyer situation",
+            "Evidence to ask for",
+            "Reason to rule out a proposal"
+          ],
+          "rows": [
+            [
+              "No outreach operation in the target market",
+              "An example approved list, a draft and a reply-to-sales handoff",
+              "The team cannot cover the language or region"
+            ],
+            [
+              "Existing inquiries go unanswered",
+              "A sample lead routed from intake to an assigned person and acknowledged",
+              "No agreed owner covers replies"
+            ],
+            [
+              "Outreach works but account research is weak",
+              "A sample export with dated sources and documented exclusions",
+              "There is no way to check how accounts were selected"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Give every agency the same brief",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Share the buyer roles, geography, exclusions, available channels and who can take meetings. Set the same acceptance rule for a good handoff. Ask each team to mark what it owns, what it needs you to approve and what it would remove from scope. Compare the deliverables against those constraints before looking at a combined score."
+        }
+      ]
+    },
+    {
+      "title": "Ask for evidence that matches the work",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "A research sample cannot prove that a provider manages replies. A meeting count does not show whether the buyer accepted those meetings. Ask for a relevant, redacted sample or a live rehearsal with fictional details. Check how an exception is handled, where it is logged and who decides what happens next."
+        }
+      ]
+    },
+    {
+      "title": "Make the decision and set a review trigger",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Write down the chosen scope, your internal owner and the unresolved condition you must verify before kickoff. Review the decision when the original bottleneck changes or an agreed handoff requirement fails. Use the same evidence rules for an alternative bidder."
+        },
+        {
+          "kind": "record",
+          "title": "Example shortlist record",
+          "rows": [
+            [
+              "Constraint",
+              "Good inbound inquiries wait for an owner"
+            ],
+            [
+              "Required demonstration",
+              "A fictional request reaches the right sales queue and is acknowledged"
+            ],
+            [
+              "Buyer owner",
+              "Sales operations assigns coverage and accepts the handoff"
+            ],
+            [
+              "Revisit when",
+              "A valid inquiry has no owner under the agreed procedure"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Choose a B2B lead generation agency by the work that is missing. Compare proposals on the same buyer brief, then require proof that each bidder can handle your actual constraint.",
+  "description": "Compare B2B lead generation agencies by the work you need done. Use one brief to test outbound, inbound follow-up, research and the handoff to sales.",
+  "title": "Compare agencies against the job you need done",
+  "toc": "Test the fit of each proposal",
+  "fiction": "Three fictional buyer situations. The examples do not describe any named provider or its results."
+}

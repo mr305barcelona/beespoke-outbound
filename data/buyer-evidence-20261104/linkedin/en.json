@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Use two prospects from the same brief",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Give bidders two fictional prospects with comparable roles. One recently shared a practical post about onboarding regional partners. The other has no recent activity that adds context. Ask how the provider would choose a channel, what evidence supports it and when it would skip outreach. A public post gives context. It does not prove that the author needs your service."
+        },
+        {
+          "kind": "table",
+          "title": "The same targeting brief, two paths",
+          "heads": [
+            "Scenario",
+            "Evidence to request",
+            "What would stop the approach"
+          ],
+          "rows": [
+            [
+              "Recent, relevant public post",
+              "Draft a message that refers to one concrete point and asks a proportionate question",
+              "The link or draft cannot be verified"
+            ],
+            [
+              "No useful LinkedIn activity",
+              "Explain whether another approved channel offers a better reason to write",
+              "No valid contact method or no relevant reason"
+            ],
+            [
+              "Recipient asks to stop",
+              "Show the suppression record and who owns it across channels",
+              "Any scheduled follow-up remains active"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Read the draft in the sender's voice",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "A fictional opening might be “Your note about onboarding regional partners mentioned giving managers a first-week checklist. What did you end up keeping on it?” Ask why the question matters and how an answer would inform the next step. An interested but ambiguous reply should go to the agreed reviewer before anyone records a qualified meeting."
+        }
+      ]
+    },
+    {
+      "title": "Ask who can approve, pause and revoke",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Request a written list of the accounts, permissions and tools involved. Ask who approves changes to lists and copy, how you can pause outreach and who removes access at the end. Check the proposed workflow against LinkedIn's current terms before giving access. Ask to see a stop request handled in a sample record."
+        }
+      ]
+    },
+    {
+      "title": "Measure the handoff separately from activity",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Keep outreach, replies, held meetings and sales acceptance distinct. Ask the provider to demonstrate which fields it sends to your CRM and what it does when the buyer cannot verify fit. Compare proposals on the same handoff."
+        },
+        {
+          "kind": "record",
+          "title": "Example decision before access",
+          "rows": [
+            [
+              "Account owner",
+              "The person whose profile is used"
+            ],
+            [
+              "Approval evidence",
+              "Reviewed sample and documented permission"
+            ],
+            [
+              "Stop control",
+              "One named owner checks LinkedIn and any other approved channel"
+            ],
+            [
+              "Result to verify",
+              "Sales accepts or rejects the meeting against agreed criteria"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Ask a LinkedIn lead generation agency to demonstrate an approved message, a reply and a stop request. You should be able to trace who controls the account and owns the next step.",
+  "description": "Compare LinkedIn lead generation agencies with an account-access check and a sample outreach handoff. Verify message approval, reply handling and stop controls.",
+  "title": "Test the workflow before granting account access",
+  "toc": "Test access and outreach",
+  "fiction": "Fictional messages and account scenarios. The exercise makes no claim about a named provider's tools or practices."
+}

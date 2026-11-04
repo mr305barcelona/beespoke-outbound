@@ -1,4 +1,4 @@
-const reviewedDateFor=require('./reviewed-publication').dateFor;
+const {dateFor:reviewedDateFor,buyerDescription}=require('./reviewed-publication');
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
@@ -15,7 +15,7 @@ for(const [route,priorCopy] of Object.entries(growth.pages)) {
   assert(html.includes(`<link rel="canonical" href="${origin}${route}">`));
   assert(!html.includes('name="robots" content="noindex'));
   for(const field of ['description','og:description','twitter:description']) {
-    assert(html.includes(`${field}" content="${esc(copy.description)}"`),`${route}: ${field}`);
+    assert(html.includes(`${field}" content="${esc(buyerDescription(route,copy.locale,copy.description))}"`),`${route}: ${field}`);
   }
   const graph=JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'];
   const page=graph.find(n=>n['@id']===origin+route+'#page');

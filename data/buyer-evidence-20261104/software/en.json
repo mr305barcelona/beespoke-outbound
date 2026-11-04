@@ -1,0 +1,98 @@
+{
+  "sections": [
+    {
+      "title": "Start from one workload",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "A software firm wants research and approved outreach to one segment. It needs replies classified, stop requests handled and a handoff its sales lead can accept. A tool covers data and sending. The buyer still needs to assign research, message decisions, review and reply coverage. The managed proposal covers agreed execution but the client still approves the target and claims, answers expert questions and owns discovery."
+        },
+        {
+          "kind": "table",
+          "title": "Inputs to verify before comparing",
+          "heads": [
+            "Input",
+            "Software route",
+            "Managed route"
+          ],
+          "rows": [
+            [
+              "Setup",
+              "Integration, data checks and training.",
+              "Launch work and any setup fee in the quote."
+            ],
+            [
+              "Recurring cost",
+              "Tools, data and the cost of internal operating time.",
+              "Fee, separate extras and internal approval and review time."
+            ],
+            [
+              "Coverage",
+              "Named operator and backup for replies and exceptions.",
+              "Named provider coverage and a client escalation owner."
+            ],
+            [
+              "Output",
+              "Sales-accepted opportunities from the same eligible cohort.",
+              "Use the same acceptance rule and observation window."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Check time before comparing the totals",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "The team estimates 20 internal hours a month for software and eight for managed delivery. Over three months that is 60 versus 24 hours. Check calendars and name backups before treating those hours as available. Enter monthly hours and costs in the calculator’s monthly fields. Put setup in the one-time fields. Convert all amounts to USD before entering them. The calculator displays USD and does not convert currencies. A blank estimate still needs checking, even if entering zero would produce a clean total."
+        }
+      ]
+    },
+    {
+      "title": "Keep outcomes comparable",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "If software has five accepted opportunities and the managed cohort has three accepted with two pending, the totals divided by five and three describe results so far. Wait for equivalent follow-up before making a final comparison. Record the accepted opportunity in the CRM separately from a reply or a booked call. With zero accepted opportunities, cost per opportunity is undefined. The calculator’s matching threshold is a conditional break-even check using the inputs, not a forecast."
+        }
+      ]
+    },
+    {
+      "title": "Work through the choice",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Completed buying decision",
+          "rows": [
+            [
+              "Constraint",
+              "The client has eight hours for approvals and review, but no operator for the rest of the work."
+            ],
+            [
+              "Decision",
+              "Scope managed execution for one segment if the provider documents reply coverage and the client can take escalations."
+            ],
+            [
+              "Reconsider",
+              "If a trained operator and backup become available, retest software on the same brief. If nobody owns discovery, defer either purchase until ownership is assigned."
+            ],
+            [
+              "Transfer",
+              "Check that the buyer can reuse the approved brief, permitted research records, response rules and suppression state before changing models."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Compare the first review against the scope and the accepted handoffs. A lower subscription cost alone does not resolve the coverage gap."
+        }
+      ]
+    }
+  ],
+  "answer": "Buy software if a named operator can research accounts, run outreach and manage replies, with someone available to review the work. Buy managed execution if those tasks are the gap. Compare the same 90-day scope and check who can do the work before acting on the calculator’s totals.",
+  "description": "Compare lead generation software and an agency over 90 days. Use the calculator with matched scope, staff time and opportunity definitions.",
+  "title": "Use the calculator to make a 90-day decision",
+  "toc": "Worked software versus agency decision",
+  "fiction": "The team, hours and decisions below are fictional. Use your own quotes and recorded staff time."
+}
