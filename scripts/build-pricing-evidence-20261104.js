@@ -22,6 +22,12 @@ const guides = {
     route:'/guides/outbound-call-center-pricing/',
     after:'call-center-quote-audit',
     providers:new Set(['justcall.io','sascallcenter.com','telecominc.com'])
+  },
+  linkedin: {
+    route:'/guides/linkedin-lead-generation-agency-cost/',
+    after:'linkedin-quote-normalizer',
+    revised:'2026-11-04T13:42:58+01:00',
+    providers:new Set(['stackmatix.com','flocurve.com'])
   }
 };
 const esc = text => text.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -58,12 +64,12 @@ function update(html, guide, doc, lang) {
     unlinked++;
     return '<span class="source-reference">'+label+' ('+esc(hostname+url.pathname).replaceAll('/','/<wbr>')+')</span>';
   });
-  assert.equal(unlinked,3,lang+guide.route);
+  assert.equal(unlinked,guide.providers.size,lang+guide.route);
   html=html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/,(_,raw)=>{
     const graph=JSON.parse(raw);
     const article=graph['@graph'].find(n=>n['@type']==='Article');
     assert(article?.dateModified,lang+guide.route);
-    article.dateModified=revised;
+    article.dateModified=guide.revised || revised;
     return '<script type="application/ld+json">'+JSON.stringify(graph).replace(/</g,'\\u003c')+'</script>';
   });
   assert.equal((html.match(/href="#worked-quote-review"/g)||[]).length,2);
@@ -84,4 +90,4 @@ for(const [id,guide] of Object.entries(guides)){
   }
 }
 fs.writeFileSync(sitemapFile,sitemap);
-console.log('Pricing guide examples: eight localized pages with plain-text provider citations.');
+console.log('Pricing guide examples: twelve localized pages with plain-text provider citations.');

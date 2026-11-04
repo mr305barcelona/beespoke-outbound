@@ -702,5 +702,275 @@
         }
       ]
     }
+  },
+  "linkedin": {
+    "en": {
+      "label": "Compare weekly client time",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Compare what your team has to do every week"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Two LinkedIn proposals can cover the same market and buyer roles and still require very different amounts of client time. A proposal can leave list approval, product questions and reply triage to your team even when the agency writes the messages. Ask for a sample week so you can see whether the work fits your calendar."
+        },
+        {
+          "kind": "h3",
+          "text": "Put both proposals on the same calendar"
+        },
+        {
+          "kind": "paragraph",
+          "text": "A fictional buyer has two hours a week for campaign decisions and no additional backup. In one proposal, the buyer approves eight accounts individually, handles two exceptions and checks the reply queue each weekday. In the other, the provider groups approvals into two review sessions and triages replies, sending only an exception and two scheduled updates to the buyer."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Client task",
+            "Proposal A",
+            "Proposal B"
+          ],
+          "rows": [
+            [
+              "Approve target accounts",
+              "Eight reviews × 12 minutes = 96 minutes",
+              "Two batches × 25 minutes = 50 minutes"
+            ],
+            [
+              "Handle exceptions that require client judgment",
+              "Two × 20 minutes = 40 minutes",
+              "One × 15 minutes = 15 minutes"
+            ],
+            [
+              "Review replies or the provider’s handoff",
+              "Five checks × 15 minutes = 75 minutes",
+              "Two checks × 20 minutes = 40 minutes"
+            ],
+            [
+              "Weekly client time",
+              "211 minutes",
+              "105 minutes"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Proposal A exceeds the buyer’s capacity by 91 minutes a week. Proposal B leaves 15 minutes for unexpected work. On a four-week planning period, that is 14 hours and four minutes versus seven hours of client time. These figures illustrate workload. Use your own approvals, expected exceptions and review times."
+        },
+        {
+          "kind": "h3",
+          "text": "Price the missing work and test the handoff"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ask bidders to identify who covers replies while you are away, who approves product claims, who can pause activity, and what happens to the approved lists and reply history at the end. Have each bidder walk through the same fictional reply that shows interest but leaves the buyer role unclear. For example, “Could you send more detail? I’m not sure who owns this here.” Ask to see what it records, who decides the next step and whether the case remains open until qualification can be checked."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Add client time to each proposal at your own internal cost. Use the same period for setup, tools and fees and apply the same definition of a held qualified meeting to both. If a lower headline fee requires more client time than you have, reduce the scope or assign a backup before choosing it. Before committing, confirm the approval cadence and handoff rules in writing."
+        }
+      ]
+    },
+    "es": {
+      "label": "Compara el tiempo semanal de tu equipo",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Qué tendrá que hacer tu equipo cada semana"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Dos propuestas de LinkedIn pueden cubrir el mismo mercado y los mismos cargos y, aun así, exigir tiempos muy distintos al cliente. Aunque la agencia redacte los mensajes, tu equipo puede tener que aprobar la lista, responder preguntas sobre el producto y clasificar las respuestas. Pide un ejemplo de una semana de trabajo para ver si cabe en tu agenda."
+        },
+        {
+          "kind": "h3",
+          "text": "Pon las dos propuestas en el mismo calendario"
+        },
+        {
+          "kind": "paragraph",
+          "text": "En este caso ficticio, el comprador tiene dos horas semanales para tomar decisiones sobre la campaña y nadie que pueda sustituirlo. En la primera propuesta, aprueba ocho empresas por separado, resuelve dos casos excepcionales y revisa las respuestas cada día laborable. En la segunda, el proveedor agrupa las aprobaciones en dos sesiones, clasifica las respuestas y solo traslada un caso excepcional y dos revisiones programadas."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Tarea del cliente",
+            "Propuesta A",
+            "Propuesta B"
+          ],
+          "rows": [
+            [
+              "Aprobar las empresas objetivo",
+              "Ocho revisiones × 12 minutos = 96 minutos",
+              "Dos lotes × 25 minutos = 50 minutos"
+            ],
+            [
+              "Resolver casos que requieren el criterio del cliente",
+              "Dos × 20 minutos = 40 minutos",
+              "Uno × 15 minutos = 15 minutos"
+            ],
+            [
+              "Revisar las respuestas o el traspaso del proveedor",
+              "Cinco revisiones × 15 minutos = 75 minutos",
+              "Dos revisiones × 20 minutos = 40 minutos"
+            ],
+            [
+              "Tiempo semanal del cliente",
+              "211 minutos",
+              "105 minutos"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "La propuesta A supera la disponibilidad del comprador en 91 minutos semanales. La B deja 15 minutos para imprevistos. En cuatro semanas, son 14 horas y cuatro minutos frente a siete horas de dedicación del cliente. Las cifras solo ilustran la carga de trabajo. Usa tu propio volumen de aprobaciones, el número de casos excepcionales que esperas y el tiempo real de revisión."
+        },
+        {
+          "kind": "h3",
+          "text": "Calcula el coste del trabajo pendiente y comprueba el traspaso"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Pregunta quién cubrirá las respuestas durante tu ausencia, quién aprobará las afirmaciones sobre el producto, quién podrá pausar la actividad y qué pasará con las listas aprobadas y el historial de respuestas al terminar. Pide que cada proveedor resuelva la misma respuesta ficticia, en la que alguien muestra interés, pero no queda claro qué papel tiene en la compra. Por ejemplo, «¿Puedes mandarme más información? No sé quién lleva esto aquí». Comprueba qué se registra, quién decide el siguiente paso y si el caso sigue abierto hasta poder confirmar la cualificación."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Valora el tiempo de tu equipo a su coste interno e inclúyelo en cada presupuesto. Compara la puesta en marcha, las herramientas y los honorarios durante el mismo periodo y usa la misma definición de reunión cualificada y celebrada. Si la cuota anunciada es menor pero exige más tiempo del que tienes, reduce el alcance o asigna a una persona de respaldo antes de elegir. Deja por escrito la frecuencia de las aprobaciones y las reglas de traspaso antes de comprometerte."
+        }
+      ]
+    },
+    "ca": {
+      "label": "Compara el temps setmanal del teu equip",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Quina feina haurà de fer el teu equip cada setmana"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Dues propostes de LinkedIn poden cobrir el mateix mercat i els mateixos càrrecs i, tot i així, demanar al client una dedicació molt diferent. Encara que l’agència redacti els missatges, el teu equip pot haver d’aprovar la llista, respondre preguntes sobre el producte i classificar les respostes. Demana un exemple d’una setmana de feina per veure si encaixa a l’agenda."
+        },
+        {
+          "kind": "h3",
+          "text": "Posa les dues propostes al mateix calendari"
+        },
+        {
+          "kind": "paragraph",
+          "text": "En aquest cas fictici, el comprador té dues hores setmanals per prendre decisions sobre la campanya i ningú que el pugui substituir. A la primera proposta, aprova vuit empreses per separat, resol dos casos excepcionals i revisa les respostes cada dia laborable. A la segona, el proveïdor agrupa les aprovacions en dues sessions, classifica les respostes i només trasllada un cas excepcional i dues revisions programades."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Tasca del client",
+            "Proposta A",
+            "Proposta B"
+          ],
+          "rows": [
+            [
+              "Aprovar les empreses objectiu",
+              "Vuit revisions × 12 minuts = 96 minuts",
+              "Dos lots × 25 minuts = 50 minuts"
+            ],
+            [
+              "Resoldre casos que demanen el criteri del client",
+              "Dos × 20 minuts = 40 minuts",
+              "Un × 15 minuts = 15 minuts"
+            ],
+            [
+              "Revisar les respostes o el traspàs del proveïdor",
+              "Cinc revisions × 15 minuts = 75 minuts",
+              "Dues revisions × 20 minuts = 40 minuts"
+            ],
+            [
+              "Temps setmanal del client",
+              "211 minuts",
+              "105 minuts"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "La proposta A supera la disponibilitat del comprador en 91 minuts setmanals. La B deixa 15 minuts per als imprevistos. En quatre setmanes, són 14 hores i quatre minuts enfront de set hores de dedicació del client. Les xifres només il·lustren la càrrega de feina. Fes servir el teu volum d’aprovacions, els casos excepcionals que preveus i el temps real de revisió."
+        },
+        {
+          "kind": "h3",
+          "text": "Calcula el cost de la feina pendent i comprova el traspàs"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Pregunta qui atendrà les respostes quan no hi siguis, qui aprovarà les afirmacions sobre el producte, qui podrà aturar l’activitat i què passarà amb les llistes aprovades i l’historial de respostes en acabar. Demana a cada proveïdor que resolgui la mateixa resposta fictícia, en què algú mostra interès, però no queda clar quin paper té en la compra. Per exemple, «Em pots enviar més informació? No sé qui porta això aquí». Comprova què es registra, qui decideix el pas següent i si el cas queda obert fins que se’n pugui confirmar la qualificació."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Valora el temps de l’equip al seu cost intern i incorpora’l a cada pressupost. Compara la posada en marxa, les eines i els honoraris durant el mateix període i fes servir la mateixa definició de reunió qualificada que s’ha fet. Si la quota anunciada és més baixa però et demana més temps del que tens, redueix l’abast o assigna una persona de suport abans de triar. Acorda per escrit la freqüència de les aprovacions i les regles del traspàs abans de comprometre’t."
+        }
+      ]
+    },
+    "fr": {
+      "label": "Comparer le temps demandé au client chaque semaine",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Ce que votre équipe devra faire chaque semaine"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Deux devis de prospection sur LinkedIn peuvent viser le même marché et les mêmes fonctions tout en demandant un temps très différent au client. Même si l’agence rédige les messages, votre équipe peut devoir valider la liste, répondre aux questions sur le produit et trier les réponses. Demandez à voir une semaine type pour savoir si le travail tient dans votre agenda."
+        },
+        {
+          "kind": "h3",
+          "text": "Comparez les deux devis sur une même semaine"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Dans ce cas fictif, le client dispose de deux heures par semaine pour prendre les décisions de campagne et personne ne peut le remplacer. Dans le premier devis, il valide huit entreprises une à une, traite deux cas particuliers et consulte les réponses chaque jour ouvré. Dans le second, le prestataire regroupe les validations en deux séances, trie les réponses et ne transmet au client qu’un cas particulier et deux points de suivi prévus."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Tâche du client",
+            "Devis A",
+            "Devis B"
+          ],
+          "rows": [
+            [
+              "Valider les entreprises ciblées",
+              "Huit validations × 12 minutes = 96 minutes",
+              "Deux lots × 25 minutes = 50 minutes"
+            ],
+            [
+              "Traiter les cas qui exigent l’avis du client",
+              "Deux × 20 minutes = 40 minutes",
+              "Un × 15 minutes = 15 minutes"
+            ],
+            [
+              "Examiner les réponses ou le suivi transmis par le prestataire",
+              "Cinq points × 15 minutes = 75 minutes",
+              "Deux points × 20 minutes = 40 minutes"
+            ],
+            [
+              "Temps client par semaine",
+              "211 minutes",
+              "105 minutes"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Le devis A dépasse le temps disponible de 91 minutes par semaine. Le devis B laisse 15 minutes pour les imprévus. Sur quatre semaines, cela représente 14 heures et quatre minutes contre sept heures côté client. Ces chiffres illustrent la charge de travail. Utilisez votre propre volume de validations, le nombre de cas particuliers attendu et vos temps de revue."
+        },
+        {
+          "kind": "h3",
+          "text": "Chiffrez le travail restant et vérifiez le passage de relais"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Demandez qui traite les réponses en votre absence, qui valide les affirmations sur le produit, qui peut suspendre l’activité et ce que deviennent les listes validées et l’historique des réponses en fin de mission. Soumettez le même cas fictif aux deux prestataires. Une personne manifeste de l’intérêt, mais son rôle dans l’achat reste incertain. Par exemple, « Pouvez-vous m’en dire plus ? Je ne sais pas qui s’en occupe chez nous. » Vérifiez ce qui est consigné, qui décide de la suite et si le cas reste ouvert jusqu’à ce que la qualification soit confirmée."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Valorisez le temps de votre équipe à son coût interne et ajoutez-le à chaque devis. Comparez le démarrage, les outils et les honoraires sur la même période et gardez la même définition d’un rendez-vous qualifié ayant eu lieu. Si un tarif affiché plus bas demande davantage de temps que vous n’en avez, réduisez le périmètre ou prévoyez un relais avant de choisir. Confirmez par écrit la fréquence des validations et les règles de passage de relais avant de vous engager."
+        }
+      ]
+    }
   }
 }
