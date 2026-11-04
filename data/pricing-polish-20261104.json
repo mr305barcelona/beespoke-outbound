@@ -1,0 +1,482 @@
+{
+  "en": {
+    "ui": [
+      "Worked example",
+      "Go to the example",
+      "Buyer check",
+      "Copyable review record",
+      "Select the record",
+      "Illustrative only"
+    ],
+    "sdr": {
+      "scope": "Beespoke’s managed outbound service covers cold email, cold LinkedIn, or both. It costs USD 1,500 per month, or EUR 1,500 per month in Europe, with a three-month minimum. It is a managed campaign, not a dedicated full-time SDR placement.",
+      "metrics": [
+        "Hours reserved",
+        "Hours delivered",
+        "Hours uncovered"
+      ],
+      "decision": "Ask who covers live replies, which costs are already included, and what the contract says about credit or make-up work.",
+      "invoice": [
+        "Compare the two invoices",
+        "Assume USD 5,000 for reserved time, USD 200 for separately billed tools and USD 300 of buyer time in both months. Normal month: USD 5,200 on the invoice, or USD 5,500 including buyer time. Replacement month: if the contract credits USD 50 per uncovered hour, the 10 uncovered hours yield a USD 500 credit; the invoice is USD 4,700 and the total cost is USD 5,000. Without that clause the credit is not automatic. If the hours are made up instead, record them when delivered and do not also subtract the example credit."
+      ],
+      "question": [
+        "Do you automatically get a credit if the rep is replaced?",
+        "No. Check whether the agreement covers reserved hours or delivered work, who approves a credit or a make-up session, and where that adjustment appears on the invoice."
+      ],
+      "evidence": "The four figures below are historical planning bands compiled from provider material checked on July 20, 2026. They are not current vendor quotes or a statistically measured market average. The sources use different scopes and staffing models; the band endpoints are not individual published prices. Ask each bidder to price the same staffing, coverage and tooling for your market.",
+      "record": "Fee period: ___\nReserved / delivered / uncovered: ___ / ___ / ___\nIncluded tools and separate payer: ___\nBackup owner and staffing evidence: ___\nCredit or make-up rule: ___\nInvoice line, decision and reviewer: ___"
+    },
+    "meeting": {
+      "metrics": [
+        "Billable",
+        "Excluded",
+        "Pending"
+      ],
+      "counts": [
+        "2",
+        "3",
+        "1"
+      ],
+      "status": [
+        "Billable",
+        "Billable",
+        "Excluded",
+        "Excluded",
+        "Pending",
+        "Excluded"
+      ],
+      "duplicate": "The same buying team already has an open opportunity from 20 days ago. The example agreement excludes an open opportunity logged in the past 90 days. Match the CRM record to the buyer before excluding it.",
+      "duplicateDecision": "Do not bill. Record the existing opportunity ID; this is separate from rescheduling M02.",
+      "pending": [
+        "Resolve the pending line both ways",
+        "For M05, the named buyer-side reviewer checks the attendance and role evidence. Bill once if that evidence confirms an agreed role within the five-business-day review window. Exclude it if the role is outside scope or evidence is still missing at the deadline, as this fictional contract provides. Log the decision and issue any required credit against the original invoice line."
+      ],
+      "decision": "Match each invoice line to the original meeting ID, attendance and the agreed qualification evidence. Record a credit against that same line.",
+      "checklist": "Treat attendance, written fit and role criteria, duplicate handling, and a named reviewer with a deadline as signing conditions in this example. A high count does not make up for a missing condition. Use the count to spot gaps, then resolve each required clause before signing.",
+      "record": "Original meeting ID and held date: ___\nAttendance and buyer-fit evidence: ___\nDuplicate or opportunity ID: ___\nBill, exclude or hold: ___\nReviewer and deadline: ___\nInvoice line or credit reference: ___"
+    },
+    "cold": {
+      "metrics": [
+        "Domains",
+        "Mailboxes",
+        "Added segment"
+      ],
+      "counts": [
+        "2 → 3",
+        "4 → 6",
+        "1"
+      ],
+      "invoice": [
+        "Compare two months on the same basis",
+        "Fictional quote in USD. Starting month: 1,700 agency fee + 100 renewals + 50 usage = 1,850. The extra segment starts on day 1 of month 2. That month adds 240 in one-time setup, 60 in monthly renewals and 30 in expected usage: 2,180 total. If usage stays at that level, the next month is 1,940. Record the start date, the cap on usage and who approves an overage. These numbers are not Beespoke’s quote or a recommendation about sending volume."
+      ],
+      "ownership": [
+        "Verify account access and handover",
+        "Asset",
+        "Payer",
+        "Administrator and backup",
+        "Handover check",
+        [
+          [
+            "Registrar",
+            "Buyer",
+            "Buyer admin; backup buyer admin",
+            "Show transfer eligibility and renewal notices."
+          ],
+          [
+            "Mailboxes",
+            "Buyer",
+            "Buyer admin; backup buyer admin",
+            "Test delegated access and recovery without a shared password."
+          ],
+          [
+            "Approved data",
+            "Buyer, unless included",
+            "Agency operator; buyer data owner",
+            "Export the permitted list and its provenance."
+          ],
+          [
+            "Reply history",
+            "Included workspace in this example",
+            "Agency operator; buyer workspace admin",
+            "Test export of the messages and statuses permitted by the contract."
+          ],
+          [
+            "Suppression records",
+            "Included workspace in this example",
+            "Buyer data owner; agency operator",
+            "Export and reapply the suppression list before sending again."
+          ]
+        ]
+      ],
+      "replacement": [
+        "Agree who can restart sending",
+        "If a mailbox is paused, the agency pauses the affected sequence and checks what failed. The buyer’s account owner authorizes a replacement and any additional charge before work starts. Confirm that suppression records carry over and that an authorized buyer can still access the history before restarting."
+      ],
+      "decision": "Put the start date, one-time setup, monthly renewal and usage cap in the existing quote worksheet. Add the approving owner and what can be exported in the record below.",
+      "evidence": "Use the official links below for the platform or regulator’s own guidance. The worked quote and ownership assignments above are fictional; they are not supplier pricing, platform limits or a statement of current policy.",
+      "record": "Change and effective date: ___\nOne-time setup / recurring increase / usage cap: ___\nPayer and approving owner: ___\nAccount administrator and backup: ___\nExport, transfer and exit conditions: ___"
+    }
+  },
+  "es": {
+    "ui": [
+      "Ejemplo práctico",
+      "Ir al ejemplo",
+      "Qué debe comprobar el comprador",
+      "Ficha de revisión para copiar",
+      "Seleccionar la ficha",
+      "Solo como ejemplo"
+    ],
+    "sdr": {
+      "scope": "El servicio de prospección gestionada de Beespoke cubre el correo en frío, LinkedIn en frío o ambos. Cuesta 1.500 USD al mes, o 1.500 EUR al mes en Europa, con un mínimo de tres meses. Es una campaña gestionada, no la contratación de un SDR dedicado a tiempo completo.",
+      "metrics": [
+        "Horas reservadas",
+        "Horas trabajadas",
+        "Horas sin cubrir"
+      ],
+      "decision": "Pregunta quién atiende las respuestas, qué costes están incluidos y qué prevé el contrato sobre abonos o recuperación de horas.",
+      "invoice": [
+        "Compara las dos facturas",
+        "Supón 5.000 USD por el tiempo reservado, 200 USD por herramientas facturadas aparte y 300 USD de trabajo del cliente en ambos meses. Mes normal: factura de 5.200 USD y coste total de 5.500 USD. Mes con sustitución: si el contrato prevé un abono de 50 USD por hora sin cubrir, las 10 horas dan lugar a un abono de 500 USD. La factura queda en 4.700 USD y el coste total, en 5.000 USD. Sin esa cláusula no hay abono automático. Si se recuperan las horas, anótalas cuando se trabajen y no apliques también el abono del ejemplo."
+      ],
+      "question": [
+        "¿Hay un abono automático si sustituyen al SDR?",
+        "No. Comprueba si el contrato cubre horas reservadas o trabajo realizado, quién autoriza un abono o la recuperación de horas y en qué línea de la factura se refleja."
+      ],
+      "evidence": "Los cuatro intervalos son referencias históricas de planificación recopiladas a partir de material de proveedores consultado el 20 de julio de 2026. No son ofertas vigentes ni un promedio estadístico del mercado. Las fuentes comparan alcances y modelos distintos; los extremos no son precios individuales publicados. Pide a cada proveedor que presupueste la misma cobertura, dotación y herramientas para tu mercado.",
+      "record": "Periodo de facturación: ___\nHoras reservadas / trabajadas / sin cubrir: ___ / ___ / ___\nHerramientas incluidas y pagador de las adicionales: ___\nResponsable de la sustitución y registro: ___\nRegla de abono o recuperación: ___\nLínea de factura, decisión y revisor: ___"
+    },
+    "meeting": {
+      "metrics": [
+        "Facturables",
+        "Excluidas",
+        "Pendientes"
+      ],
+      "counts": [
+        "2",
+        "3",
+        "1"
+      ],
+      "status": [
+        "Facturable",
+        "Facturable",
+        "Excluida",
+        "Excluida",
+        "Pendiente",
+        "Excluida"
+      ],
+      "duplicate": "El mismo equipo comprador tiene una oportunidad abierta desde hace 20 días. Este contrato excluye oportunidades abiertas registradas en los últimos 90 días. Contrasta el registro del CRM con el comprador antes de excluirla.",
+      "duplicateDecision": "No facturar. Anota el ID de la oportunidad existente; no es lo mismo que reprogramar M02.",
+      "pending": [
+        "Cómo cerrar el caso pendiente",
+        "En M05, el revisor designado por el cliente comprueba la asistencia y la función del comprador. Factura una vez si la prueba confirma una función acordada dentro de los cinco días hábiles. Excluye la reunión si la función no encaja o si al vencer el plazo sigue faltando evidencia, según el contrato ficticio. Registra la decisión y aplica cualquier abono a la línea original."
+      ],
+      "decision": "Vincula cada línea con el ID original, la asistencia y la prueba de cualificación pactada. Registra cualquier abono en esa misma línea.",
+      "checklist": "En este ejemplo, la asistencia, los criterios escritos de empresa y función, el tratamiento de duplicados y un revisor con plazo son condiciones para firmar. Un recuento alto no compensa una cláusula que falta. Usa la lista para detectar lagunas y resuelve cada condición obligatoria antes de firmar.",
+      "record": "ID original y fecha de la reunión celebrada: ___\nPrueba de asistencia y adecuación: ___\nID de duplicado u oportunidad: ___\nFacturar, excluir o dejar pendiente: ___\nRevisor y plazo: ___\nLínea de factura o referencia del abono: ___"
+    },
+    "cold": {
+      "metrics": [
+        "Dominios",
+        "Buzones",
+        "Segmento adicional"
+      ],
+      "counts": [
+        "2 → 3",
+        "4 → 6",
+        "1"
+      ],
+      "invoice": [
+        "Compara los dos meses con el mismo criterio",
+        "Presupuesto ficticio en USD. Primer mes: 1.700 de honorarios + 100 de renovaciones + 50 de consumo = 1.850. El segmento adicional empieza el día 1 del segundo mes. Ese mes se añaden 240 de configuración inicial, 60 de renovaciones mensuales y 30 de consumo previsto: 2.180 en total. Si el consumo no cambia, el mes siguiente cuesta 1.940. Anota la fecha, el límite de consumo y quién aprueba un exceso. Las cifras no son un presupuesto de Beespoke ni una recomendación de volumen de envío."
+      ],
+      "ownership": [
+        "Comprueba el acceso y el traspaso",
+        "Activo",
+        "Quién paga",
+        "Administrador y suplente",
+        "Prueba de traspaso",
+        [
+          [
+            "Registrador de dominios",
+            "Cliente",
+            "Administrador del cliente y suplente",
+            "Verifica que se puede transferir y quién recibe los avisos de renovación."
+          ],
+          [
+            "Buzones",
+            "Cliente",
+            "Administrador del cliente y suplente",
+            "Prueba el acceso delegado y la recuperación sin compartir contraseña."
+          ],
+          [
+            "Datos aprobados",
+            "Cliente, salvo que estén incluidos",
+            "Operador de la agencia y responsable de datos del cliente",
+            "Exporta la lista autorizada y su procedencia."
+          ],
+          [
+            "Historial de respuestas",
+            "Espacio de trabajo incluido en el ejemplo",
+            "Operador de la agencia y administrador del cliente",
+            "Prueba la exportación de mensajes y estados permitidos por el contrato."
+          ],
+          [
+            "Lista de exclusión",
+            "Espacio de trabajo incluido en el ejemplo",
+            "Responsable de datos del cliente y operador de la agencia",
+            "Exporta y vuelve a aplicar la lista antes de reanudar el envío."
+          ]
+        ]
+      ],
+      "replacement": [
+        "Acuerda quién puede reanudar el envío",
+        "Si se pausa un buzón, la agencia detiene la secuencia afectada y averigua qué ha fallado. El titular de la cuenta del cliente autoriza la sustitución y cualquier cargo adicional antes de empezar. Antes de reanudar el envío, confirma que se mantiene la lista de exclusión y que el cliente autorizado conserva el acceso al historial."
+      ],
+      "decision": "Introduce la fecha de inicio, la configuración inicial, las renovaciones y el límite de consumo en la ficha de presupuestos existente. Anota debajo quién autoriza el cambio y qué se puede exportar.",
+      "evidence": "Consulta los enlaces oficiales de abajo para conocer las indicaciones de cada plataforma u organismo. El presupuesto y el reparto de responsabilidades del ejemplo son ficticios; no representan precios de proveedores, límites de envío ni políticas vigentes.",
+      "record": "Cambio y fecha efectiva: ___\nConfiguración inicial / aumento recurrente / límite de consumo: ___\nPagador y responsable de aprobar: ___\nAdministrador y suplente: ___\nCondiciones de exportación, transferencia y fin del servicio: ___"
+    }
+  },
+  "ca": {
+    "ui": [
+      "Exemple pràctic",
+      "Ves a l’exemple",
+      "Què ha de comprovar el comprador",
+      "Fitxa de revisió per copiar",
+      "Selecciona la fitxa",
+      "Només a tall d’exemple"
+    ],
+    "sdr": {
+      "scope": "El servei de prospecció gestionada de Beespoke cobreix el correu en fred, la prospecció en fred a LinkedIn o tots dos canals. Costa 1.500 USD al mes, o 1.500 EUR al mes a Europa, amb un mínim de tres mesos. És una campanya gestionada i no la contractació d’un SDR dedicat a temps complet.",
+      "metrics": [
+        "Hores reservades",
+        "Hores treballades",
+        "Hores sense cobrir"
+      ],
+      "decision": "Pregunta qui atén les respostes, quines despeses ja estan incloses i què diu el contracte sobre els abonaments o la recuperació d’hores.",
+      "invoice": [
+        "Compara les dues factures",
+        "Suposa 5.000 USD pel temps reservat, 200 USD per eines facturades a part i 300 USD de feina del client en tots dos mesos. Mes normal: factura de 5.200 USD i cost total de 5.500 USD. Mes amb substitució: si el contracte preveu un abonament de 50 USD per hora sense cobrir, les 10 hores generen un abonament de 500 USD. La factura és de 4.700 USD i el cost total, de 5.000 USD. Sense aquesta clàusula no hi ha cap abonament automàtic. Si es recuperen les hores, anota-les quan es treballin i no hi apliquis també l’abonament de l’exemple."
+      ],
+      "question": [
+        "Hi ha un abonament automàtic si substitueixen l’SDR?",
+        "No. Comprova si el contracte cobreix hores reservades o feina feta, qui autoritza un abonament o la recuperació d’hores i en quina línia de la factura s’hi reflecteix."
+      ],
+      "evidence": "Els quatre intervals són referències històriques de planificació recopilades a partir de material de proveïdors consultat el 20 de juliol de 2026. No són pressupostos vigents ni una mitjana estadística del mercat. Les fonts comparen abasts i models diferents; els extrems dels intervals no són preus individuals publicats. Demana a cada proveïdor un pressupost amb la mateixa cobertura, dotació i eines per al teu mercat.",
+      "record": "Període de facturació: ___\nHores reservades / treballades / sense cobrir: ___ / ___ / ___\nEines incloses i qui paga les addicionals: ___\nResponsable de la substitució i registre: ___\nRegla d’abonament o de recuperació: ___\nLínia de la factura, decisió i revisor: ___"
+    },
+    "meeting": {
+      "metrics": [
+        "Facturables",
+        "Excloses",
+        "Pendents"
+      ],
+      "counts": [
+        "2",
+        "3",
+        "1"
+      ],
+      "status": [
+        "Facturable",
+        "Facturable",
+        "Exclosa",
+        "Exclosa",
+        "Pendent",
+        "Exclosa"
+      ],
+      "duplicate": "El mateix equip comprador té una oportunitat oberta des de fa 20 dies. Aquest contracte exclou les oportunitats obertes registrades els darrers 90 dies. Comprova que el registre del CRM correspon al comprador abans d’excloure la reunió.",
+      "duplicateDecision": "No ho facturis. Anota l’identificador de l’oportunitat existent; no és el mateix que reprogramar M02.",
+      "pending": [
+        "Com es resol el cas pendent",
+        "En el cas M05, la persona designada pel client comprova l’assistència i la funció del comprador. Factura la reunió una sola vegada si la prova confirma una funció acordada dins dels cinc dies hàbils. Exclou-la si la funció no encaixa o si encara falta la prova quan venç el termini, tal com preveu el contracte fictici. Anota la decisió i vincula qualsevol abonament a la línia original."
+      ],
+      "decision": "Vincula cada línia amb l’identificador original, l’assistència i la prova de qualificació pactada. Anota qualsevol abonament a la mateixa línia.",
+      "checklist": "En aquest exemple, l’assistència, els criteris escrits d’empresa i de funció, el tractament dels duplicats i una persona revisora amb termini són condicions per signar. Una puntuació alta no compensa l’absència d’una clàusula. Fes servir la llista per detectar mancances i resol cada condició obligatòria abans de signar.",
+      "record": "Identificador original i data de la reunió: ___\nProva d’assistència i d’adequació: ___\nIdentificador del duplicat o de l’oportunitat: ___\nFacturar, excloure o deixar pendent: ___\nRevisor i termini: ___\nLínia de la factura o referència de l’abonament: ___"
+    },
+    "cold": {
+      "metrics": [
+        "Dominis",
+        "Bústies",
+        "Segment nou"
+      ],
+      "counts": [
+        "2 → 3",
+        "4 → 6",
+        "1"
+      ],
+      "invoice": [
+        "Compara els dos mesos amb el mateix criteri",
+        "Pressupost fictici en USD. Primer mes: 1.700 d’honoraris + 100 de renovacions + 50 de consum = 1.850. El segment nou comença el primer dia del segon mes. Aquell mes s’hi afegeixen 240 de configuració inicial, 60 de renovacions mensuals i 30 de consum previst: 2.180 en total. Si el consum no varia, el mes següent costa 1.940. Anota la data, el límit de consum i qui n’aprova un excés. Les xifres no són un pressupost de Beespoke ni una recomanació de volum d’enviament."
+      ],
+      "ownership": [
+        "Comprova l’accés i el traspàs",
+        "Actiu",
+        "Qui paga",
+        "Administrador i suplent",
+        "Prova de traspàs",
+        [
+          [
+            "Registrador de dominis",
+            "Client",
+            "Administrador del client i suplent",
+            "Comprova que es pot transferir i qui rep els avisos de renovació."
+          ],
+          [
+            "Bústies",
+            "Client",
+            "Administrador del client i suplent",
+            "Prova l’accés delegat i la recuperació sense compartir contrasenyes."
+          ],
+          [
+            "Dades aprovades",
+            "Client, si no estan incloses",
+            "Operador de l’agència i responsable de dades del client",
+            "Exporta la llista autoritzada i la seva procedència."
+          ],
+          [
+            "Historial de respostes",
+            "Espai de treball inclòs en l’exemple",
+            "Operador de l’agència i administrador del client",
+            "Prova l’exportació dels missatges i estats permesos pel contracte."
+          ],
+          [
+            "Llista d’exclusió",
+            "Espai de treball inclòs en l’exemple",
+            "Responsable de dades del client i operador de l’agència",
+            "Exporta i torna a aplicar la llista abans de reprendre els enviaments."
+          ]
+        ]
+      ],
+      "replacement": [
+        "Acorda qui pot reprendre els enviaments",
+        "Si es posa una bústia en pausa, l’agència atura la seqüència afectada i comprova què ha fallat. El titular del compte del client autoritza la substitució i qualsevol càrrec abans de començar. Abans de reprendre els enviaments, comprova que es conserva la llista d’exclusió i que el client autoritzat encara pot accedir a l’historial."
+      ],
+      "decision": "Anota la data d’inici, la configuració inicial, les renovacions i el límit de consum a la fitxa de pressupostos existent. Anota a sota qui aprova el canvi i què es pot exportar.",
+      "evidence": "Consulta els enllaços oficials de sota per conèixer les indicacions de cada plataforma o organisme. El pressupost i el repartiment de responsabilitats són ficticis; no representen preus de proveïdors, límits d’enviament ni polítiques vigents.",
+      "record": "Canvi i data efectiva: ___\nConfiguració inicial / augment recurrent / límit de consum: ___\nQui paga i qui autoritza: ___\nAdministrador i suplent: ___\nCondicions d’exportació, transferència i finalització del servei: ___"
+    }
+  },
+  "fr": {
+    "ui": [
+      "Exemple pratique",
+      "Aller à l’exemple",
+      "À vérifier avant de signer",
+      "Fiche de contrôle à copier",
+      "Sélectionner la fiche",
+      "À titre d’exemple"
+    ],
+    "sdr": {
+      "scope": "Le service de prospection gérée de Beespoke couvre l’e-mail à froid, la prospection à froid sur LinkedIn ou les deux. Il coûte 1 500 USD par mois, ou 1 500 EUR par mois en Europe, avec un engagement minimum de trois mois. Il s’agit d’une campagne gérée, pas d’une mise à disposition d’un SDR dédié à temps plein.",
+      "metrics": [
+        "Heures réservées",
+        "Heures effectuées",
+        "Heures non couvertes"
+      ],
+      "decision": "Demandez qui traite les réponses, quels frais sont déjà inclus et ce que le contrat prévoit en matière d’avoir ou de rattrapage.",
+      "invoice": [
+        "Comparez les deux factures",
+        "Supposons 5 000 USD pour les heures réservées, 200 USD d’outils facturés à part et 300 USD de temps côté client dans les deux mois. Mois normal : facture de 5 200 USD et coût total de 5 500 USD. Mois avec remplacement : si le contrat prévoit un avoir de 50 USD par heure non couverte, les 10 heures donnent droit à un avoir de 500 USD. La facture s’élève à 4 700 USD et le coût total à 5 000 USD. Sans cette clause, l’avoir n’est pas automatique. Si les heures sont rattrapées, comptabilisez-les lorsqu’elles sont effectuées et ne déduisez pas aussi l’avoir de l’exemple."
+      ],
+      "question": [
+        "Le remplacement du SDR donne-t-il automatiquement droit à un avoir ?",
+        "Non. Vérifiez si le contrat couvre des heures réservées ou du travail effectué, qui autorise l’avoir ou le rattrapage et sur quelle ligne de la facture figure l’ajustement."
+      ],
+      "evidence": "Les quatre fourchettes sont des repères historiques établis à partir de documents de prestataires consultés le 20 juillet 2026. Elles ne constituent ni des devis actuels ni une moyenne statistique du marché. Les sources couvrent des prestations et des modèles différents ; les bornes ne correspondent pas à des prix individuels publiés. Demandez à chaque prestataire de chiffrer la même couverture, les mêmes ressources et les mêmes outils pour votre marché.",
+      "record": "Période de facturation : ___\nHeures réservées / effectuées / non couvertes : ___ / ___ / ___\nOutils inclus et payeur des frais séparés : ___\nResponsable du remplacement et justificatif : ___\nRègle d’avoir ou de rattrapage : ___\nLigne de facture, décision et personne chargée du contrôle : ___"
+    },
+    "meeting": {
+      "metrics": [
+        "Facturables",
+        "Exclus",
+        "En attente"
+      ],
+      "counts": [
+        "2",
+        "3",
+        "1"
+      ],
+      "status": [
+        "Facturable",
+        "Facturable",
+        "Exclu",
+        "Exclu",
+        "En attente",
+        "Exclu"
+      ],
+      "duplicate": "La même équipe d’acheteurs a déjà une opportunité ouverte depuis 20 jours. Le contrat de l’exemple exclut toute opportunité ouverte enregistrée dans les 90 derniers jours. Avant d’exclure le rendez-vous, rapprochez la fiche CRM de l’acheteur.",
+      "duplicateDecision": "Ne facturez pas. Notez l’identifiant de l’opportunité existante : ce cas est distinct du report de M02.",
+      "pending": [
+        "Tranchez le cas en attente",
+        "Pour M05, la personne désignée côté client vérifie la présence et la fonction de l’acheteur. Facturez une fois si les justificatifs confirment une fonction convenue dans les cinq jours ouvrés. Excluez le rendez-vous si la fonction est hors périmètre ou si le justificatif manque encore à l’échéance, comme le prévoit ce contrat fictif. Consignez la décision et rattachez tout avoir à la ligne d’origine."
+      ],
+      "decision": "Associez chaque ligne à l’identifiant d’origine, à la preuve de présence et aux justificatifs de qualification convenus. Rattachez tout avoir à cette même ligne.",
+      "checklist": "Dans cet exemple, la présence, les critères écrits d’entreprise et de fonction, le traitement des doublons ainsi qu’un responsable et un délai de contrôle conditionnent la signature. Un bon score ne compense pas une clause manquante. Utilisez la liste pour repérer les lacunes et réglez chaque point obligatoire avant de signer.",
+      "record": "Identifiant d’origine et date du rendez-vous tenu : ___\nPreuve de présence et d’adéquation : ___\nIdentifiant du doublon ou de l’opportunité : ___\nFacturer, exclure ou mettre en attente : ___\nResponsable du contrôle et échéance : ___\nLigne de facture ou référence de l’avoir : ___"
+    },
+    "cold": {
+      "metrics": [
+        "Domaines",
+        "Boîtes mail",
+        "Segment ajouté"
+      ],
+      "counts": [
+        "2 → 3",
+        "4 → 6",
+        "1"
+      ],
+      "invoice": [
+        "Comparez deux mois sur la même base",
+        "Devis fictif en USD. Premier mois : 1 700 d’honoraires + 100 de renouvellements + 50 de consommation = 1 850. Le segment supplémentaire démarre le premier jour du deuxième mois. S’ajoutent alors 240 de configuration initiale, 60 de renouvellements mensuels et 30 de consommation prévue, soit 2 180 au total. À consommation constante, le mois suivant revient à 1 940. Notez la date, le plafond de consommation et qui valide un dépassement. Ces chiffres ne constituent ni un devis Beespoke ni une recommandation de volume d’envoi."
+      ],
+      "ownership": [
+        "Vérifiez les accès et la passation",
+        "Actif",
+        "Qui paie",
+        "Administrateur et suppléant",
+        "Vérification avant la passation",
+        [
+          [
+            "Bureau d’enregistrement des domaines",
+            "Client",
+            "Administrateur client et suppléant",
+            "Vérifiez les conditions de transfert et les avis de renouvellement."
+          ],
+          [
+            "Boîtes mail",
+            "Client",
+            "Administrateur client et suppléant",
+            "Testez la délégation et la récupération sans mot de passe partagé."
+          ],
+          [
+            "Données approuvées",
+            "Client, sauf si incluses",
+            "Opérateur de l’agence et responsable des données côté client",
+            "Exportez la liste autorisée et sa provenance."
+          ],
+          [
+            "Historique des réponses",
+            "Espace de travail inclus dans l’exemple",
+            "Opérateur de l’agence et administrateur client",
+            "Testez l’export des messages et statuts autorisés par le contrat."
+          ],
+          [
+            "Liste d’exclusion",
+            "Espace de travail inclus dans l’exemple",
+            "Responsable des données côté client et opérateur de l’agence",
+            "Exportez et réappliquez la liste avant de reprendre les envois."
+          ]
+        ]
+      ],
+      "replacement": [
+        "Décidez qui peut relancer les envois",
+        "Si une boîte mail est suspendue, l’agence met la séquence concernée en pause et recherche la cause. Le titulaire du compte côté client autorise le remplacement et tout coût supplémentaire avant le début des travaux. Avant la reprise, vérifiez que la liste d’exclusion est conservée et que le client autorisé a toujours accès à l’historique."
+      ],
+      "decision": "Reportez la date de démarrage, la configuration initiale, les renouvellements et le plafond de consommation dans la grille de comparaison existante. Notez ci-dessous qui valide le changement et ce qui peut être exporté.",
+      "evidence": "Consultez les liens officiels ci-dessous pour connaître les indications de chaque plateforme ou organisme. Le devis et la répartition des responsabilités sont fictifs ; ils ne décrivent ni des prix de prestataires, ni des limites d’envoi, ni des règles en vigueur.",
+      "record": "Changement et date d’effet : ___\nConfiguration initiale / hausse récurrente / plafond de consommation : ___\nPayeur et responsable de la validation : ___\nAdministrateur et suppléant : ___\nConditions d’export, de transfert et de sortie : ___"
+    }
+  }
+}
