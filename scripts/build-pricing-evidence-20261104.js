@@ -34,6 +34,24 @@ const guides = {
     after:'sdr-model-test',
     revised:'2026-11-04T16:01:46+01:00',
     providers:new Set()
+  },
+  sdr: {
+    route:'/guides/outsourced-sdr-cost/',
+    after:'fully-loaded-sdr-cost',
+    revised:'2026-11-04T16:44:23+01:00',
+    providers:new Set(['rhemavox.com', 'outboundsalespro.com', 'rosetalentsolutions.io'])
+  },
+  meeting: {
+    route:'/guides/pay-per-meeting-lead-generation/',
+    after:'meeting-contract-audit',
+    revised:'2026-11-04T16:44:23+01:00',
+    providers:new Set(['growquikr.com', 'leadstogreen.com', 'meetcold.com'])
+  },
+  cold: {
+    route:'/guides/cold-email-agency-pricing/',
+    after:'cold-email-quote-normalizer',
+    revised:'2026-11-04T16:44:23+01:00',
+    providers:new Set()
   }
 };
 const esc = text => text.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -68,7 +86,8 @@ function update(html, guide, doc, lang) {
     const url=new URL(href), hostname=url.hostname.replace(/^www\./,'');
     if(!guide.providers.has(hostname))return full;
     unlinked++;
-    return '<span class="source-reference">'+label+' ('+esc(hostname+url.pathname).replaceAll('/','/<wbr>')+')</span>';
+    const reference = hostname === 'outboundsalespro.com' ? label.replace('2026','2025') : label;
+    return '<span class="source-reference">'+reference+' ('+esc(hostname+url.pathname).replaceAll('/','/<wbr>')+')</span>';
   });
   assert.equal(unlinked,guide.providers.size,lang+guide.route);
   html=html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/,(_,raw)=>{
@@ -96,4 +115,4 @@ for(const [id,guide] of Object.entries(guides)){
   }
 }
 fs.writeFileSync(sitemapFile,sitemap);
-console.log('Pricing and SDR examples: sixteen localized pages with plain-text provider citations.');
+console.log('Pricing and SDR examples: twenty-eight localized pages with plain-text provider citations.');

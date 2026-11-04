@@ -1258,5 +1258,803 @@
         }
       ]
     }
+  },
+  "sdr": {
+    "en": {
+      "label": "Check a replacement-month invoice",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Ask for a sample invoice when an SDR is replaced"
+        },
+        {
+          "kind": "paragraph",
+          "text": "A quote tells you the expected monthly charge. Ask for two sample invoices for the same scope. Use one for a normal month and one for a month when the assigned SDR is unavailable. This shows whether the fee buys reserved capacity, work delivered or a defined result. It also gives you a place to check charges for tools, onboarding and work your team still does."
+        },
+        {
+          "kind": "h3",
+          "text": "Trace each line to the proposal"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Item",
+            "What to ask the provider to show",
+            "What to enter in your comparison"
+          ],
+          "rows": [
+            [
+              "Recurring service",
+              "The people or deliverables covered, with any minimum charge",
+              "The recurring fee and the agreed capacity or output"
+            ],
+            [
+              "Tools and data",
+              "Which licenses are included, which are billed separately and which your team already pays for",
+              "Each expense once, with the payer and renewal date"
+            ],
+            [
+              "Setup and onboarding",
+              "The initial charge and the clause that covers training a replacement",
+              "One-time expenses and any separate replacement fee the contract allows"
+            ],
+            [
+              "Gap in coverage",
+              "A staffing record, who covers replies and the written credit or make-up rule",
+              "The delivered capacity, any credit actually owed and the cost of work your team takes on"
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Work through a fictional replacement month"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Assume the proposal reserves 100 hours of SDR work for the month. The assigned rep misses 20 hours, and the backup delivers 10. That leaves 90 hours delivered and 10 uncovered. Confirm who handled replies during the gap and whether the backup's work met the same acceptance criteria. The staffing record shows what happened. The contract tells you whether the 10 uncovered hours earn a credit, can be made up later or stay payable."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Calculate the total for that month using the existing cost stack. Add separate tool charges and client time once. Apply a credit only when the contract supports it and the provider shows it on the invoice. A later make-up session counts when delivered. Keep it attached to the original gap so it is visible without being counted twice."
+        },
+        {
+          "kind": "h3",
+          "text": "Keep the invoice and sales measures separate"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ask both providers to reconcile the invoice with the same reporting period and acceptance rules. If six qualified meetings were held and sales accepted four opportunities, calculate the two unit costs separately. A pending opportunity stays open until sales can review it. If nothing was accepted, report the spend and zero accepted opportunities. There is no cost per accepted opportunity to calculate for that period."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Before signing, have each bidder fill in the same sample. Record the person who approves extra costs, who covers replies when the SDR is absent and when the buyer can request a review. This example uses fictional hours and outcomes. Use your own quotes, records and costs for a decision."
+        }
+      ]
+    },
+    "es": {
+      "label": "Revisa la factura de un mes con sustitución",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Pide una factura de ejemplo para cuando se sustituye al SDR"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Pide dos facturas de ejemplo para el mismo alcance: una de un mes normal y otra de un mes en el que el SDR asignado no esté disponible. Así puedes comprobar si pagas por reservar capacidad, por el trabajo prestado o por un resultado. Revisa también las herramientas, la incorporación y la parte del trabajo que asume tu equipo."
+        },
+        {
+          "kind": "h3",
+          "text": "Contrasta cada partida con el presupuesto"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Partida",
+            "Qué pedir al proveedor",
+            "Qué anotar"
+          ],
+          "rows": [
+            [
+              "Servicio recurrente",
+              "Personas o entregables cubiertos y cargo mínimo",
+              "Cuota y capacidad o resultado acordado"
+            ],
+            [
+              "Herramientas y datos",
+              "Licencias incluidas, extras y herramientas que ya pagas",
+              "Cada gasto una sola vez, con responsable y fecha de renovación"
+            ],
+            [
+              "Puesta en marcha e incorporación",
+              "Importe inicial y cláusula sobre formación de un sustituto",
+              "Costes puntuales y cualquier cargo de sustitución previsto"
+            ],
+            [
+              "Falta de cobertura",
+              "Registro de personal, quién responde y regla de abono o recuperación",
+              "Capacidad prestada, abono debido y trabajo que asume el cliente"
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Comprueba un mes ficticio con sustitución"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Se reservan 100 horas. El SDR falta 20 horas y su sustituto cubre 10. Se prestan 90 horas y quedan 10 sin cubrir. Comprueba quién atendió las respuestas y si el trabajo del sustituto cumple el mismo criterio. El registro indica lo que se hizo. El contrato determina si las horas sin cubrir se abonan, se recuperan o siguen siendo facturables."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Calcula el coste mensual total. Cuenta una sola vez las herramientas y el tiempo de tu equipo. Aplica el abono cuando proceda según el contrato y figure en la factura. Si las horas se recuperan más tarde, vincúlalas a la ausencia original y cuéntalas cuando se presten."
+        },
+        {
+          "kind": "h3",
+          "text": "Separa la factura de los resultados comerciales"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Si se celebraron seis reuniones cualificadas y ventas aceptó cuatro oportunidades, calcula ambos costes unitarios por separado. Deja abiertas las oportunidades pendientes. Si no hubo ninguna aceptada, informa del gasto y de las cero oportunidades. En ese caso no se puede calcular el coste por oportunidad aceptada."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Antes de firmar, pide a cada proveedor que complete el mismo ejemplo y que indique quién aprueba extras, cubre las respuestas y tramita las revisiones. Las cifras son ficticias. Usa tus propios presupuestos, registros y costes."
+        }
+      ]
+    },
+    "ca": {
+      "label": "Revisa la factura d’un mes amb substitució",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Demana una factura de mostra per quan se substitueix l’SDR"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Demana dues factures de mostra per al mateix abast: una d’un mes normal i una d’un mes en què l’SDR assignat no estigui disponible. Així pots comprovar si pagues per reservar capacitat, per la feina feta o per un resultat. Revisa també les eines, la incorporació i la part de la feina que assumeix el teu equip."
+        },
+        {
+          "kind": "h3",
+          "text": "Contrasta cada partida amb el pressupost"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Partida",
+            "Què cal demanar",
+            "Què cal anotar"
+          ],
+          "rows": [
+            [
+              "Servei recurrent",
+              "Persones o lliurables coberts i càrrec mínim",
+              "Quota i capacitat o resultat acordat"
+            ],
+            [
+              "Eines i dades",
+              "Llicències incloses, extres i eines que ja pagues",
+              "Cada despesa un sol cop, amb responsable i data de renovació"
+            ],
+            [
+              "Posada en marxa i incorporació",
+              "Import inicial i clàusula sobre la formació d’un substitut",
+              "Costos puntuals i qualsevol càrrec de substitució previst"
+            ],
+            [
+              "Manca de cobertura",
+              "Registre de personal, qui respon i regla d’abonament o recuperació",
+              "Capacitat prestada, abonament degut i feina que assumeix el client"
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Comprova un mes fictici amb substitució"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Es reserven 100 hores. L’SDR falta 20 hores i el substitut en cobreix 10. Es presten 90 hores i en queden 10 sense cobrir. Comprova qui va atendre les respostes i si la feina del substitut compleix el mateix criteri. El registre indica què es va fer. El contracte determina si les hores sense cobrir s’abonen, es recuperen o continuen sent facturables."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Calcula el cost mensual total. Compta les eines i el temps de l’equip un sol cop. Aplica l’abonament quan pertoqui segons el contracte i consti a la factura. Si les hores es recuperen més endavant, vincula-les a l’absència original i compta-les quan es prestin."
+        },
+        {
+          "kind": "h3",
+          "text": "Separa la factura dels resultats comercials"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Si es van fer sis reunions qualificades i vendes va acceptar quatre oportunitats, calcula els dos costos unitaris per separat. Deixa obertes les oportunitats pendents. Si no se’n va acceptar cap, indica la despesa i el recompte de zero oportunitats. En aquest cas no es pot calcular el cost per oportunitat acceptada."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Abans de signar, demana a cada proveïdor que completi el mateix exemple i indiqui qui aprova extres, cobreix les respostes i tramita les revisions. Les xifres són fictícies. Fes servir els teus pressupostos, registres i costos."
+        }
+      ]
+    },
+    "fr": {
+      "label": "Vérifier la facture d’un mois avec remplacement",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Demandez une facture type pour un mois où le SDR est remplacé"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Demandez deux exemples de facture pour le même périmètre : un mois normal et un mois où le SDR attitré est indisponible. Vous pourrez vérifier si la facture couvre une capacité réservée, du travail réalisé ou un résultat. Vérifiez aussi les outils, l’intégration et le travail qui reste à votre équipe."
+        },
+        {
+          "kind": "h3",
+          "text": "Rapprochez chaque poste du devis"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Poste",
+            "Justificatif à demander",
+            "Éléments à retenir"
+          ],
+          "rows": [
+            [
+              "Prestation récurrente",
+              "Personnes ou livrables couverts et minimum de facturation",
+              "Forfait et capacité ou résultat convenu"
+            ],
+            [
+              "Outils et données",
+              "Licences incluses, suppléments et outils que vous payez déjà",
+              "Chaque dépense une fois, avec le payeur et la date de renouvellement"
+            ],
+            [
+              "Mise en place et intégration",
+              "Frais initiaux et clause sur la formation d’un remplaçant",
+              "Frais ponctuels et frais de remplacement prévus"
+            ],
+            [
+              "Interruption de couverture",
+              "Relevé des heures, responsable des réponses et règle d’avoir ou de rattrapage",
+              "Capacité fournie, avoir dû et travail repris par le client"
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Examinez un mois fictif avec remplacement"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Le devis réserve 100 heures. Le SDR manque 20 heures et son remplaçant en couvre 10. Le prestataire a fourni 90 heures et il en manque 10. Vérifiez qui a traité les réponses et si le remplaçant a respecté les mêmes critères. Le relevé établit le travail réalisé. Le contrat indique si les heures manquantes donnent droit à un avoir, à un rattrapage ou restent facturables."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Calculez le coût total du mois. Comptez les outils et le temps de votre équipe une seule fois. Déduisez l’avoir si le contrat le prévoit et qu’il figure sur la facture. Si des heures sont rattrapées plus tard, rattachez-les à l’interruption et comptabilisez-les au moment où elles sont effectuées."
+        },
+        {
+          "kind": "h3",
+          "text": "Suivez la facture et les résultats séparément"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Si six rendez-vous qualifiés ont eu lieu et que l’équipe commerciale a accepté quatre opportunités, calculez les deux coûts unitaires séparément. Laissez ouvertes les opportunités en attente. Si aucune n’a été acceptée, indiquez la dépense et le nombre zéro. Le coût par opportunité acceptée ne peut alors pas être calculé."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Avant de signer, faites remplir le même exemple à chaque prestataire. Identifiez qui valide les suppléments, couvre les réponses et traite les demandes de révision. Les chiffres sont fictifs. Utilisez vos propres devis, relevés et coûts."
+        }
+      ]
+    }
+  },
+  "meeting": {
+    "en": {
+      "label": "Reconcile a sample meeting invoice",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Agree which meetings go on the invoice"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Test the contract on the same five calendar records before signing. In this fictional agreement, a meeting is billable when it takes place, matches the written company and buyer-role criteria, and has not already been billed. Pending records are held out of the invoice until reviewed."
+        },
+        {
+          "kind": "h3",
+          "text": "Apply the rule to each record"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Record",
+            "What the buyer can verify",
+            "Invoice decision"
+          ],
+          "rows": [
+            [
+              "M01",
+              "The target buyer attended and matched the brief",
+              "Bill once"
+            ],
+            [
+              "M02",
+              "The original slot moved and the qualified buyer attended the replacement",
+              "Bill the held meeting once under the original ID"
+            ],
+            [
+              "M03",
+              "The prospect did not attend",
+              "Do not bill"
+            ],
+            [
+              "M04",
+              "The attendee was outside the agreed buyer roles",
+              "Do not bill"
+            ],
+            [
+              "M05",
+              "The meeting took place but the attendee’s buying role is unclear",
+              "Hold for review"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Two records are billable, two are excluded and one is pending. Keep the original ID when a meeting moves so the replacement cannot create a second fee."
+        },
+        {
+          "kind": "h3",
+          "text": "Decide what resolves a dispute"
+        },
+        {
+          "kind": "paragraph",
+          "text": "In this example, the buyer has five business days from receiving the supporting records to raise a dispute. Have both parties agree the actual window in writing. Match the original booking ID, attendance record and the agreed qualification evidence to each invoice line. Name the person who can approve or reject the record. If it was already billed and the written terms call for a credit, tie the credit to that original line. If evidence is still missing, show the disputed item separately and follow the contract before releasing payment."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Keep the number of billable meetings separate from opportunities accepted by sales. The five records illustrate a contract test. They do not describe a provider’s policy or results."
+        }
+      ]
+    },
+    "es": {
+      "label": "Concilia una factura de reuniones de ejemplo",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Acuerda qué reuniones entran en la factura"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Antes de firmar, aplica el contrato a los mismos cinco registros. En este acuerdo ficticio, una reunión se cobra si se celebra, cumple los criterios escritos de empresa y cargo y no se ha cobrado antes. Los casos pendientes quedan fuera de la factura hasta que se revisen."
+        },
+        {
+          "kind": "h3",
+          "text": "Aplica la regla a cada registro"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Registro",
+            "Qué puede comprobar el comprador",
+            "Decisión"
+          ],
+          "rows": [
+            [
+              "M01",
+              "Asistió la persona objetivo y cumplía los criterios",
+              "Facturar una vez"
+            ],
+            [
+              "M02",
+              "La cita se reprogramó y la persona cualificada asistió en la nueva fecha",
+              "Facturar una vez con el ID original"
+            ],
+            [
+              "M03",
+              "El contacto no asistió",
+              "No facturar"
+            ],
+            [
+              "M04",
+              "El cargo de quien asistió no estaba entre los acordados",
+              "No facturar"
+            ],
+            [
+              "M05",
+              "Hubo reunión, pero no está claro el papel de la persona en la compra",
+              "Dejar pendiente"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Dos registros se facturan, dos se excluyen y uno queda pendiente. Conserva el ID original si cambia la fecha para evitar un segundo cargo."
+        },
+        {
+          "kind": "h3",
+          "text": "Acuerda cómo resolver una discrepancia"
+        },
+        {
+          "kind": "paragraph",
+          "text": "En este ejemplo, el comprador dispone de cinco días hábiles desde que recibe los justificantes para plantear una discrepancia. Acordad por escrito el plazo real. Vincula el ID original, la asistencia y las pruebas de cualificación a cada partida. Define quién puede aprobar o rechazar cada registro. Si ya se cobró y el contrato prevé un abono, vincúlalo a la partida original. Si faltan pruebas, muestra el concepto en disputa por separado y aplica el contrato antes de pagar."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Lleva por separado las reuniones facturables y las oportunidades que acepta ventas. Los cinco registros ilustran cómo comprobar un contrato."
+        }
+      ]
+    },
+    "ca": {
+      "label": "Concilia una factura de reunions de mostra",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Acorda quines reunions entren a la factura"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Abans de signar, aplica el contracte als mateixos cinc registres. En aquest acord fictici, una reunió es cobra si es fa, compleix els criteris escrits d’empresa i càrrec i encara no s’ha cobrat. Els casos pendents queden fora de la factura fins que es revisin."
+        },
+        {
+          "kind": "h3",
+          "text": "Aplica la regla a cada registre"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Registre",
+            "Què pot comprovar el comprador",
+            "Decisió"
+          ],
+          "rows": [
+            [
+              "M01",
+              "Hi va assistir la persona objectiu i complia els criteris",
+              "Facturar una vegada"
+            ],
+            [
+              "M02",
+              "La cita es va reprogramar i la persona qualificada va assistir en la nova data",
+              "Facturar una vegada amb l’ID original"
+            ],
+            [
+              "M03",
+              "El contacte no hi va assistir",
+              "No facturar"
+            ],
+            [
+              "M04",
+              "El càrrec de qui hi va assistir no era un dels acordats",
+              "No facturar"
+            ],
+            [
+              "M05",
+              "Es va fer la reunió, però no és clar quin paper té la persona en la compra",
+              "Deixar pendent"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Dos registres es facturen, dos s’exclouen i un queda pendent. Conserva l’ID original si es mou la data per evitar un segon càrrec."
+        },
+        {
+          "kind": "h3",
+          "text": "Acorda com resoldre una discrepància"
+        },
+        {
+          "kind": "paragraph",
+          "text": "En aquest exemple, el comprador té cinc dies hàbils des que rep els justificants per plantejar una discrepància. Acordeu per escrit el termini real. Vincula l’ID original, l’assistència i les proves de qualificació a cada partida. Defineix qui pot aprovar o rebutjar cada registre. Si ja es va cobrar i el contracte preveu un abonament, vincula’l a la partida original. Si falten proves, mostra la partida en disputa per separat i aplica el contracte abans de pagar."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Porta per separat les reunions facturables i les oportunitats que accepta vendes. Els cinc registres il·lustren com es comprova un contracte."
+        }
+      ]
+    },
+    "fr": {
+      "label": "Vérifier une facture type de rendez-vous",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Définissez les rendez-vous qui figurent sur la facture"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Avant de signer, appliquez le contrat aux mêmes cinq dossiers. Dans cet accord fictif, un rendez-vous est facturable s’il a eu lieu, répond aux critères écrits d’entreprise et de fonction, et n’a jamais été facturé. Les dossiers en attente restent hors facture jusqu’à leur examen."
+        },
+        {
+          "kind": "h3",
+          "text": "Appliquez la règle à chaque dossier"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Dossier",
+            "Ce que le client peut vérifier",
+            "Décision"
+          ],
+          "rows": [
+            [
+              "M01",
+              "L’interlocuteur visé a participé et répondait aux critères",
+              "Facturer une fois"
+            ],
+            [
+              "M02",
+              "Le rendez-vous a été reporté et l’interlocuteur qualifié est venu à la nouvelle date",
+              "Facturer une fois sous l’identifiant initial"
+            ],
+            [
+              "M03",
+              "Le prospect ne s’est pas présenté",
+              "Ne pas facturer"
+            ],
+            [
+              "M04",
+              "La fonction du participant ne faisait pas partie des fonctions convenues",
+              "Ne pas facturer"
+            ],
+            [
+              "M05",
+              "Le rendez-vous a eu lieu, mais le rôle du participant dans l’achat reste incertain",
+              "Mettre en attente"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Deux dossiers sont facturables, deux sont exclus et un reste en attente. Gardez l’identifiant initial en cas de report afin d’éviter une deuxième facturation."
+        },
+        {
+          "kind": "h3",
+          "text": "Convenez du traitement d’un désaccord"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Dans cet exemple, le client a cinq jours ouvrés à compter de la réception des justificatifs pour signaler un désaccord. Fixez ensemble le délai réel par écrit. Rapprochez l’identifiant initial, la preuve de présence et les éléments de qualification de chaque ligne de facture. Désignez qui peut valider ou refuser le dossier. Si le rendez-vous a déjà été facturé et que le contrat prévoit un avoir, rattachez-le à la ligne initiale. Si des preuves manquent, indiquez la ligne contestée séparément et appliquez le contrat avant de payer."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Suivez séparément les rendez-vous facturables et les opportunités acceptées par l’équipe commerciale. Les cinq dossiers illustrent une vérification du contrat."
+        }
+      ]
+    }
+  },
+  "cold": {
+    "en": {
+      "label": "Check what changes when the campaign grows",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Compare the starting quote and the cost of adding a segment"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ask each agency to price the same starting scope and one specific expansion. In this fictional example, adding a segment changes the quote from two domains and four mailboxes to three domains and six mailboxes. Those counts illustrate what to itemize. Use the actual proposal and the operating requirements for your campaign."
+        },
+        {
+          "kind": "h3",
+          "text": "Put each change on the quote"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Item",
+            "Starting scope",
+            "What to check for the extra segment"
+          ],
+          "rows": [
+            [
+              "Domains and mailboxes",
+              "Two domains and four mailboxes",
+              "One more domain and two more mailboxes. Separate setup from renewals and name the payer."
+            ],
+            [
+              "Data and verification",
+              "One audience and its approved sources",
+              "List research, verification, usage limits and the approval needed before extra charges."
+            ],
+            [
+              "Operating work",
+              "Existing research, monitoring and reply coverage",
+              "Who researches the new segment, checks account health and takes extra replies."
+            ],
+            [
+              "Ownership and exit",
+              "A named administrator for each account",
+              "Who can renew, transfer or revoke access. Confirm what the contract allows you to export."
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Test access before approving the expansion"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ask to see who is listed as the owner, who receives renewal notices and who can change access on the registrar and mailbox accounts. Have the agency demonstrate how an authorized person on your team can export the approved lists, message history and suppression records without relying on a shared password. Record what is transferable and any cost or lead time for handover."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Use the same billing period for both quotes. Separate the one-time launch work, recurring increases and usage charges. Ask who approves replacement assets if sending is paused. Have each provider mark what it already includes so tools, data and client time are counted once."
+        }
+      ]
+    },
+    "es": {
+      "label": "Comprueba qué cambia al ampliar la campaña",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Compara el presupuesto inicial con el coste de añadir un segmento"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Pide a cada agencia que presupueste el mismo alcance inicial y una ampliación concreta. En este ejemplo ficticio, añadir un segmento lleva el presupuesto de dos dominios y cuatro buzones a tres dominios y seis buzones. Las cifras sirven para desglosar partidas. Usa el presupuesto y las necesidades de tu campaña."
+        },
+        {
+          "kind": "h3",
+          "text": "Desglosa cada cambio en el presupuesto"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Partida",
+            "Alcance inicial",
+            "Qué comprobar al añadir un segmento"
+          ],
+          "rows": [
+            [
+              "Dominios y buzones",
+              "Dos dominios y cuatro buzones",
+              "Un dominio y dos buzones adicionales. Separa el alta de las renovaciones e indica quién paga."
+            ],
+            [
+              "Datos y verificación",
+              "Un público y sus fuentes aprobadas",
+              "Investigación, verificación, límites de uso y aprobación previa de cargos adicionales."
+            ],
+            [
+              "Trabajo operativo",
+              "Investigación, seguimiento y gestión de respuestas previstos",
+              "Quién investiga el nuevo segmento, supervisa las cuentas y atiende las respuestas adicionales."
+            ],
+            [
+              "Propiedad y traspaso",
+              "Una persona administradora por cuenta",
+              "Quién puede renovar, transferir o revocar accesos. Confirma qué se puede exportar según el contrato."
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Comprueba los accesos antes de aprobar la ampliación"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Pide ver quién figura como titular, quién recibe los avisos de renovación y quién puede cambiar los accesos en el registrador y en las cuentas de correo. Pide que la agencia muestre cómo una persona autorizada de tu equipo puede exportar las listas aprobadas, el historial de mensajes y los registros de exclusión sin usar una contraseña compartida. Anota qué se puede transferir y cuánto costaría o tardaría el traspaso."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Usa el mismo periodo de facturación. Separa los costes de alta, los incrementos recurrentes y los cargos por uso. Pregunta quién aprueba los recursos de sustitución si se pausa el envío. Pide a cada proveedor que marque lo que ya incluye para contar una sola vez las herramientas, los datos y el tiempo del cliente."
+        }
+      ]
+    },
+    "ca": {
+      "label": "Comprova què canvia quan amplies la campanya",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Compara el pressupost inicial amb el cost d’afegir un segment"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Demana a cada agència un pressupost per al mateix abast inicial i una ampliació concreta. En aquest exemple fictici, afegir un segment fa passar el pressupost de dos dominis i quatre bústies a tres dominis i sis bústies. Les xifres serveixen per desglossar partides. Fes servir el pressupost i les necessitats de la teva campanya."
+        },
+        {
+          "kind": "h3",
+          "text": "Desglossa cada canvi al pressupost"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Partida",
+            "Abast inicial",
+            "Què cal comprovar amb el segment addicional"
+          ],
+          "rows": [
+            [
+              "Dominis i bústies",
+              "Dos dominis i quatre bústies",
+              "Un domini i dues bústies més. Separa l’alta de les renovacions i indica qui paga."
+            ],
+            [
+              "Dades i verificació",
+              "Un públic i les fonts aprovades",
+              "Recerca, verificació, límits d’ús i aprovació prèvia dels càrrecs addicionals."
+            ],
+            [
+              "Feina operativa",
+              "Recerca, seguiment i gestió de respostes previstos",
+              "Qui investiga el nou segment, supervisa els comptes i atén les respostes addicionals."
+            ],
+            [
+              "Titularitat i traspàs",
+              "Una persona administradora per compte",
+              "Qui pot renovar, transferir o revocar accessos. Confirma què permet exportar el contracte."
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Comprova els accessos abans d’aprovar l’ampliació"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Demana veure qui figura com a titular, qui rep els avisos de renovació i qui pot canviar els accessos al registrador i als comptes de correu. Demana que l’agència mostri com una persona autoritzada del teu equip pot exportar les llistes aprovades, l’historial de missatges i els registres d’exclusió sense una contrasenya compartida. Anota què es pot transferir i quin cost o termini té el traspàs."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Fes servir el mateix període de facturació. Separa les despeses d’alta, els increments recurrents i els càrrecs per ús. Pregunta qui aprova els recursos de substitució si s’atura l’enviament. Demana a cada proveïdor que marqui què inclou per comptar les eines, les dades i el temps del client una sola vegada."
+        }
+      ]
+    },
+    "fr": {
+      "label": "Vérifier ce qui change quand la campagne s’étend",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Comparez le devis initial et le coût d’un segment supplémentaire"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Demandez à chaque agence de chiffrer le même périmètre initial et une extension précise. Dans cet exemple fictif, ajouter un segment fait passer le devis de deux domaines et quatre boîtes mail à trois domaines et six boîtes. Ces chiffres servent à détailler les postes. Utilisez le devis et les besoins réels de votre campagne."
+        },
+        {
+          "kind": "h3",
+          "text": "Détaillez chaque changement dans le devis"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Poste",
+            "Périmètre initial",
+            "Points à vérifier pour le segment supplémentaire"
+          ],
+          "rows": [
+            [
+              "Domaines et boîtes mail",
+              "Deux domaines et quatre boîtes",
+              "Un domaine et deux boîtes en plus. Séparez la mise en place des renouvellements et désignez le payeur."
+            ],
+            [
+              "Données et vérification",
+              "Une cible et ses sources validées",
+              "Recherche, vérification, limites d’utilisation et validation préalable des suppléments."
+            ],
+            [
+              "Suivi de la campagne",
+              "Recherche, contrôle et traitement des réponses prévus",
+              "Qui étudie le nouveau segment, surveille les comptes et traite les réponses supplémentaires."
+            ],
+            [
+              "Propriété et transfert",
+              "Un administrateur désigné par compte",
+              "Qui peut renouveler, transférer ou retirer les accès. Vérifiez ce que le contrat autorise à exporter."
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Vérifiez les accès avant de valider l’extension"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Demandez qui figure comme titulaire, qui reçoit les avis de renouvellement et qui peut modifier les accès chez le bureau d’enregistrement et sur les comptes de messagerie. Faites vérifier qu’une personne autorisée de votre équipe peut exporter les listes validées, l’historique des messages et les registres d’exclusion sans mot de passe partagé. Notez ce qui peut être transféré et les frais ou délais de passation."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Comparez la même période de facturation. Séparez les frais de lancement, les hausses récurrentes et les frais liés à l’usage. Demandez qui valide les ressources de remplacement si les envois sont suspendus. Faites préciser les postes déjà inclus pour compter les outils, les données et le temps client une seule fois."
+        }
+      ]
+    }
   }
 }
