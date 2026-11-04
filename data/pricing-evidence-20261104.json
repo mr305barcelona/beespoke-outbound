@@ -972,5 +972,291 @@
         }
       ]
     }
+  },
+  "sdrComparison": {
+    "en": {
+      "label": "Compare ramp calendars",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Put hiring and outsourcing on the same 12-week calendar"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Start both comparisons on the day you make the decision. Track when each model is ready to approach approved accounts and when you will have enough follow-up to review the results. Recruiting, onboarding and approvals can take time even when the work is already funded. Keep those weeks in the calendar and in the cost comparison."
+        },
+        {
+          "kind": "h3",
+          "text": "Compare the first four active weeks separately"
+        },
+        {
+          "kind": "paragraph",
+          "text": "A fictional B2B team has a sales manager who can spare three hours a week, an existing CRM and one sales rep who can take discovery calls. It wants to test one segment before adding permanent capacity. The dates below are its own planning assumptions. Replace them with a recruiting plan or a written scope before comparing real options."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Milestone",
+            "Hire an internal SDR",
+            "Run a bounded external test"
+          ],
+          "rows": [
+            [
+              "Weeks 1–2",
+              "Write the role brief, recruit and reserve coaching time",
+              "Check sample account research, approve the brief and confirm who owns replies and escalation"
+            ],
+            [
+              "First approved outreach",
+              "Week 7, after the assumed recruiting and supervised onboarding period",
+              "Week 3, if the team has approved a sample and the handoff works"
+            ],
+            [
+              "First four active weeks",
+              "Weeks 7–10",
+              "Weeks 3–6"
+            ],
+            [
+              "What to check before extending",
+              "Can the manager sustain coaching, and is there enough work for the role after the test?",
+              "Can your team review the records and take over the approved work if you end the engagement?"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Compare spend over the same 12 weeks. Compare outcomes for the first four active weeks of each option with the same audience, channels, qualification rule and follow-up window. At week six, the external test has four active weeks and the hire has none. That tells you about timing. Wait for comparable follow-up before comparing the quality of the two cohorts. Keep replies, held qualified meetings and opportunities accepted by sales separate."
+        },
+        {
+          "kind": "h3",
+          "text": "Try one handoff before you commit"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Use the same fictional account under both models. Imagine someone replies, “I’m interested, but procurement owns this.” Ask the operator to show where they record the reply, who checks the referral and what sales will see. Keep the case open until the buyer role and other acceptance criteria can be verified. Ask for a sample export of the account rationale, approved message, reply history, suppression status and next owner. Check that another authorized team member can pick up the case from that record."
+        },
+        {
+          "kind": "h3",
+          "text": "Write down what would change the decision"
+        },
+        {
+          "kind": "paragraph",
+          "text": "In this example, the team can use the external test to learn sooner if it approves the work, has time to handle escalations and can verify the handoff. It can revisit hiring when demand is steady enough to justify dedicated work and the manager can reserve coaching time. If neither model has a named owner for discovery and feedback, resolve that first. Record who will review the evidence, when the decision comes due and what would cause the team to change course."
+        }
+      ]
+    },
+    "es": {
+      "label": "Compara los plazos de puesta en marcha",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Compara la contratación y la externalización en un mismo calendario de 12 semanas"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Empieza a contar para las dos opciones el día en que tomas la decisión. Anota cuándo estará lista cada una para contactar con las empresas aprobadas y cuánto seguimiento hará falta para evaluar los resultados. La selección, la incorporación y las aprobaciones llevan tiempo, aunque el trabajo ya esté financiado. Cuenta esas semanas en el calendario y en la comparación de costes."
+        },
+        {
+          "kind": "h3",
+          "text": "Compara por separado las primeras cuatro semanas de actividad"
+        },
+        {
+          "kind": "paragraph",
+          "text": "En este caso ficticio, un equipo B2B tiene un responsable comercial con tres horas libres por semana, un CRM y un comercial que puede atender las primeras llamadas. Quiere probar un segmento antes de ampliar la plantilla. Las fechas son supuestos de planificación. Para comparar opciones reales, sustitúyelas por un plan de contratación o un alcance acordado por escrito."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Hito",
+            "Contratar a un SDR interno",
+            "Hacer una prueba externa de alcance limitado"
+          ],
+          "rows": [
+            [
+              "Semanas 1–2",
+              "Definir el puesto, iniciar la selección y reservar tiempo para formar a la persona",
+              "Revisar una muestra de la investigación, aprobar el encargo y asignar quién responde y a quién deriva las dudas"
+            ],
+            [
+              "Primer contacto autorizado",
+              "Semana 7, tras la selección y la incorporación supervisada previstas",
+              "Semana 3, si el equipo ha aprobado la muestra y ha comprobado el traspaso"
+            ],
+            [
+              "Primeras cuatro semanas de actividad",
+              "Semanas 7–10",
+              "Semanas 3–6"
+            ],
+            [
+              "Qué comprobar antes de ampliar",
+              "¿Puede el responsable seguir formando al SDR? ¿Hay suficiente trabajo para el puesto después de la prueba?",
+              "¿Puede tu equipo consultar los registros y retomar el trabajo aprobado si termina el encargo?"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Compara el gasto durante las mismas 12 semanas. Para comparar resultados, toma las primeras cuatro semanas de actividad de cada opción y aplica el mismo público, los mismos canales, los mismos criterios de cualificación y el mismo plazo de seguimiento. En la semana seis, la prueba externa lleva cuatro semanas de actividad y el SDR interno aún no ha empezado a contactar. Eso aclara los plazos. Espera a que ambas muestras tengan un seguimiento comparable antes de valorar su calidad. Registra por separado las respuestas, las reuniones cualificadas que se celebraron y las oportunidades aceptadas por ventas."
+        },
+        {
+          "kind": "h3",
+          "text": "Prueba un traspaso antes de comprometerte"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Usa la misma empresa ficticia en los dos modelos. Imagina que alguien responde «Me interesa, pero esto lo lleva Compras». Pide a quien prospecta que muestre dónde registra la respuesta, quién comprueba la derivación y qué verá ventas. Deja el caso abierto hasta que se puedan verificar el papel de la persona en la compra y los demás criterios de aceptación. Pide una exportación de muestra con el motivo por el que se eligió la empresa, el mensaje aprobado, el historial de respuestas, el estado de exclusión y el nombre de quien debe actuar a continuación. Comprueba si otra persona autorizada puede retomar el caso con ese registro."
+        },
+        {
+          "kind": "h3",
+          "text": "Anota qué cambiaría la decisión"
+        },
+        {
+          "kind": "paragraph",
+          "text": "En este ejemplo, la prueba externa puede ayudar al equipo a aprender antes si este aprueba el trabajo, dispone de tiempo para resolver dudas y puede comprobar el traspaso. Puede volver a plantearse contratar cuando la demanda sea lo bastante constante para justificar un puesto dedicado y el responsable pueda reservar tiempo de formación. Si aún falta una persona responsable de las primeras conversaciones comerciales y de devolver comentarios en ambos modelos, resuélvelo primero. Anota quién revisará las pruebas, cuándo toca decidir y qué haría cambiar de rumbo al equipo."
+        }
+      ]
+    },
+    "ca": {
+      "label": "Compara els terminis de posada en marxa",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Compara la contractació i l’externalització en un mateix calendari de 12 setmanes"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Comença a comptar per a totes dues opcions el dia que prens la decisió. Anota quan estarà a punt cadascuna per contactar amb les empreses aprovades i quant de seguiment caldrà per valorar els resultats. La selecció, la incorporació i les aprovacions poden portar temps encara que la feina ja estigui finançada. Inclou aquestes setmanes al calendari i a la comparació de costos."
+        },
+        {
+          "kind": "h3",
+          "text": "Compara per separat les primeres quatre setmanes d’activitat"
+        },
+        {
+          "kind": "paragraph",
+          "text": "En aquest cas fictici, un equip B2B té un responsable comercial que hi pot dedicar tres hores a la setmana, un CRM i un comercial que pot atendre les primeres trucades. Vol provar un segment abans d’ampliar la plantilla. Les dates són supòsits de planificació. Per comparar opcions reals, substitueix-les per un pla de contractació o un abast acordat per escrit."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Fita",
+            "Contractar un SDR intern",
+            "Fer una prova externa d’abast limitat"
+          ],
+          "rows": [
+            [
+              "Setmanes 1–2",
+              "Definir el lloc, iniciar la selecció i reservar temps per formar la persona",
+              "Revisar una mostra de la recerca, aprovar l’encàrrec i acordar qui respon i a qui deriva els dubtes"
+            ],
+            [
+              "Primer contacte autoritzat",
+              "Setmana 7, després de la selecció i la incorporació supervisada previstes",
+              "Setmana 3, si l’equip ha aprovat la mostra i ha comprovat el traspàs"
+            ],
+            [
+              "Primeres quatre setmanes d’activitat",
+              "Setmanes 7–10",
+              "Setmanes 3–6"
+            ],
+            [
+              "Què cal comprovar abans d’ampliar",
+              "Pot el responsable continuar formant l’SDR? Hi ha prou feina per al lloc després de la prova?",
+              "Pot el teu equip consultar els registres i reprendre la feina aprovada si s’acaba l’encàrrec?"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Compara la despesa durant les mateixes 12 setmanes. Per comparar resultats, pren les primeres quatre setmanes d’activitat de cada opció i aplica el mateix públic, els mateixos canals, els mateixos criteris de qualificació i el mateix termini de seguiment. A la sisena setmana, la prova externa ja fa quatre setmanes que funciona i l’SDR intern encara no ha començat a contactar. Això aclareix els terminis. Espera que totes dues mostres tinguin un seguiment comparable abans de valorar-ne la qualitat. Registra per separat les respostes, les reunions qualificades que s’han fet i les oportunitats que ha acceptat vendes."
+        },
+        {
+          "kind": "h3",
+          "text": "Prova un traspàs abans de comprometre’t"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Fes servir la mateixa empresa fictícia en tots dos models. Imagina que algú respon «M’interessa, però això ho porta Compres». Demana a qui prospecta que mostri on registra la resposta, qui comprova la derivació i què veurà vendes. Deixa el cas obert fins que es puguin verificar el paper de la persona en la compra i els altres criteris d’acceptació. Demana una exportació de mostra amb el motiu pel qual es va triar l’empresa, el missatge aprovat, l’historial de respostes, l’estat d’exclusió i qui ha de fer el pas següent. Comprova si una altra persona autoritzada pot reprendre el cas amb aquest registre."
+        },
+        {
+          "kind": "h3",
+          "text": "Anota què faria canviar la decisió"
+        },
+        {
+          "kind": "paragraph",
+          "text": "En aquest exemple, la prova externa pot ajudar l’equip a aprendre abans si aprova la feina, té temps per resoldre dubtes i pot comprovar el traspàs. Es pot tornar a plantejar la contractació quan la demanda sigui prou constant per justificar un lloc dedicat i el responsable pugui reservar temps de formació. Si en tots dos models encara falta algú que es faci càrrec de les primeres converses comercials i dels comentaris de seguiment, resol-ho primer. Anota qui revisarà les proves, quan cal decidir i què faria canviar de rumb l’equip."
+        }
+      ]
+    },
+    "fr": {
+      "label": "Comparer les délais de démarrage",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Comparez le recrutement et l’externalisation sur un même calendrier de 12 semaines"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Faites partir les deux scénarios le jour où vous prenez la décision. Notez quand chacun pourra contacter les entreprises validées et combien de temps il faudra pour suivre les premiers échanges avant d’évaluer les résultats. Le recrutement, l’intégration et les validations prennent du temps, même quand le travail est déjà financé. Intégrez ces semaines au calendrier et au calcul des coûts."
+        },
+        {
+          "kind": "h3",
+          "text": "Comparez séparément les quatre premières semaines d’activité"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Dans ce cas fictif, une équipe B2B dispose d’un responsable commercial qui peut consacrer trois heures par semaine au projet, d’un CRM et d’un commercial qui peut assurer les premiers rendez-vous. Elle veut tester un segment avant d’agrandir l’équipe. Les dates sont des hypothèses de travail. Pour comparer des options réelles, remplacez-les par un plan de recrutement ou un périmètre convenu par écrit."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Étape",
+            "Recruter un SDR en interne",
+            "Lancer un essai externe à périmètre défini"
+          ],
+          "rows": [
+            [
+              "Semaines 1–2",
+              "Définir le poste, lancer le recrutement et réserver du temps pour la formation",
+              "Examiner un échantillon de recherche, valider le brief et désigner qui traite les réponses et les questions à transmettre"
+            ],
+            [
+              "Première prise de contact autorisée",
+              "Semaine 7, après le recrutement et l’intégration supervisée prévus",
+              "Semaine 3, si l’équipe a validé l’échantillon et vérifié le passage de relais"
+            ],
+            [
+              "Quatre premières semaines d’activité",
+              "Semaines 7–10",
+              "Semaines 3–6"
+            ],
+            [
+              "Points à vérifier avant de prolonger",
+              "Le responsable peut-il continuer à accompagner le SDR ? Le volume de travail justifiera-t-il le poste après l’essai ?",
+              "Votre équipe peut-elle consulter les dossiers et reprendre le travail validé si la mission prend fin ?"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Comparez les dépenses sur les mêmes 12 semaines. Pour les résultats, prenez les quatre premières semaines d’activité de chaque option et appliquez la même cible, les mêmes canaux, les mêmes critères de qualification et le même délai de suivi. À la sixième semaine, l’essai externe a quatre semaines d’activité et le SDR interne n’a encore contacté personne. Cela renseigne sur le délai de démarrage. Attendez d’avoir un suivi comparable avant de juger la qualité des deux groupes. Suivez séparément les réponses, les rendez-vous qualifiés qui ont eu lieu et les opportunités acceptées par l’équipe commerciale."
+        },
+        {
+          "kind": "h3",
+          "text": "Testez un passage de relais avant de vous engager"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Prenez la même entreprise fictive pour les deux modèles. Imaginez qu’une personne réponde « Ça m’intéresse, mais ce sont les achats qui s’en occupent ». Demandez à la personne qui prospecte où elle consigne la réponse, qui vérifie la mise en relation et ce que verra l’équipe commerciale. Laissez le dossier ouvert jusqu’à ce que le rôle dans l’achat et les autres critères d’acceptation puissent être vérifiés. Demandez un exemple d’export comprenant la raison du ciblage, le message validé, l’historique des réponses, l’état d’exclusion et la personne chargée de la suite. Vérifiez qu’un autre membre autorisé de l’équipe peut reprendre le dossier à partir de ces informations."
+        },
+        {
+          "kind": "h3",
+          "text": "Notez ce qui ferait changer la décision"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Dans cet exemple, l’essai externe peut faire avancer l’équipe plus tôt si elle valide le travail, a le temps de traiter les questions qui lui reviennent et peut vérifier le passage de relais. Elle peut réexaminer le recrutement quand la demande devient assez régulière pour justifier un poste dédié et que le responsable peut dégager du temps pour la formation. Si aucun des deux modèles ne désigne la personne chargée des premiers entretiens commerciaux et des retours, réglez ce point en priorité. Notez qui examinera les éléments, à quelle date la décision devra être prise et ce qui ferait changer de cap."
+        }
+      ]
+    }
   }
 }

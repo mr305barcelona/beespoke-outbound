@@ -28,6 +28,12 @@ const guides = {
     after:'linkedin-quote-normalizer',
     revised:'2026-11-04T13:42:58+01:00',
     providers:new Set(['stackmatix.com','flocurve.com'])
+  },
+  sdrComparison: {
+    route:'/compare/outsourced-sdr-vs-in-house-sdr/',
+    after:'sdr-model-test',
+    revised:'2026-11-04T16:01:46+01:00',
+    providers:new Set()
   }
 };
 const esc = text => text.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -90,4 +96,4 @@ for(const [id,guide] of Object.entries(guides)){
   }
 }
 fs.writeFileSync(sitemapFile,sitemap);
-console.log('Pricing guide examples: twelve localized pages with plain-text provider citations.');
+console.log('Pricing and SDR examples: sixteen localized pages with plain-text provider citations.');
