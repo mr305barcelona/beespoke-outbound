@@ -1,0 +1,706 @@
+{
+  "cost": {
+    "en": {
+      "label": "Compare commitments before the first review",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Compare what you commit before you can judge results"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Start with the same market, number of buyer segments, channels and acceptance criteria for both quotes. Then ask each provider for two dates. When can you first review meaningful results? When can you first reduce or stop your commitment? A review date only helps if someone can act on it."
+        },
+        {
+          "kind": "h3",
+          "text": "Put the launch, evidence and cancellation dates on one page"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "In the first 90 days",
+            "What to put in the comparison",
+            "Evidence to request"
+          ],
+          "rows": [
+            [
+              "Before launch",
+              "Setup, tools, data, internal review time and who owns the accounts",
+              "A schedule of one-time charges, start dates and account ownership"
+            ],
+            [
+              "While the campaign is running",
+              "Committed fees, when variable charges trigger and when an invoice can be disputed",
+              "A sample invoice tied to a real billing definition and the contract’s review dates"
+            ],
+            [
+              "At the first decision point",
+              "Amount already paid, unavoidable balance and optional spend you can still decline",
+              "Written notice date, final invoice treatment and a list of assets you can take with you"
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Reconcile the pipeline after the invoice cutoff"
+        },
+        {
+          "kind": "paragraph",
+          "text": "In this fictional example, one segment produces four accepted opportunities by the review date. Three further conversations are still open. Report the four accepted opportunities against the spend to date, and keep the three pending cases separate. Check them again after the same follow-up period you use for the other quote. A booked call or a pending decision should not be entered as an accepted opportunity to make a quote appear more efficient. If there are zero accepted opportunities, report the spend and zero accepted outcomes. A unit cost is undefined."
+        },
+        {
+          "kind": "h3",
+          "text": "Decide what you are prepared to fund next"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Use the existing break-even calculator with your own cost, margin and funnel assumptions. Convert monetary inputs to USD for the calculator and use the same qualified-meeting definition for both quotes. Write down which estimate would change the choice if it moved. Then separate the spend you can still control from the spend already owed."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Decision record",
+            "Worked example"
+          ],
+          "rows": [
+            [
+              "Continue",
+              "Keep the same brief if sales can review the accepted cases and the next spending commitment is within the agreed limit."
+            ],
+            [
+              "Revise",
+              "Fix the assignment or qualification process if the team cannot tell why calls were rejected. Repeat the review on the same definition."
+            ],
+            [
+              "Pause or end",
+              "Act before the notice deadline if the required evidence is still missing. Confirm the remaining balance and export approved assets."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Use one record for every bidder. Ask them to show the clause or invoice line that supports each amount. The fictional outcome counts above illustrate the review and are not results or market estimates."
+        }
+      ]
+    },
+    "es": {
+      "label": "Compara los compromisos antes de la primera revisión",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Qué comprometes antes de poder juzgar los resultados"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Compara dos presupuestos para el mismo mercado, número de segmentos, canales y criterios de aceptación. Pide a cada proveedor dos fechas. ¿Cuándo podrás revisar resultados que sirvan para decidir? ¿Cuándo podrás reducir o terminar el compromiso? La revisión solo sirve si aún puedes actuar."
+        },
+        {
+          "kind": "h3",
+          "text": "Pon en un mismo calendario el arranque, la revisión y el preaviso"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Primeros 90 días",
+            "Qué anotar",
+            "Qué pedir como prueba"
+          ],
+          "rows": [
+            [
+              "Antes de empezar",
+              "Puesta en marcha, herramientas, datos, tiempo de revisión interna y titularidad de las cuentas",
+              "Un calendario de gastos puntuales, fechas de inicio y titulares"
+            ],
+            [
+              "Con la campaña en marcha",
+              "Importes comprometidos, qué activa los cargos variables y hasta cuándo se puede impugnar una factura",
+              "Una factura de muestra que aplique el criterio de cobro y las fechas de revisión del contrato"
+            ],
+            [
+              "En la primera decisión",
+              "Lo ya pagado, lo que aún se debe y los gastos opcionales que puedes evitar",
+              "Plazo de preaviso, tratamiento de la última factura y materiales que puedes llevarte"
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Revisa el estado de las oportunidades después del cierre de facturación"
+        },
+        {
+          "kind": "paragraph",
+          "text": "En este ejemplo ficticio, un segmento aporta cuatro oportunidades aceptadas en la fecha de revisión. Otras tres conversaciones siguen abiertas. Compara el gasto acumulado con las cuatro aceptadas y registra aparte las tres pendientes. Revísalas tras el mismo plazo de seguimiento que uses para el otro presupuesto. Una cita agendada o una decisión pendiente no equivale a una oportunidad aceptada. Si no se ha aceptado ninguna, registra el gasto y cero oportunidades aceptadas. No se puede calcular un coste por oportunidad en ese caso."
+        },
+        {
+          "kind": "h3",
+          "text": "Decide qué vas a financiar a partir de ahora"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Usa la calculadora de equilibrio con tus propios costes, margen y tasas de conversión. Convierte los importes a USD para introducirlos en la calculadora y aplica a ambos presupuestos la misma definición de reunión cualificada. Anota qué supuesto cambiaría tu decisión si variara. Separa el gasto que todavía puedes controlar de lo que ya debes."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Decisión",
+            "Ejemplo"
+          ],
+          "rows": [
+            [
+              "Continuar",
+              "Mantén el mismo encargo si ventas puede revisar los casos aceptados y el siguiente compromiso cabe en el límite acordado."
+            ],
+            [
+              "Ajustar",
+              "Corrige la asignación o la cualificación si no puedes saber por qué se rechazaron las reuniones. Repite la revisión con el mismo criterio."
+            ],
+            [
+              "Pausar o terminar",
+              "Actúa antes del plazo de preaviso si aún faltan pruebas. Confirma lo que queda por pagar y exporta los materiales autorizados."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Usa la misma ficha con todos los proveedores. Pide la cláusula o la línea de factura que respalda cada importe. Las cifras del ejemplo ilustran la revisión y no representan resultados ni estimaciones de mercado."
+        }
+      ]
+    },
+    "ca": {
+      "label": "Compara els compromisos abans de la primera revisió",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Què et compromets a pagar abans de poder valorar els resultats"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Compara dos pressupostos per al mateix mercat, nombre de segments, canals i criteris d’acceptació. Demana dues dates a cada proveïdor. Quan podràs revisar resultats que serveixin per decidir? Quan podràs reduir o acabar el compromís? La revisió només serveix si encara hi pots actuar."
+        },
+        {
+          "kind": "h3",
+          "text": "Posa en un mateix calendari l’inici, la revisió i el preavís"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Primers 90 dies",
+            "Què cal anotar",
+            "Què cal demanar"
+          ],
+          "rows": [
+            [
+              "Abans de començar",
+              "Posada en marxa, eines, dades, temps de revisió interna i titularitat dels comptes",
+              "Un calendari de despeses puntuals, dates d’inici i titulars"
+            ],
+            [
+              "Amb la campanya en marxa",
+              "Imports compromesos, què activa els càrrecs variables i fins quan es pot impugnar una factura",
+              "Una factura de mostra que apliqui el criteri de cobrament i les dates de revisió del contracte"
+            ],
+            [
+              "En la primera decisió",
+              "Què has pagat, què encara deus i quines despeses opcionals pots evitar",
+              "Termini de preavís, tractament de la darrera factura i materials que et pots endur"
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Revisa les oportunitats després de tancar la facturació"
+        },
+        {
+          "kind": "paragraph",
+          "text": "En aquest exemple fictici, un segment aporta quatre oportunitats acceptades en la data de revisió. Hi ha tres converses més que continuen obertes. Compara la despesa acumulada amb les quatre acceptades i registra per separat les tres pendents. Revisa-les quan hagi passat el mateix termini de seguiment que apliques a l’altre pressupost. Una reunió reservada o una decisió pendent no equival a una oportunitat acceptada. Si no se n’ha acceptat cap, registra la despesa i zero oportunitats acceptades. En aquest cas no es pot calcular el cost per oportunitat."
+        },
+        {
+          "kind": "h3",
+          "text": "Decideix què vols finançar a partir d’ara"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Fes servir la calculadora del punt d’equilibri amb els teus costos, marge i taxes de conversió. Converteix els imports a USD abans d’introduir-los i aplica la mateixa definició de reunió qualificada als dos pressupostos. Anota quin supòsit canviaria la decisió si variés. Separa la despesa que encara pots controlar de la que ja deus."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Decisió",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Continuar",
+              "Mantén el mateix encàrrec si vendes pot revisar els casos acceptats i el compromís següent entra dins del límit acordat."
+            ],
+            [
+              "Ajustar",
+              "Corregeix l’assignació o la qualificació si no saps per què s’han rebutjat reunions. Repeteix la revisió amb el mateix criteri."
+            ],
+            [
+              "Fer una pausa o acabar",
+              "Actua abans del termini de preavís si encara falten proves. Confirma què queda per pagar i exporta els materials autoritzats."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Fes servir la mateixa fitxa amb tots els proveïdors. Demana la clàusula o la línia de factura que justifica cada import. Les xifres de l’exemple expliquen la revisió i no representen resultats ni estimacions de mercat."
+        }
+      ]
+    },
+    "fr": {
+      "label": "Comparer les engagements avant le premier bilan",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Ce que vous engagez avant de pouvoir juger les résultats"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Comparez les devis pour le même marché, le même nombre de segments, les mêmes canaux et les mêmes critères d’acceptation. Demandez deux dates à chaque prestataire. Quand pourrez-vous faire un bilan qui permet de décider ? Quand pourrez-vous réduire ou arrêter l’engagement ? Le bilan sert à condition de pouvoir agir à temps."
+        },
+        {
+          "kind": "h3",
+          "text": "Réunissez le lancement, le bilan et le préavis sur un calendrier"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Dans les 90 premiers jours",
+            "Éléments à noter",
+            "Justificatif à demander"
+          ],
+          "rows": [
+            [
+              "Avant le lancement",
+              "Démarrage, outils, données, temps de validation interne et titularité des comptes",
+              "Calendrier des frais ponctuels, dates de début et titulaires des comptes"
+            ],
+            [
+              "Pendant la campagne",
+              "Montants engagés, déclenchement des frais variables et délai de contestation d’une facture",
+              "Exemple de facture qui applique la règle de facturation et dates de bilan prévues au contrat"
+            ],
+            [
+              "Au premier point de décision",
+              "Sommes déjà versées, solde dû et dépenses facultatives encore évitables",
+              "Délai de préavis, traitement de la dernière facture et liste des éléments récupérables"
+            ]
+          ]
+        },
+        {
+          "kind": "h3",
+          "text": "Revoyez les opportunités après la clôture de la facture"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Dans cet exemple fictif, un segment a donné quatre opportunités acceptées à la date du bilan. Trois autres conversations restent ouvertes. Rapprochez les dépenses à date des quatre opportunités acceptées et suivez séparément les trois en attente. Revoyez-les après le même délai de suivi que pour l’autre devis. Un rendez-vous réservé ou une décision en attente ne compte pas comme une opportunité acceptée. Si aucune opportunité n’a été acceptée, indiquez la dépense et le nombre zéro. Le coût unitaire ne peut alors pas être calculé."
+        },
+        {
+          "kind": "h3",
+          "text": "Décidez de ce que vous voulez encore financer"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Utilisez le calculateur de seuil de rentabilité avec vos propres coûts, votre marge et vos taux de conversion. Convertissez les montants en USD pour le calculateur et appliquez la même définition du rendez-vous qualifié aux deux devis. Notez quelle hypothèse pourrait faire changer la décision. Séparez les dépenses que vous pouvez encore éviter des sommes déjà dues."
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Décision",
+            "Exemple"
+          ],
+          "rows": [
+            [
+              "Continuer",
+              "Gardez le même brief si l’équipe commerciale peut examiner les cas acceptés et si le prochain engagement respecte le plafond convenu."
+            ],
+            [
+              "Ajuster",
+              "Corrigez l’attribution ou la qualification si vous ignorez pourquoi des rendez-vous ont été refusés. Reprenez le bilan avec le même critère."
+            ],
+            [
+              "Suspendre ou arrêter",
+              "Agissez avant la date de préavis si les preuves manquent encore. Confirmez le solde dû et exportez les éléments autorisés."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Utilisez la même fiche pour chaque prestataire. Demandez la clause ou la ligne de facture qui justifie chaque montant. Les chiffres fictifs ci-dessus illustrent le bilan et ne représentent ni résultats ni estimations de marché."
+        }
+      ]
+    }
+  },
+  "calling": {
+    "en": {
+      "label": "Reconcile staffed and billed hours",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Reconcile staffed hours with the work on the invoice"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ask both bidders what counts as one billed hour. A staffed-hour quote can charge for time assigned to your program. A productive-hour quote might count only the activities defined in the proposal and bill coaching, training or other work separately. Ask for the definition, a sample time report and the invoice line that matches it."
+        },
+        {
+          "kind": "h3",
+          "text": "Apply both definitions to the same fictional time report"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Time category",
+            "Hours",
+            "What to verify"
+          ],
+          "rows": [
+            [
+              "Dialing, conversations and recorded follow-up",
+              "68",
+              "Which activities count as productive work, and how an agent records them"
+            ],
+            [
+              "Scheduled quality reviews, training and breaks",
+              "17",
+              "Whether each item is included, separately charged or excluded"
+            ],
+            [
+              "Assigned capacity without usable contact records",
+              "15",
+              "Whether unused time remains billable and who can approve a change to the schedule"
+            ],
+            [
+              "Total staffed time",
+              "100",
+              "Whether minimum hours or rounding can change the invoice"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "One quote might bill all 100 assigned hours. Another might bill 68 productive hours plus separately approved work and any contractual minimum. This is a comparison of definitions, not rates. Put both invoices on the same monthly period and add telephony, setup and internal supervision where each applies. If the provider cannot identify an item in both the time log and invoice, ask for an explanation before assuming it is included."
+        },
+        {
+          "kind": "h3",
+          "text": "Reconcile the outcomes separately"
+        },
+        {
+          "kind": "paragraph",
+          "text": "The same sample month had six calendar bookings. Four meetings took place, three met the written criteria and two are still pending. A contract may charge for a booking while the buyer evaluates performance on held qualified meetings. Use six bookings only where that is the invoice basis. Use three held qualified meetings in the calculator when comparing the outcome across both proposals. Keep pending records open under their original identifiers and reconcile them once attendance and qualification are known."
+        },
+        {
+          "kind": "h3",
+          "text": "Ask for a reconciliation you can repeat"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Evidence",
+            "What a buyer should be able to do"
+          ],
+          "rows": [
+            [
+              "Agent activity and time log",
+              "Match work categories to billable hours and identify idle, rounded or excluded time"
+            ],
+            [
+              "Invoice and credit example",
+              "Trace each adjustment to a time period or original booking"
+            ],
+            [
+              "Calendar and CRM record",
+              "Check whether a booking was held and whether sales accepted it under the same criteria"
+            ],
+            [
+              "Review and handoff record",
+              "Find the next owner, the reason for exceptions and the export available at the end"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "The scenarios are fictional. Use your own contract, approved cost inputs and actual time and meeting records."
+        }
+      ]
+    },
+    "es": {
+      "label": "Contrasta las horas asignadas con las facturadas",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Qué horas de trabajo aparecen en la factura"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Pregunta a ambos proveedores qué se considera una hora facturable. Una oferta por hora asignada puede cobrar el tiempo reservado para tu campaña. Otra puede cobrar solo las tareas que define como productivas y presupuestar aparte la formación, la supervisión u otras tareas. Pide la definición, un registro de horas de muestra y la línea de factura correspondiente."
+        },
+        {
+          "kind": "h3",
+          "text": "Aplica las dos definiciones al mismo registro ficticio"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Tipo de actividad",
+            "Horas",
+            "Qué verificar"
+          ],
+          "rows": [
+            [
+              "Marcación, conversaciones y seguimiento registrado",
+              "68",
+              "Qué actividades se consideran productivas y cómo se registran"
+            ],
+            [
+              "Revisiones de calidad, formación y descansos programados",
+              "17",
+              "Qué se incluye, qué se factura aparte y qué se excluye"
+            ],
+            [
+              "Tiempo asignado sin datos de contacto utilizables",
+              "15",
+              "Si el tiempo sin actividad se cobra y quién puede aprobar cambios de horario"
+            ],
+            [
+              "Total de horas asignadas",
+              "100",
+              "Si un mínimo de horas o el redondeo modifican la factura"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Un presupuesto podría facturar las 100 horas asignadas. Otro, las 68 horas productivas más las tareas aprobadas aparte y el mínimo que establezca el contrato. Compara los criterios de facturación. Usa el mismo mes y añade telefonía, puesta en marcha y supervisión interna cuando corresponda. Si una partida no se puede localizar en el registro y la factura, acláralo antes de darla por incluida."
+        },
+        {
+          "kind": "h3",
+          "text": "Revisa los resultados por separado"
+        },
+        {
+          "kind": "paragraph",
+          "text": "El mismo mes ficticio tuvo seis citas agendadas. Cuatro se celebraron, tres cumplieron los criterios escritos y dos siguen pendientes. El contrato puede cobrar una cita agendada aunque tú evalúes el servicio por las reuniones cualificadas que se celebraron. Usa las seis citas solo si son la base del cobro. Para comparar resultados con la calculadora, usa las tres reuniones cualificadas y celebradas. Conserva las citas pendientes bajo su identificador original y revísalas cuando se conozcan la asistencia y la cualificación."
+        },
+        {
+          "kind": "h3",
+          "text": "Pide una comprobación que puedas repetir"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Documento",
+            "Qué deberías poder comprobar"
+          ],
+          "rows": [
+            [
+              "Registro de actividad y horas",
+              "Vincular cada actividad con las horas facturables e identificar el tiempo sin actividad, redondeado o excluido"
+            ],
+            [
+              "Ejemplo de factura y abono",
+              "Asociar cada ajuste con un periodo o con una cita original"
+            ],
+            [
+              "Calendario y CRM",
+              "Comprobar si se celebró la cita y si ventas la aceptó según el mismo criterio"
+            ],
+            [
+              "Registro de revisión y traspaso",
+              "Saber quién se encarga del siguiente paso, por qué se hicieron excepciones y qué se puede exportar al final"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Los casos son ficticios. Para revisar tu presupuesto, usa el contrato, los costes aprobados y los registros reales de horas y reuniones."
+        }
+      ]
+    },
+    "ca": {
+      "label": "Contrasta les hores assignades amb les facturades",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Quines hores de feina apareixen a la factura"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Pregunta a tots dos proveïdors què compta com a hora facturable. Un pressupost per hora assignada pot cobrar el temps reservat per a la campanya. Un altre pot comptar només les tasques que defineix com a productives i pressupostar a part la formació, la supervisió o altres tasques. Demana la definició, un registre d’hores de mostra i la línia de factura corresponent."
+        },
+        {
+          "kind": "h3",
+          "text": "Aplica les dues definicions al mateix registre fictici"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Tipus d’activitat",
+            "Hores",
+            "Què cal comprovar"
+          ],
+          "rows": [
+            [
+              "Marcatge, converses i seguiment registrat",
+              "68",
+              "Quines activitats compten com a productives i com es registren"
+            ],
+            [
+              "Revisions de qualitat, formació i pauses programades",
+              "17",
+              "Què s’inclou, què es factura a part i què queda exclòs"
+            ],
+            [
+              "Temps assignat sense dades de contacte utilitzables",
+              "15",
+              "Si es cobra el temps sense activitat i qui pot aprovar canvis d’horari"
+            ],
+            [
+              "Total d’hores assignades",
+              "100",
+              "Si el mínim d’hores o l’arrodoniment canvien la factura"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Un pressupost podria facturar les 100 hores assignades. L’altre podria facturar les 68 hores productives més les feines aprovades a part i el mínim que estableixi el contracte. Compara els criteris de facturació. Fes servir el mateix mes i afegeix la telefonia, la posada en marxa i la supervisió interna quan pertoqui. Si no trobes una partida tant al registre com a la factura, aclareix-ho abans de donar-la per inclosa."
+        },
+        {
+          "kind": "h3",
+          "text": "Revisa els resultats per separat"
+        },
+        {
+          "kind": "paragraph",
+          "text": "El mateix mes fictici va tenir sis cites reservades. Es van fer quatre reunions, tres van complir els criteris escrits i en queden dues de pendents. El contracte pot cobrar una cita reservada, encara que avaluïs el servei segons les reunions qualificades que s’han fet. Fes servir les sis cites només si són la base del cobrament. Per comparar resultats amb la calculadora, fes servir les tres reunions qualificades i fetes. Conserva l’identificador original de cada cita pendent i revisa-la quan en sàpigues l’assistència i la qualificació."
+        },
+        {
+          "kind": "h3",
+          "text": "Demana una comprovació que puguis repetir"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Document",
+            "Què hauries de poder comprovar"
+          ],
+          "rows": [
+            [
+              "Registre d’activitat i hores",
+              "Vincular les activitats a les hores facturables i identificar el temps sense activitat, arrodonit o exclòs"
+            ],
+            [
+              "Exemple de factura i abonament",
+              "Associar cada ajust a un període o a una cita original"
+            ],
+            [
+              "Calendari i CRM",
+              "Comprovar si la reunió s’ha fet i si vendes l’ha acceptada segons el mateix criteri"
+            ],
+            [
+              "Registre de revisió i traspàs",
+              "Saber qui assumeix el pas següent, per què hi ha excepcions i què es pot exportar en acabar"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Els casos són ficticis. Revisa el teu pressupost amb el contracte, els costos aprovats i els registres reals d’hores i reunions."
+        }
+      ]
+    },
+    "fr": {
+      "label": "Rapprocher les heures affectées et facturées",
+      "blocks": [
+        {
+          "kind": "h2",
+          "text": "Quelles heures de travail figurent sur la facture"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Demandez aux deux prestataires ce qui compte comme une heure facturable. Un devis à l’heure affectée peut facturer le temps réservé à votre campagne. Un autre peut ne compter que les tâches définies comme productives et facturer séparément la formation, l’encadrement ou d’autres tâches. Demandez la définition, un exemple de relevé d’heures et la ligne de facture correspondante."
+        },
+        {
+          "kind": "h3",
+          "text": "Appliquez les deux définitions au même relevé fictif"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Type d’activité",
+            "Heures",
+            "Points à vérifier"
+          ],
+          "rows": [
+            [
+              "Appels, conversations et suivi enregistré",
+              "68",
+              "Quelles tâches sont considérées comme productives et comment elles sont enregistrées"
+            ],
+            [
+              "Contrôles qualité, formation et pauses planifiés",
+              "17",
+              "Ce qui est inclus, facturé à part ou exclu"
+            ],
+            [
+              "Temps affecté sans coordonnées exploitables",
+              "15",
+              "Si ce temps est facturé et qui peut approuver une modification du planning"
+            ],
+            [
+              "Total d’heures affectées",
+              "100",
+              "Si un minimum d’heures ou un arrondi change la facture"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Un devis pourrait facturer les 100 heures affectées. Un autre pourrait facturer les 68 heures productives, les tâches approuvées à part et le minimum prévu au contrat. Comparez les règles de facturation. Prenez le même mois et ajoutez, selon le cas, la téléphonie, le démarrage et le temps de supervision interne. Si un poste ne figure pas à la fois dans le relevé et sur la facture, demandez une explication avant de le considérer comme inclus."
+        },
+        {
+          "kind": "h3",
+          "text": "Vérifiez les résultats séparément"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Le même mois fictif compte six rendez-vous réservés. Quatre ont eu lieu, trois répondaient aux critères écrits et deux restent en attente. Le contrat peut facturer une réservation alors que vous évaluez la prestation sur les rendez-vous qualifiés qui ont eu lieu. Utilisez les six réservations uniquement si elles constituent la base de facturation. Pour comparer les résultats dans le calculateur, saisissez les trois rendez-vous qualifiés qui ont eu lieu. Conservez l’identifiant initial des rendez-vous en attente et revoyez-les lorsque la présence et la qualification sont connues."
+        },
+        {
+          "kind": "h3",
+          "text": "Demandez un contrôle que vous pourrez répéter"
+        },
+        {
+          "kind": "table",
+          "columns": [
+            "Document",
+            "Ce que vous devez pouvoir vérifier"
+          ],
+          "rows": [
+            [
+              "Relevé des activités et des heures",
+              "Rapprocher les tâches des heures facturables et repérer les temps inoccupés, arrondis ou exclus"
+            ],
+            [
+              "Exemple de facture et d’avoir",
+              "Relier chaque ajustement à une période ou à une réservation initiale"
+            ],
+            [
+              "Calendrier et CRM",
+              "Vérifier que le rendez-vous a eu lieu et que les ventes l’ont accepté selon le même critère"
+            ],
+            [
+              "Compte rendu de suivi et de relais",
+              "Identifier la personne qui prend la suite, le motif des exceptions et les données exportables en fin de mission"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Les cas sont fictifs. Utilisez votre contrat, vos coûts approuvés et vos relevés réels d’heures et de rendez-vous."
+        }
+      ]
+    }
+  }
+}

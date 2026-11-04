@@ -28,5 +28,6 @@ function buyerDescription(route, locale, fallback) {
   const guide = buyerEvidenceRoutes.get(unlocalized(route));
   return guide ? require('../data/buyer-evidence-20261104/' + guide + '/' + locale).description : fallback;
 }
-const dateFor=(route,fallback)=>workedGuideRoutes.has(route)||buyerEvidenceRoutes.has(unlocalized(route))?'2026-11-04':/^(?:\/(?:es|ca|fr))?\/guides\/b2b-lead-generation-consultant-vs-agency\/$/.test(route)?'2026-11-04':/^(?:\/(?:es|ca|fr))?\/guides\/outsourced-sdr-vs-lead-generation-agency\/$/.test(route)?'2026-11-03':outboundOwnerRoutes.has(route)?'2026-10-29':buyerRoutes.has(route)?'2026-10-27':contentRoutes.has(route)?'2026-10-26':routes.includes(route)?'2026-10-20':fallback;
+const pricingEvidenceRoutes = new Set(['/guides/outbound-lead-generation-cost/','/guides/outbound-call-center-pricing/']);
+const dateFor=(route,fallback)=>workedGuideRoutes.has(route)||buyerEvidenceRoutes.has(unlocalized(route))||pricingEvidenceRoutes.has(unlocalized(route))?'2026-11-04':/^(?:\/(?:es|ca|fr))?\/guides\/b2b-lead-generation-consultant-vs-agency\/$/.test(route)?'2026-11-04':/^(?:\/(?:es|ca|fr))?\/guides\/outsourced-sdr-vs-lead-generation-agency\/$/.test(route)?'2026-11-03':outboundOwnerRoutes.has(route)?'2026-10-29':buyerRoutes.has(route)?'2026-10-27':contentRoutes.has(route)?'2026-10-26':routes.includes(route)?'2026-10-20':fallback;
 module.exports={revise,dateFor,buyerDescription};
