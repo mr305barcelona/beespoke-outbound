@@ -1,0 +1,563 @@
+{
+  "description": "Compare a B2B lead generation consultant and agency using four worked decisions, sample scopes, client responsibilities, costs and a handover test.",
+  "answer": "Choose a consultant when you need a diagnosis, a plan or coaching and someone on your team can do the work. Choose managed agency execution when the offer is ready to test but nobody can run outreach and handle replies. If you want to take the work in-house, name the future operator and test the handover before transferring responsibility.",
+  "resources": "Resources",
+  "kicker": "Buying B2B lead generation",
+  "read": "Read the four buying decisions",
+  "author": "By",
+  "updated": "Updated November 4, 2026",
+  "fiction": "The briefs, proposals and records below are fictional examples for evaluating a purchase.",
+  "contents": "On this page",
+  "scroll": "Scroll the table sideways if needed.",
+  "faq": "Questions buyers ask",
+  "sourcesTitle": "Sources and further reading",
+  "sourcesIntro": "Reviewed November 3, 2026. These articles explain how different providers frame consulting and execution. The decision method and fictional records in this guide are Beespoke’s editorial work. Provider descriptions are self-reported and their outcome claims are outside this comparison.",
+  "relatedTitle": "Continue with the relevant decision",
+  "relatedLabels": [
+    "Run a lead-generation audit",
+    "Choose an outbound agency",
+    "Compare outsourced SDR capacity with managed execution",
+    "Estimate outbound costs",
+    "Read our editorial policy"
+  ],
+  "sourceNotes": [
+    "Compares the models by business stage and internal capacity.",
+    "Explains the transition from strategy to execution and handover.",
+    "Frames the choice around the missing work and who can perform it.",
+    "Describes consulting that also includes hands-on work.",
+    "Examines the practical burden of implementing advice."
+  ],
+  "serviceLinks": [
+    "See what managed outbound includes",
+    "Discuss fit with Noah",
+    "Review current pricing and terms"
+  ],
+  "sections": [
+    {
+      "id": "m-models",
+      "label": "Which model fits?",
+      "title": "Buy the work you’re missing",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Start with a task your team cannot do reliably today. Ask who would do it on a normal Tuesday, who can change the brief and who has the authority to accept a result. Those answers matter more than the name on the proposal."
+        },
+        {
+          "type": "table",
+          "caption": "Five ways to cover the work",
+          "heads": [
+            "Model",
+            "What you buy",
+            "What stays with you"
+          ],
+          "rows": [
+            [
+              "Consultant",
+              "A diagnosis, a design or coaching. Verify whether implementation is included.",
+              "A named operator and authority to act on the advice."
+            ],
+            [
+              "Managed agency",
+              "Recurring campaign work under a written scope.",
+              "Product facts, list judgment, expert exceptions and sales decisions."
+            ],
+            [
+              "Freelancer or staff augmentation",
+              "A person’s time for defined work. Confirm how much supervision is included.",
+              "Priorities, review and backup coverage unless agreed otherwise."
+            ],
+            [
+              "Internal team",
+              "Direct ownership of execution and learning.",
+              "Recruiting, tools, supervision and continuity."
+            ],
+            [
+              "Hybrid",
+              "A split between design, operation and a possible transfer.",
+              "One brief, clear decision rights and a receiving operator."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-brief",
+      "label": "Evidence brief",
+      "title": "What do we actually know?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A fictional supplier sells scheduling software to independent inspection firms. It can serve one region and support multi-site customers. Exclude single-site firms and current customers. The sales lead owns discovery. An operations coordinator can work the queue on Tuesdays and Thursdays. Access starts with a read-only CRM export. Live outreach requires approval of the list, claims and sender access."
+        },
+        {
+          "type": "table",
+          "caption": "The starting evidence",
+          "heads": [
+            "Status",
+            "What the buyer can point to"
+          ],
+          "rows": [
+            [
+              "Observed",
+              "The export contains six replies with timestamps. Two were marked poor fit without a reason. Three had no recorded owner. One led to a discovery call."
+            ],
+            [
+              "Hypothesis",
+              "Poor fit could reflect the list. The unattended replies could also explain why few conversations progressed."
+            ],
+            [
+              "Unknown",
+              "Whether the unassigned firms met the agreed criteria and whether two operating days cover the queue reliably."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Check the six replies against the service area, site count and routing history before paying for a new list. In this example, two of the three unassigned firms meet the current criteria. The other is unclear. That changes the first decision from replacing the list to assigning an owner and reviewing the exceptions. This sample cannot establish overall list quality or demand."
+        }
+      ]
+    },
+    {
+      "id": "m-cases",
+      "label": "Four decisions",
+      "title": "Four buyers make different choices",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1. An operator is available and the diagnosis is unclear"
+        },
+        {
+          "type": "p",
+          "text": "The inspection supplier assigns its coordinator and sales lead to review replies. Buy a bounded diagnostic engagement that leaves them with a routing rule and a test they can repeat. A full managed campaign would add capacity before the team knows what to fix. If the coordinator leaves and there is no replacement, advice alone can’t keep the queue moving. Check demand and sales ownership first, then compare managed execution."
+        },
+        {
+          "type": "heading",
+          "text": "2. The offer is established and nobody can run the campaign"
+        },
+        {
+          "type": "p",
+          "text": "A fictional compliance software vendor has sales notes showing a repeatable use case and a sales lead ready to take calls. Nobody owns account research or replies. Scope managed work around the approved list, messaging, reply ownership and a handoff the sales lead can accept. Reject advisory-only support until there is a named operator. Check access and the handling of a borderline reply before signing."
+        },
+        {
+          "type": "heading",
+          "text": "3. A future operator needs time to take over"
+        },
+        {
+          "type": "p",
+          "text": "A fictional integration firm has assigned an incoming coordinator. Start with design and a bounded operating period if the contract names who operates before transfer and what the receiver must demonstrate. An immediate transfer would leave live exceptions with an untrained owner. An open-ended managed scope would leave the transition undefined. Revisit the split if the start date slips."
+        },
+        {
+          "type": "heading",
+          "text": "4. The team has no offer it can defend yet"
+        },
+        {
+          "type": "p",
+          "text": "A fictional services team cannot specify which work it can deliver or who will take discovery. Defer recurring outreach. Assign a sales owner and test the proposed offer in existing conversations before buying a campaign. A freelancer would face the same unresolved decisions. Resume when the team can show who it serves, what it can substantiate and who acts on replies."
+        }
+      ]
+    },
+    {
+      "id": "m-scopes",
+      "label": "Read the scope",
+      "title": "Compare three proposal excerpts",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Three fictional scopes for the inspection supplier",
+          "heads": [
+            "Excerpt",
+            "What it covers",
+            "What to settle"
+          ],
+          "rows": [
+            [
+              "“Review the reply export and recommend a routing rule.”",
+              "Diagnosis and a decision note.",
+              "The coordinator must implement it. Ask how the recommendation will be checked."
+            ],
+            [
+              "“Design the rule and coach the coordinator through a supervised review.”",
+              "Design, practice and feedback.",
+              "The client owns the live queue. Name a backup and define the review evidence."
+            ],
+            [
+              "“Run the approved campaign and reply queue, then train the named operator on live exceptions.”",
+              "Recurring execution and an agreed transfer exercise.",
+              "Confirm sender access, client approvals and who operates when a transfer test fails."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Read the deliverables and exclusions against the same brief. Ask for clarification where responsibility is vague, including who updates the rule after a change in buyer fit."
+        }
+      ]
+    },
+    {
+      "id": "m-work",
+      "label": "The work itself",
+      "title": "Inspect a recommendation and an execution record",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "“Personalize more” gives the coordinator little to act on. A usable recommendation for this brief reads differently."
+        },
+        {
+          "type": "record",
+          "title": "Sample consulting decision",
+          "rows": [
+            [
+              "Evidence",
+              "Three replies lack an owner. Two meet the written fit rule."
+            ],
+            [
+              "Alternative explanation",
+              "The list may still be weak. The replies are too few to assess the whole list."
+            ],
+            [
+              "Decision and owner",
+              "The sales lead approves a named owner for each new reply. The coordinator checks the existing exceptions before widening the list."
+            ],
+            [
+              "Acceptance and open question",
+              "Review the next reply log for timestamps, assignment and reasons for exclusions. The necessary operating coverage remains unknown."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Sample execution record",
+          "rows": [
+            [
+              "Fit and public context",
+              "A multi-site inspection firm is in the service region. A public job post mentions coordinating assignments across sites. It gives a reason to ask a question and provides no evidence of buying intent."
+            ],
+            [
+              "Message judgment",
+              "“Your field coordinator job post mentions assigning inspectors across sites. Does the dispatch team build that schedule centrally or does each site own it?” Avoid assuming there is a scheduling problem."
+            ],
+            [
+              "State and owner",
+              "Response unknown. The approved operator owns outreach. The sales lead handles a substantive product question and validates fit."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "What the client keeps",
+          "heads": [
+            "Decision",
+            "Who acts",
+            "What can stall"
+          ],
+          "rows": [
+            [
+              "List fit, exclusions and claims",
+              "Client approver decides. Operator applies the approved brief.",
+              "Pause affected records when fit or a claim needs judgment."
+            ],
+            [
+              "Sender access and daily work",
+              "Client authorizes access. Named operator runs approved activity and assigns replies.",
+              "Hold outreach without authorization or coverage."
+            ],
+            [
+              "Exceptions, discovery and feedback",
+              "Sales lead handles technical questions, discovery and disposition. Operator records the outcome.",
+              "A booking can sit unworked if nobody accepts the handoff."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-handoff",
+      "label": "Transfer and ownership",
+      "title": "Make the receiving operator demonstrate the work",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "In the fictional integration firm, the coordinator gets brief version 2, a training queue and the current routing rules. They correctly assign a routine reply. Then a recipient asks to stop messages after contact from two channels. The coordinator closes only the email thread. The current operator keeps responsibility, applies suppression across the approved channels and repeats the exception test with the receiver before transfer."
+        },
+        {
+          "type": "p",
+          "text": "Keep one owner for the active brief and exclusions, one approver for message claims and one operator for each account and channel. The sales lead owns result definitions. If an agency gets an instruction to follow up with an account the consultant marked excluded, hold the affected activity until the brief owner resolves it. A shared stop list and a single change log are worth the coordination only if the split solves a real capacity or learning gap."
+        },
+        {
+          "type": "table",
+          "caption": "Fictional transfer inventory",
+          "heads": [
+            "Asset and location",
+            "Right or access to check",
+            "Receiver and receipt"
+          ],
+          "rows": [
+            [
+              "Brief and message rationale in the shared workspace",
+              "Confirm which documents the buyer may retain and adapt.",
+              "Coordinator receives the approved version and names the active one."
+            ],
+            [
+              "Research structure and qualification rules in the CRM",
+              "Confirm fields, export rights and licensed data restrictions.",
+              "Sales lead reconciles a sample to the approved rules."
+            ],
+            [
+              "Suppression list and queue export",
+              "Transfer only the permitted records and fields.",
+              "Current operator compares suppression status with the receiver. Exception test is pending."
+            ],
+            [
+              "Sender accounts and tool access",
+              "Check administrator, license and revocation rights separately.",
+              "Client administrator verifies access before removing the old operator."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Access to a tool does not establish ownership. Confirm the allowed uses of personal or licensed data separately from the right to receive an export."
+        }
+      ]
+    },
+    {
+      "id": "m-costs",
+      "label": "Compare costs",
+      "title": "Use the same period and include internal work",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Use a common decision window. In this fictional comparison it is one quarter. Request a written scope for that window, and leave unknown fees or staff time open until the owner can verify them."
+        },
+        {
+          "type": "table",
+          "caption": "Same brief over one quarter",
+          "heads": [
+            "Cost or obligation",
+            "Diagnostic engagement",
+            "Managed execution"
+          ],
+          "rows": [
+            [
+              "External fees",
+              "One-off fee to confirm. Check whether supervised adoption is included.",
+              "Recurring fee to confirm. Confirm any setup and transfer work."
+            ],
+            [
+              "Internal time",
+              "Coordinator operates the queue. Sales lead reviews exceptions.",
+              "Sales lead approves fit and takes discovery. Confirm remaining management time."
+            ],
+            [
+              "Tools and data",
+              "Confirm CRM access, licenses and export limits.",
+              "Confirm which tools and data are included and what the buyer retains."
+            ],
+            [
+              "Transition",
+              "Check the rule on real work and assign a backup.",
+              "Agree the exit inventory and who operates if transfer is delayed."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Read what payment rewards",
+          "heads": [
+            "Proposal type",
+            "Evidence to request",
+            "Question for the agreement"
+          ],
+          "rows": [
+            [
+              "Advisory project",
+              "A completed decision and a test the team can run.",
+              "Who implements, and what marks delivery accepted?"
+            ],
+            [
+              "Managed retainer",
+              "Work log, agreed qualification and clear reply ownership.",
+              "Which recurring work and dependencies does the fee cover?"
+            ],
+            [
+              "Outcome-linked",
+              "Original booking and acceptance evidence, with exceptions recorded.",
+              "What counts as an accepted unit and how are cancellations and reschedules handled?"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The risk in a diagnostic project is paying for a deliverable nobody can apply. A retainer can reward activity while the reply queue still stalls. An outcome-linked fee can encourage marginal bookings if the acceptance rule is vague. The buyer must supply an operator for the first model, approvals and sales coverage for the second, and a written definition of an accepted booking for the third."
+        },
+        {
+          "type": "p",
+          "text": "A minimum term or the absence of a free pilot tells you little about quality on its own. Compare the work and acceptance language. Calculate return only when outcomes, attribution, costs and margins are known."
+        }
+      ]
+    },
+    {
+      "id": "m-outcomes",
+      "label": "Outcome evidence",
+      "title": "Separate the decision from adoption and sales",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Fictional observation log",
+          "heads": [
+            "When",
+            "Evidence",
+            "What it tells you"
+          ],
+          "rows": [
+            [
+              "Week 1",
+              "The sales lead approves a revised reply rule.",
+              "A decision was made. It still needs implementation."
+            ],
+            [
+              "Week 2",
+              "The coordinator routes a routine reply correctly. The suppression exception fails.",
+              "Routine work can be performed. Transfer remains on hold."
+            ],
+            [
+              "Week 3",
+              "One original booking is recorded and then rescheduled. The discovery call takes place.",
+              "One booking and one held call. No extra acquisition from the reschedule."
+            ],
+            [
+              "Week 4",
+              "Sales has yet to accept an opportunity. Source attribution is unconfirmed.",
+              "Keep the opportunity and return unresolved."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-diligence",
+      "label": "Evidence and incentives",
+      "title": "Ask who benefits from the recommendation",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A consultant may sell implementation or receive referral income. An agency may offer sound advice even if it has a commercial interest in running the work. Ask each provider how they are paid and what evidence would lead them to advise against a programme."
+        },
+        {
+          "type": "p",
+          "text": "In a fictional proposal, the lead adviser says they personally designed a routing process, then shows a sample decision note. That shows the shape of the work. Their claim that the new process improved conversion remains unverified. They also sell the implementation, so ask what they would recommend if the client used its own coordinator."
+        },
+        {
+          "type": "record",
+          "title": "Sample evidence request",
+          "rows": [
+            [
+              "Ask for",
+              "A redacted work structure or a labelled fictional sample that shows the decision, the person who implemented it and the acceptance check."
+            ],
+            [
+              "Verify separately",
+              "Who did the work, what was inspected and which part the proposed team would own. A sample structure alone does not verify operating results."
+            ],
+            [
+              "Open question",
+              "“Will you or an affiliate be paid if we choose the operating provider you recommend?” Record the answer before comparing proposals."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-record",
+      "label": "Decision record",
+      "title": "Write down what would change your mind",
+      "blocks": [
+        {
+          "type": "record",
+          "title": "Completed decision for the inspection supplier",
+          "rows": [
+            [
+              "Problem and evidence",
+              "Replies have no owner in the CRM. Two unattended replies meet the current fit rule."
+            ],
+            [
+              "Selected scope and rejected option",
+              "Buy bounded diagnosis and a supervised routing check. Defer a recurring managed campaign until the bottleneck is clearer."
+            ],
+            [
+              "Owner and unknown",
+              "Sales lead accepts the rule. Coordinator owns the queue. Capacity on other days is still unknown."
+            ],
+            [
+              "Reopen the decision when",
+              "The coordinator becomes unavailable or the reviewed queue shows recurring coverage gaps. Compare managed execution against the same brief and sales ownership."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Completed decision for the integration firm",
+          "rows": [
+            [
+              "Problem and evidence",
+              "An incoming coordinator will take ownership. Their routine practice task passed, but their refusal-handling test failed."
+            ],
+            [
+              "Selected scope and rejected option",
+              "Keep the current operator responsible during a second supervised exercise. Defer an immediate transfer and ask for a defined end to the managed period."
+            ],
+            [
+              "Owner and unknown",
+              "The sales lead accepts the transfer when the coordinator can handle the exception. The date of acceptance is open."
+            ],
+            [
+              "Reopen the decision when",
+              "The coordinator passes the test or the agreed operator becomes unavailable."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "You can copy or print these records and replace the fictional evidence with your own. Keep the trigger for reconsidering the decision visible when requesting proposals."
+        }
+      ]
+    },
+    {
+      "id": "m-service",
+      "label": "Where Beespoke fits",
+      "title": "When managed outbound is the work you need",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Beespoke is a founder-led managed outbound agency. Its work can include research, individual messaging, authorized execution over cold email and/or LinkedIn, reply handling, agreed qualification and calendar handoff. Your team retains list judgment, product claims, expert responses, discovery, proposals and closing. Cold calling is quoted separately by market. If you need independent standalone advice or neutral vendor selection, seek a specialist consultant."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    [
+      "What is the difference between a lead generation consultant and an agency?",
+      "A consultant commonly helps diagnose and design the work. A managed agency commonly operates an agreed campaign. Check the written scope because both may offer advice or execution."
+    ],
+    [
+      "When should I choose a consultant first?",
+      "Choose bounded advice when the cause is unclear and your team has an operator who can apply and test the recommendation."
+    ],
+    [
+      "When is a hybrid engagement worth it?",
+      "A hybrid can fit when the work needs design and temporary execution, with a named receiving operator, clear decision rights and an observed handover test."
+    ],
+    [
+      "How do I compare consultant and agency costs?",
+      "Use the same decision window and include external fees, internal time, tools, data, implementation and transition. Leave unknown amounts open."
+    ],
+    [
+      "What proves a successful handover?",
+      "The receiving operator can do routine work and handle an exception with the right access, assets and approval. Record failures and keep a current owner until the gaps are resolved."
+    ],
+    [
+      "Can Beespoke provide independent vendor selection?",
+      "Beespoke provides managed outbound. If you need neutral provider selection or independent standalone advice, seek a specialist consultant."
+    ]
+  ]
+}

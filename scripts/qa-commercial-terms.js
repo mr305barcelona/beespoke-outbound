@@ -49,7 +49,13 @@ for(const route of require('../data/owner-reviewed-routes-20261019.json')){
 console.log('Reviewed sitemap dates agree with the scoped publication date.');
 
 for(const row of require('../data/editorial-reviewed-2026-10-19.json').filter(r=>r.reviewedOn==='2026-10-20')){
- for(const file of row.pages){const html=fs.readFileSync(path.join(root,file),'utf8');assert(html.includes(esc(row.after)),file+': reviewed grammar missing');assert(!html.includes(esc(row.before)),file+': superseded grammar remains');}
+ for(const file of row.pages){const html=fs.readFileSync(path.join(root,file),'utf8');
+  if (/^(?:es|ca|fr)\/guides\/b2b-lead-generation-consultant-vs-agency\/index\.html$/.test(file)) {
+   assert(html.includes('data-model-config'),file+': full localized replacement missing');
+  } else {
+   assert(html.includes(esc(row.after)),file+': reviewed grammar missing');
+  }
+  assert(!html.includes(esc(row.before)),file+': superseded grammar remains');}
 }
 console.log('Reviewed follow-up editorial corrections remain applied in visible text and matching schema fields.');
 

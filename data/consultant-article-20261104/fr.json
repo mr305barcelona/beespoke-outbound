@@ -1,0 +1,563 @@
+{
+  "description": "Comparez un consultant en génération de leads B2B et une agence à partir de quatre décisions, de périmètres types, des coûts et d’un test de passation.",
+  "answer": "Choisissez un consultant si vous avez besoin d’un diagnostic, d’un plan ou d’un accompagnement et que votre équipe peut exécuter le travail. Choisissez une agence si l’offre est prête à être testée mais que personne ne peut gérer la prospection et les réponses. Si vous comptez reprendre l’activité en interne, désignez la personne qui la reprendra et vérifiez la passation.",
+  "resources": "Ressources",
+  "kicker": "Acheter une prestation de prospection B2B",
+  "read": "Lire les quatre décisions",
+  "author": "Par",
+  "updated": "Mis à jour le 4 novembre 2026",
+  "fiction": "Les situations, propositions et registres sont fictifs. Ils servent à évaluer un achat.",
+  "contents": "Sur cette page",
+  "scroll": "Faites défiler le tableau horizontalement si nécessaire.",
+  "faq": "Questions fréquentes",
+  "sourcesTitle": "Sources et lectures complémentaires",
+  "sourcesIntro": "Sources consultées le 3 novembre 2026. Ces articles montrent comment des prestataires décrivent le conseil et l’exécution. La méthode de décision et les registres fictifs relèvent du travail éditorial de Beespoke. Les descriptions viennent des prestataires et la comparaison n’évalue pas leurs affirmations de résultats.",
+  "relatedTitle": "Poursuivez avec la décision qui vous concerne",
+  "relatedLabels": [
+    "Auditer la génération de leads",
+    "Choisir une agence de prospection",
+    "Comparer renfort SDR et prospection gérée",
+    "Estimer les coûts de prospection",
+    "Consulter notre politique éditoriale"
+  ],
+  "sourceNotes": [
+    "Compare les modèles selon le stade de l’entreprise et ses ressources internes.",
+    "Explique le passage de la stratégie à l’exécution puis à la passation.",
+    "Pose la question du travail manquant et de la personne qui peut l’assurer.",
+    "Décrit un cabinet de conseil qui intervient aussi dans l’exécution.",
+    "Examine l’effort requis pour appliquer les recommandations."
+  ],
+  "serviceLinks": [
+    "Voir ce que comprend la prospection gérée",
+    "Vérifier avec Noah si la prestation vous convient",
+    "Consulter les tarifs et conditions en vigueur"
+  ],
+  "sections": [
+    {
+      "id": "m-models",
+      "label": "Quel modèle choisir",
+      "title": "Achetez la prestation qui vous manque",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Partez d’une tâche que votre équipe ne peut pas assurer régulièrement. Demandez qui la ferait un mardi ordinaire, qui peut modifier les consignes et qui peut accepter le résultat. Ces réponses comptent davantage que l’intitulé de la prestation."
+        },
+        {
+          "type": "table",
+          "caption": "Cinq façons d’assurer le travail",
+          "heads": [
+            "Modèle",
+            "Ce que vous achetez",
+            "Ce qui reste à votre équipe"
+          ],
+          "rows": [
+            [
+              "Consultant",
+              "Diagnostic, conception ou accompagnement. Vérifiez si la mise en œuvre est incluse.",
+              "Une personne pour exécuter et l’autorité pour appliquer les recommandations."
+            ],
+            [
+              "Agence chargée de l’exécution",
+              "Travail de campagne récurrent selon un périmètre écrit.",
+              "Validation des listes et des affirmations produit, exceptions et décisions commerciales."
+            ],
+            [
+              "Indépendant ou renfort d’équipe",
+              "Temps de travail d’une personne sur des tâches définies. Vérifiez l’encadrement prévu.",
+              "Priorités, contrôle et couverture des absences, sauf accord."
+            ],
+            [
+              "Équipe interne",
+              "Maîtrise directe de l’exécution et des enseignements.",
+              "Recrutement, outils, supervision et continuité."
+            ],
+            [
+              "Modèle hybride",
+              "Répartition entre conception, exécution et éventuelle passation.",
+              "Un seul cahier des charges, des droits de décision clairs et un relais désigné."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-brief",
+      "label": "Éléments de départ",
+      "title": "De quelles preuves disposez-vous ?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Un éditeur fictif vend un logiciel de planification à des entreprises d’inspection indépendantes. Il dessert une région et peut accompagner des clients multisites. Il exclut les entreprises à site unique et ses clients actuels. La responsable commerciale mène les rendez-vous de découverte. Le coordinateur traite la file le mardi et le jeudi. Au départ, il dispose d’un export du CRM en lecture seule. L’envoi exige l’approbation de la liste, des affirmations et de l’accès au compte."
+        },
+        {
+          "type": "table",
+          "caption": "Éléments de départ",
+          "heads": [
+            "Statut",
+            "Ce que l’acheteur peut vérifier"
+          ],
+          "rows": [
+            [
+              "Observé",
+              "L’export contient six réponses horodatées. Deux sont classées hors cible sans motif. Trois n’ont pas de responsable et une a donné lieu à un rendez-vous."
+            ],
+            [
+              "Hypothèse",
+              "La liste pourrait expliquer les profils hors cible. Les réponses sans suivi pourraient aussi expliquer le faible nombre de conversations qui avancent."
+            ],
+            [
+              "À confirmer",
+              "Les entreprises sans responsable répondent-elles aux critères ? Deux jours de travail suffisent-ils à couvrir la file ?"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Avant d’acheter une nouvelle liste, comparez les six réponses à la zone desservie, au nombre de sites et à l’historique d’affectation. Dans l’exemple, deux entreprises sans responsable correspondent aux critères et la troisième reste à examiner. La priorité devient l’affectation des réponses et la vérification des exceptions. Cet échantillon ne permet pas de juger toute la liste ni d’estimer la demande."
+        }
+      ]
+    },
+    {
+      "id": "m-cases",
+      "label": "Quatre décisions",
+      "title": "Quatre acheteurs prennent des décisions différentes",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1. Quelqu’un peut exécuter et le diagnostic reste ouvert"
+        },
+        {
+          "type": "p",
+          "text": "L’éditeur confie la revue des réponses au coordinateur et à la responsable commerciale. Achetez un diagnostic circonscrit qui leur laisse une règle d’affectation et un contrôle reproductible. Une campagne gérée ajouterait des ressources avant d’avoir établi la cause. Si le coordinateur quitte son poste sans remplaçant, le conseil seul ne fera pas avancer la file. Vérifiez la demande et la responsabilité commerciale avant de comparer des prestations d’exécution."
+        },
+        {
+          "type": "heading",
+          "text": "2. L’offre a fait ses preuves et personne ne gère la campagne"
+        },
+        {
+          "type": "p",
+          "text": "Un éditeur fictif de logiciel de conformité dispose de notes commerciales sur un cas d’usage récurrent et d’une responsable prête à prendre les rendez-vous. Personne ne recherche les comptes ni ne traite les réponses. Définissez une prestation qui couvre la liste approuvée, les messages, les réponses et une passation acceptable pour l’équipe commerciale. Écartez le conseil seul tant que personne ne peut exécuter. Avant de signer, clarifiez l’accès et le traitement d’une réponse ambiguë."
+        },
+        {
+          "type": "heading",
+          "text": "3. Le futur relais a besoin de s’exercer"
+        },
+        {
+          "type": "p",
+          "text": "Un intégrateur fictif a désigné un coordinateur qui rejoindra l’équipe. Commencez par la conception et une période d’exécution bornée si l’accord précise qui opère entre-temps et ce que le relais devra démontrer. Une reprise immédiate laisserait les exceptions à une personne sans pratique. Une prestation sans terme défini laisserait la transition en suspens. Revoyez la répartition si l’arrivée est reportée."
+        },
+        {
+          "type": "heading",
+          "text": "4. L’équipe ne peut pas encore défendre son offre"
+        },
+        {
+          "type": "p",
+          "text": "Une société fictive de services ne sait ni ce qu’elle peut livrer ni qui mènera le premier entretien. Reportez la prospection récurrente. Désignez un responsable commercial et mettez l’offre à l’épreuve dans des conversations existantes. Un indépendant aurait les mêmes questions à résoudre. Reprenez la décision une fois les acheteurs, les affirmations défendables et le suivi des réponses définis."
+        }
+      ]
+    },
+    {
+      "id": "m-scopes",
+      "label": "Lire le périmètre",
+      "title": "Trois extraits de propositions",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Trois périmètres fictifs pour l’éditeur",
+          "heads": [
+            "Extrait",
+            "Ce qu’il couvre",
+            "Ce qu’il faut clarifier"
+          ],
+          "rows": [
+            [
+              "« Examiner l’export et recommander une règle d’affectation. »",
+              "Diagnostic et note de décision.",
+              "Le coordinateur doit mettre en œuvre la règle. Demandez comment elle sera vérifiée."
+            ],
+            [
+              "« Concevoir la règle et accompagner le coordinateur pendant une revue supervisée. »",
+              "Conception, pratique et corrections.",
+              "Le client gère la file réelle. Nommez un remplaçant et définissez les preuves attendues."
+            ],
+            [
+              "« Gérer la campagne approuvée et les réponses, puis former le relais sur les exceptions rencontrées. »",
+              "Exécution récurrente et exercice de passation.",
+              "Confirmez les accès, les approbations et la personne qui reste responsable en cas d’échec."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Comparez les livrables et les exclusions à partir du même cahier des charges. Clarifiez les responsabilités floues, y compris la mise à jour de la règle si le profil cible change."
+        }
+      ]
+    },
+    {
+      "id": "m-work",
+      "label": "Le travail en pratique",
+      "title": "Une recommandation et un exemple d’exécution",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "« Personnalisez davantage » ne dit guère au coordinateur ce qu’il doit faire. Voici une recommandation qu’il peut mettre en pratique."
+        },
+        {
+          "type": "record",
+          "title": "Exemple de décision de conseil",
+          "rows": [
+            [
+              "Éléments constatés",
+              "Trois réponses n’ont pas de responsable. Deux correspondent à la règle de qualification."
+            ],
+            [
+              "Autre explication",
+              "La liste peut encore présenter des faiblesses. Les réponses sont trop peu nombreuses pour l’évaluer."
+            ],
+            [
+              "Décision et responsable",
+              "La responsable commerciale valide l’affectation des nouvelles réponses. Le coordinateur vérifie les exceptions avant d’élargir la liste."
+            ],
+            [
+              "Contrôle et question ouverte",
+              "Vérifiez les horodatages, responsables et motifs d’exclusion dans le prochain registre. La couverture nécessaire reste à établir."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Exemple de registre d’exécution",
+          "rows": [
+            [
+              "Adéquation et contexte public",
+              "Une entreprise d’inspection multisite se trouve dans la zone desservie. Une offre d’emploi mentionne l’affectation d’inspecteurs entre sites. C’est une raison de poser une question, sans présumer d’une intention d’achat."
+            ],
+            [
+              "Choix de formulation",
+              "« Votre offre de coordinateur terrain mentionne l’affectation des inspecteurs entre sites. La planification se fait-elle dans une équipe centrale ou dans chaque site ? »"
+            ],
+            [
+              "État et responsable",
+              "Réponse inconnue. La personne autorisée gère la prise de contact. La responsable commerciale traite les questions produit et valide l’adéquation."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Ce qui reste au client",
+          "heads": [
+            "Décision",
+            "Qui agit",
+            "Où le travail peut se bloquer"
+          ],
+          "rows": [
+            [
+              "Liste, exclusions et affirmations",
+              "Le client décide. L’opérateur applique le cadre approuvé.",
+              "Mettez les comptes concernés en attente si un arbitrage manque."
+            ],
+            [
+              "Accès d’envoi et travail courant",
+              "Le client autorise l’accès. L’opérateur gère l’envoi et répartit les réponses.",
+              "Suspendez l’envoi si l’accès autorisé ou la couverture fait défaut."
+            ],
+            [
+              "Exceptions, rendez-vous et retour terrain",
+              "La responsable commerciale traite les questions techniques, mène les rendez-vous et communique la suite.",
+              "Un rendez-vous peut rester sans suivi si personne ne reprend le dossier."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-handoff",
+      "label": "Passation et droits",
+      "title": "Demandez au relais de démontrer qu’il sait faire",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Chez l’intégrateur fictif, le coordinateur reçoit la version 2 du cahier des charges, une file d’entraînement et les règles d’affectation en vigueur. Il attribue correctement une réponse ordinaire. Puis un destinataire demande l’arrêt des messages après avoir été contacté sur deux canaux. Le coordinateur ferme seulement le fil e-mail. L’opérateur actuel garde la responsabilité, applique l’exclusion sur les canaux autorisés et refait le test avant de passer la main."
+        },
+        {
+          "type": "p",
+          "text": "Attribuez la responsabilité du cahier des charges et des exclusions à une personne, celle des affirmations à un approbateur et celle de chaque compte et canal à un opérateur. La responsable commerciale définit les résultats. Si l’agence reçoit l’ordre de relancer un compte exclu par le consultant, suspendez l’action concernée jusqu’à l’arbitrage. La liste commune d’exclusions et le journal des modifications valent cet effort si la répartition répond à un besoin réel."
+        },
+        {
+          "type": "table",
+          "caption": "Inventaire fictif de passation",
+          "heads": [
+            "Actif et emplacement",
+            "Droit ou accès à vérifier",
+            "Destinataire et preuve de réception"
+          ],
+          "rows": [
+            [
+              "Cahier des charges et motifs des messages dans l’espace partagé",
+              "Confirmez quels documents le client peut conserver et adapter.",
+              "Le coordinateur reçoit la version approuvée et identifie celle en vigueur."
+            ],
+            [
+              "Structure de recherche et règles de qualification dans le CRM",
+              "Vérifiez les champs, les droits d’export et les limites des licences.",
+              "La responsable commerciale rapproche un échantillon des règles."
+            ],
+            [
+              "Liste d’exclusion et export de la file",
+              "Transférez uniquement les champs et enregistrements autorisés.",
+              "L’opérateur compare les exclusions avec le relais. Le test de l’exception reste à valider."
+            ],
+            [
+              "Comptes d’envoi et outils",
+              "Vérifiez séparément l’administration, la licence et le droit de révocation.",
+              "L’administrateur du client contrôle l’accès avant le retrait de l’ancien opérateur."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Un droit d’accès à un outil ne prouve pas qu’il vous appartient. Vérifiez les usages autorisés des données personnelles ou sous licence séparément du droit de recevoir un export."
+        }
+      ]
+    },
+    {
+      "id": "m-costs",
+      "label": "Comparer les coûts",
+      "title": "Alignez la durée et comptez le travail interne",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Utilisez une période commune. Dans cet exemple fictif, c’est un trimestre. Demandez une proposition écrite pour cette période et laissez ouverts les montants et temps de travail qui restent à vérifier."
+        },
+        {
+          "type": "table",
+          "caption": "Même cas sur un trimestre",
+          "heads": [
+            "Coût ou obligation",
+            "Diagnostic",
+            "Exécution gérée"
+          ],
+          "rows": [
+            [
+              "Honoraires externes",
+              "Montant ponctuel à confirmer. Vérifiez si la pratique supervisée est incluse.",
+              "Forfait récurrent à confirmer. Clarifiez le démarrage et la passation."
+            ],
+            [
+              "Temps interne",
+              "Le coordinateur gère la file. La responsable commerciale examine les exceptions.",
+              "La responsable commerciale valide les profils et assure la découverte. Confirmez le temps de supervision."
+            ],
+            [
+              "Outils et données",
+              "Vérifiez CRM, licences et limites d’export.",
+              "Confirmez ce qui est fourni et ce que le client conserve."
+            ],
+            [
+              "Transition",
+              "Vérifiez la règle sur des tâches réelles et désignez un remplaçant.",
+              "Convenez de l’inventaire et de la personne qui opère si la passation est retardée."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Ce que la rémunération encourage",
+          "heads": [
+            "Type de proposition",
+            "Preuve à demander",
+            "Question à régler dans l’accord"
+          ],
+          "rows": [
+            [
+              "Projet de conseil",
+              "Une décision documentée et un contrôle reproductible.",
+              "Qui met en œuvre et à quel moment le livrable est-il accepté ?"
+            ],
+            [
+              "Forfait de gestion",
+              "Registre du travail, qualification convenue et responsable des réponses.",
+              "Quelles tâches récurrentes sont couvertes et que doit fournir le client ?"
+            ],
+            [
+              "Paiement lié au résultat",
+              "Réservation initiale, preuve d’acceptation et exceptions.",
+              "Qu’est-ce qui compte comme résultat accepté ? Comment traiter les annulations et reports ?"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Un projet de diagnostic peut aboutir à un livrable que personne ne peut appliquer. Un forfait peut rémunérer l’activité alors que les réponses restent sans suivi. Un paiement au résultat peut encourager les rendez-vous hors cible si la règle d’acceptation est floue. Le client fournit un opérateur dans le premier cas, des validations et un relais commercial dans le deuxième, et une définition écrite du rendez-vous accepté dans le troisième."
+        },
+        {
+          "type": "p",
+          "text": "Une durée minimale ou l’absence d’essai gratuit ne détermine pas la qualité. Comparez le travail prévu et les critères d’acceptation. Calculez le retour quand les résultats, l’attribution, les coûts et les marges sont connus."
+        }
+      ]
+    },
+    {
+      "id": "m-outcomes",
+      "label": "Suivre les résultats",
+      "title": "Distinguez décision, adoption et avancée commerciale",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Registre fictif des observations",
+          "heads": [
+            "Quand",
+            "Élément vérifiable",
+            "Ce qu’il permet d’établir"
+          ],
+          "rows": [
+            [
+              "Semaine 1",
+              "La responsable commerciale valide une nouvelle règle d’affectation.",
+              "Une décision a été prise et reste à appliquer."
+            ],
+            [
+              "Semaine 2",
+              "Le coordinateur affecte bien une réponse ordinaire. Il échoue sur l’exception d’exclusion.",
+              "La tâche courante est maîtrisée. La passation reste en attente."
+            ],
+            [
+              "Semaine 3",
+              "Une réservation initiale est enregistrée, puis reportée. Le rendez-vous a lieu.",
+              "Une réservation et un rendez-vous tenu. Le report n’ajoute aucune acquisition."
+            ],
+            [
+              "Semaine 4",
+              "L’équipe commerciale n’a encore accepté aucune opportunité. La source reste incertaine.",
+              "L’opportunité et le retour restent à établir."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-diligence",
+      "label": "Preuves et rémunération",
+      "title": "Demandez qui bénéficie de la recommandation",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Un consultant peut vendre la mise en œuvre ou percevoir une rémunération d’apporteur. Une agence peut donner de bons conseils même si elle a intérêt à exécuter le travail. Demandez comment chacun est rémunéré et quelles preuves l’amèneraient à déconseiller le programme."
+        },
+        {
+          "type": "p",
+          "text": "Dans une proposition fictive, la consultante affirme avoir conçu un processus d’affectation et montre une note de décision. On voit la structure de son travail. L’amélioration de la conversion qu’elle attribue au processus reste à vérifier. Comme elle vend aussi la mise en œuvre, demandez ce qu’elle recommanderait si le client confiait l’exécution à son propre coordinateur."
+        },
+        {
+          "type": "record",
+          "title": "Exemple de demande de preuves",
+          "rows": [
+            [
+              "Demandez",
+              "Une structure anonymisée ou un exemple explicitement fictif qui montre la décision, la personne chargée de l’appliquer et le contrôle effectué."
+            ],
+            [
+              "Vérifiez séparément",
+              "Qui a effectué le travail, ce qui a été contrôlé et quelle partie reviendrait à l’équipe proposée. Un exemple de structure ne démontre pas de résultats."
+            ],
+            [
+              "Question ouverte",
+              "« Votre société ou un partenaire sera-t-il rémunéré si nous retenons le prestataire recommandé ? » Notez la réponse avant de comparer."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-record",
+      "label": "Fiche de décision",
+      "title": "Notez ce qui vous ferait revoir le choix",
+      "blocks": [
+        {
+          "type": "record",
+          "title": "Décision de l’éditeur fictif",
+          "rows": [
+            [
+              "Problème et preuve",
+              "Certaines réponses n’ont aucun responsable dans le CRM. Deux répondent à la règle en vigueur."
+            ],
+            [
+              "Périmètre retenu et option écartée",
+              "Acheter un diagnostic circonscrit et une revue supervisée de l’affectation. Reporter la campagne récurrente jusqu’à clarification du blocage."
+            ],
+            [
+              "Responsable et inconnue",
+              "La responsable commerciale accepte la règle. Le coordinateur gère la file. La couverture des autres jours reste à confirmer."
+            ],
+            [
+              "Réexamen",
+              "Le coordinateur devient indisponible ou la revue révèle des défauts de couverture récurrents. Comparez alors l’exécution gérée avec le même cahier des charges et la même responsabilité commerciale."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Décision de l’intégrateur",
+          "rows": [
+            [
+              "Problème et preuve",
+              "Le coordinateur reprendra l’activité. Il a réussi l’exercice courant, puis échoué au test d’exclusion."
+            ],
+            [
+              "Périmètre retenu et option écartée",
+              "L’opérateur actuel garde la responsabilité pendant un second exercice supervisé. Reportez la passation immédiate et définissez la fin de la prestation gérée."
+            ],
+            [
+              "Responsable et inconnue",
+              "La responsable commerciale valide le relais si le coordinateur résout l’exception. La date reste ouverte."
+            ],
+            [
+              "Réexamen",
+              "Le coordinateur réussit le test ou la personne désignée devient indisponible."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Vous pouvez copier ou imprimer ces fiches et remplacer les éléments fictifs par les vôtres. Faites figurer la condition de réexamen dans votre demande de propositions."
+        }
+      ]
+    },
+    {
+      "id": "m-service",
+      "label": "Quand choisir Beespoke",
+      "title": "Si vous avez besoin d’une prospection gérée",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Beespoke est une agence de prospection gérée dirigée par son fondateur. Son travail peut inclure la recherche, la rédaction de messages individuels, l’exécution autorisée par e-mail à froid et/ou LinkedIn, le traitement des réponses, la qualification convenue et la transmission au calendrier. Votre équipe valide les listes et les affirmations produit, traite les questions d’experts et assure la découverte, les propositions et la conclusion des ventes. Les appels à froid font l’objet d’un devis séparé selon le marché. Pour un conseil indépendant ou une sélection neutre de prestataires, adressez-vous à un consultant spécialisé."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    [
+      "Quelle différence entre un consultant en génération de leads et une agence ?",
+      "Un consultant aide souvent à établir le diagnostic et à concevoir le travail. Une agence chargée de l’exécution gère généralement la campagne convenue. Vérifiez le périmètre, car les deux peuvent conseiller ou exécuter."
+    ],
+    [
+      "Quand commencer par un consultant ?",
+      "Quand la cause est incertaine et que quelqu’un dans votre équipe peut appliquer et vérifier la recommandation."
+    ],
+    [
+      "Quand un modèle hybride se justifie-t-il ?",
+      "Quand la conception et une exécution temporaire sont nécessaires, avec un relais désigné, des responsabilités claires et un test de passation observé."
+    ],
+    [
+      "Comment comparer les coûts ?",
+      "Utilisez la même durée et incluez les honoraires, le temps interne, les outils, les données, la mise en œuvre et la transition. Laissez ouverts les montants inconnus."
+    ],
+    [
+      "Comment vérifier que la passation fonctionne ?",
+      "Le relais démontre qu’il peut traiter une tâche courante et une exception avec les accès et approbations nécessaires. Notez les échecs et gardez un responsable jusqu’à leur résolution."
+    ],
+    [
+      "Beespoke propose-t-elle une sélection indépendante de prestataires ?",
+      "Beespoke propose de la prospection gérée. Pour une sélection neutre ou un conseil indépendant, adressez-vous à un consultant spécialisé."
+    ]
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "description": "Compara un consultor de captació B2B i una agència amb quatre decisions, exemples d’abast, costos, responsabilitats i una prova de traspàs.",
+  "answer": "Tria un consultor si necessites un diagnòstic, un pla o acompanyament i el teu equip pot executar la feina. Tria una agència si l’oferta es pot provar però ningú no pot gestionar la prospecció i les respostes. Si vols assumir la feina internament, designa qui la rebrà i posa a prova el traspàs.",
+  "resources": "Recursos",
+  "kicker": "Contractar captació B2B",
+  "read": "Llegeix les quatre decisions",
+  "author": "Per",
+  "updated": "Actualitzat el 4 de novembre de 2026",
+  "fiction": "Els casos, les propostes i els registres són ficticis i serveixen per valorar una contractació.",
+  "contents": "En aquesta pàgina",
+  "scroll": "Desplaça la taula horitzontalment si cal.",
+  "faq": "Preguntes freqüents",
+  "sourcesTitle": "Fonts i lectures relacionades",
+  "sourcesIntro": "Fonts revisades el 3 de novembre de 2026. Aquests articles mostren com diferents proveïdors descriuen la consultoria i l’execució. El mètode de decisió i els registres ficticis són elaboració editorial de Beespoke. Les descripcions són dels proveïdors i la comparació no avalua les seves afirmacions sobre resultats.",
+  "relatedTitle": "Continua amb la decisió que et pertoca",
+  "relatedLabels": [
+    "Auditar la captació",
+    "Triar una agència outbound",
+    "Comparar capacitat SDR i execució gestionada",
+    "Estimar els costos outbound",
+    "Consultar la política editorial"
+  ],
+  "sourceNotes": [
+    "Compara els models segons l’etapa del negoci i la capacitat interna.",
+    "Explica el pas de l’estratègia a l’execució i el traspàs.",
+    "Planteja l’elecció segons la feina pendent i qui la pot fer.",
+    "Descriu una consultoria que també executa la feina.",
+    "Examina què implica aplicar les recomanacions."
+  ],
+  "serviceLinks": [
+    "Veure què inclou l’outbound gestionat",
+    "Parlar amb en Noah sobre l’encaix",
+    "Consultar les tarifes i condicions vigents"
+  ],
+  "sections": [
+    {
+      "id": "m-models",
+      "label": "Quin model encaixa",
+      "title": "Contracta la feina que falta",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Comença per una tasca que el teu equip no pugui fer amb regularitat. Pregunta qui la faria un dimarts qualsevol, qui pot canviar les instruccions i qui té autoritat per acceptar el resultat. Aquestes respostes pesen més que el nom del proveïdor."
+        },
+        {
+          "type": "table",
+          "caption": "Cinc maneres de cobrir la feina",
+          "heads": [
+            "Model",
+            "Què contractes",
+            "Què queda al teu equip"
+          ],
+          "rows": [
+            [
+              "Consultor",
+              "Diagnòstic, disseny o acompanyament. Confirma si inclou la implantació.",
+              "Una persona que executi i autoritat per aplicar les recomanacions."
+            ],
+            [
+              "Agència amb gestió integral",
+              "Feina recurrent de campanya amb un abast per escrit.",
+              "Dades del producte, validació de llistes, excepcions i decisions comercials."
+            ],
+            [
+              "Professional extern o reforç d’equip",
+              "Temps d’una persona per a tasques concretes. Confirma quina supervisió s’hi inclou.",
+              "Prioritats, revisió i cobertura d’absències, llevat que s’acordi una altra cosa."
+            ],
+            [
+              "Equip intern",
+              "Control directe de l’execució i l’aprenentatge.",
+              "Contractació, eines, supervisió i continuïtat."
+            ],
+            [
+              "Model híbrid",
+              "Repartiment entre disseny, operació i possible traspàs.",
+              "Un document de treball únic, responsables de decisió i una persona que rebi l’operació."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-brief",
+      "label": "Evidència de partida",
+      "title": "Què sabem del cert",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Un proveïdor fictici ven programari de planificació a empreses d’inspecció independents. Dona servei en una regió i pot atendre clients amb diverses seus. Exclou empreses amb una sola seu i clients actuals. La responsable comercial dirigeix les reunions de diagnòstic. El coordinador pot revisar la cua dimarts i dijous. Inicialment té accés de lectura a una exportació del CRM. Cal aprovar la llista, les afirmacions i l’accés d’enviament abans de prospectar."
+        },
+        {
+          "type": "table",
+          "caption": "Evidència inicial",
+          "heads": [
+            "Estat",
+            "Què pot comprovar el comprador"
+          ],
+          "rows": [
+            [
+              "Observat",
+              "L’exportació conté sis respostes amb data. Dues es van marcar com a inadequades sense motiu. Tres no tenien responsable i una va acabar en reunió."
+            ],
+            [
+              "Hipòtesi",
+              "La llista podria explicar el mal encaix. Les respostes desateses també podrien explicar per què van avançar poques converses."
+            ],
+            [
+              "Pendent",
+              "Si les empreses sense assignar encaixen i si dos dies de feina cobreixen la cua amb prou regularitat."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Abans de pagar una altra llista, contrasta les sis respostes amb la zona, el nombre de seus i l’historial d’assignació. En l’exemple, dues de les tres empreses sense assignar compleixen els criteris i la tercera queda pendent. La prioritat passa a ser assignar un responsable i revisar les excepcions. La mostra no permet valorar tota la llista ni estimar la demanda."
+        }
+      ]
+    },
+    {
+      "id": "m-cases",
+      "label": "Quatre decisions",
+      "title": "Quatre compradors prenen decisions diferents",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1. Hi ha qui executi i la causa encara és oberta"
+        },
+        {
+          "type": "p",
+          "text": "El proveïdor de programari assigna al coordinador i a la responsable comercial la revisió de les respostes. Contracta un diagnòstic acotat que deixi una regla d’assignació i una comprovació repetible. Una campanya completa hi afegiria capacitat abans de saber què cal corregir. Si el coordinador marxa sense relleu, l’assessorament sol no manté la cua. Confirma demanda i responsabilitat comercial abans de comparar execució gestionada."
+        },
+        {
+          "type": "heading",
+          "text": "2. L’oferta està provada i falta execució diària"
+        },
+        {
+          "type": "p",
+          "text": "Un proveïdor fictici de programari de compliment normatiu té notes comercials que mostren un cas d’ús repetible i una responsable per a les reunions. Ningú no investiga comptes ni atén respostes. Defineix una execució gestionada per a la llista aprovada, els missatges, les respostes i un traspàs que vendes pugui acceptar. Descarta l’assessorament sol mentre falti qui executi. Abans de signar, aclareix l’accés i què passa amb una resposta dubtosa."
+        },
+        {
+          "type": "heading",
+          "text": "3. Qui rebrà la feina encara necessita pràctica"
+        },
+        {
+          "type": "p",
+          "text": "Una integradora fictícia ha designat un futur coordinador. Comença amb disseny i un període operatiu acotat si l’acord identifica qui opera mentrestant i què ha de demostrar qui rebi la feina. Un traspàs immediat deixaria les excepcions en mans d’algú sense pràctica. Un abast indefinit tampoc resol la transició. Revisa el repartiment si s’endarrereix la incorporació."
+        },
+        {
+          "type": "heading",
+          "text": "4. L’equip encara no pot defensar la seva oferta"
+        },
+        {
+          "type": "p",
+          "text": "Una empresa fictícia de serveis no pot precisar què lliurarà ni qui conduirà la primera reunió. Ajorna la prospecció recurrent. Assigna un responsable comercial i contrasta l’oferta en converses existents. Un professional extern tindria els mateixos dubtes. Reprèn la decisió quan sàpigues a qui pots atendre, què pots avalar i qui respondrà."
+        }
+      ]
+    },
+    {
+      "id": "m-scopes",
+      "label": "Llegir l’abast",
+      "title": "Tres fragments de proposta",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Tres abasts ficticis per al proveïdor de programari",
+          "heads": [
+            "Fragment",
+            "Què cobreix",
+            "Què cal resoldre"
+          ],
+          "rows": [
+            [
+              "«Revisar l’exportació i recomanar una regla d’assignació».",
+              "Diagnòstic i nota de decisió.",
+              "El coordinador l’ha d’aplicar. Pregunta com es comprovarà."
+            ],
+            [
+              "«Dissenyar la regla i acompanyar el coordinador durant una revisió supervisada».",
+              "Disseny, pràctica i correccions.",
+              "El client porta la cua. Designa un suplent i defineix què quedarà registrat."
+            ],
+            [
+              "«Gestionar la campanya i les respostes aprovades i formar el futur responsable en excepcions reals».",
+              "Execució recurrent i exercici de traspàs.",
+              "Confirma l’accés, les aprovacions i qui opera si falla la prova de traspàs."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Llegeix els lliurables i les exclusions amb el mateix document de partida. Aclareix cada responsabilitat ambigua, inclosa l’actualització de la regla si canvia el perfil del comprador."
+        }
+      ]
+    },
+    {
+      "id": "m-work",
+      "label": "La feina en detall",
+      "title": "Una recomanació i un registre d’execució",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "«Personalitza més» diu poca cosa al coordinador. Una recomanació aplicable al cas pot ser aquesta."
+        },
+        {
+          "type": "record",
+          "title": "Exemple de decisió de consultoria",
+          "rows": [
+            [
+              "Evidència",
+              "Tres respostes no tenen responsable. Dues compleixen la regla d’encaix."
+            ],
+            [
+              "Una altra explicació",
+              "La llista encara podria ser feble. Hi ha massa poques respostes per valorar-la sencera."
+            ],
+            [
+              "Decisió i responsable",
+              "La responsable comercial aprova qui rep cada resposta. El coordinador comprova les excepcions abans d’ampliar la llista."
+            ],
+            [
+              "Acceptació i dubte",
+              "Revisa el registre següent per data, assignació i motiu d’exclusió. Encara no sabem quina cobertura cal."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Exemple de registre operatiu",
+          "rows": [
+            [
+              "Encaix i context públic",
+              "Una empresa d’inspecció amb diverses seus és a la regió. Una oferta de feina esmenta l’assignació d’inspectors entre seus. Permet fer una pregunta sense pressuposar intenció de compra."
+            ],
+            [
+              "Criteri del missatge",
+              "«A l’oferta de coordinació de camp esmenteu l’assignació entre seus. La planificació es fa des d’un equip central o la fa cada seu?»"
+            ],
+            [
+              "Estat i responsable",
+              "Resposta pendent. La persona autoritzada gestiona el contacte. La responsable comercial atén les preguntes de producte i valida l’encaix."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Responsabilitats que conserva el client",
+          "heads": [
+            "Decisió",
+            "Qui actua",
+            "Què es pot encallar"
+          ],
+          "rows": [
+            [
+              "Llista, exclusions i afirmacions",
+              "El client decideix i qui executa aplica les instruccions aprovades.",
+              "Atura els registres afectats si falta criteri."
+            ],
+            [
+              "Accés d’enviament i feina diària",
+              "El client autoritza l’accés i l’operador assignat executa i deriva respostes.",
+              "Atura la prospecció si manca accés autoritzat o cobertura."
+            ],
+            [
+              "Excepcions, reunions i retorn d’informació",
+              "La responsable comercial resol dubtes tècnics, porta reunions i comunica resultats.",
+              "Una cita pot quedar desatesa si ningú accepta el traspàs."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-handoff",
+      "label": "Traspàs i titularitat",
+      "title": "Demana una demostració a qui rebrà la feina",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A la integradora fictícia, el coordinador rep la versió 2 de les instruccions, una cua de pràctica i les regles d’assignació vigents. Deriva bé una resposta habitual. Després un contacte demana que no li escriguin més havent rebut missatges per dos canals. El coordinador només tanca el fil de correu. Qui opera manté la responsabilitat, aplica l’exclusió als canals autoritzats i repeteix la prova abans de fer el traspàs."
+        },
+        {
+          "type": "p",
+          "text": "Assigna una persona al document vigent i les exclusions, una altra a aprovar afirmacions i un responsable operatiu per compte i canal. La responsable comercial defineix els resultats. Si l’agència rep l’ordre d’escriure a un compte que el consultor ha exclòs, atura aquest contacte fins que el responsable resolgui el conflicte. Mantenir una llista d’exclusió i un historial de canvis compensa si el repartiment resol una necessitat real."
+        },
+        {
+          "type": "table",
+          "caption": "Inventari fictici de traspàs",
+          "heads": [
+            "Actiu i ubicació",
+            "Permís o accés que cal comprovar",
+            "Receptor i constància"
+          ],
+          "rows": [
+            [
+              "Instruccions i criteri dels missatges a l’espai compartit",
+              "Confirma quins documents pot conservar i adaptar el client.",
+              "El coordinador rep la versió aprovada i identifica l’activa."
+            ],
+            [
+              "Estructura de recerca i regles de qualificació al CRM",
+              "Confirma camps, drets d’exportació i límits de llicència.",
+              "La responsable comercial contrasta una mostra amb les regles."
+            ],
+            [
+              "Llista d’exclusió i exportació de la cua",
+              "Lliura només registres i camps permesos.",
+              "Qui opera contrasta les exclusions amb el receptor. La prova d’excepció queda pendent."
+            ],
+            [
+              "Comptes d’enviament i eines",
+              "Comprova administració, llicència i revocació per separat.",
+              "L’administrador del client comprova l’accés abans de retirar l’operador anterior."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Tenir accés a una eina no demostra que en tinguis la titularitat. Comprova els usos autoritzats de les dades personals o subjectes a llicència a part del dret a rebre’n una exportació."
+        }
+      ]
+    },
+    {
+      "id": "m-costs",
+      "label": "Comparar costos",
+      "title": "Compara el mateix període i inclou la feina interna",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fes servir el mateix període de decisió. Aquí és un trimestre fictici. Demana un abast per escrit per a aquest període i deixa pendents imports i hores fins que els puguis verificar."
+        },
+        {
+          "type": "table",
+          "caption": "El mateix cas durant un trimestre",
+          "heads": [
+            "Cost o obligació",
+            "Diagnòstic",
+            "Execució gestionada"
+          ],
+          "rows": [
+            [
+              "Honoraris externs",
+              "Import puntual per confirmar. Comprova si inclou pràctica supervisada.",
+              "Quota recurrent per confirmar. Aclareix la posada en marxa i el traspàs."
+            ],
+            [
+              "Temps intern",
+              "El coordinador porta la cua i la responsable comercial revisa excepcions.",
+              "La responsable comercial valida l’encaix i porta les reunions. Confirma el temps de supervisió."
+            ],
+            [
+              "Eines i dades",
+              "Comprova CRM, llicències i límits d’exportació.",
+              "Aclareix què s’hi inclou i què conserva el client."
+            ],
+            [
+              "Transició",
+              "Comprova la regla amb feina real i assigna un suplent.",
+              "Acorda l’inventari i qui opera si s’ajorna el traspàs."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Què incentiva el pagament",
+          "heads": [
+            "Tipus de proposta",
+            "Evidència que cal demanar",
+            "Pregunta per a l’acord"
+          ],
+          "rows": [
+            [
+              "Projecte d’assessorament",
+              "Una decisió documentada i una prova repetible.",
+              "Qui ho implanta i quan es dona la feina per acceptada?"
+            ],
+            [
+              "Quota de gestió",
+              "Registre de feina, qualificació pactada i responsable de respostes.",
+              "Quina feina recurrent cobreix la quota i què depèn del client?"
+            ],
+            [
+              "Pagament vinculat al resultat",
+              "Reserva original i constància d’acceptació, amb excepcions.",
+              "Quina unitat s’accepta i com es tracten cancel·lacions i canvis de data?"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "En un diagnòstic, el risc és pagar per un lliurable que ningú no pot aplicar. Una quota pot incentivar l’activitat encara que la cua continuï encallada. Un pagament per resultat pot afavorir reserves dubtoses si no queda clar què s’accepta. El client aporta qui executi en el primer cas, aprovacions i cobertura comercial en el segon, i una definició escrita de reserva acceptada en el tercer."
+        },
+        {
+          "type": "p",
+          "text": "Un termini mínim o l’absència de prova gratuïta no determina la qualitat. Compara la feina i els criteris d’acceptació. Calcula el retorn quan coneguis resultats, atribució, costos i marges."
+        }
+      ]
+    },
+    {
+      "id": "m-outcomes",
+      "label": "Mesurar resultats",
+      "title": "Separa decisió, adopció i progrés comercial",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Registre fictici d’observacions",
+          "heads": [
+            "Quan",
+            "Evidència",
+            "Què permet concloure"
+          ],
+          "rows": [
+            [
+              "Setmana 1",
+              "La responsable comercial aprova una regla d’assignació revisada.",
+              "Hi ha decisió i cal implantar-la."
+            ],
+            [
+              "Setmana 2",
+              "El coordinador assigna bé una resposta habitual. Falla l’excepció d’exclusió.",
+              "Pot fer la feina habitual. El traspàs queda pendent."
+            ],
+            [
+              "Setmana 3",
+              "Es registra una reserva original i es canvia de data. La reunió se celebra.",
+              "Una reserva i una reunió celebrada. El canvi no suma una altra adquisició."
+            ],
+            [
+              "Setmana 4",
+              "Vendes encara no ha acceptat cap oportunitat. L’origen no es confirma.",
+              "L’oportunitat i el retorn queden pendents."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-diligence",
+      "label": "Proves i incentius",
+      "title": "Pregunta qui es beneficia de la recomanació",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Un consultor pot vendre implantació o cobrar per derivacions. Una agència pot assessorar bé encara que li interessi executar la feina. Pregunta com cobra cada proveïdor i quina evidència el faria desaconsellar la campanya."
+        },
+        {
+          "type": "p",
+          "text": "En una proposta fictícia, la consultora afirma que va dissenyar un procés d’assignació i mostra una nota de decisió. Això permet veure l’estructura de la feina. L’afirmació que el procés va millorar la conversió queda sense verificar. També ven implantació, així que pregunta què recomanaria si el client fes servir el seu propi coordinador."
+        },
+        {
+          "type": "record",
+          "title": "Exemple de petició d’evidència",
+          "rows": [
+            [
+              "Demana",
+              "Una estructura anonimitzada o un exemple identificat com a fictici que mostri la decisió, qui la va aplicar i com es va comprovar."
+            ],
+            [
+              "Verifica per separat",
+              "Qui va fer la feina, què es va revisar i quina part assumiria l’equip proposat. Una estructura de mostra no acredita resultats."
+            ],
+            [
+              "Pregunta oberta",
+              "«Cobrareu vosaltres o algun soci si triem l’operador que recomaneu?» Registra la resposta abans de comparar."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-record",
+      "label": "Registre de decisió",
+      "title": "Deixa per escrit quan la reconsideraràs",
+      "blocks": [
+        {
+          "type": "record",
+          "title": "Decisió del proveïdor de programari",
+          "rows": [
+            [
+              "Problema i evidència",
+              "Hi ha respostes sense responsable al CRM. Dues encaixen en la regla vigent."
+            ],
+            [
+              "Abast triat i opció descartada",
+              "Contractar un diagnòstic acotat i una revisió supervisada de l’assignació. Ajornar la campanya recurrent fins a entendre l’entrebanc."
+            ],
+            [
+              "Responsable i dubte",
+              "La responsable comercial accepta la regla. El coordinador gestiona la cua. Falta confirmar la cobertura els altres dies."
+            ],
+            [
+              "Reobrir quan",
+              "El coordinador deixi d’estar disponible o la revisió mostri fallades recurrents de cobertura. Comparar execució gestionada amb el mateix cas i responsable comercial."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Decisió de la integradora",
+          "rows": [
+            [
+              "Problema i evidència",
+              "El futur coordinador assumirà l’operació. Va superar la tasca habitual però va fallar la prova d’exclusió."
+            ],
+            [
+              "Abast triat i opció descartada",
+              "Mantenir l’operador actual durant un segon exercici supervisat. Ajornar el traspàs immediat i acordar quan acaba la gestió externa."
+            ],
+            [
+              "Responsable i dubte",
+              "La responsable comercial accepta el traspàs si el coordinador resol l’excepció. La data continua oberta."
+            ],
+            [
+              "Reobrir quan",
+              "El coordinador superi la prova o la persona assignada deixi d’estar disponible."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Pots copiar o imprimir els registres i substituir les dades fictícies per les teves. Inclou la condició per reconsiderar la decisió quan demanis propostes."
+        }
+      ]
+    },
+    {
+      "id": "m-service",
+      "label": "On encaixa Beespoke",
+      "title": "Si necessites outbound gestionat",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Beespoke és una agència d’outbound gestionat dirigida pel fundador. La feina pot incloure recerca, missatges individuals, execució autoritzada per correu en fred i/o LinkedIn, gestió de respostes, qualificació acordada i traspàs al calendari. El teu equip valida llistes i afirmacions de producte, atén consultes d’experts i porta reunions, propostes i tancaments. Les trucades en fred es pressuposten a part segons el mercat. Per a assessorament independent o selecció neutral de proveïdors, busca un consultor especialitzat."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    [
+      "Quina diferència hi ha entre un consultor de captació i una agència?",
+      "Un consultor sol ajudar a diagnosticar i dissenyar la feina. Una agència amb gestió integral sol operar la campanya acordada. Revisa l’abast perquè tots dos poden assessorar o executar."
+    ],
+    [
+      "Quan convé començar per un consultor?",
+      "Quan la causa no és clara i hi ha algú al teu equip que pot aplicar i comprovar la recomanació."
+    ],
+    [
+      "Quan compensa un model híbrid?",
+      "Si calen disseny i execució temporal, amb un receptor designat, responsables clars i una prova observada de traspàs."
+    ],
+    [
+      "Com comparo els costos?",
+      "Fes servir el mateix període i inclou honoraris, temps intern, eines, dades, implantació i transició. Deixa pendents els imports desconeguts."
+    ],
+    [
+      "Com comprovo que el traspàs funciona?",
+      "La persona receptora demostra que pot resoldre una tasca habitual i una excepció amb els accessos i les aprovacions necessaris. Registra els errors i mantén un responsable fins a resoldre’ls."
+    ],
+    [
+      "Beespoke ofereix selecció independent de proveïdors?",
+      "Beespoke ofereix outbound gestionat. Per a selecció neutral o assessorament independent, busca un consultor especialitzat."
+    ]
+  ]
+}

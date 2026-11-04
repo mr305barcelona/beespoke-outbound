@@ -1,0 +1,563 @@
+{
+  "description": "Compara un consultor de captación B2B y una agencia con cuatro decisiones, ejemplos de alcance, costes, responsabilidades y una prueba de traspaso.",
+  "answer": "Elige un consultor si necesitas un diagnóstico, un plan o acompañamiento y tu equipo puede ejecutar el trabajo. Elige una agencia si la oferta está lista para probarse pero nadie puede gestionar la prospección y las respuestas. Si quieres asumir el trabajo internamente, nombra a quien lo recibirá y pon a prueba el traspaso.",
+  "resources": "Recursos",
+  "kicker": "Contratar captación B2B",
+  "read": "Ver las cuatro decisiones",
+  "author": "Por",
+  "updated": "Actualizado el 4 de noviembre de 2026",
+  "fiction": "Los casos, propuestas y registros son ficticios y sirven para evaluar una contratación.",
+  "contents": "En esta página",
+  "scroll": "Desplaza la tabla horizontalmente si hace falta.",
+  "faq": "Preguntas frecuentes",
+  "sourcesTitle": "Fuentes y lecturas relacionadas",
+  "sourcesIntro": "Fuentes revisadas el 3 de noviembre de 2026. Estos artículos muestran cómo distintos proveedores describen la consultoría y la ejecución. El método de decisión y los registros ficticios son elaboración editorial de Beespoke. Las descripciones proceden de los proveedores y la comparación no evalúa sus afirmaciones sobre resultados.",
+  "relatedTitle": "Sigue con la decisión que te corresponda",
+  "relatedLabels": [
+    "Auditar la captación",
+    "Elegir una agencia outbound",
+    "Comparar capacidad SDR y ejecución gestionada",
+    "Estimar costes outbound",
+    "Consultar nuestra política editorial"
+  ],
+  "sourceNotes": [
+    "Compara los modelos según la etapa del negocio y la capacidad interna.",
+    "Explica el paso de la estrategia a la ejecución y el traspaso.",
+    "Plantea la elección según el trabajo pendiente y quién puede hacerlo.",
+    "Describe una consultoría que también ejecuta el trabajo.",
+    "Examina el esfuerzo que exige aplicar las recomendaciones."
+  ],
+  "serviceLinks": [
+    "Ver qué incluye el outbound gestionado",
+    "Hablar con Noah sobre el encaje",
+    "Consultar tarifas y condiciones vigentes"
+  ],
+  "sections": [
+    {
+      "id": "m-models",
+      "label": "Qué modelo encaja",
+      "title": "Contrata el trabajo que falta",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Empieza por una tarea que tu equipo no pueda hacer con regularidad. Pregunta quién la haría un martes cualquiera, quién puede cambiar las instrucciones y quién tiene autoridad para aceptar el resultado. Esas respuestas pesan más que el nombre del proveedor."
+        },
+        {
+          "type": "table",
+          "caption": "Cinco formas de cubrir el trabajo",
+          "heads": [
+            "Modelo",
+            "Qué contratas",
+            "Qué queda en tu equipo"
+          ],
+          "rows": [
+            [
+              "Consultor",
+              "Diagnóstico, diseño o acompañamiento. Confirma si incluye implantación.",
+              "Una persona que ejecute y autoridad para aplicar las recomendaciones."
+            ],
+            [
+              "Agencia gestionada",
+              "Trabajo recurrente de campaña con un alcance por escrito.",
+              "Datos del producto, validación de listas, excepciones y decisiones comerciales."
+            ],
+            [
+              "Profesional externo o refuerzo",
+              "Tiempo de una persona para tareas concretas. Confirma qué supervisión se incluye.",
+              "Prioridades, revisión y cobertura de ausencias, salvo acuerdo."
+            ],
+            [
+              "Equipo interno",
+              "Control directo de la ejecución y del aprendizaje.",
+              "Contratación, herramientas, supervisión y continuidad."
+            ],
+            [
+              "Modelo híbrido",
+              "Un reparto entre diseño, operación y posible traspaso.",
+              "Un único documento de trabajo, responsables de decisión y una persona que reciba la operación."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-brief",
+      "label": "Evidencia de partida",
+      "title": "Qué sabemos de verdad",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Un proveedor ficticio vende software de planificación a empresas de inspección independientes. Atiende una región y admite clientes con varias sedes. Excluye empresas de una sola sede y clientes actuales. La responsable comercial dirige las reuniones de diagnóstico. El coordinador puede revisar la cola los martes y jueves. Al principio solo tiene acceso a una exportación del CRM en modo lectura. La prospección requiere aprobar la lista, las afirmaciones del mensaje y el acceso de envío."
+        },
+        {
+          "type": "table",
+          "caption": "Evidencia inicial",
+          "heads": [
+            "Estado",
+            "Qué puede comprobar el comprador"
+          ],
+          "rows": [
+            [
+              "Observado",
+              "La exportación contiene seis respuestas fechadas. Dos se marcaron como sin encaje sin indicar el motivo. Tres no tenían responsable y una acabó en una reunión."
+            ],
+            [
+              "Hipótesis",
+              "La lista podría explicar el mal encaje. Las respuestas sin atender también podrían explicar por qué avanzaron pocas conversaciones."
+            ],
+            [
+              "Pendiente",
+              "Si las empresas sin asignar cumplen los criterios y si dos días de trabajo bastan para cubrir la cola."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Antes de pagar por otra lista, contrasta las seis respuestas con la zona, el número de sedes y el historial de asignación. En el ejemplo, dos de las tres empresas sin asignar encajan y la tercera queda pendiente. La prioridad pasa a ser asignar un responsable y revisar excepciones. La muestra no permite juzgar toda la lista ni estimar la demanda."
+        }
+      ]
+    },
+    {
+      "id": "m-cases",
+      "label": "Cuatro decisiones",
+      "title": "Cuatro compradores eligen de forma distinta",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1. Hay quien ejecute y la causa sigue abierta"
+        },
+        {
+          "type": "p",
+          "text": "El proveedor de software asigna al coordinador y a la responsable comercial para revisar respuestas. Contrata un diagnóstico acotado que deje una regla de asignación y una comprobación repetible. Una campaña completa añadiría capacidad antes de saber qué corregir. Si el coordinador se marcha sin sustituto, el asesoramiento solo no mantiene la cola. Verifica demanda y responsabilidad comercial antes de comparar ejecución gestionada."
+        },
+        {
+          "type": "heading",
+          "text": "2. La oferta está probada y falta ejecución diaria"
+        },
+        {
+          "type": "p",
+          "text": "Un proveedor ficticio de software de cumplimiento tiene notas comerciales que muestran un caso de uso repetible y una responsable para las reuniones. Nadie investiga cuentas ni atiende respuestas. Define una ejecución gestionada que cubra la lista aprobada, los mensajes, las respuestas y un traspaso aceptable. Descarta el asesoramiento solo mientras falte quien ejecute. Aclara el acceso y qué pasa con una respuesta dudosa antes de firmar."
+        },
+        {
+          "type": "heading",
+          "text": "3. La persona que recibirá la operación aún necesita práctica"
+        },
+        {
+          "type": "p",
+          "text": "Una integradora ficticia ha designado a un futuro coordinador. Empieza con diseño y un periodo operativo acotado si el contrato indica quién opera mientras tanto y qué debe demostrar quien lo reciba. Un traspaso inmediato dejaría excepciones en manos de alguien sin práctica. Un alcance indefinido tampoco resuelve la transición. Revisa el reparto si se retrasa la incorporación."
+        },
+        {
+          "type": "heading",
+          "text": "4. El equipo aún no puede defender su oferta"
+        },
+        {
+          "type": "p",
+          "text": "Una empresa ficticia de servicios no sabe qué puede entregar ni quién dirigirá la primera conversación. Aplaza la prospección recurrente. Asigna un responsable comercial y contrasta la oferta en conversaciones existentes. Un profesional externo se encontraría con las mismas preguntas abiertas. Retoma la decisión cuando sepas a quién puedes atender, qué puedes respaldar y quién responderá."
+        }
+      ]
+    },
+    {
+      "id": "m-scopes",
+      "label": "Leer el alcance",
+      "title": "Tres extractos de propuestas",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Tres alcances ficticios para el proveedor de software",
+          "heads": [
+            "Extracto",
+            "Qué cubre",
+            "Qué debes aclarar"
+          ],
+          "rows": [
+            [
+              "«Revisar la exportación y recomendar una regla de asignación».",
+              "Diagnóstico y nota de decisión.",
+              "El coordinador debe implantarla. Pregunta cómo se comprobará."
+            ],
+            [
+              "«Diseñar la regla y acompañar al coordinador en una revisión supervisada».",
+              "Diseño, práctica y correcciones.",
+              "La cola sigue siendo del cliente. Designa un suplente y define qué quedará registrado."
+            ],
+            [
+              "«Gestionar la campaña y las respuestas aprobadas y formar al futuro responsable en excepciones reales».",
+              "Ejecución recurrente y ejercicio de traspaso.",
+              "Confirma acceso, aprobaciones y quién opera si falla la prueba de traspaso."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Lee entregables y exclusiones con el mismo documento de partida. Aclara toda responsabilidad ambigua, incluida la actualización de la regla si cambia el perfil de comprador."
+        }
+      ]
+    },
+    {
+      "id": "m-work",
+      "label": "El trabajo en detalle",
+      "title": "Una recomendación y un registro de ejecución",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "«Personaliza más» le dice poco al coordinador. Una recomendación aplicable a este caso puede ser así."
+        },
+        {
+          "type": "record",
+          "title": "Ejemplo de decisión de consultoría",
+          "rows": [
+            [
+              "Evidencia",
+              "Tres respuestas carecen de responsable. Dos cumplen la regla de encaje."
+            ],
+            [
+              "Otra explicación",
+              "Puede que la lista siga siendo débil. Hay pocas respuestas para evaluarla entera."
+            ],
+            [
+              "Decisión y responsable",
+              "La responsable comercial aprueba quién recibe cada respuesta. El coordinador comprueba las excepciones antes de ampliar la lista."
+            ],
+            [
+              "Aceptación y duda",
+              "Revisa el siguiente registro por fechas, responsables y motivos de exclusión. Sigue sin saberse cuánta cobertura se necesita."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Ejemplo de registro operativo",
+          "rows": [
+            [
+              "Encaje y contexto público",
+              "Una empresa de inspección con varias sedes está en la región. Una oferta de empleo menciona la asignación de inspectores entre sedes. Permite hacer una pregunta sin dar por supuesta intención de compra."
+            ],
+            [
+              "Criterio del mensaje",
+              "«En vuestra oferta de coordinación de campo mencionáis la asignación entre sedes. ¿La planificación la lleva un equipo central o se ocupa cada sede?»"
+            ],
+            [
+              "Estado y responsable",
+              "Respuesta pendiente. La persona autorizada gestiona el contacto. La responsable comercial atiende preguntas de producto y valida el encaje."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Responsabilidades que conserva el cliente",
+          "heads": [
+            "Decisión",
+            "Quién actúa",
+            "Dónde puede atascarse"
+          ],
+          "rows": [
+            [
+              "Lista, exclusiones y afirmaciones",
+              "El cliente decide y quien ejecuta aplica lo aprobado.",
+              "Pausa los registros afectados si falta criterio."
+            ],
+            [
+              "Acceso de envío y trabajo diario",
+              "El cliente autoriza el acceso y la persona asignada ejecuta y deriva respuestas.",
+              "Para el envío si no hay acceso autorizado o cobertura."
+            ],
+            [
+              "Excepciones, reuniones y retorno de información",
+              "La responsable comercial resuelve dudas técnicas, dirige reuniones y comunica resultados.",
+              "Una cita puede quedar sin atender si nadie acepta el traspaso."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-handoff",
+      "label": "Traspaso y titularidad",
+      "title": "Pide una demostración a quien recibirá el trabajo",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "En la integradora ficticia, el coordinador recibe la versión 2 de las instrucciones, una cola de práctica y las reglas de asignación vigentes. Deriva bien una respuesta normal. Después un contacto pide que no le escriban más tras recibir mensajes por dos vías. El coordinador solo cierra el hilo de correo. La persona que opera conserva la responsabilidad, aplica la exclusión en todos los canales autorizados y repite la prueba antes de ceder el trabajo."
+        },
+        {
+          "type": "p",
+          "text": "Asigna una persona al documento vigente y las exclusiones, otra a aprobar afirmaciones y un responsable operativo para cada cuenta y canal. La responsable comercial define los resultados. Si la agencia recibe la orden de escribir a una cuenta que el consultor excluyó, detén ese contacto hasta que la persona a cargo resuelva la discrepancia. Mantener la lista de exclusión y el historial de cambios solo compensa si el reparto cubre una necesidad real."
+        },
+        {
+          "type": "table",
+          "caption": "Inventario ficticio de traspaso",
+          "heads": [
+            "Activo y ubicación",
+            "Permiso o acceso que revisar",
+            "Receptor y constancia"
+          ],
+          "rows": [
+            [
+              "Instrucciones y razones de los mensajes en el espacio compartido",
+              "Confirma qué documentos puede conservar y adaptar el cliente.",
+              "El coordinador recibe la versión aprobada e identifica la activa."
+            ],
+            [
+              "Estructura de investigación y reglas de cualificación en el CRM",
+              "Confirma campos, derechos de exportación y límites de licencia.",
+              "La responsable comercial coteja una muestra con las reglas."
+            ],
+            [
+              "Lista de exclusión y exportación de la cola",
+              "Entrega solo registros y campos permitidos.",
+              "Quien opera coteja las exclusiones con el receptor. Queda por resolver la prueba de excepción."
+            ],
+            [
+              "Cuentas de envío y herramientas",
+              "Comprueba administrador, licencia y derecho a revocar por separado.",
+              "El administrador del cliente comprueba el acceso antes de retirar al operador anterior."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Poder acceder a una herramienta no demuestra titularidad. Comprueba los usos autorizados de datos personales o licenciados aparte del derecho a recibir una exportación."
+        }
+      ]
+    },
+    {
+      "id": "m-costs",
+      "label": "Comparar costes",
+      "title": "Compara el mismo periodo e incluye trabajo interno",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Usa el mismo horizonte de decisión. Aquí es un trimestre ficticio. Pide un alcance por escrito para ese periodo y deja pendientes los importes y horas que aún no puedas comprobar."
+        },
+        {
+          "type": "table",
+          "caption": "El mismo caso durante un trimestre",
+          "heads": [
+            "Coste u obligación",
+            "Diagnóstico",
+            "Ejecución gestionada"
+          ],
+          "rows": [
+            [
+              "Honorarios externos",
+              "Importe puntual por confirmar. Comprueba si incluye práctica supervisada.",
+              "Cuota recurrente por confirmar. Aclara puesta en marcha y traspaso."
+            ],
+            [
+              "Tiempo interno",
+              "El coordinador lleva la cola y la responsable comercial revisa excepciones.",
+              "La responsable comercial valida el encaje y atiende reuniones. Confirma el tiempo de supervisión."
+            ],
+            [
+              "Herramientas y datos",
+              "Comprueba CRM, licencias y límites de exportación.",
+              "Aclara qué está incluido y qué conserva el cliente."
+            ],
+            [
+              "Transición",
+              "Comprueba la regla con trabajo real y asigna un suplente.",
+              "Acuerda el inventario y quién opera si se aplaza el traspaso."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Qué incentiva el pago",
+          "heads": [
+            "Tipo de propuesta",
+            "Evidencia que pedir",
+            "Pregunta para el acuerdo"
+          ],
+          "rows": [
+            [
+              "Proyecto de asesoramiento",
+              "Una decisión documentada y una prueba repetible.",
+              "¿Quién implanta y cuándo se acepta el trabajo?"
+            ],
+            [
+              "Cuota de gestión",
+              "Registro de actividad, cualificación pactada y responsable de respuestas.",
+              "¿Qué trabajo recurrente cubre la cuota y qué depende del cliente?"
+            ],
+            [
+              "Pago ligado al resultado",
+              "Reserva original y constancia de aceptación, con excepciones.",
+              "¿Qué unidad se acepta y cómo se tratan cancelaciones y cambios de fecha?"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "En un diagnóstico, el riesgo es pagar por un entregable que nadie puede aplicar. Una cuota puede incentivar la actividad aunque la cola siga atascada. Un pago por resultado puede favorecer reservas dudosas si no se aclara qué se acepta. El cliente aporta una persona que ejecute en el primer caso, aprobaciones y cobertura comercial en el segundo, y una definición escrita de reserva aceptada en el tercero."
+        },
+        {
+          "type": "p",
+          "text": "Una permanencia mínima o la ausencia de prueba gratuita no determina la calidad. Compara el trabajo y los criterios de aceptación. Calcula la rentabilidad cuando conozcas resultados, atribución, costes y márgenes."
+        }
+      ]
+    },
+    {
+      "id": "m-outcomes",
+      "label": "Medir resultados",
+      "title": "Distingue decisión, adopción y avance comercial",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Registro ficticio de observaciones",
+          "heads": [
+            "Cuándo",
+            "Evidencia",
+            "Qué permite concluir"
+          ],
+          "rows": [
+            [
+              "Semana 1",
+              "La responsable comercial aprueba una regla de asignación revisada.",
+              "Hay decisión y queda implantarla."
+            ],
+            [
+              "Semana 2",
+              "El coordinador asigna bien una respuesta normal. Falla la excepción de exclusión.",
+              "Puede hacer la tarea habitual. El traspaso queda pendiente."
+            ],
+            [
+              "Semana 3",
+              "Se registra una reserva original y luego se cambia de fecha. Se celebra la reunión.",
+              "Una reserva y una reunión celebrada. El cambio no suma otra adquisición."
+            ],
+            [
+              "Semana 4",
+              "Ventas aún no acepta una oportunidad. El origen sigue sin confirmarse.",
+              "La oportunidad y la rentabilidad quedan pendientes."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-diligence",
+      "label": "Pruebas e incentivos",
+      "title": "Pregunta a quién beneficia la recomendación",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Un consultor puede vender implantación o cobrar por derivaciones. Una agencia puede asesorar bien aunque le interese ejecutar. Pregunta cómo cobra cada proveedor y qué evidencia le llevaría a desaconsejar la campaña."
+        },
+        {
+          "type": "p",
+          "text": "En una propuesta ficticia, la consultora afirma que diseñó un proceso de asignación y muestra una nota de decisión. Así se ve la estructura del trabajo. Su afirmación de que el proceso mejoró la conversión queda sin verificar. También vende implantación, así que pregunta qué recomendaría si el cliente utilizara a su propio coordinador."
+        },
+        {
+          "type": "record",
+          "title": "Ejemplo de petición de pruebas",
+          "rows": [
+            [
+              "Pide",
+              "Una estructura anonimizada o un ejemplo ficticio identificado que muestre la decisión, quién la aplicó y cómo se comprobó."
+            ],
+            [
+              "Verifica por separado",
+              "Quién hizo el trabajo, qué se revisó y qué parte asumiría el equipo propuesto. La estructura de ejemplo no acredita resultados."
+            ],
+            [
+              "Pregunta abierta",
+              "«¿Cobraréis vosotros o algún socio si elegimos al operador que recomendáis?» Registra la respuesta antes de comparar."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m-record",
+      "label": "Registrar la decisión",
+      "title": "Deja por escrito cuándo reconsiderarla",
+      "blocks": [
+        {
+          "type": "record",
+          "title": "Decisión del proveedor de software",
+          "rows": [
+            [
+              "Problema y evidencia",
+              "Hay respuestas sin responsable en el CRM. Dos encajan en la regla vigente."
+            ],
+            [
+              "Alcance elegido y opción descartada",
+              "Contratar diagnóstico acotado y revisión supervisada de la asignación. Aplazar la campaña recurrente hasta entender el atasco."
+            ],
+            [
+              "Responsable y duda",
+              "La responsable comercial acepta la regla. El coordinador gestiona la cola. Falta confirmar la cobertura los demás días."
+            ],
+            [
+              "Reabrir cuando",
+              "El coordinador deje de estar disponible o la revisión muestre fallos recurrentes de cobertura. Comparar ejecución gestionada con el mismo caso y responsable comercial."
+            ]
+          ]
+        },
+        {
+          "type": "record",
+          "title": "Decisión de la integradora",
+          "rows": [
+            [
+              "Problema y evidencia",
+              "El futuro coordinador asumirá la operación. Superó la tarea habitual, pero falló la prueba de exclusión."
+            ],
+            [
+              "Alcance elegido y opción descartada",
+              "Mantener a la persona que opera durante un segundo ejercicio supervisado. Aplazar el traspaso inmediato y definir cuándo acaba la gestión externa."
+            ],
+            [
+              "Responsable y duda",
+              "La responsable comercial acepta el traspaso si el coordinador resuelve la excepción. La fecha sigue abierta."
+            ],
+            [
+              "Reabrir cuando",
+              "El coordinador supere la prueba o deje de estar disponible la persona asignada."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Puedes copiar o imprimir los registros y sustituir los datos ficticios por los tuyos. Incluye la condición para reconsiderar la decisión al pedir propuestas."
+        }
+      ]
+    },
+    {
+      "id": "m-service",
+      "label": "Dónde encaja Beespoke",
+      "title": "Si necesitas outbound gestionado",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Beespoke es una agencia de outbound gestionado dirigida por su fundador. Su trabajo puede incluir investigación, mensajes individuales, ejecución autorizada por correo en frío y/o LinkedIn, gestión de respuestas, cualificación acordada y traspaso al calendario. Tu equipo valida listas y afirmaciones de producto, atiende consultas expertas y dirige reuniones, propuestas y cierres. Las llamadas en frío se cotizan aparte según el mercado. Para asesoramiento independiente o selección neutral de proveedores, busca un consultor especializado."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    [
+      "¿Qué diferencia hay entre un consultor de captación y una agencia?",
+      "Un consultor suele ayudar a diagnosticar y diseñar el trabajo. Una agencia gestionada suele operar la campaña acordada. Revisa el alcance porque ambos pueden ofrecer asesoramiento o ejecución."
+    ],
+    [
+      "¿Cuándo conviene empezar por un consultor?",
+      "Cuando la causa no está clara y hay una persona en tu equipo que puede aplicar y comprobar la recomendación."
+    ],
+    [
+      "¿Cuándo compensa un modelo híbrido?",
+      "Si necesitas diseño y ejecución temporal, con un receptor designado, responsables claros y una prueba observada de traspaso."
+    ],
+    [
+      "¿Cómo comparo los costes?",
+      "Usa el mismo periodo e incluye honorarios, tiempo interno, herramientas, datos, implantación y transición. Deja pendientes los importes desconocidos."
+    ],
+    [
+      "¿Cómo compruebo que el traspaso funciona?",
+      "La persona receptora demuestra que puede resolver una tarea normal y una excepción con los accesos y aprobaciones necesarios. Registra los fallos y conserva un responsable hasta resolverlos."
+    ],
+    [
+      "¿Beespoke ofrece selección independiente de proveedores?",
+      "Beespoke ofrece outbound gestionado. Para selección neutral o asesoramiento independiente, busca un consultor especializado."
+    ]
+  ]
+}
