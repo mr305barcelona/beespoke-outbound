@@ -1,0 +1,129 @@
+{
+  "sections": [
+    {
+      "title": "Escriu un abast comú",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un equip de programari necessita recerca, correu o LinkedIn aprovats, gestió de respostes i un traspàs acceptat per vendes per a un segment. Vendes atén preguntes expertes i reunions. L’agència inclou recerca i gestió, però exclou dades. La contractació interna inclou un representant, però deixa la supervisió i les absències sense cobrir. Resol aquests buits abans de comparar."
+        },
+        {
+          "kind": "table",
+          "title": "Normalitza la feina",
+          "heads": [
+            "Feina",
+            "Què cal confirmar a l’agència",
+            "Què cal confirmar internament"
+          ],
+          "rows": [
+            [
+              "Criteris i afirmacions",
+              "Responsable d’aprovació i regla d’excepcions.",
+              "Temps de producte i vendes per aprovar."
+            ],
+            [
+              "Recerca i missatges",
+              "Dades, eines i responsable dels canvis.",
+              "Operador, supervisió i llicències."
+            ],
+            [
+              "Respostes i reunions",
+              "Cobertura diària i traspàs a vendes.",
+              "Suplències i temps per a reunions."
+            ],
+            [
+              "Fi del servei o substitució",
+              "Exportacions, drets d’ús i receptor.",
+              "Selecció, incorporació i suport."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Usa el mateix període per al temps i els costos",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "La proposta fictícia d’agència requereix dues hores setmanals d’aprovacions i una de revisió. L’equip intern necessita les mateixes tres i quatre més de supervisió i cobertura. En 12 setmanes són 36 i 84 hores del client, abans de selecció o transició. Verifica disponibilitat i valora el temps amb el mateix criteri al model de costos. Un import absent queda pendent."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Separa arrencada, operació, eines i temps. Data l’inici de la feina útil. Un termini curt pot afavorir una arrencada ràpida i un de llarg pot afavorir capacitat interna. Recalcula a 3, 6 i 12 mesos amb dades comprovades. El sou sol no representa una operació completa."
+        }
+      ]
+    },
+    {
+      "title": "Quatre situacions i quatre decisions",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Exemples de decisió",
+          "heads": [
+            "Situació",
+            "Primera opció",
+            "Què la canviaria"
+          ],
+          "rows": [
+            [
+              "Oferta validada, sense operador",
+              "Defineix execució gestionada i responsables del client i de vendes.",
+              "Contracta quan puguis demostrar repetició i supervisió."
+            ],
+            [
+              "Procés estable, supervisor disponible",
+              "Crea equip i reserva temps de gestió.",
+              "Fes servir cobertura temporal si es retarda la contractació."
+            ],
+            [
+              "Demanda incerta, possible operador futur",
+              "Prova un segment acotat i defineix com es traspassarà l’aprenentatge.",
+              "Ajorna l’ampliació si l’encaix o el seguiment continuen oberts."
+            ],
+            [
+              "Ningú porta les reunions",
+              "Ajorna les dues compres i assigna un responsable comercial.",
+              "Reobre quan accepti el traspàs i pugui cobrir respostes."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Assaja la fi del servei",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Registre de decisió",
+          "rows": [
+            [
+              "Abast",
+              "Recerca i prospecció gestionades per a un segment. El client aprova i atén respostes expertes i reunions."
+            ],
+            [
+              "Pendent",
+              "Eines i suplència per a escalats. Demana abast escrit i acceptació del responsable abans d’arrencar."
+            ],
+            [
+              "Prova de traspàs",
+              "El receptor reconstrueix una fitxa, actua sobre una resposta i aplica una baixa amb els permisos i drets adequats."
+            ],
+            [
+              "Reconsiderar",
+              "Si falla una excepció o falta l’estat d’exclusió a l’exportació, mantén el responsable actual i repeteix la prova."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Contrasta la primera decisió amb el registre. Separa ingressos, oportunitats i benefici. Una previsió sense conversió o marge verificats no resol el model."
+        }
+      ]
+    }
+  ],
+  "answer": "Tria agència si falta execució recurrent i el teu equip pot decidir, aprovar i atendre vendes. Crea equip intern si la feina és repetible, estratègica i pots contractar i supervisar. Compara el mateix abast durant el mateix període, amb temps del client, arrencada i fi del servei.",
+  "description": "Compara agència i equip intern amb el mateix abast, supervisió, arrencada, costos i traspàs, amb decisions pràctiques.",
+  "title": "Compara la mateixa feina abans de comparar costos",
+  "toc": "Exemple de decisió operativa",
+  "fiction": "Les empreses, hores i decisions d’aquests exemples són fictícies."
+}

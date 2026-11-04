@@ -1,0 +1,225 @@
+{
+  "sections": [
+    {
+      "title": "Avant le premier envoi",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un éditeur sert des entreprises d’inspection multisites dans une région. La responsable commerciale valide la cible et mène les rendez-vous. L’opérateur du prestataire prépare la liste, écrit aux contacts validés et répartit les réponses. Le client désigne un suppléant autorisé à trancher les exceptions. Le premier lot attend son accord."
+        },
+        {
+          "kind": "table",
+          "title": "Éléments de lancement",
+          "heads": [
+            "Élément",
+            "Décision et responsable"
+          ],
+          "rows": [
+            [
+              "Liste",
+              "Le client valide les entreprises multisites. Il exclut les clients actuels, les sites uniques et les doublons non résolus."
+            ],
+            [
+              "Affirmations",
+              "L’opérateur propose « pourvoit automatiquement tous les créneaux ». Le client peut confirmer la visibilité du planning mais pas cette promesse. Il valide la version 2 plus précise. La version 1 reste bloquée."
+            ],
+            [
+              "Accès et arrêt",
+              "L’administrateur accorde les droits nécessaires. L’opérateur vérifie les exclusions sur les canaux autorisés. Un accès défaillant ou un refus non traité suspend le travail concerné."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Un renfort placé sous votre direction quotidienne nécessite un encadrement et une couverture. Le périmètre d’une prestation gérée doit préciser qui s’en charge. Dans les deux cas, le client valide les faits produit et l’adéquation."
+        }
+      ]
+    },
+    {
+      "title": "Utilisez les 30 minutes pour examiner les preuves",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Revue hebdomadaire complétée",
+          "heads": [
+            "Temps",
+            "Vérification",
+            "Décision"
+          ],
+          "rows": [
+            [
+              "Dix premières minutes",
+              "Une entreprise a trois sites et une annonce publique sur l’affectation. Une deuxième fiche déduit le nombre de sites d’un annuaire. Un troisième message suppose un problème à partir d’une annonce.",
+              "Garder le profil vérifié, retenir la fiche douteuse et corriger la supposition. L’opérateur consigne les motifs."
+            ],
+            [
+              "Dix minutes suivantes",
+              "Deux réponses sont hors cible. Une autre pose une question technique et attend le client. Deux causes restent possibles, la validation de la liste et la couverture des réponses.",
+              "Le client compare les deux fiches à la règle. La responsable commerciale vérifie qui devait répondre."
+            ],
+            [
+              "Dix dernières minutes",
+              "Il est trop tôt pour élargir. L’opérateur corrige les fiches. Le client nomme un relais technique.",
+              "Vérifier les actions à la revue suivante. Reprendre le segment après validation de la règle corrigée."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Faites porter le coaching sur un exemple de travail. L’opérateur apprend à distinguer un fait public d’une intention d’achat. Si le client laisse une réponse pertinente en attente, améliorez la couverture et la transmission avant de modifier les messages."
+        }
+      ]
+    },
+    {
+      "title": "Réconciliez un seul groupe de contacts",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Comptez chaque personne une fois dans le premier lot. Sur 40 contacts validés, 32 ont été contactés. Six ont répondu, dont trois positifs et pertinents, deux hors cible et un refus. Les réponses positives ont donné deux réservations initiales. Une a été reportée. Un rendez-vous a eu lieu et satisfait les critères. L’autre reste à venir. L’équipe commerciale n’a accepté aucune opportunité."
+        },
+        {
+          "kind": "table",
+          "title": "Lecture des chiffres",
+          "heads": [
+            "Indicateur",
+            "Élément vérifiable"
+          ],
+          "rows": [
+            [
+              "Taux de réponse",
+              "6 ÷ 32 personnes contactées, soit 18,75 % dans cet exemple fictif."
+            ],
+            [
+              "Réservations",
+              "Deux identifiants d’origine. Le report reste rattaché à son identifiant."
+            ],
+            [
+              "Qualification",
+              "Un rendez-vous tenu et qualifié. L’autre est en attente et le taux de présence reste provisoire."
+            ],
+            [
+              "Opportunité",
+              "Aucune n’est acceptée à ce stade. Consignez la décision commerciale séparément."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Chaque étape répond à une question différente. Un petit groupe ne suffit pas à établir la demande ou le retour. Comparez des groupes arrivés à maturité avec les mêmes règles."
+        }
+      ]
+    },
+    {
+      "title": "Consignez la transmission dans le CRM",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Fiche de réponse complétée",
+          "rows": [
+            [
+              "Identifiant et version",
+              "Compte A, contact 04, cahier des charges v2. Plusieurs sites ont été vérifiés. Le besoin est inconnu."
+            ],
+            [
+              "Réponse et responsable",
+              "Le contact pose une question d’intégration. L’opérateur l’enregistre, met les relances automatiques en pause et l’attribue à la responsable commerciale."
+            ],
+            [
+              "Acceptation et suite",
+              "L’équipe commerciale répond sur le produit et mène la découverte. Reliez l’identifiant d’origine si le rendez-vous est réservé. Enregistrez séparément la tenue, la qualification et l’opportunité."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Le CRM doit contenir les clés compte et contact, la version, la preuve, l’état, le responsable et la prochaine action. Une personne gère chaque compte sur tous les canaux. Fusionnez ou retenez les doublons avant l’envoi et propagez les refus dans le circuit approuvé. Le responsable vérifie la correction avant la reprise."
+        }
+      ]
+    },
+    {
+      "title": "Renouvelez, modifiez, suspendez ou transférez",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Décision et preuve",
+          "heads": [
+            "Choix",
+            "À vérifier"
+          ],
+          "rows": [
+            [
+              "Renouveler",
+              "Le travail correspond au périmètre, les transmissions sont acceptées et le client peut couvrir le prochain lot."
+            ],
+            [
+              "Modifier",
+              "Deux erreurs partagent une cause corrigible. Testez la nouvelle règle sur un lot limité et fixez une date."
+            ],
+            [
+              "Suspendre",
+              "Les refus ne sont pas vérifiés, les affirmations manquent de preuve ou personne ne traite les réponses. Reprenez après contrôle de la correction."
+            ],
+            [
+              "Transférer",
+              "Le relais dispose des droits et des accès et peut traiter une réponse ordinaire et une exception. Un export seul ne suffit pas."
+            ]
+          ]
+        },
+        {
+          "kind": "record",
+          "title": "Acceptation de la passation",
+          "rows": [
+            [
+              "Inventaire",
+              "L’export, le cahier des charges v2, les règles et les exclusions sont reçus. Le client vérifie les droits de conservation."
+            ],
+            [
+              "Répétition",
+              "Le relais attribue une réponse ordinaire mais oublie un refus sur un autre canal. L’opérateur actuel garde la responsabilité et vérifie l’exclusion."
+            ],
+            [
+              "Décision",
+              "Refaites le test avant de retirer les accès ou de transférer la file. Fixez un responsable et une date de revue."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Copiez le compte rendu de la revue",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Registre hebdomadaire",
+          "rows": [
+            [
+              "Date et groupe",
+              "Quels contacts, canaux et dates sont couverts ?"
+            ],
+            [
+              "Preuves",
+              "Quels compte, message et transmission ont été examinés ?"
+            ],
+            [
+              "Décision",
+              "Qu’est-ce qui continue, change ou s’arrête ? Qui agit et quand vérifier ?"
+            ],
+            [
+              "Incertitude",
+              "Que reste-t-il à vérifier et qu’est-ce qui ferait changer la décision ?"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Beespoke peut exécuter la prospection convenue par e-mail à froid et/ou LinkedIn. Votre équipe conserve la validation des listes, les affirmations, les réponses expertes, la découverte et la conclusion. Les appels à froid font l’objet d’un devis distinct selon le marché."
+        }
+      ]
+    }
+  ],
+  "answer": "Désignez un responsable chez le client et un chez le prestataire, définissez par écrit une transmission acceptable et organisez une revue hebdomadaire qui aboutit à des décisions. Examinez les fiches et réponses en plus du pipeline. Suspendez le travail concerné si les validations, les accès ou les exclusions sont incertains.",
+  "description": "Pilotez une équipe SDR externalisée avec un lancement, une revue de 30 minutes, une transmission CRM et des décisions de poursuite illustrés.",
+  "title": "Une revue hebdomadaire qui mène à des décisions",
+  "toc": "Exemple de revue opérationnelle",
+  "fiction": "L’équipe, les messages, les chiffres et les décisions de cet exemple sont fictifs."
+}

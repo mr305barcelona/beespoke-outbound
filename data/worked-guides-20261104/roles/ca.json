@@ -1,0 +1,120 @@
+{
+  "sections": [
+    {
+      "title": "Comença amb dues cues",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un equip de programari rep consultes i vol arribar a responsables d’operacions de certs comptes. Les consultes necessiten una resposta útil, comprovació d’encaix i derivació. La prospecció necessita recerca, exclusions, afirmacions aprovades, missatges coordinats i responsable de respostes. Vendes dirigeix reunions i decisions en tots dos casos."
+        },
+        {
+          "kind": "table",
+          "title": "Dues cues amb evidència diferent",
+          "heads": [
+            "Cua",
+            "Feina",
+            "Mesura"
+          ],
+          "rows": [
+            [
+              "Inbound",
+              "Assignar consultes, comprovar encaix i derivar dubtes experts.",
+              "Temps fins a resposta útil i traspassos acceptats entre consultes aptes."
+            ],
+            [
+              "Outbound",
+              "Investigar comptes, aprovar llistes i missatges, executar i derivar respostes.",
+              "Persones úniques contactades, respostes pertinents i traspassos acceptats del grup contactat."
+            ],
+            [
+              "Mixta",
+              "Designar responsables o una regla clara de prioritat.",
+              "Informar per separat perquè una millora inbound no sembli creixement outbound."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Compara dues ofertes amb el mateix títol",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Dues ofertes diuen «SDR extern». La primera respon formularis i reserva cites, però exclou recerca i enviament. La segona investiga i contacta comptes aprovats, però exclou inbound. Cap inclou reunions tècniques o tancament. Tria la primera si s’encallen consultes, la segona si falta prospecció, o demana els dos abasts separats si confirmes tots dos buits."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Si vendes no pot rebre cap cua, ajorna les dues compres. Una oferta BDR podria cobrir-ne qualsevol. Demana un exemple des de l’entrada o recerca fins a la decisió comercial."
+        }
+      ]
+    },
+    {
+      "title": "Resol el solapament",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Excepció amb dues cues",
+          "rows": [
+            [
+              "Evidència",
+              "Una persona d’un compte aprovat envia una consulta abans del seguiment outbound. Coincideix l’identificador de compte."
+            ],
+            [
+              "Decisió",
+              "Atura el seguiment. La persona d’inbound confirma la consulta, adjunta el context i l’operador actualitza l’estat comú."
+            ],
+            [
+              "Traspàs",
+              "Vendes revisa el cas d’ús i porta el pas següent. Registra un esdeveniment inbound. L’enviament pendent no compta com a resposta outbound."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Llegeix cada mesura per separat",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "En una setmana fictícia hi va haver vuit consultes aptes. Sis van rebre una resposta útil dins el termini acordat i vendes va acceptar tres traspassos. En outbound es van contactar 24 persones úniques, amb quatre respostes pertinents i un traspàs acceptat. No combinis taxes. Una reserva pot quedar pendent, canviar de data, celebrar-se o descartar-se. Conserva l’identificador original i la decisió de vendes."
+        }
+      ]
+    },
+    {
+      "title": "Escriu què es pot acceptar o rebutjar",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Abast reutilitzable",
+          "rows": [
+            [
+              "Origen i feina",
+              "Indica cua, entrada, canals, feina diària i exclusions."
+            ],
+            [
+              "Responsables",
+              "Designa operador, aprovador, suplent i receptor de vendes. Confirma eines, accessos i drets."
+            ],
+            [
+              "Acceptació",
+              "Adjunta evidència, motiu d’encaix i pas següent. Indica com es registra un rebuig."
+            ],
+            [
+              "Aturada i traspàs",
+              "Defineix quan s’atura i com demostra el receptor que resol una baixa o un duplicat."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Beespoke executa outbound gestionat per correu en fred i/o LinkedIn segons l’acord. Gestionar consultes inbound o tancar vendes són feines diferents. Confirma qualsevol altra responsabilitat per escrit."
+        }
+      ]
+    }
+  ],
+  "answer": "Els títols SDR i BDR varien segons l’empresa. Contracta la cua que necessites: qualificació inbound, prospecció outbound o una combinació amb responsabilitats clares. Especifica origen, feina diària, exclusions, traspàs i mesura d’èxit abans de triar.",
+  "description": "Compara SDR i BDR externalitzats per feina real, amb dues cues, propostes del mateix nom, un traspàs i mesures diferents.",
+  "title": "Contracta una cua definida abans de triar un nom",
+  "toc": "Exemple de SDR i BDR",
+  "fiction": "Les cues, propostes, missatges i xifres són ficticis."
+}

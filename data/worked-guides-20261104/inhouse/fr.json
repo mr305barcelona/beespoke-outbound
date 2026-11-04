@@ -1,0 +1,129 @@
+{
+  "sections": [
+    {
+      "title": "Rédigez un cahier des charges commun",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un éditeur a besoin de recherche, d’envois approuvés par e-mail ou LinkedIn, de traitement des réponses et d’une transmission acceptée pour un segment. Les ventes traitent les questions expertes et les rendez-vous. L’agence inclut recherche et encadrement, mais exclut les données. Le recrutement prévoit un représentant, mais laisse l’encadrement et les absences sans responsable. Comblez ces écarts avant de comparer."
+        },
+        {
+          "kind": "table",
+          "title": "Travail à périmètre égal",
+          "heads": [
+            "Travail",
+            "À vérifier côté agence",
+            "À vérifier en interne"
+          ],
+          "rows": [
+            [
+              "Cible et affirmations",
+              "Approbateur et règle d’exception.",
+              "Temps produit et commercial pour valider."
+            ],
+            [
+              "Recherche et messages",
+              "Données, outils et responsable des changements.",
+              "Opérateur, encadrement et licences."
+            ],
+            [
+              "Réponses et rendez-vous",
+              "Couverture quotidienne et transmission aux ventes.",
+              "Suppléance et disponibilité pour les rendez-vous."
+            ],
+            [
+              "Sortie ou remplacement",
+              "Exports, droits d’usage et relais.",
+              "Recrutement, intégration et couverture."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comparez la même durée",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "La proposition fictive d’agence demande deux heures hebdomadaires de validation et une de revue. L’équipe interne demande les mêmes trois heures et quatre de coaching et de couverture. Sur 12 semaines, cela fait 36 contre 84 heures côté client, avant recrutement ou transition. Vérifiez la disponibilité et valorisez le temps selon la même règle dans le modèle de coûts. Laissez les montants manquants ouverts."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Séparez démarrage, exécution, outils et temps. Datez le début du travail utilisable. Un horizon court peut favoriser un démarrage rapide et un horizon long la capacité interne. Recalculez sur 3, 6 et 12 mois avec des données vérifiées. Un salaire seul ne représente pas une prestation complète."
+        }
+      ]
+    },
+    {
+      "title": "Quatre situations et quatre décisions",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Exemples de décision",
+          "heads": [
+            "Situation",
+            "Premier choix",
+            "Ce qui le ferait évoluer"
+          ],
+          "rows": [
+            [
+              "Offre validée, pas d’opérateur",
+              "Cadrez une prestation gérée avec responsables client et commercial.",
+              "Recrutez lorsque la répétabilité et l’encadrement sont établis."
+            ],
+            [
+              "Processus stable, encadrement disponible",
+              "Internalisez en réservant du temps au responsable.",
+              "Prévoyez une couverture temporaire si le recrutement tarde."
+            ],
+            [
+              "Demande incertaine, relais possible",
+              "Testez un segment limité et prévoyez le transfert des enseignements.",
+              "Différez l’élargissement si la cible ou le suivi restent incertains."
+            ],
+            [
+              "Personne ne mène la découverte",
+              "Reportez l’achat et nommez un responsable commercial.",
+              "Rouvrez la décision lorsqu’il accepte la transmission et couvre les réponses."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Répétez la sortie",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Fiche de décision",
+          "rows": [
+            [
+              "Périmètre",
+              "Recherche et prospection gérées pour un segment. Le client valide et traite les réponses expertes et les rendez-vous."
+            ],
+            [
+              "En attente",
+              "Outils et suppléant pour les escalades. Obtenez un périmètre écrit et l’accord du responsable avant lancement."
+            ],
+            [
+              "Preuve de passation",
+              "Le relais reconstitue une fiche, traite une réponse et applique un refus avec les accès et droits appropriés."
+            ],
+            [
+              "Réexamen",
+              "Si le relais échoue sur une exception ou si l’export omet les exclusions, gardez le responsable actuel et refaites le test."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Vérifiez la première décision réelle avec la fiche. Distinguez chiffre d’affaires, pipeline et bénéfice. Une prévision fondée sur des conversions ou marges inconnues ne tranche pas le choix."
+        }
+      ]
+    }
+  ],
+  "answer": "Choisissez une agence si l’exécution récurrente manque et que votre équipe peut décider, valider et assurer le suivi commercial. Internalisez si le travail est répétable, stratégique et encadrable. Comparez le même périmètre sur la même période, avec le temps du client, le démarrage et la sortie.",
+  "description": "Comparez agence et équipe interne à périmètre égal, avec l’encadrement, le démarrage, les coûts et la passation.",
+  "title": "Comparez le même travail avant de comparer les coûts",
+  "toc": "Exemple de décision opérationnelle",
+  "fiction": "Les entreprises, heures et décisions de ces exemples sont fictives."
+}

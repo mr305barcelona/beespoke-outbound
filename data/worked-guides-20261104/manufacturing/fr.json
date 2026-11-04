@@ -1,0 +1,143 @@
+{
+  "sections": [
+    {
+      "title": "Définissez le travail que l’atelier recherche",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un atelier d’usinage a de la capacité pour des séries récurrentes. Il travaille un ensemble limité de matériaux et livre deux régions. Le chiffreur valide dimensions et documentation. Excluez les prototypes ponctuels, les zones non desservies et les certifications que l’atelier n’a pas vérifiées."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Construisez la liste selon le procédé, la famille de pièces, la zone, la récurrence et le circuit d’achat. Le code sectoriel ne confirme pas la compatibilité. Commencez par une seule famille pour comprendre les refus."
+        }
+      ]
+    },
+    {
+      "title": "Consignez ce que chaque signal établit",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Preuves par compte",
+          "heads": [
+            "Compte",
+            "Constat",
+            "Décision"
+          ],
+          "rows": [
+            [
+              "A : fabricant d’équipements",
+              "Une fiche montre un sous-ensemble pertinent. Une annonce de recrutement cite une seconde ligne.",
+              "Identifiez les achats. Ce changement permet de poser une question, sans établir le calendrier."
+            ],
+            [
+              "B : sous-traitant industriel",
+              "Un annuaire indique de l’usinage. On ignore s’il achète la prestation visée.",
+              "Mettez la fiche en attente et vérifiez s’il produit ou sous-traite cette pièce."
+            ],
+            [
+              "C : nouveau site",
+              "Un plan public situe le site hors zone.",
+              "Excluez-le sauf si la logistique confirme une solution."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Notez la source et la date. Une extension, une opération de maintenance ou un recrutement donne du contexte. Posez une question de terrain avant de supposer un problème."
+        }
+      ]
+    },
+    {
+      "title": "Donnez à chaque acheteur les éléments qui lui servent",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "L’ingénierie veut les limites, tolérances et modalités de revue des plans. La qualité veut les documents vérifiés et le traitement des exceptions. Les achats veulent les conditions de commande et un interlocuteur devis. Les opérations veulent un circuit de livraison et d’escalade crédible. Vérifiez ces faits avant de les publier ou de les envoyer."
+        },
+        {
+          "kind": "record",
+          "title": "Exemple d’ouverture aux achats",
+          "rows": [
+            [
+              "Motif",
+              "« Votre fiche montre un boîtier remplaçable. Achetez-vous cette pièce en série récurrente ou la fabriquez-vous en interne ? »"
+            ],
+            [
+              "Suite",
+              "En cas d’achat externe, demandez quelle spécification est en vigueur et qui vérifie la compatibilité. Le prix et le délai attendent le chiffrage."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Choisissez le canal selon l’étape",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Circuit par situation",
+          "heads": [
+            "Situation",
+            "Action utile",
+            "Mesure"
+          ],
+          "rows": [
+            [
+              "Compte pertinent sans demande active",
+              "Envoyez un message ciblé par e-mail ou LinkedIn, puis une relance courte. Coordonnez les canaux par compte.",
+              "Conversations pertinentes et exclusions par famille."
+            ],
+            [
+              "Acheteur qui cherche un fournisseur",
+              "Montrez les capacités vérifiables et un circuit de demande clair. Permettez de signaler une contrainte sans publier de plans.",
+              "Demandes complètes et compatibles."
+            ],
+            [
+              "Acheteur qui compare",
+              "Proposez une revue de capacité convenue ou une preuve approuvée. Le chiffreur valide la compatibilité.",
+              "Revues acceptées et raisons des refus."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Distinguez un contact d’une demande prête à chiffrer",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Exemple de transmission",
+          "rows": [
+            [
+              "Reçu",
+              "L’acheteur demande un boîtier récurrent. Quantité et région semblent compatibles. Il manque l’indice du plan et les documents qualité."
+            ],
+            [
+              "Circuit",
+              "Les ventes consignent l’usage et transmettent. Le chiffreur demande indice, matériau, tolérance, volume, date et documents par le canal approuvé."
+            ],
+            [
+              "Décision",
+              "Compatibilité possible. La demande devient chiffrable quand le responsable accepte les exigences. Gardez capacité et délai ouverts jusqu’à la validation."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Décidez du prochain changement",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Suivez séparément comptes recherchés, réponses pertinentes, demandes acceptées, devis et commandes. Si les réponses sont pertinentes mais les demandes bloquent, vérifiez transmission et délais de traitement. Si les refus concernent le matériau ou la zone, corrigez la liste. Un cycle long laisse des décisions en attente. Élargissez quand le responsable technique peut expliquer les critères qui ont fonctionné."
+        }
+      ]
+    }
+  ],
+  "answer": "Partez de ce que vous pouvez fabriquer, des zones livrées et des demandes que votre équipe peut qualifier. Prospectez des comptes ciblés avant un appel d’offres. Une page de capacités et un parcours de demande de devis aident les acheteurs en recherche. Désignez un responsable technique pour la transmission.",
+  "description": "Organisez la génération de leads industriels selon vos capacités, les preuves par compte, les acheteurs et la préparation du devis.",
+  "title": "De la liste de comptes à une demande de devis exploitable",
+  "toc": "Exemple industriel",
+  "fiction": "Le fournisseur, les comptes et la demande de cet exemple sont fictifs."
+}

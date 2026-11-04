@@ -1,0 +1,120 @@
+{
+  "sections": [
+    {
+      "title": "Partez de deux files",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un éditeur reçoit des demandes produit et veut joindre des responsables opérationnels dans des comptes ciblés. Une demande entrante exige une réponse utile, une vérification et une transmission. La prospection exige recherche, exclusions, affirmations approuvées, coordination et traitement des réponses. Les ventes assurent la découverte et la décision commerciale dans les deux cas."
+        },
+        {
+          "kind": "table",
+          "title": "Deux files et leurs preuves",
+          "heads": [
+            "File",
+            "Travail",
+            "Mesure"
+          ],
+          "rows": [
+            [
+              "Entrante",
+              "Affecter les demandes, vérifier les critères et transmettre les questions expertes.",
+              "Délai de réponse utile et transmissions acceptées parmi les demandes admissibles."
+            ],
+            [
+              "Prospection",
+              "Rechercher les comptes, valider listes et messages, exécuter et répartir les réponses.",
+              "Personnes distinctes contactées, réponses pertinentes et transmissions acceptées dans ce groupe."
+            ],
+            [
+              "Mixte",
+              "Attribuer des responsables ou définir une règle de priorité.",
+              "Présenter les files séparément pour distinguer réponse entrante et croissance de la prospection."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comparez deux offres du même nom",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Deux offres disent « SDR externalisé ». La première répond aux formulaires et réserve des rendez-vous, mais exclut recherche et envois. La seconde recherche et contacte les comptes approuvés, mais exclut les demandes entrantes. Aucune ne couvre découverte technique ou conclusion. Retenez la première si les demandes bloquent, la seconde si la prospection manque, ou demandez deux périmètres si les deux besoins sont avérés."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Si personne aux ventes ne peut reprendre les dossiers, différez les deux achats. Une offre intitulée BDR pourrait couvrir l’un ou l’autre. Demandez un exemple de l’entrée ou de la recherche jusqu’à la décision commerciale."
+        }
+      ]
+    },
+    {
+      "title": "Résolvez un chevauchement",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Exception entre deux files",
+          "rows": [
+            [
+              "Preuve",
+              "Une personne d’un compte approuvé transmet une demande avant sa relance de prospection. L’identifiant du compte correspond."
+            ],
+            [
+              "Décision",
+              "Suspendez la relance. Le responsable des demandes accuse réception, joint le contexte et l’opérateur met à jour le statut commun."
+            ],
+            [
+              "Transmission",
+              "Les ventes examinent l’usage et assurent la suite. Comptez un événement entrant. L’envoi en file ne constitue pas une réponse à la prospection."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lisez les mesures séparément",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Dans une semaine fictive, huit demandes entrantes sont admissibles. Six ont reçu une réponse utile dans le délai convenu et trois transmissions ont été acceptées. La prospection a joint 24 personnes distinctes, produit quatre réponses pertinentes et une transmission acceptée. Gardez les taux séparés. Un rendez-vous peut être en attente, reporté, tenu ou disqualifié. Conservez son identifiant d’origine et la décision commerciale."
+        }
+      ]
+    },
+    {
+      "title": "Définissez l’acceptation et le refus",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Cahier des charges réutilisable",
+          "rows": [
+            [
+              "Source et tâches",
+              "Indiquez la file, l’entrée, les canaux, les tâches quotidiennes et les exclusions."
+            ],
+            [
+              "Responsables",
+              "Nommez opérateur, approbateur, suppléant et relais commercial. Confirmez outils, accès et droits."
+            ],
+            [
+              "Acceptation",
+              "Joignez preuve, motif et suite. Précisez où consigner un refus."
+            ],
+            [
+              "Arrêt et passation",
+              "Définissez quand suspendre et comment le relais démontre le traitement d’un refus ou doublon."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Beespoke assure la prospection gérée par e-mail à froid et/ou LinkedIn selon le périmètre convenu. Traiter les demandes entrantes ou conclure les ventes relève d’autres tâches. Confirmez par écrit toute autre responsabilité."
+        }
+      ]
+    }
+  ],
+  "answer": "Les intitulés SDR et BDR varient selon les entreprises. Achetez le traitement dont vous avez besoin : qualification entrante, prospection outbound ou combinaison clairement répartie. Décrivez la source, les tâches quotidiennes, les exclusions, la transmission et la mesure avant de choisir.",
+  "description": "Comparez les rôles SDR et BDR externalisés par tâches, avec deux files, des offres de même nom et des mesures distinctes.",
+  "title": "Choisissez une file de travail avant de choisir un intitulé",
+  "toc": "Exemple SDR et BDR",
+  "fiction": "Les files, propositions, messages et chiffres sont fictifs."
+}

@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "title": "Aclara qué incluye la propuesta",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un equipo de software tiene una oferta repetible y una responsable comercial, pero nadie prospecta a diario. Una propuesta asigna un representante dedicado bajo supervisión del cliente. Otra cubre investigación, envío y respuestas con gestión compartida. Pide quién opera, quién aprueba, quién cubre excepciones y qué se puede exportar. El nombre del servicio aporta poca evidencia."
+        }
+      ]
+    },
+    {
+      "title": "Comprueba la ventaja y lo que puede anularla",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Registro ficticio de riesgos",
+          "heads": [
+            "Ventaja esperada",
+            "Posible fallo",
+            "Prueba antes de ampliar"
+          ],
+          "rows": [
+            [
+              "Arranque temprano",
+              "Se retrasan acceso, datos de producto o lista.",
+              "Operador y cliente aprueban una muestra y una condición de inicio."
+            ],
+            [
+              "Capacidad constante",
+              "La persona compartida no está disponible o crecen excepciones.",
+              "Un suplente demuestra la rutina de respuestas."
+            ],
+            [
+              "Mejor investigación",
+              "Se cumple volumen sin justificar el encaje.",
+              "Ventas acepta una muestra y registra motivos de rechazo."
+            ],
+            [
+              "Conversaciones cualificadas",
+              "Se premian reservas de encaje incierto.",
+              "Revisa reservas originales, reuniones celebradas y traspasos por separado."
+            ],
+            [
+              "Proceso repetible",
+              "Lo aprendido queda en la cuenta del proveedor.",
+              "El cliente recibe una exportación autorizada y prueba que puede usarla."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Recorre un fallo",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Registro de incidente",
+          "rows": [
+            [
+              "Qué pasó",
+              "Se anota una baja en correo mientras queda un seguimiento en LinkedIn. El operador la detecta antes de enviar."
+            ],
+            [
+              "Contención y control",
+              "Pausa la cuenta y revisa duplicados. Acuerda un responsable de exclusiones y comprueba ambos canales."
+            ],
+            [
+              "Reapertura",
+              "Reanuda cuentas aptas después de que el aprobador verifique el estado y un ensayo de excepción. Mantén excluida la cuenta que pidió la baja."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "No aumentes volumen para compensar falta de evidencia. Si las respuestas aptas esperan al cliente, mejora el traspaso. Si los rechazos comparten un criterio, corrige la lista. Una muestra pequeña puede dejar abiertas las dos causas."
+        }
+      ]
+    },
+    {
+      "title": "Compara compromiso y fin del servicio",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Usa el mismo resultado, periodo y carga del cliente. Incluye datos, herramientas, arranque, supervisión y fin del servicio. Confirma derechos de uso, accesos, exportaciones y exclusiones. Anota qué unidad remunera el contrato y quién valida su calidad. Deja pendientes importes y conversiones desconocidos."
+        }
+      ]
+    },
+    {
+      "title": "Decide si arrancar, rediseñar o esperar",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Prueba de decisión",
+          "heads": [
+            "Situación",
+            "Decisión"
+          ],
+          "rows": [
+            [
+              "Trabajo probado y ventas con responsable",
+              "Empieza por un segmento después de verificar lista, afirmaciones, acceso y traspaso."
+            ],
+            [
+              "Actividad alta y traspasos rechazados",
+              "Rediseña la regla de cualificación y comprueba una muestra antes de ampliar."
+            ],
+            [
+              "Falta oferta, responsable o flujo seguro",
+              "Espera y resuelve la condición pendiente antes de contratar trabajo recurrente."
+            ]
+          ]
+        },
+        {
+          "kind": "record",
+          "title": "Registro de decisión",
+          "rows": [
+            [
+              "Ventaja",
+              "¿Qué trabajo mejoraría y quién lo asume?"
+            ],
+            [
+              "Evidencia y riesgo",
+              "¿Qué lo demostraría y qué podría anularlo?"
+            ],
+            [
+              "Decisión y revisión",
+              "¿Qué puede arrancar, qué espera y cuándo se comprueba?"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Externalizar SDR puede aportar capacidad de ejecución y un proceso operativo. A cambio, dependes más de aprobaciones claras, responsables de respuestas y registros que puedas recuperar. Para cada ventaja, pide una prueba y decide quién puede detener la actividad si aparece el riesgo asociado.",
+  "description": "Valora las ventajas y riesgos de externalizar SDR con un registro de controles, un incidente y decisiones para arrancar, rediseñar o esperar.",
+  "title": "Convierte cada ventaja en una condición que puedas verificar",
+  "toc": "Ejemplo de ventajas y riesgos",
+  "fiction": "Las propuestas, registros e incidentes son ficticios."
+}

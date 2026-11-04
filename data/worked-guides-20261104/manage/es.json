@@ -1,0 +1,225 @@
+{
+  "sections": [
+    {
+      "title": "Antes del primer envío",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un proveedor de software atiende a empresas de inspección con varias sedes en una región. La responsable comercial aprueba el perfil y dirige las reuniones. La persona operadora del proveedor prepara la lista, escribe a los contactos aprobados y deriva respuestas. El cliente designa un suplente con autoridad para resolver excepciones. El primer lote espera hasta que esa persona acepte."
+        },
+        {
+          "kind": "table",
+          "title": "Evidencia de arranque",
+          "heads": [
+            "Elemento",
+            "Decisión y responsable"
+          ],
+          "rows": [
+            [
+              "Lista",
+              "El cliente aprueba empresas con varias sedes. Excluye clientes actuales, empresas de una sede y solapamientos pendientes."
+            ],
+            [
+              "Afirmaciones",
+              "El operador propuso «cubre automáticamente todos los turnos». El cliente puede confirmar visibilidad de horarios, pero no esa promesa. Aprueba la versión 2 con la redacción más limitada. La versión 1 queda bloqueada."
+            ],
+            [
+              "Acceso y parada",
+              "El administrador concede solo los permisos necesarios. El operador verifica las exclusiones en los canales autorizados. Si falla el acceso o queda una baja sin tramitar, se para el trabajo afectado."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Un profesional que trabaja bajo tu dirección diaria necesita que tu equipo lo supervise y cubra sus ausencias. Un servicio gestionado debe indicar quién asume esas tareas. En ambos casos el cliente decide sobre producto y encaje."
+        }
+      ]
+    },
+    {
+      "title": "Completa los 30 minutos con evidencia",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Revisión semanal completada",
+          "heads": [
+            "Tiempo",
+            "Qué se comprueba",
+            "Decisión"
+          ],
+          "rows": [
+            [
+              "Primeros 10 minutos",
+              "Una empresa tiene tres sedes y un anuncio público sobre asignaciones. Otro registro deduce las sedes de un directorio. Un tercer mensaje presupone un problema a partir de un anuncio.",
+              "Conservar el encaje verificado, retener el registro dudoso y corregir la inferencia. El operador anota los motivos."
+            ],
+            [
+              "Siguientes 10 minutos",
+              "Dos respuestas no encajan. Otra hace una pregunta técnica y espera al cliente. Hay dos explicaciones posibles: validación de lista y cobertura de respuestas.",
+              "El cliente contrasta los dos registros con la regla. La responsable comercial verifica quién tenía la pregunta pendiente."
+            ],
+            [
+              "Últimos 10 minutos",
+              "Aún no hay motivo para ampliar la lista. El operador corrige los registros y el cliente asigna un suplente para dudas técnicas.",
+              "Comprobar las acciones en la siguiente revisión. Reanudar el segmento solo cuando el cliente apruebe la regla corregida."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Da feedback sobre una tarea real del ejercicio. El operador aprende a distinguir un dato público de una intención de compra. Si el atasco está en la respuesta del cliente, corrige la cobertura y el traspaso antes de reescribir el mensaje."
+        }
+      ]
+    },
+    {
+      "title": "Concilia un solo grupo de contactos",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Cuenta una vez a cada persona del primer lote. De 40 contactos aprobados se llegó a 32. Hubo seis respuestas: tres positivas y pertinentes, dos fuera de perfil y una petición de baja. De las positivas salieron dos reservas originales. Una cambió de fecha. Una reunión se celebró y cumplió los criterios, y la otra está pendiente. Ventas aún no ha aceptado ninguna oportunidad."
+        },
+        {
+          "kind": "table",
+          "title": "Cómo leer los datos",
+          "heads": [
+            "Métrica",
+            "Evidencia"
+          ],
+          "rows": [
+            [
+              "Tasa de respuesta",
+              "6 ÷ 32 personas contactadas, el 18,75 % en este ejemplo ficticio."
+            ],
+            [
+              "Reserva",
+              "Dos identificadores de reserva original. El cambio de fecha se vincula a su reserva y no añade otra."
+            ],
+            [
+              "Cualificación",
+              "Una reunión celebrada y cualificada. La otra está pendiente, así que la tasa de asistencia sigue provisional."
+            ],
+            [
+              "Oportunidad",
+              "Ninguna aceptada por ahora. Registra la decisión comercial aparte de la cualificación."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Cada etapa responde a una pregunta distinta. Un grupo pequeño no permite establecer demanda ni rentabilidad. Compara grupos maduros con las mismas reglas."
+        }
+      ]
+    },
+    {
+      "title": "Deja el traspaso en el CRM",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Registro de respuesta completado",
+          "rows": [
+            [
+              "Registro y versión",
+              "Cuenta A, contacto 04, instrucciones v2. Se verificó que tiene varias sedes. La necesidad sigue sin confirmar."
+            ],
+            [
+              "Respuesta y responsable",
+              "El contacto pregunta por la integración con otro sistema. El operador registra la pregunta, pausa el seguimiento automático y la asigna a la responsable comercial."
+            ],
+            [
+              "Aceptación y siguiente paso",
+              "Ventas responde sobre el producto y dirige la reunión. Si se reserva, vincula el identificador original. Registra por separado celebración, cualificación y oportunidad."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "El CRM debe incluir claves de cuenta y contacto, versión, evidencia, estado, responsable y siguiente acción. Una persona gestiona cada cuenta en todos los canales. Fusiona o retén duplicados antes de enviar y aplica la baja en todo el flujo aprobado. El responsable verifica la corrección antes de reactivar."
+        }
+      ]
+    },
+    {
+      "title": "Renueva, rediseña, pausa o traspasa",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Decisión y evidencia",
+          "heads": [
+            "Opción",
+            "Qué comprobar"
+          ],
+          "rows": [
+            [
+              "Renovar",
+              "El trabajo cumple el alcance, ventas acepta los traspasos y el cliente puede atender el siguiente lote."
+            ],
+            [
+              "Rediseñar",
+              "Dos fallos comparten una causa corregible. Prueba la regla revisada en un lote acotado y fija una fecha de revisión."
+            ],
+            [
+              "Pausar",
+              "No se verifican las bajas, faltan pruebas de afirmaciones o nadie puede atender respuestas. Reanuda cuando se compruebe la solución."
+            ],
+            [
+              "Traspasar",
+              "La persona receptora tiene derechos y acceso y resuelve una respuesta habitual y una excepción. Recibir un archivo no basta."
+            ]
+          ]
+        },
+        {
+          "kind": "record",
+          "title": "Aceptación del traspaso",
+          "rows": [
+            [
+              "Inventario",
+              "Se reciben exportación, instrucciones v2, reglas y exclusiones. El cliente confirma qué datos puede conservar."
+            ],
+            [
+              "Ensayo",
+              "El receptor deriva una respuesta normal pero omite una baja en otro canal. La persona que opera conserva la responsabilidad y verifica la exclusión."
+            ],
+            [
+              "Decisión",
+              "Repite la prueba antes de revocar accesos o ceder la cola. Fija responsable y fecha de revisión."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Copia el acta de revisión",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Registro semanal",
+          "rows": [
+            [
+              "Fecha y grupo",
+              "¿Qué contactos, canales y periodo abarca?"
+            ],
+            [
+              "Evidencia",
+              "¿Qué cuenta, mensaje y traspaso se revisaron?"
+            ],
+            [
+              "Decisión",
+              "¿Qué continúa, cambia o se pausa? ¿Quién actúa y cuándo se comprueba?"
+            ],
+            [
+              "Duda",
+              "¿Qué queda sin confirmar y qué cambiaría la decisión?"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "En outbound gestionado, Beespoke puede operar correo en frío y/o LinkedIn según el alcance acordado. Tu equipo conserva el criterio de listas, las afirmaciones, las respuestas expertas, las reuniones y el cierre. Las llamadas se cotizan aparte según el mercado."
+        }
+      ]
+    }
+  ],
+  "answer": "Asigna un responsable en el cliente y otro en el proveedor, define por escrito qué traspaso acepta ventas y celebra una revisión semanal que termine con decisiones. Examina registros concretos junto con el embudo. Pausa el trabajo afectado cuando falten aprobaciones, accesos o exclusiones verificadas.",
+  "description": "Gestiona un equipo SDR externo con un caso de arranque, una revisión de 30 minutos, un traspaso en el CRM y decisiones de continuidad.",
+  "title": "Una revisión semanal con decisiones concretas",
+  "toc": "Ejemplo de revisión operativa",
+  "fiction": "El equipo, los mensajes, las cifras y las decisiones de este ejemplo son ficticios."
+}

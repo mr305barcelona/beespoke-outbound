@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "title": "Précisez ce que couvre la proposition",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un éditeur a une offre répétable et une responsable commerciale, mais aucun opérateur quotidien. Une proposition affecte un représentant dédié sous direction du client. L’autre couvre recherche, envoi et réponses avec un encadrement partagé. Demandez qui opère, valide, couvre les exceptions et peut exporter quoi. L’intitulé apporte peu de preuves."
+        }
+      ]
+    },
+    {
+      "title": "Vérifiez l’avantage et ce qui peut l’annuler",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Registre fictif des risques",
+          "heads": [
+            "Avantage attendu",
+            "Défaillance possible",
+            "Preuve avant élargissement"
+          ],
+          "rows": [
+            [
+              "Démarrage plus tôt",
+              "Les accès, preuves produit ou listes prennent du retard.",
+              "Opérateur et client valident un échantillon et une condition de lancement."
+            ],
+            [
+              "Capacité régulière",
+              "L’opérateur partagé manque ou la file d’exceptions s’allonge.",
+              "Un suppléant démontre le traitement convenu."
+            ],
+            [
+              "Meilleure recherche",
+              "Le volume est atteint sans preuve d’adéquation.",
+              "Les ventes valident un échantillon et motivent les refus."
+            ],
+            [
+              "Conversations qualifiées",
+              "La rémunération favorise des réservations mal définies.",
+              "Examinez réservations d’origine, rendez-vous tenus et transmissions séparément."
+            ],
+            [
+              "Processus réutilisable",
+              "Les enseignements restent chez le prestataire.",
+              "Le client reçoit un export autorisé et vérifie que le relais sait l’utiliser."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rejouez un incident",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Fiche d’incident",
+          "rows": [
+            [
+              "Constat",
+              "Un refus est noté par e-mail alors qu’une relance LinkedIn reste en file. L’opérateur la repère avant l’envoi."
+            ],
+            [
+              "Contenir et vérifier",
+              "Suspendez le compte et contrôlez les doublons. Désignez un responsable des exclusions et vérifiez les deux canaux."
+            ],
+            [
+              "Reprise",
+              "Reprenez les comptes admissibles après contrôle du statut et un test d’exception. Laissez exclu le compte qui a demandé l’arrêt."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Évitez d’augmenter le volume pour compenser un manque de preuves. Si le client tarde à traiter les réponses qualifiées, corrigez la transmission. Si les refus se concentrent sur un critère, corrigez la liste. Un petit échantillon peut laisser les deux causes ouvertes."
+        }
+      ]
+    },
+    {
+      "title": "Comparez l’engagement et la sortie",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Gardez le même résultat, la même durée et le même périmètre. Incluez données, outils, intégration, encadrement et sortie. Vérifiez les droits d’usage, accès, exports et exclusions. Notez l’unité rémunérée et qui en valide la qualité. Laissez ouverts les coûts et conversions inconnus."
+        }
+      ]
+    },
+    {
+      "title": "Démarrez, modifiez ou attendez",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Test de décision",
+          "heads": [
+            "Situation",
+            "Décision"
+          ],
+          "rows": [
+            [
+              "Travail éprouvé et suivi attribué",
+              "Lancez un segment après validation de la liste, des affirmations, des accès et de la transmission."
+            ],
+            [
+              "Activité élevée et transmissions refusées",
+              "Révisez la règle de qualification et contrôlez un échantillon avant d’élargir."
+            ],
+            [
+              "Offre, responsable ou circuit sûr absent",
+              "Attendez que la condition manquante soit réglée avant d’engager un travail récurrent."
+            ]
+          ]
+        },
+        {
+          "kind": "record",
+          "title": "Fiche de décision",
+          "rows": [
+            [
+              "Avantage",
+              "Quel travail doit s’améliorer et qui s’en charge ?"
+            ],
+            [
+              "Preuve et risque",
+              "Qu’est-ce qui le démontrerait et qu’est-ce qui peut l’annuler ?"
+            ],
+            [
+              "Décision et revue",
+              "Que peut-on lancer, qu’est-ce qui attend et quand vérifier ?"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Externaliser les SDR peut apporter de la capacité et une méthode d’exécution. Vous dépendez davantage de validations claires, d’un responsable pour les réponses et de données transférables. Pour chaque avantage attendu, exigez une preuve et désignez la personne qui peut suspendre le travail si le risque se présente.",
+  "description": "Évaluez les avantages et risques d’une externalisation SDR avec un registre de contrôle, un incident et des décisions illustrées.",
+  "title": "Faites de chaque avantage une condition vérifiable",
+  "toc": "Exemple de registre des risques",
+  "fiction": "Les propositions, fiches et incidents sont fictifs."
+}

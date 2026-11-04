@@ -1,0 +1,120 @@
+{
+  "sections": [
+    {
+      "title": "Start with two queues",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "A software team receives product enquiries and wants to approach operations leaders at selected accounts. Inbound enquiries need a timely answer, fit check and route to sales. Outbound needs account research, exclusions, approved claims, coordinated messaging and reply ownership. An account executive owns discovery and commercial decisions for both."
+        },
+        {
+          "kind": "table",
+          "title": "Two queues with different evidence",
+          "heads": [
+            "Queue",
+            "Work to cover",
+            "Measure"
+          ],
+          "rows": [
+            [
+              "Inbound",
+              "Assign incoming enquiries, check routing and fit, escalate expert questions.",
+              "Time to a useful response and sales-accepted handoffs among eligible enquiries."
+            ],
+            [
+              "Outbound",
+              "Research accounts, approve lists and messages, execute within scope and route replies.",
+              "Unique people reached, relevant replies and accepted handoffs from the contacted cohort."
+            ],
+            [
+              "Mixed",
+              "Name a separate owner or explicit priority rule for both queues.",
+              "Report each queue separately so faster inbound response does not look like outbound growth."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Compare two offers with the same title",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Two proposals both say “outsourced SDR.” The first manages inbound form replies and booking but excludes account research and sender operation. The second researches and contacts approved accounts but excludes inbound coverage. Neither includes technical discovery or closing. Choose the first if known enquiries are stalling, the second if target accounts are untouched, or price both scopes separately if both gaps are confirmed."
+        },
+        {
+          "kind": "paragraph",
+          "text": "If neither workflow has a sales receiver, hold both purchases. A third offer labelled BDR could cover either workflow. Ask for a sample from receipt or research through the final sales disposition."
+        }
+      ]
+    },
+    {
+      "title": "Work through the overlap",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Mixed-queue exception",
+          "rows": [
+            [
+              "Evidence",
+              "A person from an approved target account submits an inbound request before their scheduled outbound follow-up. The account ID matches the existing record."
+            ],
+            [
+              "Decision",
+              "Hold the scheduled outreach. The inbound owner acknowledges the request and attaches the existing account context. The outbound operator updates the shared state."
+            ],
+            [
+              "Handoff",
+              "Sales checks the specific use case and owns the next step. The new request is one inbound event for this example. Do not count the queued message as a new outbound response."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Read the measures separately",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "In one illustrative week, eight inbound enquiries were eligible. Six received a useful response within the team’s agreed window and three handoffs were accepted. An outbound cohort reached 24 unique people, produced four relevant replies and one accepted handoff. Do not add rates across those groups. A booking may be pending, rescheduled, held or disqualified. Save original booking identity and the client’s disposition."
+        }
+      ]
+    },
+    {
+      "title": "Write the scope to accept or decline",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Copyable role brief",
+          "rows": [
+            [
+              "Source and work",
+              "State the queue, entry rule, channels, daily work and exclusions."
+            ],
+            [
+              "Responsibilities",
+              "Name the operator, approval owner, backup and sales receiver. Confirm tools, access and data rights."
+            ],
+            [
+              "Acceptance",
+              "Attach the evidence, fit reason and next action. State what the receiving seller can decline and how the reason is recorded."
+            ],
+            [
+              "Stop and transfer",
+              "State when to pause outreach and how the receiving owner proves access and handling of a refusal or duplicate."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Beespoke’s managed outbound scope uses cold email and/or LinkedIn as agreed. That work differs from operating a client’s inbound queue or closing sales. Verify any other requested responsibility in the written scope."
+        }
+      ]
+    }
+  ],
+  "answer": "SDR and BDR titles vary by company. Buy the queue you need covered: inbound qualification, targeted outbound, or a clearly divided combination. Write the lead source, daily work, exclusions, handoff and success measure into the scope before choosing a role or provider.",
+  "description": "Compare SDR and BDR outsourcing by actual work. See two queue examples, same-title proposals, handoff records and measures for each role.",
+  "title": "Buy a defined queue rather than a role name",
+  "toc": "Worked SDR and BDR comparison",
+  "fiction": "The buyer queues, proposals, messages and counts below are fictional."
+}

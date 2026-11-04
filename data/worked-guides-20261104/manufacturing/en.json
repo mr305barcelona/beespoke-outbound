@@ -1,0 +1,143 @@
+{
+  "sections": [
+    {
+      "title": "Define the work your shop wants",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "A precision machining supplier has open capacity on repeat runs. It can work with a limited set of materials and deliver within two regions. The estimator must approve dimensional and documentation requirements. Exclude one-off prototypes, out-of-region buyers and accounts that require certification the shop has not verified."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Build the first list from process, part family, geography, repeat potential and the buyer’s likely procurement path. A broad industry code alone cannot tell you whether the work fits. Start with one part family so a rejection can teach you something specific."
+        }
+      ]
+    },
+    {
+      "title": "Record what the signal proves",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Account evidence and next step",
+          "heads": [
+            "Account",
+            "Observed",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "A: Equipment builder",
+              "A product sheet shows a relevant subassembly. A hiring notice mentions a second production line.",
+              "Research the sourcing owner. The change provides a reason to ask, while purchase timing remains unknown."
+            ],
+            [
+              "B: Contract manufacturer",
+              "Its directory entry lists machining. No verified evidence shows it buys the relevant process.",
+              "Hold the record and verify whether it makes or buys the part."
+            ],
+            [
+              "C: New facility",
+              "A public plan mentions a new site outside the service area.",
+              "Exclude it unless logistics can confirm a serviceable route."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Keep the source and date with the claim. Treat public expansion, maintenance and hiring as context. Ask a specific operational question before describing a buyer’s problem as a fact."
+        }
+      ]
+    },
+    {
+      "title": "Give each buyer useful proof",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Engineering needs process limits, tolerances and drawing review. Quality needs verified documentation and the route to resolve exceptions. Procurement needs order assumptions and a quoting owner. Operations needs a credible delivery and escalation process. Confirm those facts internally before using them in outreach or on a capability page."
+        },
+        {
+          "kind": "record",
+          "title": "Fictional opening to a sourcing owner",
+          "rows": [
+            [
+              "Reason to write",
+              "“Your public product sheet shows a replaceable housing in this assembly. Does your team source that part as a repeat run or build it in-house?”"
+            ],
+            [
+              "Next step",
+              "If sourcing is external, ask whether there is a current spec and which person should review fit. Hold cost and timing until estimating sees the requirements."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Match the channel to the buying stage",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Which route fits the need?",
+          "heads": [
+            "Situation",
+            "Useful action",
+            "What to measure"
+          ],
+          "rows": [
+            [
+              "Relevant account, no active request",
+              "Use a researched email or LinkedIn message, with a short follow-up. Confirm ownership across channels.",
+              "Relevant conversations and exclusions by part family."
+            ],
+            [
+              "Buyer looking for a supplier",
+              "Publish verifiable capability details and a clear RFQ path. Give buyers a way to identify a technical constraint without submitting drawings in public.",
+              "Complete, technically suitable quote requests."
+            ],
+            [
+              "Buyer comparing vendors",
+              "Offer an agreed capability review or an approved proof sample. Have the estimator verify fit.",
+              "Accepted quote reviews and documented reasons for decline."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Separate an enquiry from a quote-ready request",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "RFQ handoff example",
+          "rows": [
+            [
+              "Received",
+              "Buyer asks for a repeat housing. Quantity and delivery region appear to fit. Drawing revision and quality documentation are unknown."
+            ],
+            [
+              "Route",
+              "Sales records the use case and routes it to estimating. The estimator requests the current revision, material, tolerance, expected volume, due date and documentation through the approved channel."
+            ],
+            [
+              "Decision",
+              "Potential fit, not quote-ready. Mark the record complete only after estimating accepts the requirements. Do not promise capacity or turnaround while the scope is open."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Decide what to change in the next cycle",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Review researched accounts, relevant replies, accepted RFQs, quotes and won work separately. If replies fit but RFQs stall, inspect the handoff and response time. If estimators reject recurring material or geography mismatches, tighten the list first. A long purchasing cycle means an early cohort can still be pending. Expand only after the technical owner can explain which criteria and evidence worked."
+        }
+      ]
+    }
+  ],
+  "answer": "Manufacturing lead generation starts with what you can make, where you can ship and which enquiries your team can qualify. Use targeted outreach to find suitable accounts before a sourcing event. Use a capability page and an RFQ path to capture buyers already looking. Keep a technical owner on the handoff.",
+  "description": "Build a manufacturing lead generation plan around capability, account evidence, buying roles and RFQ readiness. Includes a worked industrial example.",
+  "title": "From an account list to a usable RFQ",
+  "toc": "Worked manufacturing example",
+  "fiction": "This component supplier, buyer records and RFQ are fictional."
+}

@@ -1,0 +1,225 @@
+{
+  "sections": [
+    {
+      "title": "Abans del primer enviament",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un proveïdor de programari atén empreses d’inspecció amb diverses seus en una regió. La responsable comercial aprova el perfil i dirigeix les reunions. L’operador del proveïdor prepara la llista, escriu als contactes aprovats i deriva respostes. El client designa un suplent amb autoritat per resoldre excepcions. El primer lot espera fins que accepti."
+        },
+        {
+          "kind": "table",
+          "title": "Evidència d’arrencada",
+          "heads": [
+            "Element",
+            "Decisió i responsable"
+          ],
+          "rows": [
+            [
+              "Llista",
+              "El client aprova empreses amb diverses seus. Exclou clients actuals, empreses d’una seu i solapaments pendents."
+            ],
+            [
+              "Afirmacions",
+              "L’operador proposa «cobreix automàticament tots els torns». El client pot confirmar visibilitat d’horaris, però no aquesta promesa. Aprova la versió 2 amb una afirmació més limitada. La versió 1 queda bloquejada."
+            ],
+            [
+              "Accés i aturada",
+              "L’administrador concedeix només els permisos necessaris. L’operador verifica les exclusions als canals autoritzats. Si falla l’accés o queda una baixa pendent, s’atura la feina afectada."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Un professional sota la teva direcció diària necessita supervisió i cobertura d’absències. Un servei gestionat ha d’indicar qui assumeix aquestes funcions. En tots dos casos el client decideix sobre el producte i l’encaix."
+        }
+      ]
+    },
+    {
+      "title": "Completa els 30 minuts amb evidència",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Revisió setmanal completada",
+          "heads": [
+            "Temps",
+            "Què es comprova",
+            "Decisió"
+          ],
+          "rows": [
+            [
+              "Primers 10 minuts",
+              "Una empresa té tres seus i un anunci públic sobre assignacions. Un altre registre dedueix les seus d’un directori. Un tercer missatge pressuposa un problema a partir d’un anunci.",
+              "Mantenir l’encaix verificat, retenir el registre dubtós i corregir la inferència. L’operador anota els motius."
+            ],
+            [
+              "Següents 10 minuts",
+              "Dues respostes no encaixen. Una altra fa una pregunta tècnica i espera el client. Hi ha dues causes possibles: validació de llista i cobertura de respostes.",
+              "El client contrasta els dos registres amb la regla. La responsable comercial comprova qui tenia la pregunta pendent."
+            ],
+            [
+              "Últims 10 minuts",
+              "Encara no hi ha motiu per ampliar la llista. L’operador corregeix els registres i el client assigna un suplent per als dubtes tècnics.",
+              "Comprovar les accions a la revisió següent. Reprendre el segment quan el client aprovi la regla corregida."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Dona retorn sobre la feina de l’exercici. L’operador aprèn a distingir un fet públic d’una intenció de compra. Si el client deixa una bona resposta pendent, resol la cobertura i el traspàs abans de canviar el missatge."
+        }
+      ]
+    },
+    {
+      "title": "Concilia un sol grup de contactes",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Compta una vegada cada persona del primer lot. De 40 contactes aprovats se’n van contactar 32. Hi va haver sis respostes: tres positives i pertinents, dues fora de perfil i una petició de baixa. Les positives van donar dues reserves originals. Una va canviar de data. Una reunió es va celebrar i complia els criteris, i l’altra és pendent. Vendes encara no ha acceptat cap oportunitat."
+        },
+        {
+          "kind": "table",
+          "title": "Com llegir les dades",
+          "heads": [
+            "Mètrica",
+            "Evidència"
+          ],
+          "rows": [
+            [
+              "Taxa de resposta",
+              "6 ÷ 32 persones contactades, el 18,75 % en aquest exemple fictici."
+            ],
+            [
+              "Reserva",
+              "Dos identificadors originals. El canvi de data es vincula a la reserva inicial i no n’afegeix cap."
+            ],
+            [
+              "Qualificació",
+              "Una reunió celebrada i qualificada. L’altra és pendent, així que la taxa d’assistència és provisional."
+            ],
+            [
+              "Oportunitat",
+              "Encara no n’hi ha cap d’acceptada. Registra la decisió comercial a part de la qualificació."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Cada etapa respon una pregunta diferent. Un grup petit no permet establir demanda ni rendibilitat. Compara grups madurs amb les mateixes regles."
+        }
+      ]
+    },
+    {
+      "title": "Deixa constància del traspàs al CRM",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Registre de resposta completat",
+          "rows": [
+            [
+              "Registre i versió",
+              "Compte A, contacte 04, instruccions v2. Té diverses seus verificades. La necessitat encara no es confirma."
+            ],
+            [
+              "Resposta i responsable",
+              "El contacte pregunta per una integració. L’operador anota la pregunta, pausa el seguiment automàtic i l’assigna a la responsable comercial."
+            ],
+            [
+              "Acceptació i pas següent",
+              "Vendes respon sobre el producte i dirigeix la reunió. Si es reserva, vincula l’identificador original. Registra reunió celebrada, qualificació i oportunitat per separat."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "El CRM ha d’incloure claus de compte i contacte, versió, evidència, estat, responsable i pas següent. Una persona gestiona cada compte a tots els canals. Fusiona o retén duplicats abans d’enviar i aplica les baixes a tot el flux aprovat. El responsable verifica la correcció abans de reprendre."
+        }
+      ]
+    },
+    {
+      "title": "Renova, redissenya, atura o traspassa",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Decisió i evidència",
+          "heads": [
+            "Opció",
+            "Què cal comprovar"
+          ],
+          "rows": [
+            [
+              "Renovar",
+              "La feina compleix l’abast, vendes accepta els traspassos i el client pot atendre el lot següent."
+            ],
+            [
+              "Redissenyar",
+              "Dos errors tenen una causa corregible. Prova la regla revisada amb un lot acotat i fixa una data."
+            ],
+            [
+              "Aturar",
+              "Les baixes no es verifiquen, falten proves o ningú no pot atendre respostes. Reprèn la feina quan es comprovi la solució."
+            ],
+            [
+              "Traspassar",
+              "La persona receptora té drets i accés i resol una resposta habitual i una excepció. Rebre un fitxer no és prou."
+            ]
+          ]
+        },
+        {
+          "kind": "record",
+          "title": "Acceptació del traspàs",
+          "rows": [
+            [
+              "Inventari",
+              "Es reben l’exportació, les instruccions v2, les regles i les exclusions. El client comprova quines dades pot conservar."
+            ],
+            [
+              "Assaig",
+              "El receptor deriva una resposta habitual però omet una baixa en un altre canal. L’operador actual manté la responsabilitat i verifica l’exclusió."
+            ],
+            [
+              "Decisió",
+              "Repeteix la prova abans de revocar accessos o cedir la cua. Fixa responsable i data de revisió."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Copia l’acta de revisió",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Registre setmanal",
+          "rows": [
+            [
+              "Data i grup",
+              "Quins contactes, canals i període abasta?"
+            ],
+            [
+              "Evidència",
+              "Quins compte, missatge i traspàs s’han revisat?"
+            ],
+            [
+              "Decisió",
+              "Què continua, canvia o s’atura? Qui actua i quan es comprova?"
+            ],
+            [
+              "Dubte",
+              "Què queda sense confirmar i què canviaria la decisió?"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "En outbound gestionat, Beespoke pot operar correu en fred i/o LinkedIn segons l’abast acordat. El teu equip conserva el criteri de llistes, les afirmacions, les respostes expertes, les reunions i el tancament. Les trucades es pressuposten a part segons el mercat."
+        }
+      ]
+    }
+  ],
+  "answer": "Designa un responsable al client i un al proveïdor, defineix per escrit quin traspàs accepta vendes i fes una revisió setmanal que acabi amb decisions. Examina registres concrets al costat de l’embut. Atura la feina afectada si falten aprovacions, accessos o exclusions verificades.",
+  "description": "Gestiona un equip SDR extern amb un cas d’arrencada, una revisió de 30 minuts, un traspàs al CRM i decisions de continuïtat.",
+  "title": "Una revisió setmanal que acaba amb decisions",
+  "toc": "Exemple de revisió operativa",
+  "fiction": "L’equip, els missatges, les xifres i les decisions d’aquest exemple són ficticis."
+}

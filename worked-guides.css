@@ -1,0 +1,72 @@
+.worked-guide-page .hero h1,
+.worked-guide-page .article-grid h2,
+.worked-guide-page .article-grid h3,
+.worked-guide-page .article-grid h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+.worked-guide-page .worked-guide {
+  scroll-margin-top: 112px;
+}
+.worked-guide-page .worked-guide .worked-fiction,
+.worked-guide-page .worked-guide .worked-sources {
+  font-size: 0.9rem;
+}
+.worked-guide-page .worked-chapter {
+  margin: 2rem 0;
+  overflow-wrap: anywhere;
+}
+.worked-guide-page .worked-record {
+  border: 1px solid currentColor;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+.worked-guide-page .worked-record dt {
+  font-weight: 650;
+  margin-top: 0.75rem;
+}
+.worked-guide-page .worked-record dd {
+  margin-inline-start: 0;
+}
+.worked-guide-page .worked-guide .table-wrap {
+  max-width: 100%;
+  overflow-x: auto;
+}
+.worked-guide-page .worked-guide caption {
+  caption-side: top;
+  text-align: start;
+  padding: 0.5rem;
+}
+.worked-guide-page .worked-guide :is(a,[tabindex="0"]):focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+@media print {
+  .worked-guide-page .worked-guide .table-wrap {
+    overflow: visible;
+  }
+  .worked-guide-page .worked-guide table {
+    min-width: 0;
+    font-size: 10pt;
+  }
+}
+
+.worked-guide-page .worked-calculator {
+  display: grid;
+  gap: .55rem;
+  max-width: 36rem;
+}
+.worked-guide-page .worked-calculator :is(input,select,button) {
+  box-sizing: border-box;
+  max-width: 100%;
+  min-height: 44px;
+  font: inherit;
+  color: inherit;
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  padding: .4rem .6rem;
+}
+.worked-guide-page .worked-calculator [hidden] {
+  display: none;
+}

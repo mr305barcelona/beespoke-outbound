@@ -1,0 +1,143 @@
+{
+  "sections": [
+    {
+      "title": "Define qué trabajo interesa al taller",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un proveedor de mecanizado tiene capacidad para series repetidas. Trabaja con un conjunto limitado de materiales y entrega en dos regiones. La persona que presupuesta debe aprobar dimensiones y documentación. Excluye prototipos puntuales, destinos fuera de zona y certificaciones que el taller no haya verificado."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Construye la lista por proceso, familia de piezas, zona, repetición y vía de compra. El código sectorial no confirma el encaje. Empieza por una sola familia para aprender de los rechazos."
+        }
+      ]
+    },
+    {
+      "title": "Registra qué demuestra cada señal",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Evidencia y acción por cuenta",
+          "heads": [
+            "Cuenta",
+            "Observado",
+            "Decisión"
+          ],
+          "rows": [
+            [
+              "A: Fabricante de equipos",
+              "Una ficha muestra un subconjunto pertinente. Una oferta de empleo menciona otra línea de producción.",
+              "Busca a quien gestiona compras. La novedad da pie a preguntar y el calendario de compra sigue abierto."
+            ],
+            [
+              "B: Fabricante por contrato",
+              "Un directorio dice que mecaniza. No se sabe si compra el proceso relevante.",
+              "Retén el registro y verifica si fabrica o subcontrata esa pieza."
+            ],
+            [
+              "C: Nueva planta",
+              "Un plan público sitúa la planta fuera de la zona.",
+              "Exclúyela salvo que logística confirme una ruta viable."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Anota fuente y fecha. Ampliaciones, mantenimiento y contratación son contexto. Haz una pregunta operativa antes de dar por hecho un problema."
+        }
+      ]
+    },
+    {
+      "title": "Da a cada comprador la prueba que necesita",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Ingeniería necesita límites, tolerancias y revisión de planos. Calidad necesita documentación verificada y gestión de excepciones. Compras necesita condiciones de pedido y un responsable de presupuesto. Operaciones necesita una entrega viable y una vía de escalado. Confirma esos datos antes de publicarlos o usarlos en un mensaje."
+        },
+        {
+          "kind": "record",
+          "title": "Apertura ficticia a compras",
+          "rows": [
+            [
+              "Motivo",
+              "«En vuestra ficha aparece una carcasa sustituible. ¿La compráis como serie recurrente o la fabricáis internamente?»"
+            ],
+            [
+              "Siguiente paso",
+              "Si compran fuera, pregunta por la especificación vigente y quién revisa el encaje. Deja precio y plazo pendientes hasta que se confirme el trabajo."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ajusta el canal a la etapa",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Ruta por situación",
+          "heads": [
+            "Situación",
+            "Acción útil",
+            "Qué medir"
+          ],
+          "rows": [
+            [
+              "Cuenta pertinente sin petición abierta",
+              "Correo o LinkedIn con investigación previa y seguimiento breve. Una persona coordina los canales.",
+              "Conversaciones pertinentes y exclusiones por familia de piezas."
+            ],
+            [
+              "Comprador que busca proveedor",
+              "Muestra capacidades verificables y una vía clara para pedir presupuesto. Permite señalar una limitación técnica sin publicar planos.",
+              "Solicitudes completas y aptas técnicamente."
+            ],
+            [
+              "Comprador que compara",
+              "Ofrece una revisión de capacidad acordada o evidencia aprobada. Quien presupuesta confirma el encaje.",
+              "Revisiones aceptadas y motivos de rechazo."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Distingue consulta y solicitud lista para cotizar",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Ejemplo de traspaso",
+          "rows": [
+            [
+              "Recibido",
+              "El comprador pide una carcasa recurrente. Cantidad y zona parecen viables. Faltan revisión de plano y documentación de calidad."
+            ],
+            [
+              "Ruta",
+              "Ventas registra el uso y deriva la petición. El responsable solicita revisión, material, tolerancia, volumen, fecha y documentación por la vía aprobada."
+            ],
+            [
+              "Decisión",
+              "Posible encaje, pendiente de cotizar. Completa el registro cuando presupuestos acepte los requisitos. No prometas capacidad ni plazos con el alcance abierto."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Decide qué cambiar",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Revisa por separado cuentas investigadas, respuestas pertinentes, solicitudes aceptadas, presupuestos y ventas. Si las respuestas encajan pero la solicitud no avanza, revisa traspaso y tiempos. Si se repiten rechazos por material o zona, corrige primero la lista. Un ciclo largo deja resultados pendientes. Amplía cuando el responsable técnico pueda explicar qué criterio funcionó."
+        }
+      ]
+    }
+  ],
+  "answer": "Empieza por lo que puedes fabricar, dónde puedes entregar y qué solicitudes puede cualificar tu equipo. Usa prospección selectiva para encontrar cuentas antes de una compra. Una página de capacidades y una vía de solicitud de presupuesto ayudan a quien ya busca proveedor. Asigna el traspaso a un responsable técnico.",
+  "description": "Planifica la captación industrial por capacidad, evidencia de cuenta, responsables de compra y solicitudes de presupuesto, con un ejemplo completo.",
+  "title": "De la lista de cuentas a una solicitud que se pueda cotizar",
+  "toc": "Ejemplo industrial",
+  "fiction": "El proveedor de componentes, las cuentas y la solicitud de este ejemplo son ficticios."
+}

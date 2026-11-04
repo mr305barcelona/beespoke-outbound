@@ -1,0 +1,225 @@
+{
+  "sections": [
+    {
+      "title": "Before the first send",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "A software supplier supports independent inspection firms with several sites in one region. Its sales lead approves the buyer definition and owns discovery. A named provider operator builds the list, writes to approved contacts and routes replies. The client appoints a backup with authority to approve exceptions. Until that backup accepts the role, the first batch stays on hold."
+        },
+        {
+          "kind": "table",
+          "title": "Launch evidence",
+          "heads": [
+            "Item",
+            "Decision and owner"
+          ],
+          "rows": [
+            [
+              "List scope",
+              "The client approves multi-site inspection firms. Existing customers, single-site firms and unresolved overlaps stay out."
+            ],
+            [
+              "Message claims",
+              "The operator proposed “automatically fills every shift.” The client could verify scheduling visibility but not that promise. The client approves version 2 with the narrower wording. Version 1 stays blocked."
+            ],
+            [
+              "Access and stop rule",
+              "The client administrator grants only the permissions needed. The operator confirms the exclusion list works across the permitted channels. An access failure or an unprocessed refusal holds the affected work."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "A staffed role working under your daily direction needs your coaching and backup. A managed scope should say who provides those functions. Both still need a client decision owner for product facts and fit."
+        }
+      ]
+    },
+    {
+      "title": "Inspect the first 30 minutes of evidence",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Completed weekly review",
+          "heads": [
+            "Time",
+            "What the team checks",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "First 10 minutes",
+              "One firm had three sites and a public hiring notice about assignments. A second record inferred multiple sites from a directory. A third message inferred a problem from a public announcement.",
+              "Keep the verified fit, hold the ambiguous firm and rewrite the unsupported inference. The operator records the reasons."
+            ],
+            [
+              "Next 10 minutes",
+              "Two replies were wrong-fit. Another had a technical question and waited for client input. The small sample supports two possible problems: list approval and response coverage.",
+              "The client compares the two wrong-fit records to the written rule. The sales lead checks who owned the pending question."
+            ],
+            [
+              "Last 10 minutes",
+              "No reason to widen the list yet. The operator will amend the two records and the client will name a backup for technical replies.",
+              "Review those actions at the next meeting. Resume the held segment only after the client approves the corrected rule."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Coach on the work itself. In this example the operator learns to distinguish a source fact from a claim about buying intent. If a good reply stalls with the client, coach the handoff and client coverage before changing the copy."
+        }
+      ]
+    },
+    {
+      "title": "Reconcile one cohort",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Start with the contacts approved in the first batch and count each person once. Of 40 approved contacts, 32 were reached. Six replied: three relevant positives, two wrong-fit replies and one stop request. Two original bookings came from the relevant replies. One meeting moved dates. One has been held and met the written criteria; the other is pending. Sales has accepted no opportunity yet."
+        },
+        {
+          "kind": "table",
+          "title": "Read the counts without guessing",
+          "heads": [
+            "Metric",
+            "Evidence"
+          ],
+          "rows": [
+            [
+              "Reply rate",
+              "6 ÷ 32 unique contacted people, or 18.75%, for this fictional cohort."
+            ],
+            [
+              "Booking",
+              "Two original booking IDs. The reschedule is linked to its original and adds no new booking."
+            ],
+            [
+              "Qualification",
+              "One held and qualified, one outcome pending. Keep any held-to-booked rate provisional."
+            ],
+            [
+              "Opportunity",
+              "No accepted opportunity yet. Record the client disposition separately from qualification."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "A booked call, a held call and a qualified meeting answer different questions. A small batch cannot establish demand or a return. Compare mature cohorts using the same rules."
+        }
+      ]
+    },
+    {
+      "title": "Put the handoff in the CRM",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Filled reply record",
+          "rows": [
+            [
+              "Record and version",
+              "Account A, contact 04, brief v2. The fit evidence is a verified multi-site operation. No confirmed need."
+            ],
+            [
+              "Reply and ownership",
+              "The contact asks if a particular scheduling system can connect. The operator logs the question, pauses automated follow-up and assigns it to the sales lead."
+            ],
+            [
+              "Acceptance and next action",
+              "Sales owns the product answer and the next discovery step. Link the original booking ID if booked. Record held status, qualification reason and opportunity disposition separately."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "The CRM needs account and contact keys, brief version, evidence link, disposition, owner and next action. One operator owns each account across channels. Merge or hold duplicates before sending and apply a stop request across the approved workflow. No team restarts an affected segment until the designated approver confirms the fix."
+        }
+      ]
+    },
+    {
+      "title": "Decide to keep, change, stop or transfer",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Decision and evidence",
+          "heads": [
+            "Choice",
+            "Evidence to require"
+          ],
+          "rows": [
+            [
+              "Renew",
+              "The work meets the scope, handoffs are accepted and the client can support the next batch."
+            ],
+            [
+              "Redesign",
+              "Two failures share a correctable cause. Test the revised rule in a bounded batch and set a review date."
+            ],
+            [
+              "Pause",
+              "Stop handling is unverified, claims are unsupported or nobody can take replies. Resume after the responsible person checks the correction."
+            ],
+            [
+              "Transfer",
+              "The receiving operator has rights and access and can handle a routine reply and an exclusion exception. An export alone does not prove readiness."
+            ]
+          ]
+        },
+        {
+          "kind": "record",
+          "title": "Handover acceptance record",
+          "rows": [
+            [
+              "Inventory",
+              "The CRM export, brief v2, response rules and exclusions are received. The client verifies the data rights and confirms which records may be retained."
+            ],
+            [
+              "Rehearsal",
+              "The receiver routes a routine reply but misses a stop request in a second channel. The current operator retains responsibility and verifies suppression."
+            ],
+            [
+              "Decision",
+              "Repeat the exception test before revoking access or transferring the queue. Set the next review owner and date."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Copy the meeting record",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Weekly review record",
+          "rows": [
+            [
+              "Date and cohort",
+              "Which contacts, channels and reporting period are included?"
+            ],
+            [
+              "Evidence sampled",
+              "Which account, message and handoff were inspected?"
+            ],
+            [
+              "Decision",
+              "What continues, changes or pauses? Who owns it and when will we verify it?"
+            ],
+            [
+              "Uncertainty",
+              "What cannot yet be concluded? What would change the decision?"
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "For managed outbound, Beespoke can run agreed cold email and/or LinkedIn work. Your team owns list judgment, factual approval, expert replies, discovery and closing. Calling is separately quoted by market."
+        }
+      ]
+    }
+  ],
+  "answer": "Give the client and provider a named owner, a written definition of an accepted handoff and a weekly meeting that ends with decisions. Review individual research and reply records alongside pipeline. Pause affected work when approvals, access or suppression are unclear.",
+  "description": "Manage an outsourced SDR team with a worked launch gate, 30-minute review, CRM handoff, reconciled booking example and renewal decisions.",
+  "title": "Run the weekly review with a real decision to make",
+  "toc": "Worked operating review",
+  "fiction": "The team, messages, counts and commercial decisions in this example are fictional."
+}

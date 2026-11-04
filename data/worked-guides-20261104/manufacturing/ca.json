@@ -1,0 +1,143 @@
+{
+  "sections": [
+    {
+      "title": "Defineix quina feina interessa al taller",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un proveïdor de mecanització té capacitat per a sèries repetides. Treballa amb un conjunt limitat de materials i lliura a dues regions. Qui pressuposta ha d’aprovar dimensions i documentació. Exclou prototips puntuals, destinacions fora de zona i certificacions que el taller no hagi verificat."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Construeix la llista per procés, família de peces, zona, repetició i via de compra. El codi sectorial no confirma l’encaix. Comença amb una sola família per aprendre dels rebuigs."
+        }
+      ]
+    },
+    {
+      "title": "Registra què demostra cada senyal",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Evidència i acció per compte",
+          "heads": [
+            "Compte",
+            "Observat",
+            "Decisió"
+          ],
+          "rows": [
+            [
+              "A: Fabricant d’equips",
+              "Una fitxa mostra un subconjunt pertinent. Una oferta de feina esmenta una segona línia.",
+              "Cerca qui gestiona compres. El canvi permet preguntar i el calendari de compra continua obert."
+            ],
+            [
+              "B: Fabricant per contracte",
+              "Un directori diu que mecanitza. No se sap si compra el procés pertinent.",
+              "Retén el registre i comprova si fabrica o subcontracta la peça."
+            ],
+            [
+              "C: Planta nova",
+              "Un pla públic situa la planta fora de zona.",
+              "Exclou-la llevat que logística confirmi una ruta viable."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Anota font i data. Ampliacions, manteniment i contractació són context. Fes una pregunta operativa abans de donar per fet un problema."
+        }
+      ]
+    },
+    {
+      "title": "Dona a cada comprador la prova que li cal",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Enginyeria necessita límits, toleràncies i revisió de plànols. Qualitat necessita documentació verificada i gestió d’excepcions. Compres necessita condicions de comanda i un responsable de pressupost. Operacions necessita un lliurament viable i una via d’escalat. Confirma les dades abans de publicar-les o posar-les en un missatge."
+        },
+        {
+          "kind": "record",
+          "title": "Obertura fictícia a compres",
+          "rows": [
+            [
+              "Motiu",
+              "«A la vostra fitxa apareix una carcassa substituïble. La compreu com a sèrie recurrent o la fabriqueu internament?»"
+            ],
+            [
+              "Pas següent",
+              "Si compren fora, pregunta per l’especificació vigent i qui comprova l’encaix. Deixa preu i termini pendents fins que es confirmi la feina."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ajusta el canal a l’etapa",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Ruta segons la situació",
+          "heads": [
+            "Situació",
+            "Acció útil",
+            "Què cal mesurar"
+          ],
+          "rows": [
+            [
+              "Compte pertinent sense petició oberta",
+              "Correu o LinkedIn amb recerca prèvia i seguiment breu. Una persona coordina els canals.",
+              "Converses pertinents i exclusions per família de peces."
+            ],
+            [
+              "Comprador que cerca proveïdor",
+              "Mostra capacitats verificables i una via clara per demanar pressupost. Permet indicar una limitació tècnica sense publicar plànols.",
+              "Peticions completes i aptes tècnicament."
+            ],
+            [
+              "Comprador que compara",
+              "Ofereix una revisió de capacitat acordada o evidència aprovada. Qui pressuposta confirma l’encaix.",
+              "Revisions acceptades i motius de rebuig."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Distingeix consulta i petició preparada per pressupostar",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Exemple de traspàs",
+          "rows": [
+            [
+              "Rebut",
+              "El comprador demana una carcassa recurrent. Quantitat i zona semblen viables. Falten revisió de plànol i documentació de qualitat."
+            ],
+            [
+              "Ruta",
+              "Vendes registra l’ús i deriva la petició. El responsable demana revisió, material, tolerància, volum, data i documentació per la via aprovada."
+            ],
+            [
+              "Decisió",
+              "Possible encaix, pendent de pressupostar. Completa el registre quan el responsable accepti els requisits. No prometis capacitat ni terminis amb l’abast obert."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Decideix què canviar",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Revisa per separat comptes investigats, respostes pertinents, peticions acceptades, pressupostos i vendes. Si les respostes encaixen però la petició no avança, revisa traspàs i temps. Si es repeteixen rebuigs per material o zona, corregeix la llista. Un cicle llarg deixa resultats pendents. Amplia quan el responsable tècnic pugui explicar quin criteri ha funcionat."
+        }
+      ]
+    }
+  ],
+  "answer": "Comença pel que pots fabricar, on pots lliurar i quines peticions pot qualificar l’equip. Fes prospecció selectiva per trobar comptes abans d’una compra. Una pàgina de capacitats i una via per demanar pressupost ajuden qui ja busca proveïdor. Assigna el traspàs a un responsable tècnic.",
+  "description": "Planifica la captació industrial per capacitat, evidència del compte, rols de compra i peticions de pressupost, amb un exemple complet.",
+  "title": "De la llista de comptes a una petició que es pugui pressupostar",
+  "toc": "Exemple industrial",
+  "fiction": "El proveïdor de components, els comptes i la petició de l’exemple són ficticis."
+}

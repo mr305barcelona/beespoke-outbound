@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "title": "Establish what the proposal includes",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "A software team has a repeatable offer and a sales lead, but no daily prospecting operator. One proposal supplies a dedicated rep under the client’s supervision. A second covers research, sending and reply triage with shared management. Ask each to name the operator, approver, escalation backup and what can be exported. Their titles give little evidence about their actual coverage."
+        }
+      ]
+    },
+    {
+      "title": "Check the upside and what can undo it",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "A fictional risk register",
+          "heads": [
+            "Expected advantage",
+            "Possible failure",
+            "Proof before expanding"
+          ],
+          "rows": [
+            [
+              "Earlier start",
+              "Access, product evidence or list approval is late.",
+              "Operator and client approve a sample and record a start condition."
+            ],
+            [
+              "Consistent capacity",
+              "A shared operator is unavailable or an exception queue grows.",
+              "Named backup demonstrates the agreed reply routine."
+            ],
+            [
+              "Better research",
+              "A list meets activity targets while fit evidence is missing.",
+              "Sales accepts a small sample and documents reasons for rejects."
+            ],
+            [
+              "More qualified conversations",
+              "The agreement rewards bookings with unclear fit.",
+              "Review original bookings, held calls and accepted handoffs separately."
+            ],
+            [
+              "A repeatable process",
+              "Learning stays in the provider’s account.",
+              "Client receives a permitted export and tests whether the receiver can use it."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Walk through a failure",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Incident record",
+          "rows": [
+            [
+              "What happened",
+              "A stop request is logged in email while a queued LinkedIn follow-up remains. The operator finds it before sending."
+            ],
+            [
+              "Contain and check",
+              "Pause the affected account and check other duplicates. The client and operator agree one exclusion owner and verify both channels honor the status."
+            ],
+            [
+              "Reopen",
+              "Resume eligible accounts after the approver checks the shared state and a fictional exception test. Keep the stopped account excluded."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Do not increase volume to compensate for missing evidence. If qualified replies wait for the client, improve routing and coverage. If rejected accounts cluster around a fit rule, fix the list. Low counts can leave both explanations open."
+        }
+      ]
+    },
+    {
+      "title": "Compare the commitment and exit",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Scope the same buying outcome, period and client workload. Include data, tools, onboarding, supervision and exit. Ask what the buyer may retain and who owns sender access, exports and suppression. Record the unit a payment rewards and who confirms its quality. Leave unknown fees and conversion assumptions open."
+        }
+      ]
+    },
+    {
+      "title": "Choose proceed, redesign or wait",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Decision test",
+          "heads": [
+            "Situation",
+            "Decision"
+          ],
+          "rows": [
+            [
+              "Proven work and clear sales ownership",
+              "Start a bounded segment after list, claims, access and handoff pass."
+            ],
+            [
+              "The provider runs activity but handoffs are repeatedly rejected",
+              "Redesign the qualification rule and test the next sample before expanding."
+            ],
+            [
+              "No approved offer, sales owner or secure workflow",
+              "Wait. Resolve the missing precondition before buying recurring work."
+            ]
+          ]
+        },
+        {
+          "kind": "record",
+          "title": "Copyable decision record",
+          "rows": [
+            [
+              "Expected benefit",
+              "What specific work should improve, and who owns it?"
+            ],
+            [
+              "Evidence and downside",
+              "What would demonstrate that benefit, and what could undo it?"
+            ],
+            [
+              "Decision and revisit",
+              "What can start, what must wait, and when will the buyer verify it?"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Outsourcing SDR work can add execution capacity and an operating process. The tradeoff is less direct control and more dependence on clear approvals, reply ownership and transferable records. For each expected advantage, require evidence and decide who can stop work if the matching risk appears.",
+  "description": "Weigh outsourced SDR benefits against their operating risks. Use a worked control register, incident response and buy, redesign or wait decisions.",
+  "title": "Turn each benefit into a condition you can verify",
+  "toc": "Worked benefits and risks register",
+  "fiction": "The proposals, records and incidents in this example are fictional."
+}

@@ -1,0 +1,129 @@
+{
+  "sections": [
+    {
+      "title": "Write one common brief",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "A software team wants research, approved email or LinkedIn outreach, reply triage and a sales-accepted handoff for one buyer segment. Sales owns expert questions and discovery. An agency proposal includes research and a manager but excludes data. An internal hiring plan includes a rep but leaves management and coverage unassigned. Neither scope is ready to compare until those blanks are resolved."
+        },
+        {
+          "kind": "table",
+          "title": "Normalize the work",
+          "heads": [
+            "Work",
+            "Agency scope to confirm",
+            "Internal scope to confirm"
+          ],
+          "rows": [
+            [
+              "Targeting and claims",
+              "Name the approver and exception rule.",
+              "Allocate product and sales time to approvals."
+            ],
+            [
+              "Research and messages",
+              "Confirm data, tools and change ownership.",
+              "Assign the operator and manager. Include licenses."
+            ],
+            [
+              "Replies and discovery",
+              "Name daily reply coverage and sales handoff.",
+              "Name cover during absences. Allocate discovery."
+            ],
+            [
+              "Transfer or replacement",
+              "Specify exports, use rights and a receiving owner.",
+              "Budget recruiting, onboarding and backup."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Compare time and costs on one horizon",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "The fictional agency brief needs two hours a week of client approvals and one hour of evidence review. The hiring brief needs those same three hours plus four hours of coaching and coverage. Over a 12-week planning window that is 36 versus 84 client hours, before one-off recruitment or transition. Verify availability and value the time consistently in the existing cost model. A blank supplier fee or hiring cost stays unknown."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Compare setup, recurring delivery, tools and staff time separately. Date the start of usable work and separate training or setup from operation. A short window can favour a fast launch even if a longer window favours internal capability. Recalculate at 3, 6 and 12 months when you have verified inputs. Do not compare a complete managed programme with a salary alone."
+        }
+      ]
+    },
+    {
+      "title": "Work through four decisions",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Decision examples",
+          "heads": [
+            "Situation",
+            "First choice",
+            "What would change it"
+          ],
+          "rows": [
+            [
+              "Valid offer, no daily operator",
+              "Scope managed execution with named client and sales owners.",
+              "Hire once repeatability and coaching capacity are demonstrated."
+            ],
+            [
+              "Stable process, internal manager available",
+              "Build in-house and protect the manager’s time.",
+              "Use temporary cover if recruitment slips and the launch still matters."
+            ],
+            [
+              "Demand uncertain, possible operator later",
+              "Test a bounded segment and decide how learning will transfer.",
+              "Delay expansion if fit or sales follow-up is unresolved."
+            ],
+            [
+              "Nobody owns discovery",
+              "Defer both purchases and assign a sales owner.",
+              "Reopen after that person accepts the handoff and can cover replies."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rehearse the exit",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Decision record",
+          "rows": [
+            [
+              "Chosen scope",
+              "Managed research and outreach for one segment. Client owns approvals, technical replies and discovery."
+            ],
+            [
+              "Open items",
+              "Tool costs and backup for reply escalation. Obtain written scope and owner acceptance before launch."
+            ],
+            [
+              "Transfer proof",
+              "The receiver can reconstruct one research record, act on a reply and honor a stop request with the proper access and rights."
+            ],
+            [
+              "Reconsider",
+              "If the receiver cannot handle an exception or the export omits the suppression state, keep the current operator and repeat the test."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Check the first real buying decision against the record. Keep revenue, pipeline and profit separate. A forecast with unverified conversion or margin cannot settle the operating choice."
+        }
+      ]
+    }
+  ],
+  "answer": "Choose an agency when the missing work is recurring execution and you can still provide decisions, approvals and sales follow-up. Build in-house when the work is repeatable, strategically important and you can recruit and manage it. Compare the same scope over the same period, including client time, ramp and exit.",
+  "description": "Compare an agency and in-house lead generation on the same scope, supervision, ramp, costs and transfer, with worked buyer decisions.",
+  "title": "Compare the same work before comparing cost",
+  "toc": "Worked operating decision",
+  "fiction": "The companies, hours and decisions below are fictional examples."
+}

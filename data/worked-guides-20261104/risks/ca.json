@@ -1,0 +1,140 @@
+{
+  "sections": [
+    {
+      "title": "Aclareix què inclou la proposta",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un equip de programari té una oferta repetible i una responsable comercial, però ningú prospecta cada dia. Una proposta assigna un representant dedicat sota supervisió del client. Una altra cobreix recerca, enviament i respostes amb gestió compartida. Demana qui opera, qui aprova, qui cobreix excepcions i què es pot exportar. El nom del servei aporta poca evidència."
+        }
+      ]
+    },
+    {
+      "title": "Comprova l’avantatge i què el pot anul·lar",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Registre fictici de riscos",
+          "heads": [
+            "Avantatge esperat",
+            "Possible fallada",
+            "Prova abans d’ampliar"
+          ],
+          "rows": [
+            [
+              "Arrencada ràpida",
+              "Es retarden accés, dades de producte o llista.",
+              "Operador i client aproven una mostra i una condició d’inici."
+            ],
+            [
+              "Capacitat constant",
+              "La persona compartida no està disponible o creixen les excepcions.",
+              "Un suplent demostra la rutina de respostes."
+            ],
+            [
+              "Millor recerca",
+              "Es compleix volum sense justificar l’encaix.",
+              "Vendes accepta una mostra i registra motius de rebuig."
+            ],
+            [
+              "Converses qualificades",
+              "Es premien reserves d’encaix incert.",
+              "Revisa reserves originals, reunions celebrades i traspassos per separat."
+            ],
+            [
+              "Procés repetible",
+              "L’aprenentatge queda al compte del proveïdor.",
+              "El client rep una exportació permesa i comprova que la pot fer servir."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Recorre una fallada",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Registre d’incident",
+          "rows": [
+            [
+              "Què va passar",
+              "S’anota una baixa al correu i queda un seguiment a LinkedIn. L’operador el detecta abans d’enviar."
+            ],
+            [
+              "Contenció i control",
+              "Atura el compte i revisa duplicats. Acorda un responsable d’exclusions i comprova tots dos canals."
+            ],
+            [
+              "Reobertura",
+              "Reprèn comptes aptes quan s’hagi verificat l’estat i una prova d’excepció. Mantén exclòs el compte que ha demanat la baixa."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "No apugis volum per compensar la falta d’evidència. Si les respostes aptes esperen el client, millora el traspàs. Si els rebuigs comparteixen un criteri, corregeix la llista. Una mostra petita pot deixar les dues causes obertes."
+        }
+      ]
+    },
+    {
+      "title": "Compara el compromís i la fi del servei",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Fes servir el mateix resultat, període i càrrega del client. Inclou dades, eines, arrencada, supervisió i fi del servei. Confirma drets d’ús, accessos, exportacions i exclusions. Anota quina unitat remunera l’acord i qui en valida la qualitat. Deixa pendents imports i conversions desconeguts."
+        }
+      ]
+    },
+    {
+      "title": "Decideix si arrencar, redissenyar o esperar",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Prova de decisió",
+          "heads": [
+            "Situació",
+            "Decisió"
+          ],
+          "rows": [
+            [
+              "Feina provada i responsable comercial",
+              "Comença per un segment després de verificar llista, afirmacions, accés i traspàs."
+            ],
+            [
+              "Activitat alta i traspassos rebutjats",
+              "Redissenya la regla de qualificació i comprova una mostra abans d’ampliar."
+            ],
+            [
+              "Falta oferta, responsable o flux segur",
+              "Espera i resol la condició pendent abans de contractar feina recurrent."
+            ]
+          ]
+        },
+        {
+          "kind": "record",
+          "title": "Registre de decisió",
+          "rows": [
+            [
+              "Avantatge",
+              "Quina feina milloraria i qui l’assumeix?"
+            ],
+            [
+              "Evidència i risc",
+              "Què ho demostraria i què ho podria anul·lar?"
+            ],
+            [
+              "Decisió i revisió",
+              "Què pot començar, què espera i quan es comprova?"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "answer": "Externalitzar SDR pot aportar capacitat d’execució i un procés operatiu. A canvi, depens més d’aprovacions clares, responsables de respostes i registres que puguis recuperar. Per a cada avantatge, demana una prova i decideix qui pot aturar la feina si apareix el risc.",
+  "description": "Valora els avantatges i riscos d’externalitzar SDR amb un registre de controls, un incident i decisions per arrencar, redissenyar o esperar.",
+  "title": "Converteix cada avantatge en una condició verificable",
+  "toc": "Exemple d’avantatges i riscos",
+  "fiction": "Les propostes, registres i incidents són ficticis."
+}

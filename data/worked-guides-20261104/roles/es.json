@@ -1,0 +1,120 @@
+{
+  "sections": [
+    {
+      "title": "Empieza con dos colas",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Un equipo de software recibe consultas y quiere llegar a responsables de operaciones de ciertas cuentas. Las consultas necesitan respuesta útil, comprobación de encaje y derivación. La prospección necesita investigación, exclusiones, afirmaciones aprobadas, mensajes coordinados y responsable de respuestas. Ventas dirige reuniones y decisiones en ambos casos."
+        },
+        {
+          "kind": "table",
+          "title": "Dos colas con evidencia distinta",
+          "heads": [
+            "Cola",
+            "Trabajo",
+            "Medida"
+          ],
+          "rows": [
+            [
+              "Inbound",
+              "Asignar consultas, comprobar encaje y derivar dudas expertas.",
+              "Tiempo hasta respuesta útil y traspasos aceptados entre consultas aptas."
+            ],
+            [
+              "Outbound",
+              "Investigar cuentas, aprobar listas y mensajes, ejecutar y derivar respuestas.",
+              "Personas únicas contactadas, respuestas pertinentes y traspasos aceptados del grupo contactado."
+            ],
+            [
+              "Mixta",
+              "Designar responsables o una regla clara de prioridad.",
+              "Informar por separado para que una mejora inbound no parezca crecimiento outbound."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Compara dos ofertas con el mismo título",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Dos ofertas dicen «SDR externo». La primera responde a formularios y reserva citas, pero excluye investigación de cuentas y envío. La segunda investiga y contacta cuentas aprobadas, pero excluye inbound. Ninguna incluye reuniones técnicas o cierre. Elige la primera si se atascan consultas, la segunda si falta prospección, o pide ambos alcances separados si confirmas los dos huecos."
+        },
+        {
+          "kind": "paragraph",
+          "text": "Si ventas no puede recibir ninguna cola, aplaza ambas compras. Una oferta BDR podría cubrir cualquiera. Pide un ejemplo desde entrada o investigación hasta la decisión comercial."
+        }
+      ]
+    },
+    {
+      "title": "Resuelve el solapamiento",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Excepción con dos colas",
+          "rows": [
+            [
+              "Evidencia",
+              "Una persona de una cuenta aprobada envía una consulta antes de su seguimiento outbound. Coincide el identificador de cuenta."
+            ],
+            [
+              "Decisión",
+              "Pausa el seguimiento. La persona de inbound confirma la consulta, adjunta el contexto y el operador actualiza el estado común."
+            ],
+            [
+              "Traspaso",
+              "Ventas revisa el caso de uso y dirige el siguiente paso. Registra un evento inbound. El envío pendiente no cuenta como respuesta outbound."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lee cada medida por separado",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "En una semana ficticia hubo ocho consultas aptas. Seis recibieron respuesta útil dentro del plazo acordado y ventas aceptó tres traspasos. En outbound se llegó a 24 personas únicas, con cuatro respuestas pertinentes y un traspaso aceptado. No combines tasas. Una reserva puede estar pendiente, cambiar de fecha, celebrarse o descartarse. Conserva su identidad original y el criterio de ventas."
+        }
+      ]
+    },
+    {
+      "title": "Escribe qué se puede aceptar o rechazar",
+      "blocks": [
+        {
+          "kind": "record",
+          "title": "Alcance reutilizable",
+          "rows": [
+            [
+              "Origen y trabajo",
+              "Indica cola, entrada, canales, trabajo diario y exclusiones."
+            ],
+            [
+              "Responsables",
+              "Designa operador, aprobador, suplente y receptor de ventas. Confirma herramientas, accesos y derechos."
+            ],
+            [
+              "Aceptación",
+              "Adjunta evidencia, motivo de encaje y siguiente acción. Indica cómo se registra un rechazo."
+            ],
+            [
+              "Parada y traspaso",
+              "Define cuándo se pausa y cómo demuestra el receptor que resuelve una baja o duplicado."
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Beespoke ejecuta outbound gestionado por correo en frío y/o LinkedIn según acuerdo. Gestionar consultas inbound o cerrar ventas son tareas distintas. Confirma cualquier otra responsabilidad por escrito."
+        }
+      ]
+    }
+  ],
+  "answer": "Los títulos SDR y BDR cambian según la empresa. Contrata la cola que necesitas: cualificación inbound, prospección outbound o una combinación con responsabilidades claras. Especifica origen, trabajo diario, exclusiones, traspaso y medida de éxito antes de elegir.",
+  "description": "Compara SDR y BDR externalizados por trabajo real, con dos colas, propuestas del mismo nombre, un traspaso y medidas distintas.",
+  "title": "Contrata una cola definida antes de elegir un nombre",
+  "toc": "Ejemplo de SDR y BDR",
+  "fiction": "Las colas, propuestas, mensajes y cifras son ficticios."
+}
