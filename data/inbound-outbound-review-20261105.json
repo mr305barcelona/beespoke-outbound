@@ -1,0 +1,496 @@
+{
+  "reviewedDate": "2026-11-05",
+  "revision": "2026-11-05T11:27:41+01:00",
+  "localDates": {
+    "en": "November 5, 2026",
+    "es": "5 de noviembre de 2026",
+    "ca": "5 de novembre de 2026",
+    "fr": "5 novembre 2026"
+  },
+  "pages": {
+    "en": {
+      "path": "compare/inbound-vs-outbound-lead-generation/index.html",
+      "originalSha256": "88f81d6f84dcd139460974c22fc76f2df082522cb50779d29e0b1138329b79d8",
+      "reviewedSha256": "395b7683b9e52335e795c67d452f045cfe6e12898c7dc75f58544ebd44eed593",
+      "changes": [
+        {
+          "start": 8639,
+          "end": 8639,
+          "old": "",
+          "new": "<style id=\"channel-comparison-review\">\nbody.journal-article .article-grid article .channel-case {box-sizing:border-box; padding:clamp(.8rem,2.5vw,1.7rem); margin:1.8rem 0; border:1px solid #d6e0e5; border-radius:.65rem; background:#f6f9fa; color:#14212b}\nbody.journal-article .article-grid article .channel-case h2 {margin-top:0}\nbody.journal-article .channel-cohorts {display:grid; grid-template-columns:1fr 1fr; gap:1rem; margin:1rem 0}\nbody.journal-article .channel-cohorts>div,body.journal-article .channel-records>li {min-width:0;padding:1rem; background:#fff; border:1px solid #d6e0e5;border-radius:.45rem}\nbody.journal-article .channel-cohorts h3 {font:600 1.1rem/1.4 Arial,Helvetica,sans-serif;margin:0 0 .65rem;color:#14212b}\nbody.journal-article .channel-cohorts dl {display:grid;gap:.6rem;margin:0}\nbody.journal-article .channel-cohorts dl>div {display:grid;grid-template-columns:minmax(0,1fr) 4.6rem;gap:.6rem;border-bottom:1px solid #e4e9ec;padding-bottom:.5rem}\nbody.journal-article .channel-cohorts dt,body.journal-article .channel-cohorts dd {font-size:.94rem;line-height:1.45;margin:0}\nbody.journal-article .channel-cohorts dd {text-align:end;font-weight:700;font-variant-numeric:tabular-nums}\nbody.journal-article .channel-cohorts dl>div:last-child {border-bottom:0}\nbody.journal-article .channel-records {display:grid;gap:.8rem;list-style:none;padding:0;margin:1.2rem 0}\nbody.journal-article .channel-records>li {margin:0;list-style:none}\nbody.journal-article .channel-records h3 {font:600 1.02rem/1.45 Arial,Helvetica,sans-serif;margin:0 0 .4rem}\nbody.journal-article .channel-records p {margin:.5rem 0 0}\nbody.journal-article .article-grid article .channel-decision {border-left:3px solid #527087;padding:.85rem 1rem;background:#eaf0f3}\nbody.journal-article .optional-workbook {border:1px solid #b9c5cd;padding:1rem;border-radius:.4rem}\nbody.journal-article .optional-workbook>summary {font:600 1rem/1.5 Arial,Helvetica,sans-serif;cursor:pointer;color:#14212b}\nbody.journal-article .optional-workbook>summary:focus-visible {outline:3px solid #356781;outline-offset:4px}\nbody.journal-article .optional-workbook[open]>summary {margin-bottom:1rem}\nbody.journal-article .optional-workbook .worksheet-actions .button.secondary {color:#14212b;background:#fff;border:1px solid #8a979f;border-radius:3px;box-shadow:none;min-height:44px;font-weight:500}\nbody.journal-article .optional-workbook .worksheet-actions .button.secondary:hover {background:#edf2f5;color:#14212b}\nbody.journal-article .optional-workbook .worksheet-actions .button:focus-visible {outline:3px solid #356781;outline-offset:3px}\n\nbody.journal-article .channel-source-note {font-size:.95rem}\nbody.journal-article #sources .source-reference {overflow-wrap:anywhere;word-break:normal}\n@media(max-width:600px){body.journal-article .channel-cohorts{grid-template-columns:1fr}}\n</style>"
+        },
+        {
+          "start": 10930,
+          "end": 10930,
+          "old": "",
+          "new": "<a class=\"secondary\" href=\"#worked-meeting-costs\">See the worked comparisons</a>"
+        },
+        {
+          "start": 11747,
+          "end": 11747,
+          "old": "",
+          "new": "<a href=\"#worked-meeting-costs\">Compare one cohort with the same definitions</a>"
+        },
+        {
+          "start": 11929,
+          "end": 11929,
+          "old": "",
+          "new": "</a><a href=\"#worked-meeting-records\">Follow three buyers from first contact to the meeting"
+        },
+        {
+          "start": 12763,
+          "end": 12763,
+          "old": "",
+          "new": "<a href=\"#worked-meeting-costs\">Compare one cohort with the same definitions</a>"
+        },
+        {
+          "start": 12945,
+          "end": 12945,
+          "old": "",
+          "new": "</a><a href=\"#worked-meeting-records\">Follow three buyers from first contact to the meeting"
+        },
+        {
+          "start": 14590,
+          "end": 14590,
+          "old": "",
+          "new": "<details class=\"optional-workbook\" id=\"optional-acquisition-workbook\"><summary>Open the optional acquisition worksheet</summary><p>Use the completed cases first, then record your own evidence. The worksheet stays private in this browser tab.</p>"
+        },
+        {
+          "start": 23973,
+          "end": 23973,
+          "old": "",
+          "new": "</details>"
+        },
+        {
+          "start": 26131,
+          "end": 26313,
+          "old": "<p>Bring your offer, buyer, current acquisition data and sales economics. We will identify the smallest useful Google Ads, SEO or AI-visibility test and the evidence it must produce.",
+          "new": "<p>Bring your offer, target buyers and current source evidence. We’ll identify the next useful outbound, inbound or combined test and agree what would justify continuing it."
+        },
+        {
+          "start": 28449,
+          "end": 28449,
+          "old": "",
+          "new": "<section id=\"worked-meeting-costs\" class=\"channel-case\"><h2>Compare one cohort with the same definitions</h2><p>Fictional example in USD. Both teams count original bookings created in the same 28-day period, then wait until the agreed review date to establish attendance and qualification. The costs include the work and tools allocated to that cohort. They are planning assumptions, not Beespoke prices or market benchmarks.</p><div class=\"channel-cohorts\"><div><h3>Outbound cohort</h3><dl><div><dt>Allocated cost</dt><dd>2,400</dd></div><div><dt>Original bookings</dt><dd>8</dd></div><div><dt>Meetings held</dt><dd>6</dd></div><div><dt>Qualified held meetings</dt><dd>4</dd></div><div><dt>Sales-accepted opportunities</dt><dd>1</dd></div><div><dt>Cost per qualified held meeting</dt><dd>600</dd></div></dl></div><div><h3>Inbound cohort</h3><dl><div><dt>Allocated cost</dt><dd>2,100</dd></div><div><dt>Original bookings</dt><dd>6</dd></div><div><dt>Meetings held</dt><dd>5</dd></div><div><dt>Qualified held meetings</dt><dd>3</dd></div><div><dt>Sales-accepted opportunities</dt><dd>1</dd></div><div><dt>Cost per qualified held meeting</dt><dd>700</dd></div></dl></div></div><p class=\"channel-decision\">USD 2,400 ÷ 4 = USD 600. USD 2,100 ÷ 3 = USD 700. The lower figure alone does not settle the choice. Check the buyers, qualification evidence, sales capacity and what the next test must resolve. If either cohort has zero qualified held meetings, report the spend and zero outcomes, then leave that unit cost undefined.</p><p>Include management, content or research, tools and data, media where relevant, and client sales time once. Record the allocation method for shared work. An existing page may serve later cohorts, while outreach research may also be reused. Reconcile spending for the observed period and show any allocation separately. Keep pending meetings open and compare opportunity outcomes only after equivalent follow-up.</p></section>"
+        },
+        {
+          "start": 28569,
+          "end": 28751,
+          "old": "<p>Bring your offer, buyer, current acquisition data and sales economics. We will identify the smallest useful Google Ads, SEO or AI-visibility test and the evidence it must produce.",
+          "new": "<p>Bring your offer, target buyers and current source evidence. We’ll identify the next useful outbound, inbound or combined test and agree what would justify continuing it."
+        },
+        {
+          "start": 31644,
+          "end": 31644,
+          "old": "",
+          "new": "<section id=\"worked-meeting-records\" class=\"channel-case\"><h2>Follow three buyers from first contact to the meeting</h2><p>These three fictional records show how to count acquisition and assistance without creating a second booking. Use the original booking identity when a slot moves. The evidence for the first contact can differ from the last recorded website visit.</p><ol class=\"channel-records\"><li><h3>B01 · Outbound origin</h3><p>A prospect replied to a cold email, then read this comparison and booked.</p><p>Count one qualified held meeting under outbound acquisition. Record the comparison as a website assist.</p></li><li><h3>B02 · Inbound origin</h3><p>A buyer found the service through search, made an enquiry and then received sales follow-up.</p><p>Count one qualified held meeting under inbound acquisition. Record the sales follow-up as assistance.</p></li><li><h3>B03 · Origin unknown</h3><p>The first contact is unverified. A guide visit is known and the meeting was rescheduled.</p><p>Keep the source unknown and the meeting pending until held and qualified. The new slot preserves the original booking identity.</p></li></ol><p>Keep the original booking date, evidence for the source, later touches, held status and qualification decision in the same record. If analytics reports a different last-touch channel, retain both observations with their definitions. A website-assisted outreach booking can matter commercially without being counted as an independently acquired website lead.</p></section>"
+        },
+        {
+          "start": 32563,
+          "end": 32563,
+          "old": "",
+          "new": "<h3>Give the test a decision someone can make</h3><ol><li><strong>Before launch.</strong> The client approves the target account and role criteria. Name the person who can accept the offer, approve execution and handle interested replies.</li><li><strong>During the test.</strong> The operator checks targeting, message relevance and reply handling. For an inbound test, check that the intended buyer can understand the service and take the next step. Pause affected work when a required condition fails.</li><li><strong>At the review.</strong> The sales owner reconciles the original bookings and qualification evidence. Record continue, change or hold, the reason, the owner and the next review date.</li></ol>"
+        },
+        {
+          "start": 35751,
+          "end": 36099,
+          "old": "<p>The linked primary publisher pages inform the comparison of methods. The workbook, decision rules and worked examples are Beespoke planning help. All sample businesses, counts and outcomes are fictional; no client result, universal benchmark or ranking promise is claimed. Sources reviewed October 27, 2026. Sources reviewed October 27–28, 2026.",
+          "new": "<p>The linked primary publisher pages inform the comparison of methods. The workbook, decision rules and worked examples are Beespoke planning help. All sample businesses, counts and outcomes are fictional; no client result, universal benchmark or ranking promise is claimed. Original references reviewed October 27–28, 2026."
+        },
+        {
+          "start": 36111,
+          "end": 36266,
+          "old": "<a href=\"https://www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities\">Blend: inbound versus outbound lead generation</a>",
+          "new": "<span class=\"source-reference\">Blend: inbound versus outbound lead generation (www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities)</span>"
+        },
+        {
+          "start": 36275,
+          "end": 36395,
+          "old": "<a href=\"https://blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads\">Thomas: inbound versus outbound leads</a>",
+          "new": "<span class=\"source-reference\">Thomas: inbound versus outbound leads (blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads)</span>"
+        },
+        {
+          "start": 36472,
+          "end": 36472,
+          "old": "",
+          "new": "<p class=\"channel-source-note\">Additional method and measurement references reviewed November 5, 2026. This revision adds fictional cost and attribution examples. Sources describe their own approaches and operating context. Their performance figures do not establish a universal conversion rate, budget split or delivery time for your business.</p><ul><li><span class=\"source-reference\">SalesIntel — Inbound vs. Outbound Lead Generation (salesintel.io/blog/inbound-vs-outbound-lead-generation/)</span></li><li><span class=\"source-reference\">TAMI — Inbound vs Outbound Marketing (tami.ai/blog/inbound-outbound-marketing/)</span></li><li><span class=\"source-reference\">OTM — Prospecting Channel Mix for Professional Services (meetotm.com/outbound-inbound-channel-mix-professional-services/)</span></li><li><span class=\"source-reference\">Apollo — Inbound Marketing Lead Generation (apollo.io/insights/how-can-i-generate-more-leads-using-inbound-marketing-strategies)</span></li></ul>"
+        },
+        {
+          "start": 37704,
+          "end": 37902,
+          "old": "<p>Bring your offer, buyer, current acquisition data and sales process. We will identify whether paid search, organic search, AI visibility, outbound or a focused combination deserves the next test.",
+          "new": "<p>Bring your offer, target buyers and current source evidence. We’ll identify the next useful outbound, inbound or combined test and agree what would justify continuing it."
+        },
+        {
+          "start": 38188,
+          "end": 38188,
+          "old": "",
+          "new": "<script id=\"optional-acquisition-workbook-behavior\">document.addEventListener('click',function(event){var link=event.target.closest('a[href=\"#buyer-worksheet\"]');if(link){var workbook=document.getElementById('optional-acquisition-workbook');if(workbook)workbook.open=true;}});</script>"
+        }
+      ]
+    },
+    "es": {
+      "path": "es/compare/inbound-vs-outbound-lead-generation/index.html",
+      "originalSha256": "28ee58703b45904238584a1faa71e79c323bd452523c185d0fac9a4957704f21",
+      "reviewedSha256": "6d8fa69fb98553f2e7f4199c7afcfbbae7cc3b2c56e2495de8f1f8dfd187a3af",
+      "changes": [
+        {
+          "start": 8431,
+          "end": 8431,
+          "old": "",
+          "new": "<style id=\"channel-comparison-review\">\nbody.journal-article .article-grid article .channel-case {box-sizing:border-box; padding:clamp(.8rem,2.5vw,1.7rem); margin:1.8rem 0; border:1px solid #d6e0e5; border-radius:.65rem; background:#f6f9fa; color:#14212b}\nbody.journal-article .article-grid article .channel-case h2 {margin-top:0}\nbody.journal-article .channel-cohorts {display:grid; grid-template-columns:1fr 1fr; gap:1rem; margin:1rem 0}\nbody.journal-article .channel-cohorts>div,body.journal-article .channel-records>li {min-width:0;padding:1rem; background:#fff; border:1px solid #d6e0e5;border-radius:.45rem}\nbody.journal-article .channel-cohorts h3 {font:600 1.1rem/1.4 Arial,Helvetica,sans-serif;margin:0 0 .65rem;color:#14212b}\nbody.journal-article .channel-cohorts dl {display:grid;gap:.6rem;margin:0}\nbody.journal-article .channel-cohorts dl>div {display:grid;grid-template-columns:minmax(0,1fr) 4.6rem;gap:.6rem;border-bottom:1px solid #e4e9ec;padding-bottom:.5rem}\nbody.journal-article .channel-cohorts dt,body.journal-article .channel-cohorts dd {font-size:.94rem;line-height:1.45;margin:0}\nbody.journal-article .channel-cohorts dd {text-align:end;font-weight:700;font-variant-numeric:tabular-nums}\nbody.journal-article .channel-cohorts dl>div:last-child {border-bottom:0}\nbody.journal-article .channel-records {display:grid;gap:.8rem;list-style:none;padding:0;margin:1.2rem 0}\nbody.journal-article .channel-records>li {margin:0;list-style:none}\nbody.journal-article .channel-records h3 {font:600 1.02rem/1.45 Arial,Helvetica,sans-serif;margin:0 0 .4rem}\nbody.journal-article .channel-records p {margin:.5rem 0 0}\nbody.journal-article .article-grid article .channel-decision {border-left:3px solid #527087;padding:.85rem 1rem;background:#eaf0f3}\nbody.journal-article .optional-workbook {border:1px solid #b9c5cd;padding:1rem;border-radius:.4rem}\nbody.journal-article .optional-workbook>summary {font:600 1rem/1.5 Arial,Helvetica,sans-serif;cursor:pointer;color:#14212b}\nbody.journal-article .optional-workbook>summary:focus-visible {outline:3px solid #356781;outline-offset:4px}\nbody.journal-article .optional-workbook[open]>summary {margin-bottom:1rem}\nbody.journal-article .optional-workbook .worksheet-actions .button.secondary {color:#14212b;background:#fff;border:1px solid #8a979f;border-radius:3px;box-shadow:none;min-height:44px;font-weight:500}\nbody.journal-article .optional-workbook .worksheet-actions .button.secondary:hover {background:#edf2f5;color:#14212b}\nbody.journal-article .optional-workbook .worksheet-actions .button:focus-visible {outline:3px solid #356781;outline-offset:3px}\n\nbody.journal-article .channel-source-note {font-size:.95rem}\nbody.journal-article #sources .source-reference {overflow-wrap:anywhere;word-break:normal}\n@media(max-width:600px){body.journal-article .channel-cohorts{grid-template-columns:1fr}}\n</style>"
+        },
+        {
+          "start": 10729,
+          "end": 10729,
+          "old": "",
+          "new": "<a class=\"secondary\" href=\"#worked-meeting-costs\">Ver las comparaciones prácticas</a>"
+        },
+        {
+          "start": 11550,
+          "end": 11550,
+          "old": "",
+          "new": "<a href=\"#worked-meeting-costs\">Compara una cohorte con las mismas definiciones</a>"
+        },
+        {
+          "start": 11702,
+          "end": 11702,
+          "old": "",
+          "new": "</a><a href=\"#worked-meeting-records\">Sigue a tres compradores desde el primer contacto hasta la reunión"
+        },
+        {
+          "start": 12478,
+          "end": 12478,
+          "old": "",
+          "new": "<a href=\"#worked-meeting-costs\">Compara una cohorte con las mismas definiciones</a>"
+        },
+        {
+          "start": 12630,
+          "end": 12630,
+          "old": "",
+          "new": "</a><a href=\"#worked-meeting-records\">Sigue a tres compradores desde el primer contacto hasta la reunión"
+        },
+        {
+          "start": 14106,
+          "end": 14106,
+          "old": "",
+          "new": "<details class=\"optional-workbook\" id=\"optional-acquisition-workbook\"><summary>Abrir la ficha opcional de adquisición</summary><p>Revisa primero los casos completos y después anota tus propias pruebas. La ficha queda en esta pestaña del navegador.</p>"
+        },
+        {
+          "start": 23366,
+          "end": 23366,
+          "old": "",
+          "new": "</details>"
+        },
+        {
+          "start": 25278,
+          "end": 25468,
+          "old": "<p>Trae tu oferta, comprador, datos actuales de captación y economía comercial. Identificaremos la prueba mínima útil de Google Ads, SEO o visibilidad en IA y la evidencia que debe producir.",
+          "new": "<p>Trae tu oferta, los perfiles de comprador y los datos sobre el origen de tus contactos. Identificaremos la siguiente prueba útil de outbound, inbound o una combinación y acordaremos qué justificaría continuarla."
+        },
+        {
+          "start": 27387,
+          "end": 27387,
+          "old": "",
+          "new": "<section id=\"worked-meeting-costs\" class=\"channel-case\"><h2>Compara una cohorte con las mismas definiciones</h2><p>Ejemplo ficticio en USD. Ambos equipos cuentan las reservas originales creadas en los mismos 28 días y esperan hasta la fecha de revisión acordada para comprobar asistencia y cualificación. Los costes incluyen el trabajo y las herramientas asignados a esa cohorte. Son supuestos de planificación, no precios de Beespoke ni referencias del mercado.</p><div class=\"channel-cohorts\"><div><h3>Cohorte de outbound</h3><dl><div><dt>Coste asignado</dt><dd>2.400</dd></div><div><dt>Reservas originales</dt><dd>8</dd></div><div><dt>Reuniones celebradas</dt><dd>6</dd></div><div><dt>Reuniones celebradas y cualificadas</dt><dd>4</dd></div><div><dt>Oportunidades aceptadas por ventas</dt><dd>1</dd></div><div><dt>Coste por reunión celebrada y cualificada</dt><dd>600</dd></div></dl></div><div><h3>Cohorte de inbound</h3><dl><div><dt>Coste asignado</dt><dd>2.100</dd></div><div><dt>Reservas originales</dt><dd>6</dd></div><div><dt>Reuniones celebradas</dt><dd>5</dd></div><div><dt>Reuniones celebradas y cualificadas</dt><dd>3</dd></div><div><dt>Oportunidades aceptadas por ventas</dt><dd>1</dd></div><div><dt>Coste por reunión celebrada y cualificada</dt><dd>700</dd></div></dl></div></div><p class=\"channel-decision\">2.400 USD ÷ 4 = 600 USD. 2.100 USD ÷ 3 = 700 USD. La cifra más baja no basta para decidir. Revisa los compradores, las pruebas de cualificación, la capacidad comercial y la incógnita que debe resolver la siguiente prueba. Si una cohorte tiene cero reuniones celebradas y cualificadas, muestra el gasto y el resultado cero, y deja sin calcular ese coste unitario.</p><p>Cuenta una sola vez la gestión, el contenido o la investigación, las herramientas y los datos, los medios cuando corresponda y el tiempo comercial del cliente. Anota cómo repartes el trabajo compartido. Una página puede servir a cohortes futuras y la investigación de outbound también puede reutilizarse. Concilia el gasto del periodo observado y presenta por separado cualquier reparto. Mantén abiertas las reuniones pendientes y compara oportunidades con un seguimiento equivalente.</p></section>"
+        },
+        {
+          "start": 27507,
+          "end": 27697,
+          "old": "<p>Trae tu oferta, comprador, datos actuales de captación y economía comercial. Identificaremos la prueba mínima útil de Google Ads, SEO o visibilidad en IA y la evidencia que debe producir.",
+          "new": "<p>Trae tu oferta, los perfiles de comprador y los datos sobre el origen de tus contactos. Identificaremos la siguiente prueba útil de outbound, inbound o una combinación y acordaremos qué justificaría continuarla."
+        },
+        {
+          "start": 30235,
+          "end": 30235,
+          "old": "",
+          "new": "<section id=\"worked-meeting-records\" class=\"channel-case\"><h2>Sigue a tres compradores desde el primer contacto hasta la reunión</h2><p>Estos tres registros ficticios muestran cómo contar adquisición y asistencia sin crear una segunda reserva. Conserva la identidad original cuando se cambie la hora. La prueba del primer contacto puede ser distinta de la última visita web registrada.</p><ol class=\"channel-records\"><li><h3>B01 · Origen outbound</h3><p>Un contacto respondió a un correo en frío, leyó esta comparación y reservó una reunión.</p><p>Cuenta una reunión celebrada y cualificada con origen outbound. Registra la comparación como apoyo de la web.</p></li><li><h3>B02 · Origen inbound</h3><p>Un comprador encontró el servicio mediante una búsqueda, envió una consulta y recibió seguimiento comercial.</p><p>Cuenta una reunión celebrada y cualificada con origen inbound. Registra el seguimiento como apoyo.</p></li><li><h3>B03 · Origen desconocido</h3><p>El primer contacto no está verificado. Consta una visita a una guía y la reunión se reprogramó.</p><p>Mantén el origen desconocido y la reunión pendiente hasta que se celebre y se cualifique. El nuevo horario conserva la identidad de la reserva original.</p></li></ol><p>Reúne en un mismo registro la fecha original de reserva, la prueba del origen, los contactos posteriores, la asistencia y la decisión de cualificación. Si Analytics atribuye el último contacto a otro canal, conserva ambos datos y sus definiciones. Una reserva conseguida por outbound con apoyo de la web puede tener valor comercial sin contar como un lead adquirido de forma independiente por la web.</p></section>"
+        },
+        {
+          "start": 31017,
+          "end": 31017,
+          "old": "",
+          "new": "<h3>Define una decisión que alguien pueda tomar</h3><ol><li><strong>Antes de empezar.</strong> El cliente aprueba los criterios de empresa y cargo. Identifica quién valida la oferta, autoriza la ejecución y atiende las respuestas con interés.</li><li><strong>Durante la prueba.</strong> El operador revisa la segmentación, la pertinencia del mensaje y las respuestas. En inbound, comprueba que el comprador previsto entiende el servicio y puede dar el siguiente paso. Pausa el trabajo afectado si falla una condición necesaria.</li><li><strong>En la revisión.</strong> El responsable comercial concilia las reservas originales y las pruebas de cualificación. Anota si se continúa, se cambia o se mantiene en espera, junto con el motivo, el responsable y la siguiente fecha de revisión.</li></ol>"
+        },
+        {
+          "start": 33833,
+          "end": 34197,
+          "old": "<p>Las páginas enlazadas de los autores sirven para comparar métodos. La ficha, reglas y ejemplos son ayudas de planificación de Beespoke. Empresas, cifras y resultados de ejemplo son ficticios; no son resultados de clientes, referencias universales ni promesas de ranking. Fuentes revisadas el 27 de octubre de 2026. Fuentes revisadas el 27–28 de octubre de 2026.",
+          "new": "<p>Las páginas enlazadas de los autores sirven para comparar métodos. La ficha, reglas y ejemplos son ayudas de planificación de Beespoke. Empresas, cifras y resultados de ejemplo son ficticios; no son resultados de clientes, referencias universales ni promesas de ranking. Referencias originales revisadas el 27–28 de octubre de 2026."
+        },
+        {
+          "start": 34209,
+          "end": 34364,
+          "old": "<a href=\"https://www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities\">Blend: inbound versus outbound lead generation</a>",
+          "new": "<span class=\"source-reference\">Blend: inbound versus outbound lead generation (www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities)</span>"
+        },
+        {
+          "start": 34373,
+          "end": 34493,
+          "old": "<a href=\"https://blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads\">Thomas: inbound versus outbound leads</a>",
+          "new": "<span class=\"source-reference\">Thomas: inbound versus outbound leads (blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads)</span>"
+        },
+        {
+          "start": 34573,
+          "end": 34573,
+          "old": "",
+          "new": "<p class=\"channel-source-note\">Referencias adicionales sobre métodos y medición revisadas el 5 de noviembre de 2026. Esta revisión añade ejemplos ficticios de costes y atribución. Las fuentes describen sus propios métodos y contexto. Sus cifras de resultados no establecen una tasa de conversión, un reparto de presupuesto ni un plazo universal para tu empresa.</p><ul><li><span class=\"source-reference\">SalesIntel — Inbound vs. Outbound Lead Generation (salesintel.io/blog/inbound-vs-outbound-lead-generation/)</span></li><li><span class=\"source-reference\">TAMI — Inbound vs Outbound Marketing (tami.ai/blog/inbound-outbound-marketing/)</span></li><li><span class=\"source-reference\">OTM — Prospecting Channel Mix for Professional Services (meetotm.com/outbound-inbound-channel-mix-professional-services/)</span></li><li><span class=\"source-reference\">Apollo — Inbound Marketing Lead Generation (apollo.io/insights/how-can-i-generate-more-leads-using-inbound-marketing-strategies)</span></li></ul>"
+        },
+        {
+          "start": 35876,
+          "end": 36107,
+          "old": "<p>Trae tu oferta, comprador, datos actuales de captación y proceso comercial. Identificaremos si la búsqueda de pago, la búsqueda orgánica, la visibilidad en IA, el outbound o una combinación focalizada merece la siguiente prueba.",
+          "new": "<p>Trae tu oferta, los perfiles de comprador y los datos sobre el origen de tus contactos. Identificaremos la siguiente prueba útil de outbound, inbound o una combinación y acordaremos qué justificaría continuarla."
+        },
+        {
+          "start": 36410,
+          "end": 36410,
+          "old": "",
+          "new": "<script id=\"optional-acquisition-workbook-behavior\">document.addEventListener('click',function(event){var link=event.target.closest('a[href=\"#buyer-worksheet\"]');if(link){var workbook=document.getElementById('optional-acquisition-workbook');if(workbook)workbook.open=true;}});</script>"
+        }
+      ]
+    },
+    "ca": {
+      "path": "ca/compare/inbound-vs-outbound-lead-generation/index.html",
+      "originalSha256": "ee73560de3ba029a6472915047807f9cc07c5a6b6e06fe17c414a9384425e8a5",
+      "reviewedSha256": "9552e9288bc046cd2597213578fdf55270a6d3d9c46156bfd2e0e9749fc579e3",
+      "changes": [
+        {
+          "start": 8327,
+          "end": 8327,
+          "old": "",
+          "new": "<style id=\"channel-comparison-review\">\nbody.journal-article .article-grid article .channel-case {box-sizing:border-box; padding:clamp(.8rem,2.5vw,1.7rem); margin:1.8rem 0; border:1px solid #d6e0e5; border-radius:.65rem; background:#f6f9fa; color:#14212b}\nbody.journal-article .article-grid article .channel-case h2 {margin-top:0}\nbody.journal-article .channel-cohorts {display:grid; grid-template-columns:1fr 1fr; gap:1rem; margin:1rem 0}\nbody.journal-article .channel-cohorts>div,body.journal-article .channel-records>li {min-width:0;padding:1rem; background:#fff; border:1px solid #d6e0e5;border-radius:.45rem}\nbody.journal-article .channel-cohorts h3 {font:600 1.1rem/1.4 Arial,Helvetica,sans-serif;margin:0 0 .65rem;color:#14212b}\nbody.journal-article .channel-cohorts dl {display:grid;gap:.6rem;margin:0}\nbody.journal-article .channel-cohorts dl>div {display:grid;grid-template-columns:minmax(0,1fr) 4.6rem;gap:.6rem;border-bottom:1px solid #e4e9ec;padding-bottom:.5rem}\nbody.journal-article .channel-cohorts dt,body.journal-article .channel-cohorts dd {font-size:.94rem;line-height:1.45;margin:0}\nbody.journal-article .channel-cohorts dd {text-align:end;font-weight:700;font-variant-numeric:tabular-nums}\nbody.journal-article .channel-cohorts dl>div:last-child {border-bottom:0}\nbody.journal-article .channel-records {display:grid;gap:.8rem;list-style:none;padding:0;margin:1.2rem 0}\nbody.journal-article .channel-records>li {margin:0;list-style:none}\nbody.journal-article .channel-records h3 {font:600 1.02rem/1.45 Arial,Helvetica,sans-serif;margin:0 0 .4rem}\nbody.journal-article .channel-records p {margin:.5rem 0 0}\nbody.journal-article .article-grid article .channel-decision {border-left:3px solid #527087;padding:.85rem 1rem;background:#eaf0f3}\nbody.journal-article .optional-workbook {border:1px solid #b9c5cd;padding:1rem;border-radius:.4rem}\nbody.journal-article .optional-workbook>summary {font:600 1rem/1.5 Arial,Helvetica,sans-serif;cursor:pointer;color:#14212b}\nbody.journal-article .optional-workbook>summary:focus-visible {outline:3px solid #356781;outline-offset:4px}\nbody.journal-article .optional-workbook[open]>summary {margin-bottom:1rem}\nbody.journal-article .optional-workbook .worksheet-actions .button.secondary {color:#14212b;background:#fff;border:1px solid #8a979f;border-radius:3px;box-shadow:none;min-height:44px;font-weight:500}\nbody.journal-article .optional-workbook .worksheet-actions .button.secondary:hover {background:#edf2f5;color:#14212b}\nbody.journal-article .optional-workbook .worksheet-actions .button:focus-visible {outline:3px solid #356781;outline-offset:3px}\n\nbody.journal-article .channel-source-note {font-size:.95rem}\nbody.journal-article #sources .source-reference {overflow-wrap:anywhere;word-break:normal}\n@media(max-width:600px){body.journal-article .channel-cohorts{grid-template-columns:1fr}}\n</style>"
+        },
+        {
+          "start": 10587,
+          "end": 10587,
+          "old": "",
+          "new": "<a class=\"secondary\" href=\"#worked-meeting-costs\">Consulta les comparacions pràctiques</a>"
+        },
+        {
+          "start": 11417,
+          "end": 11417,
+          "old": "",
+          "new": "<a href=\"#worked-meeting-costs\">Compara una cohort amb les mateixes definicions</a>"
+        },
+        {
+          "start": 11575,
+          "end": 11575,
+          "old": "",
+          "new": "</a><a href=\"#worked-meeting-records\">Segueix tres compradors des del primer contacte fins a la reunió"
+        },
+        {
+          "start": 12352,
+          "end": 12352,
+          "old": "",
+          "new": "<a href=\"#worked-meeting-costs\">Compara una cohort amb les mateixes definicions</a>"
+        },
+        {
+          "start": 12510,
+          "end": 12510,
+          "old": "",
+          "new": "</a><a href=\"#worked-meeting-records\">Segueix tres compradors des del primer contacte fins a la reunió"
+        },
+        {
+          "start": 13956,
+          "end": 13956,
+          "old": "",
+          "new": "<details class=\"optional-workbook\" id=\"optional-acquisition-workbook\"><summary>Obre la fitxa opcional d’adquisició</summary><p>Revisa primer els casos complets i després anota les teves proves. La fitxa es queda en aquesta pestanya del navegador.</p>"
+        },
+        {
+          "start": 23179,
+          "end": 23179,
+          "old": "",
+          "new": "</details>"
+        },
+        {
+          "start": 25058,
+          "end": 25257,
+          "old": "<p>Porta la teva oferta, el comprador, les dades actuals de captació i l'economia comercial. Identificarem la prova mínima útil de Google Ads, SEO o visibilitat en IA i l'evidència que ha de produir.",
+          "new": "<p>Porta la teva oferta, els perfils de comprador i les dades sobre l’origen dels contactes. Identificarem la següent prova útil d’outbound, inbound o una combinació i acordarem què justificaria continuar-la."
+        },
+        {
+          "start": 27083,
+          "end": 27083,
+          "old": "",
+          "new": "<section id=\"worked-meeting-costs\" class=\"channel-case\"><h2>Compara una cohort amb les mateixes definicions</h2><p>Exemple fictici en USD. Tots dos equips compten les reserves originals creades durant els mateixos 28 dies i esperen fins a la data de revisió acordada per comprovar assistència i qualificació. Els costos inclouen la feina i les eines assignades a aquella cohort. Són supòsits de planificació, no preus de Beespoke ni referències del mercat.</p><div class=\"channel-cohorts\"><div><h3>Cohort d’outbound</h3><dl><div><dt>Cost assignat</dt><dd>2.400</dd></div><div><dt>Reserves originals</dt><dd>8</dd></div><div><dt>Reunions celebrades</dt><dd>6</dd></div><div><dt>Reunions celebrades i qualificades</dt><dd>4</dd></div><div><dt>Oportunitats acceptades per vendes</dt><dd>1</dd></div><div><dt>Cost per reunió celebrada i qualificada</dt><dd>600</dd></div></dl></div><div><h3>Cohort d’inbound</h3><dl><div><dt>Cost assignat</dt><dd>2.100</dd></div><div><dt>Reserves originals</dt><dd>6</dd></div><div><dt>Reunions celebrades</dt><dd>5</dd></div><div><dt>Reunions celebrades i qualificades</dt><dd>3</dd></div><div><dt>Oportunitats acceptades per vendes</dt><dd>1</dd></div><div><dt>Cost per reunió celebrada i qualificada</dt><dd>700</dd></div></dl></div></div><p class=\"channel-decision\">2.400 USD ÷ 4 = 600 USD. 2.100 USD ÷ 3 = 700 USD. La xifra més baixa no basta per decidir. Revisa els compradors, les proves de qualificació, la capacitat comercial i la incògnita que ha de resoldre la prova següent. Si una cohort té zero reunions celebrades i qualificades, mostra la despesa i el resultat zero, i deixa sense calcular aquell cost unitari.</p><p>Compta un sol cop la gestió, el contingut o la recerca, les eines i les dades, els mitjans quan calgui i el temps comercial del client. Anota com reparteixes la feina compartida. Una pàgina pot servir a cohorts futures i la recerca d’outbound també es pot reutilitzar. Concilia la despesa del període observat i presenta per separat qualsevol repartiment. Mantén obertes les reunions pendents i compara oportunitats amb un seguiment equivalent.</p></section>"
+        },
+        {
+          "start": 27205,
+          "end": 27404,
+          "old": "<p>Porta la teva oferta, el comprador, les dades actuals de captació i l'economia comercial. Identificarem la prova mínima útil de Google Ads, SEO o visibilitat en IA i l'evidència que ha de produir.",
+          "new": "<p>Porta la teva oferta, els perfils de comprador i les dades sobre l’origen dels contactes. Identificarem la següent prova útil d’outbound, inbound o una combinació i acordarem què justificaria continuar-la."
+        },
+        {
+          "start": 29851,
+          "end": 29851,
+          "old": "",
+          "new": "<section id=\"worked-meeting-records\" class=\"channel-case\"><h2>Segueix tres compradors des del primer contacte fins a la reunió</h2><p>Aquests tres registres ficticis mostren com comptar adquisició i assistència sense crear una segona reserva. Conserva la identitat original quan es canviï l’hora. La prova del primer contacte pot ser diferent de la darrera visita web registrada.</p><ol class=\"channel-records\"><li><h3>B01 · Origen outbound</h3><p>Un contacte va respondre a un correu en fred, va llegir aquesta comparació i va reservar una reunió.</p><p>Compta una reunió celebrada i qualificada amb origen outbound. Anota la comparació com a suport del web.</p></li><li><h3>B02 · Origen inbound</h3><p>Un comprador va trobar el servei en una cerca, va fer una consulta i va rebre seguiment comercial.</p><p>Compta una reunió celebrada i qualificada amb origen inbound. Anota el seguiment com a suport.</p></li><li><h3>B03 · Origen desconegut</h3><p>El primer contacte no està verificat. Consta una visita a una guia i la reunió es va reprogramar.</p><p>Mantén l’origen desconegut i la reunió pendent fins que se celebri i es qualifiqui. El nou horari conserva la identitat de la reserva original.</p></li></ol><p>Reuneix en un mateix registre la data original de reserva, la prova de l’origen, els contactes posteriors, l’assistència i la decisió de qualificació. Si Analytics atribueix el darrer contacte a un altre canal, conserva totes dues dades i les seves definicions. Una reserva aconseguida per outbound amb suport del web pot tenir valor comercial sense comptar com un lead adquirit de manera independent pel web.</p></section>"
+        },
+        {
+          "start": 30596,
+          "end": 30596,
+          "old": "",
+          "new": "<h3>Defineix una decisió que algú pugui prendre</h3><ol><li><strong>Abans de començar.</strong> El client aprova els criteris d’empresa i de càrrec. Identifica qui valida l’oferta, autoritza l’execució i atén les respostes amb interès.</li><li><strong>Durant la prova.</strong> L’operador revisa la segmentació, la pertinència del missatge i les respostes. En inbound, comprova que el comprador previst entén el servei i pot fer el pas següent. Pausa la feina afectada si falla una condició necessària.</li><li><strong>A la revisió.</strong> El responsable comercial concilia les reserves originals i les proves de qualificació. Anota si es continua, es canvia o es deixa en espera, juntament amb el motiu, el responsable i la següent data de revisió.</li></ol>"
+        },
+        {
+          "start": 33331,
+          "end": 33678,
+          "old": "<p>Les pàgines enllaçades dels autors permeten comparar mètodes. La fitxa, regles i exemples són ajudes de planificació de Beespoke. Empreses, xifres i resultats d’exemple són ficticis; no són resultats de clients, referències universals ni promeses de rànquing. Fonts revisades el 27 d’octubre de 2026. Fonts revisades el 27–28 d’octubre de 2026.",
+          "new": "<p>Les pàgines enllaçades dels autors permeten comparar mètodes. La fitxa, regles i exemples són ajudes de planificació de Beespoke. Empreses, xifres i resultats d’exemple són ficticis; no són resultats de clients, referències universals ni promeses de rànquing. Referències originals revisades el 27–28 d’octubre de 2026."
+        },
+        {
+          "start": 33690,
+          "end": 33845,
+          "old": "<a href=\"https://www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities\">Blend: inbound versus outbound lead generation</a>",
+          "new": "<span class=\"source-reference\">Blend: inbound versus outbound lead generation (www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities)</span>"
+        },
+        {
+          "start": 33854,
+          "end": 33974,
+          "old": "<a href=\"https://blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads\">Thomas: inbound versus outbound leads</a>",
+          "new": "<span class=\"source-reference\">Thomas: inbound versus outbound leads (blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads)</span>"
+        },
+        {
+          "start": 34054,
+          "end": 34054,
+          "old": "",
+          "new": "<p class=\"channel-source-note\">Referències addicionals sobre mètodes i mesura revisades el 5 de novembre de 2026. Aquesta revisió afegeix exemples ficticis de costos i atribució. Les fonts descriuen els seus propis mètodes i context. Les seves xifres de resultats no estableixen una taxa de conversió, un repartiment de pressupost ni un termini universal per a la teva empresa.</p><ul><li><span class=\"source-reference\">SalesIntel — Inbound vs. Outbound Lead Generation (salesintel.io/blog/inbound-vs-outbound-lead-generation/)</span></li><li><span class=\"source-reference\">TAMI — Inbound vs Outbound Marketing (tami.ai/blog/inbound-outbound-marketing/)</span></li><li><span class=\"source-reference\">OTM — Prospecting Channel Mix for Professional Services (meetotm.com/outbound-inbound-channel-mix-professional-services/)</span></li><li><span class=\"source-reference\">Apollo — Inbound Marketing Lead Generation (apollo.io/insights/how-can-i-generate-more-leads-using-inbound-marketing-strategies)</span></li></ul>"
+        },
+        {
+          "start": 35341,
+          "end": 35577,
+          "old": "<p>Porta la teva oferta, el comprador, les dades actuals de captació i el procés comercial. Identificarem si la cerca de pagament, la cerca orgànica, la visibilitat en IA, l'outbound o una combinació focalitzada mereix la prova següent.",
+          "new": "<p>Porta la teva oferta, els perfils de comprador i les dades sobre l’origen dels contactes. Identificarem la següent prova útil d’outbound, inbound o una combinació i acordarem què justificaria continuar-la."
+        },
+        {
+          "start": 35867,
+          "end": 35867,
+          "old": "",
+          "new": "<script id=\"optional-acquisition-workbook-behavior\">document.addEventListener('click',function(event){var link=event.target.closest('a[href=\"#buyer-worksheet\"]');if(link){var workbook=document.getElementById('optional-acquisition-workbook');if(workbook)workbook.open=true;}});</script>"
+        }
+      ]
+    },
+    "fr": {
+      "path": "fr/compare/inbound-vs-outbound-lead-generation/index.html",
+      "originalSha256": "f9e42957104aa6f145c7051e61ee55189c6354eb40205b6acf122588867fd845",
+      "reviewedSha256": "fb1d95a830454b8bf96ec08d11fba8029c0fe2860c0fc9efe30db9a7c006eb52",
+      "changes": [
+        {
+          "start": 8644,
+          "end": 8644,
+          "old": "",
+          "new": "<style id=\"channel-comparison-review\">\nbody.journal-article .article-grid article .channel-case {box-sizing:border-box; padding:clamp(.8rem,2.5vw,1.7rem); margin:1.8rem 0; border:1px solid #d6e0e5; border-radius:.65rem; background:#f6f9fa; color:#14212b}\nbody.journal-article .article-grid article .channel-case h2 {margin-top:0}\nbody.journal-article .channel-cohorts {display:grid; grid-template-columns:1fr 1fr; gap:1rem; margin:1rem 0}\nbody.journal-article .channel-cohorts>div,body.journal-article .channel-records>li {min-width:0;padding:1rem; background:#fff; border:1px solid #d6e0e5;border-radius:.45rem}\nbody.journal-article .channel-cohorts h3 {font:600 1.1rem/1.4 Arial,Helvetica,sans-serif;margin:0 0 .65rem;color:#14212b}\nbody.journal-article .channel-cohorts dl {display:grid;gap:.6rem;margin:0}\nbody.journal-article .channel-cohorts dl>div {display:grid;grid-template-columns:minmax(0,1fr) 4.6rem;gap:.6rem;border-bottom:1px solid #e4e9ec;padding-bottom:.5rem}\nbody.journal-article .channel-cohorts dt,body.journal-article .channel-cohorts dd {font-size:.94rem;line-height:1.45;margin:0}\nbody.journal-article .channel-cohorts dd {text-align:end;font-weight:700;font-variant-numeric:tabular-nums}\nbody.journal-article .channel-cohorts dl>div:last-child {border-bottom:0}\nbody.journal-article .channel-records {display:grid;gap:.8rem;list-style:none;padding:0;margin:1.2rem 0}\nbody.journal-article .channel-records>li {margin:0;list-style:none}\nbody.journal-article .channel-records h3 {font:600 1.02rem/1.45 Arial,Helvetica,sans-serif;margin:0 0 .4rem}\nbody.journal-article .channel-records p {margin:.5rem 0 0}\nbody.journal-article .article-grid article .channel-decision {border-left:3px solid #527087;padding:.85rem 1rem;background:#eaf0f3}\nbody.journal-article .optional-workbook {border:1px solid #b9c5cd;padding:1rem;border-radius:.4rem}\nbody.journal-article .optional-workbook>summary {font:600 1rem/1.5 Arial,Helvetica,sans-serif;cursor:pointer;color:#14212b}\nbody.journal-article .optional-workbook>summary:focus-visible {outline:3px solid #356781;outline-offset:4px}\nbody.journal-article .optional-workbook[open]>summary {margin-bottom:1rem}\nbody.journal-article .optional-workbook .worksheet-actions .button.secondary {color:#14212b;background:#fff;border:1px solid #8a979f;border-radius:3px;box-shadow:none;min-height:44px;font-weight:500}\nbody.journal-article .optional-workbook .worksheet-actions .button.secondary:hover {background:#edf2f5;color:#14212b}\nbody.journal-article .optional-workbook .worksheet-actions .button:focus-visible {outline:3px solid #356781;outline-offset:3px}\n\nbody.journal-article .channel-source-note {font-size:.95rem}\nbody.journal-article #sources .source-reference {overflow-wrap:anywhere;word-break:normal}\n@media(max-width:600px){body.journal-article .channel-cohorts{grid-template-columns:1fr}}\n</style>"
+        },
+        {
+          "start": 10981,
+          "end": 10981,
+          "old": "",
+          "new": "<a class=\"secondary\" href=\"#worked-meeting-costs\">Voir les comparaisons pratiques</a>"
+        },
+        {
+          "start": 11836,
+          "end": 11836,
+          "old": "",
+          "new": "<a href=\"#worked-meeting-costs\">Comparez une cohorte avec les mêmes définitions</a>"
+        },
+        {
+          "start": 11999,
+          "end": 11999,
+          "old": "",
+          "new": "</a><a href=\"#worked-meeting-records\">Suivez trois acheteurs du premier contact au rendez-vous"
+        },
+        {
+          "start": 12819,
+          "end": 12819,
+          "old": "",
+          "new": "<a href=\"#worked-meeting-costs\">Comparez une cohorte avec les mêmes définitions</a>"
+        },
+        {
+          "start": 12982,
+          "end": 12982,
+          "old": "",
+          "new": "</a><a href=\"#worked-meeting-records\">Suivez trois acheteurs du premier contact au rendez-vous"
+        },
+        {
+          "start": 14498,
+          "end": 14498,
+          "old": "",
+          "new": "<details class=\"optional-workbook\" id=\"optional-acquisition-workbook\"><summary>Ouvrir la grille d’acquisition facultative</summary><p>Consultez d’abord les cas remplis, puis consignez vos propres éléments. La grille reste dans cet onglet du navigateur.</p>"
+        },
+        {
+          "start": 23874,
+          "end": 23874,
+          "old": "",
+          "new": "</details>"
+        },
+        {
+          "start": 25896,
+          "end": 26132,
+          "old": "<p>Apportez votre offre, votre cible, vos données d'acquisition actuelles et votre modèle économique commercial. Nous identifierons le plus petit test utile de Google Ads, SEO ou visibilité IA, ainsi que les preuves qu'il doit produire.",
+          "new": "<p>Venez avec votre offre, vos profils d’acheteurs et les données sur l’origine de vos contacts. Nous définirons le prochain test utile, outbound, inbound ou combiné, puis les conditions qui justifieraient sa poursuite."
+        },
+        {
+          "start": 28116,
+          "end": 28116,
+          "old": "",
+          "new": "<section id=\"worked-meeting-costs\" class=\"channel-case\"><h2>Comparez une cohorte avec les mêmes définitions</h2><p>Exemple fictif en USD. Les deux équipes comptent les réservations d’origine créées sur les mêmes 28 jours, puis attendent la date de bilan convenue pour vérifier la présence et la qualification. Les coûts comprennent le travail et les outils affectés à cette cohorte. Ce sont des hypothèses de planification, pas des tarifs Beespoke ni des références de marché.</p><div class=\"channel-cohorts\"><div><h3>Cohorte outbound</h3><dl><div><dt>Coût affecté</dt><dd>2 400</dd></div><div><dt>Réservations d’origine</dt><dd>8</dd></div><div><dt>Rendez-vous tenus</dt><dd>6</dd></div><div><dt>Rendez-vous tenus et qualifiés</dt><dd>4</dd></div><div><dt>Opportunités acceptées par les ventes</dt><dd>1</dd></div><div><dt>Coût par rendez-vous tenu et qualifié</dt><dd>600</dd></div></dl></div><div><h3>Cohorte inbound</h3><dl><div><dt>Coût affecté</dt><dd>2 100</dd></div><div><dt>Réservations d’origine</dt><dd>6</dd></div><div><dt>Rendez-vous tenus</dt><dd>5</dd></div><div><dt>Rendez-vous tenus et qualifiés</dt><dd>3</dd></div><div><dt>Opportunités acceptées par les ventes</dt><dd>1</dd></div><div><dt>Coût par rendez-vous tenu et qualifié</dt><dd>700</dd></div></dl></div></div><p class=\"channel-decision\">2 400 USD ÷ 4 = 600 USD. 2 100 USD ÷ 3 = 700 USD. Le montant le plus faible ne suffit pas pour trancher. Examinez les acheteurs, les justificatifs de qualification, la capacité commerciale et l’incertitude que le prochain test doit lever. Si une cohorte compte zéro rendez-vous tenu et qualifié, indiquez la dépense et ce résultat nul, puis laissez ce coût unitaire indéfini.</p><p>Comptez une seule fois la gestion, le contenu ou la recherche, les outils et données, les médias le cas échéant et le temps commercial du client. Notez comment vous répartissez le travail commun. Une page peut servir à des cohortes futures et la recherche outbound peut aussi être réutilisée. Rapprochez les dépenses du périmètre observé et présentez toute répartition séparément. Gardez les rendez-vous en attente ouverts et comparez les opportunités après un suivi équivalent.</p></section>"
+        },
+        {
+          "start": 28239,
+          "end": 28475,
+          "old": "<p>Apportez votre offre, votre cible, vos données d'acquisition actuelles et votre modèle économique commercial. Nous identifierons le plus petit test utile de Google Ads, SEO ou visibilité IA, ainsi que les preuves qu'il doit produire.",
+          "new": "<p>Venez avec votre offre, vos profils d’acheteurs et les données sur l’origine de vos contacts. Nous définirons le prochain test utile, outbound, inbound ou combiné, puis les conditions qui justifieraient sa poursuite."
+        },
+        {
+          "start": 31012,
+          "end": 31012,
+          "old": "",
+          "new": "<section id=\"worked-meeting-records\" class=\"channel-case\"><h2>Suivez trois acheteurs du premier contact au rendez-vous</h2><p>Ces trois fiches fictives montrent comment compter l’acquisition et les interactions d’appui sans créer une seconde réservation. Conservez l’identité d’origine quand le créneau change. La preuve du premier contact peut différer de la dernière visite enregistrée sur le site.</p><ol class=\"channel-records\"><li><h3>B01 · Origine outbound</h3><p>Un prospect répond à un e-mail à froid, lit cette comparaison puis réserve.</p><p>Comptez un rendez-vous tenu et qualifié d’origine outbound. Notez la comparaison comme un appui du site.</p></li><li><h3>B02 · Origine inbound</h3><p>Un acheteur trouve le service par une recherche, envoie une demande puis reçoit un suivi commercial.</p><p>Comptez un rendez-vous tenu et qualifié d’origine inbound. Notez le suivi commercial comme un appui.</p></li><li><h3>B03 · Origine inconnue</h3><p>Le premier contact n’est pas vérifié. Une visite de guide est connue et le rendez-vous a été reporté.</p><p>Gardez l’origine inconnue et le rendez-vous en attente jusqu’à sa tenue et sa qualification. Le nouveau créneau conserve l’identité de la réservation d’origine.</p></li></ol><p>Réunissez dans une même fiche la date de réservation d’origine, la preuve de la source, les échanges ultérieurs, la présence et la décision de qualification. Si Analytics attribue le dernier contact à un autre canal, conservez les deux observations et leurs définitions. Une réservation obtenue par outbound avec l’appui du site peut avoir une valeur commerciale sans compter comme un lead acquis indépendamment par le site.</p></section>"
+        },
+        {
+          "start": 31820,
+          "end": 31820,
+          "old": "",
+          "new": "<h3>Définissez une décision que quelqu’un puisse prendre</h3><ol><li><strong>Avant le lancement.</strong> Le client valide les critères d’entreprise et de fonction. Désignez qui valide l’offre, autorise l’exécution et traite les réponses intéressées.</li><li><strong>Pendant le test.</strong> L’opérateur vérifie le ciblage, la pertinence du message et les réponses. Pour l’inbound, vérifiez que l’acheteur visé comprend la prestation et peut passer à l’étape suivante. Suspendez le travail concerné si une condition indispensable échoue.</li><li><strong>Lors du bilan.</strong> Le responsable commercial rapproche les réservations d’origine et les justificatifs de qualification. Consignez la décision de poursuivre, modifier ou mettre en attente, le motif, le responsable et la prochaine date de bilan.</li></ol>"
+        },
+        {
+          "start": 34893,
+          "end": 35246,
+          "old": "<p>Les pages des éditeurs liés éclairent la comparaison des méthodes. La fiche, les règles et exemples sont des aides de préparation de Beespoke. Entreprises, chiffres et résultats d’exemple sont fictifs ; aucun résultat client, référence universelle ou classement promis. Sources examinées le 27 octobre 2026. Sources consultées les 27–28 octobre 2026.",
+          "new": "<p>Les pages des éditeurs liés éclairent la comparaison des méthodes. La fiche, les règles et exemples sont des aides de préparation de Beespoke. Entreprises, chiffres et résultats d’exemple sont fictifs ; aucun résultat client, référence universelle ou classement promis. Références initiales consultées les 27–28 octobre 2026."
+        },
+        {
+          "start": 35258,
+          "end": 35413,
+          "old": "<a href=\"https://www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities\">Blend: inbound versus outbound lead generation</a>",
+          "new": "<span class=\"source-reference\">Blend: inbound versus outbound lead generation (www.blendb2b.com/blog/inbound-vs-outbound-lead-generation-differences-and-similarities)</span>"
+        },
+        {
+          "start": 35422,
+          "end": 35542,
+          "old": "<a href=\"https://blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads\">Thomas: inbound versus outbound leads</a>",
+          "new": "<span class=\"source-reference\">Thomas: inbound versus outbound leads (blog.thomasnet.com/lead-generation/inbound-vs-outbound-leads)</span>"
+        },
+        {
+          "start": 35622,
+          "end": 35622,
+          "old": "",
+          "new": "<p class=\"channel-source-note\">Références complémentaires sur les méthodes et la mesure consultées le 5 novembre 2026. Cette révision ajoute des exemples fictifs de coûts et d’attribution. Les sources décrivent leurs propres méthodes et contextes. Leurs résultats ne fixent ni un taux de conversion, ni une répartition budgétaire, ni un délai universel pour votre entreprise.</p><ul><li><span class=\"source-reference\">SalesIntel — Inbound vs. Outbound Lead Generation (salesintel.io/blog/inbound-vs-outbound-lead-generation/)</span></li><li><span class=\"source-reference\">TAMI — Inbound vs Outbound Marketing (tami.ai/blog/inbound-outbound-marketing/)</span></li><li><span class=\"source-reference\">OTM — Prospecting Channel Mix for Professional Services (meetotm.com/outbound-inbound-channel-mix-professional-services/)</span></li><li><span class=\"source-reference\">Apollo — Inbound Marketing Lead Generation (apollo.io/insights/how-can-i-generate-more-leads-using-inbound-marketing-strategies)</span></li></ul>"
+        },
+        {
+          "start": 36929,
+          "end": 37183,
+          "old": "<p>Apportez votre offre, votre cible, vos données d'acquisition actuelles et votre processus commercial. Nous déterminerons si la recherche payante, le référencement naturel, la visibilité IA, l'outbound ou une combinaison ciblée mérite le prochain test.",
+          "new": "<p>Venez avec votre offre, vos profils d’acheteurs et les données sur l’origine de vos contacts. Nous définirons le prochain test utile, outbound, inbound ou combiné, puis les conditions qui justifieraient sa poursuite."
+        },
+        {
+          "start": 37484,
+          "end": 37484,
+          "old": "",
+          "new": "<script id=\"optional-acquisition-workbook-behavior\">document.addEventListener('click',function(event){var link=event.target.closest('a[href=\"#buyer-worksheet\"]');if(link){var workbook=document.getElementById('optional-acquisition-workbook');if(workbook)workbook.open=true;}});</script>"
+        }
+      ]
+    }
+  }
+}
