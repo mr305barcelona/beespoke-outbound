@@ -52,6 +52,9 @@ for(const row of require('../data/editorial-reviewed-2026-10-19.json').filter(r=
  for(const file of row.pages){const html=fs.readFileSync(path.join(root,file),'utf8');
   if (/^(?:es|ca|fr)\/guides\/b2b-lead-generation-consultant-vs-agency\/index\.html$/.test(file)) {
    assert(html.includes('data-model-config'),file+': full localized replacement missing');
+  } else if(file==='fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html' && !row.structuredOnly) {
+   assert(html.includes('id="sdr-augmentation-review"') && html.includes('Quand le renfort externe convient'),file+': complete reviewed French replacement missing');
+   assert(!html.includes('à le renfort'),file+': uncontracted French article remains');
   } else {
    assert(html.includes(esc(row.after)),file+': reviewed grammar missing');
   }

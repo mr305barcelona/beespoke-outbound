@@ -1,0 +1,1732 @@
+{
+  "date": "2026-11-05",
+  "revision": "2026-11-05T16:45:34+00:00",
+  "en": {
+    "answer": "Choose SDR staff augmentation when you have a capable internal manager, a usable prospecting process and a clear capacity gap. Choose managed SDR outsourcing when you need a provider to coordinate an agreed prospecting system. Both still need a client owner for buyer fit, commercial decisions and sales. Compare the actual responsibility map, management time, capacity, access and handover; a provider’s label does not settle those questions.",
+    "jump": "See who owns each task",
+    "dateLabel": "November 5, 2026",
+    "fiction": "All situations, messages, time budgets and records below are invented for planning. They are not Beespoke or customer results.",
+    "sourceTitle": "Sources and limits",
+    "sourceNote": "Reviewed November 5, 2026. The sales-specific TopLead comparison and the broader staffing and engineering guides below informed the questions about management, scope, cost and transition. Engineering examples are adjacent evidence, not SDR benchmarks. Provider claims about price, speed, savings and results are not adopted here. The examples and responsibility checks are our own illustrative work; neither model guarantees meetings or revenue.",
+    "sections": [
+      {
+        "id": "start-with-responsibility-not-headcount",
+        "title": "Start with responsibility, not headcount",
+        "p": [
+          "Staff augmentation adds external people to work under your team’s direction. Managed SDR outsourcing gives a provider responsibility for the prospecting work agreed in the contract. SDR means sales development representative; here the work is researching suitable buyers, starting relevant conversations and handing accepted conversations to sales.",
+          "A named SDR, a shared delivery team, a fractional role and a managed campaign describe different things. Ask what capacity is reserved, who directs it and what work is included. Billing by the hour or by retainer does not by itself tell you the operating model."
+        ],
+        "headers": [
+          "Question",
+          "Staff augmentation",
+          "Managed SDR outsourcing"
+        ],
+        "rows": [
+          [
+            "Daily direction",
+            "Your internal manager sets priorities and reviews the person’s work.",
+            "The provider directs its agreed delivery work; the client governs fit, claims and acceptance."
+          ],
+          [
+            "System",
+            "Your team supplies or directs the playbook, tools and quality controls.",
+            "The provider may build or operate the agreed process; inspect the scope."
+          ],
+          [
+            "Capacity",
+            "Confirm the person, skills, hours, availability and competing assignments.",
+            "Confirm deliverables and capacity limits; a campaign is not automatically a full-time seat."
+          ],
+          [
+            "Tools and data",
+            "Confirm access and who pays; do not assume the client stack is ready.",
+            "Confirm what is included or extra; a managed label does not include every subscription."
+          ],
+          [
+            "Knowledge",
+            "Internal working records still need documentation and handover.",
+            "Require accessible records and transferable learning; it need not remain a black box."
+          ],
+          [
+            "Risk",
+            "Your management process and the supplier’s staffing obligations both matter.",
+            "The provider owns agreed delivery obligations; your offer, sales decisions and revenue risk remain yours."
+          ]
+        ]
+      },
+      {
+        "id": "sdr-model-responsibility-test",
+        "title": "Keep the three responsibility questions",
+        "p": [
+          "Answer for the people and time available now. Do not award points for a future org chart."
+        ],
+        "dl": [
+          [
+            "Who can manage daily work?",
+            "Augmentation needs someone able to coach, review decisions and unblock the SDR. A manager’s job title is not evidence of spare capacity."
+          ],
+          [
+            "Who owns a usable system?",
+            "Locate the approved audience, exclusions, message examples, tools, reply rules and reporting definitions. If they are missing, agree who builds them before adding volume."
+          ],
+          [
+            "Who turns evidence into decisions?",
+            "Both models need a client owner who can judge buyer fit, resolve claims and accept handoffs. A provider can run delivery; it cannot replace your commercial judgment."
+          ]
+        ],
+        "after": [
+          "If the answers are split, map a hybrid arrangement task by task. If nobody can own the client decisions, resolve that first. There is no useful total score that makes a missing owner disappear."
+        ]
+      },
+      {
+        "id": "sa-responsibility-map",
+        "title": "Put one owner beside every task",
+        "p": [
+          "Illustrative allocation for the same brief: research one agreed B2B audience, write relevant individual messages, run authorised email and/or LinkedIn activity, handle replies and transfer suitable conversations. Adapt it to the written agreement. The client sales owner is different from the person managing daily SDR work."
+        ],
+        "headers": [
+          "Task",
+          "Augmented arrangement",
+          "Managed arrangement"
+        ],
+        "rows": [
+          [
+            "Audience and exclusions",
+            "Client commercial owner approves fit; SDR researches under the internal manager.",
+            "Client commercial owner approves fit; provider researches and documents its decisions."
+          ],
+          [
+            "Message and evidence review",
+            "Internal manager reviews; client resolves product claims.",
+            "Provider reviews delivery quality; client resolves product claims and agreed approvals."
+          ],
+          [
+            "Execution and permissions",
+            "Internal manager owns readiness and authorisation; SDR performs permitted activity.",
+            "Provider owns readiness for its scope; execution still requires the client’s authorisation."
+          ],
+          [
+            "Replies and exceptions",
+            "SDR handles agreed replies; internal manager resolves operational exceptions.",
+            "Provider handles agreed replies and operational exceptions; expert questions go to the client."
+          ],
+          [
+            "Sales handoff",
+            "Internal manager checks context; client sales owner accepts or rejects with reasons.",
+            "Provider supplies context; client sales owner accepts or rejects with reasons."
+          ],
+          [
+            "Reporting and learning",
+            "Internal manager reconciles records; client decides commercial changes.",
+            "Provider reconciles agreed records; client decides commercial changes."
+          ],
+          [
+            "Absence and replacement",
+            "Supplier confirms staffing obligations; internal manager owns continuity of the workflow.",
+            "Provider confirms actual coverage and continuity; shared specialists are not automatic backup."
+          ]
+        ],
+        "after": [
+          "Name the people or roles, approval route and escalation window before launch. Shared work still needs one person accountable for completing each decision. Record unresolved responsibilities as gaps, not as ‘joint ownership’."
+        ]
+      },
+      {
+        "id": "sa-management-time",
+        "title": "Check management time with a real weekly budget",
+        "p": [
+          "Fictional augmentation plan: an internal manager has 360 minutes a week available after other commitments. Coaching takes 120, list and message review 90, reply exceptions 90 and the reporting review 60. Total: 360 minutes, with no reserve. An extra 60 minutes of onboarding takes the requirement to 420: a 60-minute gap.",
+          "These are invented workload assumptions, not industry averages or a recommendation for every team. Recalculate for actual tasks and available people. In managed outsourcing, estimate the client’s fit approvals, expert answers, review and sales work too; the requirement is not zero."
+        ],
+        "dl": [
+          [
+            "If the budget does not fit",
+            "Reduce or reassign the agreed work, add capable management or compare a managed scope. Do not assume more SDRs will fix the bottleneck."
+          ],
+          [
+            "If hours are unknown",
+            "Ask the responsible person to estimate a normal week and an exception week. Keep uncertainty visible; do not enter zero."
+          ],
+          [
+            "If the manager is absent",
+            "Identify who can make decisions and whether activity should pause. A time budget is useful only if its owner is actually available."
+          ]
+        ]
+      },
+      {
+        "id": "use-staff-augmentation-when-management-is-a-strength",
+        "title": "When augmentation fits",
+        "p": [
+          "Choose augmentation when the remaining gap is people or a specific skill inside a process you can already direct. A changing market does not automatically require augmentation: it requires someone capable of interpreting evidence and changing the work."
+        ],
+        "ul": [
+          "A named internal manager has time and authority to review work.",
+          "Audience fit, exclusions, message quality and qualification are usable, not just written down.",
+          "Tools, permissions, onboarding and the receiving sales workflow are ready.",
+          "The assigned person’s relevant judgment, availability and replacement terms have been checked."
+        ],
+        "case": [
+          "Fictional decision: add capacity",
+          "A technical service business already has an outbound manager, a reviewed audience and a working reply-to-sales process. Its backlog is verified accounts waiting for research and individual messages. An augmented SDR may fit. If the manager loses review time or the backlog turns out to be poor-fit accounts, stop and reassess; the capacity case no longer holds."
+        ]
+      },
+      {
+        "id": "use-managed-outsourcing-when-the-system-is-the-gap",
+        "title": "When managed delivery fits — and when neither fits",
+        "p": [
+          "A managed arrangement can fit a credible offer with a client sales owner when the missing capability is coordinating research, messages, authorised activity, replies and reporting. Agree what the provider builds, what it operates and what evidence the client can inspect. Managed delivery need not mean hidden work or guaranteed pipeline."
+        ],
+        "case": [
+          "Fictional decision: buy coordinated work",
+          "A specialist advisory business can explain its offer and support its claims, but nobody internally can direct daily prospecting. It compares managed scopes that include research through reply handling, rather than buying a seat and hoping management appears. If expert questions cannot be answered or sales cannot receive the conversations, resolve those dependencies before launch."
+        ],
+        "after": [
+          "Third outcome: choose neither yet. If the offer, permitted proof, buyer fit or receiving sales capacity is unresolved, first clarify that constraint. More activity cannot establish facts the business itself cannot support."
+        ],
+        "links": [
+          [
+            "/services/outsourced-sdr/",
+            "See the managed SDR service"
+          ],
+          [
+            "/guides/how-to-manage-an-outsourced-sdr-team/",
+            "Review the client management role"
+          ]
+        ]
+      },
+      {
+        "id": "compare-fully-loaded-cost-and-ramp",
+        "title": "Compare complete commitments, not unlike units",
+        "p": [
+          "A person-month and a managed campaign are different purchases. Put the same audience, channels, workstreams, acceptance criteria, currency and contract period beside both quotes. If one excludes replies or management, show the missing work before comparing totals."
+        ],
+        "dl": [
+          [
+            "Total cost to compare",
+            "External fees + separately charged setup, software and data + the agreed value of client management and support time + known onboarding, replacement and transition costs."
+          ],
+          [
+            "Count each item once",
+            "Included tools or management should not be added again. Keep shared costs separate from model-specific differences. Do not invent tax treatment or turn uncertain costs into zero."
+          ],
+          [
+            "Read the full commitment",
+            "Confirm minimum term, notice, reserved capacity, overages, exclusions, change approval and handover charges. An hourly rate is not a complete contract."
+          ],
+          [
+            "Handle uncertain outcomes honestly",
+            "Compare actual qualified and held meetings only with the same definition and period. Cost divided by a hypothetical meeting promise is not an observed acquisition cost. With zero verified meetings, do not present a finite cost per meeting."
+          ]
+        ],
+        "after": [
+          "Neither an SDR’s start date nor a supplier’s infrastructure proves time to useful pipeline. Agree readiness milestones and review evidence instead of importing another provider’s ramp or savings claims."
+        ],
+        "links": [
+          [
+            "/guides/outsourced-sdr-cost/",
+            "See the outsourced SDR cost guide"
+          ]
+        ]
+      },
+      {
+        "id": "sa-readiness",
+        "title": "Make readiness visible before activity starts",
+        "ol": [
+          "Confirm the commercial brief: audience, exclusions, offer, permitted proof, channels and who can answer expert questions.",
+          "Review a small research and message sample. Accept fit and reasoning, not just completed fields or polished language.",
+          "Demonstrate delegated access, exclusions, pause controls, reply ownership and the client’s booking and sales handoff using fictional records.",
+          "Agree the first review: what evidence will be available, who decides changes and which unresolved issues keep activity paused."
+        ],
+        "after": [
+          "These are acceptance gates, not a fixed launch timetable or an offer of a shorter contract. Approval of a sample is not blanket permission to change targeting, claims, channels or volume."
+        ]
+      },
+      {
+        "id": "sa-quality-example",
+        "title": "Review the same piece of work in both models",
+        "p": [
+          "Fictional situation: a suitable operations lead publicly asks how peers coordinate work across several sites. That is a reason to write, not proof that their team has a problem. Research should establish account and role fit, the public context and what remains unknown. Do not collect unnecessary personal details."
+        ],
+        "quotes": [
+          "Your question about coordinating several sites raises a practical trade-off: standardising the handover without adding another reporting task. We help operations teams document that handover. If it is useful, I can outline the checks we would start with."
+        ],
+        "after": [
+          "This example connects a specific public question to a relevant offer and leaves the need unconfirmed. Personalisation can also come from a relevant event, location, shared interest or role context; it need not be a company announcement. The connection must be real and appropriate, not a fabricated familiarity.",
+          "Ask the operator why this person fits, which sentence is supported and what they would do with a reply. A brief follow-up about four days later is an illustrative practice, not a compulsory cadence. Coordinate any later LinkedIn or separately scoped calling activity against the same contact record. In augmentation, the internal manager reviews these decisions; in managed delivery, the provider reviews them within the agreed controls."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Review individual message reasoning"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Review follow-up decisions"
+          ]
+        ]
+      },
+      {
+        "id": "sa-handoff",
+        "title": "Follow the reply through to sales acceptance",
+        "p": [
+          "Fictional reply: ‘I own the process, but our team is reviewing options next quarter. Please send an outline first.’ Record confirmed role, stated timing, requested next step and unanswered fit questions. This is a reply with a next step, not a booked meeting or a qualified opportunity.",
+          "The delivery owner sends only an authorised response and transfers context through the agreed client calendar or CRM workflow. The client sales owner accepts, rejects or requests clarification with a reason. Discovery, proposals and closing remain client responsibilities."
+        ],
+        "dl": [
+          [
+            "Activity and output",
+            "Research completed, messages sent and replies received describe different stages. Do not count every reply as positive demand."
+          ],
+          [
+            "Bookings and outcomes",
+            "Keep the original booking identity and original creation date. A reschedule updates the same booking; cancellation, held status, qualification and opportunity creation are separate fields."
+          ],
+          [
+            "Source evidence",
+            "Distinguish an outreach-originated conversation that later used the website from a lead acquired by the website. Keep unknown attribution unknown; a booking-page view alone proves neither origin nor completion."
+          ]
+        ],
+        "after": [
+          "Fictional reconciliation: two original bookings, one later rescheduled, one cancelled. That is two original bookings, not three. Held, qualified and opportunity counts remain unconfirmed until the receiving owner supplies evidence. The example predicts no meeting volume."
+        ]
+      },
+      {
+        "id": "protect-continuity-and-asset-ownership",
+        "title": "Test continuity and handover before you need them",
+        "p": [
+          "The model does not guarantee asset ownership, confidentiality or cover. Confirm permitted use of lists, research, messages, replies, CRM records, configurations and exports in the agreement. Check the actual assigned people and subcontracting arrangements; do not assume an agency has spare capacity or augmentation preserves knowledge automatically."
+        ],
+        "ol": [
+          "Using fictional records, ask the authorised owner to locate the current audience, exclusions, message version and last action.",
+          "Ask the proposed cover or replacement manager to explain how work is paused and which replies need attention. A name without access and context is not verified cover.",
+          "Have the receiving owner interpret the records and identify the next permitted action without sending anything.",
+          "Record gaps, remediation owner, coverage window, handover assistance and the process for removing access when responsibilities end."
+        ],
+        "after": [
+          "Use role-appropriate delegated access rather than shared passwords. Confirm confidentiality, data handling and the actual contracting and employment arrangements with the appropriate responsible advisers; the commercial label alone does not establish compliance or transfer every risk."
+        ]
+      },
+      {
+        "id": "use-a-staged-model-when-uncertainty-is-high",
+        "title": "Switch models when the receiving team is ready",
+        "p": [
+          "A managed arrangement can establish a documented workflow before internal management takes over; augmentation can also move to managed delivery if internal capacity changes. Neither transition is automatic after a set number of days."
+        ],
+        "ul": [
+          "The receiving manager can explain fit, exclusions, messaging, reply decisions and reporting definitions.",
+          "Campaign records and permitted assets can be used in the receiving tools, with access and ownership agreed.",
+          "A fictional handover demonstrates pause controls, exception handling, source records and sales acceptance.",
+          "The receiving team has time to run the work; transition effort, contract notice and unresolved gaps are explicit."
+        ],
+        "after": [
+          "Accept the handover against these checks, or keep the affected work paused until gaps are resolved. A document export alone does not prove operating capability."
+        ],
+        "links": [
+          [
+            "/compare/outsourced-sdr-vs-in-house-sdr/",
+            "Compare outsourced and in-house models"
+          ]
+        ]
+      },
+      {
+        "id": "sa-hybrid",
+        "title": "Keep a hybrid from contacting the same person twice",
+        "p": [
+          "A managed provider might handle one agreed segment while an augmented SDR works another under the internal manager. Assign one owner to the shared exclusions, contact history and sales acceptance. Separate channel lists are not enough if they contain the same people.",
+          "Before moving a contact between email, LinkedIn or a separately quoted calling workstream, check previous messages, replies, declines, current ownership and permission for the next step. If ownership conflicts, pause that contact. A hybrid adds coordination work; price and assign it explicitly."
+        ]
+      },
+      {
+        "id": "sa-beespoke",
+        "title": "Where Beespoke fits in this decision",
+        "p": [
+          "Beespoke provides founder-led managed cold email and/or cold LinkedIn campaigns within an agreed scope. Research, individual messages, authorised execution, replies, qualification and booking are coordinated against agreed criteria. The client provides judgment on buyer fit and approvals and owns discovery, proposals and closing.",
+          "This is not automatically a dedicated full-time SDR seat, a fixed headcount or a guaranteed meeting volume. Required software, data and third-party costs are separate unless included in writing. Cold calling is separately quoted by target market; native callers would be hired where appropriate. The founder supports English, Spanish, Catalan and French; that does not promise every third-party interface in those languages."
+        ],
+        "links": [
+          [
+            "/services/outsourced-sdr/",
+            "Check the current service scope"
+          ],
+          [
+            "/guides/outsourced-sdr-cost/",
+            "Review current pricing and commitments"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Take these questions into the proposal review",
+        "p": [
+          "Keep the answers beside the actual proposal. A missing answer is a follow-up task, not a reason to invent a score. The optional CSV contains these questions only; it requires no name, email or upload."
+        ],
+        "questions": [
+          [
+            "Management",
+            "Who directs daily work, and what time do they actually have?"
+          ],
+          [
+            "Scope and capacity",
+            "Which tasks, channels, hours or deliverables are included and excluded?"
+          ],
+          [
+            "Approvals",
+            "Who judges fit, resolves claims and authorises changes?"
+          ],
+          [
+            "Total commitment",
+            "Which fees, tools, client time, minimum term and transition costs apply?"
+          ],
+          [
+            "Quality and handoff",
+            "Can the assigned people explain a research, reply and sales-acceptance example?"
+          ],
+          [
+            "Continuity",
+            "Who can pause or cover work, with what verified access and context?"
+          ],
+          [
+            "Records and transition",
+            "Which records can the receiving team use, and how is readiness demonstrated?"
+          ],
+          [
+            "Evidence",
+            "How are original bookings, held calls, qualification and source kept distinct?"
+          ]
+        ],
+        "downloadTitle": "Open the proposal questions",
+        "downloadNote": "Download a local CSV or use the questions here. No prospect information is needed, and nothing is submitted.",
+        "downloadLabel": "Download the questions as CSV"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Questions about the two SDR models",
+        "faqs": [
+          [
+            "Is staff augmentation the same as SDR outsourcing?",
+            "Staff augmentation is a form of external resourcing in which the client directs the added people. Managed SDR outsourcing gives a provider responsibility for agreed prospecting work. Labels overlap, so inspect the reporting line, workstreams and acceptance rules."
+          ],
+          [
+            "Which model gives more control?",
+            "Augmentation provides direct daily direction if the client has capable management. Managed delivery can still provide approvals, record-level visibility and change controls. Directing a person and governing a service are different forms of control."
+          ],
+          [
+            "Which SDR model is cheaper?",
+            "Compare the same scope, period and currency, including external fees, tools, data, client management, onboarding and transition. Neither model is inherently cheaper. Unknown work or hypothetical meetings should not be treated as free or proven."
+          ],
+          [
+            "Can we start outsourced and later use staff augmentation?",
+            "Yes, if the contract permits the transition and the receiving manager, records, tools and review process are ready. Demonstrate a fictional handover before transferring responsibility; elapsed time alone is not readiness."
+          ],
+          [
+            "Does managed outsourcing include a dedicated SDR and software?",
+            "Only if the written scope says so. A managed campaign can use shared capacity, and software or data may be separate. Ask for actual allocation and exclusions rather than inferring them from the label."
+          ],
+          [
+            "Can we combine both models?",
+            "Yes. Assign clear segments or workstreams, one owner for shared contact history and exclusions, and an accepting sales owner. Prevent overlapping outreach and budget for coordination."
+          ],
+          [
+            "Does outsourcing guarantee qualified meetings?",
+            "No. The agreement should define delivery responsibilities and acceptance criteria. A reply, booking, held call, qualified conversation and opportunity are distinct stages; the offer, market and client sales work still affect outcomes."
+          ]
+        ]
+      }
+    ]
+  },
+  "es": {
+    "answer": "El refuerzo externo de SDR encaja cuando ya hay una persona capaz de dirigir el trabajo, un proceso utilizable y una necesidad concreta de capacidad. La externalización gestionada encaja cuando necesitas que un proveedor coordine la prospección acordada. Ambos modelos requieren un responsable del cliente para validar el público, resolver decisiones comerciales y atender las conversaciones de venta. Compara responsabilidades, tiempo de gestión, capacidad, acceso y traspaso; la etiqueta del proveedor no resuelve esas cuestiones.",
+    "jump": "Ver quién se ocupa de cada tarea",
+    "dateLabel": "5 de noviembre de 2026",
+    "fiction": "Todas las situaciones, mensajes, estimaciones de tiempo y registros siguientes son ficticios. Sirven para planificar; no son resultados de Beespoke ni de sus clientes.",
+    "sourceTitle": "Fuentes y límites",
+    "sourceNote": "Revisión del 5 de noviembre de 2026. La comparación comercial de TopLead y las guías generales de personal e ingeniería citadas abajo aportaron preguntas sobre gestión, alcance, coste y transición. Los ejemplos de ingeniería son referencias de un ámbito próximo, no datos de referencia sobre SDR. No adoptamos las afirmaciones de los proveedores sobre precios, rapidez, ahorro o resultados. Los ejemplos y las comprobaciones de responsabilidad son propios e ilustrativos; ningún modelo garantiza reuniones ni ingresos.",
+    "sections": [
+      {
+        "id": "start-with-responsibility-not-headcount",
+        "title": "Empieza por las responsabilidades, no por la plantilla",
+        "p": [
+          "El refuerzo externo, también llamado staff augmentation, incorpora personas que trabajan bajo la dirección de tu equipo. La externalización gestionada de SDR asigna al proveedor la responsabilidad sobre la prospección definida en el contrato. SDR significa representante de desarrollo de ventas; aquí hablamos de investigar compradores adecuados, iniciar conversaciones relevantes y transferir a ventas las que se acepten.",
+          "Un SDR identificado, un equipo compartido, una dedicación parcial y una campaña gestionada describen cosas distintas. Pregunta qué capacidad se reserva, quién la dirige y qué trabajo incluye. Facturar por horas o mediante una cuota no determina por sí solo el modelo de trabajo."
+        ],
+        "headers": [
+          "Pregunta",
+          "Refuerzo externo",
+          "Externalización gestionada"
+        ],
+        "rows": [
+          [
+            "Dirección diaria",
+            "Tu responsable interno fija prioridades y revisa el trabajo de la persona.",
+            "El proveedor dirige la ejecución acordada; el cliente controla encaje, afirmaciones y aceptación."
+          ],
+          [
+            "Proceso",
+            "Tu equipo aporta o dirige el método, las herramientas y los controles de calidad.",
+            "El proveedor puede crear u operar el proceso acordado; comprueba el alcance."
+          ],
+          [
+            "Capacidad",
+            "Confirma persona, competencias, horas, disponibilidad y otras asignaciones.",
+            "Confirma entregables y límites; una campaña no equivale automáticamente a una persona a jornada completa."
+          ],
+          [
+            "Herramientas y datos",
+            "Confirma acceso y quién paga; no des por preparado el entorno del cliente.",
+            "Confirma qué está incluido y qué se cobra aparte; la gestión no incluye toda suscripción."
+          ],
+          [
+            "Conocimiento",
+            "Los registros internos también necesitan documentación y traspaso.",
+            "Exige registros accesibles y aprendizaje transferible; no tiene por qué ser una caja negra."
+          ],
+          [
+            "Riesgo",
+            "Importan tanto tu gestión como las obligaciones de personal del proveedor.",
+            "El proveedor asume las obligaciones de ejecución pactadas; la oferta, las decisiones de venta y el riesgo de ingresos siguen siendo tuyos."
+          ]
+        ]
+      },
+      {
+        "id": "sdr-model-responsibility-test",
+        "title": "Mantén las tres preguntas sobre responsabilidad",
+        "p": [
+          "Responde según las personas y el tiempo disponibles hoy. No puntúes un organigrama futuro."
+        ],
+        "dl": [
+          [
+            "¿Quién puede dirigir el trabajo diario?",
+            "El refuerzo necesita a alguien que forme, revise decisiones y desbloquee al SDR. Tener el cargo de responsable no demuestra disponer de tiempo."
+          ],
+          [
+            "¿Quién dispone de un proceso utilizable?",
+            "Localiza el público aprobado, las exclusiones, los ejemplos de mensajes, las herramientas, las reglas de respuesta y las definiciones de los informes. Si faltan, acuerda quién los prepara antes de aumentar la actividad."
+          ],
+          [
+            "¿Quién convierte la evidencia en decisiones?",
+            "Ambos modelos necesitan un responsable del cliente que valore el encaje, resuelva afirmaciones y acepte los traspasos. Un proveedor puede dirigir la ejecución; no sustituye tu criterio comercial."
+          ]
+        ],
+        "after": [
+          "Si las respuestas están repartidas, define el modelo híbrido tarea por tarea. Si nadie puede asumir las decisiones del cliente, resuelve eso primero. Ninguna puntuación total compensa la ausencia de un responsable."
+        ]
+      },
+      {
+        "id": "sa-responsibility-map",
+        "title": "Asigna un responsable a cada tarea",
+        "p": [
+          "Reparto ilustrativo para el mismo encargo: investigar un público B2B acordado, escribir mensajes individuales relevantes, ejecutar actividad autorizada por email y/o LinkedIn, gestionar respuestas y transferir conversaciones adecuadas. Adáptalo al acuerdo escrito. El responsable comercial del cliente no es necesariamente quien dirige el trabajo diario del SDR."
+        ],
+        "headers": [
+          "Tarea",
+          "Con refuerzo externo",
+          "Con gestión del proveedor"
+        ],
+        "rows": [
+          [
+            "Público y exclusiones",
+            "El responsable comercial valida el encaje; el SDR investiga bajo la dirección interna.",
+            "El responsable comercial valida el encaje; el proveedor investiga y documenta sus decisiones."
+          ],
+          [
+            "Mensajes y evidencia",
+            "El responsable interno revisa; el cliente resuelve las afirmaciones sobre el producto.",
+            "El proveedor revisa la calidad; el cliente resuelve las afirmaciones y las aprobaciones acordadas."
+          ],
+          [
+            "Ejecución y permisos",
+            "El responsable interno garantiza preparación y autorización; el SDR ejecuta lo permitido.",
+            "El proveedor prepara lo incluido en su alcance; la ejecución sigue requiriendo autorización del cliente."
+          ],
+          [
+            "Respuestas y excepciones",
+            "El SDR gestiona las respuestas acordadas; el responsable interno resuelve excepciones operativas.",
+            "El proveedor gestiona respuestas y excepciones operativas acordadas; las preguntas especializadas van al cliente."
+          ],
+          [
+            "Traspaso a ventas",
+            "El responsable interno comprueba el contexto; ventas acepta o rechaza con motivos.",
+            "El proveedor aporta contexto; ventas acepta o rechaza con motivos."
+          ],
+          [
+            "Informes y aprendizaje",
+            "El responsable interno concilia los registros; el cliente decide cambios comerciales.",
+            "El proveedor concilia los registros acordados; el cliente decide cambios comerciales."
+          ],
+          [
+            "Ausencias y sustitución",
+            "El proveedor confirma sus obligaciones de personal; el responsable interno mantiene el proceso.",
+            "El proveedor confirma cobertura y continuidad reales; compartir especialistas no garantiza sustitución."
+          ]
+        ],
+        "after": [
+          "Identifica personas o funciones, vía de aprobación y plazo de escalado antes de empezar. El trabajo compartido también necesita una persona responsable de completar cada decisión. Registra lo no resuelto como una carencia, no como «responsabilidad conjunta»."
+        ]
+      },
+      {
+        "id": "sa-management-time",
+        "title": "Comprueba la gestión con un presupuesto semanal de tiempo",
+        "p": [
+          "Plan ficticio de refuerzo: el responsable interno dispone de 360 minutos semanales después de sus otros compromisos. Dedica 120 a formación, 90 a revisar listas y mensajes, 90 a excepciones en respuestas y 60 a revisar informes. Total: 360 minutos, sin reserva. Otros 60 minutos de incorporación elevan la necesidad a 420: faltan 60 minutos.",
+          "Son supuestos inventados, no medias del sector ni una recomendación para todos los equipos. Recalcula según las tareas y personas reales. En la externalización gestionada, estima también las aprobaciones de encaje, las respuestas especializadas, las revisiones y el trabajo comercial del cliente; ese tiempo no es cero."
+        ],
+        "dl": [
+          [
+            "Si el tiempo no alcanza",
+            "Reduce o reasigna trabajo, añade gestión competente o compara un alcance gestionado. No supongas que más SDR resolverán el cuello de botella."
+          ],
+          [
+            "Si no se conocen las horas",
+            "Pide al responsable una estimación de una semana normal y otra con incidencias. Mantén visible la incertidumbre; no introduzcas un cero."
+          ],
+          [
+            "Si el responsable se ausenta",
+            "Identifica quién puede decidir y si debe pausarse la actividad. El presupuesto de tiempo solo sirve si su responsable está disponible."
+          ]
+        ]
+      },
+      {
+        "id": "use-staff-augmentation-when-management-is-a-strength",
+        "title": "Cuándo encaja el refuerzo externo",
+        "p": [
+          "Elige refuerzo cuando falten personas o una competencia concreta dentro de un proceso que ya puedes dirigir. Un mercado cambiante no exige automáticamente este modelo: exige a alguien capaz de interpretar la evidencia y adaptar el trabajo."
+        ],
+        "ul": [
+          "Hay un responsable interno con tiempo y autoridad para revisar.",
+          "El encaje, las exclusiones, la calidad de mensajes y la cualificación funcionan; no están solo documentados.",
+          "Herramientas, permisos, incorporación y recepción de ventas están preparados.",
+          "Se han comprobado el criterio, la disponibilidad y las condiciones de sustitución de la persona asignada."
+        ],
+        "case": [
+          "Decisión ficticia: añadir capacidad",
+          "Una empresa de servicios técnicos ya cuenta con responsable de prospección, público revisado y un proceso operativo de respuestas y ventas. Tiene cuentas verificadas pendientes de investigación y mensajes individuales. Un SDR de refuerzo puede encajar. Si el responsable pierde tiempo de revisión o las cuentas no son adecuadas, detén y reevalúa: el argumento de capacidad deja de sostenerse."
+        ]
+      },
+      {
+        "id": "use-managed-outsourcing-when-the-system-is-the-gap",
+        "title": "Cuándo encaja la gestión externa y cuándo no encaja ninguno",
+        "p": [
+          "La gestión externa puede encajar cuando hay una oferta creíble y un responsable comercial, pero falta coordinar investigación, mensajes, actividad autorizada, respuestas e informes. Acuerda qué crea el proveedor, qué opera y qué evidencia podrá revisar el cliente. Gestionar la ejecución no exige ocultarla ni garantiza oportunidades."
+        ],
+        "case": [
+          "Decisión ficticia: contratar trabajo coordinado",
+          "Una asesoría especializada puede explicar su oferta y respaldar sus afirmaciones, pero nadie puede dirigir la prospección diaria. Compara alcances gestionados desde la investigación hasta las respuestas, en lugar de contratar una persona esperando que aparezca la gestión. Si no pueden contestarse preguntas especializadas o ventas no puede recibir conversaciones, resuelve esas dependencias antes de empezar."
+        ],
+        "after": [
+          "Tercer resultado: no elegir ninguno todavía. Si faltan claridad de oferta, pruebas autorizadas, encaje del público o capacidad comercial, aclara primero esa limitación. Más actividad no demuestra hechos que la propia empresa no puede respaldar."
+        ],
+        "links": [
+          [
+            "/services/outsourced-sdr/",
+            "Ver el servicio de SDR gestionado"
+          ],
+          [
+            "/guides/how-to-manage-an-outsourced-sdr-team/",
+            "Revisar la función de gestión del cliente"
+          ]
+        ]
+      },
+      {
+        "id": "compare-fully-loaded-cost-and-ramp",
+        "title": "Compara compromisos completos y unidades equivalentes",
+        "p": [
+          "Un mes de dedicación de una persona y una campaña gestionada son compras diferentes. Sitúa junto a ambos presupuestos el mismo público, canales, tareas, criterios de aceptación, moneda y periodo contractual. Si uno excluye respuestas o gestión, muestra ese trabajo pendiente antes de comparar totales."
+        ],
+        "dl": [
+          [
+            "Coste total comparable",
+            "Honorarios externos + puesta en marcha, software y datos cobrados aparte + valor acordado del tiempo de gestión y apoyo del cliente + costes conocidos de incorporación, sustitución y transición."
+          ],
+          [
+            "Cuenta cada partida una vez",
+            "No vuelvas a sumar herramientas o gestión incluidas. Separa costes compartidos de diferencias entre modelos. No inventes el tratamiento fiscal ni conviertas lo incierto en cero."
+          ],
+          [
+            "Lee el compromiso completo",
+            "Confirma plazo mínimo, preaviso, capacidad reservada, excesos, exclusiones, aprobación de cambios y cargos de traspaso. Una tarifa horaria no es un contrato completo."
+          ],
+          [
+            "Trata con rigor los resultados inciertos",
+            "Compara reuniones cualificadas y celebradas con la misma definición y periodo. Dividir costes entre una promesa hipotética de reuniones no produce un coste de adquisición observado. Con cero reuniones verificadas, no presentes un coste finito por reunión."
+          ]
+        ],
+        "after": [
+          "Ni la fecha de incorporación ni la infraestructura del proveedor demuestran cuándo llegará una oportunidad útil. Acuerda hitos de preparación y revisa evidencia en vez de importar afirmaciones ajenas sobre rapidez o ahorro."
+        ],
+        "links": [
+          [
+            "/guides/outsourced-sdr-cost/",
+            "Ver la guía de costes de SDR externo"
+          ]
+        ]
+      },
+      {
+        "id": "sa-readiness",
+        "title": "Haz visible la preparación antes de iniciar actividad",
+        "ol": [
+          "Confirma el encargo comercial: público, exclusiones, oferta, pruebas autorizadas, canales y quién contesta preguntas especializadas.",
+          "Revisa una muestra pequeña de investigación y mensajes. Acepta encaje y razonamiento, no solo campos rellenados o lenguaje pulido.",
+          "Demuestra acceso delegado, exclusiones, controles de pausa, gestión de respuestas y traspaso al calendario y ventas del cliente mediante registros ficticios.",
+          "Acuerda la primera revisión: evidencia disponible, quién decide cambios y qué cuestiones pendientes mantienen la actividad pausada."
+        ],
+        "after": [
+          "Son condiciones de aceptación, no un calendario fijo de lanzamiento ni una oferta de contrato más corto. Aprobar una muestra no autoriza cualquier cambio de público, afirmaciones, canales o volumen."
+        ]
+      },
+      {
+        "id": "sa-quality-example",
+        "title": "Revisa el mismo trabajo en ambos modelos",
+        "p": [
+          "Situación ficticia: un responsable de operaciones adecuado pregunta públicamente cómo coordinan otros el trabajo entre centros. Es un motivo para escribir, no una prueba de problemas en su equipo. La investigación debe establecer encaje de cuenta y función, contexto público y lo que sigue sin saberse. No recojas datos personales innecesarios."
+        ],
+        "quotes": [
+          "Tu pregunta sobre coordinar varios centros plantea una decisión práctica: estandarizar el traspaso sin añadir otra tarea de informes. Ayudamos a los equipos de operaciones a documentarlo. Si te sirve, puedo explicar las comprobaciones por las que empezaríamos."
+        ],
+        "after": [
+          "El ejemplo conecta una pregunta pública concreta con una oferta relevante y deja sin confirmar la necesidad. La personalización también puede partir de un evento, lugar, interés compartido o contexto profesional pertinente; no exige una noticia de empresa. La conexión debe ser real y apropiada, sin fingir familiaridad.",
+          "Pregunta al operador por qué encaja esa persona, qué frase está respaldada y cómo trataría una respuesta. Un recordatorio breve unos cuatro días después es una práctica ilustrativa, no una cadencia obligatoria. Coordina cualquier actividad posterior por LinkedIn o llamadas contratadas aparte mediante el mismo historial. En el refuerzo revisa el responsable interno; en la gestión externa revisa el proveedor según los controles acordados."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar el razonamiento de mensajes individuales"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Revisar decisiones de seguimiento"
+          ]
+        ]
+      },
+      {
+        "id": "sa-handoff",
+        "title": "Sigue la respuesta hasta su aceptación por ventas",
+        "p": [
+          "Respuesta ficticia: «Soy responsable del proceso, pero revisaremos opciones el próximo trimestre. Envíame primero un esquema». Registra función confirmada, momento indicado, siguiente paso solicitado y dudas de encaje. Es una respuesta con siguiente paso, no una reunión reservada ni una oportunidad cualificada.",
+          "El responsable de ejecución envía solo una respuesta autorizada y transfiere contexto mediante el calendario o CRM acordado. Ventas acepta, rechaza o pide aclaración con motivos. Descubrimiento comercial, propuestas y cierre siguen correspondiendo al cliente."
+        ],
+        "dl": [
+          [
+            "Actividad y producción",
+            "Investigaciones completadas, mensajes enviados y respuestas recibidas describen fases distintas. No cuentes cada respuesta como demanda positiva."
+          ],
+          [
+            "Reservas y resultados",
+            "Conserva identidad y fecha de creación originales de la reserva. Un cambio de fecha actualiza la misma reserva; cancelación, celebración, cualificación y oportunidad son campos separados."
+          ],
+          [
+            "Evidencia de origen",
+            "Distingue una conversación originada por prospección que después usa la web de un lead captado por la web. Mantén desconocida la atribución sin evidencia; visitar la página de reservas no demuestra origen ni finalización."
+          ]
+        ],
+        "after": [
+          "Conciliación ficticia: dos reservas originales, una reprogramada después y otra cancelada. Son dos reservas originales, no tres. Celebración, cualificación y oportunidad siguen sin confirmarse hasta que el responsable receptor aporte evidencia. El ejemplo no predice volumen de reuniones."
+        ]
+      },
+      {
+        "id": "protect-continuity-and-asset-ownership",
+        "title": "Comprueba continuidad y traspaso antes de necesitarlos",
+        "p": [
+          "El modelo no garantiza propiedad de activos, confidencialidad ni cobertura. Confirma en el acuerdo el uso permitido de listas, investigación, mensajes, respuestas, registros CRM, configuraciones y exportaciones. Comprueba las personas asignadas y la subcontratación; una agencia no dispone automáticamente de capacidad libre y el refuerzo no conserva conocimiento por sí solo."
+        ],
+        "ol": [
+          "Con registros ficticios, pide al responsable autorizado que localice público, exclusiones, versión del mensaje y última acción.",
+          "Pide a quien cubra o gestione la sustitución que explique cómo pausar y qué respuestas requieren atención. Un nombre sin acceso ni contexto no es cobertura verificada.",
+          "Haz que el receptor interprete los registros e identifique la siguiente acción permitida sin enviar nada.",
+          "Registra carencias, responsable de resolverlas, horario de cobertura, ayuda de traspaso y retirada de acceso al finalizar las responsabilidades."
+        ],
+        "after": [
+          "Usa acceso delegado adecuado a la función, no contraseñas compartidas. Confirma confidencialidad, tratamiento de datos y acuerdos reales de contratación y empleo con los asesores responsables; la etiqueta comercial no demuestra cumplimiento ni transfiere todos los riesgos."
+        ]
+      },
+      {
+        "id": "use-a-staged-model-when-uncertainty-is-high",
+        "title": "Cambia de modelo cuando el equipo receptor esté preparado",
+        "p": [
+          "Un acuerdo gestionado puede establecer un proceso documentado antes de transferirlo a gestión interna; el refuerzo también puede pasar a gestión externa si cambia la capacidad interna. Ninguna transición es automática tras un número fijo de días."
+        ],
+        "ul": [
+          "El responsable receptor explica encaje, exclusiones, mensajes, respuestas y definiciones de informes.",
+          "Los registros y activos permitidos pueden usarse en las herramientas receptoras con acceso y propiedad acordados.",
+          "Un traspaso ficticio demuestra pausa, excepciones, registros de origen y aceptación comercial.",
+          "El equipo receptor tiene tiempo para operar; se explicitan esfuerzo de transición, preaviso y carencias."
+        ],
+        "after": [
+          "Acepta el traspaso según estas comprobaciones o mantén pausado el trabajo afectado hasta resolver carencias. Exportar un documento no demuestra capacidad operativa."
+        ],
+        "links": [
+          [
+            "/compare/outsourced-sdr-vs-in-house-sdr/",
+            "Comparar SDR externos e internos"
+          ]
+        ]
+      },
+      {
+        "id": "sa-hybrid",
+        "title": "Evita que un modelo híbrido contacte dos veces a la misma persona",
+        "p": [
+          "Un proveedor gestionado puede trabajar un segmento y un SDR de refuerzo otro bajo dirección interna. Asigna un único responsable a exclusiones compartidas, historial de contacto y aceptación comercial. Las listas por canal no bastan si contienen a las mismas personas.",
+          "Antes de cambiar un contacto de email a LinkedIn o a llamadas presupuestadas aparte, revisa mensajes anteriores, respuestas, rechazos, responsable actual y autorización del siguiente paso. Si hay conflicto, pausa ese contacto. El modelo híbrido añade coordinación: asígnala y contempla su coste."
+        ]
+      },
+      {
+        "id": "sa-beespoke",
+        "title": "Dónde encaja Beespoke",
+        "p": [
+          "Beespoke ofrece campañas gestionadas de email en frío y/o LinkedIn en frío, dirigidas por el fundador y con alcance acordado. Coordina investigación, mensajes individuales, ejecución autorizada, respuestas, cualificación y reservas según criterios pactados. El cliente aporta criterio sobre el público y aprobaciones, y se ocupa del descubrimiento comercial, propuestas y cierre.",
+          "No equivale automáticamente a un SDR exclusivo a jornada completa, una plantilla fija ni un volumen garantizado de reuniones. Software, datos y terceros necesarios se pagan aparte salvo inclusión escrita. Las llamadas en frío se presupuestan por separado según mercado; se contratarían profesionales nativos cuando corresponda. El fundador trabaja en inglés, español, catalán y francés; no se promete que toda interfaz de terceros esté en esos idiomas."
+        ],
+        "links": [
+          [
+            "/services/outsourced-sdr/",
+            "Comprobar el alcance actual"
+          ],
+          [
+            "/guides/outsourced-sdr-cost/",
+            "Revisar precios y compromisos vigentes"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Lleva estas preguntas a la revisión de propuestas",
+        "p": [
+          "Conserva las respuestas junto a la propuesta real. Una respuesta pendiente es una tarea, no un motivo para inventar una puntuación. El CSV opcional solo contiene estas preguntas; no pide nombre, email ni archivos."
+        ],
+        "questions": [
+          [
+            "Gestión",
+            "¿Quién dirige el trabajo diario y de cuánto tiempo dispone?"
+          ],
+          [
+            "Alcance y capacidad",
+            "¿Qué tareas, canales, horas o entregables incluye y excluye?"
+          ],
+          [
+            "Aprobaciones",
+            "¿Quién juzga el encaje, resuelve afirmaciones y autoriza cambios?"
+          ],
+          [
+            "Compromiso total",
+            "¿Qué honorarios, herramientas, tiempo del cliente, plazo mínimo y costes de transición se aplican?"
+          ],
+          [
+            "Calidad y traspaso",
+            "¿Pueden las personas asignadas explicar un ejemplo de investigación, respuesta y aceptación comercial?"
+          ],
+          [
+            "Continuidad",
+            "¿Quién puede pausar o cubrir el trabajo, con qué acceso y contexto verificados?"
+          ],
+          [
+            "Registros y transición",
+            "¿Qué registros puede usar el receptor y cómo demuestra preparación?"
+          ],
+          [
+            "Evidencia",
+            "¿Cómo se distinguen reservas originales, llamadas celebradas, cualificación y origen?"
+          ]
+        ],
+        "downloadTitle": "Abrir las preguntas para la propuesta",
+        "downloadNote": "Descarga un CSV local o usa las preguntas aquí. No hacen falta datos de prospectos y no se envía nada.",
+        "downloadLabel": "Descargar las preguntas en CSV"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Preguntas sobre los dos modelos de SDR",
+        "faqs": [
+          [
+            "¿El refuerzo externo es lo mismo que externalizar SDR?",
+            "El refuerzo incorpora personas externas dirigidas por el cliente. La externalización gestionada asigna al proveedor la responsabilidad sobre la prospección acordada. Las etiquetas se solapan: revisa línea de reporte, tareas y reglas de aceptación."
+          ],
+          [
+            "¿Qué modelo da más control?",
+            "El refuerzo permite dirección diaria si hay gestión interna competente. La gestión externa también puede incluir aprobaciones, visibilidad de registros y controles de cambios. Dirigir personas y supervisar un servicio son controles diferentes."
+          ],
+          [
+            "¿Qué modelo de SDR es más barato?",
+            "Compara igual alcance, periodo y moneda, incluidos honorarios, herramientas, datos, gestión interna, incorporación y transición. Ninguno es más barato por definición. El trabajo desconocido y las reuniones hipotéticas no son gratuitos ni están demostrados."
+          ],
+          [
+            "¿Podemos externalizar primero y usar refuerzo después?",
+            "Sí, si lo permite el contrato y están preparados responsable receptor, registros, herramientas y revisión. Demuestra un traspaso ficticio antes de transferir responsabilidades; el tiempo transcurrido no demuestra preparación."
+          ],
+          [
+            "¿La gestión externa incluye un SDR exclusivo y software?",
+            "Solo si lo establece el alcance escrito. Una campaña gestionada puede usar capacidad compartida y cobrar software o datos aparte. Pregunta por asignación y exclusiones reales."
+          ],
+          [
+            "¿Se pueden combinar ambos modelos?",
+            "Sí. Asigna segmentos o tareas claros, un responsable del historial y exclusiones compartidos y otro que acepte en ventas. Evita solapamientos y contempla la coordinación."
+          ],
+          [
+            "¿Externalizar garantiza reuniones cualificadas?",
+            "No. El acuerdo debe definir responsabilidades y aceptación. Respuesta, reserva, llamada celebrada, conversación cualificada y oportunidad son fases distintas; oferta, mercado y trabajo comercial del cliente siguen influyendo."
+          ]
+        ]
+      }
+    ]
+  },
+  "ca": {
+    "answer": "El reforç extern de SDR encaixa quan ja tens una persona capaç de dirigir la feina, un procés utilitzable i una necessitat concreta de capacitat. L’externalització gestionada encaixa quan necessites que un proveïdor coordini la prospecció acordada. Tots dos models requereixen un responsable del client per validar el públic, resoldre decisions comercials i atendre les converses de venda. Compara responsabilitats, temps de gestió, capacitat, accés i traspàs; l’etiqueta del proveïdor no resol aquestes qüestions.",
+    "jump": "Veure qui assumeix cada tasca",
+    "dateLabel": "5 de novembre de 2026",
+    "fiction": "Totes les situacions, missatges, estimacions de temps i registres següents són ficticis. Serveixen per planificar; no són resultats de Beespoke ni dels seus clients.",
+    "sourceTitle": "Fonts i límits",
+    "sourceNote": "Revisió del 5 de novembre de 2026. La comparació comercial de TopLead i les guies generals de personal i enginyeria citades a continuació han aportat preguntes sobre gestió, abast, cost i transició. Els exemples d’enginyeria són referències d’un àmbit proper, no dades de referència sobre SDR. No adoptem les afirmacions dels proveïdors sobre preus, rapidesa, estalvi o resultats. Els exemples i les comprovacions de responsabilitat són propis i il·lustratius; cap model garanteix reunions ni ingressos.",
+    "sections": [
+      {
+        "id": "start-with-responsibility-not-headcount",
+        "title": "Comença per les responsabilitats, no per la plantilla",
+        "p": [
+          "El reforç extern, també anomenat staff augmentation, incorpora persones que treballen sota la direcció del teu equip. L’externalització gestionada de SDR assigna al proveïdor la responsabilitat sobre la prospecció definida al contracte. SDR vol dir representant de desenvolupament de vendes; aquí parlem d’investigar compradors adequats, iniciar converses rellevants i traspassar a vendes les que s’acceptin.",
+          "Un SDR identificat, un equip compartit, una dedicació parcial i una campanya gestionada descriuen coses diferents. Pregunta quina capacitat es reserva, qui la dirigeix i quina feina inclou. Facturar per hores o mitjançant una quota no determina per si sol el model de treball."
+        ],
+        "headers": [
+          "Pregunta",
+          "Reforç extern",
+          "Externalització gestionada"
+        ],
+        "rows": [
+          [
+            "Direcció diària",
+            "El teu responsable intern fixa prioritats i revisa la feina de la persona.",
+            "El proveïdor dirigeix l’execució acordada; el client controla encaix, afirmacions i acceptació."
+          ],
+          [
+            "Procés",
+            "El teu equip aporta o dirigeix el mètode, les eines i els controls de qualitat.",
+            "El proveïdor pot crear o operar el procés acordat; comprova’n l’abast."
+          ],
+          [
+            "Capacitat",
+            "Confirma persona, competències, hores, disponibilitat i altres assignacions.",
+            "Confirma lliurables i límits; una campanya no equival automàticament a una persona a jornada completa."
+          ],
+          [
+            "Eines i dades",
+            "Confirma accés i qui paga; no donis per preparat l’entorn del client.",
+            "Confirma què s’inclou i què es cobra a part; la gestió no inclou totes les subscripcions."
+          ],
+          [
+            "Coneixement",
+            "Els registres interns també necessiten documentació i traspàs.",
+            "Exigeix registres accessibles i aprenentatge transferible; no ha de ser una caixa negra."
+          ],
+          [
+            "Risc",
+            "Importen tant la teva gestió com les obligacions de personal del proveïdor.",
+            "El proveïdor assumeix les obligacions d’execució pactades; l’oferta, les decisions de venda i el risc d’ingressos continuen sent teus."
+          ]
+        ]
+      },
+      {
+        "id": "sdr-model-responsibility-test",
+        "title": "Mantén les tres preguntes sobre responsabilitat",
+        "p": [
+          "Respon segons les persones i el temps disponibles avui. No puntuïs un organigrama futur."
+        ],
+        "dl": [
+          [
+            "Qui pot dirigir la feina diària?",
+            "El reforç necessita algú que formi, revisi decisions i desbloquegi el SDR. Tenir el càrrec de responsable no demostra disposar de temps."
+          ],
+          [
+            "Qui disposa d’un procés utilitzable?",
+            "Localitza el públic aprovat, les exclusions, els exemples de missatges, les eines, les regles de resposta i les definicions dels informes. Si falten, acorda qui els prepara abans d’augmentar l’activitat."
+          ],
+          [
+            "Qui converteix l’evidència en decisions?",
+            "Tots dos models necessiten un responsable del client que valori l’encaix, resolgui afirmacions i accepti traspassos. Un proveïdor pot dirigir l’execució; no substitueix el teu criteri comercial."
+          ]
+        ],
+        "after": [
+          "Si les respostes estan repartides, defineix el model híbrid tasca per tasca. Si ningú pot assumir les decisions del client, resol això primer. Cap puntuació total compensa l’absència d’un responsable."
+        ]
+      },
+      {
+        "id": "sa-responsibility-map",
+        "title": "Assigna un responsable a cada tasca",
+        "p": [
+          "Repartiment il·lustratiu per al mateix encàrrec: investigar un públic B2B acordat, escriure missatges individuals rellevants, executar activitat autoritzada per correu i/o LinkedIn, gestionar respostes i traspassar converses adequades. Adapta’l a l’acord escrit. El responsable comercial del client no és necessàriament qui dirigeix la feina diària del SDR."
+        ],
+        "headers": [
+          "Tasca",
+          "Amb reforç extern",
+          "Amb gestió del proveïdor"
+        ],
+        "rows": [
+          [
+            "Públic i exclusions",
+            "El responsable comercial valida l’encaix; el SDR investiga sota la direcció interna.",
+            "El responsable comercial valida l’encaix; el proveïdor investiga i documenta les decisions."
+          ],
+          [
+            "Missatges i evidència",
+            "El responsable intern revisa; el client resol les afirmacions sobre el producte.",
+            "El proveïdor revisa la qualitat; el client resol afirmacions i aprovacions acordades."
+          ],
+          [
+            "Execució i permisos",
+            "El responsable intern garanteix preparació i autorització; el SDR executa allò permès.",
+            "El proveïdor prepara el seu abast; l’execució continua requerint autorització del client."
+          ],
+          [
+            "Respostes i excepcions",
+            "El SDR gestiona respostes acordades; el responsable intern resol excepcions operatives.",
+            "El proveïdor gestiona respostes i excepcions operatives acordades; les preguntes especialitzades van al client."
+          ],
+          [
+            "Traspàs a vendes",
+            "El responsable intern comprova el context; vendes accepta o rebutja amb motius.",
+            "El proveïdor aporta context; vendes accepta o rebutja amb motius."
+          ],
+          [
+            "Informes i aprenentatge",
+            "El responsable intern concilia els registres; el client decideix canvis comercials.",
+            "El proveïdor concilia els registres acordats; el client decideix canvis comercials."
+          ],
+          [
+            "Absències i substitució",
+            "El proveïdor confirma obligacions de personal; el responsable intern manté el procés.",
+            "El proveïdor confirma cobertura i continuïtat reals; compartir especialistes no garanteix substitució."
+          ]
+        ],
+        "after": [
+          "Identifica persones o funcions, via d’aprovació i termini d’escalat abans de començar. La feina compartida també necessita una persona responsable de completar cada decisió. Registra allò no resolt com una mancança, no com a «responsabilitat conjunta»."
+        ]
+      },
+      {
+        "id": "sa-management-time",
+        "title": "Comprova la gestió amb un pressupost setmanal de temps",
+        "p": [
+          "Pla fictici de reforç: el responsable intern disposa de 360 minuts setmanals després dels altres compromisos. Dedica 120 a formació, 90 a revisar llistes i missatges, 90 a excepcions en respostes i 60 a revisar informes. Total: 360 minuts, sense reserva. Uns altres 60 minuts d’incorporació eleven la necessitat a 420: falten 60 minuts.",
+          "Són supòsits inventats, no mitjanes del sector ni una recomanació per a tots els equips. Recalcula segons les tasques i persones reals. En l’externalització gestionada, estima també les aprovacions d’encaix, les respostes especialitzades, les revisions i la feina comercial del client; aquest temps no és zero."
+        ],
+        "dl": [
+          [
+            "Si el temps no arriba",
+            "Redueix o reassigna feina, afegeix gestió competent o compara un abast gestionat. No suposis que més SDR resoldran el coll d’ampolla."
+          ],
+          [
+            "Si no es coneixen les hores",
+            "Demana al responsable una estimació d’una setmana normal i una altra amb incidències. Mantén visible la incertesa; no hi posis un zero."
+          ],
+          [
+            "Si el responsable s’absenta",
+            "Identifica qui pot decidir i si cal pausar l’activitat. El pressupost de temps només serveix si el responsable està disponible."
+          ]
+        ]
+      },
+      {
+        "id": "use-staff-augmentation-when-management-is-a-strength",
+        "title": "Quan encaixa el reforç extern",
+        "p": [
+          "Tria reforç quan faltin persones o una competència concreta dins d’un procés que ja pots dirigir. Un mercat canviant no exigeix automàticament aquest model: exigeix algú capaç d’interpretar l’evidència i adaptar la feina."
+        ],
+        "ul": [
+          "Hi ha un responsable intern amb temps i autoritat per revisar.",
+          "L’encaix, les exclusions, la qualitat dels missatges i la qualificació funcionen; no estan només documentats.",
+          "Eines, permisos, incorporació i recepció de vendes estan preparats.",
+          "S’han comprovat el criteri, la disponibilitat i les condicions de substitució de la persona assignada."
+        ],
+        "case": [
+          "Decisió fictícia: afegir capacitat",
+          "Una empresa de serveis tècnics ja té responsable de prospecció, públic revisat i un procés operatiu de respostes i vendes. Té comptes verificats pendents de recerca i missatges individuals. Un SDR de reforç pot encaixar. Si el responsable perd temps de revisió o els comptes no són adequats, atura i reavalua: l’argument de capacitat deixa de sostenir-se."
+        ]
+      },
+      {
+        "id": "use-managed-outsourcing-when-the-system-is-the-gap",
+        "title": "Quan encaixa la gestió externa i quan no encaixa cap model",
+        "p": [
+          "La gestió externa pot encaixar quan hi ha una oferta creïble i un responsable comercial, però falta coordinar recerca, missatges, activitat autoritzada, respostes i informes. Acorda què crea el proveïdor, què opera i quina evidència podrà revisar el client. Gestionar l’execució no exigeix ocultar-la ni garanteix oportunitats."
+        ],
+        "case": [
+          "Decisió fictícia: contractar feina coordinada",
+          "Una assessoria especialitzada pot explicar l’oferta i donar suport a les afirmacions, però ningú pot dirigir la prospecció diària. Compara abasts gestionats des de la recerca fins a les respostes, en lloc de contractar una persona esperant que aparegui la gestió. Si no poden respondre preguntes especialitzades o vendes no pot rebre converses, resol aquestes dependències abans de començar."
+        ],
+        "after": [
+          "Tercer resultat: no triar cap model encara. Si falta claredat d’oferta, proves autoritzades, encaix del públic o capacitat comercial, aclareix primer aquesta limitació. Més activitat no demostra fets que l’empresa mateixa no pot justificar."
+        ],
+        "links": [
+          [
+            "/services/outsourced-sdr/",
+            "Veure el servei de SDR gestionat"
+          ],
+          [
+            "/guides/how-to-manage-an-outsourced-sdr-team/",
+            "Revisar la funció de gestió del client"
+          ]
+        ]
+      },
+      {
+        "id": "compare-fully-loaded-cost-and-ramp",
+        "title": "Compara compromisos complets i unitats equivalents",
+        "p": [
+          "Un mes de dedicació d’una persona i una campanya gestionada són compres diferents. Situa al costat de tots dos pressupostos el mateix públic, canals, tasques, criteris d’acceptació, moneda i període contractual. Si un exclou respostes o gestió, mostra aquesta feina pendent abans de comparar totals."
+        ],
+        "dl": [
+          [
+            "Cost total comparable",
+            "Honoraris externs + posada en marxa, programari i dades cobrats a part + valor acordat del temps de gestió i suport del client + costos coneguts d’incorporació, substitució i transició."
+          ],
+          [
+            "Compta cada partida una vegada",
+            "No tornis a sumar eines o gestió incloses. Separa costos compartits de diferències entre models. No inventis el tractament fiscal ni converteixis la incertesa en zero."
+          ],
+          [
+            "Llegeix el compromís complet",
+            "Confirma termini mínim, preavís, capacitat reservada, excessos, exclusions, aprovació de canvis i càrrecs de traspàs. Una tarifa horària no és un contracte complet."
+          ],
+          [
+            "Tracta amb rigor els resultats incerts",
+            "Compara reunions qualificades i celebrades amb la mateixa definició i període. Dividir costos entre una promesa hipotètica de reunions no produeix un cost d’adquisició observat. Amb zero reunions verificades, no presentis un cost finit per reunió."
+          ]
+        ],
+        "after": [
+          "Ni la data d’incorporació ni la infraestructura del proveïdor demostren quan arribarà una oportunitat útil. Acorda fites de preparació i revisa evidència en lloc d’importar afirmacions alienes sobre rapidesa o estalvi."
+        ],
+        "links": [
+          [
+            "/guides/outsourced-sdr-cost/",
+            "Veure la guia de costos de SDR extern"
+          ]
+        ]
+      },
+      {
+        "id": "sa-readiness",
+        "title": "Fes visible la preparació abans d’iniciar activitat",
+        "ol": [
+          "Confirma l’encàrrec comercial: públic, exclusions, oferta, proves autoritzades, canals i qui respon preguntes especialitzades.",
+          "Revisa una mostra petita de recerca i missatges. Accepta encaix i raonament, no només camps emplenats o llenguatge polit.",
+          "Demostra accés delegat, exclusions, controls de pausa, gestió de respostes i traspàs al calendari i vendes del client amb registres ficticis.",
+          "Acorda la primera revisió: evidència disponible, qui decideix canvis i quines qüestions pendents mantenen l’activitat pausada."
+        ],
+        "after": [
+          "Són condicions d’acceptació, no un calendari fix de llançament ni una oferta de contracte més curt. Aprovar una mostra no autoritza qualsevol canvi de públic, afirmacions, canals o volum."
+        ]
+      },
+      {
+        "id": "sa-quality-example",
+        "title": "Revisa la mateixa feina en tots dos models",
+        "p": [
+          "Situació fictícia: un responsable d’operacions adequat pregunta públicament com coordinen altres equips la feina entre centres. És un motiu per escriure, no una prova de problemes al seu equip. La recerca ha d’establir encaix de compte i funció, context públic i allò que continua sense saber-se. No recullis dades personals innecessàries."
+        ],
+        "quotes": [
+          "La teva pregunta sobre coordinar diversos centres planteja una decisió pràctica: estandarditzar el traspàs sense afegir una altra tasca d’informes. Ajudem els equips d’operacions a documentar-lo. Si et serveix, puc explicar les comprovacions per les quals començaríem."
+        ],
+        "after": [
+          "L’exemple connecta una pregunta pública concreta amb una oferta rellevant i deixa sense confirmar la necessitat. La personalització també pot partir d’un esdeveniment, lloc, interès compartit o context professional pertinent; no exigeix una notícia d’empresa. La connexió ha de ser real i adequada, sense fingir familiaritat.",
+          "Pregunta a l’operador per què encaixa aquella persona, quina frase té suport i com tractaria una resposta. Un recordatori breu uns quatre dies després és una pràctica il·lustrativa, no una cadència obligatòria. Coordina qualsevol activitat posterior per LinkedIn o trucades contractades a part amb el mateix historial. En el reforç revisa el responsable intern; en la gestió externa revisa el proveïdor segons els controls acordats."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar el raonament dels missatges individuals"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Revisar decisions de seguiment"
+          ]
+        ]
+      },
+      {
+        "id": "sa-handoff",
+        "title": "Segueix la resposta fins a l’acceptació per vendes",
+        "p": [
+          "Resposta fictícia: «Soc responsable del procés, però revisarem opcions el trimestre vinent. Envia’m primer un esquema». Registra funció confirmada, moment indicat, següent pas sol·licitat i dubtes d’encaix. És una resposta amb següent pas, no una reunió reservada ni una oportunitat qualificada.",
+          "El responsable d’execució envia només una resposta autoritzada i traspassa el context pel calendari o CRM acordat. Vendes accepta, rebutja o demana aclariments amb motius. Descoberta comercial, propostes i tancament continuen corresponent al client."
+        ],
+        "dl": [
+          [
+            "Activitat i producció",
+            "Recerques completades, missatges enviats i respostes rebudes descriuen fases diferents. No comptis cada resposta com a demanda positiva."
+          ],
+          [
+            "Reserves i resultats",
+            "Conserva identitat i data de creació originals de la reserva. Un canvi de data actualitza la mateixa reserva; cancel·lació, celebració, qualificació i oportunitat són camps separats."
+          ],
+          [
+            "Evidència d’origen",
+            "Distingeix una conversa originada per prospecció que després usa la web d’un lead captat per la web. Mantén desconeguda l’atribució sense evidència; visitar la pàgina de reserves no demostra origen ni finalització."
+          ]
+        ],
+        "after": [
+          "Conciliació fictícia: dues reserves originals, una reprogramada després i l’altra cancel·lada. Són dues reserves originals, no tres. Celebració, qualificació i oportunitat continuen sense confirmar-se fins que el responsable receptor aporti evidència. L’exemple no prediu volum de reunions."
+        ]
+      },
+      {
+        "id": "protect-continuity-and-asset-ownership",
+        "title": "Comprova continuïtat i traspàs abans de necessitar-los",
+        "p": [
+          "El model no garanteix propietat d’actius, confidencialitat ni cobertura. Confirma a l’acord l’ús permès de llistes, recerca, missatges, respostes, registres CRM, configuracions i exportacions. Comprova les persones assignades i la subcontractació; una agència no disposa automàticament de capacitat lliure i el reforç no conserva coneixement per si sol."
+        ],
+        "ol": [
+          "Amb registres ficticis, demana al responsable autoritzat que localitzi públic, exclusions, versió del missatge i última acció.",
+          "Demana a qui cobreixi o gestioni la substitució que expliqui com pausar i quines respostes requereixen atenció. Un nom sense accés ni context no és cobertura verificada.",
+          "Fes que el receptor interpreti els registres i identifiqui la següent acció permesa sense enviar res.",
+          "Registra mancances, responsable de resoldre-les, horari de cobertura, ajuda de traspàs i retirada d’accés quan finalitzin les responsabilitats."
+        ],
+        "after": [
+          "Fes servir accés delegat adequat a la funció, no contrasenyes compartides. Confirma confidencialitat, tractament de dades i acords reals de contractació i ocupació amb els assessors responsables; l’etiqueta comercial no demostra compliment ni transfereix tots els riscos."
+        ]
+      },
+      {
+        "id": "use-a-staged-model-when-uncertainty-is-high",
+        "title": "Canvia de model quan l’equip receptor estigui preparat",
+        "p": [
+          "Un acord gestionat pot establir un procés documentat abans de traspassar-lo a gestió interna; el reforç també pot passar a gestió externa si canvia la capacitat interna. Cap transició és automàtica després d’un nombre fix de dies."
+        ],
+        "ul": [
+          "El responsable receptor explica encaix, exclusions, missatges, respostes i definicions d’informes.",
+          "Els registres i actius permesos es poden usar a les eines receptores amb accés i propietat acordats.",
+          "Un traspàs fictici demostra pausa, excepcions, registres d’origen i acceptació comercial.",
+          "L’equip receptor té temps per operar; s’expliciten esforç de transició, preavís i mancances."
+        ],
+        "after": [
+          "Accepta el traspàs segons aquestes comprovacions o mantén pausada la feina afectada fins a resoldre mancances. Exportar un document no demostra capacitat operativa."
+        ],
+        "links": [
+          [
+            "/compare/outsourced-sdr-vs-in-house-sdr/",
+            "Comparar SDR externs i interns"
+          ]
+        ]
+      },
+      {
+        "id": "sa-hybrid",
+        "title": "Evita que un model híbrid contacti dues vegades la mateixa persona",
+        "p": [
+          "Un proveïdor gestionat pot treballar un segment i un SDR de reforç un altre sota direcció interna. Assigna un únic responsable a exclusions compartides, historial de contacte i acceptació comercial. Les llistes per canal no són suficients si contenen les mateixes persones.",
+          "Abans de moure un contacte de correu a LinkedIn o a trucades pressupostades a part, revisa missatges anteriors, respostes, rebutjos, responsable actual i autorització del següent pas. Si hi ha conflicte, pausa aquell contacte. El model híbrid afegeix coordinació: assigna-la i preveu-ne el cost."
+        ]
+      },
+      {
+        "id": "sa-beespoke",
+        "title": "On encaixa Beespoke",
+        "p": [
+          "Beespoke ofereix campanyes gestionades de correu en fred i/o LinkedIn en fred, dirigides pel fundador i amb abast acordat. Coordina recerca, missatges individuals, execució autoritzada, respostes, qualificació i reserves segons criteris pactats. El client aporta criteri sobre el públic i aprovacions, i assumeix descoberta comercial, propostes i tancament.",
+          "No equival automàticament a un SDR exclusiu a jornada completa, una plantilla fixa ni un volum garantit de reunions. Programari, dades i tercers necessaris es paguen a part llevat d’inclusió escrita. Les trucades en fred es pressuposten separadament segons el mercat; es contractarien professionals natius quan correspongués. El fundador treballa en anglès, espanyol, català i francès; no es promet que totes les interfícies de tercers estiguin en aquests idiomes."
+        ],
+        "links": [
+          [
+            "/services/outsourced-sdr/",
+            "Comprovar l’abast actual"
+          ],
+          [
+            "/guides/outsourced-sdr-cost/",
+            "Revisar preus i compromisos vigents"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Porta aquestes preguntes a la revisió de propostes",
+        "p": [
+          "Conserva les respostes amb la proposta real. Una resposta pendent és una tasca, no un motiu per inventar una puntuació. El CSV opcional només conté aquestes preguntes; no demana nom, correu ni fitxers."
+        ],
+        "questions": [
+          [
+            "Gestió",
+            "Qui dirigeix la feina diària i de quant temps disposa?"
+          ],
+          [
+            "Abast i capacitat",
+            "Quines tasques, canals, hores o lliurables inclou i exclou?"
+          ],
+          [
+            "Aprovacions",
+            "Qui jutja l’encaix, resol afirmacions i autoritza canvis?"
+          ],
+          [
+            "Compromís total",
+            "Quins honoraris, eines, temps del client, termini mínim i costos de transició s’apliquen?"
+          ],
+          [
+            "Qualitat i traspàs",
+            "Poden les persones assignades explicar un exemple de recerca, resposta i acceptació comercial?"
+          ],
+          [
+            "Continuïtat",
+            "Qui pot pausar o cobrir la feina, amb quin accés i context verificats?"
+          ],
+          [
+            "Registres i transició",
+            "Quins registres pot usar el receptor i com demostra preparació?"
+          ],
+          [
+            "Evidència",
+            "Com es distingeixen reserves originals, trucades celebrades, qualificació i origen?"
+          ]
+        ],
+        "downloadTitle": "Obrir les preguntes per a la proposta",
+        "downloadNote": "Descarrega un CSV local o utilitza les preguntes aquí. No calen dades de prospectes i no s’envia res.",
+        "downloadLabel": "Descarregar les preguntes en CSV"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Preguntes sobre els dos models de SDR",
+        "faqs": [
+          [
+            "El reforç extern és el mateix que externalitzar SDR?",
+            "El reforç incorpora persones externes dirigides pel client. L’externalització gestionada assigna al proveïdor la responsabilitat sobre la prospecció acordada. Les etiquetes se solapen: revisa línia de dependència, tasques i regles d’acceptació."
+          ],
+          [
+            "Quin model dona més control?",
+            "El reforç permet direcció diària si hi ha gestió interna competent. La gestió externa també pot incloure aprovacions, visibilitat de registres i controls de canvis. Dirigir persones i supervisar un servei són controls diferents."
+          ],
+          [
+            "Quin model de SDR és més barat?",
+            "Compara igual abast, període i moneda, inclosos honoraris, eines, dades, gestió interna, incorporació i transició. Cap model és més barat per definició. La feina desconeguda i les reunions hipotètiques no són gratuïtes ni estan demostrades."
+          ],
+          [
+            "Podem externalitzar primer i utilitzar reforç després?",
+            "Sí, si ho permet el contracte i estan preparats responsable receptor, registres, eines i revisió. Demostra un traspàs fictici abans de transferir responsabilitats; el temps transcorregut no demostra preparació."
+          ],
+          [
+            "La gestió externa inclou un SDR exclusiu i programari?",
+            "Només si ho estableix l’abast escrit. Una campanya gestionada pot usar capacitat compartida i cobrar programari o dades a part. Pregunta per assignació i exclusions reals."
+          ],
+          [
+            "Es poden combinar tots dos models?",
+            "Sí. Assigna segments o tasques clars, un responsable de l’historial i exclusions compartits i un altre que accepti a vendes. Evita solapaments i preveu la coordinació."
+          ],
+          [
+            "Externalitzar garanteix reunions qualificades?",
+            "No. L’acord ha de definir responsabilitats i acceptació. Resposta, reserva, trucada celebrada, conversa qualificada i oportunitat són fases diferents; oferta, mercat i feina comercial del client continuen influint."
+          ]
+        ]
+      }
+    ]
+  },
+  "fr": {
+    "answer": "Le renfort externe de SDR convient si vous avez un responsable interne compétent, un processus de prospection utilisable et un manque précis de capacité. La prestation SDR gérée convient si vous cherchez un prestataire pour coordonner la prospection convenue. Les deux modèles exigent un référent client pour valider les cibles, trancher les questions commerciales et recevoir les échanges de vente. Comparez responsabilités, temps de gestion, capacité, accès et passation ; l’étiquette du prestataire ne règle pas ces questions.",
+    "jump": "Voir qui prend chaque tâche en charge",
+    "dateLabel": "5 novembre 2026",
+    "fiction": "Toutes les situations, messages, estimations de temps et fiches ci-dessous sont fictifs et servent à la planification. Ce ne sont pas des résultats de Beespoke ou de ses clients.",
+    "sourceTitle": "Sources et limites",
+    "sourceNote": "Revue du 5 novembre 2026. Le comparatif commercial de TopLead et les guides généraux sur le personnel et l’ingénierie cités ci-dessous ont nourri les questions sur la gestion, le périmètre, les coûts et la transition. Les exemples d’ingénierie éclairent un domaine voisin ; ils ne constituent pas des références de performance SDR. Nous ne reprenons pas les affirmations des prestataires sur les prix, la rapidité, les économies ou les résultats. Les exemples et contrôles de responsabilité sont nos propres illustrations ; aucun modèle ne garantit des rendez-vous ou du chiffre d’affaires.",
+    "sections": [
+      {
+        "id": "start-with-responsibility-not-headcount",
+        "title": "Commencez par les responsabilités, pas par l’effectif",
+        "p": [
+          "Le renfort externe, ou staff augmentation, ajoute des personnes qui travaillent sous la direction de votre équipe. Une prestation SDR gérée confie au prestataire la responsabilité du travail de prospection défini au contrat. SDR signifie représentant chargé du développement commercial ; il s’agit ici de rechercher des acheteurs pertinents, d’engager des échanges utiles et de transmettre aux commerciaux les conversations acceptées.",
+          "Un SDR identifié, une équipe mutualisée, un temps partiel et une campagne gérée désignent des choses différentes. Demandez quelle capacité est réservée, qui la dirige et quelles tâches sont incluses. Une facturation horaire ou forfaitaire ne définit pas à elle seule le modèle de fonctionnement."
+        ],
+        "headers": [
+          "Question",
+          "Renfort externe",
+          "Prestation SDR gérée"
+        ],
+        "rows": [
+          [
+            "Direction quotidienne",
+            "Votre responsable interne fixe les priorités et contrôle le travail de la personne.",
+            "Le prestataire dirige l’exécution convenue ; le client contrôle le ciblage, les affirmations et l’acceptation."
+          ],
+          [
+            "Processus",
+            "Votre équipe fournit ou pilote la méthode, les outils et les contrôles qualité.",
+            "Le prestataire peut créer ou exploiter le processus convenu ; vérifiez le périmètre."
+          ],
+          [
+            "Capacité",
+            "Confirmez la personne, ses compétences, ses heures, sa disponibilité et ses autres missions.",
+            "Confirmez livrables et limites ; une campagne ne représente pas automatiquement un poste à temps plein."
+          ],
+          [
+            "Outils et données",
+            "Confirmez les accès et le payeur ; ne supposez pas l’environnement client prêt.",
+            "Confirmez inclusions et suppléments ; une prestation gérée n’inclut pas tous les abonnements."
+          ],
+          [
+            "Connaissances",
+            "Le travail dans vos outils exige tout de même documentation et passation.",
+            "Exigez des traces accessibles et un apprentissage transférable ; le travail peut rester visible."
+          ],
+          [
+            "Risque",
+            "Votre gestion et les obligations de personnel du fournisseur comptent toutes deux.",
+            "Le prestataire assume les obligations d’exécution convenues ; votre offre, vos décisions de vente et le risque de revenu restent les vôtres."
+          ]
+        ]
+      },
+      {
+        "id": "sdr-model-responsibility-test",
+        "title": "Gardez les trois questions de responsabilité",
+        "p": [
+          "Répondez pour les personnes et le temps disponibles aujourd’hui. N’attribuez pas de points à un futur organigramme."
+        ],
+        "dl": [
+          [
+            "Qui peut diriger le travail quotidien ?",
+            "Le renfort exige quelqu’un capable de former, revoir les décisions et débloquer le SDR. Un titre de responsable ne prouve pas une disponibilité réelle."
+          ],
+          [
+            "Qui possède un processus utilisable ?",
+            "Retrouvez les cibles approuvées, exclusions, exemples de messages, outils, règles de réponse et définitions des indicateurs. S’ils manquent, convenez de qui les prépare avant d’augmenter l’activité."
+          ],
+          [
+            "Qui transforme les éléments observés en décisions ?",
+            "Les deux modèles exigent un référent client capable de juger la pertinence des cibles, de valider les affirmations et d’accepter les transmissions. Un prestataire peut piloter l’exécution ; il ne remplace pas votre jugement commercial."
+          ]
+        ],
+        "after": [
+          "Si les réponses sont réparties, décrivez le modèle hybride tâche par tâche. Si personne ne peut prendre les décisions côté client, réglez ce point d’abord. Aucun score global ne compense l’absence d’un responsable."
+        ]
+      },
+      {
+        "id": "sa-responsibility-map",
+        "title": "Attribuez un responsable à chaque tâche",
+        "p": [
+          "Répartition illustrative pour le même brief : rechercher une cible B2B convenue, écrire des messages individuels pertinents, exécuter une activité autorisée par email et/ou LinkedIn, traiter les réponses et transmettre les conversations adaptées. Adaptez-la à l’accord écrit. Le référent commercial du client n’est pas forcément la personne qui dirige le SDR au quotidien."
+        ],
+        "headers": [
+          "Tâche",
+          "Avec renfort externe",
+          "Avec prestation gérée"
+        ],
+        "rows": [
+          [
+            "Cibles et exclusions",
+            "Le référent commercial valide la pertinence ; le SDR recherche sous la direction interne.",
+            "Le référent commercial valide la pertinence ; le prestataire recherche et documente ses décisions."
+          ],
+          [
+            "Messages et preuves",
+            "Le responsable interne contrôle ; le client tranche les affirmations sur le produit.",
+            "Le prestataire contrôle la qualité ; le client tranche les affirmations et validations convenues."
+          ],
+          [
+            "Exécution et permissions",
+            "Le responsable interne garantit préparation et autorisation ; le SDR exécute ce qui est permis.",
+            "Le prestataire prépare son périmètre ; l’exécution exige toujours l’autorisation du client."
+          ],
+          [
+            "Réponses et exceptions",
+            "Le SDR traite les réponses convenues ; le responsable interne résout les exceptions opérationnelles.",
+            "Le prestataire traite les réponses et exceptions opérationnelles convenues ; les questions expertes vont au client."
+          ],
+          [
+            "Transmission aux commerciaux",
+            "Le responsable interne vérifie le contexte ; le référent commercial accepte ou refuse avec un motif.",
+            "Le prestataire fournit le contexte ; le référent commercial accepte ou refuse avec un motif."
+          ],
+          [
+            "Rapports et apprentissage",
+            "Le responsable interne rapproche les fiches ; le client décide des changements commerciaux.",
+            "Le prestataire rapproche les fiches convenues ; le client décide des changements commerciaux."
+          ],
+          [
+            "Absence et remplacement",
+            "Le fournisseur confirme ses obligations de personnel ; le responsable interne assure la continuité du processus.",
+            "Le prestataire confirme couverture et continuité réelles ; des spécialistes mutualisés ne garantissent pas un remplacement."
+          ]
+        ],
+        "after": [
+          "Nommez les personnes ou fonctions, le circuit de validation et le délai d’escalade avant le lancement. Une tâche partagée exige tout de même une personne comptable de chaque décision. Consignez les responsabilités non réglées comme des lacunes, pas comme une « responsabilité commune »."
+        ]
+      },
+      {
+        "id": "sa-management-time",
+        "title": "Vérifiez la gestion avec un budget de temps hebdomadaire",
+        "p": [
+          "Plan fictif de renfort : le responsable interne dispose de 360 minutes par semaine après ses autres engagements. La formation prend 120 minutes, la revue des listes et messages 90, les exceptions de réponse 90 et la revue du rapport 60. Total : 360 minutes, sans réserve. Ajouter 60 minutes d’intégration porte le besoin à 420 : il manque 60 minutes.",
+          "Ce sont des hypothèses inventées, pas des moyennes sectorielles ou une recommandation universelle. Recalculez selon les tâches et personnes réelles. Pour une prestation gérée, estimez aussi les validations de ciblage, réponses expertes, revues et tâches commerciales du client ; ce temps n’est pas nul."
+        ],
+        "dl": [
+          [
+            "Si le temps manque",
+            "Réduisez ou réattribuez les tâches, ajoutez une gestion compétente ou comparez un périmètre géré. Des SDR supplémentaires ne résolvent pas automatiquement ce blocage."
+          ],
+          [
+            "Si les heures sont inconnues",
+            "Demandez au responsable d’estimer une semaine normale et une semaine avec incidents. Gardez l’incertitude visible ; ne saisissez pas zéro."
+          ],
+          [
+            "Si le responsable est absent",
+            "Identifiez qui peut décider et si l’activité doit être suspendue. Le budget de temps n’est utile que si son responsable est disponible."
+          ]
+        ]
+      },
+      {
+        "id": "use-staff-augmentation-when-management-is-a-strength",
+        "title": "Quand le renfort externe convient",
+        "p": [
+          "Choisissez le renfort lorsque le manque concerne des personnes ou une compétence précise dans un processus que vous savez déjà diriger. Un marché évolutif n’impose pas automatiquement ce modèle : il exige quelqu’un capable d’interpréter les observations et d’adapter le travail."
+        ],
+        "ul": [
+          "Un responsable interne nommé a le temps et l’autorité nécessaires pour contrôler le travail.",
+          "Ciblage, exclusions, qualité des messages et qualification sont utilisables, pas seulement documentés.",
+          "Outils, permissions, intégration et réception par les commerciaux sont prêts.",
+          "Le jugement, la disponibilité et les conditions de remplacement de la personne affectée ont été vérifiés."
+        ],
+        "case": [
+          "Décision fictive : ajouter de la capacité",
+          "Une entreprise de services techniques possède déjà un responsable de prospection, une cible revue et un processus de réponses et de transmission commerciale opérationnel. Des comptes vérifiés attendent recherche et messages individuels. Un SDR de renfort peut convenir. Si le responsable perd son temps de contrôle ou si les comptes sont mal ciblés, arrêtez et réévaluez : l’argument de capacité ne tient plus."
+        ]
+      },
+      {
+        "id": "use-managed-outsourcing-when-the-system-is-the-gap",
+        "title": "Quand la prestation gérée convient — ou quand aucun modèle ne convient",
+        "p": [
+          "Une prestation gérée peut convenir avec une offre crédible et un référent commercial client, lorsque la capacité manquante est la coordination de la recherche, des messages, de l’activité autorisée, des réponses et des rapports. Convenez de ce que le prestataire crée, exploite et rend vérifiable. Gérer l’exécution n’exige ni opacité ni promesse de pipeline."
+        ],
+        "case": [
+          "Décision fictive : acheter un travail coordonné",
+          "Un cabinet spécialisé sait expliquer son offre et étayer ses affirmations, mais personne ne peut diriger la prospection quotidienne. Il compare des périmètres gérés de la recherche aux réponses, plutôt que d’acheter un poste en espérant que la gestion apparaisse. Si les questions expertes restent sans réponse ou si les commerciaux ne peuvent recevoir les échanges, résolvez ces dépendances avant le lancement."
+        ],
+        "after": [
+          "Troisième issue : ne choisir aucun modèle pour le moment. Si l’offre, les preuves autorisées, le ciblage ou la capacité commerciale restent flous, clarifiez d’abord cette contrainte. Plus d’activité ne prouve pas des faits que l’entreprise elle-même ne peut étayer."
+        ],
+        "links": [
+          [
+            "/services/outsourced-sdr/",
+            "Voir la prestation SDR gérée"
+          ],
+          [
+            "/guides/how-to-manage-an-outsourced-sdr-team/",
+            "Examiner le rôle de gestion côté client"
+          ]
+        ]
+      },
+      {
+        "id": "compare-fully-loaded-cost-and-ramp",
+        "title": "Comparez les engagements complets, à unités comparables",
+        "p": [
+          "Un mois de travail d’une personne et une campagne gérée sont deux achats différents. Placez à côté des deux devis les mêmes cibles, canaux, tâches, critères d’acceptation, devise et période contractuelle. Si l’un exclut réponses ou gestion, montrez ce travail manquant avant de comparer les totaux."
+        ],
+        "dl": [
+          [
+            "Coût total à comparer",
+            "Honoraires externes + démarrage, logiciels et données facturés séparément + valeur convenue du temps de gestion et d’appui client + coûts connus d’intégration, remplacement et transition."
+          ],
+          [
+            "Comptez chaque poste une fois",
+            "N’ajoutez pas à nouveau les outils ou la gestion inclus. Distinguez coûts communs et différences entre modèles. N’inventez pas de traitement fiscal et ne transformez pas une incertitude en zéro."
+          ],
+          [
+            "Lisez l’engagement entier",
+            "Confirmez durée minimale, préavis, capacité réservée, dépassements, exclusions, validation des changements et frais de passation. Un tarif horaire n’est pas un contrat complet."
+          ],
+          [
+            "Traitez honnêtement les résultats incertains",
+            "Comparez les rendez-vous qualifiés et tenus avec la même définition et période. Diviser un coût par une promesse hypothétique de réunions ne donne pas un coût d’acquisition observé. Avec zéro rendez-vous vérifié, ne présentez pas un coût fini par rendez-vous."
+          ]
+        ],
+        "after": [
+          "Ni la date d’arrivée du SDR ni l’infrastructure du fournisseur ne prouvent le délai jusqu’à une opportunité utile. Convenez de jalons de préparation et examinez les preuves plutôt que de reprendre les promesses de rapidité ou d’économies d’un autre prestataire."
+        ],
+        "links": [
+          [
+            "/guides/outsourced-sdr-cost/",
+            "Voir le guide des coûts SDR externalisés"
+          ]
+        ]
+      },
+      {
+        "id": "sa-readiness",
+        "title": "Rendez la préparation visible avant toute activité",
+        "ol": [
+          "Confirmez le brief commercial : cible, exclusions, offre, preuves autorisées, canaux et responsable des réponses expertes.",
+          "Examinez un petit échantillon de recherches et de messages. Acceptez la pertinence et le raisonnement, pas seulement des champs remplis ou un texte soigné.",
+          "Démontrez les accès délégués, exclusions, commandes de pause, responsabilités de réponse et transmission au calendrier et aux commerciaux avec des fiches fictives.",
+          "Convenez de la première revue : preuves disponibles, décideur des changements et points non résolus qui maintiennent l’activité en pause."
+        ],
+        "after": [
+          "Ce sont des conditions d’acceptation, pas un calendrier fixe de lancement ou une offre de contrat plus court. La validation d’un échantillon n’autorise pas tout changement de cible, d’affirmation, de canal ou de volume."
+        ]
+      },
+      {
+        "id": "sa-quality-example",
+        "title": "Examinez le même travail dans les deux modèles",
+        "p": [
+          "Situation fictive : un responsable des opérations pertinent demande publiquement comment ses pairs coordonnent plusieurs sites. C’est une raison d’écrire, pas la preuve d’un problème dans son équipe. La recherche doit établir la pertinence du compte et du rôle, le contexte public et les inconnues. Ne collectez pas de détails personnels inutiles."
+        ],
+        "quotes": [
+          "Votre question sur la coordination de plusieurs sites soulève un choix pratique : standardiser la passation sans ajouter une nouvelle tâche de reporting. Nous aidons les équipes opérationnelles à la documenter. Si cela vous est utile, je peux vous présenter les vérifications par lesquelles nous commencerions."
+        ],
+        "after": [
+          "L’exemple relie une question publique précise à une offre pertinente sans supposer le besoin confirmé. La personnalisation peut aussi partir d’un événement, d’un lieu, d’un intérêt partagé ou d’un contexte professionnel pertinent ; elle ne dépend pas d’une annonce d’entreprise. Le lien doit être réel et approprié, sans familiarité inventée.",
+          "Demandez à l’opérateur pourquoi cette personne correspond, quelle phrase est étayée et comment il traiterait une réponse. Une brève relance environ quatre jours plus tard illustre une pratique, pas une cadence obligatoire. Coordonnez toute activité ultérieure sur LinkedIn ou par téléphone, si elle est prévue séparément, avec le même historique. En renfort, le responsable interne revoit ces décisions ; en prestation gérée, le prestataire les revoit selon les contrôles convenus."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Examiner le raisonnement des messages individuels"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Examiner les décisions de relance"
+          ]
+        ]
+      },
+      {
+        "id": "sa-handoff",
+        "title": "Suivez la réponse jusqu’à son acceptation commerciale",
+        "p": [
+          "Réponse fictive : « Je suis responsable du processus, mais nous étudierons les options au prochain trimestre. Envoyez-moi d’abord un aperçu. » Consignez le rôle confirmé, le calendrier indiqué, l’étape demandée et les questions de ciblage restantes. C’est une réponse avec une prochaine étape, pas un rendez-vous réservé ou une opportunité qualifiée.",
+          "Le responsable de l’exécution envoie uniquement une réponse autorisée et transmet le contexte par le calendrier ou CRM convenu. Le référent commercial accepte, refuse ou demande des précisions avec un motif. Découverte commerciale, propositions et conclusion restent à la charge du client."
+        ],
+        "dl": [
+          [
+            "Activité et production",
+            "Recherches terminées, messages envoyés et réponses reçues correspondent à des étapes différentes. Toute réponse n’est pas une demande positive."
+          ],
+          [
+            "Réservations et résultats",
+            "Conservez l’identité et la date de création d’origine de la réservation. Un report actualise la même réservation ; annulation, tenue, qualification et création d’opportunité sont des champs distincts."
+          ],
+          [
+            "Preuve d’origine",
+            "Distinguez une conversation issue de la prospection qui utilise ensuite le site d’un contact acquis grâce au site. Sans preuve, gardez l’attribution inconnue ; une visite de la page de réservation ne prouve ni origine ni réservation terminée."
+          ]
+        ],
+        "after": [
+          "Rapprochement fictif : deux réservations d’origine, l’une ensuite reportée et l’autre annulée. Cela fait deux réservations d’origine, pas trois. Tenue, qualification et opportunité restent non confirmées jusqu’à réception des preuves du responsable commercial. Cet exemple ne prévoit aucun volume de rendez-vous."
+        ]
+      },
+      {
+        "id": "protect-continuity-and-asset-ownership",
+        "title": "Testez continuité et passation avant d’en avoir besoin",
+        "p": [
+          "Le modèle ne garantit ni propriété des actifs, ni confidentialité, ni couverture. Confirmez dans l’accord l’usage autorisé des listes, recherches, messages, réponses, fiches CRM, configurations et exports. Vérifiez les personnes affectées et la sous-traitance ; une agence n’a pas automatiquement de capacité disponible, et le renfort ne préserve pas spontanément les connaissances."
+        ],
+        "ol": [
+          "Avec des fiches fictives, demandez au responsable autorisé de retrouver cible, exclusions, version du message et dernière action.",
+          "Demandez à la personne chargée de couvrir ou gérer le remplacement d’expliquer la mise en pause et les réponses à traiter. Un nom sans accès ni contexte n’est pas une couverture vérifiée.",
+          "Faites interpréter les fiches par le destinataire et identifier la prochaine action permise sans rien envoyer.",
+          "Consignez lacunes, responsable de leur résolution, horaires de couverture, aide à la passation et procédure de retrait des accès en fin de responsabilité."
+        ],
+        "after": [
+          "Utilisez des accès délégués adaptés au rôle, pas des mots de passe partagés. Confirmez confidentialité, traitement des données et arrangements réels de contrat et d’emploi avec les conseillers responsables ; l’étiquette commerciale ne démontre pas la conformité et ne transfère pas tous les risques."
+        ]
+      },
+      {
+        "id": "use-a-staged-model-when-uncertainty-is-high",
+        "title": "Changez de modèle quand l’équipe destinataire est prête",
+        "p": [
+          "Une prestation gérée peut établir un processus documenté avant reprise par la gestion interne ; un renfort peut aussi passer à une prestation gérée si la capacité interne change. Aucune transition n’est automatique après un nombre fixe de jours."
+        ],
+        "ul": [
+          "Le responsable destinataire sait expliquer ciblage, exclusions, messages, réponses et indicateurs.",
+          "Les fiches et actifs autorisés sont utilisables dans les outils de reprise, avec accès et propriété convenus.",
+          "Une passation fictive démontre pause, exceptions, traces d’origine et acceptation commerciale.",
+          "L’équipe destinataire a le temps d’opérer ; effort de transition, préavis et lacunes sont explicites."
+        ],
+        "after": [
+          "Acceptez la passation selon ces contrôles ou laissez le travail concerné en pause jusqu’à résolution. Un document exporté ne prouve pas une capacité opérationnelle."
+        ],
+        "links": [
+          [
+            "/compare/outsourced-sdr-vs-in-house-sdr/",
+            "Comparer SDR externalisés et internes"
+          ]
+        ]
+      },
+      {
+        "id": "sa-hybrid",
+        "title": "Évitez de contacter deux fois la même personne en mode hybride",
+        "p": [
+          "Un prestataire peut gérer un segment tandis qu’un SDR de renfort en traite un autre sous direction interne. Attribuez un responsable unique aux exclusions communes, à l’historique des contacts et à l’acceptation commerciale. Des listes distinctes par canal ne suffisent pas si elles contiennent les mêmes personnes.",
+          "Avant de passer un contact de l’email à LinkedIn ou à des appels chiffrés séparément, vérifiez messages précédents, réponses, refus, responsable actuel et autorisation de l’étape suivante. En cas de conflit, suspendez ce contact. Le mode hybride ajoute de la coordination : attribuez-la et budgétez-la explicitement."
+        ]
+      },
+      {
+        "id": "sa-beespoke",
+        "title": "Où Beespoke se situe dans ce choix",
+        "p": [
+          "Beespoke propose des campagnes gérées de prospection par email et/ou LinkedIn, pilotées par le fondateur dans un périmètre convenu. Recherche, messages individuels, exécution autorisée, réponses, qualification et réservation sont coordonnés selon les critères définis. Le client apporte son jugement sur les cibles et ses validations, puis prend en charge découverte commerciale, propositions et conclusion.",
+          "Ce service ne représente pas automatiquement un SDR dédié à temps plein, un effectif fixe ou un nombre garanti de rendez-vous. Logiciels, données et frais de tiers nécessaires sont séparés sauf inclusion écrite. Les appels à froid font l’objet d’un devis distinct selon le marché ; des interlocuteurs natifs seraient recrutés si nécessaire. Le fondateur travaille en anglais, espagnol, catalan et français ; cela ne promet pas chaque interface tierce dans ces langues."
+        ],
+        "links": [
+          [
+            "/services/outsourced-sdr/",
+            "Vérifier le périmètre actuel"
+          ],
+          [
+            "/guides/outsourced-sdr-cost/",
+            "Examiner tarifs et engagements actuels"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Apportez ces questions à la revue des propositions",
+        "p": [
+          "Conservez les réponses avec la proposition réelle. Une réponse manquante est une tâche à suivre, pas une raison d’inventer un score. Le CSV facultatif contient seulement ces questions ; aucun nom, email ou fichier n’est demandé."
+        ],
+        "questions": [
+          [
+            "Gestion",
+            "Qui dirige le travail quotidien et de combien de temps dispose cette personne ?"
+          ],
+          [
+            "Périmètre et capacité",
+            "Quelles tâches, quels canaux, heures ou livrables sont inclus et exclus ?"
+          ],
+          [
+            "Validations",
+            "Qui juge le ciblage, tranche les affirmations et autorise les changements ?"
+          ],
+          [
+            "Engagement total",
+            "Quels honoraires, outils, temps client, durée minimale et coûts de transition s’appliquent ?"
+          ],
+          [
+            "Qualité et transmission",
+            "Les personnes affectées savent-elles expliquer un exemple de recherche, de réponse et d’acceptation commerciale ?"
+          ],
+          [
+            "Continuité",
+            "Qui peut suspendre ou couvrir le travail, avec quels accès et contexte vérifiés ?"
+          ],
+          [
+            "Fiches et transition",
+            "Quelles fiches l’équipe destinataire peut-elle utiliser et comment démontre-t-elle sa préparation ?"
+          ],
+          [
+            "Preuves",
+            "Comment distinguer réservations d’origine, appels tenus, qualification et source ?"
+          ]
+        ],
+        "downloadTitle": "Ouvrir les questions pour la proposition",
+        "downloadNote": "Téléchargez un CSV local ou utilisez les questions ici. Aucune donnée de prospect n’est nécessaire et rien n’est envoyé.",
+        "downloadLabel": "Télécharger les questions en CSV"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Questions sur les deux modèles SDR",
+        "faqs": [
+          [
+            "Le renfort externe est-il la même chose que l’externalisation SDR ?",
+            "Le renfort ajoute des personnes externes dirigées par le client. La prestation SDR gérée confie au prestataire la responsabilité de la prospection convenue. Les termes se recoupent : examinez hiérarchie, tâches et règles d’acceptation."
+          ],
+          [
+            "Quel modèle donne le plus de contrôle ?",
+            "Le renfort permet une direction quotidienne si la gestion interne est compétente. La prestation gérée peut aussi prévoir validations, visibilité des fiches et contrôles des changements. Diriger une personne et superviser un service sont deux formes de contrôle."
+          ],
+          [
+            "Quel modèle SDR coûte le moins cher ?",
+            "Comparez mêmes périmètre, période et devise, avec honoraires, outils, données, gestion client, intégration et transition. Aucun modèle n’est intrinsèquement moins cher. Un travail inconnu ou des réunions hypothétiques ne sont ni gratuits ni prouvés."
+          ],
+          [
+            "Peut-on externaliser d’abord puis passer au renfort ?",
+            "Oui, si le contrat permet la transition et si responsable destinataire, fiches, outils et revue sont prêts. Démontrez une passation fictive avant le transfert de responsabilité ; le temps écoulé seul ne prouve pas la préparation."
+          ],
+          [
+            "Une prestation gérée inclut-elle un SDR dédié et les logiciels ?",
+            "Uniquement si le périmètre écrit le précise. Une campagne gérée peut employer de la capacité mutualisée et facturer logiciels ou données séparément. Demandez les affectations et exclusions réelles."
+          ],
+          [
+            "Peut-on combiner les deux modèles ?",
+            "Oui. Définissez clairement segments ou tâches, un responsable de l’historique et des exclusions communs, et un référent commercial qui accepte les transmissions. Évitez les sollicitations en double et prévoyez la coordination."
+          ],
+          [
+            "L’externalisation garantit-elle des rendez-vous qualifiés ?",
+            "Non. L’accord doit définir responsabilités et critères d’acceptation. Réponse, réservation, appel tenu, conversation qualifiée et opportunité sont des étapes distinctes ; l’offre, le marché et le travail commercial client influencent toujours les résultats."
+          ]
+        ]
+      }
+    ]
+  }
+}
