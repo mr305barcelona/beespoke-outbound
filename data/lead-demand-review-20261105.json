@@ -1,0 +1,648 @@
+{
+  "revision": "2026-11-05T14:36:10+01:00",
+  "date": "2026-11-05",
+  "en": {
+    "dateLabel": "November 5, 2026",
+    "jump": "See a worked diagnosis",
+    "workbook": "Open the optional planning workbook",
+    "workbookNote": "Read the completed example first, or use the workbook for your own decision. Nothing is uploaded or saved. Export any notes before leaving.",
+    "cta": "Bring your offer, intended buyers and the evidence you already have. We can discuss whether the next useful step is focused outbound, inbound work, a repair to the enquiry path or better sales handoff. Agree the scope before launching anything.",
+    "termsTitle": "Three terms worth agreeing before you choose a tactic",
+    "terms": [
+      [
+        "Demand creation",
+        "Help a relevant buyer understand a problem or consider a different way of solving it."
+      ],
+      [
+        "Demand capture",
+        "Help someone already exploring a problem find, evaluate and act on a suitable offer."
+      ],
+      [
+        "Lead generation",
+        "Identify relevant commercial interest and arrange an appropriate next step. A contact record alone does not establish that interest."
+      ]
+    ],
+    "termsNote": "Some teams use demand generation as an umbrella that includes capture; others use it to mean creation. Agree the working definitions. Neither a form nor a channel proves where a buyer stands.",
+    "cohortTitle": "Work through one diagnosis before adding more activity",
+    "cohortIntro": "Fictional B2B example, not a client result or benchmark. One team reviews 80 original resource submissions created in the same 28-day period. At a later agreed review, it separates audience fit, commercial requests and meeting outcomes. These are people and their original records, not a count of target companies.",
+    "metricLabels": [
+      "Original submissions",
+      "Fit commercial requests",
+      "Qualified held meetings"
+    ],
+    "breakdownLabels": [
+      "60 outside the agreed buyer criteria",
+      "12 fit commercial requests",
+      "8 not yet assessed"
+    ],
+    "breakdownNotes": [
+      "The recorded roles or needs fall outside the written audience criteria.",
+      "The person fits those criteria and has asked about a relevant commercial next step.",
+      "Evidence is missing. Keep these separate from both poor-fit and qualified records."
+    ],
+    "cohortFlow": "Of the 12 fit commercial requests, eight made an original booking. Six meetings were held: four met the agreed qualification criteria and two did not. Of the two meetings not held, one was cancelled and one remained scheduled for the future.",
+    "cohortRates": "Fit commercial requests: 12 ÷ 80 = 15%. Bookings from those requests: 8 ÷ 12 = 66.7%. Attendance: 6 ÷ 8 = 75%. Qualified among held: 4 ÷ 6 = 66.7%. Each rate answers a different question. If its denominator is zero, leave that rate undefined; unknown evidence is not zero.",
+    "cohortDecision": "First check why the resource attracts so many people outside the intended audience, then assess the eight unresolved records. More downloads would not by themselves solve that constraint. A small fictional cohort cannot forecast a reliable weekly meeting volume or prove which activity caused an outcome.",
+    "channelTitle": "One objective can use more than one channel",
+    "channels": [
+      [
+        "Demand objective · inbound",
+        "An ungated guide helps an operations buyer understand a handoff problem.",
+        "Check whether suitable readers can explain the issue; traffic alone is not that evidence."
+      ],
+      [
+        "Demand objective · outbound",
+        "A relevant message offers a short explanation of the handoff problem.",
+        "A substantive question or reply can guide the next conversation. A sent message is not created demand."
+      ],
+      [
+        "Lead objective · inbound",
+        "A comparison answers scope questions and offers a clear way to request help.",
+        "Record original relevant enquiries and verified bookings, then attendance and qualification."
+      ],
+      [
+        "Lead objective · outbound",
+        "A researched message asks whether a specific, relevant conversation would be useful.",
+        "Separate positive interest, an original booking and a qualified held meeting."
+      ]
+    ],
+    "messageTitle": "Let the reason for writing determine the next step",
+    "messageContext": "Entirely fictional situation: an operations lead has publicly described work being lost between two teams. The two openings below serve different purposes; they are alternatives, not an automated sequence.",
+    "openings": [
+      [
+        "Help them understand",
+        "Your post about work getting lost between the two teams raises a useful question: who owns the next step once a reply arrives? I have a short handoff example if it would help.",
+        "The reason is the person's own public contribution. The offer is useful explanation, without presuming a buying problem."
+      ],
+      [
+        "Explore relevant commercial interest",
+        "You described replies sitting between the two teams. We help B2B teams organise that handoff during managed outreach. Would a short conversation about the process you want be useful?",
+        "Connect a verified observation to a limited question. Do not invent its cost, urgency or effect on revenue."
+      ]
+    ],
+    "practice": "Start with the person and agreed buyer fit. Relevant LinkedIn activity may make LinkedIn the sensible first channel; email may suit someone who is not active there. Personal context can come from a public post, role, genuine shared context or company evidence. Use what matters to the conversation. A structural outline should not turn into the same message for everyone.",
+    "writingLink": "Work through a complete cold-email message",
+    "followupLink": "Choose a proportionate follow-up",
+    "diagnosesTitle": "Give each existing diagnosis an owner and a next check",
+    "diagnoses": [
+      [
+        "Unfamiliar offer",
+        "The offer owner clarifies one explanation and permitted proof. Continue when suitable buyers understand it; change the explanation if their questions still reveal the same confusion."
+      ],
+      [
+        "Broken progression",
+        "The site owner repairs the demonstrated contact failure. Verify the control and receiving process before increasing acquisition; missing attribution still needs its own check."
+      ],
+      [
+        "Wrong audience",
+        "The buyer-side reviewer checks roles and requests against written criteria. Change targeting or the resource promise if poor fit persists; leave unassessed records unresolved."
+      ],
+      [
+        "Weak handoff",
+        "The sales owner accepts responsibility for a relevant reply, next action and later outcome. Hold expansion until real requests can be followed through."
+      ]
+    ],
+    "gatingTitle": "Ask for information when the next step needs it",
+    "gating": [
+      [
+        "Learning",
+        "Let people read a useful explanation without entering contact details. Reading does not demonstrate purchase readiness."
+      ],
+      [
+        "Planning",
+        "Keep this workbook optional and local. Completing it is a planning action, not a verified lead or an enquiry to Beespoke."
+      ],
+      [
+        "Commercial help",
+        "Explain what a conversation is for, who responds and what happens next. Request only the information needed for that purpose."
+      ]
+    ],
+    "recordsTitle": "Keep source and booking identity alongside the outcome",
+    "records": [
+      [
+        "D01 · outreach origin, guide assistance",
+        "A person replies to a researched LinkedIn message, reads this guide and books. Record outreach as the established origin and the guide as assistance. Count one original booking, then its actual held and qualified status."
+      ],
+      [
+        "D02 · unknown origin, moved slot",
+        "The first source is unverified and the meeting is rescheduled. Keep its original booking identity and creation date. The moved slot is not another lead; source and qualification stay unknown until supported."
+      ]
+    ],
+    "recordNote": "These are separate illustrations, not extra outcomes to add to the 80-record cohort. Analytics attribution and verified first-contact evidence may differ; retain both definitions. Exclude audit visits before comparing prospect traffic.",
+    "briefTitle": "A completed brief for the next justified action",
+    "brief": [
+      [
+        "Constraint and evidence",
+        "The fictional resource attracts many records outside the agreed buyer criteria; eight are unassessed. Booking controls have not been shown to be the cause."
+      ],
+      [
+        "Action and alternative",
+        "Review the audience and resource promise first. If suitable buyers instead fail at a reproducible contact step, repair that step before adding acquisition."
+      ],
+      [
+        "Deliverable",
+        "One reviewed audience definition, a clearer explanation and a written reply-to-meeting handoff. Record shared research or content costs once; do not assign the same cost in full to both objectives."
+      ],
+      [
+        "Approval and execution",
+        "The client supplies judgment on the lead list. Beespoke can research people, write individual messaging and programme agreed outreach when authorised. No campaign is launched by this workbook."
+      ],
+      [
+        "Sales ownership and capacity",
+        "The client owns discovery, proposals and closing. Agree who can handle replies and how bookings are checked through the client's calendar or CRM."
+      ],
+      [
+        "Review decision",
+        "Continue, change or hold after the agreed observation period and mature outcomes. Review fit, unresolved evidence and qualified held meetings; do not promise a universal budget split or return date."
+      ]
+    ],
+    "sourceNote": "Methodology references rechecked November 5, 2026. The sources use different boundaries for these terms. Their examples and commercial claims are not Beespoke results. All new situations, records and numbers here are fictional.",
+    "faq": [
+      "Is demand capture the same as lead generation?",
+      "Not exactly. Demand capture helps a buyer with existing interest find, evaluate and act on an offer. Lead generation identifies relevant commercial interest and an appropriate next step. They can overlap, but a contact record or download alone does not prove buying intent."
+    ]
+  },
+  "es": {
+    "dateLabel": "5 de noviembre de 2026",
+    "jump": "Ver un diagnóstico completo",
+    "workbook": "Abrir la ficha de planificación opcional",
+    "workbookNote": "Lee primero el ejemplo completo o utiliza la ficha para tu decisión. No se envían ni guardan datos. Exporta tus notas antes de salir.",
+    "cta": "Trae tu oferta, los compradores a los que te diriges y las pruebas que ya tienes. Podemos valorar si conviene empezar por outbound, trabajo inbound, reparar el camino hacia la consulta o mejorar el traspaso a ventas. Acordemos el alcance antes de poner nada en marcha.",
+    "termsTitle": "Tres términos que conviene acordar antes de elegir una táctica",
+    "terms": [
+      [
+        "Creación de demanda",
+        "Ayudar a un comprador relevante a entender un problema o plantearse otra forma de resolverlo."
+      ],
+      [
+        "Captación de demanda existente",
+        "Ayudar a quien ya explora un problema a encontrar, evaluar y dar el siguiente paso con una oferta adecuada."
+      ],
+      [
+        "Generación de leads",
+        "Identificar interés comercial relevante y acordar un siguiente paso apropiado. Tener los datos de un contacto no demuestra ese interés."
+      ]
+    ],
+    "termsNote": "Algunos equipos usan generación de demanda como un concepto amplio que incluye la captación; otros la limitan a crear demanda. Acordad las definiciones. Ni un formulario ni un canal demuestran en qué punto se encuentra el comprador.",
+    "cohortTitle": "Resuelve un diagnóstico antes de añadir más actividad",
+    "cohortIntro": "Ejemplo B2B ficticio: no es un resultado de cliente ni una referencia del mercado. Un equipo revisa 80 solicitudes originales de un recurso recibidas en el mismo período de 28 días. En una revisión posterior acordada, separa adecuación al público objetivo, consultas comerciales y resultados de las reuniones. Cuenta personas y registros originales, no empresas objetivo.",
+    "metricLabels": [
+      "Solicitudes originales",
+      "Consultas comerciales adecuadas",
+      "Reuniones celebradas y cualificadas"
+    ],
+    "breakdownLabels": [
+      "60 fuera de los criterios de comprador",
+      "12 consultas comerciales adecuadas",
+      "8 pendientes de evaluar"
+    ],
+    "breakdownNotes": [
+      "Los cargos o necesidades registrados no cumplen los criterios escritos del público objetivo.",
+      "La persona cumple esos criterios y ha preguntado por un siguiente paso comercial relevante.",
+      "Faltan pruebas. No se incluyen ni entre los contactos inadecuados ni entre los cualificados."
+    ],
+    "cohortFlow": "De las 12 consultas comerciales adecuadas, ocho generaron una reserva original. Se celebraron seis reuniones: cuatro cumplieron los criterios de cualificación acordados y dos no. De las dos reuniones no celebradas, una se canceló y otra seguía programada para una fecha futura.",
+    "cohortRates": "Consultas comerciales adecuadas: 12 ÷ 80 = 15 %. Reservas de esas consultas: 8 ÷ 12 = 66,7 %. Asistencia: 6 ÷ 8 = 75 %. Cualificadas entre las celebradas: 4 ÷ 6 = 66,7 %. Cada tasa responde a una pregunta distinta. Si el denominador es cero, la tasa queda indefinida; lo desconocido no es cero.",
+    "cohortDecision": "Primero investiga por qué el recurso atrae a tantas personas fuera del público previsto y evalúa los ocho registros pendientes. Más descargas no resolverían por sí solas ese problema. Esta pequeña cohorte ficticia no permite prever un volumen semanal fiable ni demostrar qué actividad causó un resultado.",
+    "channelTitle": "Un mismo objetivo puede utilizar distintos canales",
+    "channels": [
+      [
+        "Objetivo de demanda · inbound",
+        "Una guía sin registro ayuda a un comprador de operaciones a entender un problema de traspaso.",
+        "Comprueba si los lectores adecuados pueden explicar el problema; el tráfico por sí solo no lo demuestra."
+      ],
+      [
+        "Objetivo de demanda · outbound",
+        "Un mensaje relevante ofrece una explicación breve del problema de traspaso.",
+        "Una pregunta o respuesta sustancial puede orientar la conversación. Enviar un mensaje no equivale a crear demanda."
+      ],
+      [
+        "Objetivo de leads · inbound",
+        "Una comparación aclara el alcance y ofrece una forma clara de pedir ayuda.",
+        "Registra consultas originales relevantes y reservas verificadas; después, asistencia y cualificación."
+      ],
+      [
+        "Objetivo de leads · outbound",
+        "Un mensaje preparado tras investigar a la persona pregunta si una conversación concreta y pertinente resultaría útil.",
+        "Separa el interés positivo, la reserva original y la reunión celebrada y cualificada."
+      ]
+    ],
+    "messageTitle": "Que el motivo para escribir determine el siguiente paso",
+    "messageContext": "Situación totalmente ficticia: una persona responsable de operaciones ha contado públicamente que se pierde trabajo entre dos equipos. Estos dos inicios cumplen objetivos distintos: son alternativas, no una secuencia automatizada.",
+    "openings": [
+      [
+        "Ayudar a entender",
+        "Tu publicación sobre el trabajo que se pierde entre los dos equipos plantea una pregunta útil: ¿quién se encarga del siguiente paso cuando llega una respuesta? Tengo un ejemplo breve de traspaso, por si te sirve.",
+        "El motivo es una aportación pública de esa persona. Se ofrece una explicación útil sin dar por hecho un problema de compra."
+      ],
+      [
+        "Explorar interés comercial relevante",
+        "Comentabas que las respuestas quedan entre los dos equipos. Ayudamos a equipos B2B a organizar ese traspaso en campañas outbound gestionadas. ¿Te serviría una conversación breve sobre el proceso que necesitáis?",
+        "Relaciona una observación comprobada con una pregunta acotada. No inventes su coste, urgencia o efecto en los ingresos."
+      ]
+    ],
+    "practice": "Empieza por la persona y los criterios de comprador acordados. La actividad relevante en LinkedIn puede indicar que conviene empezar allí; el correo puede ser más adecuado si no utiliza esa plataforma. El contexto puede venir de una publicación pública, su función, una conexión compartida real o datos de la empresa. Utiliza lo que importe para la conversación. Compartir una estructura no debe convertir todos los mensajes en el mismo texto.",
+    "writingLink": "Trabajar un mensaje de cold email completo",
+    "followupLink": "Elegir un seguimiento proporcionado",
+    "diagnosesTitle": "Asigna un responsable y una comprobación a cada diagnóstico",
+    "diagnoses": [
+      [
+        "Oferta desconocida",
+        "La persona responsable de la oferta aclara una explicación y las pruebas autorizadas. Continúa cuando los compradores adecuados la entiendan; cambia la explicación si persiste la misma confusión."
+      ],
+      [
+        "Progresión interrumpida",
+        "El responsable del sitio repara el fallo de contacto demostrado. Verifica el control y la recepción antes de aumentar la captación; la atribución incompleta requiere su propia comprobación."
+      ],
+      [
+        "Público inadecuado",
+        "El revisor del cliente contrasta cargos y solicitudes con criterios escritos. Cambia el público o la promesa del recurso si persiste la falta de encaje; deja pendientes los registros sin evaluar."
+      ],
+      [
+        "Traspaso deficiente",
+        "La persona responsable de ventas asume la respuesta relevante, el siguiente paso y el resultado posterior. No amplíes hasta poder seguir las solicitudes reales hasta su resolución."
+      ]
+    ],
+    "gatingTitle": "Pide información cuando el siguiente paso la necesite",
+    "gating": [
+      [
+        "Aprender",
+        "Permite leer una explicación útil sin dejar datos de contacto. Leer no demuestra disposición a comprar."
+      ],
+      [
+        "Planificar",
+        "Mantén esta ficha opcional y local. Completarla sirve para planificar; no genera un lead verificado ni envía una consulta a Beespoke."
+      ],
+      [
+        "Pedir ayuda comercial",
+        "Explica para qué sirve la conversación, quién responde y qué ocurre después. Solicita solo la información necesaria para ese fin."
+      ]
+    ],
+    "recordsTitle": "Conserva el origen y la identidad de la reserva junto al resultado",
+    "records": [
+      [
+        "D01 · origen outbound, apoyo de la guía",
+        "Una persona responde a un mensaje de LinkedIn basado en información pública relevante, lee esta guía y reserva. El origen demostrado es outbound y la guía aporta apoyo. Cuenta una reserva original y después su asistencia y cualificación reales."
+      ],
+      [
+        "D02 · origen desconocido, cambio de hora",
+        "El primer origen no está verificado y la reunión se reprograma. Conserva la identidad y fecha de creación originales. La nueva hora no es otro lead; el origen y la cualificación siguen siendo desconocidos hasta que haya pruebas."
+      ]
+    ],
+    "recordNote": "Son ilustraciones separadas, no resultados adicionales que sumar a la cohorte de 80 registros. La atribución de Analytics puede diferir de las pruebas del primer contacto; conserva ambas definiciones. Excluye las visitas de auditoría antes de comparar tráfico de compradores potenciales.",
+    "briefTitle": "Un encargo completo para la siguiente acción justificada",
+    "brief": [
+      [
+        "Problema y pruebas",
+        "El recurso ficticio atrae muchos registros fuera de los criterios de comprador; ocho siguen sin evaluar. No se ha demostrado que el problema esté en los controles de reserva."
+      ],
+      [
+        "Acción y alternativa",
+        "Revisa primero el público y la promesa del recurso. Si los compradores adecuados encuentran un fallo reproducible al contactar, repáralo antes de añadir captación."
+      ],
+      [
+        "Entregable",
+        "Una definición de público revisada, una explicación más clara y un traspaso escrito de respuesta a reunión. Cuenta una sola vez los costes de investigación o contenido compartidos, sin imputarlos íntegramente a ambos objetivos."
+      ],
+      [
+        "Aprobación y ejecución",
+        "El cliente aporta su criterio sobre la lista de leads. Beespoke puede investigar personas, redactar mensajes individuales y configurar las acciones outbound acordadas con autorización. Esta ficha no lanza campañas."
+      ],
+      [
+        "Ventas y capacidad",
+        "El cliente se encarga de las reuniones de diagnóstico, las propuestas y el cierre. Acordad quién atiende las respuestas y cómo se comprueban las reservas en su calendario o CRM."
+      ],
+      [
+        "Decisión de revisión",
+        "Continúa, cambia o detén la ampliación tras el período de observación acordado y con resultados maduros. Revisa adecuación, pruebas pendientes y reuniones celebradas y cualificadas, sin prometer un reparto o plazo universal de retorno."
+      ]
+    ],
+    "sourceNote": "Referencias metodológicas comprobadas de nuevo el 5 de noviembre de 2026. Las fuentes delimitan estos términos de formas distintas. Sus ejemplos y afirmaciones comerciales no son resultados de Beespoke. Todas las situaciones, registros y cifras nuevos son ficticios.",
+    "faq": [
+      "¿Captar demanda existente es lo mismo que generar leads?",
+      "No exactamente. Captar demanda existente ayuda a quien ya tiene interés a encontrar y evaluar una oferta y dar el siguiente paso. Generar leads identifica interés comercial relevante y un siguiente paso adecuado. Pueden coincidir, pero un registro de contacto o una descarga no demuestran por sí solos intención de compra."
+    ]
+  },
+  "ca": {
+    "dateLabel": "5 de novembre de 2026",
+    "jump": "Mira un diagnòstic complet",
+    "workbook": "Obre la fitxa de planificació opcional",
+    "workbookNote": "Llegeix primer l’exemple complet o utilitza la fitxa per a la teva decisió. No s’envien ni es desen dades. Exporta les notes abans de sortir.",
+    "cta": "Porta la teva oferta, els compradors als quals t’adreces i les evidències que ja tens. Podem valorar si convé començar per outbound, treball inbound, reparar el camí fins a la consulta o millorar el traspàs a vendes. Acordem l’abast abans d’engegar res.",
+    "termsTitle": "Tres termes que convé acordar abans de triar una tàctica",
+    "terms": [
+      [
+        "Creació de demanda",
+        "Ajudar un comprador rellevant a entendre un problema o plantejar-se una altra manera de resoldre’l."
+      ],
+      [
+        "Captació de demanda existent",
+        "Ajudar qui ja explora un problema a trobar i avaluar una oferta adequada i fer el pas següent."
+      ],
+      [
+        "Generació de leads",
+        "Identificar interès comercial rellevant i acordar un pas següent adequat. Disposar de les dades d’un contacte no demostra aquest interès."
+      ]
+    ],
+    "termsNote": "Alguns equips utilitzen generació de demanda com un concepte ampli que inclou la captació; d’altres la limiten a crear demanda. Acordeu les definicions. Ni un formulari ni un canal demostren en quin punt es troba el comprador.",
+    "cohortTitle": "Resol un diagnòstic abans d’afegir més activitat",
+    "cohortIntro": "Exemple B2B fictici: no és un resultat de client ni una referència del mercat. Un equip revisa 80 sol·licituds originals d’un recurs rebudes en el mateix període de 28 dies. En una revisió posterior acordada, separa encaix amb el públic objectiu, consultes comercials i resultats de les reunions. Compta persones i registres originals, no empreses objectiu.",
+    "metricLabels": [
+      "Sol·licituds originals",
+      "Consultes comercials amb encaix",
+      "Reunions celebrades i qualificades"
+    ],
+    "breakdownLabels": [
+      "60 fora dels criteris de comprador",
+      "12 consultes comercials amb encaix",
+      "8 pendents d’avaluar"
+    ],
+    "breakdownNotes": [
+      "Els càrrecs o necessitats registrats no compleixen els criteris escrits del públic objectiu.",
+      "La persona compleix aquests criteris i ha preguntat per un pas comercial rellevant.",
+      "Falten evidències. No s’inclouen ni entre els contactes sense encaix ni entre els qualificats."
+    ],
+    "cohortFlow": "De les 12 consultes comercials amb encaix, vuit van generar una reserva original. Es van celebrar sis reunions: quatre complien els criteris de qualificació acordats i dues no. De les dues reunions no celebrades, una es va cancel·lar i l’altra continuava programada per a una data futura.",
+    "cohortRates": "Consultes comercials amb encaix: 12 ÷ 80 = 15 %. Reserves d’aquestes consultes: 8 ÷ 12 = 66,7 %. Assistència: 6 ÷ 8 = 75 %. Qualificades entre les celebrades: 4 ÷ 6 = 66,7 %. Cada taxa respon a una pregunta diferent. Si el denominador és zero, la taxa queda indefinida; allò desconegut no és zero.",
+    "cohortDecision": "Primer investiga per què el recurs atrau tantes persones fora del públic previst i avalua els vuit registres pendents. Més descàrregues no resoldrien per si soles aquest problema. Aquesta petita cohort fictícia no permet preveure un volum setmanal fiable ni demostrar quina activitat va causar un resultat.",
+    "channelTitle": "Un mateix objectiu pot utilitzar canals diferents",
+    "channels": [
+      [
+        "Objectiu de demanda · inbound",
+        "Una guia sense registre ajuda un comprador d’operacions a entendre un problema de traspàs.",
+        "Comprova si els lectors adequats poden explicar el problema; el trànsit per si sol no ho demostra."
+      ],
+      [
+        "Objectiu de demanda · outbound",
+        "Un missatge rellevant ofereix una explicació breu del problema de traspàs.",
+        "Una pregunta o resposta substancial pot orientar la conversa. Enviar un missatge no equival a crear demanda."
+      ],
+      [
+        "Objectiu de leads · inbound",
+        "Una comparació aclareix l’abast i ofereix una manera clara de demanar ajuda.",
+        "Registra consultes originals rellevants i reserves verificades; després, assistència i qualificació."
+      ],
+      [
+        "Objectiu de leads · outbound",
+        "Un missatge basat en recerca pregunta si una conversa concreta i pertinent seria útil.",
+        "Separa l’interès positiu, la reserva original i la reunió celebrada i qualificada."
+      ]
+    ],
+    "messageTitle": "Que el motiu per escriure determini el pas següent",
+    "messageContext": "Situació del tot fictícia: una persona responsable d’operacions ha explicat públicament que es perd feina entre dos equips. Aquests dos inicis responen a objectius diferents: són alternatives, no una seqüència automatitzada.",
+    "openings": [
+      [
+        "Ajudar a entendre",
+        "La teva publicació sobre la feina que es perd entre els dos equips planteja una pregunta útil: qui s’encarrega del pas següent quan arriba una resposta? Tinc un exemple breu de traspàs, per si et serveix.",
+        "El motiu és una aportació pública de la persona. S’ofereix una explicació útil sense donar per fet un problema de compra."
+      ],
+      [
+        "Explorar interès comercial rellevant",
+        "Comentaves que les respostes queden entre els dos equips. Ajudem equips B2B a organitzar aquest traspàs en campanyes outbound gestionades. Et serviria una conversa breu sobre el procés que necessiteu?",
+        "Relaciona una observació comprovada amb una pregunta acotada. No n’inventis el cost, la urgència o l’efecte en els ingressos."
+      ]
+    ],
+    "practice": "Comença per la persona i els criteris de comprador acordats. L’activitat rellevant a LinkedIn pot indicar que convé començar-hi; el correu pot ser més adequat si no utilitza aquella plataforma. El context pot venir d’una publicació pública, la funció, una connexió compartida real o dades de l’empresa. Utilitza el que importi per a la conversa. Compartir una estructura no ha de convertir tots els missatges en el mateix text.",
+    "writingLink": "Treballa un missatge de cold email complet",
+    "followupLink": "Tria un seguiment proporcionat",
+    "diagnosesTitle": "Assigna un responsable i una comprovació a cada diagnòstic",
+    "diagnoses": [
+      [
+        "Oferta desconeguda",
+        "La persona responsable de l’oferta aclareix una explicació i les proves autoritzades. Continua quan els compradors adequats l’entenguin; canvia l’explicació si persisteix la mateixa confusió."
+      ],
+      [
+        "Progressió interrompuda",
+        "El responsable del lloc repara l’error de contacte demostrat. Verifica el control i la recepció abans d’augmentar la captació; l’atribució incompleta requereix una comprovació pròpia."
+      ],
+      [
+        "Públic inadequat",
+        "El revisor del client contrasta càrrecs i sol·licituds amb criteris escrits. Canvia el públic o la promesa del recurs si persisteix la manca d’encaix; deixa pendents els registres sense avaluar."
+      ],
+      [
+        "Traspàs deficient",
+        "La persona responsable de vendes assumeix la resposta rellevant, el pas següent i el resultat posterior. No ampliïs fins que es puguin seguir les sol·licituds reals fins a la seva resolució."
+      ]
+    ],
+    "gatingTitle": "Demana informació quan el pas següent la necessiti",
+    "gating": [
+      [
+        "Aprendre",
+        "Deixa llegir una explicació útil sense aportar dades de contacte. Llegir no demostra disposició a comprar."
+      ],
+      [
+        "Planificar",
+        "Mantén aquesta fitxa opcional i local. Completar-la serveix per planificar; no genera un lead verificat ni envia una consulta a Beespoke."
+      ],
+      [
+        "Demanar ajuda comercial",
+        "Explica per a què serveix la conversa, qui respon i què passa després. Demana només la informació necessària per a aquesta finalitat."
+      ]
+    ],
+    "recordsTitle": "Conserva l’origen i la identitat de la reserva al costat del resultat",
+    "records": [
+      [
+        "D01 · origen outbound, suport de la guia",
+        "Una persona respon a un missatge de LinkedIn basat en recerca, llegeix aquesta guia i reserva. L’origen demostrat és outbound i la guia hi aporta suport. Compta una reserva original i després la seva assistència i qualificació reals."
+      ],
+      [
+        "D02 · origen desconegut, canvi d’hora",
+        "El primer origen no està verificat i la reunió es reprograma. Conserva la identitat i la data de creació originals. La nova hora no és un altre lead; l’origen i la qualificació continuen sent desconeguts fins que hi hagi proves."
+      ]
+    ],
+    "recordNote": "Són il·lustracions separades, no resultats addicionals per sumar a la cohort de 80 registres. L’atribució d’Analytics pot diferir de les proves del primer contacte; conserva totes dues definicions. Exclou les visites d’auditoria abans de comparar trànsit de possibles compradors.",
+    "briefTitle": "Un encàrrec complet per a la pròxima acció justificada",
+    "brief": [
+      [
+        "Problema i evidències",
+        "El recurs fictici atrau molts registres fora dels criteris de comprador; vuit continuen sense avaluar. No s’ha demostrat que el problema sigui als controls de reserva."
+      ],
+      [
+        "Acció i alternativa",
+        "Revisa primer el públic i la promesa del recurs. Si els compradors adequats troben un error reproduïble en contactar, repara’l abans d’afegir captació."
+      ],
+      [
+        "Lliurable",
+        "Una definició de públic revisada, una explicació més clara i un traspàs escrit de resposta a reunió. Compta una sola vegada els costos de recerca o contingut compartits, sense imputar-los íntegrament a tots dos objectius."
+      ],
+      [
+        "Aprovació i execució",
+        "El client aporta el seu criteri sobre la llista de leads. Beespoke pot documentar-se sobre els perfils de les persones, redactar missatges individuals i programar l’outbound acordat amb autorització. Aquesta fitxa no llança campanyes."
+      ],
+      [
+        "Vendes i capacitat",
+        "El client s’encarrega de les reunions de diagnòstic, les propostes i el tancament. Acordeu qui atén les respostes i com es comproven les reserves al seu calendari o CRM."
+      ],
+      [
+        "Decisió de revisió",
+        "Continua, canvia o atura l’ampliació després del període d’observació acordat i amb resultats madurs. Revisa encaix, proves pendents i reunions celebrades i qualificades, sense prometre un repartiment o termini universal de retorn."
+      ]
+    ],
+    "sourceNote": "Referències metodològiques comprovades de nou el 5 de novembre de 2026. Les fonts delimiten aquests termes de maneres diferents. Els seus exemples i afirmacions comercials no són resultats de Beespoke. Totes les situacions, registres i xifres nous són ficticis.",
+    "faq": [
+      "Captar demanda existent és el mateix que generar leads?",
+      "No exactament. Captar demanda existent ajuda qui ja té interès a trobar i avaluar una oferta i fer el pas següent. Generar leads identifica interès comercial rellevant i un pas següent adequat. Poden coincidir, però un registre de contacte o una descàrrega no demostren per si sols intenció de compra."
+    ]
+  },
+  "fr": {
+    "dateLabel": "5 novembre 2026",
+    "jump": "Voir un diagnostic complet",
+    "workbook": "Ouvrir la fiche de planification facultative",
+    "workbookNote": "Lisez d’abord l’exemple complet ou utilisez la fiche pour votre décision. Aucune donnée n’est envoyée ni enregistrée. Exportez vos notes avant de partir.",
+    "cta": "Apportez votre offre, les acheteurs visés et les éléments dont vous disposez. Nous pourrons examiner si la prochaine étape utile relève de l’outbound, de l’inbound, du parcours de prise de contact ou du relais commercial. Convenons du périmètre avant toute mise en œuvre.",
+    "termsTitle": "Trois termes à définir avant de choisir une tactique",
+    "terms": [
+      [
+        "Création de demande",
+        "Aider un acheteur pertinent à comprendre un problème ou à envisager une autre façon de le résoudre."
+      ],
+      [
+        "Captation de la demande existante",
+        "Aider une personne qui explore déjà un problème à trouver et évaluer une offre adaptée, puis à passer à l’étape suivante."
+      ],
+      [
+        "Génération de leads",
+        "Identifier un intérêt commercial pertinent et convenir d’une prochaine étape adaptée. Disposer de coordonnées ne démontre pas cet intérêt."
+      ]
+    ],
+    "termsNote": "Certaines équipes emploient génération de demande au sens large, captation comprise ; d’autres la limitent à la création de demande. Convenez des définitions. Ni un formulaire ni un canal ne prouvent où en est l’acheteur.",
+    "cohortTitle": "Résolvez un diagnostic avant d’ajouter de l’activité",
+    "cohortIntro": "Exemple B2B fictif : il ne s’agit ni d’un résultat client ni d’une référence du marché. Une équipe examine 80 demandes initiales d’une ressource reçues sur une même période de 28 jours. Lors d’un bilan ultérieur convenu, elle distingue adéquation au public visé, demandes commerciales et résultats des rendez-vous. Elle compte des personnes et leurs dossiers d’origine, pas des entreprises cibles.",
+    "metricLabels": [
+      "Demandes initiales",
+      "Demandes commerciales pertinentes",
+      "Rendez-vous tenus et qualifiés"
+    ],
+    "breakdownLabels": [
+      "60 hors des critères d’acheteur",
+      "12 demandes commerciales pertinentes",
+      "8 dossiers non encore évalués"
+    ],
+    "breakdownNotes": [
+      "Les fonctions ou besoins enregistrés ne correspondent pas aux critères écrits du public visé.",
+      "La personne répond à ces critères et a demandé une prochaine étape commerciale pertinente.",
+      "Les éléments manquent. Ces dossiers ne sont classés ni comme inadaptés ni comme qualifiés."
+    ],
+    "cohortFlow": "Parmi les 12 demandes commerciales pertinentes, huit ont donné lieu à une réservation initiale. Six rendez-vous ont eu lieu : quatre répondaient aux critères de qualification convenus et deux non. Parmi les deux rendez-vous non tenus, l’un a été annulé et l’autre restait prévu à une date future.",
+    "cohortRates": "Demandes commerciales pertinentes : 12 ÷ 80 = 15 %. Réservations issues de ces demandes : 8 ÷ 12 = 66,7 %. Présence : 6 ÷ 8 = 75 %. Qualification parmi les rendez-vous tenus : 4 ÷ 6 = 66,7 %. Chaque taux répond à une question différente. Si le dénominateur est nul, le taux reste indéfini ; une donnée inconnue n’est pas un zéro.",
+    "cohortDecision": "Vérifiez d’abord pourquoi la ressource attire autant de personnes hors du public visé, puis évaluez les huit dossiers en attente. Plus de téléchargements ne résoudrait pas ce problème à lui seul. Cette petite cohorte fictive ne permet ni de prévoir un volume hebdomadaire fiable ni d’établir quelle activité a causé un résultat.",
+    "channelTitle": "Un même objectif peut utiliser plusieurs canaux",
+    "channels": [
+      [
+        "Objectif de demande · inbound",
+        "Un guide sans formulaire aide un acheteur des opérations à comprendre un problème de transmission.",
+        "Vérifiez si les bons lecteurs peuvent expliquer le problème ; le trafic seul ne le prouve pas."
+      ],
+      [
+        "Objectif de demande · outbound",
+        "Un message pertinent propose une courte explication du problème de transmission.",
+        "Une question ou réponse substantielle peut orienter la conversation. Un message envoyé ne prouve pas la création de demande."
+      ],
+      [
+        "Objectif de leads · inbound",
+        "Un comparatif précise le périmètre et propose un moyen clair de demander de l’aide.",
+        "Consignez les demandes initiales pertinentes et les réservations vérifiées, puis la présence et la qualification."
+      ],
+      [
+        "Objectif de leads · outbound",
+        "Un message préparé à partir de recherches demande si une conversation précise et pertinente serait utile.",
+        "Distinguez intérêt positif, réservation initiale et rendez-vous tenu et qualifié."
+      ]
+    ],
+    "messageTitle": "Laissez le motif du message déterminer la prochaine étape",
+    "messageContext": "Situation entièrement fictive : une personne responsable des opérations a expliqué publiquement que du travail se perdait entre deux équipes. Ces deux débuts de message servent des objectifs différents ; ce sont des options, pas une séquence automatisée.",
+    "openings": [
+      [
+        "Aider à comprendre",
+        "Votre publication sur le travail qui se perd entre les deux équipes soulève une question utile : qui prend en charge la suite lorsqu’une réponse arrive ? J’ai un court exemple de transmission, si cela peut vous aider.",
+        "Le motif est une contribution publique de la personne. L’offre consiste en une explication utile, sans présumer un besoin d’achat."
+      ],
+      [
+        "Explorer un intérêt commercial pertinent",
+        "Vous expliquiez que les réponses restaient entre les deux équipes. Nous aidons les équipes B2B à organiser ce relais dans des campagnes outbound gérées. Une courte conversation sur le processus souhaité vous serait-elle utile ?",
+        "Reliez une observation vérifiée à une question limitée. N’inventez ni son coût, ni son urgence, ni son effet sur le chiffre d’affaires."
+      ]
+    ],
+    "practice": "Partez de la personne et des critères d’acheteur convenus. Une activité pertinente sur LinkedIn peut en faire le premier canal adapté ; l’e-mail peut mieux convenir à une personne qui n’y est pas active. Le contexte peut venir d’une publication publique, de sa fonction, d’un point commun réel ou d’éléments sur l’entreprise. Retenez ce qui sert la conversation. Une structure commune ne doit pas transformer chaque message en un texte identique.",
+    "writingLink": "Travailler un message de cold email complet",
+    "followupLink": "Choisir une relance proportionnée",
+    "diagnosesTitle": "Associez un responsable et une vérification à chaque diagnostic",
+    "diagnoses": [
+      [
+        "Offre méconnue",
+        "Le responsable de l’offre clarifie une explication et les preuves autorisées. Continuez lorsque les bons acheteurs comprennent ; changez l’explication si les mêmes incompréhensions persistent."
+      ],
+      [
+        "Progression interrompue",
+        "Le responsable du site corrige le défaut de contact démontré. Vérifiez le contrôle et la réception avant d’augmenter l’acquisition ; une attribution incomplète nécessite sa propre vérification."
+      ],
+      [
+        "Public inadapté",
+        "Le référent client compare fonctions et demandes aux critères écrits. Revoyez le ciblage ou la promesse de la ressource si le manque d’adéquation persiste ; gardez les dossiers non évalués en attente."
+      ],
+      [
+        "Relais commercial défaillant",
+        "Le responsable commercial prend en charge la réponse pertinente, la prochaine action et le résultat ultérieur. Suspendez l’élargissement tant que les demandes réelles ne peuvent pas être suivies jusqu’à leur issue."
+      ]
+    ],
+    "gatingTitle": "Demandez des informations quand la prochaine étape l’exige",
+    "gating": [
+      [
+        "Apprendre",
+        "Laissez lire une explication utile sans coordonnées. La lecture ne démontre pas une disposition à acheter."
+      ],
+      [
+        "Planifier",
+        "Gardez cette fiche facultative et locale. La remplir sert à planifier ; cela ne crée ni lead vérifié ni demande adressée à Beespoke."
+      ],
+      [
+        "Demander une aide commerciale",
+        "Expliquez l’objet de la conversation, qui répond et ce qui suit. Ne demandez que les informations nécessaires à cet objectif."
+      ]
+    ],
+    "recordsTitle": "Conservez l’origine et l’identité de la réservation avec le résultat",
+    "records": [
+      [
+        "D01 · origine outbound, appui du guide",
+        "Une personne répond à un message LinkedIn préparé à partir de recherches, lit ce guide et réserve. L’origine établie est l’outbound ; le guide apporte un appui. Comptez une réservation initiale, puis la présence et la qualification réelles."
+      ],
+      [
+        "D02 · origine inconnue, créneau déplacé",
+        "La source initiale n’est pas vérifiée et le rendez-vous est reprogrammé. Conservez l’identité et la date de création d’origine. Le nouveau créneau n’est pas un autre lead ; l’origine et la qualification restent inconnues sans éléments probants."
+      ]
+    ],
+    "recordNote": "Ces illustrations sont distinctes : ce ne sont pas des résultats à ajouter à la cohorte de 80 dossiers. L’attribution Analytics et les preuves du premier contact peuvent différer ; conservez les deux définitions. Excluez les visites d’audit avant de comparer le trafic de prospects.",
+    "briefTitle": "Un brief complet pour la prochaine action justifiée",
+    "brief": [
+      [
+        "Problème et éléments probants",
+        "La ressource fictive attire de nombreux dossiers hors des critères d’acheteur ; huit restent non évalués. Les contrôles de réservation ne sont pas une cause démontrée."
+      ],
+      [
+        "Action et autre option",
+        "Examinez d’abord le public et la promesse de la ressource. Si les bons acheteurs rencontrent plutôt un défaut reproductible de prise de contact, corrigez-le avant d’ajouter de l’acquisition."
+      ],
+      [
+        "Livrable",
+        "Une définition du public revue, une explication plus claire et un relais écrit de la réponse au rendez-vous. Comptez une seule fois les coûts de recherche ou de contenu partagés, sans les imputer intégralement aux deux objectifs."
+      ],
+      [
+        "Approbation et exécution",
+        "Le client apporte son jugement sur la liste de leads. Beespoke peut étudier les profils, rédiger des messages individuels et configurer les actions outbound convenues avec autorisation. Cette fiche ne lance aucune campagne."
+      ],
+      [
+        "Ventes et capacité",
+        "Le client assure les rendez-vous de découverte, les propositions et la conclusion des ventes. Convenez de qui traite les réponses et de la vérification des réservations dans son calendrier ou CRM."
+      ],
+      [
+        "Décision du bilan",
+        "Continuez, modifiez ou suspendez l’élargissement après la période d’observation convenue et avec des résultats arrivés à maturité. Examinez adéquation, éléments manquants et rendez-vous tenus et qualifiés, sans promettre de répartition budgétaire ni de délai universels de retour."
+      ]
+    ],
+    "sourceNote": "Références méthodologiques vérifiées de nouveau le 5 novembre 2026. Les sources délimitent ces termes différemment. Leurs exemples et affirmations commerciales ne sont pas des résultats de Beespoke. Toutes les nouvelles situations, fiches et données chiffrées sont fictives.",
+    "faq": [
+      "Capter la demande existante revient-il à générer des leads ?",
+      "Pas exactement. Capter la demande existante aide une personne déjà intéressée à trouver et évaluer une offre, puis à agir. Générer des leads identifie un intérêt commercial pertinent et une prochaine étape adaptée. Les deux peuvent se recouper, mais des coordonnées ou un téléchargement ne prouvent pas à eux seuls une intention d’achat."
+    ]
+  }
+}
