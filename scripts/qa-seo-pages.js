@@ -45,7 +45,7 @@ for (const page of pages) {
     if (!html.includes("class=\"original-tool")) failures.push(`${page.path}: missing original page utility`);
     if (!html.includes("class=\"competitive-depth\"")) failures.push(`${page.path}: missing buyer decision depth`);
   }
-  if ((html.match(/<table>/g) || []).length < (page.path === "/about/noah-levy/" ? 0 : 1)) failures.push(`${page.path}: missing decision table`);
+  if ((html.match(/<table\b/g) || []).length < (page.path === "/about/noah-levy/" ? 0 : 1)) failures.push(`${page.path}: missing decision table`);
   const jsonLd = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   if (!jsonLd) continue;
   const graph = JSON.parse(jsonLd[1])["@graph"] || [];

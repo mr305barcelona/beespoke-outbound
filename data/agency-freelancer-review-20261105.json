@@ -1,0 +1,1598 @@
+{
+  "en": {
+    "answer": "Choose an outbound freelancer for a defined assignment when their skills and capacity fit and you can own the remaining work. Choose a managed provider when you need research, messaging, execution, replies and reporting coordinated. An agency label does not prove backup, and an independent operator may offer a managed service. Compare the actual scope, people, permissions, continuity and sales handoff before comparing fees.",
+    "jump": "Compare two worked proposals",
+    "dateLabel": "November 5, 2026",
+    "fiction": "All businesses, proposals, messages, hours and records in the examples below are invented. They are not Beespoke or customer results.",
+    "sections": [
+      {
+        "id": "the-decision-in-one-table",
+        "title": "Compare the work before the label",
+        "p": [
+          "This comparison concerns cold outbound: researching suitable people, approaching them through an agreed channel and handling the resulting conversations. It is not a comparison of website traffic, advertising or software subscriptions. A freelancer sells an independent engagement; an agency contracts to deliver an agreed service. Either can delegate work, manage a programme or depend heavily on one person.",
+          "Keep the useful distinction between a bounded task and a managed programme. Then ask the same questions of both candidates. A small agency does not automatically supply a dedicated team; a solo specialist does not automatically leave strategy or reporting to you."
+        ],
+        "headers": [
+          "Decision",
+          "Independent specialist",
+          "Agency"
+        ],
+        "rows": [
+          [
+            "Scope",
+            "Which tasks will this person own, and which stay with you?",
+            "Which tasks does the actual agreement include, and who performs them?"
+          ],
+          [
+            "Management",
+            "Can they manage the whole programme, or do they need your direction?",
+            "Who joins up the work, and what judgment is still required from you?"
+          ],
+          [
+            "Continuity",
+            "Who can pause, cover or hand over if they are unavailable?",
+            "Is coverage assigned to your account, rather than just present on a team page?"
+          ],
+          [
+            "Expertise",
+            "Review a relevant sample and its reasoning.",
+            "Review the work of the people assigned to you, not only the sales presentation."
+          ],
+          [
+            "Cost and control",
+            "Compare the quote, your workload, tools and exit terms.",
+            "Use the same period and scope; establish access, extras and exit terms."
+          ]
+        ]
+      },
+      {
+        "id": "af-worked-proposals",
+        "title": "One buyer brief, two very different proposals",
+        "p": [
+          "A fictional specialist service wants to approach operations owners at multi-site B2B testing firms about coordinating work across locations. A public expansion announcement is a reason to investigate; it does not prove a coordination problem. The business has an internal sales owner, but no person assigned to run outbound.",
+          "The same brief goes to both candidates: verify account and role fit; exclude customers, restricted accounts and previous declines; research individual reasons; use cold email and, where relevant public activity supports it, LinkedIn within the agreed scope; handle replies; preserve context; and hand suitable conversations to the client's sales owner. No calling or content-production package is assumed."
+        ],
+        "headers": [
+          "Workstream",
+          "Proposal A: independent specialist",
+          "Proposal B: agency"
+        ],
+        "rows": [
+          [
+            "Research",
+            "Builds and documents a candidate list; client approves fit.",
+            "Research owner builds and documents a candidate list; client approves fit."
+          ],
+          [
+            "Messages",
+            "Writes individual openings; client reviews the agreed sample.",
+            "Message owner writes individual openings; client reviews the agreed sample."
+          ],
+          [
+            "Execution",
+            "Client must configure and monitor the authorised campaign.",
+            "Delivery owner configures and monitors the authorised campaign."
+          ],
+          [
+            "Replies",
+            "Client must read replies and arrange the next step.",
+            "Reply owner handles replies against the agreed criteria."
+          ],
+          [
+            "Reporting",
+            "Supplies the researched list and written copy.",
+            "Reporting owner reconciles activity, original bookings and later outcomes."
+          ],
+          [
+            "Handoff",
+            "Client assembles the context for sales.",
+            "Reply owner transfers confirmed facts and unknowns; client owns discovery and closing."
+          ]
+        ],
+        "after": [
+          "Proposal A is a coherent research-and-copy assignment. It is not yet a complete managed campaign for this buyer because execution and replies have no available internal owner. Proposal B covers more work, but its names, availability, permissions and backup still need verification. The label does not settle the decision.",
+          "An independent specialist offering the same managed scope could remain a candidate. If Proposal B cannot demonstrate who actually handles replies, it fails the same check. Neither proposal is a real provider offer or a price comparison."
+        ]
+      },
+      {
+        "id": "continuity-test",
+        "title": "Test what happens when the operator is unavailable",
+        "p": [
+          "Keep three checks: access, usable assets and actual coverage. Turn them into a short recovery demonstration using fictional or suitably restricted records. Nobody needs to contact a prospect to prove that a handover works."
+        ],
+        "ol": [
+          "Ask the authorised account owner to locate the active campaign and explain how it can be paused. Use delegated access appropriate to the role, not shared passwords.",
+          "Have the proposed cover person identify the approved audience, message version, account exclusions and last completed action in the handover record.",
+          "Ask them to find a fictional unanswered reply and explain the next step, its owner and any approval needed. A person listed as backup who lacks context or access is not verified cover.",
+          "Record what could not be demonstrated, who resolves it and whether work stays paused. Do not turn the demonstration into permission to send."
+        ],
+        "after": [
+          "A documented handover can reduce dependency for either model. It does not eliminate interruption risk or promise a recovery time. Confirm the actual coverage window, escalation route and contractual responsibility rather than assuming 24-hour support."
+        ]
+      },
+      {
+        "id": "a-freelancer-is-often-better-when",
+        "title": "When a specialist is the better fit",
+        "p": [
+          "A bounded assignment can be the right purchase when the rest of the process already has capable owners. Define the deliverable, acceptance criteria and handover, so that direct access to a specialist produces a useful result."
+        ],
+        "ul": [
+          "You need one specific skill, such as reviewing a research sample or rewriting messages.",
+          "An internal owner can assess the work and coordinate execution, replies and sales.",
+          "The specialist's relevant experience and availability have been checked.",
+          "Continuity risk is understood, and usable records stay available after delivery."
+        ],
+        "case": [
+          "Fictional decision: buy a writing assignment",
+          "An internal outbound owner already manages approved accounts, execution and replies. The gap is that messages make generic claims instead of explaining a reason to write. A specialist is asked to revise a sample and explain the choices. Acceptance is a relevant, accurate message for each supplied situation and a handover the internal owner can use. If the owner becomes unavailable, this decision must be reviewed; the writing assignment does not suddenly include campaign management."
+        ]
+      },
+      {
+        "id": "an-agency-is-often-better-when",
+        "title": "When coordinated delivery is worth buying",
+        "p": [
+          "A managed arrangement is useful when research, individual messages, execution, replies and reporting need one accountable delivery owner. An agency can provide that arrangement, but verify the actual allocation and responsibilities. More profiles on a website do not prove more capacity for your account."
+        ],
+        "ul": [
+          "You need several workstreams joined up, rather than another uncoordinated pair of hands.",
+          "There is no suitable internal operator to direct the day-to-day programme.",
+          "The proposed delivery owner can explain capacity, review, absence cover and escalation.",
+          "Your business can still judge buyer fit and handle discovery, proposals and closing."
+        ],
+        "case": [
+          "Fictional decision: buy managed delivery",
+          "The buyer in the worked brief has no internal execution or reply owner. It should compare managed scopes, including capable independent operators, and verify the handoff in practice. If the assigned people, approval route or access cannot be demonstrated, hold the engagement rather than treating a team label as evidence."
+        ],
+        "after": [
+          "Third outcome: hire neither yet. If the offer, permitted proof or receiving sales capacity is unresolved, first resolve that dependency. The missing evidence is not a reason to demand more messages or promise meetings earlier."
+        ]
+      },
+      {
+        "id": "af-client-work",
+        "title": "Put the client's time beside the quote",
+        "p": [
+          "Fictional four-week planning example: the buyer has 10 internal hours available for coordination and campaign decisions, excluding discovery and closing. Proposal A needs 8 hours of execution coordination, 2 for reply handling and 2 for approvals: 12 hours. Proposal B assumes 2 hours of coordination, 2 for clarification and 2 for approvals: 6 hours. These are invented assumptions about these proposals, not average workloads for freelancers or agencies.",
+          "A exceeds capacity by 2 hours; B leaves 4 hours within this particular allowance. If B actually needs 8 coordination hours instead of 2, its total becomes 12 and it also exceeds capacity. Unknown hours stay unknown until the owner and provider agree the work. Six available hours do not forecast six meetings."
+        ],
+        "dl": [
+          [
+            "Compare the same period",
+            "Provider quote + separately charged setup, software and data + agreed value of client time + known transition costs. Use the same currency and commitment window."
+          ],
+          [
+            "Avoid double counting",
+            "If a tool or task is included, do not add it again. Count shared coordination once. Keep taxes or contract terms unresolved until confirmed."
+          ],
+          [
+            "Ask for the complete commitment",
+            "What is due during setup, what repeats, what requires extra approval and what ends the arrangement? Compare the written scope before a headline monthly fee."
+          ]
+        ]
+      },
+      {
+        "id": "compare-people-not-labels",
+        "title": "Ask the operator to show the decisions",
+        "p": [
+          "Ask who researches, writes, configures approved activity, reads replies and reports. If work is delegated, ask how it is reviewed and how changes reach the person responsible. Senior involvement should be visible in decisions after the sale, not just in an introductory call.",
+          "Give candidates the same fictional research and reply situations. Ask what they would accept, reject or investigate, and why. Agree whether a bespoke evaluation is paid; do not demand production work or identifiable customer records as a free test. A review of fictional material authorises no prospect contact.",
+          "Review evidence with its dates, denominators and scope. A useful sample explains what is known, what is missing and what changed after a contrary response. A testimonial, a lead count or the price of a software subscription does not demonstrate these decisions."
+        ],
+        "links": [
+          [
+            "/guides/how-to-choose-an-outbound-lead-generation-agency/",
+            "Use the detailed agency selection guide"
+          ],
+          [
+            "/guides/b2b-lead-generation-consultant-vs-agency/",
+            "Need advice rather than delivery?"
+          ]
+        ]
+      },
+      {
+        "id": "af-research-sample",
+        "title": "A small research sample should reveal judgment",
+        "p": [
+          "Use these invented records to ask what the candidate would do. Approval of an account list is separate from permission to execute a campaign."
+        ],
+        "cards": [
+          [
+            "Research further",
+            "A public post discusses coordinating work between sites. The company appears to match the agreed B2B model and the person's role is relevant. Verify the source, role and fit; do not assert that the business needs a new supplier."
+          ],
+          [
+            "Hold",
+            "The company fits, but the person's responsibility and current role are unclear. Record the missing evidence and investigate before treating the contact as suitable."
+          ],
+          [
+            "Exclude",
+            "The organisation is an existing customer, a restricted account or a previous decline covered by the agreed exclusions. A different contact or channel does not erase that restriction."
+          ]
+        ],
+        "after": [
+          "Relevant public LinkedIn activity may support choosing LinkedIn first. Email may be more suitable for a reachable person who is not active there. Genuine public posts, role, company context or a real shared interest can supply a reason to write. A location or personal detail should not be forced into the message, and none of these signals proves permission or purchase intent."
+        ]
+      },
+      {
+        "id": "af-message-sample",
+        "title": "Review the reason to write, then the follow-up",
+        "p": [
+          "Fictional writing exercise: the public post concerns work being handed between sites. The sender offers a relevant coordination service. The candidate must explain the connection without inventing a problem or a shared experience."
+        ],
+        "quotes": [
+          "Your post about work passing between sites raises a useful question: who keeps the handover current when a job moves? We help teams organise that step. Is that something you handle, or would another colleague be better placed?",
+          "Hi, just checking back on the question below. Would a short conversation be useful?"
+        ],
+        "after": [
+          "The opening names a specific topic, explains a plausible connection and asks a question the person can answer. It does not claim that their process is broken. The short follow-up does not repeat the full argument. Around four days is an example of a planned interval, not a universal rule; stop on a reply or an applicable exclusion.",
+          "Beespoke's usual approach is an individually relevant opening and a brief follow-up, with channel coordination where appropriate. Two messages are a practice, not a guarantee of response. Any further channel needs agreed scope, a justified next step and a record that prevents overlapping approaches. Judge the actual writing, not whether a phrase supposedly proves AI authorship."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Review complete writing examples"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Plan restrained follow-ups"
+          ]
+        ]
+      },
+      {
+        "id": "af-handoff",
+        "title": "Follow one reply through to sales",
+        "p": [
+          "Fictional reply: “I coordinate the handovers, but we are keeping our current supplier. We could discuss the new site next quarter.” A good handoff preserves that constraint. It does not rewrite a possible later conversation as an urgent replacement opportunity."
+        ],
+        "dl": [
+          [
+            "Confirmed",
+            "Relevant role, current supplier retained, possible later discussion about a new site."
+          ],
+          [
+            "Still unknown",
+            "Need, budget, buying authority and whether a meeting is wanted now."
+          ],
+          [
+            "Next action",
+            "Reply owner clarifies timing or records the agreed later follow-up. Client sales owner accepts the context and handles discovery."
+          ],
+          [
+            "Booking evidence",
+            "A calendar click is not a booking. Record an actual original booking identity and creation date when available; retain cancellations and reschedules against it."
+          ],
+          [
+            "Later outcomes",
+            "Booked, held and qualified-held are different states. No meeting or qualification is established by the fictional reply above."
+          ],
+          [
+            "Source",
+            "If outreach started the conversation and a guide helped later, retain outreach origin and website assistance. Do not count it as an independently website-acquired lead."
+          ]
+        ]
+      },
+      {
+        "id": "af-review",
+        "title": "Agree what would change the decision",
+        "cards": [
+          [
+            "Continue",
+            "The agreed sample meets fit and copy criteria, ownership is clear and the receiving sales person can act. Continue only the authorised scope and keep observing workload and outcomes."
+          ],
+          [
+            "Change",
+            "A relevant reply reveals a different responsibility or constraint. Update the research or message hypothesis, obtain the required approval and explain the change in the report."
+          ],
+          [
+            "Pause",
+            "An exclusion is ignored, a claim is unsupported, no one owns replies, or activity exceeds approved scope. Name the owner and evidence needed to resolve the gap before resuming."
+          ]
+        ],
+        "p": [
+          "Agree a review point around the work that can actually be observed, distinguishing setup from an active campaign. A missing approval is a workflow fact; a small sample of unanswered messages is not a precise prediction of market demand. Count accounts, contacts, replies, original bookings, held and qualified-held meetings separately, with explicit denominators and complete periods."
+        ]
+      },
+      {
+        "id": "af-transition",
+        "title": "Make hybrid delivery and exit workable",
+        "p": [
+          "A specialist can supply research or copy while another provider manages execution. Name one person who accepts the transfer. The sending owner must verify the latest list, exclusions, approved message and reply route; a file being delivered does not prove it is ready to use."
+        ],
+        "ol": [
+          "Confirm which accounts and records your business owns or is entitled to export, including any licence restrictions.",
+          "Keep usable copies of approved messages, research rationale, source dates, campaign state and conversation history that you may retain.",
+          "Transfer exclusions, opt-out status and agreed next actions with the records, so a change of supplier does not restart unwanted approaches.",
+          "Reconcile queued activity and open replies. Agree who pauses or closes each authorised action and when the receiving owner accepts responsibility.",
+          "After the handover is accepted, remove obsolete delegated access and confirm what information must be retained or deleted under the agreed terms."
+        ],
+        "after": [
+          "Do not cancel access while the only usable handover still depends on it. Never copy passwords into a handover spreadsheet. This is an operating checklist, not a statement that a contract or data licence permits every export."
+        ]
+      },
+      {
+        "id": "where-beespoke-fits",
+        "title": "Where Beespoke fits",
+        "p": [
+          "Beespoke provides founder-led managed cold email and/or cold LinkedIn. The work includes targeting, account research, individual messages and follow-up, replies, qualification and meeting booking against agreed criteria. Your judgment is needed to approve buyer fit; programming or executing messages on your behalf requires authorisation.",
+          "The client handles discovery, proposals and closing. Calling is separately quoted by market, and required software, data and third-party costs are separate unless included in the written scope. Founder-led delivery does not imply a dedicated full-time SDR, a fixed headcount, automatic backup cover or unlimited channels.",
+          "A strong independent specialist may be the better fit for a narrow assignment, embedded role or specialist need outside the agreed service. Bring the actual gap to a fit conversation rather than buying a label."
+        ],
+        "links": [
+          [
+            "/services/outbound-lead-generation/",
+            "Review the managed outbound service"
+          ],
+          [
+            "/pricing/",
+            "Check current scope and terms"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Take a clear brief into the conversation",
+        "p": [
+          "Before signing, write the gap you are buying help with, who owns every step, what your team must supply and what would cause a pause. Ask who attends strategy and review conversations, who approves targeting and messages, who reads replies and who changes the plan when the evidence contradicts it. A founder-led label is useful only when that judgment stays connected to execution."
+        ],
+        "downloadTitle": "Optional comparison questions",
+        "downloadLabel": "Download the questions as CSV",
+        "downloadNote": "A local download of the six questions below. No form, contact details or submission. Fill in your own copy and keep confidential information in your own approved systems.",
+        "questions": [
+          [
+            "Scope",
+            "What exact buyer, offer, channel and workstreams are included or excluded?"
+          ],
+          [
+            "Ownership",
+            "Who performs each step, approves fit and accepts the sales handoff?"
+          ],
+          [
+            "Capacity and cost",
+            "What time does our team need, what is the full commitment and which extras require approval?"
+          ],
+          [
+            "Evidence",
+            "Can the actual operator explain a fictional research, message and reply sample?"
+          ],
+          [
+            "Continuity and exit",
+            "Who can pause or cover, and which records and permissions survive a handover?"
+          ],
+          [
+            "Review",
+            "What observations justify continuing, changing or pausing; who makes that decision?"
+          ]
+        ]
+      },
+      {
+        "id": "af-faq",
+        "title": "Questions about choosing outbound help",
+        "faqs": [
+          [
+            "Can a freelancer manage a complete outbound campaign?",
+            "Yes, if the person or disclosed delivery arrangement has the relevant skills, capacity, permissions and continuity plan. Verify the actual scope and remaining client work rather than assuming freelancers only perform isolated tasks."
+          ],
+          [
+            "Is an agency always more reliable?",
+            "No. Confirm the people assigned to your account, usable records, access, absence cover and escalation. An agency can still depend on one person; an independent specialist may have a documented handover."
+          ],
+          [
+            "Which option costs less?",
+            "Compare written proposals for the same scope, period and currency, including your time, software, data, setup and exit commitments. Neither label establishes the lower total cost or a better return."
+          ],
+          [
+            "What must the client still do?",
+            "The agreed scope decides the split. For Beespoke, client judgment is needed on buyer fit and approvals, and the client owns discovery, proposals and closing. Managed outbound does not remove those responsibilities."
+          ],
+          [
+            "Can I combine a specialist with an agency?",
+            "Yes. Separate the workstreams, name the accepting owner at each boundary and preserve exclusions, message approval and reply context. Do not leave list verification or reply handling between two providers."
+          ],
+          [
+            "Does hiring either option guarantee qualified meetings?",
+            "No. Evaluate the work and measure actual original bookings, attendance and qualification separately. A forecast, calendar click or sample message does not establish a booked or qualified call."
+          ]
+        ]
+      }
+    ],
+    "sourceTitle": "Sources and method",
+    "sourceNote": "Publisher comparisons were reviewed on November 5, 2026. They inform the questions about scope, management time, continuity and handoff. The worked proposals, hours, messages and records are original fictional teaching material. Vendor prices, performance statistics, staffing, timelines and legal claims are not Beespoke promises. Some sources discuss general marketing rather than outbound; their questions are adapted here rather than treated as universal rules."
+  },
+  "es": {
+    "answer": "Elige un profesional independiente para un encargo definido cuando sus capacidades encajen y puedas asumir el trabajo restante. Busca un servicio gestionado si necesitas coordinar investigación, mensajes, ejecución, respuestas e informes. Ser una agencia no demuestra que haya cobertura de sustitución; un independiente también puede gestionar el programa completo. Compara el alcance real, las personas, los permisos, la continuidad y el traspaso a ventas antes de comparar honorarios.",
+    "jump": "Comparar dos propuestas completas",
+    "dateLabel": "5 de noviembre de 2026",
+    "fiction": "Todas las empresas, propuestas, mensajes, horas y fichas de los ejemplos son inventados. No son resultados de Beespoke ni de clientes.",
+    "sections": [
+      {
+        "id": "the-decision-in-one-table",
+        "title": "Compara el trabajo antes que la etiqueta",
+        "p": [
+          "Esta comparación trata de prospección en frío: investigar personas adecuadas, contactarlas por un canal acordado y gestionar las conversaciones. No compara tráfico web, publicidad ni suscripciones de software. Un independiente presta un servicio por cuenta propia; una agencia se compromete a entregar el servicio acordado. Ambos pueden delegar, gestionar un programa o depender mucho de una sola persona.",
+          "Distingue entre un encargo acotado y un programa gestionado. Después plantea las mismas preguntas a ambos candidatos. Una agencia pequeña no aporta automáticamente un equipo dedicado; un especialista independiente no deja necesariamente la estrategia o los informes en tus manos."
+        ],
+        "headers": [
+          "Decisión",
+          "Especialista independiente",
+          "Agencia"
+        ],
+        "rows": [
+          [
+            "Alcance",
+            "¿Qué tareas asume y cuáles quedan para tu equipo?",
+            "¿Qué incluye el acuerdo y quién realiza cada tarea?"
+          ],
+          [
+            "Gestión",
+            "¿Gestiona el programa completo o necesita dirección interna?",
+            "¿Quién coordina el trabajo y qué decisiones siguen siendo tuyas?"
+          ],
+          [
+            "Continuidad",
+            "¿Quién puede pausar, cubrir una ausencia o hacer el traspaso?",
+            "¿Hay cobertura asignada a tu cuenta o solo personas en la web?"
+          ],
+          [
+            "Experiencia",
+            "Revisa una muestra pertinente y su razonamiento.",
+            "Revisa el trabajo de las personas asignadas, además de la presentación comercial."
+          ],
+          [
+            "Coste y control",
+            "Compara propuesta, carga interna, herramientas y finalización del servicio.",
+            "Usa el mismo periodo y alcance; aclara acceso, extras y finalización del servicio."
+          ]
+        ]
+      },
+      {
+        "id": "af-worked-proposals",
+        "title": "Un mismo encargo, dos propuestas distintas",
+        "p": [
+          "Una empresa ficticia de servicios especializados quiere contactar con responsables de operaciones de empresas B2B de ensayos con varias sedes para hablar de coordinación. Un anuncio público de expansión invita a investigar; no demuestra que exista un problema. Hay responsable comercial interno, pero nadie asignado a ejecutar la prospección.",
+          "Ambos candidatos reciben el mismo encargo: verificar empresa y función; excluir clientes, cuentas restringidas y negativas anteriores; investigar motivos individuales; usar email en frío y, cuando la actividad pública pertinente lo justifique, LinkedIn dentro del alcance; gestionar respuestas; conservar contexto y traspasar conversaciones adecuadas a ventas. No se presupone un paquete de llamadas ni de creación de contenido."
+        ],
+        "headers": [
+          "Área",
+          "Propuesta A: independiente",
+          "Propuesta B: agencia"
+        ],
+        "rows": [
+          [
+            "Investigación",
+            "Prepara y documenta la lista; el cliente aprueba el encaje.",
+            "El responsable de investigación prepara la lista; el cliente aprueba el encaje."
+          ],
+          [
+            "Mensajes",
+            "Redacta aperturas individuales; el cliente revisa la muestra acordada.",
+            "El responsable de mensajes redacta aperturas individuales; el cliente revisa la muestra."
+          ],
+          [
+            "Ejecución",
+            "El cliente configura y supervisa la campaña autorizada.",
+            "El responsable de ejecución configura y supervisa la campaña autorizada."
+          ],
+          [
+            "Respuestas",
+            "El cliente lee respuestas y organiza el siguiente paso.",
+            "El responsable de respuestas actúa según los criterios acordados."
+          ],
+          [
+            "Informes",
+            "Entrega la lista investigada y los textos.",
+            "El responsable de informes concilia actividad, reservas originales y resultados posteriores."
+          ],
+          [
+            "Traspaso",
+            "El cliente reúne el contexto para ventas.",
+            "El responsable de respuestas transfiere hechos y dudas; el cliente dirige descubrimiento y cierre."
+          ]
+        ],
+        "after": [
+          "A es un encargo coherente de investigación y redacción. Todavía no es una campaña gestionada completa para este comprador: ejecución y respuestas no tienen responsable interno disponible. B cubre más trabajo, pero faltan por verificar personas, disponibilidad, permisos y sustituciones. La etiqueta no resuelve la decisión.",
+          "Un independiente que ofreciera el mismo alcance gestionado seguiría siendo candidato. Si B no demuestra quién gestiona las respuestas, tampoco pasa la comprobación. Ninguna es una oferta real ni una comparación de precios."
+        ]
+      },
+      {
+        "id": "continuity-test",
+        "title": "Comprueba qué ocurre si falta el responsable",
+        "p": [
+          "Mantén tres comprobaciones: acceso, materiales utilizables y cobertura real. Haz una breve demostración de recuperación con fichas ficticias o debidamente restringidas. No hace falta contactar con nadie para demostrar que el traspaso funciona."
+        ],
+        "ol": [
+          "Pide al titular autorizado que localice la campaña y explique cómo pausarla. Usa acceso delegado adecuado, no contraseñas compartidas.",
+          "La persona propuesta para cubrir la ausencia debe localizar público aprobado, versión del mensaje, exclusiones y última acción completada.",
+          "Pídele que encuentre una respuesta ficticia pendiente y explique siguiente paso, responsable y aprobación. Figurar como sustituto sin contexto ni acceso no demuestra cobertura.",
+          "Anota qué no se ha podido demostrar, quién lo resuelve y si el trabajo sigue pausado. La demostración no autoriza envíos."
+        ],
+        "after": [
+          "Documentar el traspaso puede reducir la dependencia en ambos modelos. No elimina el riesgo ni promete un plazo de recuperación. Confirma horario de cobertura, escalado y responsabilidad contractual; no presupongas atención permanente."
+        ]
+      },
+      {
+        "id": "a-freelancer-is-often-better-when",
+        "title": "Cuándo encaja mejor un especialista",
+        "p": [
+          "Un encargo acotado puede ser la compra adecuada si el resto del proceso ya tiene responsables capacitados. Define entrega, aceptación y traspaso para que el acceso directo al especialista produzca algo utilizable."
+        ],
+        "ul": [
+          "Necesitas una capacidad concreta: revisar una muestra de investigación o reescribir mensajes.",
+          "Hay un responsable interno que evalúa el trabajo y coordina ejecución, respuestas y ventas.",
+          "Has comprobado experiencia pertinente y disponibilidad.",
+          "El riesgo de continuidad es conocido y los registros siguen disponibles tras la entrega."
+        ],
+        "case": [
+          "Decisión ficticia: contratar redacción",
+          "El responsable interno ya gestiona cuentas aprobadas, ejecución y respuestas. El problema son mensajes genéricos que no explican el motivo de contacto. Se pide al especialista revisar una muestra y justificar sus cambios. La aceptación exige mensajes pertinentes y precisos para cada situación y un traspaso utilizable. Si deja de estar disponible el responsable interno, hay que revisar la decisión: redactar no pasa a incluir gestionar campañas."
+        ]
+      },
+      {
+        "id": "an-agency-is-often-better-when",
+        "title": "Cuándo merece la pena comprar coordinación",
+        "p": [
+          "Un servicio gestionado resulta útil si investigación, mensajes individuales, ejecución, respuestas e informes necesitan un responsable de entrega. Una agencia puede ofrecerlo; comprueba asignación y responsabilidades reales. Más perfiles en una web no demuestran más capacidad para tu cuenta."
+        ],
+        "ul": [
+          "Necesitas conectar varias áreas, no sumar otra colaboración sin coordinar.",
+          "No hay operador interno adecuado para dirigir el día a día.",
+          "El responsable propuesto explica capacidad, revisión, sustituciones y escalado.",
+          "Tu empresa puede seguir juzgando el encaje y gestionando descubrimiento, propuestas y cierre."
+        ],
+        "case": [
+          "Decisión ficticia: contratar gestión",
+          "El comprador del ejemplo no tiene responsable interno de ejecución ni de respuestas. Debe comparar alcances gestionados, también de independientes capaces, y verificar el traspaso. Si no se demuestran personas asignadas, aprobaciones o acceso, se deja pendiente en lugar de aceptar una etiqueta como prueba."
+        ],
+        "after": [
+          "Tercera opción: todavía ninguna. Si oferta, pruebas autorizadas o capacidad comercial siguen sin resolver, atiende esa dependencia primero. La falta de pruebas no justifica pedir más mensajes ni prometer reuniones antes."
+        ]
+      },
+      {
+        "id": "af-client-work",
+        "title": "Pon el tiempo del cliente junto a la propuesta",
+        "p": [
+          "Ejemplo ficticio de cuatro semanas: el comprador dispone de 10 horas internas para coordinación y decisiones, sin contar descubrimiento ni cierre. A exige 8 horas de coordinación de ejecución, 2 de respuestas y 2 de aprobación: 12. B supone 2 de coordinación, 2 de aclaraciones y 2 de aprobación: 6. Son hipótesis inventadas de estas propuestas, no cargas medias de independientes o agencias.",
+          "A supera la capacidad en 2 horas; B deja 4 dentro de esta reserva. Si B necesita 8 horas de coordinación en vez de 2, también suma 12 y supera la capacidad. Las horas desconocidas siguen sin determinar hasta acordar el trabajo. Disponer de seis horas no predice seis reuniones."
+        ],
+        "dl": [
+          [
+            "Mismo periodo",
+            "Propuesta del proveedor + configuración, software y datos cobrados aparte + valor acordado del tiempo interno + costes de transición conocidos. Misma moneda y periodo de compromiso."
+          ],
+          [
+            "Sin duplicaciones",
+            "No sumes de nuevo una herramienta o tarea incluida. Cuenta la coordinación compartida una sola vez. No des por resueltos impuestos o términos sin confirmar."
+          ],
+          [
+            "Compromiso completo",
+            "¿Qué se paga en la configuración, qué se repite, qué necesita aprobación extra y cómo termina el acuerdo? Compara el alcance escrito antes que la cuota mensual."
+          ]
+        ]
+      },
+      {
+        "id": "compare-people-not-labels",
+        "title": "Pide al operador que explique sus decisiones",
+        "p": [
+          "Pregunta quién investiga, redacta, configura actividad aprobada, lee respuestas e informa. Si se delega, aclara revisión y cómo llegan los cambios al responsable. La intervención sénior debe verse después de la venta, además de en la llamada inicial.",
+          "Da a los candidatos las mismas situaciones ficticias de investigación y respuesta. Pregunta qué aceptarían, rechazarían o investigarían y por qué. Acordad si una evaluación a medida es remunerada; no exijas trabajo de producción ni datos identificables de clientes como prueba gratuita. Revisar material ficticio no autoriza contactar con prospectos.",
+          "Examina pruebas con sus fechas, denominadores y alcance. Una muestra útil explica hechos, dudas y cambios tras una respuesta contraria. Un testimonio, una cifra de leads o el precio del software no demuestran esas decisiones."
+        ],
+        "links": [
+          [
+            "/guides/how-to-choose-an-outbound-lead-generation-agency/",
+            "Usar la guía detallada de selección"
+          ],
+          [
+            "/guides/b2b-lead-generation-consultant-vs-agency/",
+            "¿Necesitas asesoramiento en vez de ejecución?"
+          ]
+        ]
+      },
+      {
+        "id": "af-research-sample",
+        "title": "Una pequeña muestra debe mostrar criterio",
+        "p": [
+          "Usa estas fichas inventadas para preguntar cómo actuaría el candidato. Aprobar una lista de cuentas y autorizar la ejecución son decisiones separadas."
+        ],
+        "cards": [
+          [
+            "Investigar",
+            "Una publicación pública trata la coordinación entre sedes. Empresa B2B y función parecen encajar. Verifica fuente, función y encaje; no afirmes que necesita cambiar de proveedor."
+          ],
+          [
+            "Dejar pendiente",
+            "La empresa encaja, pero responsabilidad y puesto actual no están claros. Anota las pruebas que faltan e investiga antes de considerar adecuado el contacto."
+          ],
+          [
+            "Excluir",
+            "Es cliente actual, cuenta restringida o negativa anterior cubierta por las exclusiones. Cambiar de persona o canal no elimina esa restricción."
+          ]
+        ],
+        "after": [
+          "La actividad pública pertinente en LinkedIn puede justificar empezar allí. El email puede ser más adecuado para alguien localizable que no está activo en esa plataforma. Publicaciones, función, contexto empresarial o intereses realmente compartidos pueden dar un motivo. No fuerces ubicación o detalles personales: nada de ello demuestra permiso ni intención de compra."
+        ]
+      },
+      {
+        "id": "af-message-sample",
+        "title": "Revisa el motivo del contacto y el seguimiento",
+        "p": [
+          "Ejercicio ficticio: una publicación habla de traspasar trabajo entre sedes y el remitente ofrece coordinación. Debe explicar la conexión sin inventar problemas ni experiencias compartidas."
+        ],
+        "quotes": [
+          "Tu publicación sobre el trabajo que pasa de una sede a otra plantea una pregunta: ¿quién mantiene actualizado el traspaso cuando se mueve un encargo? Ayudamos a organizar ese paso. ¿Lo llevas tú o tendría más sentido hablar con otra persona?",
+          "Hola, retomo brevemente la pregunta de abajo. ¿Te sería útil una conversación corta?"
+        ],
+        "after": [
+          "La apertura nombra un tema concreto, explica una conexión plausible y plantea una pregunta que se puede responder. No afirma que el proceso esté roto. El seguimiento breve no repite todo el argumento. Unos cuatro días ilustran un intervalo previsto, no una regla universal; para al recibir respuesta o ante una exclusión aplicable.",
+          "El enfoque habitual de Beespoke es una apertura relevante para cada persona y un seguimiento breve, coordinando canales cuando procede. Dos mensajes son una práctica, no una promesa de respuesta. Otro canal requiere alcance acordado, motivo justificado y registros que eviten solapamientos. Evalúa el texto real, no si una frase supuestamente demuestra autoría de IA."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar ejemplos completos de redacción"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Planificar seguimientos moderados"
+          ]
+        ]
+      },
+      {
+        "id": "af-handoff",
+        "title": "Sigue una respuesta hasta ventas",
+        "p": [
+          "Respuesta ficticia: «Coordino los traspasos, pero seguimos con el proveedor actual. Podríamos hablar de la nueva sede el próximo trimestre». Un buen traspaso conserva esa restricción; no convierte una posibilidad futura en una sustitución urgente."
+        ],
+        "dl": [
+          [
+            "Confirmado",
+            "Función relevante, proveedor actual mantenido y posible conversación posterior sobre otra sede."
+          ],
+          [
+            "Desconocido",
+            "Necesidad, presupuesto, autoridad de compra y si se quiere una reunión ahora."
+          ],
+          [
+            "Siguiente acción",
+            "El responsable de respuestas aclara el momento o registra el seguimiento acordado. Ventas acepta el contexto y dirige el descubrimiento."
+          ],
+          [
+            "Prueba de reserva",
+            "Un clic en la agenda no es una reserva. Registra identificador y fecha de creación originales cuando existan; conserva cancelaciones y cambios sobre esa identidad."
+          ],
+          [
+            "Resultados posteriores",
+            "Reserva, reunión celebrada y reunión celebrada cualificada son estados distintos. La respuesta ficticia no demuestra ninguno."
+          ],
+          [
+            "Origen",
+            "Si la conversación empezó en outreach y una guía ayudó después, conserva origen outbound y asistencia web. No lo cuentes como lead adquirido de forma independiente por la web."
+          ]
+        ]
+      },
+      {
+        "id": "af-review",
+        "title": "Acordad qué cambiaría la decisión",
+        "cards": [
+          [
+            "Continuar",
+            "La muestra cumple criterios de encaje y texto, hay responsables y ventas puede actuar. Continúa solo el alcance autorizado y observa carga y resultados."
+          ],
+          [
+            "Cambiar",
+            "Una respuesta pertinente revela otra responsabilidad o restricción. Actualiza la hipótesis, consigue la aprobación necesaria y explica el cambio."
+          ],
+          [
+            "Pausar",
+            "Se ignora una exclusión, falta respaldo a una afirmación, nadie gestiona respuestas o se excede el alcance. Asigna responsable y pruebas para resolverlo antes de reanudar."
+          ]
+        ],
+        "p": [
+          "Fija una revisión basada en trabajo observable y separa configuración de campaña activa. Una aprobación ausente es un hecho operativo; pocas respuestas no permiten predecir con precisión la demanda. Cuenta por separado empresas, personas, respuestas, reservas originales y reuniones celebradas y cualificadas, con denominadores y periodos completos."
+        ]
+      },
+      {
+        "id": "af-transition",
+        "title": "Haz viable combinar proveedores y salir",
+        "p": [
+          "Un especialista puede aportar investigación o textos y otro proveedor gestionar ejecución. Nombra a quien acepta el traspaso. El responsable de envíos verifica lista vigente, exclusiones, mensaje aprobado y ruta de respuesta; recibir un archivo no demuestra que esté listo para usar."
+        ],
+        "ol": [
+          "Confirma qué cuentas y registros pertenecen a tu empresa o se pueden exportar, incluidas restricciones de licencia.",
+          "Conserva copias utilizables de mensajes aprobados, razones de investigación, fechas, estado de campaña e historial que puedas retener.",
+          "Transfiere exclusiones, bajas y siguientes acciones, para que cambiar proveedor no reinicie contactos no deseados.",
+          "Concilia actividad en cola y respuestas abiertas. Acordad quién pausa o cierra cada acción autorizada y cuándo acepta responsabilidad el receptor.",
+          "Una vez aceptado el traspaso, retira accesos delegados obsoletos y confirma qué información se conserva o elimina según lo acordado."
+        ],
+        "after": [
+          "No canceles el acceso mientras el único traspaso utilizable dependa de él. No copies contraseñas a una hoja de cálculo. Es una lista operativa, no una afirmación de que todo contrato o licencia permita cualquier exportación."
+        ]
+      },
+      {
+        "id": "where-beespoke-fits",
+        "title": "Dónde encaja Beespoke",
+        "p": [
+          "Beespoke ofrece cold email y/o LinkedIn en frío gestionados por el fundador: segmentación, investigación de cuentas, mensajes individuales y seguimiento, respuestas, cualificación y reserva de reuniones según criterios acordados. Tu criterio es necesario para aprobar el encaje; programar o ejecutar mensajes en tu nombre requiere autorización.",
+          "El cliente dirige descubrimiento comercial, propuestas y cierre. Las llamadas se cotizan aparte por mercado, y software, datos y costes de terceros necesarios se cobran aparte salvo inclusión escrita. La gestión del fundador no implica SDR dedicado a tiempo completo, plantilla fija, sustitución automática ni canales ilimitados.",
+          "Un buen independiente puede encajar mejor en un encargo acotado, función integrada o especialidad fuera del servicio acordado. Lleva la necesidad real a una conversación de encaje en lugar de comprar una etiqueta."
+        ],
+        "links": [
+          [
+            "/services/outbound-lead-generation/",
+            "Revisar el servicio outbound gestionado"
+          ],
+          [
+            "/pricing/",
+            "Consultar alcance y condiciones actuales"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Lleva un encargo claro a la conversación",
+        "p": [
+          "Antes de firmar, escribe qué falta, quién asume cada paso, qué aporta tu equipo y qué causaría una pausa. Pregunta quién participa en estrategia y revisión, quién aprueba segmentación y mensajes, quién lee respuestas y quién cambia el plan si las pruebas lo contradicen. La etiqueta «liderado por el fundador» solo sirve si ese criterio sigue conectado a la ejecución."
+        ],
+        "downloadTitle": "Preguntas opcionales para comparar",
+        "downloadLabel": "Descargar preguntas en CSV",
+        "downloadNote": "Descarga local de las seis preguntas. Sin formulario, datos de contacto ni envío. Rellena tu copia y conserva lo confidencial en tus sistemas autorizados.",
+        "questions": [
+          [
+            "Alcance",
+            "¿Qué comprador, oferta, canales y áreas incluye o excluye el servicio?"
+          ],
+          [
+            "Responsables",
+            "¿Quién realiza cada paso, aprueba el encaje y acepta el traspaso comercial?"
+          ],
+          [
+            "Capacidad y coste",
+            "¿Qué tiempo necesita nuestro equipo, cuál es el compromiso completo y qué extras requieren aprobación?"
+          ],
+          [
+            "Pruebas",
+            "¿Puede el operador explicar una muestra ficticia de investigación, mensaje y respuesta?"
+          ],
+          [
+            "Continuidad y finalización del servicio",
+            "¿Quién puede pausar o cubrir una ausencia y qué registros y permisos sobreviven al traspaso?"
+          ],
+          [
+            "Revisión",
+            "¿Qué observaciones justifican continuar, cambiar o pausar y quién decide?"
+          ]
+        ]
+      },
+      {
+        "id": "af-faq",
+        "title": "Preguntas al elegir ayuda outbound",
+        "faqs": [
+          [
+            "¿Puede un independiente gestionar una campaña completa?",
+            "Sí, si dispone de capacidades, tiempo, permisos y continuidad, personalmente o mediante una organización de entrega declarada. Comprueba alcance y trabajo que conserva el cliente; no presupongas tareas aisladas."
+          ],
+          [
+            "¿Una agencia es siempre más fiable?",
+            "No. Confirma personas asignadas, registros utilizables, acceso, cobertura y escalado. Una agencia puede depender de una persona; un independiente puede documentar un traspaso."
+          ],
+          [
+            "¿Qué opción cuesta menos?",
+            "Compara propuestas escritas del mismo alcance, periodo y moneda, con tiempo interno, software, datos, configuración y finalización del servicio. Ninguna etiqueta demuestra menor coste total o mejor retorno."
+          ],
+          [
+            "¿Qué sigue haciendo el cliente?",
+            "Lo determina el alcance. Con Beespoke, el cliente aporta criterio sobre encaje y aprobaciones y dirige descubrimiento comercial, propuestas y cierre. Contratar gestión no elimina estas responsabilidades."
+          ],
+          [
+            "¿Puedo combinar especialista y agencia?",
+            "Sí. Separa áreas, nombra a quien acepta cada traspaso y conserva exclusiones, aprobación de mensajes y contexto. No dejes verificación o respuestas entre dos proveedores sin responsable."
+          ],
+          [
+            "¿Alguna opción garantiza reuniones cualificadas?",
+            "No. Evalúa el trabajo y mide reservas originales reales, asistencia y cualificación por separado. Una previsión, clic o muestra no demuestra una reunión reservada ni cualificada."
+          ]
+        ]
+      }
+    ],
+    "sourceTitle": "Fuentes y método",
+    "sourceNote": "Comparaciones revisadas el 5 de noviembre de 2026 para orientar las preguntas de alcance, tiempo interno, continuidad y traspaso. Propuestas, horas, mensajes y fichas son material didáctico ficticio original. Precios, resultados, plantilla, plazos o afirmaciones legales de proveedores no son promesas de Beespoke. Algunas fuentes tratan de marketing general; sus preguntas se adaptan a la prospección en lugar de usarse como reglas universales."
+  },
+  "ca": {
+    "answer": "Tria un professional independent per a un encàrrec definit si té les capacitats i la disponibilitat necessàries i pots assumir la feina restant. Busca un servei gestionat si cal coordinar recerca, missatges, execució, respostes i informes. Ser una agència no demostra que hi hagi cobertura de substitució; un independent també pot gestionar tot el programa. Compara abast, persones, permisos, continuïtat i traspàs comercial abans que honoraris.",
+    "jump": "Comparar dues propostes completes",
+    "dateLabel": "5 de novembre de 2026",
+    "fiction": "Totes les empreses, propostes, missatges, hores i fitxes dels exemples són inventats. No són resultats de Beespoke ni de clients.",
+    "sections": [
+      {
+        "id": "the-decision-in-one-table",
+        "title": "Compara la feina abans que l’etiqueta",
+        "p": [
+          "Aquesta comparació tracta de prospecció en fred: investigar persones adequades, contactar-hi per un canal acordat i gestionar les converses. No compara trànsit web, publicitat ni subscripcions de programari. Un independent presta un servei per compte propi; una agència es compromet a lliurar el servei acordat. Tots dos poden delegar, gestionar un programa o dependre molt d’una sola persona.",
+          "Distingeix entre un encàrrec acotat i un programa gestionat. Després fes les mateixes preguntes a tots dos candidats. Una agència petita no aporta automàticament un equip dedicat; un especialista independent no deixa necessàriament l’estratègia o els informes a les teves mans."
+        ],
+        "headers": [
+          "Decisió",
+          "Especialista independent",
+          "Agència"
+        ],
+        "rows": [
+          [
+            "Abast",
+            "Quines tasques assumeix i quines queden per al teu equip?",
+            "Què inclou l’acord i qui fa cada tasca?"
+          ],
+          [
+            "Gestió",
+            "Gestiona tot el programa o necessita direcció interna?",
+            "Qui coordina la feina i quines decisions continuen sent teves?"
+          ],
+          [
+            "Continuïtat",
+            "Qui pot pausar, cobrir una absència o fer el traspàs?",
+            "Hi ha cobertura assignada al teu compte o només persones a la web?"
+          ],
+          [
+            "Experiència",
+            "Revisa una mostra pertinent i el seu raonament.",
+            "Revisa la feina de les persones assignades, a més de la presentació comercial."
+          ],
+          [
+            "Cost i control",
+            "Compara proposta, càrrega interna, eines i finalització del servei.",
+            "Fes servir el mateix període i abast; aclareix accés, extres i finalització del servei."
+          ]
+        ]
+      },
+      {
+        "id": "af-worked-proposals",
+        "title": "Un mateix encàrrec, dues propostes diferents",
+        "p": [
+          "Una empresa fictícia de serveis especialitzats vol contactar amb responsables d’operacions d’empreses B2B d’assajos amb diverses seus per parlar de coordinació. Un anunci públic d’expansió convida a investigar; no demostra que hi hagi un problema. Hi ha responsable comercial intern, però ningú assignat a executar la prospecció.",
+          "Tots dos candidats reben el mateix encàrrec: verificar empresa i funció; excloure clients, comptes restringits i negatives anteriors; investigar motius individuals; fer servir correu en fred i, quan l’activitat pública pertinent ho justifiqui, LinkedIn dins de l’abast; gestionar respostes; conservar context i traspassar converses adequades a vendes. No es pressuposa cap paquet de trucades ni de creació de contingut."
+        ],
+        "headers": [
+          "Àrea",
+          "Proposta A: independent",
+          "Proposta B: agència"
+        ],
+        "rows": [
+          [
+            "Recerca",
+            "Prepara i documenta la llista; el client n’aprova l’encaix.",
+            "El responsable de recerca prepara la llista; el client n’aprova l’encaix."
+          ],
+          [
+            "Missatges",
+            "Redacta obertures individuals; el client revisa la mostra acordada.",
+            "El responsable de missatges redacta obertures individuals; el client revisa la mostra."
+          ],
+          [
+            "Execució",
+            "El client configura i supervisa la campanya autoritzada.",
+            "El responsable d’execució configura i supervisa la campanya autoritzada."
+          ],
+          [
+            "Respostes",
+            "El client llegeix les respostes i organitza el pas següent.",
+            "El responsable de respostes actua segons els criteris acordats."
+          ],
+          [
+            "Informes",
+            "Lliura la llista investigada i els textos.",
+            "El responsable d’informes concilia activitat, reserves originals i resultats posteriors."
+          ],
+          [
+            "Traspàs",
+            "El client reuneix el context per a vendes.",
+            "El responsable de respostes transfereix fets i dubtes; el client dirigeix converses comercials i tancament."
+          ]
+        ],
+        "after": [
+          "A és un encàrrec coherent de recerca i redacció. Encara no és una campanya gestionada completa per a aquest comprador: execució i respostes no tenen responsable intern disponible. B cobreix més feina, però cal verificar persones, disponibilitat, permisos i substitucions. L’etiqueta no resol la decisió.",
+          "Un independent amb el mateix abast gestionat continuaria sent candidat. Si B no demostra qui gestiona les respostes, tampoc supera la comprovació. Cap de les dues és una oferta real ni una comparació de preus."
+        ]
+      },
+      {
+        "id": "continuity-test",
+        "title": "Comprova què passa si falta el responsable",
+        "p": [
+          "Mantén tres comprovacions: accés, materials utilitzables i cobertura real. Fes una breu demostració de recuperació amb fitxes fictícies o degudament restringides. No cal contactar amb ningú per demostrar que el traspàs funciona."
+        ],
+        "ol": [
+          "Demana al titular autoritzat que localitzi la campanya i expliqui com pausar-la. Fes servir accés delegat adequat, no contrasenyes compartides.",
+          "La persona proposada per cobrir l’absència ha de localitzar públic aprovat, versió del missatge, exclusions i darrera acció completada.",
+          "Demana-li que trobi una resposta fictícia pendent i expliqui el pas següent, el responsable i l’aprovació. Figurar com a substitut sense context ni accés no demostra cobertura.",
+          "Anota què no s’ha pogut demostrar, qui ho resol i si la feina continua pausada. La demostració no autoritza enviaments."
+        ],
+        "after": [
+          "Documentar el traspàs pot reduir la dependència en tots dos models. No elimina el risc ni promet un termini de recuperació. Confirma horari de cobertura, escalat i responsabilitat contractual; no pressuposis atenció permanent."
+        ]
+      },
+      {
+        "id": "a-freelancer-is-often-better-when",
+        "title": "Quan encaixa millor un especialista",
+        "p": [
+          "Un encàrrec acotat pot ser la compra adequada si la resta del procés ja té responsables capacitats. Defineix lliurament, acceptació i traspàs perquè l’accés directe a l’especialista produeixi una feina utilitzable."
+        ],
+        "ul": [
+          "Necessites una capacitat concreta: revisar una mostra de recerca o reescriure missatges.",
+          "Un responsable intern avalua la feina i coordina execució, respostes i vendes.",
+          "Has comprovat experiència pertinent i disponibilitat.",
+          "El risc de continuïtat és conegut i els registres continuen disponibles després del lliurament."
+        ],
+        "case": [
+          "Decisió fictícia: contractar redacció",
+          "El responsable intern ja gestiona comptes aprovats, execució i respostes. El problema són missatges genèrics que no expliquen el motiu del contacte. Es demana a l’especialista que revisi una mostra i justifiqui els canvis. L’acceptació exigeix missatges pertinents i precisos per a cada situació i un traspàs utilitzable. Si el responsable intern deixa d’estar disponible, cal revisar la decisió: redactar no passa a incloure gestionar campanyes."
+        ]
+      },
+      {
+        "id": "an-agency-is-often-better-when",
+        "title": "Quan val la pena comprar coordinació",
+        "p": [
+          "Un servei gestionat és útil si recerca, missatges individuals, execució, respostes i informes necessiten un responsable de lliurament. Una agència pot oferir-lo; comprova assignació i responsabilitats reals. Més perfils a una web no demostren més capacitat per al teu compte."
+        ],
+        "ul": [
+          "Necessites connectar diverses àrees, no afegir una altra col·laboració sense coordinar.",
+          "No hi ha operador intern adequat per dirigir el dia a dia.",
+          "El responsable proposat explica capacitat, revisió, substitucions i escalat.",
+          "L’empresa pot continuar jutjant l’encaix i gestionant conversa comercial inicial, propostes i tancament."
+        ],
+        "case": [
+          "Decisió fictícia: contractar gestió",
+          "El comprador de l’exemple no té responsable intern d’execució ni de respostes. Ha de comparar abasts gestionats, també d’independents capaços, i verificar el traspàs. Si no es demostren persones assignades, aprovacions o accés, es deixa pendent en lloc d’acceptar una etiqueta com a prova."
+        ],
+        "after": [
+          "Tercera opció: encara cap. Si oferta, proves autoritzades o capacitat comercial continuen sense resoldre, atén primer aquesta dependència. La manca de proves no justifica demanar més missatges ni prometre reunions abans."
+        ]
+      },
+      {
+        "id": "af-client-work",
+        "title": "Posa el temps del client al costat de la proposta",
+        "p": [
+          "Exemple fictici de quatre setmanes: el comprador té 10 hores internes per a coordinació i decisions, sense comptar les converses comercials ni el tancament. A exigeix 8 hores de coordinació d’execució, 2 de respostes i 2 d’aprovació: 12. B suposa 2 de coordinació, 2 d’aclariments i 2 d’aprovació: 6. Són hipòtesis inventades d’aquestes propostes, no càrregues mitjanes d’independents o agències.",
+          "A supera la capacitat en 2 hores; B en deixa 4 dins d’aquesta reserva. Si B necessita 8 hores de coordinació en lloc de 2, també suma 12 i supera la capacitat. Les hores desconegudes queden per determinar fins que s’acordi la feina. Disposar de sis hores no prediu sis reunions."
+        ],
+        "dl": [
+          [
+            "Mateix període",
+            "Proposta del proveïdor + configuració, programari i dades cobrats a part + valor acordat del temps intern + costos de transició coneguts. Mateixa moneda i període de compromís."
+          ],
+          [
+            "Sense duplicacions",
+            "No tornis a sumar una eina o tasca inclosa. Compta la coordinació compartida una sola vegada. No donis per resolts impostos o termes sense confirmar."
+          ],
+          [
+            "Compromís complet",
+            "Què es paga a la configuració, què es repeteix, què necessita aprovació extra i com acaba l’acord? Compara l’abast escrit abans que la quota mensual."
+          ]
+        ]
+      },
+      {
+        "id": "compare-people-not-labels",
+        "title": "Demana a l’operador que expliqui les decisions",
+        "p": [
+          "Pregunta qui investiga, redacta, configura activitat aprovada, llegeix respostes i informa. Si es delega, aclareix la revisió i com arriben els canvis al responsable. La intervenció sènior s’ha de veure després de la venda, a més de la conversa inicial.",
+          "Dona als candidats les mateixes situacions fictícies de recerca i resposta. Pregunta què acceptarien, rebutjarien o investigarien i per què. Acordeu si una avaluació a mida és remunerada; no exigeixis feina de producció ni dades identificables de clients com a prova gratuïta. Revisar material fictici no autoritza contactar amb prospectes.",
+          "Examina les proves amb dates, denominadors i abast. Una mostra útil explica fets, dubtes i canvis després d’una resposta contrària. Un testimoni, una xifra de leads o el preu del programari no demostren aquestes decisions."
+        ],
+        "links": [
+          [
+            "/guides/how-to-choose-an-outbound-lead-generation-agency/",
+            "Fer servir la guia detallada de selecció"
+          ],
+          [
+            "/guides/b2b-lead-generation-consultant-vs-agency/",
+            "Necessites assessorament en lloc d’execució?"
+          ]
+        ]
+      },
+      {
+        "id": "af-research-sample",
+        "title": "Una petita mostra ha de mostrar criteri",
+        "p": [
+          "Fes servir aquestes fitxes inventades per preguntar com actuaria el candidat. Aprovar una llista i autoritzar l’execució són decisions separades."
+        ],
+        "cards": [
+          [
+            "Investigar",
+            "Una publicació pública tracta la coordinació entre seus. Empresa B2B i funció semblen encaixar. Verifica font, funció i encaix; no afirmis que necessita canviar de proveïdor."
+          ],
+          [
+            "Deixar pendent",
+            "L’empresa encaixa, però responsabilitat i càrrec actual no són clars. Anota les proves que falten i investiga abans de considerar adequat el contacte."
+          ],
+          [
+            "Excloure",
+            "És client actual, compte restringit o negativa anterior coberta per les exclusions. Canviar de persona o canal no elimina aquesta restricció."
+          ]
+        ],
+        "after": [
+          "L’activitat pública pertinent a LinkedIn pot justificar començar-hi. El correu pot ser més adequat per a algú localitzable que no hi està actiu. Publicacions, funció, context empresarial o interessos realment compartits poden aportar un motiu. No forcis ubicació ni detalls personals: res d’això demostra permís ni intenció de compra."
+        ]
+      },
+      {
+        "id": "af-message-sample",
+        "title": "Revisa el motiu del contacte i el seguiment",
+        "p": [
+          "Exercici fictici: una publicació parla de traspassar feina entre seus i el remitent ofereix coordinació. Cal explicar la connexió sense inventar problemes ni experiències compartides."
+        ],
+        "quotes": [
+          "La teva publicació sobre la feina que passa d’una seu a una altra planteja una pregunta: qui manté actualitzat el traspàs quan es mou un encàrrec? Ajudem a organitzar aquest pas. Ho portes tu o tindria més sentit parlar amb una altra persona?",
+          "Hola, reprenc breument la pregunta de sota. Et seria útil una conversa curta?"
+        ],
+        "after": [
+          "L’obertura esmenta un tema concret, explica una connexió plausible i planteja una pregunta que es pot respondre. No afirma que el procés estigui malament. El seguiment breu no repeteix tot l’argument. Uns quatre dies il·lustren un interval previst, no una regla universal; atura’t en rebre resposta o davant una exclusió aplicable.",
+          "L’enfocament habitual de Beespoke és una obertura rellevant per a cada persona i un seguiment breu, coordinant canals quan escau. Dos missatges són una pràctica, no una promesa de resposta. Un altre canal requereix abast acordat, motiu justificat i registres que evitin solapaments. Avalua el text real, no si una frase suposadament demostra autoria d’IA."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar exemples complets de redacció"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Planificar seguiments moderats"
+          ]
+        ]
+      },
+      {
+        "id": "af-handoff",
+        "title": "Segueix una resposta fins a vendes",
+        "p": [
+          "Resposta fictícia: «Coordino els traspassos, però continuem amb el proveïdor actual. Podríem parlar de la nova seu el trimestre vinent». Un bon traspàs conserva aquesta restricció; no converteix una possibilitat futura en una substitució urgent."
+        ],
+        "dl": [
+          [
+            "Confirmat",
+            "Funció rellevant, proveïdor actual mantingut i possible conversa posterior sobre una altra seu."
+          ],
+          [
+            "Desconegut",
+            "Necessitat, pressupost, autoritat de compra i si es vol una reunió ara."
+          ],
+          [
+            "Acció següent",
+            "El responsable de respostes aclareix el moment o registra el seguiment acordat. Vendes accepta el context i dirigeix la descoberta."
+          ],
+          [
+            "Prova de reserva",
+            "Un clic a l’agenda no és una reserva. Registra identificador i data de creació originals quan existeixin; conserva cancel·lacions i canvis sobre aquesta identitat."
+          ],
+          [
+            "Resultats posteriors",
+            "Reserva, reunió celebrada i reunió celebrada qualificada són estats diferents. La resposta fictícia no en demostra cap."
+          ],
+          [
+            "Origen",
+            "Si la conversa va començar amb prospecció i una guia va ajudar després, conserva origen outbound i assistència web. No ho comptis com un lead adquirit independentment pel web."
+          ]
+        ]
+      },
+      {
+        "id": "af-review",
+        "title": "Acordeu què faria canviar la decisió",
+        "cards": [
+          [
+            "Continuar",
+            "La mostra compleix criteris d’encaix i text, hi ha responsables i vendes pot actuar. Continua només l’abast autoritzat i observa càrrega i resultats."
+          ],
+          [
+            "Canviar",
+            "Una resposta pertinent revela una altra responsabilitat o restricció. Actualitza la hipòtesi, obtén l’aprovació necessària i explica el canvi."
+          ],
+          [
+            "Pausar",
+            "S’ignora una exclusió, falta suport a una afirmació, ningú gestiona respostes o se supera l’abast. Assigna responsable i proves per resoldre-ho abans de reprendre."
+          ]
+        ],
+        "p": [
+          "Fixa una revisió basada en feina observable i separa configuració de campanya activa. Una aprovació absent és un fet operatiu; poques respostes no permeten predir amb precisió la demanda. Compta separadament empreses, persones, respostes, reserves originals i reunions celebrades i qualificades, amb denominadors i períodes complets."
+        ]
+      },
+      {
+        "id": "af-transition",
+        "title": "Fes viable combinar proveïdors i sortir",
+        "p": [
+          "Un especialista pot aportar recerca o textos i un altre proveïdor gestionar l’execució. Nomena qui accepta el traspàs. El responsable d’enviaments verifica llista vigent, exclusions, missatge aprovat i ruta de resposta; rebre un arxiu no demostra que estigui llest per fer servir."
+        ],
+        "ol": [
+          "Confirma quins comptes i registres són de l’empresa o es poden exportar, incloses les restriccions de llicència.",
+          "Conserva còpies utilitzables de missatges aprovats, raons de recerca, dates, estat de campanya i historial que puguis retenir.",
+          "Transfereix exclusions, baixes i accions següents perquè canviar de proveïdor no reiniciï contactes no desitjats.",
+          "Concilia activitat en cua i respostes obertes. Acordeu qui pausa o tanca cada acció autoritzada i quan el receptor accepta la responsabilitat.",
+          "Un cop acceptat el traspàs, retira accessos delegats obsolets i confirma quina informació es conserva o s’elimina segons l’acord."
+        ],
+        "after": [
+          "No cancel·lis l’accés mentre l’únic traspàs utilitzable en depengui. No copiïs contrasenyes a un full de càlcul. És una llista operativa, no una afirmació que qualsevol contracte o llicència permeti tota exportació."
+        ]
+      },
+      {
+        "id": "where-beespoke-fits",
+        "title": "On encaixa Beespoke",
+        "p": [
+          "Beespoke ofereix correu en fred i/o LinkedIn en fred gestionats pel fundador: segmentació, recerca de comptes, missatges individuals i seguiment, respostes, qualificació i reserva de reunions segons criteris acordats. Cal el teu criteri per aprovar l’encaix; programar o executar missatges en nom teu requereix autorització.",
+          "El client dirigeix conversa comercial inicial, propostes i tancament. Les trucades es pressuposten a part segons mercat, i programari, dades i costos de tercers necessaris es cobren a part llevat d’inclusió escrita. La gestió del fundador no implica SDR dedicat a temps complet, plantilla fixa, substitució automàtica ni canals il·limitats.",
+          "Un bon independent pot encaixar millor en un encàrrec acotat, una funció integrada o una especialitat fora del servei acordat. Porta la necessitat real a una conversa d’encaix en lloc de comprar una etiqueta."
+        ],
+        "links": [
+          [
+            "/services/outbound-lead-generation/",
+            "Revisar el servei outbound gestionat"
+          ],
+          [
+            "/pricing/",
+            "Consultar abast i condicions actuals"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Porta un encàrrec clar a la conversa",
+        "p": [
+          "Abans de signar, escriu què falta, qui assumeix cada pas, què aporta el teu equip i què causaria una pausa. Pregunta qui participa en estratègia i revisió, qui aprova segmentació i missatges, qui llegeix respostes i qui canvia el pla si les proves el contradiuen. L’etiqueta «dirigit pel fundador» només serveix si aquest criteri continua connectat a l’execució."
+        ],
+        "downloadTitle": "Preguntes opcionals per comparar",
+        "downloadLabel": "Descarregar les preguntes en CSV",
+        "downloadNote": "Descàrrega local de les sis preguntes. Sense formulari, dades de contacte ni enviament. Omple la teva còpia i conserva la informació confidencial als sistemes autoritzats.",
+        "questions": [
+          [
+            "Abast",
+            "Quins comprador, oferta, canals i àrees inclou o exclou el servei?"
+          ],
+          [
+            "Responsables",
+            "Qui fa cada pas, aprova l’encaix i accepta el traspàs comercial?"
+          ],
+          [
+            "Capacitat i cost",
+            "Quin temps necessita l’equip, quin és el compromís complet i quins extres requereixen aprovació?"
+          ],
+          [
+            "Proves",
+            "Pot l’operador explicar una mostra fictícia de recerca, missatge i resposta?"
+          ],
+          [
+            "Continuïtat i finalització del servei",
+            "Qui pot pausar o cobrir una absència i quins registres i permisos es conserven al traspàs?"
+          ],
+          [
+            "Revisió",
+            "Quines observacions justifiquen continuar, canviar o pausar i qui decideix?"
+          ]
+        ]
+      },
+      {
+        "id": "af-faq",
+        "title": "Preguntes per triar ajuda outbound",
+        "faqs": [
+          [
+            "Pot un independent gestionar tota una campanya?",
+            "Sí, si disposa de capacitats, temps, permisos i continuïtat, personalment o mitjançant una organització de lliurament declarada. Comprova l’abast i la feina que conserva el client; no pressuposis tasques aïllades."
+          ],
+          [
+            "Una agència sempre és més fiable?",
+            "No. Confirma persones assignades, registres utilitzables, accés, cobertura i escalat. Una agència pot dependre d’una persona; un independent pot documentar un traspàs."
+          ],
+          [
+            "Quina opció costa menys?",
+            "Compara propostes escrites del mateix abast, període i moneda, amb temps intern, programari, dades, configuració i finalització del servei. Cap etiqueta demostra menys cost total o millor retorn."
+          ],
+          [
+            "Què continua fent el client?",
+            "Ho determina l’abast. Amb Beespoke, el client aporta criteri sobre encaix i aprovacions i dirigeix conversa comercial inicial, propostes i tancament. Contractar gestió no elimina aquestes responsabilitats."
+          ],
+          [
+            "Puc combinar especialista i agència?",
+            "Sí. Separa àrees, nomena qui accepta cada traspàs i conserva exclusions, aprovació de missatges i context. No deixis verificació o respostes entre dos proveïdors sense responsable."
+          ],
+          [
+            "Alguna opció garanteix reunions qualificades?",
+            "No. Avalua la feina i mesura reserves originals reals, assistència i qualificació per separat. Una previsió, clic o mostra no demostra una reunió reservada ni qualificada."
+          ]
+        ]
+      }
+    ],
+    "sourceTitle": "Fonts i mètode",
+    "sourceNote": "Comparacions revisades el 5 de novembre de 2026 per orientar les preguntes d’abast, temps intern, continuïtat i traspàs. Propostes, hores, missatges i fitxes són material didàctic fictici original. Preus, resultats, plantilla, terminis o afirmacions legals de proveïdors no són promeses de Beespoke. Algunes fonts tracten de màrqueting general; les seves preguntes s’adapten a la prospecció en lloc de fer-les servir com a regles universals.",
+    "headerH1": "Agència outbound o autònom: quin model encaixa?"
+  },
+  "fr": {
+    "answer": "Choisissez un indépendant pour une mission définie si ses compétences et sa disponibilité conviennent et si vous pouvez prendre en charge le reste. Cherchez une prestation gérée pour coordonner recherche, messages, exécution, réponses et reporting. Le statut d’agence ne prouve pas qu’une relève existe ; un indépendant peut aussi gérer tout le programme. Comparez périmètre réel, personnes, accès, continuité et transmission commerciale avant les honoraires.",
+    "jump": "Comparer deux propositions complètes",
+    "dateLabel": "5 novembre 2026",
+    "fiction": "Toutes les entreprises, propositions, heures, fiches et tous les messages des exemples sont inventés. Ils ne décrivent pas des résultats de Beespoke ou de clients.",
+    "sections": [
+      {
+        "id": "the-decision-in-one-table",
+        "title": "Comparez le travail avant le statut",
+        "p": [
+          "Cette comparaison concerne la prospection à froid : identifier des interlocuteurs pertinents, les contacter par un canal convenu et gérer les échanges. Elle ne compare ni trafic web, ni publicité, ni abonnements logiciels. Un indépendant propose une prestation à son compte ; une agence s’engage sur un service convenu. L’un comme l’autre peut déléguer, gérer un programme ou dépendre fortement d’une seule personne.",
+          "Distinguez une mission délimitée d’un programme géré. Posez ensuite les mêmes questions aux deux candidats. Une petite agence ne fournit pas automatiquement une équipe dédiée ; un indépendant ne vous laisse pas nécessairement la stratégie ou le reporting."
+        ],
+        "headers": [
+          "Décision",
+          "Spécialiste indépendant",
+          "Agence"
+        ],
+        "rows": [
+          [
+            "Périmètre",
+            "Quelles tâches prend-il en charge et lesquelles vous restent ?",
+            "Que prévoit l’accord et qui réalise chaque tâche ?"
+          ],
+          [
+            "Gestion",
+            "Gère-t-il tout le programme ou attend-il votre direction ?",
+            "Qui coordonne le travail et quelles décisions vous appartiennent encore ?"
+          ],
+          [
+            "Continuité",
+            "Qui peut mettre en pause, remplacer ou transmettre ?",
+            "Une relève est-elle affectée à votre compte, au-delà de l’équipe affichée ?"
+          ],
+          [
+            "Expertise",
+            "Examinez un exemple pertinent et son raisonnement.",
+            "Examinez le travail des personnes affectées, au-delà de la présentation commerciale."
+          ],
+          [
+            "Coût et contrôle",
+            "Comparez devis, charge interne, outils et sortie.",
+            "Gardez la même période et le même périmètre ; précisez accès, suppléments et sortie."
+          ]
+        ]
+      },
+      {
+        "id": "af-worked-proposals",
+        "title": "Un même besoin, deux propositions différentes",
+        "p": [
+          "Une entreprise fictive de services spécialisés souhaite contacter des responsables d’exploitation de laboratoires d’essais B2B multisites pour parler de coordination. Une annonce publique d’expansion justifie une recherche ; elle ne prouve pas un problème. L’entreprise dispose d’un responsable commercial, mais de personne pour piloter la prospection.",
+          "Les deux candidats reçoivent le même brief : vérifier entreprise et fonction ; exclure clients, comptes réservés et refus antérieurs ; rechercher des raisons individuelles ; utiliser l’email à froid et, lorsque l’activité publique pertinente le justifie, LinkedIn dans le périmètre convenu ; gérer les réponses ; conserver le contexte et transmettre les échanges adaptés au commercial. Aucun forfait d’appels ou de création de contenu n’est présumé."
+        ],
+        "headers": [
+          "Tâche",
+          "Proposition A : indépendant",
+          "Proposition B : agence"
+        ],
+        "rows": [
+          [
+            "Recherche",
+            "Prépare et documente la liste ; le client valide l’adéquation.",
+            "Le responsable recherche prépare la liste ; le client valide l’adéquation."
+          ],
+          [
+            "Messages",
+            "Rédige des premiers messages personnalisés ; le client examine l’échantillon convenu.",
+            "Le responsable messages rédige des premiers messages personnalisés ; le client examine l’échantillon."
+          ],
+          [
+            "Exécution",
+            "Le client configure et surveille la campagne autorisée.",
+            "Le responsable exécution configure et surveille la campagne autorisée."
+          ],
+          [
+            "Réponses",
+            "Le client lit les réponses et organise la suite.",
+            "Le responsable réponses agit selon les critères convenus."
+          ],
+          [
+            "Reporting",
+            "Livre la liste documentée et les textes.",
+            "Le responsable reporting rapproche activité, réservations initiales et résultats ultérieurs."
+          ],
+          [
+            "Transmission",
+            "Le client rassemble le contexte pour les commerciaux.",
+            "Le responsable réponses transmet faits et inconnues ; le client mène découverte et conclusion."
+          ]
+        ],
+        "after": [
+          "A constitue une mission cohérente de recherche et de rédaction. Ce n’est pas encore une campagne entièrement gérée pour cet acheteur : personne en interne n’est disponible pour l’exécution et les réponses. B couvre davantage de travail, mais personnes, disponibilité, accès et relève restent à vérifier. Le statut ne tranche pas.",
+          "Un indépendant proposant le même périmètre géré resterait candidat. Si B ne démontre pas qui traite les réponses, il échoue au même contrôle. Aucune proposition ne représente un prestataire réel ou une comparaison de prix."
+        ]
+      },
+      {
+        "id": "continuity-test",
+        "title": "Vérifiez ce qui se passe en cas d’absence",
+        "p": [
+          "Conservez trois contrôles : accès, éléments utilisables et relève réelle. Faites une courte démonstration de reprise avec des fiches fictives ou convenablement restreintes. Aucun prospect n’a besoin d’être contacté pour prouver qu’une transmission fonctionne."
+        ],
+        "ol": [
+          "Demandez au titulaire autorisé de retrouver la campagne et d’expliquer comment la mettre en pause. Utilisez des accès délégués adaptés, sans partager les mots de passe.",
+          "La personne proposée pour la relève doit retrouver la cible validée, la version du message, les exclusions et la dernière action terminée.",
+          "Demandez-lui de retrouver une réponse fictive en attente et d’expliquer la suite, le responsable et l’autorisation nécessaire. Figurer comme remplaçant sans contexte ni accès ne prouve aucune couverture.",
+          "Notez ce qui n’a pas pu être démontré, qui le résout et si l’activité reste suspendue. La démonstration n’autorise aucun envoi."
+        ],
+        "after": [
+          "Une transmission documentée peut réduire la dépendance dans les deux modèles. Elle ne supprime pas le risque ni ne garantit un délai de reprise. Confirmez plage de couverture, escalade et responsabilité contractuelle, sans présumer une assistance permanente."
+        ]
+      },
+      {
+        "id": "a-freelancer-is-often-better-when",
+        "title": "Quand un spécialiste est le meilleur choix",
+        "p": [
+          "Une mission délimitée peut être le bon achat si le reste du processus a déjà des responsables compétents. Définissez livrable, acceptation et transmission pour que l’accès direct au spécialiste produise un travail utilisable."
+        ],
+        "ul": [
+          "Il manque une compétence précise : revoir un échantillon de recherche ou réécrire des messages.",
+          "Un responsable interne peut évaluer le travail et coordonner exécution, réponses et commerciaux.",
+          "Expérience pertinente et disponibilité ont été vérifiées.",
+          "Le risque de continuité est compris et les dossiers restent accessibles après livraison."
+        ],
+        "case": [
+          "Décision fictive : acheter une mission de rédaction",
+          "Le responsable interne gère déjà comptes validés, exécution et réponses. Le manque concerne des messages génériques qui n’expliquent pas pourquoi écrire. Le spécialiste révise un échantillon et justifie ses choix. L’acceptation exige un message pertinent et exact pour chaque situation et une transmission utilisable. Si le responsable interne devient indisponible, la décision doit être revue : la rédaction n’inclut pas soudain la gestion de campagne."
+        ]
+      },
+      {
+        "id": "an-agency-is-often-better-when",
+        "title": "Quand acheter une coordination apporte de la valeur",
+        "p": [
+          "Une prestation gérée est utile lorsque recherche, messages individuels, exécution, réponses et reporting nécessitent un responsable de livraison. Une agence peut l’assurer ; vérifiez l’affectation et les responsabilités réelles. Davantage de profils sur un site ne prouvent pas davantage de capacité pour votre compte."
+        ],
+        "ul": [
+          "Plusieurs tâches doivent être reliées, plutôt que confiées à une personne supplémentaire sans coordination.",
+          "Aucun opérateur interne adapté ne peut diriger le quotidien.",
+          "Le responsable proposé explique capacité, contrôle, absences et escalade.",
+          "Votre entreprise peut encore juger l’adéquation des cibles et mener découverte commerciale, propositions et conclusion."
+        ],
+        "case": [
+          "Décision fictive : acheter une prestation gérée",
+          "L’acheteur du brief ne dispose pas de responsable interne pour l’exécution et les réponses. Il doit comparer les périmètres gérés, y compris ceux d’indépendants compétents, puis vérifier la transmission. Si personnes, validations ou accès ne sont pas démontrés, laissez le choix en attente au lieu de considérer un statut comme une preuve."
+        ],
+        "after": [
+          "Troisième issue : aucun des deux pour l’instant. Si offre, preuves autorisées ou capacité commerciale ne sont pas clarifiées, résolvez d’abord cette dépendance. Le manque de preuves ne justifie ni plus de messages ni des promesses de rendez-vous plus rapides."
+        ]
+      },
+      {
+        "id": "af-client-work",
+        "title": "Placez votre temps à côté du devis",
+        "p": [
+          "Exemple fictif sur quatre semaines : l’acheteur dispose de 10 heures internes pour la coordination et les décisions, hors découverte et conclusion. A demande 8 heures de coordination d’exécution, 2 de réponses et 2 de validation : 12. B suppose 2 heures de coordination, 2 de clarification et 2 de validation : 6. Ces hypothèses inventées concernent ces propositions, pas la charge moyenne d’un indépendant ou d’une agence.",
+          "A dépasse la capacité de 2 heures ; B laisse 4 heures dans cette réserve. Si B demande réellement 8 heures de coordination au lieu de 2, son total atteint aussi 12 et dépasse la capacité. Les heures inconnues restent à préciser jusqu’à accord sur le travail. Six heures disponibles ne prédisent pas six rendez-vous."
+        ],
+        "dl": [
+          [
+            "Même période",
+            "Devis + configuration, logiciels et données facturés séparément + valeur convenue du temps interne + coûts de transition connus. Même devise et même période d’engagement."
+          ],
+          [
+            "Sans double compte",
+            "N’ajoutez pas une seconde fois un outil ou une tâche déjà inclus. Comptez la coordination partagée une fois. Laissez taxes et conditions non confirmées en attente."
+          ],
+          [
+            "Engagement complet",
+            "Que faut-il payer à la configuration, que paie-t-on ensuite, quels suppléments exigent un accord et comment la prestation se termine-t-elle ? Comparez le périmètre écrit avant le tarif mensuel."
+          ]
+        ]
+      },
+      {
+        "id": "compare-people-not-labels",
+        "title": "Demandez à l’opérateur d’expliquer ses décisions",
+        "p": [
+          "Demandez qui recherche, rédige, configure l’activité validée, lit les réponses et établit les rapports. Si le travail est délégué, précisez son contrôle et la transmission des changements. L’intervention d’une personne expérimentée doit se voir après la vente, au-delà du premier entretien.",
+          "Donnez les mêmes situations fictives de recherche et de réponse aux candidats. Demandez ce qu’ils accepteraient, écarteraient ou vérifieraient, et pourquoi. Convenez si une évaluation sur mesure est rémunérée ; n’exigez pas du travail de production ou des données identifiantes de clients comme test gratuit. Examiner des cas fictifs n’autorise aucun contact.",
+          "Examinez les preuves avec dates, dénominateurs et périmètre. Un exemple utile explique faits connus, inconnues et modifications après une réponse contradictoire. Un témoignage, un nombre de leads ou le prix d’un logiciel ne démontrent pas ces décisions."
+        ],
+        "links": [
+          [
+            "/guides/how-to-choose-an-outbound-lead-generation-agency/",
+            "Utiliser le guide détaillé de sélection"
+          ],
+          [
+            "/guides/b2b-lead-generation-consultant-vs-agency/",
+            "Besoin de conseil plutôt que d’exécution ?"
+          ]
+        ]
+      },
+      {
+        "id": "af-research-sample",
+        "title": "Un petit échantillon doit révéler du jugement",
+        "p": [
+          "Utilisez ces fiches inventées pour demander comment le candidat agirait. Valider une liste et autoriser l’exécution sont deux décisions distinctes."
+        ],
+        "cards": [
+          [
+            "Approfondir",
+            "Une publication publique évoque la coordination entre sites. Le modèle B2B et la fonction paraissent pertinents. Vérifiez source, rôle et adéquation ; n’affirmez pas qu’il faut remplacer un prestataire."
+          ],
+          [
+            "Attendre",
+            "L’entreprise convient, mais responsabilités et fonction actuelle sont incertaines. Notez les éléments manquants et recherchez-les avant de considérer le contact comme adapté."
+          ],
+          [
+            "Exclure",
+            "Il s’agit d’un client actuel, d’un compte réservé ou d’un refus antérieur couvert par les exclusions. Changer de personne ou de canal n’efface pas cette restriction."
+          ]
+        ],
+        "after": [
+          "Une activité publique pertinente sur LinkedIn peut justifier de commencer par ce canal. L’email peut mieux convenir à une personne joignable mais inactive sur LinkedIn. Publications, rôle, contexte d’entreprise ou intérêt réellement partagé peuvent donner une raison d’écrire. Ne forcez ni lieu ni détail personnel : aucun de ces signaux ne prouve une autorisation ou une intention d’achat."
+        ]
+      },
+      {
+        "id": "af-message-sample",
+        "title": "Relisez la raison d’écrire, puis la relance",
+        "p": [
+          "Exercice fictif : une publication traite des transmissions de travail entre sites et l’expéditeur propose un service de coordination. Il faut expliquer le lien sans inventer un problème ou une expérience commune."
+        ],
+        "quotes": [
+          "Votre publication sur le travail qui passe d’un site à l’autre soulève une question : qui tient la transmission à jour lorsqu’un dossier change de site ? Nous aidons les équipes à organiser cette étape. Est-ce vous qui vous en occupez, ou un autre collègue serait-il mieux placé ?",
+          "Bonjour, je reviens brièvement sur la question ci-dessous. Un court échange vous serait-il utile ?"
+        ],
+        "after": [
+          "Le premier message nomme un sujet précis, explique un lien plausible et pose une question à laquelle la personne peut répondre. Elle ne prétend pas que son processus fonctionne mal. La courte relance ne répète pas tout l’argument. Environ quatre jours illustrent un intervalle prévu, pas une règle universelle ; arrêtez à la réponse ou en cas d’exclusion applicable.",
+          "L’approche habituelle de Beespoke associe un premier message pertinent pour chaque personne et une brève relance, avec coordination des canaux si nécessaire. Deux messages sont une pratique, pas une promesse de réponse. Un autre canal exige un périmètre convenu, une suite justifiée et des dossiers évitant les sollicitations qui se chevauchent. Jugez le texte réel, pas une formule supposée prouver l’usage de l’IA."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Voir des exemples complets de rédaction"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Prévoir des relances mesurées"
+          ]
+        ]
+      },
+      {
+        "id": "af-handoff",
+        "title": "Suivez une réponse jusqu’aux commerciaux",
+        "p": [
+          "Réponse fictive : « Je coordonne les transmissions, mais nous gardons notre prestataire actuel. Nous pourrions parler du nouveau site au trimestre prochain. » Une bonne transmission conserve cette contrainte ; elle ne transforme pas un échange futur éventuel en remplacement urgent."
+        ],
+        "dl": [
+          [
+            "Confirmé",
+            "Fonction pertinente, prestataire actuel conservé et échange ultérieur possible sur un autre site."
+          ],
+          [
+            "Inconnu",
+            "Besoin, budget, pouvoir de décision et souhait d’un rendez-vous maintenant."
+          ],
+          [
+            "Suite",
+            "Le responsable réponses précise le calendrier ou consigne le suivi convenu. Le commercial accepte le contexte et mène la découverte."
+          ],
+          [
+            "Preuve de réservation",
+            "Un clic sur l’agenda n’est pas une réservation. Conservez identifiant et date de création initiaux lorsqu’ils existent ; rattachez annulations et reports à cette identité."
+          ],
+          [
+            "Résultats ultérieurs",
+            "Réservation, rendez-vous tenu et rendez-vous tenu qualifié sont des états distincts. La réponse fictive n’en établit aucun."
+          ],
+          [
+            "Origine",
+            "Si la prospection a lancé la conversation et qu’un guide a aidé ensuite, gardez origine outbound et assistance du site. Ne comptez pas un lead acquis indépendamment par le site."
+          ]
+        ]
+      },
+      {
+        "id": "af-review",
+        "title": "Convenez de ce qui ferait changer la décision",
+        "cards": [
+          [
+            "Continuer",
+            "L’échantillon respecte adéquation et rédaction, les responsabilités sont claires et le commercial peut agir. Continuez seulement le périmètre autorisé et observez charge et résultats."
+          ],
+          [
+            "Modifier",
+            "Une réponse pertinente révèle une autre responsabilité ou contrainte. Ajustez l’hypothèse, obtenez la validation nécessaire et expliquez le changement."
+          ],
+          [
+            "Suspendre",
+            "Une exclusion est ignorée, une affirmation manque de preuve, personne ne traite les réponses ou le périmètre est dépassé. Nommez responsable et preuves nécessaires avant de reprendre."
+          ]
+        ],
+        "p": [
+          "Fixez une revue selon le travail réellement observable et distinguez configuration de campagne active. Une validation manquante est un fait opérationnel ; quelques messages sans réponse ne prédisent pas précisément la demande. Comptez séparément entreprises, personnes, réponses, réservations initiales, rendez-vous tenus et qualifiés, avec dénominateurs explicites et périodes complètes."
+        ]
+      },
+      {
+        "id": "af-transition",
+        "title": "Rendez la collaboration et la sortie praticables",
+        "p": [
+          "Un spécialiste peut fournir recherche ou textes tandis qu’un autre prestataire gère l’exécution. Nommez la personne qui accepte la transmission. Le responsable des envois vérifie liste actuelle, exclusions, message validé et traitement des réponses ; un fichier livré n’est pas forcément prêt à l’emploi."
+        ],
+        "ol": [
+          "Confirmez quels comptes et dossiers appartiennent à votre entreprise ou peuvent être exportés, y compris les restrictions de licence.",
+          "Gardez des copies utilisables des messages validés, raisons de recherche, dates, état de campagne et historique que vous pouvez conserver.",
+          "Transmettez exclusions, désinscriptions et suites convenues pour qu’un changement de prestataire ne relance pas des sollicitations indésirables.",
+          "Rapprochez activité en attente et réponses ouvertes. Convenez de qui suspend ou termine chaque action autorisée et du moment où le destinataire accepte la responsabilité.",
+          "Après acceptation de la transmission, retirez les anciens accès délégués et confirmez les informations à conserver ou supprimer selon l’accord."
+        ],
+        "after": [
+          "Ne supprimez pas l’accès tant que la seule transmission utilisable en dépend. Ne copiez jamais les mots de passe dans un tableau. Il s’agit d’une liste opérationnelle, pas d’une affirmation que tout contrat ou licence autorise chaque export."
+        ]
+      },
+      {
+        "id": "where-beespoke-fits",
+        "title": "La place de Beespoke",
+        "p": [
+          "Beespoke assure une prospection gérée par le fondateur par email à froid et/ou LinkedIn : ciblage, recherche de comptes, messages individuels et relance, réponses, qualification et réservation selon les critères convenus. Votre jugement est nécessaire pour valider l’adéquation des cibles ; programmer ou exécuter des messages en votre nom exige une autorisation.",
+          "Le client mène découverte commerciale, propositions et conclusion. Les appels font l’objet d’un devis séparé selon le marché ; logiciels, données et frais de tiers nécessaires sont séparés sauf inclusion écrite. La gestion par le fondateur n’implique ni SDR dédié à temps plein, ni effectif fixe, ni relève automatique, ni canaux illimités.",
+          "Un bon indépendant peut mieux convenir à une mission délimitée, un poste intégré ou une spécialité hors du service convenu. Apportez le besoin réel à une discussion d’adéquation plutôt que d’acheter un statut."
+        ],
+        "links": [
+          [
+            "/services/outbound-lead-generation/",
+            "Examiner la prospection gérée"
+          ],
+          [
+            "/pricing/",
+            "Consulter le périmètre et les conditions actuels"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Apportez un brief clair à la discussion",
+        "p": [
+          "Avant de signer, écrivez ce qui manque, qui est responsable de chaque étape, ce que votre équipe apporte et ce qui déclencherait une pause. Demandez qui participe à la stratégie et aux revues, valide ciblage et messages, lit les réponses et modifie le plan si les faits le contredisent. Le qualificatif « dirigé par le fondateur » n’est utile que si ce jugement reste relié à l’exécution."
+        ],
+        "downloadTitle": "Questions facultatives pour comparer",
+        "downloadLabel": "Télécharger les questions en CSV",
+        "downloadNote": "Téléchargement local des six questions. Aucun formulaire, aucune coordonnée et aucun envoi. Complétez votre copie et conservez les informations confidentielles dans vos systèmes autorisés.",
+        "questions": [
+          [
+            "Périmètre",
+            "Quels acheteur, offre, canaux et tâches sont inclus ou exclus ?"
+          ],
+          [
+            "Responsabilités",
+            "Qui réalise chaque étape, valide les cibles et accepte la transmission commerciale ?"
+          ],
+          [
+            "Capacité et coût",
+            "Quel temps faut-il en interne, quel est l’engagement complet et quels suppléments exigent une validation ?"
+          ],
+          [
+            "Preuves",
+            "L’opérateur peut-il expliquer un exemple fictif de recherche, de message et de réponse ?"
+          ],
+          [
+            "Continuité et sortie",
+            "Qui peut suspendre ou remplacer, et quels dossiers et accès subsistent à la transmission ?"
+          ],
+          [
+            "Revue",
+            "Quelles observations justifient de continuer, modifier ou suspendre, et qui décide ?"
+          ]
+        ]
+      },
+      {
+        "id": "af-faq",
+        "title": "Questions pour choisir une aide outbound",
+        "faqs": [
+          [
+            "Un indépendant peut-il gérer toute une campagne ?",
+            "Oui, s’il dispose des compétences, du temps, des accès et d’un plan de continuité, personnellement ou via une organisation déclarée. Vérifiez le périmètre et le travail restant au client plutôt que de présumer une mission isolée."
+          ],
+          [
+            "Une agence est-elle toujours plus fiable ?",
+            "Non. Confirmez personnes affectées, dossiers utilisables, accès, relève et escalade. Une agence peut dépendre d’une personne ; un indépendant peut documenter une transmission."
+          ],
+          [
+            "Quelle option coûte moins cher ?",
+            "Comparez des propositions écrites à périmètre, période et devise identiques, avec temps interne, logiciels, données, configuration et sortie. Aucun statut ne prouve un coût total moindre ou un meilleur rendement."
+          ],
+          [
+            "Que doit encore faire le client ?",
+            "Le périmètre convenu le détermine. Chez Beespoke, le client juge l’adéquation des cibles et valide le travail, puis mène découverte, propositions et conclusion. Une prestation gérée ne supprime pas ces responsabilités."
+          ],
+          [
+            "Peut-on associer un spécialiste et une agence ?",
+            "Oui. Séparez les tâches, nommez la personne qui accepte chaque transmission et conservez exclusions, validation des messages et contexte. Ne laissez pas vérification ou réponses sans responsable entre deux prestataires."
+          ],
+          [
+            "L’un des deux garantit-il des rendez-vous qualifiés ?",
+            "Non. Évaluez le travail et mesurez séparément réservations initiales réelles, présence et qualification. Une prévision, un clic ou un exemple ne prouve pas un rendez-vous réservé ou qualifié."
+          ]
+        ]
+      }
+    ],
+    "sourceTitle": "Sources et méthode",
+    "sourceNote": "Comparaisons examinées le 5 novembre 2026 pour éclairer les questions de périmètre, temps interne, continuité et transmission. Propositions, heures, messages et fiches sont des exemples pédagogiques fictifs originaux. Prix, résultats, effectifs, délais et affirmations juridiques de prestataires ne constituent pas des promesses de Beespoke. Certaines sources traitent du marketing au sens large ; leurs questions sont adaptées à la prospection, sans en faire des règles universelles.",
+    "headerEyebrow": "Comparaison de prestataires de prospection"
+  },
+  "revision": "2026-11-05T14:52:29+00:00",
+  "date": "2026-11-05"
+}
