@@ -1,0 +1,1922 @@
+{
+  "date": "2026-11-09",
+  "revision": "2026-11-09T12:17:39+00:00",
+  "en": {
+    "answer": "Marketing-agency lead generation should win suitable clients for your agency, rather than collect everyone who might need marketing. Choose one service, a client situation you can substantiate and the people responsible for it. Combine relevant outreach with referrals, partnerships and useful public work where they fit. Then track the path from a reply to a held, qualified conversation and an accepted opportunity—not just calendar activity.",
+    "jump": "Work through three agency examples",
+    "dateLabel": "November 9, 2026",
+    "fiction": "The situations, messages and reporting figures below are fictional teaching examples. They contain no client or prospect records and are not Beespoke campaign results.",
+    "sourceTitle": "Sources and methodology",
+    "sourceNote": "Reviewed November 9, 2026. The sources below informed the questions and channel comparison; their advertised results, cost ranges and timelines are not used as market benchmarks. The worked situations and messages are original illustrations.",
+    "sections": [
+      {
+        "id": "choose-a-client-situation-not-a-list-of-services",
+        "title": "Choose a client situation, not a list of services",
+        "p": [
+          "A broad capability list makes the buyer do the diagnosis. Start with one service you can deliver well, a situation where it could matter and a reasonable next decision. This guide is about acquiring your agency’s own clients; running campaigns for those clients is a separate job.",
+          "A niche can be a business situation as well as an industry. A content agency might focus on complex product launches; a brand studio might work on acquisitions. The segment still needs enough suitable accounts, credible evidence and delivery capacity."
+        ],
+        "headers": [
+          "Agency offer",
+          "Observable situation",
+          "People to map",
+          "Question still unanswered"
+        ],
+        "rows": [
+          [
+            "Brand or creative",
+            "A published launch, acquisition or identity change",
+            "Brand lead, marketing sponsor and implementation owner",
+            "What work is planned, and is an outside partner being considered?"
+          ],
+          [
+            "Demand generation",
+            "An announced new market or commercial initiative",
+            "Marketing, demand and sales leadership",
+            "Which buying problem or pipeline stage needs support?"
+          ],
+          [
+            "Paid media",
+            "An active campaign or expansion into a new market",
+            "Growth or channel lead, marketing sponsor and finance",
+            "What are the economics and constraints? Public ads do not reveal account performance."
+          ],
+          [
+            "Content and SEO",
+            "A complex product or a new buyer question",
+            "Content, product marketing and subject experts",
+            "What explanation is missing, and who owns it? A search gap does not prove approved budget."
+          ],
+          [
+            "Lifecycle or CRM",
+            "An announced system change or customer initiative",
+            "CRM, growth and revenue operations",
+            "What needs changing, and can the agency access the necessary systems and data?"
+          ]
+        ],
+        "caption": "Five agency offers and the questions behind them"
+      },
+      {
+        "id": "agency-wedge-test",
+        "title": "Stress-test the segment before adding volume",
+        "p": [
+          "Use three checks together. These are questions for judgment, not a score that can certify buying intent."
+        ],
+        "dl": [
+          [
+            "Relevance",
+            "Can a researcher point to a dated fact and explain why the service may be useful? Record what is still an inference."
+          ],
+          [
+            "Evidence",
+            "Can the buyer inspect relevant work, a method or a sample with its context and limits? Do not invent a client result to fill a gap."
+          ],
+          [
+            "Economics and capacity",
+            "Could a suitable engagement support acquisition effort and delivery? Use your own scope, costs and available team time; an industry-average lead cost cannot decide this for you."
+          ]
+        ],
+        "after": [
+          "When a check fails, narrow the segment, improve the evidence or park the account. A bigger list will not fix an offer you cannot explain or deliver."
+        ]
+      },
+      {
+        "id": "ma-channel-choice",
+        "title": "Choose channels for the situation you have",
+        "p": [
+          "There is no universal cheapest or best channel for agencies. Choose a route you can operate well and measure against the same definition of a useful outcome. A newsletter subscriber, a cold reply and an accepted sales opportunity are different things."
+        ],
+        "headers": [
+          "Route",
+          "Useful when",
+          "Check before committing"
+        ],
+        "rows": [
+          [
+            "Referrals and partnerships",
+            "Relevant clients or complementary specialists can make appropriate introductions",
+            "Agree what a good introduction means. Respect permissions and avoid conflicts or exchanging private client lists."
+          ],
+          [
+            "Cold email or LinkedIn",
+            "You can identify suitable business buyers and explain a relevant reason to contact them",
+            "Research the person and account. Use the channel where the person is active or reachable; do not run duplicate sequences at once."
+          ],
+          [
+            "Useful content and founder activity",
+            "Buyers need to inspect your judgment before discussing a service",
+            "Publish work that answers their actual buying questions, with a clear service path. A follower or download alone is not a qualified lead."
+          ],
+          [
+            "Search and paid acquisition",
+            "There is relevant demand and you can support the offer, landing page and acquisition cost",
+            "Assess actual inquiries, delivery margin and sales outcomes. Do not choose a budget from another agency’s reported conversion rate."
+          ],
+          [
+            "Active briefs and marketplaces",
+            "A suitable buyer has published a genuine requirement",
+            "Check the brief, scope, budget information and submission rules. A posted project does not guarantee fit or a contract."
+          ]
+        ],
+        "caption": "Channel choice by situation"
+      },
+      {
+        "id": "research-change-signals-carefully",
+        "title": "Separate the fact from the sales hypothesis",
+        "p": [
+          "Hiring, launches, funding, leadership changes, acquisitions and campaign activity can provide a reason to research an account. None proves dissatisfaction, available budget or a wish to replace an incumbent."
+        ],
+        "dl": [
+          [
+            "Observed",
+            "Save the public source and date: for example, a product team has announced a launch."
+          ],
+          [
+            "Hypothesized",
+            "Explain the possible service connection: buyers may need a clearer comparison between the old and new product. Keep that as a question."
+          ],
+          [
+            "Confirmed",
+            "Record what the responsible person actually says about the need, scope, decision route and next step. Keep unknowns visible."
+          ]
+        ],
+        "after": [
+          "Check existing ownership and supplier instructions. Respect an explicit no-contact request or submission restriction. Contacting several colleagues to get around it is not better targeting."
+        ]
+      },
+      {
+        "id": "ma-worked-segments",
+        "title": "Three situations, three different decisions",
+        "cards": [
+          [
+            "Content agency: a complex launch",
+            "A fictional software business publishes a technical launch note. The agency can show how it explains complex products, but cannot see the launch plan or budget. Research product-marketing ownership and ask whether a buyer-facing explanation is already covered. Do not claim the launch is failing or promise leads from a new article."
+          ],
+          [
+            "Brand studio: an acquisition",
+            "A fictional group announces an acquisition. A public interview mentions keeping the two teams’ identities clear. That creates a specific question about naming or rollout work, rather than proof that the brands are confused. Show a relevant method and establish whether there is a live brief before offering a large rebrand."
+          ],
+          [
+            "Paid-media agency: active ads, uncertain fit",
+            "A fictional retailer runs visible ads, but the agency has no account access or reliable performance data. It cannot conclude that ROAS is poor. If the published requirements fall outside its delivery capacity, park the account; if unsolicited approaches are expressly prohibited, stop that route. Attractive spend does not override fit or permission."
+          ]
+        ],
+        "after": [
+          "Keep the source, reasoning, unresolved question and decision together. The next researcher or salesperson should be able to understand why the account was approved, parked or excluded."
+        ]
+      },
+      {
+        "id": "show-work-in-the-buyer-s-context",
+        "title": "Give buyers proof they can actually evaluate",
+        "p": [
+          "A useful proof pack explains the starting situation, your contribution, the work a buyer can inspect, the measurement period and the limits. Include an outcome only when it is supported and authorized for publication.",
+          "Where a client identity or result is confidential, use an authorized description or a clearly labelled fictional demonstration of your method. Do not leave a recognizable combination of sector, location, dates and exact figures behind a blurred name."
+        ],
+        "ul": [
+          "Show what the agency did and what the client or other partners did.",
+          "Separate a relevant method from a claim that the same result will repeat.",
+          "Use a small artifact—a draft structure, research note or decision walkthrough—when it helps the buyer judge the work.",
+          "Explain what cannot be inferred from the sample. A public website review cannot establish private campaign performance."
+        ],
+        "links": [
+          [
+            "/editorial-policy/",
+            "Read the evidence standard"
+          ],
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "See how to explain a relevant reason to write"
+          ]
+        ]
+      },
+      {
+        "id": "target-the-buying-group-behind-the-brief",
+        "title": "Find the people behind the brief",
+        "p": [
+          "The person using the work, the person sponsoring it and the people approving access or spend may be different. A CMO is not automatically the right first contact for every service."
+        ],
+        "dl": [
+          [
+            "Need and craft",
+            "A brand, content, demand or channel lead can explain what needs doing and evaluate your judgment."
+          ],
+          [
+            "Commercial sponsorship",
+            "A marketing, growth or business leader may own the outcome and help establish priority."
+          ],
+          [
+            "Delivery and approval",
+            "Subject experts, operations, finance, procurement or legal may control information, implementation or supplier approval."
+          ]
+        ],
+        "after": [
+          "Personal context can matter too: a relevant public post, a professional interest, a genuine shared location or an event may be the reason to write. Use it naturally when it is true. A personal connection does not establish a business problem, and mentioning a post without a useful connection is not enough."
+        ]
+      },
+      {
+        "id": "ma-outreach-examples",
+        "title": "Make the first message worth answering",
+        "p": [
+          "These fictional messages illustrate an agency selling content work, not a real Beespoke campaign. Use a structure only when its facts and the sender’s expertise are true. Individual messages should change with the person and the situation."
+        ],
+        "samples": [
+          [
+            "Email: one observation, one useful idea",
+            "Hi [first name],\n\nYour product team’s launch note explains the technical change clearly. The part I couldn’t find was how an operations buyer should decide whether to move from the old setup.\n\nWe write that sort of buying explanation for complex products. I’d start with a short page comparing the two situations, then adapt it for the launch emails, rather than creating another feature article.\n\nIs product marketing handling that piece already? If useful, I can send a brief outline of what I mean.",
+            "The opening refers to a specific public item. The missing explanation is framed as the writer’s limited observation, not a diagnosis of the company. The proposal is concrete and the ownership question gives the buyer an easy way to correct it."
+          ],
+          [
+            "A short follow-up",
+            "Hi [first name], would that short outline be useful, or is this already covered?",
+            "A brief follow-up about four days later is an illustrative practice, not a compulsory timetable. Respect a reply, decline, later-contact request or channel preference instead of adding a long programmed argument."
+          ],
+          [
+            "LinkedIn: a relevant personal starting point",
+            "Hi [first name], the point about keeping engineers in launch planning makes sense. Who is writing the buyer-facing explanation alongside that work? That’s the part our team usually handles. Happy to send a short example of the structure if it’s useful.",
+            "This alternative depends on a real public point the person shared and a relevant service connection. Choose LinkedIn first when the person’s activity supports that choice; use email when it is the more sensible route. Coordinate the history rather than sending both versions together."
+          ]
+        ],
+        "after": [
+          "Read the message aloud. Replace empty praise, vague growth promises and interchangeable openings with the actual reason for writing. Phrases such as “I noticed” are not proof that a message was written by AI; the useful test is whether the message is specific, accurate and natural."
+        ]
+      },
+      {
+        "id": "ma-reply-routing",
+        "title": "Use the reply to decide the next step",
+        "dl": [
+          [
+            "“Send something over.”",
+            "Send one relevant artifact and ask a small scope question. Permission to receive information is not a qualified opportunity or agreement to a call."
+          ],
+          [
+            "“We already have this covered.”",
+            "Clarify an unresolved need only if the reply invites it. Otherwise close the loop; do not invent a reason to replace the current team."
+          ],
+          [
+            "“Later in the year.”",
+            "Ask whether a later check-in is welcome and record the agreed timing. Keep the account out of an immediate sequence."
+          ],
+          [
+            "“No” or a request to stop.",
+            "End the affected outreach and honor the request across the coordinated channels. Do not restart through a colleague or another inbox."
+          ]
+        ]
+      },
+      {
+        "id": "qualify-for-commercial-and-operational-fit",
+        "title": "Qualify the work, then hand over the context",
+        "p": [
+          "Agree what a useful conversation means for the agency’s actual offer. Establish the service need, a plausible scope, the people involved, timing and delivery constraints. Record budget or procurement questions as unknown until they are answered."
+        ],
+        "dl": [
+          [
+            "Reply",
+            "A person has responded. Record the meaning of the reply rather than classifying every answer as interest."
+          ],
+          [
+            "Original booking",
+            "A real calendar event was created. Preserve the original ID and creation date where available; a reschedule is not another acquired lead."
+          ],
+          [
+            "Held, qualified conversation",
+            "The call happened and the agreed criteria were assessed. Attendance and qualification need evidence beyond a booking click."
+          ],
+          [
+            "Accepted opportunity",
+            "The agency’s sales owner accepts the scope and next step, or rejects it with reasons. Keep the research and outstanding questions attached."
+          ],
+          [
+            "Signed client",
+            "A real agreement is reached. Report it separately from meetings, proposals and predicted revenue."
+          ]
+        ],
+        "after": [
+          "A useful handoff names the receiving owner, relevant evidence, the person’s reply, unresolved scope questions and the agreed next action. The agency retains expert discovery, proposals and closing; a calendar invite alone is not the handoff."
+        ],
+        "aliases": []
+      },
+      {
+        "id": "where-beespoke-can-support-an-agency",
+        "title": "What Beespoke handles and what the agency owns",
+        "p": [
+          "Beespoke runs founder-led managed cold email and/or LinkedIn prospecting around an agreed offer and target market. The work can include account and person research, individual messages, authorized campaign programming, follow-up, replies, qualification and meeting booking against agreed criteria.",
+          "The agency approves lead-list fit and supplies accurate service context and usable proof. It owns expert discovery, proposals, delivery and closing. Beespoke does not turn an undefined service menu into guaranteed demand or provide an automatically dedicated full-time SDR.",
+          "Cold calling is separately quoted for the target market. Software, data and other third-party costs are separate unless included in the written scope. There is no guaranteed meeting volume, signed client or revenue outcome."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Review the cold-email service"
+          ],
+          [
+            "/services/outbound-lead-generation/",
+            "Review the managed outbound service"
+          ],
+          [
+            "/pricing/",
+            "See current terms and pricing"
+          ]
+        ]
+      },
+      {
+        "id": "ma-measure-and-decide",
+        "title": "Measure accepted progress before increasing activity",
+        "case": [
+          "A fictional campaign review",
+          "Twenty accounts were researched: eight were excluded, six parked for missing evidence and six approved. Five received an opening message; one remained pending verification. Three replies included one decline, one request for information and one conversation that produced a booking. That booking was rescheduled and then held; the sales owner verified it met the agreed call criteria. It is one original booking and one held, qualified call—not two bookings. No signed client is verified yet. These numbers illustrate reconciliation, not a conversion benchmark."
+        ],
+        "p": [
+          "If complete acquisition cost for that same fictional cohort were 600 currency units, cost per verified held, qualified call would be 600. Acquisition cost per signed client would remain unavailable until a client is verified. Do not use a guessed close rate to report an actual result.",
+          "Keep first acquisition source and website assistance separate. A prospect reached through LinkedIn who later reads a guide is not automatically an SEO-acquired lead. Compare equivalent definitions, cohorts and mature periods; allow time for replies and sales decisions before changing direction."
+        ],
+        "headers": [
+          "What you observe",
+          "What to inspect",
+          "Useful decision"
+        ],
+        "rows": [
+          [
+            "Few suitable accounts",
+            "Service, market, evidence and delivery fit",
+            "Narrow or change the segment before buying more records."
+          ],
+          [
+            "Suitable accounts, few replies",
+            "Reachability, deliverability, channel and individual message relevance",
+            "Inspect the actual messages and delivery; do not automatically add more follow-ups."
+          ],
+          [
+            "Replies, little next-step progress",
+            "Scope questions and the usefulness of the offer",
+            "Clarify the question or artifact instead of pushing every reply to a calendar."
+          ],
+          [
+            "Bookings, few held calls",
+            "Availability, time zones, reminders and reschedule records",
+            "Resolve the scheduling constraint and count original events consistently."
+          ],
+          [
+            "Held calls, few accepted opportunities",
+            "Buyer need, scope, authority and receiving-owner reasons",
+            "Improve qualification or the offer using the actual discovery evidence."
+          ],
+          [
+            "Opportunities, few signed clients",
+            "Proposal, timing, delivery confidence and the client’s sales process",
+            "Review the commercial decision; outreach volume alone cannot fix it."
+          ]
+        ],
+        "caption": "From account fit to a signed client"
+      },
+      {
+        "id": "ma-economics",
+        "title": "Check costs using your own verified outcomes",
+        "p": [
+          "Use the same acquisition cohort and cost basis for each comparison. Include relevant people time, management, tools, data, media spend and sales effort without double counting. A monthly tool subscription alone is not a fully loaded acquisition cost.",
+          "The optional check below divides entered cost by outcomes you have verified. It does not forecast clients, recommend a channel or compare your figures with a supposed industry average. Nothing is sent or saved by the tool."
+        ],
+        "cost": true
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Review a campaign brief before approving a list",
+        "p": [
+          "These eight questions turn the framework into a reviewable brief. Keep real account, contact and client records in your approved business systems; the optional local download contains only the questions."
+        ],
+        "downloadTitle": "Open the agency campaign-brief questions",
+        "downloadNote": "Read the questions here or download a local CSV. No name, email, upload or submission is required.",
+        "downloadLabel": "Download the questions as CSV",
+        "questions": [
+          [
+            "Offer",
+            "What specific service and client situation are we testing?"
+          ],
+          [
+            "Fit",
+            "Which accounts are suitable, which are excluded and what remains unknown?"
+          ],
+          [
+            "Evidence",
+            "What dated fact supports the approach, and what is only a hypothesis?"
+          ],
+          [
+            "Proof",
+            "What relevant work or method can we show with permission and clear limits?"
+          ],
+          [
+            "People and channel",
+            "Who owns the need, and where is the individual active or sensibly reachable?"
+          ],
+          [
+            "Message and reply",
+            "What useful next step are we offering, and how will declines or later timing be handled?"
+          ],
+          [
+            "Ownership",
+            "Who approves research, handles replies and accepts the discovery handoff?"
+          ],
+          [
+            "Measurement",
+            "How will original bookings, held qualified calls, opportunities, signed clients and complete cohort cost be recorded?"
+          ]
+        ]
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Frequently asked questions",
+        "faqs": [
+          [
+            "How can a marketing agency generate more leads?",
+            "Start with a specific service and suitable client situation, then choose a workable mix of referrals, partnerships, useful content and focused outreach. Define evidence, ownership, qualification and sales handoff before increasing activity. More contacts are useful only when they can become appropriate conversations."
+          ],
+          [
+            "What is the best niche for a marketing agency?",
+            "There is no universal best niche. Choose a market or business situation where you understand the need, can show relevant judgment, can identify suitable buyers and can deliver an economically sensible engagement. Test a segment with explicit unknowns rather than treating a broad industry label as qualification."
+          ],
+          [
+            "Should agencies use cold email or LinkedIn?",
+            "Use the channel that makes sense for the individual and the service. Relevant LinkedIn activity may support approaching there first; email may be more appropriate for a suitable buyer who is not active there. Coordinate messages and replies across channels, and honor contact preferences and declines."
+          ],
+          [
+            "Do referrals replace outbound lead generation?",
+            "Referrals can be valuable when the relationship and fit are sound, but their availability varies. Outbound can test a specific market where appropriate buyers can be identified. Neither is automatically cheaper or better; compare your own complete costs, accepted opportunities and signed clients using equivalent definitions."
+          ],
+          [
+            "What does lead generation for marketing agencies cost?",
+            "Cost depends on who researches, writes, operates, qualifies and sells, as well as tools, data and the channels used. Compare complete acquisition cost with verified outcomes from the same cohort. A published cost-per-lead range or an assumed close rate is not proof of your actual customer acquisition cost."
+          ],
+          [
+            "Should a marketing agency outsource its own prospecting?",
+            "It can make sense when the agency has a defined offer, usable proof, targeting judgment and someone ready to lead discovery. Compare managed execution with internal capacity and learning ownership. The agency still needs to approve fit, provide accurate service context, prepare proposals and close work."
+          ],
+          [
+            "How should an agency measure a qualified lead?",
+            "Define the service need, fit, scope and decision criteria with the receiving sales owner. Report replies, original bookings, held qualified calls, accepted opportunities and signed clients separately. Keep unknowns visible, deduplicate reschedules and separate acquisition source from website assistance."
+          ]
+        ]
+      }
+    ],
+    "cost": {
+      "title": "Open the private cohort cost check",
+      "note": "Use one currency and the same acquisition cohort. Enter counts you have verified; leave an unknown count blank. The numbers remain in this page only.",
+      "labels": [
+        "Total acquisition cost for this cohort",
+        "Verified held, qualified calls",
+        "Verified signed clients"
+      ],
+      "complete": "I have included all relevant costs for this cohort.",
+      "calculate": "Calculate costs",
+      "reset": "Reset numbers",
+      "callLabel": "Cost per held, qualified call",
+      "clientLabel": "Actual acquisition cost per signed client",
+      "missingCost": "Enter the total cost before calculating.",
+      "invalidCost": "Enter a valid cost of zero or more.",
+      "invalidCount": "Use whole-number counts of zero or more, or leave an unknown count blank.",
+      "incomplete": "Confirm the full cost basis before calculating. A tool subscription alone may omit people and sales effort.",
+      "unknown": "Unknown — no verified count entered.",
+      "zero": "Unavailable — no verified outcome in this count.",
+      "unit": "in the currency entered",
+      "basis": "Calculated only from the figures and cost confirmation you supplied."
+    }
+  },
+  "es": {
+    "answer": "La generación de leads para agencias de marketing debe atraer clientes adecuados para tu agencia, no reunir a cualquiera que pueda necesitar marketing. Elige un servicio, una situación que puedas documentar y las personas responsables. Combina la prospección pertinente con recomendaciones, colaboraciones y trabajo público útil cuando encajen. Después, mide el recorrido desde la respuesta hasta una reunión celebrada y cualificada y una oportunidad aceptada, no solo la actividad del calendario.",
+    "jump": "Ver tres ejemplos de agencias",
+    "dateLabel": "9 de noviembre de 2026",
+    "fiction": "Las situaciones, los mensajes y las cifras siguientes son ejemplos ficticios. No contienen registros de clientes ni de contactos y no son resultados de campañas de Beespoke.",
+    "sourceTitle": "Fuentes y metodología",
+    "sourceNote": "Revisión del 9 de noviembre de 2026. Las fuentes siguientes orientaron las preguntas y la comparación de canales; sus resultados anunciados, costes y plazos no se utilizan como referencias del mercado. Las situaciones y los mensajes son ejemplos originales.",
+    "sections": [
+      {
+        "title": "Elige una situación del cliente, no una lista de servicios",
+        "p": [
+          "Un catálogo de capacidades obliga al comprador a diagnosticar qué necesita. Empieza por un servicio que puedas prestar bien, una situación en la que pueda ser útil y una siguiente decisión razonable. Esta guía trata de captar clientes para tu propia agencia; gestionar campañas para esos clientes es otro trabajo.",
+          "Un nicho puede ser una situación empresarial, además de un sector. Una agencia de contenidos podría centrarse en lanzamientos de productos complejos; un estudio de marca, en adquisiciones. El segmento sigue necesitando suficientes cuentas adecuadas, pruebas creíbles y capacidad de entrega."
+        ],
+        "headers": [
+          "Servicio de la agencia",
+          "Situación observable",
+          "Personas que conviene identificar",
+          "Pregunta pendiente"
+        ],
+        "rows": [
+          [
+            "Marca o creatividad",
+            "Lanzamiento, adquisición o cambio de identidad publicado",
+            "Responsable de marca, patrocinador de marketing y responsable de ejecución",
+            "¿Qué trabajo está previsto y se está valorando un proveedor externo?"
+          ],
+          [
+            "Generación de demanda",
+            "Nuevo mercado o iniciativa comercial anunciada",
+            "Dirección de marketing, demanda y ventas",
+            "¿Qué problema de compra o fase del proceso comercial necesita apoyo?"
+          ],
+          [
+            "Medios de pago",
+            "Campaña activa o entrada en un nuevo mercado",
+            "Responsable de crecimiento o canal, patrocinador de marketing y finanzas",
+            "¿Cuáles son los costes, márgenes y límites? Los anuncios públicos no revelan el rendimiento de la cuenta."
+          ],
+          [
+            "Contenidos y SEO",
+            "Producto complejo o nueva pregunta del comprador",
+            "Contenidos, marketing de producto y expertos en la materia",
+            "¿Qué explicación falta y quién la prepara? Una carencia en búsquedas no demuestra presupuesto aprobado."
+          ],
+          [
+            "Ciclo de vida o CRM",
+            "Cambio de sistema o iniciativa de clientes anunciada",
+            "CRM, crecimiento y operaciones de ingresos",
+            "¿Qué hay que cambiar y puede la agencia acceder a los sistemas y datos necesarios?"
+          ]
+        ],
+        "id": "choose-a-client-situation-not-a-list-of-services",
+        "caption": "Cinco servicios y sus preguntas pendientes"
+      },
+      {
+        "title": "Comprueba el segmento antes de aumentar el volumen",
+        "p": [
+          "Utiliza tres comprobaciones juntas. Son preguntas para tomar decisiones, no una puntuación que certifique intención de compra."
+        ],
+        "dl": [
+          [
+            "Relevancia",
+            "¿Puede la persona que investiga señalar un hecho con fecha y explicar por qué el servicio podría ser útil? Anota qué sigue siendo una inferencia."
+          ],
+          [
+            "Pruebas",
+            "¿Puede el comprador examinar trabajo pertinente, un método o una muestra con su contexto y sus límites? No inventes resultados de clientes para cubrir una carencia."
+          ],
+          [
+            "Rentabilidad y capacidad",
+            "¿Podría un encargo adecuado justificar el esfuerzo de captación y entrega? Utiliza tu alcance, tus costes y el tiempo disponible del equipo; un coste medio del sector no puede decidirlo por ti."
+          ]
+        ],
+        "after": [
+          "Si falla una comprobación, acota el segmento, mejora las pruebas o deja la cuenta pendiente. Una lista mayor no arreglará una oferta que no puedes explicar o prestar."
+        ],
+        "id": "agency-wedge-test"
+      },
+      {
+        "title": "Elige los canales según tu situación",
+        "p": [
+          "No existe un canal universalmente más barato o mejor para las agencias. Elige una vía que puedas gestionar bien y medir con la misma definición de resultado útil. Un suscriptor, una respuesta en frío y una oportunidad comercial aceptada son cosas distintas."
+        ],
+        "headers": [
+          "Vía",
+          "Cuándo puede ser útil",
+          "Qué comprobar antes"
+        ],
+        "rows": [
+          [
+            "Recomendaciones y colaboraciones",
+            "Clientes pertinentes o especialistas complementarios pueden hacer presentaciones adecuadas",
+            "Acuerda qué es una buena presentación. Respeta los permisos y evita conflictos o intercambiar listas privadas de clientes."
+          ],
+          [
+            "Correo de prospección o LinkedIn",
+            "Puedes identificar compradores empresariales adecuados y explicar un motivo pertinente para contactar",
+            "Investiga a la persona y la cuenta. Utiliza el canal donde está activa o sea razonable localizarla; no ejecutes secuencias duplicadas a la vez."
+          ],
+          [
+            "Contenido útil y actividad del fundador",
+            "Los compradores necesitan evaluar tu criterio antes de hablar de un servicio",
+            "Publica trabajo que responda a preguntas reales de compra, con un camino claro al servicio. Un seguidor o una descarga no son por sí solos un lead cualificado."
+          ],
+          [
+            "Búsqueda y captación de pago",
+            "Hay demanda pertinente y puedes sostener la oferta, la página de destino y el coste de captación",
+            "Evalúa consultas reales, margen de entrega y resultados comerciales. No elijas un presupuesto a partir de la conversión publicada por otra agencia."
+          ],
+          [
+            "Encargos publicados y plataformas",
+            "Un comprador adecuado ha publicado una necesidad real",
+            "Comprueba requisitos, alcance, información de presupuesto y normas de presentación. Un proyecto publicado no garantiza encaje ni contrato."
+          ]
+        ],
+        "id": "ma-channel-choice",
+        "caption": "Elección de canal según la situación"
+      },
+      {
+        "title": "Separa el hecho de la hipótesis comercial",
+        "p": [
+          "La contratación, los lanzamientos, la financiación, los cambios de dirección, las adquisiciones y la actividad publicitaria pueden justificar investigar una cuenta. Nada de ello demuestra insatisfacción, presupuesto disponible ni deseo de sustituir a un proveedor."
+        ],
+        "dl": [
+          [
+            "Observado",
+            "Guarda la fuente pública y la fecha: por ejemplo, un equipo de producto ha anunciado un lanzamiento."
+          ],
+          [
+            "Hipótesis",
+            "Explica la posible relación con el servicio: quizá los compradores necesiten comparar mejor el producto antiguo y el nuevo. Mantén esa idea como pregunta."
+          ],
+          [
+            "Confirmado",
+            "Anota lo que la persona responsable dice realmente sobre la necesidad, el alcance, el proceso de decisión y el siguiente paso. Deja visibles las incógnitas."
+          ]
+        ],
+        "after": [
+          "Comprueba quién se ocupa del trabajo y las instrucciones para proveedores. Respeta una petición expresa de no contactar o una restricción de presentación. Escribir a varios compañeros para eludirla no mejora la segmentación."
+        ],
+        "id": "research-change-signals-carefully"
+      },
+      {
+        "title": "Tres situaciones, tres decisiones distintas",
+        "cards": [
+          [
+            "Agencia de contenidos: un lanzamiento complejo",
+            "Una empresa ficticia de software publica una nota técnica de lanzamiento. La agencia puede demostrar cómo explica productos complejos, pero desconoce el plan y el presupuesto. Investiga quién lleva marketing de producto y pregunta si la explicación para compradores ya está cubierta. No afirmes que el lanzamiento está fallando ni prometas leads por publicar un artículo."
+          ],
+          [
+            "Estudio de marca: una adquisición",
+            "Un grupo ficticio anuncia una adquisición. En una entrevista pública se habla de mantener claras las identidades de los dos equipos. Eso permite plantear una pregunta concreta sobre nombres o implantación, pero no demuestra confusión entre marcas. Muestra un método pertinente y averigua si existe un encargo antes de proponer un gran cambio de marca."
+          ],
+          [
+            "Agencia de medios de pago: anuncios activos, encaje incierto",
+            "Un comercio ficticio tiene anuncios visibles, pero la agencia no accede a la cuenta ni dispone de datos fiables de rendimiento. No puede concluir que el ROAS sea bajo. Si los requisitos publicados superan su capacidad, deja la cuenta pendiente; si se prohíben expresamente las propuestas no solicitadas, detén esa vía. Un gasto atractivo no sustituye al encaje ni al permiso."
+          ]
+        ],
+        "after": [
+          "Conserva juntos la fuente, el razonamiento, la pregunta pendiente y la decisión. La siguiente persona que investigue o venda debe entender por qué se aprobó, aplazó o excluyó la cuenta."
+        ],
+        "id": "ma-worked-segments"
+      },
+      {
+        "title": "Da al comprador pruebas que pueda evaluar",
+        "p": [
+          "Un conjunto útil de pruebas explica la situación inicial, tu aportación, el trabajo que el comprador puede examinar, el periodo de medición y los límites. Incluye un resultado solo si está respaldado y autorizado para publicarse.",
+          "Si la identidad o el resultado de un cliente son confidenciales, utiliza una descripción autorizada o una demostración ficticia claramente identificada. Ocultar un nombre no basta si quedan un sector, lugar, fechas y cifras exactas que permitan reconocerlo."
+        ],
+        "ul": [
+          "Distingue qué hizo la agencia y qué hicieron el cliente u otros colaboradores.",
+          "Separa un método pertinente de una promesa de repetir el mismo resultado.",
+          "Utiliza una pequeña muestra —una estructura de borrador, una nota de investigación o una explicación de una decisión— cuando ayude a evaluar el trabajo.",
+          "Explica qué no se puede deducir de la muestra. Una revisión de una web pública no permite conocer el rendimiento de campañas privadas."
+        ],
+        "links": [
+          [
+            "/editorial-policy/",
+            "Consulta el criterio sobre pruebas"
+          ],
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Cómo explicar un motivo pertinente para escribir"
+          ]
+        ],
+        "id": "show-work-in-the-buyer-s-context"
+      },
+      {
+        "title": "Identifica a las personas detrás del encargo",
+        "p": [
+          "Quien utilizará el trabajo, quien lo patrocina y quienes aprueban acceso o gasto pueden ser personas distintas. El director de marketing no es automáticamente el primer contacto adecuado para todos los servicios."
+        ],
+        "dl": [
+          [
+            "Necesidad y especialidad",
+            "Un responsable de marca, contenidos, demanda o canal puede explicar el trabajo y evaluar tu criterio."
+          ],
+          [
+            "Patrocinio comercial",
+            "Un responsable de marketing, crecimiento o negocio puede dirigir el resultado y ayudar a establecer la prioridad."
+          ],
+          [
+            "Entrega y aprobación",
+            "Expertos, operaciones, finanzas, compras o asesoría jurídica pueden controlar información, ejecución o aprobación de proveedores."
+          ]
+        ],
+        "after": [
+          "El contexto personal también puede importar: una publicación pública pertinente, un interés profesional, una ubicación realmente compartida o un evento pueden ser el motivo para escribir. Úsalo con naturalidad cuando sea cierto. Una conexión personal no demuestra un problema empresarial, y mencionar una publicación sin una relación útil no basta."
+        ],
+        "id": "target-the-buying-group-behind-the-brief"
+      },
+      {
+        "title": "Haz que el primer mensaje merezca una respuesta",
+        "p": [
+          "Estos mensajes ficticios ilustran a una agencia que vende contenidos, no una campaña real de Beespoke. Utiliza la estructura solo si los hechos y la experiencia del remitente son ciertos. Cada mensaje debe adaptarse a la persona y la situación."
+        ],
+        "samples": [
+          [
+            "Correo: una observación y una idea útil",
+            "Hola [nombre],\n\nLa nota de lanzamiento de vuestro equipo de producto explica bien el cambio técnico. Lo que no encontré fue una explicación de cómo debería decidir un comprador de operaciones si pasa del sistema antiguo al nuevo.\n\nNuestro trabajo consiste en explicar ese tipo de decisiones para productos complejos. Empezaría por una página breve que compare las dos situaciones y después la adaptaría a los correos de lanzamiento, en vez de crear otro artículo de funcionalidades.\n\n¿Marketing de producto ya se ocupa de esa parte? Si os sirve, puedo enviar un esquema breve de lo que propongo.",
+            "La apertura se refiere a un contenido público concreto. La explicación ausente se presenta como una observación limitada del remitente, no como un diagnóstico de la empresa. La propuesta es específica y la pregunta permite al comprador corregirla fácilmente."
+          ],
+          [
+            "Un seguimiento breve",
+            "Hola [nombre], ¿os serviría ese breve esquema o ya tenéis cubierta esta parte?",
+            "Un seguimiento breve unos cuatro días después es una práctica ilustrativa, no un calendario obligatorio. Respeta una respuesta, una negativa, una petición de contactar más adelante o una preferencia de canal en lugar de añadir un largo argumento programado."
+          ],
+          [
+            "LinkedIn: un contexto personal pertinente",
+            "Hola [nombre], tiene sentido lo que comentabas sobre incluir a ingeniería en la planificación del lanzamiento. ¿Quién prepara la explicación para compradores junto a ese trabajo? Esa es la parte de la que suele ocuparse nuestro equipo. Si os sirve, puedo enviar un ejemplo breve de la estructura.",
+            "Esta alternativa depende de una idea pública que la persona haya compartido realmente y de una relación pertinente con el servicio. Empieza por LinkedIn cuando su actividad lo justifique; utiliza el correo cuando tenga más sentido. Coordina el historial en vez de enviar las dos versiones a la vez."
+          ]
+        ],
+        "after": [
+          "Lee el mensaje en voz alta. Sustituye los elogios vacíos, las promesas vagas de crecimiento y las aperturas intercambiables por el motivo real para escribir. Expresiones como «he visto» no demuestran que un texto lo haya escrito una IA; lo útil es comprobar si el mensaje es específico, exacto y natural."
+        ],
+        "id": "ma-outreach-examples"
+      },
+      {
+        "title": "Utiliza la respuesta para decidir el siguiente paso",
+        "dl": [
+          [
+            "«Envíame información».",
+            "Envía una muestra pertinente y plantea una pequeña pregunta de alcance. El permiso para recibir información no es una oportunidad cualificada ni un acuerdo para reunirse."
+          ],
+          [
+            "«Ya lo tenemos cubierto».",
+            "Aclara una necesidad pendiente solo si la respuesta lo permite. En caso contrario, cierra la conversación; no inventes un motivo para sustituir al equipo actual."
+          ],
+          [
+            "«Más adelante este año».",
+            "Pregunta si acepta que retomes el contacto y registra el momento acordado. Excluye la cuenta de la secuencia inmediata."
+          ],
+          [
+            "«No» o una petición de dejar de contactar.",
+            "Finaliza la prospección afectada y respeta la petición en los canales coordinados. No la reinicies a través de un compañero u otra bandeja de entrada."
+          ]
+        ],
+        "id": "ma-reply-routing"
+      },
+      {
+        "title": "Cualifica el trabajo y transmite el contexto",
+        "p": [
+          "Acuerda qué significa una conversación útil para la oferta real de la agencia. Comprueba la necesidad, un alcance plausible, las personas implicadas, los plazos y los límites de entrega. Mantén el presupuesto o las compras como incógnitas hasta recibir respuestas."
+        ],
+        "dl": [
+          [
+            "Respuesta",
+            "Una persona ha contestado. Registra el significado de su respuesta en lugar de clasificar todas como interés."
+          ],
+          [
+            "Reserva original",
+            "Se ha creado un evento real de calendario. Conserva el identificador y la fecha de creación originales cuando estén disponibles; cambiar la fecha no equivale a captar otro lead."
+          ],
+          [
+            "Reunión celebrada y cualificada",
+            "La reunión tuvo lugar y se evaluaron los criterios acordados. La asistencia y la cualificación necesitan pruebas más allá de un clic de reserva."
+          ],
+          [
+            "Oportunidad aceptada",
+            "El responsable comercial de la agencia acepta el alcance y el siguiente paso, o rechaza la oportunidad con motivos. Adjunta la investigación y las preguntas pendientes."
+          ],
+          [
+            "Cliente con contrato firmado",
+            "Se alcanza un acuerdo real. Regístralo por separado de reuniones, propuestas e ingresos previstos."
+          ]
+        ],
+        "after": [
+          "Un traspaso útil identifica al responsable receptor, las pruebas pertinentes, la respuesta de la persona, las dudas de alcance y la acción acordada. La agencia conserva el diagnóstico experto, las propuestas y el cierre; una invitación de calendario no sustituye ese traspaso."
+        ],
+        "id": "qualify-for-commercial-and-operational-fit",
+        "aliases": [
+          "qualify-for-commercial-and-operational-encaje"
+        ]
+      },
+      {
+        "title": "Qué gestiona Beespoke y qué conserva la agencia",
+        "p": [
+          "Beespoke gestiona campañas de prospección por correo y/o LinkedIn, dirigidas por el fundador, con una oferta y un mercado acordados. El trabajo puede incluir investigación de cuentas y personas, mensajes individuales, programación autorizada, seguimiento, respuestas, cualificación y reserva de reuniones según los criterios acordados.",
+          "La agencia aprueba el encaje de las listas y aporta contexto exacto del servicio y pruebas utilizables. Conserva el diagnóstico experto, las propuestas, la entrega y el cierre. Beespoke no convierte un catálogo indefinido en demanda garantizada ni incluye automáticamente un SDR dedicado a jornada completa.",
+          "Las llamadas en frío se presupuestan aparte según el mercado objetivo. El software, los datos y otros costes de terceros son adicionales salvo que estén incluidos en el alcance escrito. No se garantiza un número de reuniones, clientes firmados ni ingresos."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Consulta el servicio de correo de prospección"
+          ],
+          [
+            "/services/outbound-lead-generation/",
+            "Consulta la prospección gestionada"
+          ],
+          [
+            "/pricing/",
+            "Consulta condiciones y precios actuales"
+          ]
+        ],
+        "id": "where-beespoke-can-support-an-agency"
+      },
+      {
+        "title": "Mide el avance aceptado antes de aumentar la actividad",
+        "case": [
+          "Revisión de una campaña ficticia",
+          "Se investigaron veinte cuentas: ocho se excluyeron, seis quedaron pendientes por falta de pruebas y seis se aprobaron. Cinco recibieron un primer mensaje y una quedó pendiente de verificación. Hubo tres respuestas: una negativa, una petición de información y una conversación que produjo una reserva. La reunión cambió de fecha y después se celebró; el responsable comercial verificó que cumplía los criterios acordados. Es una reserva original y una reunión celebrada y cualificada, no dos reservas. Todavía no hay ningún cliente firmado verificado. Estas cifras explican la conciliación de registros; no son una referencia de conversión."
+        ],
+        "p": [
+          "Si el coste completo de captación de ese mismo grupo ficticio fuera de 600 unidades monetarias, el coste por reunión celebrada y cualificada verificada sería de 600. El coste de adquisición por cliente firmado seguiría sin estar disponible hasta verificar un cliente. No utilices una tasa de cierre supuesta para informar de un resultado real.",
+          "Separa la fuente inicial de captación de la asistencia de la web. Un contacto captado en LinkedIn que después lee una guía no es automáticamente un lead adquirido por SEO. Compara definiciones equivalentes, grupos y periodos suficientemente maduros; deja tiempo para las respuestas y decisiones comerciales antes de cambiar de rumbo."
+        ],
+        "headers": [
+          "Qué observas",
+          "Qué revisar",
+          "Decisión útil"
+        ],
+        "rows": [
+          [
+            "Pocas cuentas adecuadas",
+            "Servicio, mercado, pruebas y capacidad de entrega",
+            "Acota o cambia el segmento antes de comprar más registros."
+          ],
+          [
+            "Cuentas adecuadas, pocas respuestas",
+            "Datos de contacto, entregabilidad, canal y relevancia de cada mensaje",
+            "Examina los mensajes y la entrega; no añadas seguimientos automáticamente."
+          ],
+          [
+            "Respuestas sin avance",
+            "Preguntas de alcance y utilidad de la propuesta",
+            "Aclara la pregunta o la muestra en vez de empujar cada respuesta al calendario."
+          ],
+          [
+            "Reservas, pocas reuniones celebradas",
+            "Disponibilidad, zonas horarias, recordatorios y cambios de fecha",
+            "Resuelve el problema de agenda y cuenta los eventos originales de forma coherente."
+          ],
+          [
+            "Reuniones celebradas, pocas oportunidades aceptadas",
+            "Necesidad, alcance, autoridad y motivos del responsable receptor",
+            "Mejora la cualificación o la oferta con la información real del diagnóstico."
+          ],
+          [
+            "Oportunidades, pocos clientes firmados",
+            "Propuesta, plazos, confianza en la entrega y proceso comercial del cliente",
+            "Revisa la decisión comercial; aumentar la prospección no basta para corregirla."
+          ]
+        ],
+        "id": "ma-measure-and-decide",
+        "caption": "Del encaje de la cuenta al cliente firmado"
+      },
+      {
+        "title": "Comprueba los costes con resultados verificados",
+        "p": [
+          "Utiliza el mismo grupo de captación y la misma base de costes en cada comparación. Incluye el tiempo de las personas, gestión, herramientas, datos, inversión publicitaria y esfuerzo comercial que correspondan, sin duplicarlos. Una suscripción mensual a una herramienta no es por sí sola el coste completo de adquisición.",
+          "La comprobación opcional divide el coste introducido entre los resultados que hayas verificado. No prevé clientes, recomienda canales ni compara tus cifras con una supuesta media del sector. La herramienta no envía ni guarda nada."
+        ],
+        "cost": true,
+        "id": "ma-economics"
+      },
+      {
+        "title": "Revisa el encargo de campaña antes de aprobar una lista",
+        "p": [
+          "Estas ocho preguntas convierten el marco en un encargo que se puede revisar. Conserva los registros reales de cuentas, contactos y clientes en tus sistemas de trabajo autorizados; la descarga local opcional solo contiene las preguntas."
+        ],
+        "downloadTitle": "Abrir las preguntas del encargo de campaña",
+        "downloadNote": "Lee las preguntas aquí o descarga un CSV local. No se necesita nombre, correo, subida de archivos ni envío.",
+        "downloadLabel": "Descargar las preguntas en CSV",
+        "questions": [
+          [
+            "Oferta",
+            "¿Qué servicio concreto y situación del cliente vamos a probar?"
+          ],
+          [
+            "Encaje",
+            "¿Qué cuentas son adecuadas, cuáles se excluyen y qué sigue sin saberse?"
+          ],
+          [
+            "Pruebas del contexto",
+            "¿Qué hecho con fecha respalda el contacto y qué es solo una hipótesis?"
+          ],
+          [
+            "Pruebas del trabajo",
+            "¿Qué trabajo o método pertinente podemos mostrar con permiso y límites claros?"
+          ],
+          [
+            "Personas y canal",
+            "¿Quién tiene la necesidad y dónde está activa o es razonable localizar a esa persona?"
+          ],
+          [
+            "Mensaje y respuesta",
+            "¿Qué siguiente paso útil ofrecemos y cómo se gestionarán las negativas o los plazos posteriores?"
+          ],
+          [
+            "Responsabilidades",
+            "¿Quién aprueba la investigación, gestiona las respuestas y acepta el traspaso al diagnóstico?"
+          ],
+          [
+            "Medición",
+            "¿Cómo se registrarán reservas originales, reuniones celebradas y cualificadas, oportunidades, clientes firmados y coste completo del grupo?"
+          ]
+        ],
+        "id": "buyer-decision-guide"
+      },
+      {
+        "title": "Preguntas frecuentes",
+        "faqs": [
+          [
+            "¿Cómo puede una agencia de marketing generar más leads?",
+            "Empieza por un servicio concreto y una situación adecuada del cliente; después elige una combinación viable de recomendaciones, colaboraciones, contenido útil y prospección enfocada. Define las pruebas, responsabilidades, cualificación y traspaso comercial antes de aumentar la actividad. Más contactos solo son útiles si pueden convertirse en conversaciones apropiadas."
+          ],
+          [
+            "¿Cuál es el mejor nicho para una agencia de marketing?",
+            "No existe un mejor nicho universal. Elige un mercado o una situación donde entiendas la necesidad, puedas mostrar criterio pertinente, identifiques compradores adecuados y puedas prestar un servicio económicamente sensato. Prueba el segmento dejando claras las incógnitas, en vez de tratar una etiqueta sectorial como cualificación."
+          ],
+          [
+            "¿Deben las agencias utilizar correo de prospección o LinkedIn?",
+            "Utiliza el canal que tenga sentido para la persona y el servicio. Una actividad pertinente en LinkedIn puede justificar empezar allí; el correo puede ser más adecuado si el comprador no está activo en esa plataforma. Coordina mensajes y respuestas entre canales y respeta preferencias y negativas."
+          ],
+          [
+            "¿Sustituyen las recomendaciones a la prospección?",
+            "Las recomendaciones pueden ser valiosas cuando la relación y el encaje son adecuados, pero su disponibilidad varía. La prospección permite probar un mercado concreto donde se puedan identificar compradores apropiados. Ninguna vía es automáticamente más barata o mejor; compara costes completos, oportunidades aceptadas y clientes firmados con definiciones equivalentes."
+          ],
+          [
+            "¿Cuánto cuesta generar leads para una agencia de marketing?",
+            "Depende de quién investiga, escribe, gestiona, cualifica y vende, además de las herramientas, datos y canales. Compara el coste completo con resultados verificados del mismo grupo de captación. Un rango publicado de coste por lead o una tasa de cierre supuesta no demuestran tu coste real de adquisición de clientes."
+          ],
+          [
+            "¿Debería una agencia externalizar su prospección?",
+            "Puede tener sentido si tiene una oferta definida, pruebas utilizables, criterio para segmentar y una persona preparada para dirigir el diagnóstico. Compara la ejecución gestionada con la capacidad interna y quién conserva el aprendizaje. La agencia sigue aprobando el encaje, aportando contexto exacto, preparando propuestas y cerrando encargos."
+          ],
+          [
+            "¿Cómo debe medir una agencia un lead cualificado?",
+            "Define la necesidad, el encaje, el alcance y los criterios de decisión con el responsable comercial receptor. Registra por separado respuestas, reservas originales, reuniones celebradas y cualificadas, oportunidades aceptadas y clientes firmados. Mantén visibles las incógnitas, elimina duplicados por cambios de fecha y separa la fuente de captación de la asistencia de la web."
+          ]
+        ],
+        "id": "frequently-asked-questions"
+      }
+    ],
+    "cost": {
+      "title": "Abrir la comprobación privada de costes",
+      "note": "Usa una sola moneda y el mismo grupo de captación. Introduce recuentos verificados; deja en blanco los que desconozcas. Las cifras permanecen solo en esta página.",
+      "labels": [
+        "Coste total de captación de este grupo",
+        "Reuniones celebradas y cualificadas verificadas",
+        "Clientes con contrato firmado verificados"
+      ],
+      "complete": "He incluido todos los costes pertinentes de este grupo.",
+      "calculate": "Calcular costes",
+      "reset": "Restablecer cifras",
+      "callLabel": "Coste por reunión celebrada y cualificada",
+      "clientLabel": "Coste real de adquisición por cliente firmado",
+      "missingCost": "Introduce el coste total antes de calcular.",
+      "invalidCost": "Introduce un coste válido, igual o superior a cero.",
+      "invalidCount": "Utiliza recuentos enteros iguales o superiores a cero, o deja en blanco los que desconozcas.",
+      "incomplete": "Confirma la base completa de costes antes de calcular. Una suscripción puede omitir el tiempo de las personas y el esfuerzo comercial.",
+      "unknown": "Desconocido: no se ha introducido un recuento verificado.",
+      "zero": "No disponible: no hay resultados verificados en este recuento.",
+      "unit": "en la moneda introducida",
+      "basis": "Calculado únicamente con las cifras y la confirmación de costes que has aportado."
+    }
+  },
+  "ca": {
+    "answer": "La generació de leads per a agències de màrqueting ha d’atreure clients adequats per a la teva agència, no aplegar qualsevol empresa que pugui necessitar màrqueting. Tria un servei, una situació que puguis documentar i les persones responsables. Combina la prospecció pertinent amb recomanacions, col·laboracions i treball públic útil quan hi encaixin. Després, mesura el recorregut des de la resposta fins a una reunió celebrada i qualificada i una oportunitat acceptada, no només l’activitat del calendari.",
+    "jump": "Veure tres exemples d’agències",
+    "dateLabel": "9 de novembre de 2026",
+    "fiction": "Les situacions, els missatges i les xifres següents són exemples ficticis. No contenen registres de clients ni de contactes i no són resultats de campanyes de Beespoke.",
+    "sourceTitle": "Fonts i metodologia",
+    "sourceNote": "Revisió del 9 de novembre de 2026. Les fonts següents han orientat les preguntes i la comparació de canals; els resultats, costos i terminis que anuncien no s’utilitzen com a referències del mercat. Les situacions i els missatges són exemples originals.",
+    "sections": [
+      {
+        "title": "Tria una situació del client, no una llista de serveis",
+        "p": [
+          "Un catàleg de capacitats obliga el comprador a diagnosticar què necessita. Comença per un servei que puguis prestar bé, una situació en què pugui ser útil i una següent decisió raonable. Aquesta guia tracta de captar clients per a la teva agència; gestionar campanyes per a aquests clients és una altra feina.",
+          "Un nínxol pot ser una situació empresarial, a més d’un sector. Una agència de continguts es podria centrar en llançaments de productes complexos; un estudi de marca, en adquisicions. El segment continua necessitant prou comptes adequats, proves creïbles i capacitat d’execució."
+        ],
+        "headers": [
+          "Servei de l’agència",
+          "Situació observable",
+          "Persones que cal identificar",
+          "Pregunta pendent"
+        ],
+        "rows": [
+          [
+            "Marca o creativitat",
+            "Llançament, adquisició o canvi d’identitat publicat",
+            "Responsable de marca, patrocinador de màrqueting i responsable d’execució",
+            "Quina feina hi ha prevista i s’està valorant un proveïdor extern?"
+          ],
+          [
+            "Generació de demanda",
+            "Nou mercat o iniciativa comercial anunciada",
+            "Direcció de màrqueting, demanda i vendes",
+            "Quin problema de compra o fase del procés comercial necessita suport?"
+          ],
+          [
+            "Publicitat de pagament",
+            "Campanya activa o entrada en un nou mercat",
+            "Responsable de creixement o canal, patrocinador de màrqueting i finances",
+            "Quins són els costos, marges i límits? Els anuncis públics no revelen el rendiment del compte."
+          ],
+          [
+            "Continguts i SEO",
+            "Producte complex o nova pregunta del comprador",
+            "Continguts, màrqueting de producte i experts en la matèria",
+            "Quina explicació falta i qui la prepara? Una mancança en cerques no demostra pressupost aprovat."
+          ],
+          [
+            "Cicle de vida o CRM",
+            "Canvi de sistema o iniciativa de clients anunciada",
+            "CRM, creixement i operacions d’ingressos",
+            "Què cal canviar i pot l’agència accedir als sistemes i dades necessaris?"
+          ]
+        ],
+        "id": "choose-a-client-situation-not-a-list-of-services",
+        "caption": "Cinc serveis i les preguntes pendents"
+      },
+      {
+        "title": "Comprova el segment abans d’augmentar el volum",
+        "p": [
+          "Utilitza tres comprovacions conjuntament. Són preguntes per prendre decisions, no una puntuació que certifiqui intenció de compra."
+        ],
+        "dl": [
+          [
+            "Rellevància",
+            "Pot la persona que investiga assenyalar un fet amb data i explicar per què el servei podria ser útil? Anota què continua sent una inferència."
+          ],
+          [
+            "Proves",
+            "Pot el comprador examinar treball pertinent, un mètode o una mostra amb el seu context i els seus límits? No inventis resultats de clients per cobrir una mancança."
+          ],
+          [
+            "Rendibilitat i capacitat",
+            "Podria un encàrrec adequat justificar l’esforç de captació i execució? Utilitza el teu abast, els teus costos i el temps disponible de l’equip; un cost mitjà del sector no pot decidir-ho per tu."
+          ]
+        ],
+        "after": [
+          "Si falla una comprovació, acota el segment, millora les proves o deixa el compte pendent. Una llista més gran no arreglarà una oferta que no pots explicar o prestar."
+        ],
+        "id": "agency-wedge-test"
+      },
+      {
+        "title": "Tria els canals segons la teva situació",
+        "p": [
+          "No hi ha un canal universalment més barat o millor per a les agències. Tria una via que puguis gestionar bé i mesurar amb la mateixa definició de resultat útil. Un subscriptor, una resposta en fred i una oportunitat comercial acceptada són coses diferents."
+        ],
+        "headers": [
+          "Via",
+          "Quan pot ser útil",
+          "Què cal comprovar abans"
+        ],
+        "rows": [
+          [
+            "Recomanacions i col·laboracions",
+            "Clients pertinents o especialistes complementaris poden fer presentacions adequades",
+            "Acorda què és una bona presentació. Respecta els permisos i evita conflictes o intercanviar llistes privades de clients."
+          ],
+          [
+            "Correu de prospecció o LinkedIn",
+            "Pots identificar compradors empresarials adequats i explicar un motiu pertinent per contactar-hi",
+            "Investiga la persona i el compte. Utilitza el canal on és activa o sigui raonable trobar-la; no executis seqüències duplicades alhora."
+          ],
+          [
+            "Contingut útil i activitat del fundador",
+            "Els compradors necessiten avaluar el teu criteri abans de parlar d’un servei",
+            "Publica treball que respongui a preguntes reals de compra, amb un camí clar cap al servei. Un seguidor o una descàrrega no són per si sols un lead qualificat."
+          ],
+          [
+            "Cerca i captació de pagament",
+            "Hi ha demanda pertinent i pots sostenir l’oferta, la pàgina de destinació i el cost de captació",
+            "Avalua consultes reals, marge d’execució i resultats comercials. No triïs un pressupost a partir de la conversió publicada per una altra agència."
+          ],
+          [
+            "Encàrrecs publicats i plataformes",
+            "Un comprador adequat ha publicat una necessitat real",
+            "Comprova requisits, abast, informació de pressupost i normes de presentació. Un projecte publicat no garanteix encaix ni contracte."
+          ]
+        ],
+        "id": "ma-channel-choice",
+        "caption": "Tria de canal segons la situació"
+      },
+      {
+        "title": "Separa el fet de la hipòtesi comercial",
+        "p": [
+          "La contractació, els llançaments, el finançament, els canvis de direcció, les adquisicions i l’activitat publicitària poden justificar investigar un compte. Cap d’aquests fets demostra insatisfacció, pressupost disponible ni voluntat de substituir un proveïdor."
+        ],
+        "dl": [
+          [
+            "Observat",
+            "Desa la font pública i la data: per exemple, un equip de producte ha anunciat un llançament."
+          ],
+          [
+            "Hipòtesi",
+            "Explica la possible relació amb el servei: potser els compradors necessiten comparar millor el producte antic i el nou. Mantén aquesta idea com a pregunta."
+          ],
+          [
+            "Confirmat",
+            "Anota què diu realment la persona responsable sobre la necessitat, l’abast, el procés de decisió i el pas següent. Deixa visibles les incògnites."
+          ]
+        ],
+        "after": [
+          "Comprova qui s’ocupa de la feina i les instruccions per a proveïdors. Respecta una petició expressa de no contactar o una restricció de presentació. Escriure a diversos companys per eludir-la no millora la segmentació."
+        ],
+        "id": "research-change-signals-carefully"
+      },
+      {
+        "title": "Tres situacions, tres decisions diferents",
+        "cards": [
+          [
+            "Agència de continguts: un llançament complex",
+            "Una empresa fictícia de programari publica una nota tècnica de llançament. L’agència pot demostrar com explica productes complexos, però desconeix el pla i el pressupost. Investiga qui porta màrqueting de producte i pregunta si l’explicació per a compradors ja està coberta. No afirmis que el llançament està fallant ni prometis leads per publicar un article."
+          ],
+          [
+            "Estudi de marca: una adquisició",
+            "Un grup fictici anuncia una adquisició. En una entrevista pública es parla de mantenir clares les identitats dels dos equips. Això permet plantejar una pregunta concreta sobre noms o implantació, però no demostra confusió entre marques. Mostra un mètode pertinent i esbrina si hi ha un encàrrec abans de proposar un gran canvi de marca."
+          ],
+          [
+            "Agència de publicitat de pagament: anuncis actius, encaix incert",
+            "Un comerç fictici té anuncis visibles, però l’agència no accedeix al compte ni disposa de dades fiables de rendiment. No pot concloure que el ROAS sigui baix. Si els requisits publicats superen la seva capacitat, deixa el compte pendent; si es prohibeixen expressament les propostes no sol·licitades, atura aquesta via. Una despesa atractiva no substitueix l’encaix ni el permís."
+          ]
+        ],
+        "after": [
+          "Conserva junts la font, el raonament, la pregunta pendent i la decisió. La següent persona que investigui o vengui ha de poder entendre per què s’ha aprovat, ajornat o exclòs el compte."
+        ],
+        "id": "ma-worked-segments"
+      },
+      {
+        "title": "Dona al comprador proves que pugui avaluar",
+        "p": [
+          "Un conjunt útil de proves explica la situació inicial, la teva aportació, la feina que el comprador pot examinar, el període de mesura i els límits. Inclou un resultat només si està acreditat i autoritzat per publicar-lo.",
+          "Si la identitat o el resultat d’un client són confidencials, utilitza una descripció autoritzada o una demostració fictícia clarament identificada. Ocultar un nom no és suficient si queden un sector, un lloc, unes dates i unes xifres exactes que permetin reconèixer-lo."
+        ],
+        "ul": [
+          "Distingeix què va fer l’agència i què van fer el client o altres col·laboradors.",
+          "Separa un mètode pertinent d’una promesa de repetir el mateix resultat.",
+          "Utilitza una petita mostra —una estructura d’esborrany, una nota de recerca o l’explicació d’una decisió— quan ajudi a avaluar la feina.",
+          "Explica què no es pot deduir de la mostra. Revisar un web públic no permet conèixer el rendiment de campanyes privades."
+        ],
+        "links": [
+          [
+            "/editorial-policy/",
+            "Consulta el criteri sobre proves"
+          ],
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Com explicar un motiu pertinent per escriure"
+          ]
+        ],
+        "id": "show-work-in-the-buyer-s-context"
+      },
+      {
+        "title": "Identifica les persones darrere de l’encàrrec",
+        "p": [
+          "Qui utilitzarà la feina, qui la patrocina i qui aprova l’accés o la despesa poden ser persones diferents. El director de màrqueting no és automàticament el primer contacte adequat per a tots els serveis."
+        ],
+        "dl": [
+          [
+            "Necessitat i especialitat",
+            "Un responsable de marca, continguts, demanda o canal pot explicar la feina i avaluar el teu criteri."
+          ],
+          [
+            "Patrocini comercial",
+            "Un responsable de màrqueting, creixement o negoci pot dirigir el resultat i ajudar a establir-ne la prioritat."
+          ],
+          [
+            "Execució i aprovació",
+            "Experts, operacions, finances, compres o assessoria jurídica poden controlar informació, execució o aprovació de proveïdors."
+          ]
+        ],
+        "after": [
+          "El context personal també pot importar: una publicació pública pertinent, un interès professional, una ubicació realment compartida o un esdeveniment poden ser el motiu per escriure. Fes-lo servir amb naturalitat quan sigui cert. Una connexió personal no demostra un problema empresarial, i esmentar una publicació sense una relació útil no és suficient."
+        ],
+        "id": "target-the-buying-group-behind-the-brief"
+      },
+      {
+        "title": "Fes que el primer missatge mereixi una resposta",
+        "p": [
+          "Aquests missatges ficticis mostren una agència que ven continguts, no una campanya real de Beespoke. Utilitza l’estructura només si els fets i l’experiència del remitent són certs. Cada missatge s’ha d’adaptar a la persona i la situació."
+        ],
+        "samples": [
+          [
+            "Correu: una observació i una idea útil",
+            "Hola [nom],\n\nLa nota de llançament del vostre equip de producte explica bé el canvi tècnic. El que no hi vaig trobar és una explicació de com hauria de decidir un comprador d’operacions si passa del sistema antic al nou.\n\nLa nostra feina és explicar aquest tipus de decisions per a productes complexos. Començaria per una pàgina breu que compari les dues situacions i després l’adaptaria als correus de llançament, en lloc de crear un altre article de funcionalitats.\n\nMàrqueting de producte ja s’ocupa d’aquesta part? Si us és útil, puc enviar un esquema breu del que proposo.",
+            "L’obertura fa referència a un contingut públic concret. L’explicació absent es presenta com una observació limitada del remitent, no com un diagnòstic de l’empresa. La proposta és específica i la pregunta permet al comprador corregir-la fàcilment."
+          ],
+          [
+            "Un seguiment breu",
+            "Hola [nom], us seria útil aquest esquema breu o ja teniu coberta aquesta part?",
+            "Un seguiment breu uns quatre dies després és una pràctica il·lustrativa, no un calendari obligatori. Respecta una resposta, una negativa, una petició de contactar més endavant o una preferència de canal en lloc d’afegir un llarg argument programat."
+          ],
+          [
+            "LinkedIn: un context personal pertinent",
+            "Hola [nom], té sentit el que comentaves sobre incloure enginyeria en la planificació del llançament. Qui prepara l’explicació per a compradors al costat d’aquesta feina? Aquesta és la part de què se sol ocupar el nostre equip. Si us és útil, puc enviar un exemple breu de l’estructura.",
+            "Aquesta alternativa depèn d’una idea pública que la persona hagi compartit realment i d’una relació pertinent amb el servei. Comença per LinkedIn quan la seva activitat ho justifiqui; utilitza el correu quan tingui més sentit. Coordina l’historial en lloc d’enviar les dues versions alhora."
+          ]
+        ],
+        "after": [
+          "Llegeix el missatge en veu alta. Substitueix els elogis buits, les promeses vagues de creixement i les obertures intercanviables pel motiu real per escriure. Expressions com «he vist» no demostren que un text l’hagi escrit una IA; la comprovació útil és si el missatge és específic, exacte i natural."
+        ],
+        "id": "ma-outreach-examples"
+      },
+      {
+        "title": "Utilitza la resposta per decidir el pas següent",
+        "dl": [
+          [
+            "«Envia’m informació».",
+            "Envia una mostra pertinent i planteja una petita pregunta d’abast. El permís per rebre informació no és una oportunitat qualificada ni un acord per reunir-se."
+          ],
+          [
+            "«Ja ho tenim cobert».",
+            "Aclareix una necessitat pendent només si la resposta ho permet. Si no, tanca la conversa; no inventis un motiu per substituir l’equip actual."
+          ],
+          [
+            "«Més endavant aquest any».",
+            "Pregunta si accepta que reprenguis el contacte i registra el moment acordat. Exclou el compte de la seqüència immediata."
+          ],
+          [
+            "«No» o una petició de deixar de contactar.",
+            "Finalitza la prospecció afectada i respecta la petició en els canals coordinats. No la reiniciïs a través d’un company o una altra bústia."
+          ]
+        ],
+        "id": "ma-reply-routing"
+      },
+      {
+        "title": "Qualifica la feina i transmet el context",
+        "p": [
+          "Acorda què significa una conversa útil per a l’oferta real de l’agència. Comprova la necessitat, un abast plausible, les persones implicades, els terminis i els límits d’execució. Mantén el pressupost o les compres com a incògnites fins a rebre respostes."
+        ],
+        "dl": [
+          [
+            "Resposta",
+            "Una persona ha contestat. Registra el significat de la resposta en lloc de classificar-les totes com a interès."
+          ],
+          [
+            "Reserva original",
+            "S’ha creat un esdeveniment real de calendari. Conserva l’identificador i la data de creació originals quan estiguin disponibles; canviar la data no equival a captar un altre lead."
+          ],
+          [
+            "Reunió celebrada i qualificada",
+            "La reunió ha tingut lloc i s’han avaluat els criteris acordats. L’assistència i la qualificació necessiten proves més enllà d’un clic de reserva."
+          ],
+          [
+            "Oportunitat acceptada",
+            "El responsable comercial de l’agència accepta l’abast i el pas següent, o rebutja l’oportunitat amb motius. Adjunta-hi la recerca i les preguntes pendents."
+          ],
+          [
+            "Client amb contracte signat",
+            "S’arriba a un acord real. Registra’l separadament de reunions, propostes i ingressos previstos."
+          ]
+        ],
+        "after": [
+          "Un traspàs útil identifica el responsable receptor, les proves pertinents, la resposta de la persona, els dubtes d’abast i l’acció acordada. L’agència conserva el diagnòstic expert, les propostes i el tancament; una invitació de calendari no substitueix aquest traspàs."
+        ],
+        "id": "qualify-for-commercial-and-operational-fit",
+        "aliases": [
+          "qualify-for-commercial-and-operational-encaix"
+        ]
+      },
+      {
+        "title": "Què gestiona Beespoke i què conserva l’agència",
+        "p": [
+          "Beespoke gestiona campanyes de prospecció per correu i/o LinkedIn, dirigides pel fundador, amb una oferta i un mercat acordats. La feina pot incloure recerca de comptes i persones, missatges individuals, programació autoritzada, seguiment, respostes, qualificació i reserva de reunions segons els criteris acordats.",
+          "L’agència aprova l’encaix de les llistes i aporta context exacte del servei i proves utilitzables. Conserva el diagnòstic expert, les propostes, l’execució i el tancament. Beespoke no converteix un catàleg indefinit en demanda garantida ni inclou automàticament un SDR dedicat a jornada completa.",
+          "Les trucades en fred es pressuposten a part segons el mercat objectiu. El programari, les dades i altres costos de tercers són addicionals llevat que s’incloguin en l’abast escrit. No es garanteix un nombre de reunions, clients signats ni ingressos."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Consulta el servei de correu de prospecció"
+          ],
+          [
+            "/services/outbound-lead-generation/",
+            "Consulta la prospecció gestionada"
+          ],
+          [
+            "/pricing/",
+            "Consulta condicions i preus actuals"
+          ]
+        ],
+        "id": "where-beespoke-can-support-an-agency"
+      },
+      {
+        "title": "Mesura l’avenç acceptat abans d’augmentar l’activitat",
+        "case": [
+          "Revisió d’una campanya fictícia",
+          "Es van investigar vint comptes: vuit es van excloure, sis van quedar pendents per falta de proves i sis es van aprovar. Cinc van rebre un primer missatge i un va quedar pendent de verificació. Hi va haver tres respostes: una negativa, una petició d’informació i una conversa que va produir una reserva. La reunió va canviar de data i després es va celebrar; el responsable comercial va verificar que complia els criteris acordats. És una reserva original i una reunió celebrada i qualificada, no dues reserves. Encara no hi ha cap client signat verificat. Aquestes xifres expliquen la conciliació de registres; no són una referència de conversió."
+        ],
+        "p": [
+          "Si el cost complet de captació d’aquest mateix grup fictici fos de 600 unitats monetàries, el cost per reunió celebrada i qualificada verificada seria de 600. El cost d’adquisició per client signat continuaria sense estar disponible fins a verificar un client. No utilitzis una taxa de tancament suposada per informar d’un resultat real.",
+          "Separa la font inicial de captació de l’assistència del web. Un contacte captat a LinkedIn que després llegeix una guia no és automàticament un lead adquirit per SEO. Compara definicions equivalents, grups i períodes prou madurs; deixa temps per a les respostes i decisions comercials abans de canviar de rumb."
+        ],
+        "headers": [
+          "Què observes",
+          "Què cal revisar",
+          "Decisió útil"
+        ],
+        "rows": [
+          [
+            "Pocs comptes adequats",
+            "Servei, mercat, proves i capacitat d’execució",
+            "Acota o canvia el segment abans de comprar més registres."
+          ],
+          [
+            "Comptes adequats, poques respostes",
+            "Dades de contacte, lliurament del correu, canal i rellevància de cada missatge",
+            "Examina els missatges i el lliurament; no afegeixis seguiments automàticament."
+          ],
+          [
+            "Respostes sense avenç",
+            "Preguntes d’abast i utilitat de la proposta",
+            "Aclareix la pregunta o la mostra en lloc d’empènyer cada resposta cap al calendari."
+          ],
+          [
+            "Reserves, poques reunions celebrades",
+            "Disponibilitat, zones horàries, recordatoris i canvis de data",
+            "Resol el problema d’agenda i compta els esdeveniments originals de manera coherent."
+          ],
+          [
+            "Reunions celebrades, poques oportunitats acceptades",
+            "Necessitat, abast, autoritat i motius del responsable receptor",
+            "Millora la qualificació o l’oferta amb la informació real del diagnòstic."
+          ],
+          [
+            "Oportunitats, pocs clients signats",
+            "Proposta, terminis, confiança en l’execució i procés comercial del client",
+            "Revisa la decisió comercial; augmentar la prospecció no és suficient per corregir-la."
+          ]
+        ],
+        "id": "ma-measure-and-decide",
+        "caption": "De l’encaix del compte al client signat"
+      },
+      {
+        "title": "Comprova els costos amb resultats verificats",
+        "p": [
+          "Utilitza el mateix grup de captació i la mateixa base de costos en cada comparació. Inclou el temps de les persones, gestió, eines, dades, inversió publicitària i esforç comercial que corresponguin, sense duplicar-los. Una subscripció mensual a una eina no és per si sola el cost complet d’adquisició.",
+          "La comprovació opcional divideix el cost introduït entre els resultats que hagis verificat. No preveu clients, recomana canals ni compara les teves xifres amb una suposada mitjana del sector. L’eina no envia ni desa res."
+        ],
+        "cost": true,
+        "id": "ma-economics"
+      },
+      {
+        "title": "Revisa l’encàrrec de campanya abans d’aprovar una llista",
+        "p": [
+          "Aquestes vuit preguntes converteixen el marc en un encàrrec que es pot revisar. Conserva els registres reals de comptes, contactes i clients en els teus sistemes de treball autoritzats; la descàrrega local opcional només conté les preguntes."
+        ],
+        "downloadTitle": "Obrir les preguntes de l’encàrrec de campanya",
+        "downloadNote": "Llegeix les preguntes aquí o descarrega un CSV local. No calen nom, correu, càrrega de fitxers ni enviament.",
+        "downloadLabel": "Descarregar les preguntes en CSV",
+        "questions": [
+          [
+            "Oferta",
+            "Quin servei concret i situació del client volem provar?"
+          ],
+          [
+            "Encaix",
+            "Quins comptes són adequats, quins s’exclouen i què continua sense saber-se?"
+          ],
+          [
+            "Proves del context",
+            "Quin fet amb data justifica el contacte i què és només una hipòtesi?"
+          ],
+          [
+            "Proves de la feina",
+            "Quina feina o mètode pertinent podem mostrar amb permís i límits clars?"
+          ],
+          [
+            "Persones i canal",
+            "Qui té la necessitat i on és activa o és raonable trobar aquesta persona?"
+          ],
+          [
+            "Missatge i resposta",
+            "Quin pas següent útil oferim i com es gestionaran les negatives o els terminis posteriors?"
+          ],
+          [
+            "Responsabilitats",
+            "Qui aprova la recerca, gestiona les respostes i accepta el traspàs al diagnòstic?"
+          ],
+          [
+            "Mesura",
+            "Com es registraran reserves originals, reunions celebrades i qualificades, oportunitats, clients signats i cost complet del grup?"
+          ]
+        ],
+        "id": "buyer-decision-guide"
+      },
+      {
+        "title": "Preguntes freqüents",
+        "faqs": [
+          [
+            "Com pot una agència de màrqueting generar més leads?",
+            "Comença per un servei concret i una situació adequada del client; després tria una combinació viable de recomanacions, col·laboracions, contingut útil i prospecció enfocada. Defineix les proves, responsabilitats, qualificació i traspàs comercial abans d’augmentar l’activitat. Més contactes només són útils si poden esdevenir converses apropiades."
+          ],
+          [
+            "Quin és el millor nínxol per a una agència de màrqueting?",
+            "No hi ha un millor nínxol universal. Tria un mercat o una situació en què entenguis la necessitat, puguis mostrar criteri pertinent, identifiquis compradors adequats i puguis prestar un servei econòmicament sensat. Prova el segment deixant clares les incògnites, en lloc de tractar una etiqueta sectorial com a qualificació."
+          ],
+          [
+            "Les agències haurien d’utilitzar correu de prospecció o LinkedIn?",
+            "Utilitza el canal que tingui sentit per a la persona i el servei. Una activitat pertinent a LinkedIn pot justificar començar-hi; el correu pot ser més adequat si el comprador no hi és actiu. Coordina missatges i respostes entre canals i respecta preferències i negatives."
+          ],
+          [
+            "Les recomanacions substitueixen la prospecció?",
+            "Les recomanacions poden ser valuoses quan la relació i l’encaix són adequats, però la seva disponibilitat varia. La prospecció permet provar un mercat concret on es puguin identificar compradors apropiats. Cap via és automàticament més barata o millor; compara costos complets, oportunitats acceptades i clients signats amb definicions equivalents."
+          ],
+          [
+            "Quant costa generar leads per a una agència de màrqueting?",
+            "Depèn de qui investiga, escriu, gestiona, qualifica i ven, a més de les eines, dades i canals. Compara el cost complet amb resultats verificats del mateix grup de captació. Un interval publicat de cost per lead o una taxa de tancament suposada no demostren el teu cost real d’adquisició de clients."
+          ],
+          [
+            "Hauria una agència d’externalitzar la prospecció?",
+            "Pot tenir sentit si té una oferta definida, proves utilitzables, criteri per segmentar i una persona preparada per dirigir el diagnòstic. Compara l’execució gestionada amb la capacitat interna i qui conserva l’aprenentatge. L’agència continua aprovant l’encaix, aportant context exacte, preparant propostes i tancant encàrrecs."
+          ],
+          [
+            "Com ha de mesurar una agència un lead qualificat?",
+            "Defineix la necessitat, l’encaix, l’abast i els criteris de decisió amb el responsable comercial receptor. Registra separadament respostes, reserves originals, reunions celebrades i qualificades, oportunitats acceptades i clients signats. Mantén visibles les incògnites, elimina duplicats per canvis de data i separa la font de captació de l’assistència del web."
+          ]
+        ],
+        "id": "frequently-asked-questions"
+      }
+    ],
+    "cost": {
+      "title": "Obrir la comprovació privada de costos",
+      "note": "Fes servir una sola moneda i el mateix grup de captació. Introdueix recomptes verificats; deixa en blanc els que desconeguis. Les xifres queden només en aquesta pàgina.",
+      "labels": [
+        "Cost total de captació d’aquest grup",
+        "Reunions celebrades i qualificades verificades",
+        "Clients amb contracte signat verificats"
+      ],
+      "complete": "He inclòs tots els costos pertinents d’aquest grup.",
+      "calculate": "Calcular costos",
+      "reset": "Restablir xifres",
+      "callLabel": "Cost per reunió celebrada i qualificada",
+      "clientLabel": "Cost real d’adquisició per client signat",
+      "missingCost": "Introdueix el cost total abans de calcular.",
+      "invalidCost": "Introdueix un cost vàlid, igual o superior a zero.",
+      "invalidCount": "Utilitza recomptes enters iguals o superiors a zero, o deixa en blanc els que desconeguis.",
+      "incomplete": "Confirma la base completa de costos abans de calcular. Una subscripció pot ometre el temps de les persones i l’esforç comercial.",
+      "unknown": "Desconegut: no s’ha introduït un recompte verificat.",
+      "zero": "No disponible: no hi ha resultats verificats en aquest recompte.",
+      "unit": "en la moneda introduïda",
+      "basis": "Calculat únicament amb les xifres i la confirmació de costos que has aportat."
+    }
+  },
+  "fr": {
+    "answer": "La génération de prospects pour une agence marketing doit attirer des clients adaptés à son offre, pas réunir toutes les entreprises susceptibles d’avoir besoin de marketing. Choisissez un service, une situation que vous pouvez documenter et les personnes responsables. Associez une prospection pertinente aux recommandations, partenariats et travaux publics utiles lorsque ces approches conviennent. Puis suivez le passage de la réponse à un rendez-vous tenu et qualifié et à une opportunité acceptée, au-delà de la seule activité du calendrier.",
+    "jump": "Examiner trois exemples d’agences",
+    "dateLabel": "9 novembre 2026",
+    "fiction": "Les situations, messages et chiffres suivants sont des exemples fictifs. Ils ne contiennent aucun dossier client ou prospect et ne sont pas des résultats de campagnes Beespoke.",
+    "sourceTitle": "Sources et méthode",
+    "sourceNote": "Revue du 9 novembre 2026. Les sources suivantes ont éclairé les questions et la comparaison des canaux ; leurs résultats annoncés, coûts et délais ne servent pas de références de marché. Les situations et messages sont des illustrations originales.",
+    "sections": [
+      {
+        "title": "Choisissez une situation client, pas un catalogue de services",
+        "p": [
+          "Un catalogue de compétences oblige l’acheteur à faire lui-même le diagnostic. Commencez par un service que vous savez bien fournir, une situation où il peut être utile et une prochaine décision raisonnable. Ce guide concerne l’acquisition des propres clients de votre agence ; gérer des campagnes pour ces clients est une autre mission.",
+          "Une niche peut correspondre à une situation d’entreprise autant qu’à un secteur. Une agence de contenu peut se concentrer sur les lancements de produits complexes ; un studio de marque, sur les acquisitions. Le segment doit toutefois offrir assez de comptes adaptés, des preuves crédibles et une capacité de réalisation suffisante."
+        ],
+        "headers": [
+          "Offre de l’agence",
+          "Situation observable",
+          "Personnes à identifier",
+          "Question encore ouverte"
+        ],
+        "rows": [
+          [
+            "Marque ou création",
+            "Lancement, acquisition ou changement d’identité publié",
+            "Responsable de marque, sponsor marketing et responsable de mise en œuvre",
+            "Quels travaux sont prévus et un partenaire externe est-il envisagé ?"
+          ],
+          [
+            "Génération de demande",
+            "Nouveau marché ou initiative commerciale annoncée",
+            "Directions marketing, demande et commerciale",
+            "Quel problème d’achat ou quelle étape commerciale demande un soutien ?"
+          ],
+          [
+            "Publicité payante",
+            "Campagne active ou entrée sur un nouveau marché",
+            "Responsable croissance ou canal, sponsor marketing et finance",
+            "Quels sont les coûts, marges et contraintes ? Les annonces publiques ne révèlent pas les performances du compte."
+          ],
+          [
+            "Contenu et SEO",
+            "Produit complexe ou nouvelle question d’acheteur",
+            "Contenu, marketing produit et experts métier",
+            "Quelle explication manque et qui la prépare ? Une lacune dans les recherches ne prouve pas qu’un budget est approuvé."
+          ],
+          [
+            "Cycle de vie ou CRM",
+            "Changement de système ou initiative client annoncé",
+            "CRM, croissance et opérations commerciales",
+            "Que faut-il changer et l’agence peut-elle accéder aux systèmes et données nécessaires ?"
+          ]
+        ],
+        "id": "choose-a-client-situation-not-a-list-of-services",
+        "caption": "Cinq offres et leurs questions ouvertes"
+      },
+      {
+        "title": "Évaluez le segment avant d’augmenter le volume",
+        "p": [
+          "Utilisez trois vérifications ensemble. Ce sont des questions de jugement, pas un score capable de certifier une intention d’achat."
+        ],
+        "dl": [
+          [
+            "Pertinence",
+            "La personne qui fait la recherche peut-elle citer un fait daté et expliquer pourquoi le service pourrait être utile ? Notez ce qui reste une déduction."
+          ],
+          [
+            "Preuves",
+            "L’acheteur peut-il examiner un travail pertinent, une méthode ou un exemple avec son contexte et ses limites ? N’inventez pas de résultat client pour combler un manque."
+          ],
+          [
+            "Rentabilité et capacité",
+            "Une mission adaptée pourrait-elle justifier l’effort d’acquisition et de réalisation ? Utilisez votre périmètre, vos coûts et le temps disponible de l’équipe ; un coût moyen de prospect du secteur ne peut pas décider à votre place."
+          ]
+        ],
+        "after": [
+          "Si une vérification échoue, précisez le segment, améliorez les preuves ou mettez le compte en attente. Une liste plus longue ne corrigera pas une offre que vous ne pouvez ni expliquer ni réaliser."
+        ],
+        "id": "agency-wedge-test"
+      },
+      {
+        "title": "Choisissez les canaux selon votre situation",
+        "p": [
+          "Il n’existe pas de canal universellement moins cher ou meilleur pour les agences. Choisissez une approche que vous pouvez bien gérer et mesurer avec la même définition d’un résultat utile. Un abonné, une réponse à une prospection et une opportunité commerciale acceptée sont des choses différentes."
+        ],
+        "headers": [
+          "Approche",
+          "Quand elle peut être utile",
+          "À vérifier avant de s’engager"
+        ],
+        "rows": [
+          [
+            "Recommandations et partenariats",
+            "Des clients pertinents ou spécialistes complémentaires peuvent faire des présentations adaptées",
+            "Définissez une bonne mise en relation. Respectez les autorisations et évitez les conflits ou échanges de listes clients privées."
+          ],
+          [
+            "E-mail de prospection ou LinkedIn",
+            "Vous pouvez identifier des acheteurs professionnels adaptés et expliquer une raison pertinente de les contacter",
+            "Étudiez la personne et le compte. Utilisez le canal où elle est active ou raisonnablement joignable ; évitez deux séquences identiques simultanées."
+          ],
+          [
+            "Contenu utile et activité du fondateur",
+            "Les acheteurs doivent pouvoir évaluer votre jugement avant de discuter d’un service",
+            "Publiez des travaux qui répondent à leurs vraies questions d’achat, avec un accès clair au service. Un abonné ou un téléchargement ne suffit pas à qualifier un prospect."
+          ],
+          [
+            "Recherche et acquisition payante",
+            "Une demande pertinente existe et vous pouvez soutenir l’offre, la page de destination et le coût d’acquisition",
+            "Évaluez les demandes réelles, la marge de réalisation et les résultats commerciaux. Ne choisissez pas un budget à partir du taux de conversion publié par une autre agence."
+          ],
+          [
+            "Cahiers des charges et plateformes",
+            "Un acheteur adapté a publié un besoin réel",
+            "Vérifiez le besoin, le périmètre, les informations budgétaires et les règles de candidature. Un projet publié ne garantit ni adéquation ni contrat."
+          ]
+        ],
+        "id": "ma-channel-choice",
+        "caption": "Choisir un canal selon la situation"
+      },
+      {
+        "title": "Séparez le fait de l’hypothèse commerciale",
+        "p": [
+          "Recrutements, lancements, financement, changements de direction, acquisitions et activité publicitaire peuvent justifier une recherche. Aucun de ces éléments ne prouve une insatisfaction, un budget disponible ou la volonté de remplacer un prestataire."
+        ],
+        "dl": [
+          [
+            "Observé",
+            "Conservez la source publique et la date : par exemple, une équipe produit a annoncé un lancement."
+          ],
+          [
+            "Hypothèse",
+            "Expliquez le lien possible avec le service : les acheteurs ont peut-être besoin de mieux comparer l’ancien et le nouveau produit. Gardez cette idée sous forme de question."
+          ],
+          [
+            "Confirmé",
+            "Notez ce que dit réellement la personne responsable sur le besoin, le périmètre, le processus de décision et la prochaine étape. Laissez les inconnues visibles."
+          ]
+        ],
+        "after": [
+          "Vérifiez qui prend déjà en charge le travail et les instructions fournisseurs. Respectez une demande explicite de ne pas contacter ou une restriction de candidature. Écrire à plusieurs collègues pour la contourner n’améliore pas le ciblage."
+        ],
+        "id": "research-change-signals-carefully"
+      },
+      {
+        "title": "Trois situations, trois décisions différentes",
+        "cards": [
+          [
+            "Agence de contenu : un lancement complexe",
+            "Une entreprise fictive de logiciels publie une note technique de lancement. L’agence peut montrer comment elle explique des produits complexes, mais ne connaît ni le plan ni le budget. Identifiez la responsabilité du marketing produit et demandez si l’explication destinée aux acheteurs est déjà prévue. N’affirmez pas que le lancement échoue et ne promettez pas de prospects grâce à un article."
+          ],
+          [
+            "Studio de marque : une acquisition",
+            "Un groupe fictif annonce une acquisition. Un entretien public évoque la nécessité de garder claires les identités des deux équipes. Cela permet de poser une question précise sur les noms ou le déploiement, mais ne prouve pas une confusion entre les marques. Présentez une méthode pertinente et vérifiez qu’un besoin existe avant de proposer une refonte complète."
+          ],
+          [
+            "Agence de publicité : annonces actives, adéquation incertaine",
+            "Un commerçant fictif diffuse des annonces visibles, mais l’agence n’a ni accès au compte ni données de performance fiables. Elle ne peut pas conclure que le ROAS est faible. Si les exigences publiées dépassent ses capacités, mettez le compte en attente ; si les approches non sollicitées sont expressément interdites, arrêtez cette démarche. Un budget séduisant ne remplace ni l’adéquation ni l’autorisation."
+          ]
+        ],
+        "after": [
+          "Conservez ensemble la source, le raisonnement, la question ouverte et la décision. La prochaine personne chargée de la recherche ou de la vente doit comprendre pourquoi le compte a été approuvé, mis en attente ou exclu."
+        ],
+        "id": "ma-worked-segments"
+      },
+      {
+        "title": "Donnez aux acheteurs des preuves qu’ils peuvent évaluer",
+        "p": [
+          "Un dossier utile explique la situation de départ, votre contribution, le travail consultable, la période de mesure et les limites. N’incluez un résultat que s’il est étayé et autorisé à la publication.",
+          "Lorsque l’identité ou le résultat d’un client est confidentiel, utilisez une description autorisée ou une démonstration fictive clairement signalée. Masquer le nom ne suffit pas si le secteur, le lieu, les dates et des chiffres précis permettent encore de reconnaître le client."
+        ],
+        "ul": [
+          "Distinguez le travail de l’agence de celui du client ou d’autres partenaires.",
+          "Séparez une méthode pertinente d’une promesse de reproduire le même résultat.",
+          "Utilisez un petit livrable — une structure de texte, une note de recherche ou l’explication d’une décision — lorsqu’il aide à évaluer le travail.",
+          "Expliquez ce que l’exemple ne permet pas de déduire. Examiner un site public ne révèle pas les performances de campagnes privées."
+        ],
+        "links": [
+          [
+            "/editorial-policy/",
+            "Consulter les règles de preuve"
+          ],
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Expliquer une raison pertinente d’écrire"
+          ]
+        ],
+        "id": "show-work-in-the-buyer-s-context"
+      },
+      {
+        "title": "Identifiez les personnes derrière le besoin",
+        "p": [
+          "La personne qui utilisera le travail, celle qui le soutient et celles qui approuvent l’accès ou la dépense peuvent être différentes. Le directeur marketing n’est pas automatiquement le bon premier interlocuteur pour chaque service."
+        ],
+        "dl": [
+          [
+            "Besoin et expertise",
+            "Un responsable de marque, de contenu, de demande ou de canal peut expliquer le travail et évaluer votre jugement."
+          ],
+          [
+            "Soutien commercial",
+            "Un responsable marketing, croissance ou métier peut porter le résultat et aider à établir la priorité."
+          ],
+          [
+            "Réalisation et approbation",
+            "Experts métier, opérations, finance, achats ou service juridique peuvent contrôler l’information, la mise en œuvre ou l’approbation des fournisseurs."
+          ]
+        ],
+        "after": [
+          "Le contexte personnel peut aussi compter : une publication publique pertinente, un intérêt professionnel, un lieu réellement partagé ou un événement peuvent être la raison d’écrire. Utilisez-les naturellement lorsqu’ils sont vrais. Un lien personnel ne prouve pas un problème d’entreprise, et citer une publication sans rapport utile ne suffit pas."
+        ],
+        "id": "target-the-buying-group-behind-the-brief"
+      },
+      {
+        "title": "Donnez envie de répondre au premier message",
+        "p": [
+          "Ces messages fictifs illustrent une agence qui vend du contenu, pas une campagne réelle de Beespoke. Utilisez la structure uniquement si les faits et l’expertise de l’expéditeur sont vrais. Chaque message doit évoluer selon la personne et la situation."
+        ],
+        "samples": [
+          [
+            "E-mail : une observation et une idée utile",
+            "Bonjour [prénom],\n\nLa note de lancement de votre équipe produit explique bien le changement technique. Je n’y ai pas trouvé comment un acheteur côté opérations devrait décider de passer de l’ancien système au nouveau.\n\nNotre travail consiste à expliquer ce type de décision pour des produits complexes. Je commencerais par une page courte comparant les deux situations, puis je l’adapterais aux e-mails de lancement, plutôt que de créer un nouvel article sur les fonctionnalités.\n\nLe marketing produit s’occupe-t-il déjà de cette partie ? Si cela vous aide, je peux vous envoyer un bref plan de ce que j’ai en tête.",
+            "L’ouverture renvoie à un contenu public précis. L’explication manquante est présentée comme une observation limitée de l’expéditeur, pas comme un diagnostic de l’entreprise. La proposition est concrète et la question permet à l’acheteur de la corriger facilement."
+          ],
+          [
+            "Une relance brève",
+            "Bonjour [prénom], ce bref plan vous serait-il utile, ou cette partie est-elle déjà couverte ?",
+            "Une relance brève environ quatre jours plus tard illustre une pratique, pas un calendrier obligatoire. Respectez une réponse, un refus, une demande de contact ultérieur ou une préférence de canal plutôt que d’ajouter un long argumentaire programmé."
+          ],
+          [
+            "LinkedIn : un contexte personnel pertinent",
+            "Bonjour [prénom], à propos des ingénieurs dans la préparation du lancement : qui rédige l’explication destinée aux acheteurs en parallèle ? C’est généralement la partie dont notre équipe s’occupe. Je peux vous envoyer un court exemple de structure si cela vous est utile.",
+            "Cette alternative suppose un point public réellement partagé par la personne et un lien pertinent avec le service. Commencez sur LinkedIn lorsque son activité justifie ce choix ; utilisez l’e-mail lorsqu’il est plus approprié. Coordonnez l’historique au lieu d’envoyer les deux versions ensemble."
+          ]
+        ],
+        "after": [
+          "Lisez le message à voix haute. Remplacez les compliments creux, promesses vagues de croissance et introductions interchangeables par la vraie raison d’écrire. Une expression comme « j’ai remarqué » ne prouve pas qu’un texte vient d’une IA ; le test utile est de vérifier qu’il est précis, exact et naturel."
+        ],
+        "id": "ma-outreach-examples"
+      },
+      {
+        "title": "Utilisez la réponse pour choisir la suite",
+        "dl": [
+          [
+            "« Envoyez-moi quelque chose. »",
+            "Envoyez un exemple pertinent et posez une petite question de périmètre. L’autorisation de recevoir des informations n’est ni une opportunité qualifiée ni un accord pour un rendez-vous."
+          ],
+          [
+            "« Nous avons déjà ce qu’il faut. »",
+            "Clarifiez un besoin restant seulement si la réponse vous y invite. Sinon, terminez l’échange ; n’inventez pas une raison de remplacer l’équipe actuelle."
+          ],
+          [
+            "« Plus tard dans l’année. »",
+            "Demandez si une reprise de contact est souhaitée et notez la date convenue. Retirez le compte de la séquence immédiate."
+          ],
+          [
+            "« Non » ou une demande d’arrêt.",
+            "Arrêtez la prospection concernée et respectez la demande sur les canaux coordonnés. Ne recommencez pas auprès d’un collègue ou depuis une autre boîte e-mail."
+          ]
+        ],
+        "id": "ma-reply-routing"
+      },
+      {
+        "title": "Qualifiez la mission et transmettez le contexte",
+        "p": [
+          "Définissez ce qu’est une conversation utile pour l’offre réelle de l’agence. Établissez le besoin, un périmètre plausible, les personnes impliquées, le calendrier et les contraintes de réalisation. Gardez les questions de budget ou d’achats ouvertes jusqu’à obtenir une réponse."
+        ],
+        "dl": [
+          [
+            "Réponse",
+            "Une personne a répondu. Notez le sens de la réponse plutôt que de classer toute réponse comme de l’intérêt."
+          ],
+          [
+            "Réservation initiale",
+            "Un véritable événement de calendrier a été créé. Conservez son identifiant et sa date de création d’origine lorsqu’ils sont disponibles ; un report n’est pas un nouveau prospect acquis."
+          ],
+          [
+            "Rendez-vous tenu et qualifié",
+            "L’échange a eu lieu et les critères convenus ont été évalués. La présence et la qualification exigent des éléments au-delà d’un clic de réservation."
+          ],
+          [
+            "Opportunité acceptée",
+            "Le responsable commercial de l’agence accepte le périmètre et la suite, ou refuse avec ses raisons. Joignez la recherche et les questions en suspens."
+          ],
+          [
+            "Client signé",
+            "Un accord réel est conclu. Comptabilisez-le séparément des réunions, propositions et revenus prévus."
+          ]
+        ],
+        "after": [
+          "Une transmission utile précise le responsable destinataire, les éléments pertinents, la réponse de la personne, les questions de périmètre et l’action convenue. L’agence mène les échanges de découverte, prépare les propositions et conclut les ventes ; une invitation de calendrier ne suffit pas."
+        ],
+        "id": "qualify-for-commercial-and-operational-fit",
+        "aliases": [
+          "qualify-for-commercial-and-operational-adéquation"
+        ]
+      },
+      {
+        "title": "Ce que Beespoke gère et ce que l’agence conserve",
+        "p": [
+          "Beespoke gère une prospection par e-mail et/ou LinkedIn, pilotée par le fondateur, autour d’une offre et d’un marché convenus. Le travail peut inclure la recherche sur les comptes et personnes, les messages individuels, la programmation autorisée, les relances, les réponses, la qualification et la prise de rendez-vous selon les critères fixés.",
+          "L’agence approuve l’adéquation des listes et fournit un contexte de service exact ainsi que des preuves utilisables. Elle mène les échanges de découverte, prépare les propositions, réalise les missions et conclut les ventes. Beespoke ne transforme pas un catalogue indéfini en demande garantie et n’inclut pas automatiquement un SDR dédié à temps plein.",
+          "Les appels à froid font l’objet d’un devis séparé selon le marché visé. Les logiciels, données et autres frais de tiers sont en supplément sauf inclusion dans le périmètre écrit. Aucun volume de rendez-vous, client signé ou revenu n’est garanti."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Consulter le service de prospection par e-mail"
+          ],
+          [
+            "/services/outbound-lead-generation/",
+            "Consulter la prospection gérée"
+          ],
+          [
+            "/pricing/",
+            "Voir les conditions et tarifs actuels"
+          ]
+        ],
+        "id": "where-beespoke-can-support-an-agency"
+      },
+      {
+        "title": "Mesurez les avancées acceptées avant d’accélérer",
+        "case": [
+          "Revue d’une campagne fictive",
+          "Vingt comptes ont été étudiés : huit exclus, six mis en attente faute d’éléments et six approuvés. Cinq ont reçu un premier message ; le dernier attendait encore une vérification. Les trois réponses comprenaient un refus, une demande d’information et un échange débouchant sur une réservation. Le rendez-vous a été reporté puis tenu ; le responsable commercial a vérifié qu’il répondait aux critères convenus. Cela représente une réservation initiale et un rendez-vous tenu et qualifié, pas deux réservations. Aucun client signé n’est encore vérifié. Ces chiffres illustrent le rapprochement des données, pas un taux de conversion de référence."
+        ],
+        "p": [
+          "Si le coût complet d’acquisition de ce même groupe fictif était de 600 unités monétaires, le coût par rendez-vous tenu et qualifié vérifié serait de 600. Le coût d’acquisition par client signé resterait indisponible tant qu’aucun client ne serait vérifié. N’utilisez pas un taux de signature supposé pour présenter un résultat réel.",
+          "Séparez la source initiale d’acquisition de l’aide apportée par le site. Un prospect contacté sur LinkedIn qui lit ensuite un guide n’est pas automatiquement acquis par SEO. Comparez des groupes et des définitions équivalents sur des périodes terminées, en laissant assez de recul pour observer les réponses et les décisions commerciales avant de changer d’orientation."
+        ],
+        "headers": [
+          "Ce que vous observez",
+          "Ce qu’il faut examiner",
+          "Décision utile"
+        ],
+        "rows": [
+          [
+            "Peu de comptes adaptés",
+            "Service, marché, preuves et capacité de réalisation",
+            "Précisez ou changez le segment avant d’acheter plus de données."
+          ],
+          [
+            "Comptes adaptés, peu de réponses",
+            "Possibilité de contact, délivrabilité, canal et pertinence individuelle du message",
+            "Examinez les messages et leur distribution ; n’ajoutez pas automatiquement des relances."
+          ],
+          [
+            "Réponses sans progression",
+            "Questions de périmètre et utilité de la proposition",
+            "Clarifiez la question ou l’exemple au lieu de pousser chaque réponse vers le calendrier."
+          ],
+          [
+            "Réservations, peu de rendez-vous tenus",
+            "Disponibilités, fuseaux horaires, rappels et reports",
+            "Résolvez la contrainte de calendrier et comptez les événements d’origine de façon cohérente."
+          ],
+          [
+            "Rendez-vous tenus, peu d’opportunités acceptées",
+            "Besoin, périmètre, autorité et raisons du responsable destinataire",
+            "Améliorez la qualification ou l’offre à partir des véritables échanges."
+          ],
+          [
+            "Opportunités, peu de clients signés",
+            "Proposition, calendrier, confiance dans la réalisation et processus commercial du client",
+            "Examinez la décision commerciale ; le volume de prospection ne peut pas tout corriger."
+          ]
+        ],
+        "id": "ma-measure-and-decide",
+        "caption": "Du compte adapté au client signé"
+      },
+      {
+        "title": "Vérifiez les coûts avec vos propres résultats",
+        "p": [
+          "Comparez le même groupe de prospects avec la même base de coûts. Incluez le temps des personnes, la gestion, les outils, données, dépenses publicitaires et efforts commerciaux concernés, sans les compter deux fois. Un abonnement mensuel à un outil n’est pas à lui seul un coût d’acquisition complet.",
+          "La vérification facultative ci-dessous divise le coût saisi par les résultats que vous avez vérifiés. Elle ne prévoit pas de clients, ne recommande pas de canal et ne compare pas vos chiffres à une prétendue moyenne du secteur. L’outil n’envoie et n’enregistre rien."
+        ],
+        "cost": true,
+        "id": "ma-economics"
+      },
+      {
+        "title": "Examinez le brief avant d’approuver une liste",
+        "p": [
+          "Ces huit questions transforment le cadre en brief vérifiable. Conservez les vrais dossiers de comptes, contacts et clients dans vos outils professionnels autorisés ; le téléchargement local facultatif ne contient que les questions."
+        ],
+        "downloadTitle": "Ouvrir les questions du brief de campagne",
+        "downloadNote": "Lisez les questions ici ou téléchargez un CSV local. Aucun nom, e-mail, fichier à déposer ou envoi n’est demandé.",
+        "downloadLabel": "Télécharger les questions en CSV",
+        "questions": [
+          [
+            "Offre",
+            "Quel service précis et quelle situation client allons-nous tester ?"
+          ],
+          [
+            "Adéquation",
+            "Quels comptes conviennent, lesquels sont exclus et que reste-t-il à savoir ?"
+          ],
+          [
+            "Éléments de contexte",
+            "Quel fait daté justifie l’approche et qu’est-ce qui reste une hypothèse ?"
+          ],
+          [
+            "Preuves du travail",
+            "Quel travail ou quelle méthode pouvons-nous montrer avec autorisation et des limites claires ?"
+          ],
+          [
+            "Personnes et canal",
+            "Qui porte le besoin et où la personne est-elle active ou raisonnablement joignable ?"
+          ],
+          [
+            "Message et réponse",
+            "Quelle prochaine étape utile proposons-nous et comment gérer les refus ou les demandes de contact ultérieur ?"
+          ],
+          [
+            "Responsabilités",
+            "Qui approuve la recherche, gère les réponses et accepte le passage aux échanges de découverte ?"
+          ],
+          [
+            "Mesure",
+            "Comment enregistrer les réservations initiales, rendez-vous tenus et qualifiés, opportunités, clients signés et coût complet du groupe ?"
+          ]
+        ],
+        "id": "buyer-decision-guide"
+      },
+      {
+        "title": "Questions fréquentes",
+        "faqs": [
+          [
+            "Comment une agence marketing peut-elle générer plus de prospects ?",
+            "Commencez par un service précis et une situation client adaptée, puis choisissez une combinaison praticable de recommandations, partenariats, contenu utile et prospection ciblée. Définissez les preuves, responsabilités, critères de qualification et transmission commerciale avant d’augmenter l’activité. Plus de contacts ne sont utiles que s’ils peuvent devenir des conversations appropriées."
+          ],
+          [
+            "Quelle est la meilleure niche pour une agence marketing ?",
+            "Il n’existe pas de meilleure niche universelle. Choisissez un marché ou une situation où vous comprenez le besoin, pouvez montrer un jugement pertinent, identifier les bons acheteurs et réaliser une mission économiquement cohérente. Testez un segment en laissant les inconnues visibles plutôt que de traiter une étiquette sectorielle comme une qualification."
+          ],
+          [
+            "Les agences doivent-elles choisir l’e-mail de prospection ou LinkedIn ?",
+            "Utilisez le canal adapté à la personne et au service. Une activité pertinente sur LinkedIn peut justifier d’y commencer ; l’e-mail peut mieux convenir à un acheteur qui n’y est pas actif. Coordonnez messages et réponses entre canaux, et respectez les préférences de contact et les refus."
+          ],
+          [
+            "Les recommandations remplacent-elles la prospection ?",
+            "Les recommandations peuvent être précieuses lorsque la relation et l’adéquation sont bonnes, mais leur disponibilité varie. La prospection permet de tester un marché précis où des acheteurs adaptés sont identifiables. Aucune approche n’est automatiquement moins chère ou meilleure ; comparez vos coûts complets, opportunités acceptées et clients signés avec des définitions équivalentes."
+          ],
+          [
+            "Combien coûte la génération de prospects pour une agence marketing ?",
+            "Le coût dépend des personnes qui recherchent, rédigent, opèrent, qualifient et vendent, ainsi que des outils, données et canaux utilisés. Comparez le coût complet avec les résultats vérifiés du même groupe de prospects. Une fourchette publiée de coût par prospect ou un taux de signature supposé ne prouve pas votre coût réel d’acquisition client."
+          ],
+          [
+            "Une agence devrait-elle externaliser sa propre prospection ?",
+            "Cela peut convenir si l’agence a une offre définie, des preuves utilisables, un jugement de ciblage et une personne prête à mener les échanges de découverte. Comparez l’exécution gérée à la capacité interne et à la maîtrise des apprentissages. L’agence doit toujours approuver l’adéquation, fournir un contexte exact, préparer les propositions et conclure les ventes."
+          ],
+          [
+            "Comment une agence doit-elle mesurer un prospect qualifié ?",
+            "Définissez le besoin, l’adéquation, le périmètre et les critères de décision avec le responsable commercial destinataire. Séparez les réponses, réservations initiales, rendez-vous tenus et qualifiés, opportunités acceptées et clients signés. Gardez les inconnues visibles, dédupliquez les reports et séparez l’acquisition de l’aide apportée par le site."
+          ]
+        ],
+        "id": "frequently-asked-questions"
+      }
+    ],
+    "cost": {
+      "title": "Ouvrir la vérification privée des coûts",
+      "note": "Utilisez une seule devise et le même groupe de prospects. Saisissez des décomptes vérifiés ; laissez un décompte inconnu vide. Les chiffres restent uniquement dans cette page.",
+      "labels": [
+        "Coût total d’acquisition pour ce groupe",
+        "Rendez-vous tenus et qualifiés vérifiés",
+        "Clients signés vérifiés"
+      ],
+      "complete": "J’ai inclus tous les coûts pertinents de ce groupe.",
+      "calculate": "Calculer les coûts",
+      "reset": "Réinitialiser les chiffres",
+      "callLabel": "Coût par rendez-vous tenu et qualifié",
+      "clientLabel": "Coût réel d’acquisition par client signé",
+      "missingCost": "Saisissez le coût total avant de calculer.",
+      "invalidCost": "Saisissez un montant valide, supérieur ou égal à zéro.",
+      "invalidCount": "Utilisez des décomptes entiers égaux ou supérieurs à zéro, ou laissez un décompte inconnu vide.",
+      "incomplete": "Confirmez la base complète des coûts avant de calculer. Un abonnement peut omettre le temps des personnes et les efforts commerciaux.",
+      "unknown": "Inconnu : aucun décompte vérifié saisi.",
+      "zero": "Indisponible : aucun résultat vérifié dans ce décompte.",
+      "unit": "dans la devise saisie",
+      "basis": "Calculé uniquement à partir des chiffres et de la confirmation des coûts que vous avez fournis."
+    }
+  }
+}
