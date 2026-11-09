@@ -1,0 +1,2980 @@
+{
+  "en": {
+    "headerH1": "Cybersecurity lead generation for vendors and service providers",
+    "answer": "Cybersecurity lead generation connects a defined security offer with organizations that may have a reason to evaluate it. Start with the account, buying situation and evidence, then choose a relevant person and channel. A contact list, whitepaper download or accepted invitation is not a qualified opportunity. Agree meeting criteria and the technical handoff before launching, and measure held, qualified conversations separately from bookings and sales-accepted opportunities.",
+    "description": "Cybersecurity lead generation for vendors and MSSPs: account selection, buyer roles, outreach examples, qualification and technical handoff. Includes an ungated brief.",
+    "jump": "Work through a security account",
+    "dateLabel": "November 9, 2026",
+    "fiction": "The account situations, messages, handoff and reporting figures in this guide are original fictional teaching examples. They contain no client or prospect records and are not Beespoke results. The separately linked historical case is identified as such.",
+    "sourceTitle": "Sources and methodology",
+    "sourceNote": "Reviewed November 9, 2026. The written sources below informed the comparison. Advertised provider results, prices, legal deadlines, conversion rates, sales cycles and ramp times are not adopted as benchmarks. Linked studies, gated resources and external product claims were not independently verified. The older UnboundB2B article is dated January 2020; it is included as an observed result, not as current tool advice. A public signal does not prove a private security condition or buying project.",
+    "baseProof": [
+      "Beespoke’s historical cybersecurity case describes focused LinkedIn prospecting and human response handling. It is an anonymized operating record, not a forecast for another offer or market.",
+      "Inspect the account criteria, execution and result definitions. The public case does not provide a complete dated acquisition cohort or downstream opportunity reconciliation."
+    ],
+    "casePrivacy": {
+      "description": "An anonymized historical case of LinkedIn prospecting for senior cybersecurity buyers, explaining campaign design and the limits of the public outcome record.",
+      "answer": "This anonymized historical case describes LinkedIn prospecting for a cybersecurity provider. It covers account selection, relevant senior roles, appropriate sender profiles and human reply handling. Client identifiers and buying-organization names are withheld. The public record does not provide a complete dated acquisition cohort or reconciled downstream opportunities, so it cannot establish a typical meeting rate or forecast another campaign.",
+      "design": "Beespoke built focused LinkedIn outreach around selected account profiles, relevant senior roles, credible message angles and human follow-up. Approved sender profiles were used in ways appropriate to their business roles.",
+      "target": "Target accounts matched agreed company and buying-context criteria",
+      "result": "The historical case record describes conversations and meetings with relevant senior security buyers. Client identifiers, buying-organization names and private campaign records are withheld.",
+      "limits": "The record does not include a complete reporting period, original booking IDs, attendance reconciliation or downstream opportunity cohort. It cannot establish a typical weekly rate, prove the held-and-qualified definition used in the current guide, or forecast results for another market. Offer, evidence, account fit, sender credibility and timing still need to be tested.",
+      "ledger": [
+        "Client and buyer identities withheld",
+        "Qualitative account of relevant conversations",
+        "No complete dated cohort or attendance reconciliation"
+      ]
+    },
+    "sections": [
+      {
+        "id": "why-cybersecurity-outbound-is-unusually-difficult",
+        "title": "Start with a buying situation, not a list of CISOs",
+        "p": [
+          "Security leaders receive constant vendor outreach. Identity, cloud security, managed detection, testing and governance are different buying questions. Someone responsible for one is not automatically a buyer for every product labelled cybersecurity.",
+          "This guide is for a security company generating suitable B2B sales conversations, or evaluating a partner to help. Keep the seller’s own demand problem separate from the technical security problem it sells. Beespoke runs prospecting; it does not assess a prospect’s defenses or deliver the security solution."
+        ],
+        "headers": [
+          "Offer",
+          "Possible buying question",
+          "People and delivery boundary"
+        ],
+        "caption": "Different security buying situations",
+        "rows": [
+          [
+            "Identity or access product",
+            "Who owns access decisions, reviews and integration for a defined use case?",
+            "Identity/security owners, application or infrastructure teams and an economic sponsor; compatibility must be confirmed."
+          ],
+          [
+            "Cloud or application security product",
+            "How is a disclosed platform or development initiative being evaluated?",
+            "Cloud security, engineering, application owners and security leadership; a public job advert does not reveal the production stack."
+          ],
+          [
+            "Managed security, MSSP or MDR",
+            "Is outside monitoring or a complementary service relevant to the existing team?",
+            "Security/IT operations, service owner and sponsor; confirm coverage, response responsibility and supported environment."
+          ],
+          [
+            "Testing, assurance or governance project",
+            "Is there a defined assessment, customer requirement or planning question?",
+            "Technical or risk owner, procurement and the relevant specialist; no inferred legal obligation, guaranteed compliance or unsolicited test."
+          ],
+          [
+            "Channel or referral partnership",
+            "Would another provider resell, integrate or refer the service?",
+            "Partner owner and authorized technical/commercial contacts; a channel partner is not the same as an end-customer opportunity."
+          ],
+          [
+            "Active incident or urgent response",
+            "Is the person asking for an established urgent support route?",
+            "Follow the client’s documented response/escalation process where applicable. An ordinary prospecting call is not incident response."
+          ]
+        ]
+      },
+      {
+        "id": "how-beespoke-defines-the-market",
+        "title": "Write down the fact, the hypothesis and the unknowns",
+        "p": [
+          "Define the category, use case, company conditions, delivery territory, buying group, exclusions and available proof. Keep the original principle: “CISO” is a title, not an ICP. The account and the question make the role relevant.",
+          "Use a dated public source or a statement the buyer has actually made. Hiring, a new leader, an acquisition, a technical post or a disclosed initiative can justify research. None independently establishes budget, dissatisfaction, an incident, renewal timing or willingness to meet. A public certification is not a private audit calendar; an industry label is not proof a particular rule applies."
+        ],
+        "dl": [
+          [
+            "Known fact",
+            "In the fictional product example, an engineering team publicly discusses assigning owners to service accounts. Record the source and date. This is a disclosed topic, not a discovered weakness."
+          ],
+          [
+            "Research hypothesis",
+            "An identity vendor may have a useful ownership-mapping discussion. Check the vendor’s real capability and who owns that workflow before contacting the account."
+          ],
+          [
+            "Still unknown",
+            "Current controls, platforms, suppliers, assessment results, budget, decision route and whether any purchase is being considered. Do not turn these blanks into confident personalization."
+          ],
+          [
+            "Decision",
+            "Approve a relevant question when the visible account fits. Park unclear evidence and exclude a known delivery mismatch, prohibited account or decline before adding contacts."
+          ]
+        ]
+      },
+      {
+        "id": "industry-fit-check",
+        "aliases": [
+          "industry-encaje-check",
+          "industry-encaix-check",
+          "industry-adéquation-check"
+        ],
+        "title": "Keep the readiness checks, remove the score",
+        "p": [
+          "The original eight foundations remain useful. They are questions to resolve with evidence, not conditions confirmed by ticking a box. A total out of eight would not establish that an account is ready to buy."
+        ],
+        "ul": [
+          "The security category and use case are narrow enough to explain.",
+          "Target accounts share relevant, supportable context.",
+          "The buying group is mapped beyond a senior job title.",
+          "Claims have authorized, inspectable evidence.",
+          "Replies can reach someone qualified to answer security questions.",
+          "Meeting criteria are written and agreed.",
+          "Exclusions protect poor-fit accounts and contact preferences.",
+          "A technical discovery owner has capacity for the next conversation."
+        ],
+        "cards": [
+          [
+            "Ready for a focused test",
+            "The offer, evidence, target fit, sender permissions, response owner and meeting definition are clear. Test the question; do not declare market readiness from the checklist."
+          ],
+          [
+            "Prepare first",
+            "A claim, delivery boundary, target segment or technical response owner is missing. Assign the work before increasing volume."
+          ],
+          [
+            "Exclude or stop",
+            "The account is prohibited, a requirement cannot be met, or the person declines. A more senior title or another channel does not remove the restriction."
+          ]
+        ]
+      },
+      {
+        "id": "cy-buying-group",
+        "title": "Give each role a different reason to take part",
+        "p": [
+          "The CISO may sponsor the decision without owning every workflow. A technical evaluator, operational user, finance contact and procurement team can ask different questions. One person can hold several roles. Coordinate the account rather than sending the same pitch to everyone or going around an explicit refusal."
+        ],
+        "headers": [
+          "Role",
+          "Question worth resolving",
+          "Who supplies the evidence"
+        ],
+        "caption": "The buying group and its questions",
+        "rows": [
+          [
+            "Security leader or sponsor",
+            "Why consider this question, what priority does it serve and who should participate?",
+            "The buyer’s own stated priority and authorized relevant proof"
+          ],
+          [
+            "Technical evaluator or architect",
+            "What integrations, dependencies, access and deployment constraints apply?",
+            "The client’s qualified technical seller, current documentation and agreed discovery"
+          ],
+          [
+            "Operational owner or user",
+            "Who would run the workflow, investigate issues and retain responsibility?",
+            "Actual operating model, prerequisites and implementation/support owners"
+          ],
+          [
+            "Finance or economic sponsor",
+            "What scope, effort and complete cost would justify further evaluation?",
+            "Buyer-specific assumptions and an honest commercial discussion; no invented savings"
+          ],
+          [
+            "Risk, legal or procurement",
+            "Which assurance, supplier, data-handling and approval steps are required?",
+            "The client’s approved documentation and the buyer’s permitted process, not a scripted assurance"
+          ]
+        ]
+      },
+      {
+        "id": "cy-channel-choice",
+        "title": "Choose channels around reachability and trust",
+        "p": [
+          "Start where the person is active or reasonably reachable. LinkedIn can reveal a relevant professional discussion; email can carry a considered explanation. Neither is universally best. Keep one account history, clear source fields and stop instructions across channels."
+        ],
+        "headers": [
+          "Route",
+          "Useful contribution",
+          "Limit to preserve"
+        ],
+        "caption": "Channel choice and its limits",
+        "rows": [
+          [
+            "Cold email and LinkedIn",
+            "A researched first conversation with a suitable business buyer",
+            "Verify role, facts and sender permissions. Choose the relevant starting channel and avoid parallel duplicate pitches."
+          ],
+          [
+            "Referrals and existing relationships",
+            "An appropriate introduction from someone who genuinely knows the buyer",
+            "Do not invent familiarity or endorsements, exchange private client lists or treat a referral as permission for repeated contact."
+          ],
+          [
+            "Vendor, MSP or specialist partners",
+            "A defined complementary route to end customers or partner buyers",
+            "Verify the actual relationship, scope, account ownership and conflicts; a badge alone does not create a working co-sell motion."
+          ],
+          [
+            "Events and practitioner communities",
+            "A relevant discussion, educational question or agreed follow-up",
+            "Distinguish an attendee, an engaged participant and a buyer requesting a meeting. Respect the stated follow-up expectations."
+          ],
+          [
+            "Search content, service pages and evidence",
+            "Help buyers understand a use case, evaluate delivery and inspect proof",
+            "Write for the real evaluation question. A visit, download or AI citation is not a qualified opportunity."
+          ],
+          [
+            "Paid, publisher or syndicated demand",
+            "Reach an audience or distribute a useful resource with a defined outcome",
+            "Check provenance, permissions, duplicates, exclusions and handoff. Content leads, answered inbound calls and net-new outbound meetings are different services."
+          ]
+        ]
+      },
+      {
+        "id": "cy-first-offer",
+        "title": "Make the next step useful without pretending it is an audit",
+        "p": [
+          "Match the offer to what is actually known. A relevant planning question may justify a conversation; it does not justify collecting confidential system details or promising that a test will find a problem."
+        ],
+        "cards": [
+          [
+            "Educational material",
+            "Offer the promised brief, explanation or webinar. Say what it covers and whether anything is collected. An information request does not equal agreement to a sales call."
+          ],
+          [
+            "A fit discussion",
+            "State the decision to explore, the appropriate people and what they will leave knowing. Keep unsupported technical conclusions out of the invitation."
+          ],
+          [
+            "Technical evaluation",
+            "A demo, proof of concept, assessment or scan requires the client’s qualified team, agreed scope, prerequisites, data handling and authorization. Do not manufacture a free audit or ask for credentials through cold outreach."
+          ]
+        ]
+      },
+      {
+        "id": "cy-worked-account",
+        "title": "Work through an identity-product account",
+        "p": [
+          "This original fictional situation shows the research decision before the message. It describes no real organization or campaign."
+        ],
+        "dl": [
+          [
+            "Offer and account",
+            "An identity vendor has an approved method for discussing ownership of non-human access. A suitable business’s engineering team publishes a discussion about assigning owners to service accounts."
+          ],
+          [
+            "Evidence and connection",
+            "The topic is public and current. It supplies a question about ownership and review, not proof that accounts are unmanaged, that a breach occurred or that a product is needed."
+          ],
+          [
+            "Buying-group map",
+            "Research the identity or security owner and the engineering workflow owner. A CISO may sponsor the conversation; the person responsible for the process may be the better first contact."
+          ],
+          [
+            "Unknowns and exclusion",
+            "Keep platform compatibility, existing controls/provider, budget and timing unknown. Park the account if a required platform is unsupported; do not fill the gap with a detection tool’s guess."
+          ],
+          [
+            "First useful decision",
+            "Ask whether ownership mapping is under review and whether the vendor’s planning outline would help. If there is interest, involve the technical owner before promising an evaluation."
+          ]
+        ]
+      },
+      {
+        "id": "cy-service-account",
+        "title": "Use a different question for a managed-security service",
+        "p": [
+          "A fictional managed security service provider (MSSP) can support a defined territory and environment. A business in that territory publicly describes expanding its operations. The provider still does not know its security team, coverage, suppliers or appetite for change."
+        ],
+        "dl": [
+          [
+            "A plausible research question",
+            "Who owns the coverage discussion as operations expand, and is complementary outside support being considered? Do not imply that the existing team or provider is failing."
+          ],
+          [
+            "What changes the route",
+            "An internal security lead confirms interest in a co-managed arrangement. Bring that lead and the client’s technical seller into a bounded discussion of responsibilities and supported coverage."
+          ],
+          [
+            "What stops it",
+            "The buyer wants a service, location, response commitment or platform the provider cannot support, or says no outside review is planned. Park or exclude; do not promise a capability to save the booking."
+          ],
+          [
+            "A separate situation",
+            "Someone describes an active incident. Stop the prospecting sequence and use the client’s established urgent-response route where applicable. Do not turn urgent help into an ordinary sales consultation or ask for incident logs, credentials or exploit details."
+          ]
+        ],
+        "links": [
+          [
+            "/industries/it-services-lead-generation/",
+            "Compare the general IT services buying situation"
+          ]
+        ]
+      },
+      {
+        "id": "relevant-beespoke-evidence",
+        "title": "Give buyers evidence they can inspect",
+        "p": [
+          "An absolute promise to prevent breaches is not a useful proof pack. Show the relevant use case, provider contribution, supported environment, prerequisites, period, denominator and limits. Separate a product capability, an assessment result and a client outcome.",
+          "The client’s qualified team approves technical meaning and supplies appropriate evidence. Prospecting staff should not certify an architecture, make a compliance assurance or invent a security answer to secure a meeting."
+        ],
+        "ul": [
+          "Check that certifications, partner status and customer permissions are current and apply to the claimed scope.",
+          "Use an authorized case record with its period and outcome definition; distinguish the provider’s work from the client’s or another partner’s contribution.",
+          "Show approved documentation, implementation/access prerequisites and the person who can answer technical objections.",
+          "Explain what a demonstration can and cannot establish. A fictional illustration must be labelled as such.",
+          "Remove identifying combinations of client, location, company size, buyer organization and campaign detail unless specifically authorized for public use.",
+          "Do not use leaked credentials, unrequested scanning, assumed incidents or unsupported legal deadlines as a reason for contact."
+        ],
+        "after": [
+          "Beespoke’s separately linked historical case describes LinkedIn execution and human response handling. Its public record is limited and anonymized; it is not a benchmark or a current meeting forecast."
+        ],
+        "links": [
+          [
+            "/case-studies/cybersecurity-linkedin-lead-generation/",
+            "Read the anonymized historical case"
+          ]
+        ]
+      },
+      {
+        "id": "cy-outreach-examples",
+        "title": "Write a specific question without a fear pitch",
+        "p": [
+          "These original fictional messages represent the security vendor or MSSP, not Beespoke delivering cybersecurity. Use a premise or capability only when it is true for the sender. Email and LinkedIn examples are alternative routes, not simultaneous messages to one person."
+        ],
+        "samples": [
+          [
+            "Product email: a public workflow question",
+            "Subject: Service-account ownership\n\nHi [first name],\n\nYour team’s note about assigning owners to service accounts raised a practical question: is that review staying within engineering, or is the identity team involved as well?\n\nWe work with teams on mapping ownership and the review responsibilities around it. I can send a short outline of the questions we would clarify first. We would need to understand your environment before saying whether our product fits.\n\nWould that outline help, or is the ownership work already settled?",
+            "The writer names a real public topic and a limited next step. The message leaves room for existing controls and no project. It does not invent credential exposure, a failed audit, a renewal date or a saving."
+          ],
+          [
+            "A short second message",
+            "Hi [first name], would that ownership-review outline be useful, or is the work already covered?",
+            "This illustrates Beespoke’s usual opening plus brief follow-up around four days later. Timing depends on the conversation; a reply, refusal or contact preference overrides the sequence."
+          ],
+          [
+            "LinkedIn: a relevant professional discussion",
+            "Hi [first name], your point about making access reviews usable for engineers made sense. Who usually owns the handoff between engineering and identity in that process? We work on that ownership question. Happy to explain the approach if useful.",
+            "Use the public discussion only if it happened. A professional interest, event or genuine shared place can also be relevant; do not pretend to know someone or assume their public view proves a buying need."
+          ],
+          [
+            "Service email: clarify complementary coverage",
+            "Subject: Security coverage as operations expand\n\nHi [first name],\n\nThe update about expanding operations left me wondering who coordinates the security-coverage discussion. Is that staying with the internal team, or would complementary outside support be worth considering?\n\nWe provide managed security services within a defined environment and territory. The first conversation would be about responsibilities and coverage, not an assessment of your defenses.\n\nWould that be relevant, or is the expansion already covered?",
+            "This is a different service and account. Delivery boundaries must be true; the note does not imply an inadequate incumbent, round-the-clock capacity or permission to test systems."
+          ]
+        ],
+        "after": [
+          "Read the message aloud. Remove interchangeable praise, empty claims and invented urgency. AI can assist with a draft, but a person must verify the fact, technical meaning and tone. A list of banned phrases is not a reliable AI detector; “I saw” is not the problem when the observation is real and relevant."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Review the complete copywriting method"
+          ],
+          [
+            "/guides/linkedin-prospecting-messages/",
+            "Review LinkedIn message decisions"
+          ]
+        ]
+      },
+      {
+        "id": "cy-reply-routing",
+        "title": "Let the reply decide what happens next",
+        "p": [
+          "A long buying cycle is not a reason to keep sending cold follow-ups. If the first channel receives no response, reassess whether another appropriate route makes sense. Keep one history, suppression and next owner. Later nurture should reflect expressed interest and agreed timing, and switching channels must not bypass a decline."
+        ],
+        "dl": [
+          [
+            "“Send the outline.”",
+            "Send exactly what was offered and a small question about ownership. Do not count a material request as a booked meeting."
+          ],
+          [
+            "“We already have a provider or internal team.”",
+            "Respect that. Explore a complementary role only if the response invites it; do not manufacture dissatisfaction or go around the contact."
+          ],
+          [
+            "“How does this integrate or meet our requirement?”",
+            "Pass the exact question to the client’s qualified technical owner. Say what is awaiting confirmation. Do not make a security, legal or implementation assurance from a sales script."
+          ],
+          [
+            "“Use procurement” or “come back later.”",
+            "Follow the permitted supplier route and record the stated date and allowed next action. Ask whether later contact is welcome rather than assuming it."
+          ],
+          [
+            "A decline or stop request",
+            "Close, disqualify or suppress the affected contact as appropriate and retain the reason across channels. A negative reply is not engagement success."
+          ],
+          [
+            "An active incident or sensitive disclosure",
+            "Pause marketing and follow the client’s established escalation process where applicable. Do not ask the person to paste secrets or technical incident details into an ordinary email, campaign brief or booking form."
+          ]
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Plan restrained follow-up"
+          ]
+        ]
+      },
+      {
+        "id": "cy-qualified-meeting",
+        "title": "Agree what makes a meeting useful before it is booked",
+        "p": [
+          "Write acceptance criteria with the sales and technical owners. Confirm account and service fit, territory, a relevant role, an acknowledged topic or initiative, interest in the proposed discussion and a credible next step. A senior title or accepted invitation alone is not qualification.",
+          "Unknown budget, authority, incumbent or timing should remain unknown. Early exploration does not need to look like an approved tender, but the technical seller should understand why the conversation is worth having."
+        ],
+        "cards": [
+          [
+            "Ready for the right conversation",
+            "The account fits, the participant understands and agrees to the purpose, and the client has the right expert. Record unresolved questions and the decision the meeting should support."
+          ],
+          [
+            "Park or develop appropriately",
+            "There may be fit, but a requirement, owner, interest or timing remains unresolved. Assign a research or agreed later-contact action; do not count it as an accepted opportunity."
+          ],
+          [
+            "Exclude or stop",
+            "A known requirement cannot be met, the account is prohibited or the person declines. Preserve the reason rather than looking for a more convenient buyer or definition."
+          ]
+        ],
+        "links": [
+          [
+            "/services/b2b-appointment-setting/",
+            "Define meeting qualification and ownership"
+          ]
+        ]
+      },
+      {
+        "id": "cy-handoff",
+        "title": "Pass a record the technical seller can use",
+        "p": [
+          "This completed fictional record follows the identity-product situation. Use placeholders in a teaching record, and transfer only necessary context through approved systems."
+        ],
+        "dl": [
+          [
+            "Reason and source",
+            "A dated public engineering discussion about service-account ownership. No claimed incident, control failure or legal deadline."
+          ],
+          [
+            "Confirmed interest",
+            "The workflow owner says the identity lead would find an ownership-planning discussion useful and agrees to that purpose."
+          ],
+          [
+            "Fit and open questions",
+            "The use case and business segment fit the vendor’s stated scope. Actual systems, integration requirements and evaluation timing remain unconfirmed."
+          ],
+          [
+            "Next expert and limits",
+            "The client’s technical seller owns compatibility and discovery. No assessment, compliance statement, incident triage or security guarantee has been given."
+          ],
+          [
+            "Booking and attribution",
+            "The approved system stores the original event ID and creation time, acquisition/campaign source, observed landing page where available and the agreed purpose. Reschedules link back to the original event."
+          ],
+          [
+            "Feedback and next owner",
+            "The client’s sales owner confirms held/qualified/accepted status or the rejection reason, then returns the result to research and messaging."
+          ]
+        ],
+        "ol": [
+          "Confirm purpose and attendees using the client’s approved calendar. A click is not a completed booking.",
+          "Carry the question and promise made into the CRM handoff; avoid making the buyer repeat the entire conversation.",
+          "Keep sensitive technical records in the client’s authorized process, not in a shared prospecting worksheet.",
+          "The client retains discovery, technical assessments, solution design, security assertions, proposals, commitments and closing."
+        ]
+      },
+      {
+        "id": "campaign-workflow",
+        "title": "Measure a coherent cohort from account to opportunity",
+        "p": [
+          "Keep the original workflow: define the category and claim, map stakeholders, review accounts, align sender and proof, handle replies, then book against written criteria. Close the loop with sales feedback.",
+          "The figures below are a fictional, fully reconciled teaching cohort with a defined entry date and observation cutoff. They are not expected conversion rates. Count people and accounts separately; a contact export is not a demand forecast."
+        ],
+        "headers": [
+          "Stage",
+          "Fictional count",
+          "Definition"
+        ],
+        "caption": "One fictional account cohort",
+        "rows": [
+          [
+            "Approved accounts contacted",
+            "60",
+            "Accounts meeting the research criteria, not 60 interested buyers"
+          ],
+          [
+            "Accounts with a relevant conversation",
+            "8",
+            "Accounts with a meaningful reply, deduplicated; not automatic, negative or out-of-office messages"
+          ],
+          [
+            "Original meetings booked",
+            "4",
+            "Original event IDs; changes of date are not fresh demand"
+          ],
+          [
+            "Meetings held",
+            "3",
+            "One original booking did not become a held conversation in this reconciled cohort"
+          ],
+          [
+            "Held and qualified",
+            "2",
+            "One held conversation failed the written criteria"
+          ],
+          [
+            "Sales-accepted opportunities",
+            "1",
+            "The client accepted a defined commercial next step; no closed revenue is implied"
+          ]
+        ],
+        "after": [
+          "Here, two of three held calls meet the criteria, and one of two qualified calls becomes an accepted opportunity. These are fictional arithmetic, not a market benchmark. Keep incomplete or unknown outcomes separate from zero.",
+          "Do not compare webinar registrations with cold accounts contacted as if they shared a denominator. Keep acquisition cohorts separate from calendar-month activity and allow for the real sales cycle before assessing opportunities or customers.",
+          "Include complete acquisition costs when evaluating economics. Cost per contact, booking, held qualified meeting and fully loaded customer acquisition cost are different measures; a campaign invoice alone is not total cost.",
+          "Preserve original acquisition source, observed landing page, later visits and the buyer’s explanation separately. A website booking following outreach is not automatically organic search. Exclude audit visits and keep unknown attribution visible."
+        ],
+        "links": [
+          [
+            "/guides/outbound-lead-generation-cost/",
+            "Review outbound cost definitions"
+          ]
+        ]
+      },
+      {
+        "id": "cy-pilot-diagnostics",
+        "title": "Use the pilot to find the constraint",
+        "p": [
+          "Agree the account universe, exclusions, offer, proof, sender permissions, response ownership, discovery capacity and review rules before launch. Select a feasible segment instead of extrapolating from a large contact database. A small market may need careful account work rather than a bigger sequence.",
+          "Review timing should reflect the actual offer and sales cycle. Initial replies can test relevance; opportunities and acquisition economics require mature, complete outcomes. No fixed launch schedule or touchpoint count can guarantee meetings."
+        ],
+        "headers": [
+          "Observed problem",
+          "Check first",
+          "Useful next change"
+        ],
+        "caption": "Campaign diagnostics",
+        "rows": [
+          [
+            "Wrong accounts or roles",
+            "Use case, delivery fit, evidence and buying responsibility",
+            "Correct account research before rewriting every message"
+          ],
+          [
+            "Delivery failure or no credible reach",
+            "Contact accuracy, sending setup, actual activity and available channel",
+            "Fix the verified cause rather than raising volume"
+          ],
+          [
+            "Relevant replies stall",
+            "Unanswered technical question, unclear offer, availability or handoff",
+            "Assign the right expert and clarify the next decision"
+          ],
+          [
+            "Held meetings miss criteria",
+            "Facts established before booking and the written acceptance rule",
+            "Tighten the missing criterion; do not report calendar activity as quality"
+          ],
+          [
+            "Qualified discussions do not progress",
+            "Discovery, proof, implementation fit, decision route and client ownership",
+            "Review the real constraint with sales and preserve open/unknown outcomes"
+          ]
+        ]
+      },
+      {
+        "id": "when-we-would-not-recommend-this-service",
+        "title": "Know when to prepare, use another route or stop",
+        "p": [
+          "Prepare first when the category is unclear, proof cannot support the claim, response capacity is missing or no one can run a technically informed discovery call. Change channel when the relevant people are not active or reachable through the proposed route; do not insist every market needs LinkedIn.",
+          "A specialist partnership, referral, event, useful content or a separately scoped calling programme may fit better. Answering existing inbound calls is not the same as generating net-new demand. An active incident belongs to an established response process, not a standard cold-outreach funnel."
+        ],
+        "links": [
+          [
+            "/guides/b2b-lead-generation-audit/",
+            "Diagnose the actual lead-generation constraint"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Ask a partner to show the work behind the promise",
+        "p": [
+          "Retain the original five checks: segmentation, proof, technical reply handling, qualification and willingness to recommend another channel. Ask for a sample research decision, approved claim, reply route and completed handoff—not just a software list or a promised number of meetings."
+        ],
+        "headers": [
+          "Question",
+          "Useful evidence",
+          "Warning sign"
+        ],
+        "caption": "Provider operating checks",
+        "rows": [
+          [
+            "How will you segment this offer?",
+            "A use case, account context, buying group, evidence and exclusions",
+            "Cybersecurity label plus senior-title list"
+          ],
+          [
+            "What supports the claim?",
+            "Authorized, relevant proof with its scope and limitations",
+            "Logos, invented urgency or a security guarantee"
+          ],
+          [
+            "Who answers technical replies?",
+            "A named routing process and the client’s qualified owner",
+            "A generic script inventing assurances"
+          ],
+          [
+            "What counts as qualified?",
+            "Written fit, role, confirmed topic, interest and outcome definitions",
+            "Every calendar booking counted equally"
+          ],
+          [
+            "When would you choose another route?",
+            "Account-specific channel and non-fit reasoning",
+            "One channel or a fixed touch count for everyone"
+          ],
+          [
+            "What data and permissions are involved?",
+            "Necessary fields, provenance, sender authorization and a clear handoff",
+            "Unexplained lists, secrets in a brief or no cross-channel stop process"
+          ]
+        ],
+        "downloadTitle": "Open the cybersecurity campaign brief",
+        "downloadNote": "Read the questions here or download the same static CSV. No email, account or entered prospect information is required. The file contains planning questions and sends no answers to Beespoke. Do not put credentials, incident logs or confidential system details in a prospecting brief.",
+        "downloadLabel": "Download the campaign brief (CSV)",
+        "questions": [
+          [
+            "Offer and buyer",
+            "Which product, managed service, project or partner situation are we addressing?"
+          ],
+          [
+            "Account evidence",
+            "What dated public fact supports research, what is a hypothesis and what remains unknown?"
+          ],
+          [
+            "Exclusions",
+            "Which delivery, territory, supplier, account or contact restrictions mean stop or park?"
+          ],
+          [
+            "Buying group",
+            "Who owns the outcome, workflow, technical evaluation and approval?"
+          ],
+          [
+            "Proof and claims",
+            "What can be substantiated, who approves it and which security or legal claims are prohibited?"
+          ],
+          [
+            "Next-step offer",
+            "What does the buyer receive, and what requires a qualified expert or separate authorization?"
+          ],
+          [
+            "Channels and permission",
+            "Where is the person active or reachable, who authorizes execution and how is one history maintained?"
+          ],
+          [
+            "Replies and escalation",
+            "Who handles technical questions, future timing, procurement, declines and urgent-response routing?"
+          ],
+          [
+            "Qualification and handoff",
+            "What makes a useful held meeting, which calendar/CRM is approved and who records original IDs and feedback?"
+          ],
+          [
+            "Measurement and capacity",
+            "Which cohort dates, complete costs, mature outcomes, sources and delivery constraints govern the review?"
+          ]
+        ]
+      },
+      {
+        "id": "cy-beespoke-scope",
+        "title": "Where Beespoke fits and what your team retains",
+        "p": [
+          "Beespoke runs founder-led managed cold-email and/or LinkedIn prospecting for suitable B2B offers. We research accounts and people, write individual messages, execute with authorization, handle replies, qualify interest and facilitate bookings against agreed criteria. The client approves target fit and the truth of claims; its qualified experts retain technical discovery, assessments, solution design, proposals and closing.",
+          "Required software, data and third-party costs are separate unless included in written scope. Calling is separately quoted by target market. The base service is not a dedicated full-time SDR, unlimited channel capacity, a cybersecurity assessment or a guarantee of meetings or revenue.",
+          "The founder supports English, Spanish, Catalan and French delivery. That does not promise a native calling team, every tool interface in four languages or a local security operations centre. A fit call should establish the offer, available proof, constraints, response owner and smallest useful test."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Explore managed cold email"
+          ],
+          [
+            "/services/linkedin-lead-generation/",
+            "Explore LinkedIn prospecting"
+          ],
+          [
+            "/pricing/",
+            "Review current scope and pricing"
+          ],
+          [
+            "/guides/how-to-choose-an-outbound-lead-generation-agency/",
+            "Compare agency operating responsibilities"
+          ]
+        ]
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Questions about cybersecurity lead generation",
+        "faqs": [
+          [
+            "How do cybersecurity companies generate qualified leads?",
+            "They connect a defined offer with suitable accounts through relevant outreach, referrals, partners, events or useful content and search. Verify the buyer question, delivery fit and next step. Contact lists, registrations and bookings should be separated from held qualified meetings and sales-accepted opportunities."
+          ],
+          [
+            "Should we target the CISO, IT director or technical team?",
+            "Choose roles from the use case and actual account. A security leader may sponsor a decision while identity, cloud, engineering, operations, risk or procurement owns another part. Map the group without sending the same pitch to everyone or going around a refusal."
+          ],
+          [
+            "Are hiring, intent data or a public certification proof of buying intent?",
+            "No. They can justify research, but they do not establish a private budget, incident, supplier renewal, legal requirement or readiness to meet. Record the dated fact, hypothesis and unanswered question, and confirm the relevant situation through an appropriate conversation."
+          ],
+          [
+            "Which channel works best for cybersecurity prospecting?",
+            "There is no universal best channel. Start from the person’s activity, reachability and relationship, then coordinate the account history across appropriate routes. Referrals, partners, email, LinkedIn, events and content can contribute differently; switching channels must not bypass a decline."
+          ],
+          [
+            "Should outreach offer a free security audit or scan?",
+            "Only offer a technical activity the qualified provider can actually deliver within agreed scope, prerequisites, data handling and authorization. A planning discussion or useful brief may be a better first step. Never imply that an unsolicited message is an assessment or ask for credentials to secure a meeting."
+          ],
+          [
+            "How many follow-ups should a cybersecurity sequence use?",
+            "Beespoke typically uses an opening and a brief second message around four days later, adapting to the context. A response, refusal or preference takes priority. A long sales cycle does not justify repeated unwanted contact; later nurture should reflect interest and agreed timing."
+          ],
+          [
+            "What makes a cybersecurity meeting qualified?",
+            "Agreed criteria should cover account and delivery fit, relevant role, acknowledged topic or initiative, interest and a credible next step. Unknown budget and timing remain unknown. Track booked, held, held and qualified, and accepted opportunity separately; the client owns technical discovery and sales acceptance."
+          ],
+          [
+            "What can a lead-generation agency answer about the security solution?",
+            "It can use approved claims and material and route questions to the client’s qualified experts. It should not invent compatibility, compliance, assessment or incident-response assurances. Beespoke manages approved prospecting and booking facilitation; the client retains technical evaluation, solution commitments and closing."
+          ]
+        ]
+      }
+    ]
+  },
+  "es": {
+    "headerH1": "Generación de leads para proveedores y empresas de ciberseguridad",
+    "answer": "La generación de leads en ciberseguridad conecta una oferta concreta con empresas que podrían tener un motivo para evaluarla. Empieza por la cuenta, la situación de compra y las pruebas; después elige a la persona y el canal pertinentes. Una lista, una descarga o una invitación aceptada no son una oportunidad cualificada. Acuerda los criterios de reunión y el traspaso técnico antes del lanzamiento, y mide por separado reservas, conversaciones celebradas y cualificadas y oportunidades aceptadas por ventas.",
+    "description": "Generación de leads para proveedores de ciberseguridad y MSSP: cuentas, compradores, mensajes, cualificación y traspaso técnico. Incluye un brief sin registro.",
+    "jump": "Examinar una cuenta de ciberseguridad",
+    "dateLabel": "9 de noviembre de 2026",
+    "fiction": "Las cuentas, mensajes, registros de traspaso y cifras de esta guía son ejemplos didácticos ficticios y originales. No contienen registros de clientes o prospectos ni representan resultados de Beespoke. El caso histórico enlazado por separado se identifica como tal.",
+    "sourceTitle": "Fuentes y metodología",
+    "sourceNote": "Fuentes revisadas el 9 de noviembre de 2026. Los textos citados sirvieron para la comparación. No se adoptan como referencias los resultados, precios, plazos legales, conversiones, ciclos comerciales o tiempos de arranque anunciados por proveedores. No se verificaron de forma independiente los estudios enlazados, recursos con registro ni afirmaciones sobre productos externos. El artículo antiguo de UnboundB2B está fechado en enero de 2020; se incluye como resultado observado, no como recomendación actual de herramientas. Un indicio público no prueba una condición de seguridad privada ni un proyecto de compra.",
+    "baseProof": [
+      "El caso histórico de ciberseguridad de Beespoke describe prospección focalizada en LinkedIn y gestión humana de respuestas. Es un registro operativo anonimizado, no una previsión para otra oferta o mercado.",
+      "Examina los criterios de selección, la ejecución y las definiciones de resultados. El caso público no aporta una cohorte de adquisición completa y fechada ni una conciliación posterior de oportunidades."
+    ],
+    "casePrivacy": {
+      "description": "Caso histórico anonimizado de prospección en LinkedIn hacia compradores de ciberseguridad, con el diseño de la campaña y los límites del registro público de resultados.",
+      "answer": "Este caso histórico anonimizado describe prospección en LinkedIn para un proveedor de ciberseguridad. Explica la selección de empresas, los perfiles relevantes, los remitentes adecuados y la gestión humana de respuestas. Se omiten los identificadores del cliente y los nombres de las organizaciones compradoras. El registro público no incluye una cohorte completa y fechada ni oportunidades posteriores conciliadas, por lo que no permite establecer un ritmo habitual de reuniones ni prever otra campaña.",
+      "design": "Beespoke organizó la prospección en LinkedIn en torno a empresas seleccionadas, perfiles relevantes, mensajes creíbles y seguimiento humano. Los perfiles remitentes autorizados se utilizaron de forma coherente con sus funciones profesionales.",
+      "target": "Las empresas objetivo cumplían los criterios acordados de cuenta y situación de compra",
+      "result": "El registro histórico describe conversaciones y reuniones con compradores sénior de ciberseguridad pertinentes. Se omiten los identificadores del cliente, las organizaciones compradoras y los registros privados de campaña.",
+      "limits": "El registro no incluye un periodo completo de medición, IDs originales de reserva, conciliación de asistencia ni una cohorte posterior de oportunidades. No permite fijar un ritmo semanal habitual, demostrar la definición de reunión celebrada y cualificada de la guía actual ni prever otro mercado. Oferta, pruebas, encaje, credibilidad del remitente y momento deben volver a comprobarse.",
+      "ledger": [
+        "Se omiten las identidades del cliente y los compradores",
+        "Relato cualitativo de conversaciones pertinentes",
+        "Sin cohorte completa fechada ni conciliación de asistencia"
+      ]
+    },
+    "sections": [
+      {
+        "id": "why-cybersecurity-outbound-is-unusually-difficult",
+        "title": "Empieza por una situación de compra, no por una lista de CISOs",
+        "p": [
+          "Los responsables de seguridad reciben propuestas de proveedores constantemente. Identidad, seguridad cloud, detección gestionada, pruebas y gobierno plantean compras distintas. Quien se ocupa de una no es automáticamente comprador de cualquier producto etiquetado como ciberseguridad.",
+          "Esta guía se dirige a empresas de seguridad que quieren generar conversaciones comerciales B2B pertinentes o evaluar a un socio que las ayude. Separa el problema de captación del vendedor del problema técnico que su servicio resuelve. Beespoke gestiona prospección; no evalúa las defensas del prospecto ni presta la solución de seguridad."
+        ],
+        "headers": [
+          "Oferta",
+          "Posible pregunta de compra",
+          "Personas y límites de la prestación"
+        ],
+        "caption": "Situaciones de compra diferentes",
+        "rows": [
+          [
+            "Producto de identidad o acceso",
+            "¿Quién lleva las decisiones, revisiones e integraciones de acceso para un uso definido?",
+            "Responsables de identidad o seguridad, aplicaciones o infraestructura y un patrocinador económico; la compatibilidad debe confirmarse."
+          ],
+          [
+            "Producto de seguridad cloud o de aplicaciones",
+            "¿Cómo se evalúa una iniciativa de plataforma o desarrollo anunciada?",
+            "Seguridad cloud, ingeniería, responsables de aplicaciones y dirección de seguridad; una oferta de empleo no revela el entorno de producción."
+          ],
+          [
+            "Seguridad gestionada, MSSP o MDR",
+            "¿Tiene sentido la monitorización externa o un servicio complementario para el equipo existente?",
+            "Operaciones de seguridad o TI, responsable de servicio y patrocinador; confirma cobertura, responsabilidad de respuesta y entorno admitido."
+          ],
+          [
+            "Proyecto de pruebas, aseguramiento o gobierno",
+            "¿Existe una evaluación definida, una exigencia de cliente o una pregunta de planificación?",
+            "Responsable técnico o de riesgos, compras y especialista; sin obligaciones legales inferidas, conformidad garantizada ni pruebas no solicitadas."
+          ],
+          [
+            "Alianza de canal o de referencias",
+            "¿Otro proveedor revendería, integraría o recomendaría el servicio?",
+            "Responsable de alianzas e interlocutores técnicos y comerciales autorizados; un socio de canal no es una oportunidad de cliente final."
+          ],
+          [
+            "Incidente activo o respuesta urgente",
+            "¿La persona necesita una vía de soporte urgente ya establecida?",
+            "Sigue el procedimiento documentado de respuesta o escalado del cliente cuando proceda. Una llamada normal de prospección no es respuesta a incidentes."
+          ]
+        ]
+      },
+      {
+        "id": "how-beespoke-defines-the-market",
+        "title": "Anota el hecho, la hipótesis y lo que falta por saber",
+        "p": [
+          "Define categoría, caso de uso, condiciones de la empresa, territorio, grupo de compra, exclusiones y pruebas. Conserva el principio original: «CISO» es un cargo, no un ICP. La empresa y la pregunta hacen relevante esa función.",
+          "Usa una fuente pública fechada o algo que el comprador haya dicho de verdad. Una contratación, nuevo responsable, adquisición, publicación técnica o iniciativa anunciada pueden justificar investigar. No demuestran por sí solos presupuesto, insatisfacción, incidente, renovación ni voluntad de reunirse. Una certificación pública no es un calendario privado de auditorías; el sector no prueba que una norma concreta sea aplicable."
+        ],
+        "dl": [
+          [
+            "Hecho conocido",
+            "En el ejemplo ficticio de producto, un equipo de ingeniería habla públicamente de asignar responsables a cuentas de servicio. Guarda fuente y fecha. Es un tema declarado, no una debilidad descubierta."
+          ],
+          [
+            "Hipótesis de investigación",
+            "Un proveedor de identidad podría aportar una conversación útil sobre responsabilidades. Comprueba su capacidad real y quién lleva ese proceso antes de contactar."
+          ],
+          [
+            "Información desconocida",
+            "Controles, plataformas, proveedores, evaluaciones, presupuesto, decisión y posible compra. No conviertas esos huecos en personalización segura de sí misma."
+          ],
+          [
+            "Decisión",
+            "Valida una pregunta pertinente si la cuenta visible encaja. Deja en espera las pruebas dudosas y excluye incompatibilidades, cuentas prohibidas o negativas antes de añadir contactos."
+          ]
+        ]
+      },
+      {
+        "id": "industry-fit-check",
+        "aliases": [
+          "industry-encaje-check",
+          "industry-encaix-check",
+          "industry-adéquation-check"
+        ],
+        "title": "Conserva las comprobaciones y elimina la puntuación",
+        "p": [
+          "Las ocho bases originales siguen siendo útiles. Son preguntas que hay que resolver con pruebas, no condiciones confirmadas al marcar una casilla. Una suma sobre ocho no demuestra disposición a comprar."
+        ],
+        "ul": [
+          "La categoría de seguridad y el caso de uso se explican con precisión.",
+          "Las cuentas comparten un contexto pertinente y verificable.",
+          "Se ha identificado al grupo de compra más allá de un cargo sénior.",
+          "Las afirmaciones tienen pruebas autorizadas que pueden examinarse.",
+          "Las respuestas llegan a alguien cualificado para contestar preguntas de seguridad.",
+          "Los criterios de reunión están escritos y acordados.",
+          "Las exclusiones protegen el encaje y las preferencias de contacto.",
+          "Un responsable técnico tiene capacidad para la siguiente conversación."
+        ],
+        "cards": [
+          [
+            "Listo para una prueba focalizada",
+            "Están claros oferta, pruebas, encaje, permisos del remitente, responsable de respuesta y definición de reunión. Pon a prueba la pregunta; no declares preparado el mercado por esta lista."
+          ],
+          [
+            "Preparar primero",
+            "Falta una afirmación respaldada, un límite de prestación, un segmento o un responsable técnico. Asigna ese trabajo antes de aumentar volumen."
+          ],
+          [
+            "Excluir o detener",
+            "La cuenta está prohibida, no se puede cumplir un requisito o la persona rechaza el contacto. Otro cargo o canal no elimina la restricción."
+          ]
+        ]
+      },
+      {
+        "id": "cy-buying-group",
+        "title": "Da a cada función un motivo distinto para participar",
+        "p": [
+          "El CISO puede patrocinar la decisión sin llevar todos los procesos. Un evaluador técnico, usuario operativo, interlocutor financiero y equipo de compras plantean preguntas distintas. Una persona puede cubrir varios papeles. Coordina la cuenta en lugar de enviar lo mismo a todos o esquivar una negativa explícita."
+        ],
+        "headers": [
+          "Función",
+          "Pregunta que resolver",
+          "Quién aporta las pruebas"
+        ],
+        "caption": "Grupo de compra y preguntas",
+        "rows": [
+          [
+            "Responsable de seguridad o patrocinador",
+            "¿Por qué tratar esta cuestión, a qué prioridad sirve y quién debe participar?",
+            "La prioridad expresada por el comprador y pruebas pertinentes autorizadas"
+          ],
+          [
+            "Evaluador técnico o arquitecto",
+            "¿Qué integraciones, dependencias, accesos y restricciones de implantación existen?",
+            "El comercial técnico cualificado del cliente, documentación actual y análisis de necesidades acordado"
+          ],
+          [
+            "Responsable operativo o usuario",
+            "¿Quién llevará el proceso, investigará problemas y conservará la responsabilidad?",
+            "Modelo operativo real, requisitos previos y responsables de implantación y soporte"
+          ],
+          [
+            "Finanzas o patrocinador económico",
+            "¿Qué alcance, esfuerzo y coste completo justificarían seguir evaluando?",
+            "Supuestos del comprador y conversación comercial honesta; sin ahorros inventados"
+          ],
+          [
+            "Riesgos, jurídico o compras",
+            "¿Qué pasos de aseguramiento, proveedor, datos y aprobación se requieren?",
+            "Documentación aprobada del cliente y proceso permitido por el comprador, no garantías de un guion"
+          ]
+        ]
+      },
+      {
+        "id": "cy-channel-choice",
+        "title": "Elige canales según accesibilidad y confianza",
+        "p": [
+          "Empieza donde la persona esté activa o sea razonablemente accesible. LinkedIn puede mostrar una conversación profesional pertinente; el email permite una explicación pensada. Ninguno es universalmente mejor. Mantén un historial, campos de origen y reglas de parada comunes."
+        ],
+        "headers": [
+          "Vía",
+          "Aportación útil",
+          "Límite que respetar"
+        ],
+        "caption": "Canales y límites",
+        "rows": [
+          [
+            "Email frío y LinkedIn",
+            "Una primera conversación investigada con un comprador empresarial adecuado",
+            "Verifica función, hechos y permisos. Elige el canal de inicio pertinente y evita propuestas duplicadas en paralelo."
+          ],
+          [
+            "Referencias y relaciones existentes",
+            "Una presentación adecuada por alguien que conoce de verdad al comprador",
+            "No inventes familiaridad o avales, no intercambies listas privadas ni tomes una referencia como permiso para insistir."
+          ],
+          [
+            "Proveedores, MSP o especialistas aliados",
+            "Una vía complementaria definida hacia clientes finales o compradores de canal",
+            "Verifica relación, alcance, titularidad de cuentas y conflictos; un distintivo no crea una actividad de venta conjunta."
+          ],
+          [
+            "Eventos y comunidades profesionales",
+            "Una conversación, pregunta educativa o seguimiento acordado",
+            "Distingue asistente, participante interesado y comprador que solicita reunión. Respeta las expectativas de seguimiento."
+          ],
+          [
+            "Contenido, búsqueda, páginas de servicio y pruebas",
+            "Ayudar a entender un uso, evaluar la prestación y revisar pruebas",
+            "Escribe para la pregunta real de evaluación. Visita, descarga o cita de IA no son una oportunidad cualificada."
+          ],
+          [
+            "Demanda de pago, editorial o sindicada",
+            "Llegar a una audiencia o distribuir un recurso con un resultado definido",
+            "Comprueba procedencia, permisos, duplicados, exclusiones y traspaso. Leads de contenido, llamadas entrantes y reuniones outbound nuevas son servicios distintos."
+          ]
+        ]
+      },
+      {
+        "id": "cy-first-offer",
+        "title": "Haz útil el siguiente paso sin presentarlo como una auditoría",
+        "p": [
+          "Ajusta la propuesta a lo que sabes. Una pregunta de planificación puede justificar conversar; no justifica recabar detalles confidenciales ni prometer que una prueba encontrará un problema."
+        ],
+        "cards": [
+          [
+            "Material educativo",
+            "Ofrece el brief, explicación o webinar prometidos. Di qué cubre y si recoge datos. Pedir información no equivale a aceptar una llamada comercial."
+          ],
+          [
+            "Conversación de encaje",
+            "Explica qué decisión se explorará, quién debe participar y qué se aclarará. No incluyas conclusiones técnicas sin respaldo en la invitación."
+          ],
+          [
+            "Evaluación técnica",
+            "Una demo, prueba de concepto, evaluación o escaneo requiere el equipo cualificado del cliente, alcance, requisitos, tratamiento de datos y autorización acordados. No inventes una auditoría gratis ni pidas credenciales por prospección fría."
+          ]
+        ]
+      },
+      {
+        "id": "cy-worked-account",
+        "title": "Examina una cuenta para un producto de identidad",
+        "p": [
+          "Esta situación ficticia original muestra la decisión de investigación antes del mensaje. No describe ninguna empresa o campaña real."
+        ],
+        "dl": [
+          [
+            "Oferta y cuenta",
+            "Un proveedor de identidad tiene un método aprobado para hablar de responsabilidades sobre accesos no humanos. El equipo de ingeniería de una empresa adecuada publica una conversación sobre responsables de cuentas de servicio."
+          ],
+          [
+            "Prueba y conexión",
+            "El tema es público y actual. Permite preguntar por responsabilidades y revisión, no afirmar que las cuentas estén sin gestionar, haya habido una brecha o se necesite un producto."
+          ],
+          [
+            "Mapa de compra",
+            "Investiga al responsable de identidad o seguridad y al dueño del proceso de ingeniería. El CISO puede patrocinar la conversación; quien lleva el proceso puede ser el mejor primer contacto."
+          ],
+          [
+            "Desconocidos y exclusión",
+            "Compatibilidad, controles, proveedor, presupuesto y plazos siguen sin confirmar. Deja en espera una cuenta que requiera una plataforma no admitida; no rellenes el hueco con una suposición de una herramienta."
+          ],
+          [
+            "Primera decisión útil",
+            "Pregunta si se revisa el mapa de responsabilidades y si ayudaría un esquema de planificación. Si hay interés, involucra al responsable técnico antes de prometer una evaluación."
+          ]
+        ]
+      },
+      {
+        "id": "cy-service-account",
+        "title": "Plantea otra pregunta para un servicio de seguridad gestionada",
+        "p": [
+          "Un proveedor ficticio de servicios de seguridad gestionados (MSSP) cubre un territorio y entorno definidos. Una empresa de esa zona anuncia una expansión. El proveedor aún desconoce equipo, cobertura, proveedores e interés en cambiar."
+        ],
+        "dl": [
+          [
+            "Pregunta plausible",
+            "¿Quién lleva la cobertura de seguridad durante la expansión y se considera apoyo externo complementario? No insinúes que el equipo o proveedor actual falla."
+          ],
+          [
+            "Qué cambia la vía",
+            "Un responsable interno confirma interés en un modelo cogestionado. Inclúyelo junto al comercial técnico del cliente en una conversación delimitada sobre responsabilidades y cobertura admitida."
+          ],
+          [
+            "Qué la detiene",
+            "El comprador necesita un servicio, ubicación, compromiso de respuesta o plataforma que no se puede cubrir, o dice que no se plantea una revisión externa. Deja en espera o excluye; no prometas capacidades para salvar la reserva."
+          ],
+          [
+            "Una situación distinta",
+            "Alguien comunica un incidente activo. Detén la secuencia y utiliza la vía urgente establecida por el cliente cuando proceda. No conviertas la urgencia en una consulta comercial ni pidas registros del incidente, credenciales o detalles de explotación."
+          ]
+        ],
+        "links": [
+          [
+            "/industries/it-services-lead-generation/",
+            "Comparar la compra de servicios informáticos generales"
+          ]
+        ]
+      },
+      {
+        "id": "relevant-beespoke-evidence",
+        "title": "Da al comprador pruebas que pueda examinar",
+        "p": [
+          "Prometer que se evitarán todas las brechas no es un dossier útil. Muestra uso pertinente, contribución, entorno admitido, requisitos, periodo, denominador y límites. Separa capacidad de producto, resultado de evaluación y resultado del cliente.",
+          "El equipo cualificado del cliente aprueba el sentido técnico y aporta las pruebas adecuadas. La prospección no debe certificar arquitecturas, garantizar conformidad ni inventar respuestas de seguridad para obtener una reunión."
+        ],
+        "ul": [
+          "Comprueba vigencia y alcance de certificaciones, alianzas y permisos de clientes.",
+          "Usa un caso autorizado con periodo y definición de resultados; distingue la aportación del proveedor, cliente y otros socios.",
+          "Muestra documentación aprobada, condiciones de implantación y acceso y quién responderá objeciones técnicas.",
+          "Explica qué puede demostrar una demo y qué no. Identifica los ejemplos ficticios como tales.",
+          "Retira combinaciones de cliente, ubicación, tamaño, comprador y campaña que permitan identificar a alguien salvo autorización pública específica.",
+          "No uses credenciales filtradas, escaneos no solicitados, incidentes supuestos ni plazos legales sin verificar como motivo de contacto."
+        ],
+        "after": [
+          "El caso histórico de Beespoke enlazado por separado describe ejecución en LinkedIn y gestión humana de respuestas. El registro público es limitado y anonimizado; no es referencia ni previsión actual de reuniones."
+        ],
+        "links": [
+          [
+            "/case-studies/cybersecurity-linkedin-lead-generation/",
+            "Leer el caso histórico anonimizado"
+          ]
+        ]
+      },
+      {
+        "id": "cy-outreach-examples",
+        "title": "Escribe una pregunta concreta sin recurrir al miedo",
+        "p": [
+          "Estos mensajes ficticios originales representan al proveedor de seguridad o MSSP, no a Beespoke prestando ciberseguridad. Usa hechos o capacidades solo si son ciertos para el remitente. Email y LinkedIn son alternativas, no envíos simultáneos a una misma persona."
+        ],
+        "samples": [
+          [
+            "Email de producto: un proceso público",
+            "Asunto: Responsables de cuentas de servicio\n\nHola, [nombre]:\n\nLa nota de vuestro equipo sobre asignar responsables a cuentas de servicio me hizo pensar: ¿esa revisión se queda en ingeniería o participa también identidad?\n\nTrabajamos con equipos para definir responsables y revisiones. Puedo enviarte un esquema breve de las preguntas que aclararíamos primero. Antes de decir si nuestro producto encaja tendríamos que conocer vuestro entorno.\n\n¿Os ayudaría ese esquema o ya está resuelta la asignación?",
+            "Parte de un tema público real y propone un paso limitado. Deja espacio para controles existentes y para que no haya proyecto. No inventa credenciales expuestas, auditorías fallidas, renovaciones ni ahorros."
+          ],
+          [
+            "Un segundo mensaje corto",
+            "Hola, [nombre], ¿os serviría el esquema sobre responsabilidades o ya está cubierto ese trabajo?",
+            "Ilustra la apertura y el seguimiento breve habituales de Beespoke, aproximadamente cuatro días después. El contexto manda; respuesta, negativa o preferencia tienen prioridad."
+          ],
+          [
+            "LinkedIn: una conversación profesional pertinente",
+            "Hola, [nombre], tiene sentido lo que comentabas sobre hacer prácticas las revisiones de acceso para ingeniería. ¿Quién suele llevar el traspaso entre ingeniería e identidad? Trabajamos sobre esa responsabilidad. Si te sirve, puedo explicarte el enfoque.",
+            "Usa la conversación pública solo si ocurrió. Un interés profesional, evento o lugar realmente compartido también pueden ser pertinentes; no finjas conocer a alguien ni conviertas su opinión pública en necesidad de compra."
+          ],
+          [
+            "Email de servicio: cobertura complementaria",
+            "Asunto: Cobertura de seguridad durante la expansión\n\nHola, [nombre]:\n\nLa noticia de la expansión me dejó pensando en quién coordina la cobertura de seguridad. ¿Se quedará en el equipo interno o tendría sentido considerar apoyo externo complementario?\n\nPrestamos seguridad gestionada en un entorno y territorio definidos. La primera conversación trataría responsabilidades y cobertura, no sería una evaluación de vuestras defensas.\n\n¿Sería pertinente o la expansión ya está cubierta?",
+            "Son otra cuenta y otro servicio. Los límites deben ser reales; no se insinúa un proveedor inadecuado, capacidad permanente ni permiso para probar sistemas."
+          ]
+        ],
+        "after": [
+          "Lee el mensaje en voz alta. Retira elogios intercambiables, afirmaciones vacías y urgencia inventada. La IA puede ayudar con el borrador, pero alguien debe verificar hechos, sentido técnico y tono. Una lista de frases prohibidas no detecta la IA de forma fiable; «he visto» no es el problema cuando la observación es real y pertinente."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar el método completo de redacción"
+          ],
+          [
+            "/guides/linkedin-prospecting-messages/",
+            "Revisar las decisiones de mensajes en LinkedIn"
+          ]
+        ]
+      },
+      {
+        "id": "cy-reply-routing",
+        "title": "Deja que la respuesta determine el siguiente paso",
+        "p": [
+          "Un ciclo largo no justifica seguir enviando mensajes fríos. Sin respuesta en el primer canal, reevalúa otra vía apropiada. Mantén historial, exclusiones y responsable comunes. El seguimiento posterior debe reflejar interés y plazos acordados; cambiar de canal no debe esquivar una negativa."
+        ],
+        "dl": [
+          [
+            "«Envíame el esquema.»",
+            "Envía exactamente lo ofrecido y una pregunta pequeña sobre quién lo lleva. Pedir material no es reservar una reunión."
+          ],
+          [
+            "«Ya tenemos proveedor o equipo.»",
+            "Respétalo. Explora un papel complementario solo si la respuesta lo invita; no fabriques insatisfacción ni esquives al contacto."
+          ],
+          [
+            "«¿Cómo se integra o cumple el requisito?»",
+            "Transmite la pregunta exacta al responsable técnico cualificado del cliente. Di qué falta confirmar. No saques garantías de seguridad, legales o de implantación de un guion comercial."
+          ],
+          [
+            "«Pasa por compras» o «vuelve más adelante».",
+            "Sigue la vía permitida y guarda fecha y acción autorizada. Pregunta si el contacto posterior es bienvenido en lugar de darlo por hecho."
+          ],
+          [
+            "Negativa o petición de parada",
+            "Cierra, descualifica o bloquea el contacto según corresponda y conserva el motivo entre canales. Una negativa no es éxito de interacción."
+          ],
+          [
+            "Incidente activo o información sensible",
+            "Pausa marketing y sigue el procedimiento establecido de escalado cuando proceda. No pidas secretos o detalles técnicos de un incidente por email normal, brief de prospección o formulario de reserva."
+          ]
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Planificar un seguimiento moderado"
+          ]
+        ]
+      },
+      {
+        "id": "cy-qualified-meeting",
+        "title": "Acuerda qué hace útil una reunión antes de reservarla",
+        "p": [
+          "Escribe los criterios con los responsables comerciales y técnicos. Confirma encaje de cuenta y servicio, territorio, función pertinente, tema o iniciativa reconocidos, interés y siguiente paso creíble. Un cargo sénior o invitación aceptada no bastan.",
+          "Presupuesto, autoridad, proveedor o plazo desconocidos deben seguir así. Una exploración inicial no necesita parecer una licitación aprobada, pero el comercial técnico debe entender por qué merece la pena conversar."
+        ],
+        "cards": [
+          [
+            "Listo para la conversación adecuada",
+            "La cuenta encaja, el participante comprende y acepta el propósito y el cliente dispone del experto adecuado. Anota preguntas abiertas y la decisión que apoyará la reunión."
+          ],
+          [
+            "En espera o por desarrollar",
+            "Puede haber encaje, pero faltan requisito, responsable, interés o fecha. Asigna investigación o contacto posterior acordado; no lo cuentes como oportunidad aceptada."
+          ],
+          [
+            "Excluir o detener",
+            "Un requisito conocido no se puede cumplir, la cuenta está prohibida o la persona rechaza. Conserva el motivo en lugar de buscar otro comprador o definición más conveniente."
+          ]
+        ],
+        "links": [
+          [
+            "/services/b2b-appointment-setting/",
+            "Definir cualificación y responsabilidades"
+          ]
+        ]
+      },
+      {
+        "id": "cy-handoff",
+        "title": "Entrega un registro útil al comercial técnico",
+        "p": [
+          "Este registro ficticio completado sigue el caso de identidad. Usa marcadores en ejemplos didácticos y transfiere solo el contexto necesario mediante sistemas aprobados."
+        ],
+        "dl": [
+          [
+            "Motivo y fuente",
+            "Conversación pública fechada de ingeniería sobre responsabilidades de cuentas de servicio. No se afirma ningún incidente, fallo de control ni plazo legal."
+          ],
+          [
+            "Interés confirmado",
+            "El responsable del proceso dice que al líder de identidad le serviría hablar de planificación de responsabilidades y acepta ese propósito."
+          ],
+          [
+            "Encaje y preguntas abiertas",
+            "Uso y segmento encajan en el alcance declarado. Sistemas reales, integraciones y calendario de evaluación siguen sin confirmar."
+          ],
+          [
+            "Experto siguiente y límites",
+            "El comercial técnico del cliente lleva compatibilidad y análisis de necesidades. No se ha dado evaluación, declaración de conformidad, triaje de incidentes ni garantía de seguridad."
+          ],
+          [
+            "Reserva y atribución",
+            "El sistema aprobado guarda ID original, fecha de creación, origen de adquisición o campaña, página de entrada observada si existe y propósito. Los cambios de fecha se vinculan al evento original."
+          ],
+          [
+            "Retorno y responsable siguiente",
+            "Ventas del cliente confirma celebración, cualificación y aceptación o motivo de rechazo, y devuelve el resultado a investigación y mensajes."
+          ]
+        ],
+        "ol": [
+          "Confirma propósito y asistentes mediante el calendario aprobado. Un clic no es una reserva completada.",
+          "Traslada pregunta y promesa al CRM para que el comprador no tenga que empezar de cero.",
+          "Guarda los registros técnicos sensibles en el proceso autorizado del cliente, no en una hoja de prospección compartida.",
+          "El cliente conserva análisis de necesidades, evaluaciones técnicas, solución, afirmaciones de seguridad, propuestas, compromisos y cierre."
+        ]
+      },
+      {
+        "id": "campaign-workflow",
+        "title": "Mide una cohorte coherente de cuenta a oportunidad",
+        "p": [
+          "Conserva el proceso original: definir categoría y afirmación, identificar interlocutores, revisar cuentas, alinear remitente y pruebas, gestionar respuestas y reservar con criterios escritos. Cierra el ciclo con el retorno de ventas.",
+          "Las cifras siguientes forman una cohorte ficticia completamente conciliada con entrada y fecha de corte definidas. No son tasas esperadas. Cuenta personas y empresas por separado; exportar contactos no permite prever demanda."
+        ],
+        "headers": [
+          "Etapa",
+          "Cifra ficticia",
+          "Definición"
+        ],
+        "caption": "Una cohorte ficticia de cuentas",
+        "rows": [
+          [
+            "Cuentas aprobadas contactadas",
+            "60",
+            "Cumplen investigación; no son 60 compradores interesados"
+          ],
+          [
+            "Cuentas con conversación pertinente",
+            "8",
+            "Cuentas con respuesta significativa, sin duplicados; no mensajes automáticos, negativos o de ausencia"
+          ],
+          [
+            "Reuniones originales reservadas",
+            "4",
+            "IDs originales; cambiar la fecha no crea demanda nueva"
+          ],
+          [
+            "Reuniones celebradas",
+            "3",
+            "Una reserva original no llegó a conversación celebrada en esta cohorte conciliada"
+          ],
+          [
+            "Celebradas y cualificadas",
+            "2",
+            "Una reunión celebrada no cumplió los criterios"
+          ],
+          [
+            "Oportunidades aceptadas por ventas",
+            "1",
+            "El cliente aceptó un paso comercial definido; no implica ingresos cerrados"
+          ]
+        ],
+        "after": [
+          "Aquí, dos de tres reuniones celebradas cumplen los criterios y una de dos cualificadas se acepta como oportunidad. Es aritmética ficticia, no referencia de mercado. Separa resultados incompletos o desconocidos de cero.",
+          "No compares registros de webinar con cuentas contactadas como si compartieran denominador. Separa cohortes de adquisición y actividad mensual y respeta el ciclo real antes de evaluar oportunidades o clientes.",
+          "Incluye costes completos de adquisición. Coste por contacto, reserva, reunión celebrada y cualificada y adquisición completa del cliente son medidas distintas; una factura de campaña no es todo el coste.",
+          "Conserva por separado origen inicial, página de entrada observada, visitas posteriores y explicación del comprador. Una reserva web tras prospección no es automáticamente búsqueda orgánica. Excluye auditorías y deja visible la atribución desconocida."
+        ],
+        "links": [
+          [
+            "/guides/outbound-lead-generation-cost/",
+            "Revisar definiciones de costes outbound"
+          ]
+        ]
+      },
+      {
+        "id": "cy-pilot-diagnostics",
+        "title": "Usa la prueba para encontrar el punto de bloqueo",
+        "p": [
+          "Acuerda universo de cuentas, exclusiones, oferta, pruebas, permisos, responsable de respuesta, capacidad técnica y reglas de revisión antes del lanzamiento. Elige un segmento viable en lugar de extrapolar una base enorme. Un mercado pequeño puede necesitar trabajo por cuenta, no una secuencia más grande.",
+          "Revisa según oferta y ciclo real. Las primeras respuestas prueban pertinencia; oportunidades y economía de adquisición exigen resultados completos y maduros. Ningún calendario fijo o número de impactos garantiza reuniones."
+        ],
+        "headers": [
+          "Problema observado",
+          "Qué revisar primero",
+          "Cambio útil"
+        ],
+        "caption": "Diagnóstico de campaña",
+        "rows": [
+          [
+            "Cuentas o funciones equivocadas",
+            "Uso, prestación, pruebas y responsabilidad de compra",
+            "Corrige la investigación antes de reescribir todos los mensajes"
+          ],
+          [
+            "Fallo de entrega o falta de acceso creíble",
+            "Exactitud del contacto, configuración, actividad real y canal disponible",
+            "Arregla la causa comprobada en lugar de subir volumen"
+          ],
+          [
+            "Respuestas pertinentes estancadas",
+            "Pregunta técnica pendiente, propuesta confusa, agenda o traspaso",
+            "Asigna el experto y aclara la siguiente decisión"
+          ],
+          [
+            "Reuniones celebradas sin encaje",
+            "Hechos confirmados antes de reservar y criterio escrito",
+            "Refuerza el criterio que falta; no presentes agenda como calidad"
+          ],
+          [
+            "Conversaciones cualificadas que no avanzan",
+            "Necesidades, pruebas, implantación, decisión y responsabilidad del cliente",
+            "Revisa la restricción real con ventas y conserva resultados abiertos o desconocidos"
+          ]
+        ]
+      },
+      {
+        "id": "when-we-would-not-recommend-this-service",
+        "title": "Sabe cuándo preparar, cambiar de vía o parar",
+        "p": [
+          "Prepara primero si la categoría es confusa, las pruebas no respaldan las afirmaciones, falta capacidad de respuesta o nadie puede llevar una conversación técnica informada. Cambia de canal si las personas no están activas o accesibles por la vía propuesta; no impongas LinkedIn a todos los mercados.",
+          "Una alianza especializada, referencia, evento, contenido útil o programa telefónico con alcance separado pueden encajar mejor. Atender llamadas entrantes no es generar demanda nueva. Un incidente activo pertenece a un proceso de respuesta establecido, no al embudo normal de prospección."
+        ],
+        "links": [
+          [
+            "/guides/b2b-lead-generation-audit/",
+            "Diagnosticar el bloqueo real de captación"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Pide al socio que muestre el trabajo detrás de la promesa",
+        "p": [
+          "Conserva las cinco comprobaciones originales: segmentación, pruebas, respuestas técnicas, cualificación y disposición a recomendar otro canal. Pide una decisión de investigación, una afirmación aprobada, una vía de respuesta y un traspaso completado; no solo software o reuniones prometidas."
+        ],
+        "headers": [
+          "Pregunta",
+          "Prueba útil",
+          "Señal de alerta"
+        ],
+        "caption": "Comprobaciones del proveedor",
+        "rows": [
+          [
+            "¿Cómo segmentará la oferta?",
+            "Uso, contexto, grupo de compra, pruebas y exclusiones",
+            "Etiqueta de ciberseguridad y lista de cargos"
+          ],
+          [
+            "¿Qué respalda las afirmaciones?",
+            "Pruebas relevantes autorizadas con alcance y límites",
+            "Logos, urgencia inventada o garantía de seguridad"
+          ],
+          [
+            "¿Quién contesta preguntas técnicas?",
+            "Proceso de derivación y responsable cualificado del cliente",
+            "Un guion genérico que inventa garantías"
+          ],
+          [
+            "¿Qué cuenta como cualificado?",
+            "Definiciones escritas de encaje, función, tema, interés y resultado",
+            "Contar todas las reservas igual"
+          ],
+          [
+            "¿Cuándo elegiría otra vía?",
+            "Razonamiento de canal y exclusión específico por cuenta",
+            "Un canal o número fijo de impactos para todos"
+          ],
+          [
+            "¿Qué datos y permisos intervienen?",
+            "Campos necesarios, procedencia, autorización y traspaso claro",
+            "Listas sin explicar, secretos en el brief o falta de reglas comunes de parada"
+          ]
+        ],
+        "downloadTitle": "Abrir el brief de campaña de ciberseguridad",
+        "downloadNote": "Lee las preguntas o descarga el mismo CSV estático. No requiere email, cuenta ni información introducida de prospectos. Contiene preguntas de planificación y no envía respuestas a Beespoke. No introduzcas credenciales, registros de incidentes ni detalles confidenciales de sistemas en un brief de prospección.",
+        "downloadLabel": "Descargar el brief de campaña (CSV)",
+        "questions": [
+          [
+            "Oferta y comprador",
+            "¿Tratamos un producto, servicio gestionado, proyecto o situación de canal?"
+          ],
+          [
+            "Pruebas de cuenta",
+            "¿Qué hecho público fechado justifica investigar, qué es hipótesis y qué falta saber?"
+          ],
+          [
+            "Exclusiones",
+            "¿Qué restricciones de prestación, territorio, proveedor, cuenta o contacto obligan a parar o esperar?"
+          ],
+          [
+            "Grupo de compra",
+            "¿Quién lleva resultado, proceso, evaluación técnica y aprobación?"
+          ],
+          [
+            "Pruebas y afirmaciones",
+            "¿Qué se puede respaldar, quién lo aprueba y qué afirmaciones técnicas o legales están prohibidas?"
+          ],
+          [
+            "Propuesta siguiente",
+            "¿Qué recibe el comprador y qué necesita experto cualificado o autorización aparte?"
+          ],
+          [
+            "Canales y permisos",
+            "¿Dónde está activo o accesible, quién autoriza la ejecución y cómo se conserva un historial único?"
+          ],
+          [
+            "Respuestas y escalado",
+            "¿Quién lleva preguntas técnicas, plazos, compras, negativas y derivación urgente?"
+          ],
+          [
+            "Cualificación y traspaso",
+            "¿Qué hace útil una reunión celebrada, qué calendario y CRM se aprueban y quién registra IDs originales y retorno?"
+          ],
+          [
+            "Medición y capacidad",
+            "¿Qué fechas de cohorte, costes completos, resultados maduros, fuentes y límites de prestación rigen la revisión?"
+          ]
+        ]
+      },
+      {
+        "id": "cy-beespoke-scope",
+        "title": "Dónde encaja Beespoke y qué conserva tu equipo",
+        "p": [
+          "Beespoke gestiona prospección por email frío y/o LinkedIn dirigida por el fundador para ofertas B2B adecuadas. Investigamos empresas y personas, escribimos mensajes individuales, ejecutamos con autorización, tratamos respuestas, cualificamos interés y facilitamos reservas según criterios acordados. El cliente aprueba el encaje y la veracidad de las afirmaciones; sus expertos conservan análisis técnico, evaluaciones, solución, propuestas y cierre.",
+          "Software, datos y costes de terceros se cobran aparte salvo inclusión escrita. Las llamadas se presupuestan por mercado. El servicio base no es un SDR a jornada completa, capacidad ilimitada, evaluación de ciberseguridad ni garantía de reuniones o ingresos.",
+          "El fundador presta el servicio en inglés, español, catalán y francés. No implica equipo de teleoperadores nativos, todas las interfaces en cuatro idiomas ni un centro local de operaciones de seguridad. La llamada de encaje aclara oferta, pruebas, restricciones, responsable y la prueba útil más pequeña."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Ver el servicio de email frío"
+          ],
+          [
+            "/services/linkedin-lead-generation/",
+            "Ver prospección en LinkedIn"
+          ],
+          [
+            "/pricing/",
+            "Consultar alcance y precios actuales"
+          ],
+          [
+            "/guides/how-to-choose-an-outbound-lead-generation-agency/",
+            "Comparar responsabilidades de una agencia"
+          ]
+        ]
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Preguntas sobre generación de leads en ciberseguridad",
+        "faqs": [
+          [
+            "¿Cómo generan leads cualificados las empresas de ciberseguridad?",
+            "Conectan una oferta definida con empresas adecuadas mediante prospección pertinente, referencias, socios, eventos, contenido útil y búsqueda. Verifica pregunta del comprador, encaje de prestación y siguiente paso. Separa listas, registros y reservas de reuniones celebradas y cualificadas y oportunidades aceptadas por ventas."
+          ],
+          [
+            "¿Hay que contactar al CISO, al director de TI o al equipo técnico?",
+            "Elige según el uso y la cuenta real. Seguridad puede patrocinar mientras identidad, cloud, ingeniería, operaciones, riesgos o compras lleva otra parte. Identifica el grupo sin enviar lo mismo a todos ni esquivar una negativa."
+          ],
+          [
+            "¿Contratación, datos de intención o certificaciones prueban intención de compra?",
+            "No. Justifican investigar, pero no confirman presupuesto privado, incidente, renovación, obligación legal ni disposición a reunirse. Anota hecho fechado, hipótesis y pregunta pendiente, y confirma la situación mediante una conversación apropiada."
+          ],
+          [
+            "¿Qué canal funciona mejor para prospectar en ciberseguridad?",
+            "No existe uno universal. Parte de actividad, accesibilidad y relación de la persona y coordina un historial entre vías adecuadas. Referencias, socios, email, LinkedIn, eventos y contenido aportan cosas distintas; cambiar de canal no debe eludir un rechazo."
+          ],
+          [
+            "¿Conviene ofrecer una auditoría o escaneo gratuito?",
+            "Solo ofrece una actividad que el proveedor cualificado pueda prestar con alcance, requisitos, datos y autorización acordados. Una conversación de planificación o brief puede ser mejor inicio. No presentes un mensaje no solicitado como evaluación ni pidas credenciales para obtener una reunión."
+          ],
+          [
+            "¿Cuántos seguimientos debe tener una secuencia?",
+            "Beespoke suele utilizar una apertura y un segundo mensaje breve unos cuatro días después, según el contexto. Respuesta, negativa o preferencia tienen prioridad. Un ciclo largo no justifica contacto repetido no deseado; el seguimiento posterior debe reflejar interés y fechas acordadas."
+          ],
+          [
+            "¿Qué hace cualificada una reunión de ciberseguridad?",
+            "Los criterios acordados cubren encaje de cuenta y prestación, función pertinente, tema o iniciativa reconocidos, interés y siguiente paso creíble. Presupuesto y plazos desconocidos siguen así. Separa reservadas, celebradas, celebradas y cualificadas y oportunidades aceptadas; el cliente lleva el análisis técnico y la aceptación comercial."
+          ],
+          [
+            "¿Qué puede responder una agencia sobre la solución de seguridad?",
+            "Puede usar material y afirmaciones aprobados y derivar a los expertos cualificados del cliente. No debe inventar garantías de compatibilidad, conformidad, evaluación o respuesta a incidentes. Beespoke gestiona prospección y facilita reservas; el cliente conserva evaluación técnica, compromisos y cierre."
+          ]
+        ]
+      }
+    ]
+  },
+  "ca": {
+    "headerH1": "Generació de leads per a proveïdors i empreses de ciberseguretat",
+    "answer": "La generació de leads en ciberseguretat connecta una oferta concreta amb empreses que poden tenir un motiu per avaluar-la. Comença pel compte, la situació de compra i les proves; després tria la persona i el canal pertinents. Una llista, descàrrega o invitació acceptada no són una oportunitat qualificada. Acorda els criteris de reunió i el traspàs tècnic abans del llançament i mesura per separat reserves, converses fetes i qualificades i oportunitats acceptades per vendes.",
+    "description": "Generació de leads per a proveïdors de ciberseguretat i MSSP: comptes, compradors, missatges, qualificació i traspàs tècnic. Inclou un brífing sense registre.",
+    "jump": "Examinar un compte de ciberseguretat",
+    "dateLabel": "9 de novembre de 2026",
+    "fiction": "Els comptes, missatges, registres de traspàs i xifres d’aquesta guia són exemples didàctics ficticis i originals. No contenen registres de clients o prospectes ni representen resultats de Beespoke. El cas històric enllaçat per separat s’identifica com a tal.",
+    "sourceTitle": "Fonts i metodologia",
+    "sourceNote": "Fonts revisades el 9 de novembre de 2026. Els textos citats han servit per a la comparació. No s’adopten com a referències els resultats, preus, terminis legals, conversions, cicles comercials ni temps d’arrencada anunciats pels proveïdors. No s’han verificat independentment els estudis enllaçats, recursos amb registre ni afirmacions sobre productes externs. L’article antic d’UnboundB2B està datat al gener de 2020; s’inclou com a resultat observat, no com a recomanació actual d’eines. Un indici públic no prova una condició de seguretat privada ni un projecte de compra.",
+    "baseProof": [
+      "El cas històric de ciberseguretat de Beespoke descriu prospecció focalitzada a LinkedIn i gestió humana de respostes. És un registre operatiu anonimitzat, no una previsió per a una altra oferta o mercat.",
+      "Examina els criteris de selecció, l’execució i les definicions de resultats. El cas públic no aporta una cohort d’adquisició completa i datada ni una conciliació posterior d’oportunitats."
+    ],
+    "casePrivacy": {
+      "description": "Cas històric anonimitzat de prospecció a LinkedIn adreçada a compradors de ciberseguretat, amb el disseny de la campanya i els límits del registre públic de resultats.",
+      "answer": "Aquest cas històric anonimitzat descriu prospecció a LinkedIn per a un proveïdor de ciberseguretat. Explica la selecció d’empreses, els perfils rellevants, els remitents adequats i la gestió humana de respostes. S’ometen els identificadors del client i els noms de les organitzacions compradores. El registre públic no inclou una cohort completa i datada ni oportunitats posteriors conciliades, de manera que no permet establir un ritme habitual de reunions ni preveure una altra campanya.",
+      "design": "Beespoke va organitzar la prospecció a LinkedIn al voltant d’empreses seleccionades, perfils rellevants, missatges creïbles i seguiment humà. Els perfils remitents autoritzats es van fer servir de manera coherent amb les seves funcions professionals.",
+      "target": "Les empreses objectiu complien els criteris acordats de compte i situació de compra",
+      "result": "El registre històric descriu converses i reunions amb compradors sèniors de ciberseguretat pertinents. S’ometen els identificadors del client, les organitzacions compradores i els registres privats de campanya.",
+      "limits": "El registre no inclou un període complet de mesura, IDs originals de reserva, conciliació d’assistència ni una cohort posterior d’oportunitats. No permet fixar un ritme setmanal habitual, demostrar la definició de reunió feta i qualificada de la guia actual ni preveure un altre mercat. Oferta, proves, encaix, credibilitat del remitent i moment s’han de tornar a comprovar.",
+      "ledger": [
+        "S’ometen les identitats del client i dels compradors",
+        "Relat qualitatiu de converses pertinents",
+        "Sense cohort completa datada ni conciliació d’assistència"
+      ]
+    },
+    "sections": [
+      {
+        "id": "why-cybersecurity-outbound-is-unusually-difficult",
+        "title": "Comença per una situació de compra, no per una llista de CISO",
+        "p": [
+          "Els responsables de seguretat reben propostes de proveïdors constantment. Identitat, seguretat al núvol, detecció gestionada, proves i govern plantegen compres diferents. Qui s’ocupa d’una no és automàticament comprador de qualsevol producte etiquetat com a ciberseguretat.",
+          "Aquesta guia s’adreça a empreses de seguretat que volen generar converses comercials B2B pertinents o avaluar un soci que les ajudi. Separa el problema de captació del venedor del problema tècnic que resol la seva oferta. Beespoke gestiona prospecció; no avalua les defenses del prospecte ni presta la solució de seguretat."
+        ],
+        "headers": [
+          "Oferta",
+          "Possible pregunta de compra",
+          "Persones i límits de la prestació"
+        ],
+        "caption": "Situacions de compra diferents",
+        "rows": [
+          [
+            "Producte d’identitat o accés",
+            "Qui porta les decisions, revisions i integracions d’accés per a un ús definit?",
+            "Responsables d’identitat o seguretat, aplicacions o infraestructura i un patrocinador econòmic; cal confirmar la compatibilitat."
+          ],
+          [
+            "Producte de seguretat al núvol o d’aplicacions",
+            "Com s’avalua una iniciativa de plataforma o desenvolupament anunciada?",
+            "Seguretat al núvol, enginyeria, responsables d’aplicacions i direcció de seguretat; una oferta de feina no revela l’entorn de producció."
+          ],
+          [
+            "Seguretat gestionada, MSSP o MDR",
+            "Té sentit la monitorització externa o un servei complementari per a l’equip existent?",
+            "Operacions de seguretat o TI, responsable de servei i patrocinador; confirma cobertura, responsabilitat de resposta i entorn admès."
+          ],
+          [
+            "Projecte de proves, assegurament o govern",
+            "Hi ha una avaluació definida, una exigència de client o una pregunta de planificació?",
+            "Responsable tècnic o de riscos, compres i especialista; sense obligacions legals inferides, conformitat garantida ni proves no sol·licitades."
+          ],
+          [
+            "Aliança de canal o de recomanacions",
+            "Un altre proveïdor revendria, integraria o recomanaria el servei?",
+            "Responsable d’aliances i interlocutors tècnics i comercials autoritzats; un soci de canal no és una oportunitat de client final."
+          ],
+          [
+            "Incident actiu o resposta urgent",
+            "La persona necessita una via de suport urgent ja establerta?",
+            "Segueix el procediment documentat de resposta o escalat del client quan pertoqui. Una trucada normal de prospecció no és resposta a incidents."
+          ]
+        ]
+      },
+      {
+        "id": "how-beespoke-defines-the-market",
+        "title": "Anota el fet, la hipòtesi i el que falta saber",
+        "p": [
+          "Defineix categoria, cas d’ús, condicions de l’empresa, territori, grup de compra, exclusions i proves. Conserva el principi original: «CISO» és un càrrec, no un ICP. L’empresa i la pregunta fan rellevant aquesta funció.",
+          "Fes servir una font pública datada o una cosa que el comprador hagi dit de debò. Una contractació, nou responsable, adquisició, publicació tècnica o iniciativa anunciada poden justificar investigar. No demostren pressupost, insatisfacció, incident, renovació ni voluntat de reunir-se. Una certificació pública no és un calendari privat d’auditories; el sector no prova que una norma concreta sigui aplicable."
+        ],
+        "dl": [
+          [
+            "Fet conegut",
+            "En l’exemple fictici de producte, un equip d’enginyeria parla públicament d’assignar responsables als comptes de servei. Desa font i data. És un tema declarat, no una feblesa descoberta."
+          ],
+          [
+            "Hipòtesi de recerca",
+            "Un proveïdor d’identitat podria aportar una conversa útil sobre responsabilitats. Comprova’n la capacitat real i qui porta el procés abans de contactar."
+          ],
+          [
+            "Informació desconeguda",
+            "Controls, plataformes, proveïdors, avaluacions, pressupost, decisió i possible compra. No converteixis aquests buits en personalització que dona coses per fetes."
+          ],
+          [
+            "Decisió",
+            "Valida una pregunta pertinent si el compte visible encaixa. Deixa en espera les proves dubtoses i exclou incompatibilitats, comptes prohibits o negatives abans d’afegir contactes."
+          ]
+        ]
+      },
+      {
+        "id": "industry-fit-check",
+        "aliases": [
+          "industry-encaje-check",
+          "industry-encaix-check",
+          "industry-adéquation-check"
+        ],
+        "title": "Conserva les comprovacions i elimina la puntuació",
+        "p": [
+          "Les vuit bases originals continuen sent útils. Són preguntes que cal resoldre amb proves, no condicions confirmades en marcar una casella. Una suma sobre vuit no demostra disposició a comprar."
+        ],
+        "ul": [
+          "La categoria de seguretat i el cas d’ús s’expliquen amb precisió.",
+          "Els comptes comparteixen un context pertinent i verificable.",
+          "S’ha identificat el grup de compra més enllà d’un càrrec sènior.",
+          "Les afirmacions tenen proves autoritzades que es poden examinar.",
+          "Les respostes arriben a algú qualificat per contestar preguntes de seguretat.",
+          "Els criteris de reunió estan escrits i acordats.",
+          "Les exclusions protegeixen l’encaix i les preferències de contacte.",
+          "Un responsable tècnic té capacitat per a la conversa següent."
+        ],
+        "cards": [
+          [
+            "A punt per a una prova focalitzada",
+            "Estan clars oferta, proves, encaix, permisos del remitent, responsable de resposta i definició de reunió. Posa a prova la pregunta; no declaris preparat el mercat per aquesta llista."
+          ],
+          [
+            "Preparar primer",
+            "Falta una afirmació avalada per proves, un límit de prestació, un segment o un responsable tècnic. Assigna aquesta feina abans d’augmentar volum."
+          ],
+          [
+            "Excloure o aturar",
+            "El compte està prohibit, no es pot complir un requisit o la persona rebutja el contacte. Un altre càrrec o canal no elimina la restricció."
+          ]
+        ]
+      },
+      {
+        "id": "cy-buying-group",
+        "title": "Dona a cada funció un motiu diferent per participar",
+        "p": [
+          "El CISO pot patrocinar la decisió sense portar tots els processos. Un avaluador tècnic, usuari operatiu, interlocutor financer i equip de compres plantegen preguntes diferents. Una persona pot cobrir diversos papers. Coordina el compte en lloc d’enviar el mateix a tothom o esquivar una negativa explícita."
+        ],
+        "headers": [
+          "Funció",
+          "Pregunta que cal resoldre",
+          "Qui aporta les proves"
+        ],
+        "caption": "Grup de compra i preguntes",
+        "rows": [
+          [
+            "Responsable de seguretat o patrocinador",
+            "Per què tractar aquesta qüestió, a quina prioritat serveix i qui hi ha de participar?",
+            "La prioritat expressada pel comprador i proves pertinents autoritzades"
+          ],
+          [
+            "Avaluador tècnic o arquitecte",
+            "Quines integracions, dependències, accessos i restriccions d’implantació hi ha?",
+            "El comercial tècnic qualificat del client, documentació actual i exploració de necessitats acordada"
+          ],
+          [
+            "Responsable operatiu o usuari",
+            "Qui portarà el procés, investigarà problemes i conservarà la responsabilitat?",
+            "Model operatiu real, requisits previs i responsables d’implantació i suport"
+          ],
+          [
+            "Finances o patrocinador econòmic",
+            "Quin abast, esforç i cost complet justificarien continuar avaluant?",
+            "Supòsits del comprador i conversa comercial honesta; sense estalvis inventats"
+          ],
+          [
+            "Riscos, jurídic o compres",
+            "Quins passos d’assegurament, proveïdor, dades i aprovació calen?",
+            "Documentació aprovada del client i procés permès pel comprador, no garanties d’un guió"
+          ]
+        ]
+      },
+      {
+        "id": "cy-channel-choice",
+        "title": "Tria canals segons accessibilitat i confiança",
+        "p": [
+          "Comença on la persona sigui activa o raonablement accessible. LinkedIn pot mostrar una conversa professional pertinent; el correu permet una explicació pensada. Cap dels dos és universalment millor. Mantén un historial, camps d’origen i regles d’aturada comuns."
+        ],
+        "headers": [
+          "Via",
+          "Aportació útil",
+          "Límit que cal respectar"
+        ],
+        "caption": "Canals i límits",
+        "rows": [
+          [
+            "Correu fred i LinkedIn",
+            "Una primera conversa investigada amb un comprador empresarial adequat",
+            "Verifica funció, fets i permisos. Tria el canal d’inici pertinent i evita propostes duplicades en paral·lel."
+          ],
+          [
+            "Recomanacions i relacions existents",
+            "Una presentació adequada d’algú que coneix de debò el comprador",
+            "No inventis familiaritat o avals, no intercanviïs llistes privades ni prenguis una recomanació com a permís per insistir."
+          ],
+          [
+            "Proveïdors, MSP o especialistes aliats",
+            "Una via complementària definida cap a clients finals o compradors de canal",
+            "Verifica relació, abast, titularitat de comptes i conflictes; un distintiu no crea una activitat de venda conjunta."
+          ],
+          [
+            "Esdeveniments i comunitats professionals",
+            "Una conversa, pregunta educativa o seguiment acordat",
+            "Distingeix assistent, participant interessat i comprador que demana reunió. Respecta les expectatives de seguiment."
+          ],
+          [
+            "Contingut, cerca, pàgines de servei i proves",
+            "Ajudar a entendre un ús, avaluar la prestació i revisar proves",
+            "Escriu per a la pregunta real d’avaluació. Visita, descàrrega o citació d’IA no són una oportunitat qualificada."
+          ],
+          [
+            "Demanda de pagament, editorial o sindicada",
+            "Arribar a una audiència o distribuir un recurs amb un resultat definit",
+            "Comprova procedència, permisos, duplicats, exclusions i traspàs. Leads de contingut, trucades entrants i reunions outbound noves són serveis diferents."
+          ]
+        ]
+      },
+      {
+        "id": "cy-first-offer",
+        "title": "Fes útil el pas següent sense presentar-lo com una auditoria",
+        "p": [
+          "Ajusta la proposta al que saps. Una pregunta de planificació pot justificar conversar; no justifica recollir detalls confidencials ni prometre que una prova trobarà un problema."
+        ],
+        "cards": [
+          [
+            "Material educatiu",
+            "Ofereix el brífing, explicació o seminari web promesos. Digues què cobreix i si recull dades. Demanar informació no equival a acceptar una trucada comercial."
+          ],
+          [
+            "Conversa d’encaix",
+            "Explica quina decisió s’explorarà, qui hi ha de participar i què s’aclarirà. No incloguis conclusions tècniques sense fonament a la invitació."
+          ],
+          [
+            "Avaluació tècnica",
+            "Una demostració, prova de concepte, avaluació o escaneig requereix l’equip qualificat del client, abast, requisits, tractament de dades i autorització acordats. No inventis una auditoria gratuïta ni demanis credencials per prospecció freda."
+          ]
+        ]
+      },
+      {
+        "id": "cy-worked-account",
+        "title": "Examina un compte per a un producte d’identitat",
+        "p": [
+          "Aquesta situació fictícia original mostra la decisió de recerca abans del missatge. No descriu cap empresa ni campanya real."
+        ],
+        "dl": [
+          [
+            "Oferta i compte",
+            "Un proveïdor d’identitat té un mètode aprovat per parlar de responsabilitats sobre accessos no humans. L’equip d’enginyeria d’una empresa adequada publica una conversa sobre responsables de comptes de servei."
+          ],
+          [
+            "Prova i connexió",
+            "El tema és públic i actual. Permet preguntar per responsabilitats i revisió, no afirmar que els comptes estiguin sense gestionar, hi hagi hagut una bretxa o calgui un producte."
+          ],
+          [
+            "Mapa de compra",
+            "Investiga el responsable d’identitat o seguretat i qui porta el procés d’enginyeria. El CISO pot patrocinar la conversa; qui gestiona el procés pot ser el millor primer contacte."
+          ],
+          [
+            "Desconeguts i exclusió",
+            "Compatibilitat, controls, proveïdor, pressupost i terminis continuen sense confirmar. Deixa en espera un compte que requereixi una plataforma no admesa; no omplis el buit amb una suposició d’una eina."
+          ],
+          [
+            "Primera decisió útil",
+            "Pregunta si es revisa el mapa de responsabilitats i si ajudaria un esquema de planificació. Si hi ha interès, implica el responsable tècnic abans de prometre una avaluació."
+          ]
+        ]
+      },
+      {
+        "id": "cy-service-account",
+        "title": "Planteja una altra pregunta per a un servei de seguretat gestionada",
+        "p": [
+          "Un proveïdor fictici de serveis de seguretat gestionats (MSSP) cobreix un territori i entorn definits. Una empresa d’aquella zona anuncia una expansió. El proveïdor encara desconeix equip, cobertura, proveïdors i interès per canviar."
+        ],
+        "dl": [
+          [
+            "Pregunta plausible",
+            "Qui porta la cobertura de seguretat durant l’expansió i es considera suport extern complementari? No insinuïs que l’equip o proveïdor actual falla."
+          ],
+          [
+            "Què canvia la via",
+            "Un responsable intern confirma interès en un model cogestionat. Inclou-lo amb el comercial tècnic del client en una conversa delimitada sobre responsabilitats i cobertura admesa."
+          ],
+          [
+            "Què l’atura",
+            "El comprador necessita un servei, ubicació, compromís de resposta o plataforma que no es pot cobrir, o diu que no es planteja una revisió externa. Deixa en espera o exclou; no prometis capacitats per salvar la reserva."
+          ],
+          [
+            "Una situació diferent",
+            "Algú comunica un incident actiu. Atura la seqüència i utilitza la via urgent establerta pel client quan pertoqui. No converteixis la urgència en una consulta comercial ni demanis registres de l’incident, credencials o detalls d’explotació."
+          ]
+        ],
+        "links": [
+          [
+            "/industries/it-services-lead-generation/",
+            "Comparar la compra de serveis informàtics generals"
+          ]
+        ]
+      },
+      {
+        "id": "relevant-beespoke-evidence",
+        "title": "Dona al comprador proves que pugui examinar",
+        "p": [
+          "Prometre que s’evitaran totes les bretxes no és un dossier útil. Mostra ús pertinent, contribució, entorn admès, requisits, període, denominador i límits. Separa capacitat de producte, resultat d’avaluació i resultat del client.",
+          "L’equip qualificat del client aprova el sentit tècnic i aporta les proves adequades. La prospecció no ha de certificar arquitectures, garantir conformitat ni inventar respostes de seguretat per obtenir una reunió."
+        ],
+        "ul": [
+          "Comprova vigència i abast de certificacions, aliances i permisos de clients.",
+          "Fes servir un cas autoritzat amb període i definició de resultats; distingeix l’aportació del proveïdor, client i altres socis.",
+          "Mostra documentació aprovada, condicions d’implantació i accés i qui respondrà objeccions tècniques.",
+          "Explica què acredita una demostració i què no. Identifica els exemples ficticis com a tals.",
+          "Retira combinacions de client, ubicació, mida, comprador i campanya que permetin identificar algú, llevat d’autorització pública específica.",
+          "No facis servir credencials filtrades, escaneigs no sol·licitats, incidents suposats ni terminis legals sense verificar com a motiu de contacte."
+        ],
+        "after": [
+          "El cas històric de Beespoke enllaçat per separat descriu execució a LinkedIn i gestió humana de respostes. El registre públic és limitat i anonimitzat; no és una referència ni previsió actual de reunions."
+        ],
+        "links": [
+          [
+            "/case-studies/cybersecurity-linkedin-lead-generation/",
+            "Llegir el cas històric anonimitzat"
+          ]
+        ]
+      },
+      {
+        "id": "cy-outreach-examples",
+        "title": "Escriu una pregunta concreta sense recórrer a la por",
+        "p": [
+          "Aquests missatges ficticis originals representen el proveïdor de seguretat o MSSP, no Beespoke prestant ciberseguretat. Fes servir fets o capacitats només si són certs per al remitent. Correu i LinkedIn són alternatives, no enviaments simultanis a una mateixa persona."
+        ],
+        "samples": [
+          [
+            "Correu de producte: un procés públic",
+            "Assumpte: Responsables de comptes de servei\n\nHola, [nom],\n\nLa nota del vostre equip sobre assignar responsables als comptes de servei em va fer pensar: aquesta revisió es queda a enginyeria o també hi participa identitat?\n\nTreballem amb equips per definir responsables i revisions. Et puc enviar un esquema breu de les preguntes que aclariríem primer. Abans de dir si el nostre producte encaixa hauríem de conèixer el vostre entorn.\n\nUs ajudaria aquest esquema o ja està resolta l’assignació?",
+            "Parteix d’un tema públic real i proposa un pas limitat. Deixa espai per a controls existents i per a l’absència de projecte. No inventa credencials exposades, auditories fallides, renovacions ni estalvis."
+          ],
+          [
+            "Un segon missatge curt",
+            "Hola, [nom], us serviria l’esquema sobre responsabilitats o ja està coberta aquesta feina?",
+            "Il·lustra l’obertura i el seguiment breu habituals de Beespoke, aproximadament quatre dies després. El context mana; resposta, negativa o preferència tenen prioritat."
+          ],
+          [
+            "LinkedIn: una conversa professional pertinent",
+            "Hola, [nom], té sentit el que comentaves sobre fer pràctiques les revisions d’accés per a enginyeria. Qui sol portar el traspàs entre enginyeria i identitat? Treballem sobre aquesta responsabilitat. Si et serveix, et puc explicar l’enfocament.",
+            "Fes servir la conversa pública només si va passar. Un interès professional, esdeveniment o lloc realment compartit també poden ser pertinents; no fingeixis conèixer algú ni converteixis la seva opinió pública en necessitat de compra."
+          ],
+          [
+            "Correu de servei: cobertura complementària",
+            "Assumpte: Cobertura de seguretat durant l’expansió\n\nHola, [nom],\n\nLa notícia de l’expansió em va fer pensar en qui coordina la cobertura de seguretat. Es quedarà a l’equip intern o tindria sentit considerar suport extern complementari?\n\nPrestem seguretat gestionada en un entorn i territori definits. La primera conversa tractaria responsabilitats i cobertura; no seria una avaluació de les vostres defenses.\n\nSeria pertinent o l’expansió ja està coberta?",
+            "Són un altre compte i un altre servei. Els límits han de ser reals; no s’insinua un proveïdor inadequat, capacitat permanent ni permís per provar sistemes."
+          ]
+        ],
+        "after": [
+          "Llegeix el missatge en veu alta. Retira elogis intercanviables, afirmacions buides i urgència inventada. La IA pot ajudar amb l’esborrany, però algú ha de verificar fets, sentit tècnic i to. Una llista de frases prohibides no detecta la IA de manera fiable; «he vist» no és el problema quan l’observació és real i pertinent."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar el mètode complet de redacció"
+          ],
+          [
+            "/guides/linkedin-prospecting-messages/",
+            "Revisar les decisions de missatges a LinkedIn"
+          ]
+        ]
+      },
+      {
+        "id": "cy-reply-routing",
+        "title": "Deixa que la resposta determini el pas següent",
+        "p": [
+          "Un cicle llarg no justifica continuar enviant missatges freds. Sense resposta al primer canal, reavalua una altra via apropiada. Mantén historial, exclusions i responsable comuns. El seguiment posterior ha de reflectir interès i terminis acordats; canviar de canal no ha d’esquivar una negativa."
+        ],
+        "dl": [
+          [
+            "«Envia’m l’esquema.»",
+            "Envia exactament el que has ofert i una pregunta petita sobre qui ho porta. Demanar material no és reservar una reunió."
+          ],
+          [
+            "«Ja tenim proveïdor o equip.»",
+            "Respecta-ho. Explora un paper complementari només si la resposta hi convida; no fabriquis insatisfacció ni esquivis el contacte."
+          ],
+          [
+            "«Com s’integra o compleix el requisit?»",
+            "Transmet la pregunta exacta al responsable tècnic qualificat del client. Digues què falta confirmar. No treguis garanties de seguretat, legals o d’implantació d’un guió comercial."
+          ],
+          [
+            "«Passa per compres» o «torna més endavant».",
+            "Segueix la via permesa i desa data i acció autoritzada. Pregunta si el contacte posterior és benvingut en lloc de donar-ho per fet."
+          ],
+          [
+            "Negativa o petició d’aturada",
+            "Tanca, desqualifica o bloqueja el contacte segons pertoqui i conserva el motiu entre canals. Una negativa no és èxit d’interacció."
+          ],
+          [
+            "Incident actiu o informació sensible",
+            "Pausa màrqueting i segueix el procediment d’escalat establert quan pertoqui. No demanis secrets o detalls tècnics d’un incident per correu normal, brífing de prospecció o formulari de reserva."
+          ]
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Planificar un seguiment moderat"
+          ]
+        ]
+      },
+      {
+        "id": "cy-qualified-meeting",
+        "title": "Acorda què fa útil una reunió abans de reservar-la",
+        "p": [
+          "Escriu els criteris amb els responsables comercials i tècnics. Confirma encaix de compte i servei, territori, funció pertinent, tema o iniciativa reconeguts, interès i pas següent creïble. Un càrrec sènior o invitació acceptada no són suficients.",
+          "Pressupost, autoritat, proveïdor o termini desconeguts han de continuar així. Una exploració inicial no ha de semblar una licitació aprovada, però el comercial tècnic ha d’entendre per què val la pena conversar."
+        ],
+        "cards": [
+          [
+            "A punt per a la conversa adequada",
+            "El compte encaixa, el participant comprèn i accepta el propòsit i el client disposa de l’expert adequat. Anota preguntes obertes i la decisió que ajudarà a prendre la reunió."
+          ],
+          [
+            "En espera o per desenvolupar",
+            "Hi pot haver encaix, però falten requisit, responsable, interès o data. Assigna recerca o contacte posterior acordat; no ho comptis com a oportunitat acceptada."
+          ],
+          [
+            "Excloure o aturar",
+            "No es pot complir un requisit conegut, el compte està prohibit o la persona rebutja. Conserva el motiu en lloc de buscar un comprador o definició més convenient."
+          ]
+        ],
+        "links": [
+          [
+            "/services/b2b-appointment-setting/",
+            "Definir qualificació i responsabilitats"
+          ]
+        ]
+      },
+      {
+        "id": "cy-handoff",
+        "title": "Lliura un registre útil al comercial tècnic",
+        "p": [
+          "Aquest registre fictici completat segueix el cas d’identitat. Fes servir marcadors en exemples didàctics i transfereix només el context necessari mitjançant sistemes aprovats."
+        ],
+        "dl": [
+          [
+            "Motiu i font",
+            "Conversa pública datada d’enginyeria sobre responsabilitats de comptes de servei. No s’afirma cap incident, fallada de control ni termini legal."
+          ],
+          [
+            "Interès confirmat",
+            "El responsable del procés diu que al líder d’identitat li serviria parlar de planificació de responsabilitats i accepta aquest propòsit."
+          ],
+          [
+            "Encaix i preguntes obertes",
+            "Ús i segment encaixen en l’abast declarat. Sistemes reals, integracions i calendari d’avaluació continuen sense confirmar."
+          ],
+          [
+            "Expert següent i límits",
+            "El comercial tècnic del client porta compatibilitat i exploració de necessitats. No s’ha fet cap avaluació, declaració de conformitat, triatge d’incidents ni garantia de seguretat."
+          ],
+          [
+            "Reserva i atribució",
+            "El sistema aprovat desa ID original, data de creació, origen d’adquisició o campanya, pàgina d’entrada observada si existeix i propòsit. Els canvis de data es vinculen a l’esdeveniment original."
+          ],
+          [
+            "Retorn i responsable següent",
+            "Vendes del client confirma realització, qualificació i acceptació o motiu de rebuig, i retorna el resultat a recerca i missatges."
+          ]
+        ],
+        "ol": [
+          "Confirma propòsit i assistents mitjançant el calendari aprovat. Un clic no és una reserva completada.",
+          "Trasllada pregunta i promesa al CRM perquè el comprador no hagi de començar de zero.",
+          "Desa els registres tècnics sensibles en el procés autoritzat del client, no en un full de prospecció compartit.",
+          "El client conserva exploració de necessitats, avaluacions tècniques, solució, afirmacions de seguretat, propostes, compromisos i tancament."
+        ]
+      },
+      {
+        "id": "campaign-workflow",
+        "title": "Mesura una cohort coherent de compte a oportunitat",
+        "p": [
+          "Conserva el procés original: definir categoria i afirmació, identificar interlocutors, revisar comptes, alinear remitent i proves, gestionar respostes i reservar amb criteris escrits. Tanca el cicle amb el retorn de vendes.",
+          "Les xifres següents formen una cohort fictícia completament conciliada amb entrada i data de tall definides. No són percentatges esperats. Compta persones i empreses per separat; exportar contactes no permet preveure demanda."
+        ],
+        "headers": [
+          "Etapa",
+          "Xifra fictícia",
+          "Definició"
+        ],
+        "caption": "Una cohort fictícia de comptes",
+        "rows": [
+          [
+            "Comptes aprovats contactats",
+            "60",
+            "Compleixen la recerca; no són 60 compradors interessats"
+          ],
+          [
+            "Comptes amb conversa pertinent",
+            "8",
+            "Comptes amb resposta significativa, sense duplicats; no missatges automàtics, negatius o d’absència"
+          ],
+          [
+            "Reunions originals reservades",
+            "4",
+            "IDs originals; canviar la data no crea demanda nova"
+          ],
+          [
+            "Reunions fetes",
+            "3",
+            "Una reserva original no ha arribat a conversa feta en aquesta cohort conciliada"
+          ],
+          [
+            "Fetes i qualificades",
+            "2",
+            "Una reunió feta no ha complert els criteris"
+          ],
+          [
+            "Oportunitats acceptades per vendes",
+            "1",
+            "El client ha acceptat un pas comercial definit; no implica ingressos tancats"
+          ]
+        ],
+        "after": [
+          "Aquí, dues de tres reunions fetes compleixen els criteris i una de dues qualificades s’accepta com a oportunitat. És aritmètica fictícia, no referència de mercat. Separa resultats incomplets o desconeguts de zero.",
+          "No comparis registres de seminari web amb comptes contactats com si compartissin denominador. Separa cohorts d’adquisició i activitat mensual i respecta el cicle real abans d’avaluar oportunitats o clients.",
+          "Inclou costos complets d’adquisició. Cost per contacte, reserva, reunió feta i qualificada i adquisició completa del client són mesures diferents; una factura de campanya no és tot el cost.",
+          "Conserva per separat origen inicial, pàgina d’entrada observada, visites posteriors i explicació del comprador. Una reserva al web després de prospecció no és automàticament cerca orgànica. Exclou auditories i deixa visible l’atribució desconeguda."
+        ],
+        "links": [
+          [
+            "/guides/outbound-lead-generation-cost/",
+            "Revisar definicions de costos outbound"
+          ]
+        ]
+      },
+      {
+        "id": "cy-pilot-diagnostics",
+        "title": "Fes servir la prova per trobar el punt de bloqueig",
+        "p": [
+          "Acorda univers de comptes, exclusions, oferta, proves, permisos, responsable de resposta, capacitat tècnica i regles de revisió abans del llançament. Tria un segment viable en lloc d’extrapolar una base enorme. Un mercat petit pot necessitar treball per compte, no una seqüència més gran.",
+          "Revisa segons oferta i cicle real. Les primeres respostes proven pertinència; oportunitats i economia d’adquisició exigeixen resultats complets i madurs. Cap calendari fix o nombre d’impactes garanteix reunions."
+        ],
+        "headers": [
+          "Problema observat",
+          "Què cal revisar primer",
+          "Canvi útil"
+        ],
+        "caption": "Diagnòstic de campanya",
+        "rows": [
+          [
+            "Comptes o funcions equivocades",
+            "Ús, prestació, proves i responsabilitat de compra",
+            "Corregeix la recerca abans de reescriure tots els missatges"
+          ],
+          [
+            "Fallada de lliurament o manca d’accés creïble",
+            "Exactitud del contacte, configuració, activitat real i canal disponible",
+            "Arregla la causa comprovada en lloc de pujar volum"
+          ],
+          [
+            "Respostes pertinents estancades",
+            "Pregunta tècnica pendent, proposta confusa, agenda o traspàs",
+            "Assigna l’expert i aclareix la decisió següent"
+          ],
+          [
+            "Reunions fetes sense encaix",
+            "Fets confirmats abans de reservar i criteri escrit",
+            "Reforça el criteri que falta; no presentis agenda com a qualitat"
+          ],
+          [
+            "Converses qualificades que no avancen",
+            "Necessitats, proves, implantació, decisió i responsabilitat del client",
+            "Revisa la restricció real amb vendes i conserva resultats oberts o desconeguts"
+          ]
+        ]
+      },
+      {
+        "id": "when-we-would-not-recommend-this-service",
+        "title": "Identifica quan cal preparar, canviar de via o parar",
+        "p": [
+          "Prepara primer si la categoria és confusa, les proves no sostenen les afirmacions, falta capacitat de resposta o ningú pot portar una conversa tècnica informada. Canvia de canal si les persones no són actives o accessibles per la via proposada; no imposis LinkedIn a tots els mercats.",
+          "Una aliança especialitzada, recomanació, esdeveniment, contingut útil o programa telefònic amb abast separat poden encaixar millor. Atendre trucades entrants no és generar demanda nova. Un incident actiu pertany a un procés de resposta establert, no a l’embut normal de prospecció."
+        ],
+        "links": [
+          [
+            "/guides/b2b-lead-generation-audit/",
+            "Diagnosticar el bloqueig real de captació"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Demana al soci que mostri la feina darrere la promesa",
+        "p": [
+          "Conserva les cinc comprovacions originals: segmentació, proves, respostes tècniques, qualificació i disposició a recomanar un altre canal. Demana una decisió de recerca, una afirmació aprovada, una via de resposta i un traspàs completat; no només programari o reunions promeses."
+        ],
+        "headers": [
+          "Pregunta",
+          "Prova útil",
+          "Senyal d’alerta"
+        ],
+        "caption": "Comprovacions del proveïdor",
+        "rows": [
+          [
+            "Com segmentarà l’oferta?",
+            "Ús, context, grup de compra, proves i exclusions",
+            "Etiqueta de ciberseguretat i llista de càrrecs"
+          ],
+          [
+            "Què sosté les afirmacions?",
+            "Proves rellevants autoritzades amb abast i límits",
+            "Logos, urgència inventada o garantia de seguretat"
+          ],
+          [
+            "Qui contesta preguntes tècniques?",
+            "Procés de derivació i responsable qualificat del client",
+            "Un guió genèric que inventa garanties"
+          ],
+          [
+            "Què compta com a qualificat?",
+            "Definicions escrites d’encaix, funció, tema, interès i resultat",
+            "Comptar totes les reserves igual"
+          ],
+          [
+            "Quan triaria una altra via?",
+            "Raonament de canal i exclusió específic per compte",
+            "Un canal o nombre fix d’impactes per a tothom"
+          ],
+          [
+            "Quines dades i permisos hi intervenen?",
+            "Camps necessaris, procedència, autorització i traspàs clar",
+            "Llistes sense explicar, secrets al brífing o manca de regles comunes d’aturada"
+          ]
+        ],
+        "downloadTitle": "Obrir el brífing de campanya de ciberseguretat",
+        "downloadNote": "Llegeix les preguntes o descarrega el mateix CSV estàtic. No requereix correu, compte ni informació introduïda de prospectes. Conté preguntes de planificació i no envia respostes a Beespoke. No hi posis credencials, registres d’incidents ni detalls confidencials de sistemes.",
+        "downloadLabel": "Descarregar el brífing de campanya (CSV)",
+        "questions": [
+          [
+            "Oferta i comprador",
+            "Tractem un producte, servei gestionat, projecte o situació de canal?"
+          ],
+          [
+            "Proves del compte",
+            "Quin fet públic datat justifica investigar, què és hipòtesi i què falta saber?"
+          ],
+          [
+            "Exclusions",
+            "Quines restriccions de prestació, territori, proveïdor, compte o contacte obliguen a parar o esperar?"
+          ],
+          [
+            "Grup de compra",
+            "Qui porta resultat, procés, avaluació tècnica i aprovació?"
+          ],
+          [
+            "Proves i afirmacions",
+            "Què es pot sostenir, qui ho aprova i quines afirmacions tècniques o legals estan prohibides?"
+          ],
+          [
+            "Proposta següent",
+            "Què rep el comprador i què necessita expert qualificat o autorització a part?"
+          ],
+          [
+            "Canals i permisos",
+            "On és actiu o accessible, qui autoritza l’execució i com es conserva un historial únic?"
+          ],
+          [
+            "Respostes i escalat",
+            "Qui porta preguntes tècniques, terminis, compres, negatives i derivació urgent?"
+          ],
+          [
+            "Qualificació i traspàs",
+            "Què fa útil una reunió feta, quin calendari i CRM s’aproven i qui registra IDs originals i retorn?"
+          ],
+          [
+            "Mesura i capacitat",
+            "Quines dates de cohort, costos complets, resultats madurs, fonts i límits de prestació regeixen la revisió?"
+          ]
+        ]
+      },
+      {
+        "id": "cy-beespoke-scope",
+        "title": "On encaixa Beespoke i què conserva el teu equip",
+        "p": [
+          "Beespoke gestiona prospecció per correu fred i/o LinkedIn dirigida pel fundador per a ofertes B2B adequades. Investiguem empreses i persones, escrivim missatges individuals, executem amb autorització, tractem respostes, qualifiquem interès i facilitem reserves segons criteris acordats. El client aprova l’encaix i la veracitat de les afirmacions; els seus experts conserven exploració tècnica, avaluacions, solució, propostes i tancament.",
+          "Programari, dades i costos de tercers es cobren a part llevat d’inclusió escrita. Les trucades es pressuposten per mercat. El servei base no és un SDR a jornada completa, capacitat il·limitada, avaluació de ciberseguretat ni garantia de reunions o ingressos.",
+          "El fundador presta el servei en anglès, castellà, català i francès. No implica equip de teleoperadors nadius, totes les interfícies en quatre idiomes ni un centre local d’operacions de seguretat. La trucada d’encaix aclareix oferta, proves, restriccions, responsable i la prova útil més petita."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Veure el servei de correu fred"
+          ],
+          [
+            "/services/linkedin-lead-generation/",
+            "Veure prospecció a LinkedIn"
+          ],
+          [
+            "/pricing/",
+            "Consultar abast i preus actuals"
+          ],
+          [
+            "/guides/how-to-choose-an-outbound-lead-generation-agency/",
+            "Comparar responsabilitats d’una agència"
+          ]
+        ]
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Preguntes sobre generació de leads en ciberseguretat",
+        "faqs": [
+          [
+            "Com generen leads qualificats les empreses de ciberseguretat?",
+            "Connecten una oferta definida amb empreses adequades mitjançant prospecció pertinent, recomanacions, socis, esdeveniments, contingut útil i cerca. Verifica pregunta del comprador, encaix de prestació i pas següent. Separa llistes, registres i reserves de reunions fetes i qualificades i oportunitats acceptades per vendes."
+          ],
+          [
+            "Cal contactar el CISO, el director de TI o l’equip tècnic?",
+            "Tria segons l’ús i el compte real. Seguretat pot patrocinar mentre identitat, núvol, enginyeria, operacions, riscos o compres porta una altra part. Identifica el grup sense enviar el mateix a tothom ni esquivar una negativa."
+          ],
+          [
+            "Contractació, dades d’intenció o certificacions proven intenció de compra?",
+            "No. Justifiquen investigar, però no confirmen pressupost privat, incident, renovació, obligació legal ni disposició a reunir-se. Anota fet datat, hipòtesi i pregunta pendent i confirma la situació mitjançant una conversa apropiada."
+          ],
+          [
+            "Quin canal funciona millor per prospectar en ciberseguretat?",
+            "No n’hi ha un d’universal. Parteix d’activitat, accessibilitat i relació de la persona i coordina un historial entre vies adequades. Recomanacions, socis, correu, LinkedIn, esdeveniments i contingut aporten coses diferents; canviar de canal no ha d’eludir un rebuig."
+          ],
+          [
+            "Convé oferir una auditoria o escaneig gratuït?",
+            "Només ofereix una activitat que el proveïdor qualificat pugui prestar amb abast, requisits, dades i autorització acordats. Una conversa de planificació o brífing pot ser millor inici. No presentis un missatge no sol·licitat com a avaluació ni demanis credencials per obtenir una reunió."
+          ],
+          [
+            "Quants seguiments ha de tenir una seqüència?",
+            "Beespoke sol utilitzar una obertura i un segon missatge breu uns quatre dies després, segons el context. Resposta, negativa o preferència tenen prioritat. Un cicle llarg no justifica contacte repetit no desitjat; el seguiment posterior ha de reflectir interès i dates acordades."
+          ],
+          [
+            "Què fa qualificada una reunió de ciberseguretat?",
+            "Els criteris acordats cobreixen encaix de compte i prestació, funció pertinent, tema o iniciativa reconeguts, interès i pas següent creïble. Pressupost i terminis desconeguts continuen així. Separa reservades, fetes, fetes i qualificades i oportunitats acceptades; el client porta l’exploració tècnica i l’acceptació comercial."
+          ],
+          [
+            "Què pot respondre una agència sobre la solució de seguretat?",
+            "Pot fer servir material i afirmacions aprovats i derivar als experts qualificats del client. No ha d’inventar garanties de compatibilitat, conformitat, avaluació o resposta a incidents. Beespoke gestiona prospecció i facilita reserves; el client conserva avaluació tècnica, compromisos i tancament."
+          ]
+        ]
+      }
+    ]
+  },
+  "fr": {
+    "headerH1": "Génération de leads pour les fournisseurs et prestataires de cybersécurité",
+    "answer": "La génération de leads en cybersécurité relie une offre précise à des entreprises qui pourraient avoir une raison de l’évaluer. Commencez par le compte, la situation d’achat et les preuves, puis choisissez la personne et le canal pertinents. Une liste, un téléchargement ou une invitation acceptée ne constituent pas une opportunité qualifiée. Convenez des critères du rendez-vous et de la transmission technique avant le lancement, puis distinguez réservations, échanges tenus et qualifiés et opportunités acceptées par les commerciaux.",
+    "description": "Génération de leads pour les fournisseurs de cybersécurité et MSSP : comptes, acheteurs, messages, qualification et transmission technique. Brief en accès libre.",
+    "jump": "Examiner un compte de cybersécurité",
+    "dateLabel": "9 novembre 2026",
+    "fiction": "Les comptes, messages, fiches de transmission et chiffres de ce guide sont des exemples pédagogiques fictifs et originaux. Ils ne contiennent aucun dossier de client ou de prospect et ne représentent pas des résultats de Beespoke. Le cas historique accessible séparément est présenté comme tel.",
+    "sourceTitle": "Sources et méthode",
+    "sourceNote": "Sources examinées le 9 novembre 2026. Les textes cités ont nourri la comparaison. Les résultats, tarifs, échéances réglementaires, conversions, cycles commerciaux et délais de démarrage annoncés par les prestataires ne servent pas de références. Les études liées, ressources avec inscription et affirmations sur des produits externes n’ont pas été vérifiées indépendamment. L’ancien article d’UnboundB2B est daté de janvier 2020 ; il figure ici comme résultat observé, pas comme conseil actuel sur les outils. Un signal public ne prouve ni une situation de sécurité privée ni un projet d’achat.",
+    "baseProof": [
+      "Le cas historique de cybersécurité de Beespoke décrit une prospection ciblée sur LinkedIn et un traitement humain des réponses. C’est un récit opérationnel anonymisé, pas une prévision pour une autre offre ou un autre marché.",
+      "Examinez les critères de ciblage, l’exécution et les définitions des résultats. Le cas public ne fournit ni une cohorte d’acquisition complète et datée ni un rapprochement des opportunités ultérieures."
+    ],
+    "casePrivacy": {
+      "description": "Cas historique anonymisé de prospection LinkedIn auprès d’acheteurs de cybersécurité, présentant la campagne et les limites des résultats rendus publics.",
+      "answer": "Ce cas historique anonymisé décrit une prospection LinkedIn pour un fournisseur de cybersécurité. Il présente le ciblage des entreprises, les rôles pertinents, les profils d’expéditeur adaptés et le traitement humain des réponses. Les identifiants du client et les noms des entreprises acheteuses sont omis. Le récit public ne comprend ni une cohorte complète et datée ni des opportunités ultérieures rapprochées ; il ne permet donc pas d’établir un rythme habituel de rendez-vous ou de prévoir une autre campagne.",
+      "design": "Beespoke a organisé la prospection LinkedIn autour de comptes sélectionnés, de rôles pertinents, de messages crédibles et d’un suivi humain. Les profils d’expéditeur autorisés ont été utilisés d’une manière cohérente avec leurs fonctions professionnelles.",
+      "target": "Les comptes ciblés correspondaient aux critères d’entreprise et de situation d’achat convenus",
+      "result": "Le récit historique décrit des échanges et des rendez-vous avec des acheteurs seniors pertinents en cybersécurité. Les identifiants du client, les noms des entreprises acheteuses et les dossiers privés de campagne sont omis.",
+      "limits": "Le récit ne comprend ni période complète de mesure, ni identifiants de réservation d’origine, ni rapprochement de la présence effective, ni cohorte d’opportunités ultérieures. Il ne permet pas d’établir un rythme hebdomadaire habituel, de démontrer la définition d’échange tenu et qualifié du guide actuel ou de prévoir un autre marché. L’offre, les preuves, l’adéquation, la crédibilité de l’expéditeur et le calendrier restent à tester.",
+      "ledger": [
+        "Identités du client et des acheteurs omises",
+        "Récit qualitatif d’échanges pertinents",
+        "Sans cohorte complète datée ni vérification de présence"
+      ]
+    },
+    "sections": [
+      {
+        "id": "why-cybersecurity-outbound-is-unusually-difficult",
+        "title": "Partir d’une situation d’achat, pas d’une liste de RSSI",
+        "p": [
+          "Les responsables de sécurité reçoivent constamment des sollicitations. L’identité, la sécurité cloud, la détection managée, les tests et la gouvernance correspondent à des achats différents. Être responsable de l’un ne fait pas automatiquement de quelqu’un l’acheteur de tout produit étiqueté cybersécurité.",
+          "Ce guide s’adresse aux entreprises de sécurité qui veulent créer des échanges commerciaux B2B pertinents ou choisir un partenaire pour les y aider. Distinguez le problème d’acquisition du vendeur du problème technique que son offre résout. Beespoke gère la prospection ; il n’évalue pas les défenses du prospect et ne fournit pas la solution de sécurité."
+        ],
+        "headers": [
+          "Offre",
+          "Question d’achat possible",
+          "Personnes et limites de prestation"
+        ],
+        "caption": "Des situations d’achat distinctes",
+        "rows": [
+          [
+            "Produit d’identité ou d’accès",
+            "Qui porte les décisions, revues et intégrations d’accès pour un usage défini ?",
+            "Responsables identité ou sécurité, applications ou infrastructure et sponsor économique ; la compatibilité reste à confirmer."
+          ],
+          [
+            "Produit de sécurité cloud ou applicative",
+            "Comment une initiative de plateforme ou de développement annoncée est-elle évaluée ?",
+            "Sécurité cloud, ingénierie, responsables applicatifs et direction sécurité ; une offre d’emploi ne révèle pas l’environnement de production."
+          ],
+          [
+            "Sécurité managée, MSSP ou MDR",
+            "Une surveillance externe ou une prestation complémentaire serait-elle pertinente pour l’équipe existante ?",
+            "Opérations sécurité ou informatique, responsable de service et sponsor ; confirmer couverture, responsabilité de réponse et environnement pris en charge."
+          ],
+          [
+            "Projet de tests, d’assurance ou de gouvernance",
+            "Existe-t-il une évaluation définie, une exigence client ou une question de planification ?",
+            "Responsable technique ou risques, achats et spécialiste ; sans obligation légale supposée, conformité garantie ou test non sollicité."
+          ],
+          [
+            "Partenariat de distribution ou de recommandation",
+            "Un autre prestataire pourrait-il revendre, intégrer ou recommander le service ?",
+            "Responsable partenaires et interlocuteurs techniques et commerciaux habilités ; un partenaire n’est pas une opportunité de client final."
+          ],
+          [
+            "Incident actif ou réponse urgente",
+            "La personne cherche-t-elle un circuit d’assistance urgente déjà établi ?",
+            "Suivre la procédure documentée de réponse ou d’escalade du client, le cas échéant. Un appel de prospection ordinaire n’est pas une réponse à incident."
+          ]
+        ]
+      },
+      {
+        "id": "how-beespoke-defines-the-market",
+        "title": "Noter le fait, l’hypothèse et les inconnues",
+        "p": [
+          "Définissez la catégorie, l’usage, la situation de l’entreprise, la zone, le groupe d’achat, les exclusions et les preuves disponibles. Conservez le principe initial : « RSSI » est un titre, pas un profil client idéal. Le compte et la question rendent ce rôle pertinent.",
+          "Utilisez une source publique datée ou une déclaration réelle de l’acheteur. Un recrutement, nouveau dirigeant, rachat, billet technique ou projet annoncé peuvent justifier des recherches. Ils n’établissent pas à eux seuls un budget, une insatisfaction, un incident, une échéance contractuelle ou une volonté de rendez-vous. Une certification publique n’est pas un calendrier d’audit privé ; un secteur ne prouve pas l’application d’une règle précise."
+        ],
+        "dl": [
+          [
+            "Fait connu",
+            "Dans l’exemple fictif de produit, une équipe d’ingénierie parle publiquement d’attribuer des responsables aux comptes de service. Gardez la source et la date. C’est un sujet déclaré, pas une faiblesse découverte."
+          ],
+          [
+            "Hypothèse de recherche",
+            "Un fournisseur d’identité pourrait proposer un échange utile sur les responsabilités. Vérifiez sa compétence réelle et le propriétaire de ce processus avant de contacter le compte."
+          ],
+          [
+            "Informations inconnues",
+            "Contrôles, plateformes, prestataires, évaluations, budget, circuit de décision et projet d’achat. Ne transformez pas ces blancs en personnalisation affirmative."
+          ],
+          [
+            "Décision",
+            "Validez une question pertinente si le compte visible correspond. Mettez les preuves incertaines en attente et écartez incompatibilités, comptes interdits ou refus avant d’ajouter des contacts."
+          ]
+        ]
+      },
+      {
+        "id": "industry-fit-check",
+        "aliases": [
+          "industry-encaje-check",
+          "industry-encaix-check",
+          "industry-adéquation-check"
+        ],
+        "title": "Conserver les vérifications et retirer le score",
+        "p": [
+          "Les huit fondations initiales restent utiles. Ce sont des questions à résoudre avec des preuves, pas des conditions confirmées en cochant une case. Une note sur huit ne démontre pas une disposition à acheter."
+        ],
+        "ul": [
+          "La catégorie de sécurité et l’usage sont assez précis pour être expliqués.",
+          "Les comptes partagent un contexte pertinent et vérifiable.",
+          "Le groupe d’achat est identifié au-delà d’un titre senior.",
+          "Les affirmations disposent de preuves autorisées et examinables.",
+          "Les réponses peuvent être transmises à une personne qualifiée en sécurité.",
+          "Les critères du rendez-vous sont écrits et convenus.",
+          "Les exclusions protègent l’adéquation et les préférences de contact.",
+          "Un responsable technique a la capacité d’assurer la prochaine conversation."
+        ],
+        "cards": [
+          [
+            "Prêt pour un test ciblé",
+            "Offre, preuves, ciblage, autorisations d’expéditeur, responsable des réponses et définition du rendez-vous sont clairs. Testez la question ; ne déclarez pas le marché prêt à partir de cette liste."
+          ],
+          [
+            "Préparer d’abord",
+            "Il manque une affirmation étayée, une limite de prestation, un segment ou un responsable technique. Attribuez ce travail avant d’augmenter le volume."
+          ],
+          [
+            "Écarter ou arrêter",
+            "Le compte est interdit, une exigence ne peut pas être satisfaite ou la personne refuse. Un titre plus élevé ou un autre canal ne supprime pas la restriction."
+          ]
+        ]
+      },
+      {
+        "id": "cy-buying-group",
+        "title": "Donner à chaque rôle une raison différente de participer",
+        "p": [
+          "Le RSSI peut parrainer la décision sans porter tous les processus. Évaluateur technique, utilisateur opérationnel, finance et achats peuvent poser des questions différentes. Une même personne peut cumuler plusieurs rôles. Coordonnez le compte plutôt que d’envoyer le même discours à tous ou de contourner un refus explicite."
+        ],
+        "headers": [
+          "Rôle",
+          "Question à résoudre",
+          "Qui fournit les preuves"
+        ],
+        "caption": "Le groupe d’achat et ses questions",
+        "rows": [
+          [
+            "Responsable sécurité ou sponsor",
+            "Pourquoi traiter ce sujet, quelle priorité sert-il et qui devrait participer ?",
+            "La priorité exprimée par l’acheteur et les preuves pertinentes autorisées"
+          ],
+          [
+            "Évaluateur technique ou architecte",
+            "Quelles intégrations, dépendances, conditions d’accès et contraintes de déploiement s’appliquent ?",
+            "Le commercial technique qualifié du client, la documentation actuelle et la découverte convenue"
+          ],
+          [
+            "Responsable opérationnel ou utilisateur",
+            "Qui gérera le processus, étudiera les problèmes et conservera la responsabilité ?",
+            "Modèle opérationnel réel, prérequis et responsables du déploiement et du support"
+          ],
+          [
+            "Finance ou sponsor économique",
+            "Quels périmètre, effort et coût complet justifieraient de poursuivre l’évaluation ?",
+            "Hypothèses propres à l’acheteur et discussion commerciale honnête ; aucune économie inventée"
+          ],
+          [
+            "Risques, juridique ou achats",
+            "Quelles étapes d’assurance, de sélection fournisseur, de traitement des données et d’approbation sont requises ?",
+            "Documents approuvés du client et procédure autorisée par l’acheteur, pas une garantie tirée d’un script"
+          ]
+        ]
+      },
+      {
+        "id": "cy-channel-choice",
+        "title": "Choisir les canaux selon l’accessibilité et la confiance",
+        "p": [
+          "Commencez là où la personne est active ou raisonnablement joignable. LinkedIn peut montrer une discussion professionnelle pertinente ; l’email permet une explication réfléchie. Aucun des deux n’est universellement meilleur. Conservez un historique, des champs de source et des règles d’arrêt communs."
+        ],
+        "headers": [
+          "Canal",
+          "Contribution utile",
+          "Limite à respecter"
+        ],
+        "caption": "Canaux et limites",
+        "rows": [
+          [
+            "Email à froid et LinkedIn",
+            "Un premier échange documenté avec un acheteur professionnel adapté",
+            "Vérifier rôle, faits et autorisations. Choisir le bon canal de départ et éviter les propositions parallèles en double."
+          ],
+          [
+            "Recommandations et relations existantes",
+            "Une présentation pertinente par quelqu’un qui connaît réellement l’acheteur",
+            "Ne pas inventer de proximité ou d’aval, échanger des listes privées ou considérer une recommandation comme un droit d’insister."
+          ],
+          [
+            "Fournisseurs, MSP ou spécialistes partenaires",
+            "Une voie complémentaire définie vers des clients finaux ou acheteurs de canal",
+            "Vérifier relation, périmètre, responsabilité des comptes et conflits ; un badge ne crée pas une activité de vente conjointe."
+          ],
+          [
+            "Événements et communautés professionnelles",
+            "Une discussion, question éducative ou reprise de contact convenue",
+            "Distinguer participant, personne intéressée et acheteur demandant un rendez-vous. Respecter les attentes de suivi annoncées."
+          ],
+          [
+            "Contenu, recherche, pages de services et preuves",
+            "Aider à comprendre un usage, évaluer la prestation et examiner les preuves",
+            "Répondre à la vraie question d’évaluation. Visite, téléchargement ou citation par une IA ne sont pas des opportunités qualifiées."
+          ],
+          [
+            "Demande payante, éditoriale ou syndiquée",
+            "Atteindre une audience ou distribuer une ressource avec un résultat défini",
+            "Vérifier provenance, permissions, doublons, exclusions et transmission. Leads de contenu, appels entrants et nouveaux rendez-vous de prospection sont des services distincts."
+          ]
+        ]
+      },
+      {
+        "id": "cy-first-offer",
+        "title": "Rendre la prochaine étape utile sans la présenter comme un audit",
+        "p": [
+          "Adaptez l’offre à ce qui est réellement connu. Une question de planification peut justifier un échange ; elle ne justifie ni de recueillir des détails confidentiels ni de promettre qu’un test trouvera un problème."
+        ],
+        "cards": [
+          [
+            "Ressource éducative",
+            "Proposez le brief, l’explication ou le webinaire promis. Précisez ce qu’il couvre et les éventuelles données recueillies. Demander une information ne vaut pas accord pour un appel commercial."
+          ],
+          [
+            "Échange d’adéquation",
+            "Dites quelle décision sera explorée, qui devrait participer et ce qui sera clarifié. Gardez les conclusions techniques non étayées hors de l’invitation."
+          ],
+          [
+            "Évaluation technique",
+            "Une démo, preuve de concept, évaluation ou analyse technique nécessite l’équipe qualifiée du client, un périmètre, des prérequis, un traitement des données et une autorisation convenus. N’inventez pas d’audit gratuit et ne demandez pas d’identifiants par prospection à froid."
+          ]
+        ]
+      },
+      {
+        "id": "cy-worked-account",
+        "title": "Examiner un compte pour un produit d’identité",
+        "p": [
+          "Cette situation fictive originale montre la décision de recherche avant le message. Elle ne décrit aucune entreprise ou campagne réelle."
+        ],
+        "dl": [
+          [
+            "Offre et compte",
+            "Un fournisseur d’identité dispose d’une méthode approuvée pour discuter des responsabilités sur les accès non humains. L’équipe d’ingénierie d’une entreprise adaptée publie un échange sur l’attribution de responsables aux comptes de service."
+          ],
+          [
+            "Preuve et lien",
+            "Le sujet est public et récent. Il permet de poser une question sur les responsabilités et la revue, pas d’affirmer que les comptes sont abandonnés, qu’une compromission a eu lieu ou qu’un produit est nécessaire."
+          ],
+          [
+            "Carte d’achat",
+            "Identifiez le responsable identité ou sécurité et le propriétaire du processus d’ingénierie. Un RSSI peut parrainer la discussion ; la personne qui gère le processus peut être le meilleur premier contact."
+          ],
+          [
+            "Inconnues et exclusion",
+            "Compatibilité, contrôles, prestataire, budget et calendrier restent à confirmer. Mettez le compte en attente si la plateforme requise n’est pas prise en charge ; ne comblez pas le manque par une déduction d’outil."
+          ],
+          [
+            "Première décision utile",
+            "Demandez si la cartographie des responsabilités est en cours de revue et si un aperçu de la méthode aiderait. En cas d’intérêt, associez le responsable technique avant de promettre une évaluation."
+          ]
+        ]
+      },
+      {
+        "id": "cy-service-account",
+        "title": "Poser une autre question pour un service de sécurité managée",
+        "p": [
+          "Un prestataire fictif de services de sécurité managés (MSSP) couvre une zone et un environnement définis. Une entreprise de cette zone annonce une expansion. Le prestataire ignore encore son équipe, sa couverture, ses fournisseurs et son intérêt pour un changement."
+        ],
+        "dl": [
+          [
+            "Question plausible",
+            "Qui porte la réflexion sur la couverture de sécurité pendant l’expansion, et un renfort extérieur est-il envisagé ? Ne suggérez pas une défaillance de l’équipe ou du fournisseur actuel."
+          ],
+          [
+            "Ce qui change la suite",
+            "Un responsable interne confirme son intérêt pour une cogestion. Associez-le au commercial technique du client pour une discussion délimitée sur les responsabilités et la couverture prise en charge."
+          ],
+          [
+            "Ce qui l’arrête",
+            "L’acheteur demande un service, lieu, engagement de réponse ou plateforme que le prestataire ne couvre pas, ou indique qu’aucune revue externe n’est prévue. Mettez en attente ou écartez ; ne promettez pas une capacité pour sauver la réservation."
+          ],
+          [
+            "Une situation distincte",
+            "Quelqu’un décrit un incident actif. Arrêtez la séquence et utilisez le circuit urgent établi par le client, le cas échéant. Ne transformez pas l’urgence en consultation commerciale et ne demandez ni journaux d’incident, ni identifiants, ni détails d’exploitation."
+          ]
+        ],
+        "links": [
+          [
+            "/industries/it-services-lead-generation/",
+            "Comparer l’achat de services informatiques généraux"
+          ]
+        ]
+      },
+      {
+        "id": "relevant-beespoke-evidence",
+        "title": "Fournir des preuves que l’acheteur peut examiner",
+        "p": [
+          "Promettre d’empêcher toute compromission ne constitue pas un dossier de preuves utile. Présentez l’usage, la contribution du prestataire, l’environnement pris en charge, les prérequis, la période, le dénominateur et les limites. Distinguez capacité du produit, résultat d’évaluation et résultat client.",
+          "L’équipe qualifiée du client approuve le sens technique et apporte les preuves adaptées. La prospection ne doit pas certifier une architecture, garantir une conformité ou inventer une réponse de sécurité pour obtenir un rendez-vous."
+        ],
+        "ul": [
+          "Vérifiez la validité et le périmètre des certifications, statuts de partenaire et autorisations des clients.",
+          "Utilisez un cas autorisé avec sa période et sa définition des résultats ; distinguez les contributions du fournisseur, du client et des autres partenaires.",
+          "Montrez la documentation approuvée, les prérequis d’implémentation et d’accès et la personne qui répondra aux objections techniques.",
+          "Précisez ce qu’une démonstration peut établir et ce qu’elle ne peut pas établir. Identifiez explicitement les illustrations fictives.",
+          "Retirez les combinaisons de client, lieu, taille, acheteur et campagne qui permettent une identification, sauf autorisation publique précise.",
+          "N’utilisez pas d’identifiants divulgués, d’analyses non sollicitées, d’incidents supposés ou d’échéances légales non vérifiées comme motif de contact."
+        ],
+        "after": [
+          "Le cas historique de Beespoke accessible séparément décrit une exécution sur LinkedIn et un traitement humain des réponses. Son récit public est limité et anonymisé ; ce n’est ni une référence de performance ni une prévision actuelle de rendez-vous."
+        ],
+        "links": [
+          [
+            "/case-studies/cybersecurity-linkedin-lead-generation/",
+            "Lire le cas historique anonymisé"
+          ]
+        ]
+      },
+      {
+        "id": "cy-outreach-examples",
+        "title": "Poser une question précise sans jouer sur la peur",
+        "p": [
+          "Ces messages fictifs originaux représentent le fournisseur de sécurité ou MSSP, pas Beespoke fournissant de la cybersécurité. N’utilisez un fait ou une compétence que s’ils sont vrais pour l’expéditeur. Email et LinkedIn sont des voies alternatives, pas des envois simultanés à la même personne."
+        ],
+        "samples": [
+          [
+            "Email produit : un processus public",
+            "Objet : Responsables des comptes de service\n\nBonjour [prénom],\n\nLa note de votre équipe sur l’attribution de responsables aux comptes de service m’a fait penser à une question : cette revue reste-t-elle en ingénierie ou l’équipe identité y participe-t-elle aussi ?\n\nNous aidons les équipes à préciser ces responsabilités et les revues associées. Je peux vous envoyer un aperçu des questions que nous clarifierions en premier. Il faudrait comprendre votre environnement avant de dire si notre produit convient.\n\nCela vous aiderait-il, ou les responsabilités sont-elles déjà définies ?",
+            "Le message part d’un sujet public réel et propose une étape limitée. Il laisse place aux contrôles existants et à l’absence de projet. Il n’invente ni identifiants exposés, ni audit raté, ni renouvellement, ni économie."
+          ],
+          [
+            "Un deuxième message bref",
+            "Bonjour [prénom], cet aperçu sur les responsabilités vous serait-il utile, ou le sujet est-il déjà couvert ?",
+            "Cela illustre l’ouverture et la relance courte habituelles de Beespoke, environ quatre jours plus tard. Le contexte compte ; une réponse, un refus ou une préférence prime sur la séquence."
+          ],
+          [
+            "LinkedIn : un échange professionnel pertinent",
+            "Bonjour [prénom], votre remarque sur des revues d’accès utilisables par les ingénieurs m’a parlé. Qui porte généralement la transmission entre ingénierie et identité dans ce processus ? Nous travaillons sur cette répartition. Je peux vous expliquer notre démarche si cela vous aide.",
+            "N’utilisez cet échange public que s’il a eu lieu. Un intérêt professionnel, événement ou lieu réellement partagé peut aussi être pertinent ; ne simulez pas une relation et ne transformez pas une opinion publique en besoin d’achat."
+          ],
+          [
+            "Email service : une couverture complémentaire",
+            "Objet : Couverture de sécurité pendant l’expansion\n\nBonjour [prénom],\n\nL’annonce de l’expansion m’a fait me demander qui coordonne la réflexion sur la couverture de sécurité. Cela reste-t-il dans l’équipe interne, ou un renfort extérieur pourrait-il être pertinent ?\n\nNous fournissons des services de sécurité managés dans un environnement et une zone définis. Le premier échange porterait sur les responsabilités et la couverture, pas sur une évaluation de vos défenses.\n\nCe sujet serait-il utile à examiner, ou l’expansion est-elle déjà couverte ?",
+            "L’offre et le compte sont différents. Les limites doivent être vraies ; le message ne suggère ni fournisseur inadéquat, ni capacité permanente, ni autorisation de tester les systèmes."
+          ]
+        ],
+        "after": [
+          "Lisez le message à voix haute. Retirez les compliments interchangeables, affirmations creuses et urgences inventées. L’IA peut aider à rédiger, mais une personne doit vérifier faits, sens technique et naturel du ton. Une liste de phrases interdites n’est pas un détecteur fiable d’IA ; « j’ai vu » n’est pas le problème quand l’observation est réelle et pertinente."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Consulter la méthode complète de rédaction"
+          ],
+          [
+            "/guides/linkedin-prospecting-messages/",
+            "Examiner les choix de messages sur LinkedIn"
+          ]
+        ]
+      },
+      {
+        "id": "cy-reply-routing",
+        "title": "Laisser la réponse déterminer la suite",
+        "p": [
+          "Un cycle long ne justifie pas de multiplier les relances à froid. Sans réponse au premier canal, réévaluez une autre voie appropriée. Conservez historique, exclusions et responsable communs. Le suivi ultérieur doit refléter l’intérêt et le calendrier convenus ; changer de canal ne doit pas contourner un refus."
+        ],
+        "dl": [
+          [
+            "« Envoyez-moi l’aperçu. »",
+            "Envoyez exactement ce qui était proposé et une petite question sur le responsable. Demander un document ne revient pas à réserver un rendez-vous."
+          ],
+          [
+            "« Nous avons déjà un fournisseur ou une équipe. »",
+            "Respectez cette réponse. N’explorez un rôle complémentaire que si elle vous y invite ; ne fabriquez pas d’insatisfaction et ne contournez pas le contact."
+          ],
+          [
+            "« Comment cela s’intègre-t-il ou répond-il au besoin ? »",
+            "Transmettez la question exacte au responsable technique qualifié du client. Dites ce qui reste à confirmer. Ne tirez pas d’un script des garanties techniques, juridiques ou de sécurité."
+          ],
+          [
+            "« Passez par les achats » ou « revenez plus tard ».",
+            "Suivez la voie autorisée et consignez date et action permise. Vérifiez qu’un contact ultérieur est bienvenu au lieu de le présumer."
+          ],
+          [
+            "Refus ou demande d’arrêt",
+            "Clôturez, disqualifiez ou bloquez le contact selon le cas et conservez le motif sur tous les canaux. Un refus n’est pas un succès d’engagement."
+          ],
+          [
+            "Incident actif ou information sensible",
+            "Suspendez le marketing et suivez la procédure d’escalade établie, le cas échéant. Ne demandez pas de secrets ou de détails techniques d’incident par email ordinaire, brief de prospection ou formulaire de réservation."
+          ]
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Prévoir des relances mesurées"
+          ]
+        ]
+      },
+      {
+        "id": "cy-qualified-meeting",
+        "title": "Définir un rendez-vous utile avant de le réserver",
+        "p": [
+          "Écrivez les critères avec les responsables commerciaux et techniques. Confirmez adéquation du compte et du service, zone, rôle pertinent, sujet ou initiative reconnus, intérêt et prochaine étape crédible. Un titre senior ou une invitation acceptée ne suffisent pas.",
+          "Budget, autorité, prestataire ou calendrier inconnus doivent le rester. Une première exploration n’a pas besoin de ressembler à un appel d’offres approuvé, mais le commercial technique doit comprendre l’intérêt de l’échange."
+        ],
+        "cards": [
+          [
+            "Prêt pour le bon échange",
+            "Le compte correspond, le participant comprend et accepte le but et le client dispose du bon expert. Notez les questions ouvertes et la décision que la réunion doit aider à prendre."
+          ],
+          [
+            "À mettre en attente ou à approfondir",
+            "L’adéquation est possible, mais exigence, responsable, intérêt ou date restent à confirmer. Attribuez une recherche ou une reprise de contact convenue ; ne comptez pas une opportunité acceptée."
+          ],
+          [
+            "À écarter ou à arrêter",
+            "Une exigence connue ne peut pas être satisfaite, le compte est interdit ou la personne refuse. Conservez le motif au lieu de chercher un acheteur ou une définition plus commodes."
+          ]
+        ],
+        "links": [
+          [
+            "/services/b2b-appointment-setting/",
+            "Définir qualification et responsabilités"
+          ]
+        ]
+      },
+      {
+        "id": "cy-handoff",
+        "title": "Transmettre une fiche utile au commercial technique",
+        "p": [
+          "Cette fiche fictive remplie reprend la situation du produit d’identité. Utilisez des champs fictifs dans un exemple pédagogique et ne transférez que le contexte nécessaire par les systèmes approuvés."
+        ],
+        "dl": [
+          [
+            "Motif et source",
+            "Échange public daté de l’ingénierie sur les responsabilités des comptes de service. Aucun incident, contrôle défaillant ou délai légal affirmé."
+          ],
+          [
+            "Intérêt confirmé",
+            "Le propriétaire du processus indique qu’un échange de planification serait utile au responsable identité et en accepte le but."
+          ],
+          [
+            "Adéquation et questions ouvertes",
+            "Usage et segment correspondent au périmètre déclaré. Systèmes réels, intégrations et calendrier d’évaluation restent à confirmer."
+          ],
+          [
+            "Expert suivant et limites",
+            "Le commercial technique du client porte compatibilité et découverte. Aucune évaluation, déclaration de conformité, qualification d’incident ou garantie de sécurité n’a été donnée."
+          ],
+          [
+            "Réservation et attribution",
+            "Le système approuvé conserve identifiant d’origine, date de création, source d’acquisition ou de campagne, page d’entrée observée si disponible et but convenu. Les reports sont liés à l’événement d’origine."
+          ],
+          [
+            "Retour et responsable suivant",
+            "Le commercial du client confirme les statuts tenu, qualifié, accepté ou le motif de rejet, puis renvoie ce résultat aux recherches et messages."
+          ]
+        ],
+        "ol": [
+          "Confirmez le but et les participants dans l’agenda approuvé du client. Un clic n’est pas une réservation achevée.",
+          "Transmettez la question et la promesse au CRM pour que l’acheteur n’ait pas à tout reprendre.",
+          "Gardez les dossiers techniques sensibles dans le processus autorisé du client, pas dans un tableau de prospection partagé.",
+          "Le client conserve découverte, évaluations techniques, conception, affirmations de sécurité, propositions, engagements et conclusion de la vente."
+        ]
+      },
+      {
+        "id": "campaign-workflow",
+        "title": "Mesurer une cohorte cohérente du compte à l’opportunité",
+        "p": [
+          "Conservez le processus initial : définir catégorie et affirmation, identifier les parties prenantes, revoir les comptes, aligner expéditeur et preuves, traiter les réponses puis réserver selon des critères écrits. Fermez la boucle avec les retours commerciaux.",
+          "Les chiffres suivants décrivent une cohorte pédagogique fictive entièrement rapprochée, avec entrée et fin d’observation définies. Ce ne sont pas des taux attendus. Comptez personnes et comptes séparément ; un export de contacts ne prévoit pas la demande."
+        ],
+        "headers": [
+          "Étape",
+          "Nombre fictif",
+          "Définition"
+        ],
+        "caption": "Une cohorte fictive de comptes",
+        "rows": [
+          [
+            "Comptes approuvés contactés",
+            "60",
+            "Comptes conformes aux critères de recherche, pas 60 acheteurs intéressés"
+          ],
+          [
+            "Comptes avec échange pertinent",
+            "8",
+            "Comptes ayant une réponse significative, dédupliqués ; pas les messages automatiques, refus ou absences"
+          ],
+          [
+            "Rendez-vous d’origine réservés",
+            "4",
+            "Identifiants d’origine ; un report ne crée pas une nouvelle demande"
+          ],
+          [
+            "Rendez-vous tenus",
+            "3",
+            "Une réservation n’a pas abouti à un échange tenu dans cette cohorte rapprochée"
+          ],
+          [
+            "Tenus et qualifiés",
+            "2",
+            "Un échange tenu ne remplissait pas les critères écrits"
+          ],
+          [
+            "Opportunités acceptées par les commerciaux",
+            "1",
+            "Le client accepte une étape commerciale définie ; aucun revenu conclu n’est supposé"
+          ]
+        ],
+        "after": [
+          "Ici, deux des trois rendez-vous tenus remplissent les critères et un des deux qualifiés devient une opportunité acceptée. Ces calculs sont fictifs, pas une référence de marché. Distinguez les résultats incomplets ou inconnus de zéro.",
+          "Ne comparez pas inscriptions à un webinaire et comptes contactés comme s’ils avaient le même dénominateur. Séparez cohortes d’acquisition et activité mensuelle et respectez le cycle réel avant d’évaluer opportunités ou clients.",
+          "Incluez les coûts complets d’acquisition. Coût par contact, réservation, rendez-vous tenu et qualifié et coût complet d’acquisition client sont des mesures différentes ; une facture de campagne seule n’est pas le coût total.",
+          "Gardez séparés source initiale, page d’entrée observée, visites ultérieures et explication de l’acheteur. Une réservation sur le site après prospection ne provient pas automatiquement du référencement naturel. Excluez les audits et conservez les attributions inconnues."
+        ],
+        "links": [
+          [
+            "/guides/outbound-lead-generation-cost/",
+            "Examiner les définitions des coûts de prospection"
+          ]
+        ]
+      },
+      {
+        "id": "cy-pilot-diagnostics",
+        "title": "Utiliser le test pour trouver le point de blocage",
+        "p": [
+          "Convenez des comptes disponibles, exclusions, offre, preuves, autorisations, responsable des réponses, capacité technique et règles de bilan avant de lancer. Choisissez un segment faisable plutôt que d’extrapoler une énorme base. Un petit marché peut demander un travail compte par compte, pas une séquence plus volumineuse.",
+          "Le bilan doit suivre l’offre et le cycle réels. Les premières réponses testent la pertinence ; opportunités et rentabilité exigent des résultats complets et mûrs. Aucun calendrier fixe ou nombre de sollicitations ne garantit des rendez-vous."
+        ],
+        "headers": [
+          "Problème observé",
+          "Premier point à examiner",
+          "Changement utile"
+        ],
+        "caption": "Diagnostic de campagne",
+        "rows": [
+          [
+            "Mauvais comptes ou rôles",
+            "Usage, prestation, preuves et responsabilité d’achat",
+            "Corriger les recherches avant de réécrire tous les messages"
+          ],
+          [
+            "Échec de livraison ou accès peu crédible",
+            "Exactitude du contact, configuration, activité réelle et canal disponible",
+            "Corriger la cause vérifiée au lieu d’augmenter le volume"
+          ],
+          [
+            "Réponses pertinentes qui stagnent",
+            "Question technique ouverte, offre floue, disponibilité ou transmission",
+            "Attribuer le bon expert et clarifier la décision suivante"
+          ],
+          [
+            "Rendez-vous tenus sans adéquation",
+            "Faits confirmés avant la réservation et critère écrit",
+            "Préciser le critère manquant ; ne pas présenter l’agenda comme de la qualité"
+          ],
+          [
+            "Échanges qualifiés qui ne progressent pas",
+            "Découverte, preuves, déploiement, décision et responsabilité du client",
+            "Examiner la contrainte réelle avec les commerciaux et garder les résultats ouverts ou inconnus"
+          ]
+        ]
+      },
+      {
+        "id": "when-we-would-not-recommend-this-service",
+        "title": "Savoir quand préparer, changer de voie ou arrêter",
+        "p": [
+          "Préparez d’abord si la catégorie est floue, les preuves ne soutiennent pas les affirmations, la capacité de réponse manque ou personne ne peut assurer une découverte technique informée. Changez de canal si les personnes n’y sont ni actives ni joignables ; n’imposez pas LinkedIn à tous les marchés.",
+          "Un partenariat spécialisé, une recommandation, un événement, un contenu utile ou un programme téléphonique au périmètre distinct peuvent mieux convenir. Répondre aux appels entrants n’est pas créer une nouvelle demande. Un incident actif relève d’un processus établi, pas de l’entonnoir ordinaire de prospection."
+        ],
+        "links": [
+          [
+            "/guides/b2b-lead-generation-audit/",
+            "Diagnostiquer le vrai blocage d’acquisition"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Demander au partenaire de montrer le travail derrière la promesse",
+        "p": [
+          "Conservez les cinq vérifications initiales : segmentation, preuves, réponses techniques, qualification et volonté de recommander un autre canal. Demandez une décision de recherche, une affirmation approuvée, un circuit de réponse et une fiche remplie ; pas seulement une liste d’outils ou un nombre de rendez-vous promis."
+        ],
+        "headers": [
+          "Question",
+          "Preuve utile",
+          "Signal d’alerte"
+        ],
+        "caption": "Vérifications du prestataire",
+        "rows": [
+          [
+            "Comment segmenterez-vous l’offre ?",
+            "Usage, contexte, groupe d’achat, preuves et exclusions",
+            "Étiquette cybersécurité et liste de titres"
+          ],
+          [
+            "Qu’est-ce qui étaye les affirmations ?",
+            "Preuves pertinentes autorisées, avec périmètre et limites",
+            "Logos, urgence inventée ou garantie de sécurité"
+          ],
+          [
+            "Qui répond aux questions techniques ?",
+            "Circuit de transmission et responsable qualifié du client",
+            "Script générique inventant des garanties"
+          ],
+          [
+            "Qu’est-ce qu’un échange qualifié ?",
+            "Définitions écrites d’adéquation, rôle, sujet, intérêt et résultat",
+            "Toutes les réservations comptées de la même manière"
+          ],
+          [
+            "Quand choisiriez-vous une autre voie ?",
+            "Raisonnement propre au compte sur le canal et les exclusions",
+            "Un canal ou nombre fixe de sollicitations pour tous"
+          ],
+          [
+            "Quelles données et autorisations interviennent ?",
+            "Champs nécessaires, provenance, autorisation et transmission claire",
+            "Listes inexpliquées, secrets dans le brief ou absence de règles d’arrêt communes"
+          ]
+        ],
+        "downloadTitle": "Ouvrir le brief de campagne de cybersécurité",
+        "downloadNote": "Lisez les questions ici ou téléchargez le même CSV statique. Aucun email, compte ou renseignement saisi sur un prospect n’est requis. Le fichier contient des questions de préparation et n’envoie aucune réponse à Beespoke. N’y inscrivez pas d’identifiants, journaux d’incident ou détails confidentiels de systèmes.",
+        "downloadLabel": "Télécharger le brief de campagne (CSV)",
+        "questions": [
+          [
+            "Offre et acheteur",
+            "S’agit-il d’un produit, service managé, projet ou partenariat de distribution ?"
+          ],
+          [
+            "Preuves du compte",
+            "Quel fait public daté justifie les recherches, qu’est-ce qui est hypothétique et que reste-t-il à savoir ?"
+          ],
+          [
+            "Exclusions",
+            "Quelles contraintes de prestation, zone, fournisseur, compte ou contact imposent d’arrêter ou d’attendre ?"
+          ],
+          [
+            "Groupe d’achat",
+            "Qui porte résultat, processus, évaluation technique et approbation ?"
+          ],
+          [
+            "Preuves et affirmations",
+            "Que peut-on étayer, qui le valide et quelles affirmations techniques ou juridiques sont interdites ?"
+          ],
+          [
+            "Prochaine étape proposée",
+            "Que reçoit l’acheteur et qu’est-ce qui exige un expert qualifié ou une autorisation distincte ?"
+          ],
+          [
+            "Canaux et permissions",
+            "Où la personne est-elle active ou joignable, qui autorise l’exécution et comment conserver un historique unique ?"
+          ],
+          [
+            "Réponses et escalade",
+            "Qui gère questions techniques, échéances, achats, refus et orientation urgente ?"
+          ],
+          [
+            "Qualification et transmission",
+            "Qu’est-ce qu’un échange tenu utile, quels agenda et CRM sont approuvés et qui consigne identifiants d’origine et retours ?"
+          ],
+          [
+            "Mesure et capacité",
+            "Quelles dates de cohorte, coûts complets, résultats mûrs, sources et limites de prestation guident le bilan ?"
+          ]
+        ]
+      },
+      {
+        "id": "cy-beespoke-scope",
+        "title": "Le rôle de Beespoke et les responsabilités de votre équipe",
+        "p": [
+          "Beespoke gère une prospection par email à froid et/ou LinkedIn, pilotée par son fondateur, pour des offres B2B adaptées. Nous recherchons comptes et personnes, écrivons des messages individuels, exécutons avec autorisation, traitons les réponses, qualifions l’intérêt et facilitons les réservations selon les critères convenus. Le client valide l’adéquation et l’exactitude des affirmations ; ses experts conservent découverte technique, évaluations, conception, propositions et conclusion de la vente.",
+          "Les logiciels, données et frais de tiers nécessaires sont distincts sauf inclusion écrite. Le téléphone est chiffré séparément selon le marché. Le service de base n’est ni un SDR dédié à plein temps, ni une capacité illimitée, ni une évaluation de cybersécurité, ni une garantie de rendez-vous ou de revenu.",
+          "Le fondateur assure la prestation en anglais, espagnol, catalan et français. Cela ne promet ni équipe de téléprospecteurs natifs, ni toutes les interfaces en quatre langues, ni centre local d’opérations de sécurité. Un échange d’adéquation doit préciser l’offre, les preuves, les contraintes, le responsable des réponses et le plus petit test utile."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Découvrir la prospection gérée par email"
+          ],
+          [
+            "/services/linkedin-lead-generation/",
+            "Découvrir la prospection LinkedIn"
+          ],
+          [
+            "/pricing/",
+            "Consulter le périmètre et les tarifs actuels"
+          ],
+          [
+            "/guides/how-to-choose-an-outbound-lead-generation-agency/",
+            "Comparer les responsabilités opérationnelles des agences"
+          ]
+        ]
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Questions sur la génération de leads en cybersécurité",
+        "faqs": [
+          [
+            "Comment les entreprises de cybersécurité génèrent-elles des leads qualifiés ?",
+            "Elles relient une offre définie à des comptes adaptés par la prospection pertinente, les recommandations, partenaires, événements ou contenus utiles et la recherche. Vérifiez question de l’acheteur, adéquation de prestation et prochaine étape. Distinguez listes, inscriptions et réservations des échanges tenus et qualifiés et des opportunités acceptées par les commerciaux."
+          ],
+          [
+            "Faut-il contacter le RSSI, le directeur informatique ou l’équipe technique ?",
+            "Choisissez selon l’usage et le compte réel. La sécurité peut parrainer la décision tandis qu’identité, cloud, ingénierie, opérations, risques ou achats porte un autre volet. Identifiez le groupe sans envoyer le même message à tous ni contourner un refus."
+          ],
+          [
+            "Recrutements, données d’intention ou certifications prouvent-ils une intention d’achat ?",
+            "Non. Ils peuvent justifier des recherches, mais ne confirment ni budget privé, incident, renouvellement fournisseur, obligation légale ou volonté de rendez-vous. Notez fait daté, hypothèse et question ouverte, puis confirmez la situation par un échange approprié."
+          ],
+          [
+            "Quel canal fonctionne le mieux pour prospecter en cybersécurité ?",
+            "Il n’existe pas de meilleur canal universel. Partez de l’activité, de l’accessibilité et de la relation de la personne et coordonnez un historique entre les voies adaptées. Recommandations, partenaires, email, LinkedIn, événements et contenu contribuent différemment ; changer de canal ne doit pas contourner un refus."
+          ],
+          [
+            "Faut-il proposer un audit ou une analyse de sécurité gratuits ?",
+            "Ne proposez qu’une activité que le prestataire qualifié peut assurer avec périmètre, prérequis, traitement des données et autorisation convenus. Un échange de planification ou un brief peut être un meilleur départ. Ne présentez jamais une sollicitation comme une évaluation et ne demandez pas d’identifiants pour obtenir un rendez-vous."
+          ],
+          [
+            "Combien de relances prévoir dans une séquence ?",
+            "Beespoke utilise généralement une ouverture et un deuxième message bref environ quatre jours plus tard, selon le contexte. Réponse, refus ou préférence priment. Un cycle long ne justifie pas des contacts répétés non souhaités ; le suivi ultérieur doit refléter intérêt et calendrier convenus."
+          ],
+          [
+            "Qu’est-ce qu’un rendez-vous de cybersécurité qualifié ?",
+            "Les critères convenus couvrent adéquation du compte et de la prestation, rôle pertinent, sujet ou initiative reconnus, intérêt et prochaine étape crédible. Budget et calendrier inconnus le restent. Distinguez réservations, échanges tenus, tenus et qualifiés et opportunités acceptées ; le client porte découverte technique et acceptation commerciale."
+          ],
+          [
+            "Que peut répondre une agence sur la solution de sécurité ?",
+            "Elle peut utiliser les affirmations et documents approuvés et transmettre les questions aux experts qualifiés du client. Elle ne doit pas inventer de garanties de compatibilité, conformité, évaluation ou réponse à incident. Beespoke gère la prospection et facilite les réservations ; le client conserve évaluation technique, engagements et conclusion de la vente."
+          ]
+        ]
+      }
+    ]
+  },
+  "date": "2026-11-09",
+  "revision": "2026-11-09T16:54:05+00:00"
+}
