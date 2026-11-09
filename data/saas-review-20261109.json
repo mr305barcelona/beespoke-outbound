@@ -1,0 +1,2238 @@
+{
+  "date": "2026-11-09",
+  "revision": "2026-11-09T14:33:21+00:00",
+  "en": {
+    "answer": "B2B SaaS lead generation connects suitable business accounts with a credible reason to evaluate your software. Start with the problem, buying group and sales motion; choose relevant email or LinkedIn outreach alongside the demand you already have. Agree what makes a demo useful, then measure held, qualified conversations and accepted opportunities separately from trial sign-ups and calendar bookings.",
+    "description": "B2B SaaS lead generation: choose account segments, qualify demos and plan email or LinkedIn outreach. Worked examples, acquisition economics and a campaign brief.",
+    "jump": "Work through a SaaS example",
+    "dateLabel": "November 9, 2026",
+    "fiction": "All situations, messages and reporting figures below are original fictional teaching examples. They contain no client or prospect records and are not Beespoke results.",
+    "sourceTitle": "Sources and methodology",
+    "sourceNote": "Reviewed November 9, 2026. These strategy articles and service pages informed the comparison. Their advertised results, prices, conversion rates and timelines are not used as benchmarks. The worked examples and decision tools are original illustrations; a tool result does not establish buying intent.",
+    "sections": [
+      {
+        "id": "saas-sales-motion",
+        "title": "Choose the sales motion before the channel",
+        "p": [
+          "The SaaS label does not tell you how people should buy. Choose the next action that helps a suitable buyer evaluate the product. A demo is useful when a conversation resolves something the buyer cannot reasonably work out alone."
+        ],
+        "cards": [
+          [
+            "Self-serve",
+            "When buyers can reach useful value themselves and the customer contribution is small, improve discovery, onboarding and activation first. High-touch outbound can cost more than the account supports. A trial sign-up is not a sales-qualified lead."
+          ],
+          [
+            "Sales-assisted",
+            "Product usage may reveal an account worth helping, but check company fit, the user's role and the unresolved need. An active free user is not automatically a budget owner. Coordinate the product and sales history before contacting them."
+          ],
+          [
+            "Sales-led or enterprise",
+            "A workflow change, integration, security review or buying committee may justify a tailored demo. Target a defined account problem and involve the right product expert. Do not force every visitor into a call."
+          ]
+        ]
+      },
+      {
+        "id": "saas-is-not-a-complete-icp",
+        "title": "Define a segment you can actually research",
+        "p": [
+          "Specify the workflow, company context, market, product prerequisites and people affected. Separate accounts you can serve today from an attractive market your product cannot yet support. Use your own customer learning with permission; do not treat a database category as proof of need."
+        ],
+        "headers": [
+          "Illustrative segment",
+          "Reason to investigate",
+          "Exclusion or unanswered question"
+        ],
+        "rows": [
+          [
+            "Multi-site operators evaluating scheduling software",
+            "A public operations discussion describes coordinating local teams",
+            "Can the product support their locations, permissions and existing systems? Exclude unsupported requirements."
+          ],
+          [
+            "Software teams evaluating developer tooling",
+            "A technical post describes a workflow the product genuinely addresses",
+            "Is the author a user, evaluator or sponsor? Public code or a job advert does not prove a procurement project."
+          ],
+          [
+            "Small teams using a self-serve productivity tool",
+            "Users can experience the core task without a sales process",
+            "If low contribution cannot fund personal prospecting, prioritize self-serve acquisition rather than selling a costly demo campaign."
+          ]
+        ]
+      },
+      {
+        "id": "saas-readiness",
+        "title": "Check readiness without inventing an intent score",
+        "aliases": [
+          "industry-fit-check",
+          "industry-encaje-check",
+          "industry-encaix-check",
+          "industry-adéquation-check"
+        ],
+        "p": [
+          "Keep the original eight readiness considerations, but use them to make a decision. Eight ticks cannot certify demand."
+        ],
+        "dl": [
+          [
+            "Can we explain and support the offer?",
+            "A narrow use case; relevant, authorized proof; an offer with paying customers. If these are missing, use founder-led learning and product work before commissioning a scaled campaign."
+          ],
+          [
+            "Can we reach a defensible market?",
+            "A sufficiently large account universe; mapped economic and technical buyers; written exclusions. If only a few suitable accounts remain, use individual account planning instead of increasing send volume."
+          ],
+          [
+            "Can we afford and handle the result?",
+            "Customer contribution that can support human acquisition; a sales owner able to respond and run discovery. If either is unknown, model the cost and ownership before approving the test."
+          ]
+        ]
+      },
+      {
+        "id": "map-the-full-buying-committee",
+        "title": "Map the people and the questions they need answered",
+        "p": [
+          "A job title is a starting point. Ask who experiences the problem, who can approve a change and who must validate it. One person can play several roles; do not contact an entire department simply because the account is attractive."
+        ],
+        "headers": [
+          "Role",
+          "Question to resolve",
+          "Useful next evidence"
+        ],
+        "rows": [
+          [
+            "User or operational owner",
+            "What task is difficult, and what would change in daily work?",
+            "A realistic workflow demonstration and adoption requirements"
+          ],
+          [
+            "Champion or economic sponsor",
+            "Why consider a change, who owns the decision and what would justify the effort?",
+            "A bounded value explanation using the buyer's own assumptions"
+          ],
+          [
+            "Technical, security or integration evaluator",
+            "What requirements must the product satisfy?",
+            "Current product documentation and answers from an authorized technical owner"
+          ],
+          [
+            "Finance, legal or procurement",
+            "What approval, supplier and commercial steps apply?",
+            "The client's actual terms and review process; never an outreach agent's invented assurance"
+          ]
+        ]
+      },
+      {
+        "id": "saas-signals",
+        "title": "Keep the public fact separate from the hypothesis",
+        "p": [
+          "Funding, hiring, a new market, product usage or a technology change can prompt research. None proves approved budget, dissatisfaction or permission to contact someone. Use only information and contact routes appropriate to the campaign."
+        ],
+        "dl": [
+          [
+            "Observed",
+            "A fictional operations leader publicly describes the difficulty of coordinating several locations. Record the source and date."
+          ],
+          [
+            "Hypothesized",
+            "Scheduling software might help. You still do not know their current system, constraints, timing or interest in changing."
+          ],
+          [
+            "Confirmed",
+            "The responsible person explains the actual workflow and agrees a relevant next step. Record their words accurately, including what remains unknown."
+          ]
+        ],
+        "after": [
+          "Personal context can also supply the reason to write: a relevant public post, a professional interest, an event or a genuine shared location. Connect it to the discussion naturally. Shared geography or a friendly reply is not evidence of a buying project."
+        ]
+      },
+      {
+        "id": "coordinate-outbound-with-existing-demand",
+        "title": "Use channels for different jobs",
+        "p": [
+          "Coordinate outreach, product activity, useful content and referrals around the same account history. You do not need every channel at once."
+        ],
+        "headers": [
+          "Route",
+          "Useful job",
+          "Condition or limit"
+        ],
+        "rows": [
+          [
+            "Cold email or LinkedIn",
+            "Start a specific conversation with a suitable person you can identify",
+            "Choose the channel where they are active or sensibly reachable. Check research and contact permissions; avoid simultaneous duplicate sequences."
+          ],
+          [
+            "Product-led or sales-assisted",
+            "Help suitable users evaluate a workflow or a larger deployment",
+            "Agree product signals, account ownership and appropriate contact rules. Usage alone does not establish budget or intent."
+          ],
+          [
+            "Search content and demonstrations",
+            "Answer a real evaluation, integration or use-case question",
+            "Match the next action to the question. A guide view or download is not a qualified demo."
+          ],
+          [
+            "Partners, referrals and communities",
+            "Reach a relevant audience through genuine expertise or an appropriate introduction",
+            "Respect the relationship and community rules. Do not exchange private customer lists or use communities as a message-scraping shortcut."
+          ],
+          [
+            "Paid acquisition, events or calling",
+            "Test a defined audience and offer where economics and capacity support it",
+            "Keep costs and outcome definitions explicit. Calling is a separate scope, not automatically part of an email/LinkedIn campaign."
+          ]
+        ]
+      },
+      {
+        "id": "saas-proof-and-setup",
+        "title": "Prepare the evidence and the people behind the campaign",
+        "p": [
+          "Buyers need enough substance to judge the software. A relevant demonstration is more useful than unsupported growth language. Before launch, agree who can answer each kind of question."
+        ],
+        "ul": [
+          "Prepare a short workflow demo, current prerequisites, implementation responsibilities and known product limits.",
+          "Use authorized proof with its starting situation, contribution, period and limits. If proof is confidential, use a clearly fictional demonstration rather than recognizable details with names removed.",
+          "Name the product or technical owner for integrations, security, data handling and roadmap questions. Do not promise an unverified feature or certification.",
+          "Approve target-account fit, exclusions, sender identity, messaging permissions and access boundaries. Assign the owner of contact-data checks and suppression records.",
+          "Agree who configures and checks the sending infrastructure, handles failures and monitors account health. Automation does not guarantee inbox placement or remove platform constraints.",
+          "Check existing customers, active opportunities, partners and previous declines before enrollment. Keep one contact history across channels."
+        ]
+      },
+      {
+        "id": "saas-worked-account",
+        "title": "Work through one account before scaling the list",
+        "p": [
+          "Consider a fictional scheduling-software provider selling to multi-site service businesses. Its product supports a defined set of workflows and integrations; that boundary matters more than the size of a prospect's brand."
+        ],
+        "dl": [
+          [
+            "Research",
+            "An operations leader has published a post about arranging cover between locations. The account appears to fit the supported market. Save that evidence; do not invent staff numbers, software spend or frustration."
+          ],
+          [
+            "Decision",
+            "Check whether the problem is within the product's documented capabilities. If a required integration is unsupported, park the account or ask the product owner before making a claim."
+          ],
+          [
+            "Conversation",
+            "Ask how the workflow is handled and whether a short, relevant example would be useful. Do not announce a transformation or an assumed saving."
+          ],
+          [
+            "Handoff",
+            "If the person confirms a relevant need and wants to evaluate it, agree who should join the demonstration. Carry the unresolved technical questions into the client's calendar and CRM."
+          ]
+        ]
+      },
+      {
+        "id": "saas-outreach-examples",
+        "title": "Write to the person and the situation",
+        "p": [
+          "The sender in these fictional examples represents the software provider. These are alternative approaches, not messages to send to the same person at the same time. Replace every premise with something true."
+        ],
+        "samples": [
+          [
+            "Email: explain the reason and one useful next step",
+            "Hi [first name],\n\nYour post about arranging cover between locations raised a practical question: does each site still have to find cover separately, or is there one place the operations team can see the gaps?\n\nWe make scheduling software for teams with several locations. One workflow we can show is how an operations lead reviews an uncovered shift before asking another site for help. Whether it fits would depend on your current setup and the systems it needs to connect to.\n\nWould a short walkthrough of that workflow be useful, or is this already covered?",
+            "The public point creates a specific question. The sender states the commercial purpose openly, describes an actual capability and leaves room for a non-fit answer. There is no invented pain, saving or claim to know the buyer's systems."
+          ],
+          [
+            "A brief second email",
+            "Hi [first name], would that walkthrough be useful, or is this already handled in your current system?",
+            "A short follow-up around four days later is an example of Beespoke's usual two-message approach, not a universal timetable. A reply, decline or contact preference overrides the sequence."
+          ],
+          [
+            "LinkedIn: an alternative when the person is active there",
+            "Hi [first name], your point about letting each location solve cover locally was interesting. How does the operations team keep sight of gaps that need help from another site? We build scheduling software for that sort of workflow. Happy to send a short example if useful.",
+            "The message joins an actual discussion and explains the product connection. A genuine shared event or relevant personal interest could also be the starting point; it must not be a fabricated familiarity tactic."
+          ]
+        ],
+        "after": [
+          "Read the message aloud and remove empty praise, generic growth promises and interchangeable observations. AI can help draft, but a person must verify the facts and meaning. Phrases such as “I saw” are not reliable AI detectors; specificity and accuracy matter more than banning a particular word."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Review the complete copywriting method"
+          ]
+        ]
+      },
+      {
+        "id": "saas-replies-and-follow-up",
+        "title": "Let the reply change the plan",
+        "p": [
+          "Choose the first channel from the person's activity and reachability. If email gets no response, reassess whether LinkedIn or a separately scoped call makes sense; do not automatically restart the same pitch everywhere. Keep the history and stop instructions shared."
+        ],
+        "dl": [
+          [
+            "“Send the example.”",
+            "Send the promised workflow and one useful question. An information request is not acceptance of a meeting or a sales opportunity."
+          ],
+          [
+            "“Does it connect to our system?”",
+            "Route the exact question to the product owner. Answer from current documentation; do not convert uncertainty into a promise."
+          ],
+          [
+            "“Not until our current review is finished.”",
+            "Ask whether a later check-in is welcome. Record the agreed timing and remove the person from immediate follow-ups."
+          ],
+          [
+            "“We have this covered.”",
+            "Respect that answer. Explore another need only if the person invites it; otherwise close the loop."
+          ],
+          [
+            "“No”, an unsupported requirement or a stop request",
+            "Stop or disqualify the affected route and keep the reason. Do not approach colleagues to circumvent a decline."
+          ]
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Plan a restrained follow-up"
+          ]
+        ]
+      },
+      {
+        "id": "saas-qualified-demo",
+        "title": "Agree what makes a demo qualified",
+        "p": [
+          "Use written acceptance criteria before launch. A booked slot, a product-qualified lead (PQL) and a sales-qualified lead (SQL) describe different things. Define those labels for your business instead of relying on a provider's score."
+        ],
+        "ul": [
+          "Account: the company fits the agreed market, exclusions and product prerequisites.",
+          "Person: the attendee has a relevant role; record whether they are a user, evaluator, sponsor or an introducer.",
+          "Need: a relevant workflow or evaluation question is confirmed. Keep unknown budget, authority and timing marked unknown.",
+          "Interest: the person understands what the conversation is about and agrees to it; a guide download or trial registration alone is insufficient.",
+          "Practical fit: record requirements that could block the sale and the expert needed to answer them.",
+          "Outcome: distinguish booked, held, held and qualified, and sales-accepted opportunity. A no-show cannot count as a held demo."
+        ]
+      },
+      {
+        "id": "saas-handoff",
+        "title": "Pass context into the client's calendar and CRM",
+        "ol": [
+          "Use the client's approved calendar link and confirm the agreed purpose and attendees. A calendar click is not a completed booking.",
+          "Keep the original booking/event ID and creation time. Link reschedules and cancellations to the original event rather than counting them as new demand.",
+          "Pass the account reason, source of interest, role, relevant conversation, unanswered questions and next owner through approved access only.",
+          "Have the client's sales owner record whether the call was held, qualified and accepted as an opportunity, with a reason for rejection or recycling.",
+          "Keep product discovery, tailored demos, proposals and closing with the client. Feed the agreed outcome back into targeting and messages; request only the access needed."
+        ]
+      },
+      {
+        "id": "saas-funnel",
+        "title": "Measure the same accounts through the same funnel",
+        "p": [
+          "This fictional cohort has had enough time for every listed outcome to be checked. It is an arithmetic illustration, not a benchmark or forecast. Count unique accounts and people separately; do not mix several contacts at one account into a new-customer total."
+        ],
+        "headers": [
+          "Stage",
+          "Fictional count",
+          "What the count establishes"
+        ],
+        "rows": [
+          [
+            "Approved accounts contacted",
+            "120",
+            "Accounts meeting the research criteria; not 120 interested buyers"
+          ],
+          [
+            "Original demo bookings",
+            "15",
+            "Deduplicated booking IDs; reschedules are linked, not new bookings"
+          ],
+          [
+            "Held demos",
+            "10",
+            "Five bookings did not become held demos in this reconciled cohort"
+          ],
+          [
+            "Held and qualified demos",
+            "8",
+            "Two held conversations failed the written qualification criteria"
+          ],
+          [
+            "Sales-accepted opportunities",
+            "5",
+            "The client's sales owner accepted a defined next step"
+          ],
+          [
+            "New paying customers",
+            "3",
+            "Three verified customer outcomes, not three predicted closes"
+          ]
+        ],
+        "after": [
+          "Held-to-qualified is 8 ÷ 10 = 80% in this fictional cohort; booked-to-held is 10 ÷ 15, about 67%. Neither is an expected conversion rate. Trial sign-ups and activated product accounts belong in their own defined funnel before joining an account-level report.",
+          "For real reporting, show cohort entry dates, observation cutoff, sales-cycle maturity and any unknown outcomes. Period activity can legitimately differ from cohort conversion: a customer closing this month may come from an earlier campaign.",
+          "Keep original acquisition source, observed website landing page, later visits and the buyer's own explanation separate. Outreach that leads to a website booking is not automatically organic search. Preserve unknown attribution; exclude audit visits and never treat a click, tool use or reschedule as a new lead."
+        ]
+      },
+      {
+        "id": "use-saas-economics-to-set-acquisition-limits",
+        "title": "Use contribution and complete costs to set the limit",
+        "p": [
+          "ACV, ARR, retention and customer acquisition cost (CAC) are useful only with explicit definitions. Revenue is not gross profit, and a campaign invoice is not fully loaded CAC."
+        ],
+        "dl": [
+          [
+            "Illustrative inputs",
+            "A fictional cohort costs 12,000 currency units in acquisition, including the agreed allocation of properly costed team time, tools, data and sales work. It produces three new paying customers and eight held, qualified demos."
+          ],
+          [
+            "Arithmetic",
+            "12,000 ÷ 8 = 1,500 per held, qualified demo. 12,000 ÷ 3 = 4,000 per new customer. If each customer's first-year revenue is 9,000 and the assumed gross margin is 80%, first-year gross profit is 7,200 before acquisition and other overhead."
+          ],
+          [
+            "Decision and limits",
+            "At 600 of assumed gross profit per month, recovering 4,000 would take about 6.7 months under flat revenue and margin assumptions. That is not a cash-flow, retention or payback forecast. Early churn, implementation costs, discounts and payment timing can change the decision. If costs or customer outcomes are incomplete, label the result incomplete."
+          ]
+        ],
+        "cost": true,
+        "after": [
+          "Use one currency and a consistent cohort. Do not borrow another company's LTV:CAC target or reply rate to justify your budget. A profitable-looking unit calculation does not prove enough suitable accounts exist."
+        ]
+      },
+      {
+        "id": "saas-pilot",
+        "title": "Use a small test to find the actual bottleneck",
+        "p": [
+          "Agree one segment, offer, owner, review window and decision rule before launch. Allow for your sales cycle; early replies do not establish customer acquisition economics. Pause on product, permission or account-health problems rather than trying to solve them with more contacts."
+        ],
+        "headers": [
+          "Observed problem",
+          "Investigate first",
+          "A sensible next change"
+        ],
+        "rows": [
+          [
+            "Accounts do not fit",
+            "Research criteria and exclusions",
+            "Narrow or correct the segment before rewriting messages"
+          ],
+          [
+            "Messages fail or reach the wrong person",
+            "Contact accuracy, sending setup and role ownership",
+            "Repair the verified cause; more volume is not a remedy"
+          ],
+          [
+            "Relevant replies do not become useful demos",
+            "Question asked, qualification, availability and handoff",
+            "Clarify the next step and unresolved requirement"
+          ],
+          [
+            "Qualified demos do not progress",
+            "Discovery notes, product fit, proof, decision process and sales ownership",
+            "Review with the client; change the actual constraint and keep cohort outcomes open"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Ask an agency to show the operating plan",
+        "p": [
+          "Ask for a sample account rationale, a message review, qualification rules and a handoff record. A long software list or a promised demo total cannot replace those artifacts."
+        ],
+        "downloadTitle": "Open the SaaS campaign brief",
+        "downloadNote": "Read the questions here or download the same static CSV. No email address is required. The optional cost check runs only in this page; its inputs are not saved or sent. The CSV contains planning questions, not your entered figures.",
+        "downloadLabel": "Download the campaign brief (CSV)",
+        "questions": [
+          [
+            "Sales motion",
+            "Which next action should the buyer take, and why?"
+          ],
+          [
+            "Segment",
+            "Which workflow, company context and market can we support?"
+          ],
+          [
+            "Evidence and exclusions",
+            "What proves relevance, what is unknown and what disqualifies the account?"
+          ],
+          [
+            "Buying group",
+            "Who uses, sponsors, validates and approves the change?"
+          ],
+          [
+            "Product proof",
+            "Which demonstration, documents and authorized outcomes can we show?"
+          ],
+          [
+            "Execution",
+            "Who approves the list, sender, access and message permissions?"
+          ],
+          [
+            "Replies and stop rules",
+            "Who handles technical questions, timing requests, declines and suppression?"
+          ],
+          [
+            "Qualified demo",
+            "What exact account, person, need, interest and fit criteria apply?"
+          ],
+          [
+            "Handoff and measurement",
+            "Which calendar, event ID, CRM owner, cohort and source fields will reconcile outcomes?"
+          ],
+          [
+            "Economics and review",
+            "Which complete costs, customer contribution, observation cutoff and test decision will we use?"
+          ]
+        ]
+      },
+      {
+        "id": "beespoke-s-scope-and-limits",
+        "title": "Where Beespoke fits",
+        "p": [
+          "Beespoke runs founder-led managed cold-email and/or LinkedIn campaigns for suitable B2B offers. We research accounts and people, write individual messages, execute with authorization, handle replies, qualify interest and facilitate bookings against agreed criteria. Your team approves target fit and supplies the product truth; it retains technical discovery, demos, proposals and closing.",
+          "We choose the first channel from the person's activity and reachability, usually use an opening and a brief follow-up, and coordinate subsequent contact rather than running competing sequences. Required software, data and third-party costs are separate unless included in written scope. Calling is separately quoted by market; the base service does not include a dedicated full-time SDR or a guaranteed meeting volume.",
+          "The founder supports delivery in English, Spanish, Catalan and French. That does not mean an unlimited native calling team or that every third-party tool has all four interfaces. A fit call should establish the offer, constraints, evidence and smallest defensible test."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Explore managed cold email"
+          ],
+          [
+            "/services/linkedin-lead-generation/",
+            "Explore LinkedIn prospecting"
+          ],
+          [
+            "/pricing/",
+            "Review current scope and pricing"
+          ],
+          [
+            "/guides/account-based-prospecting/",
+            "Plan individual target accounts"
+          ]
+        ]
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Questions about B2B SaaS lead generation",
+        "faqs": [
+          [
+            "Should every SaaS company use outbound?",
+            "No. It fits best when you can identify suitable accounts, explain a credible reason to evaluate the product and support human acquisition with customer contribution and sales capacity. A low-contribution self-serve offer or an unvalidated product may need a different next step."
+          ],
+          [
+            "Is a trial user a qualified sales lead?",
+            "Not automatically. Product use may help identify an account worth assisting, but company fit, role, relevant need and interest still matter. Define PQL and SQL criteria for your business and keep trial, demo and opportunity counts separate."
+          ],
+          [
+            "What makes a SaaS demo qualified?",
+            "Written criteria should cover the account, attendee role, relevant need, interest and product prerequisites, with unknowns kept visible. Report booked, held, held and qualified, and sales-accepted opportunity as separate stages."
+          ],
+          [
+            "How long does it take to judge a campaign?",
+            "There is no universal timetable. Set a review window around your account universe, reply handling and sales cycle. Early engagement can diagnose targeting or messaging; customer economics require complete costs and sufficiently mature outcomes."
+          ],
+          [
+            "Does Beespoke run product demonstrations and close deals?",
+            "Beespoke handles approved prospect research, messaging, reply handling, qualification and booking facilitation. The client's experts retain product and technical discovery, demonstrations, proposals and closing. Agree the exact handoff and feedback loop before launch."
+          ],
+          [
+            "Will a campaign brief or calculator prove buying intent?",
+            "No. They help structure a decision. A download, completed checklist or calculated ratio does not establish a prospect's need, budget or willingness to meet. This page's optional cost check is local and does not send or save entered figures."
+          ]
+        ]
+      }
+    ],
+    "cost": {
+      "title": "Optional: check acquisition cost per outcome",
+      "note": "Use complete acquisition costs in one currency and verified outcomes from the same sufficiently mature cohort. Leave an unknown count blank; enter zero only when zero is confirmed. Nothing entered here is sent or saved.",
+      "labels": [
+        "Complete acquisition cost",
+        "Held, qualified demos",
+        "New paying customers"
+      ],
+      "complete": "I have checked the cost coverage and that these outcomes belong to the same sufficiently mature cohort.",
+      "calculate": "Calculate",
+      "reset": "Clear figures",
+      "missingCost": "Enter the complete acquisition cost first.",
+      "invalidCost": "Enter a finite cost of zero or more.",
+      "invalidCount": "Use a whole count of zero or more, or leave an unknown count blank.",
+      "incomplete": "Check cost coverage and cohort maturity before interpreting the result.",
+      "unknown": "Unknown — count not supplied.",
+      "zero": "Not calculable — no verified outcomes.",
+      "unit": "currency units",
+      "callLabel": "Cost per held, qualified demo",
+      "clientLabel": "Acquisition cost per new paying customer",
+      "basis": "Arithmetic from your supplied figures, not a forecast or buying-intent score. Incomplete cost coverage is not fully loaded CAC."
+    }
+  },
+  "es": {
+    "answer": "La generación de leads B2B SaaS conecta empresas adecuadas con una razón creíble para evaluar tu software. Empieza por el problema, las personas que intervienen en la compra y el modelo de venta; combina el email o LinkedIn con la demanda que ya tienes. Define qué hace útil una demo y mide por separado las conversaciones celebradas y cualificadas, las oportunidades aceptadas, las altas de prueba y las reservas.",
+    "description": "Generación de leads B2B SaaS: segmentación, demos cualificadas y prospección por email o LinkedIn. Ejemplos, costes de adquisición y un brief de campaña.",
+    "jump": "Ver un ejemplo de prospección SaaS",
+    "dateLabel": "9 de noviembre de 2026",
+    "fiction": "Todas las situaciones, los mensajes y las cifras que aparecen a continuación son ejemplos didácticos ficticios y originales. No contienen datos de clientes ni de prospectos y no son resultados de Beespoke.",
+    "sourceTitle": "Fuentes y metodología",
+    "sourceNote": "Revisión del 9 de noviembre de 2026. Estos artículos y páginas de servicios sirvieron para la comparación. Sus resultados, precios, tasas de conversión y plazos anunciados no se utilizan como referencias de mercado. Los ejemplos y las herramientas son originales; un cálculo no demuestra intención de compra.",
+    "sections": [
+      {
+        "id": "saas-sales-motion",
+        "title": "Elige el modelo de venta antes que el canal",
+        "p": [
+          "La etiqueta SaaS no explica cómo deberían comprar tus clientes. El siguiente paso debe ayudar a una empresa adecuada a evaluar el producto. Una demo tiene sentido cuando permite resolver algo que el comprador no puede aclarar fácilmente por sí solo."
+        ],
+        "cards": [
+          [
+            "Autoservicio",
+            "Si el comprador puede obtener valor por su cuenta y la contribución de cada cliente es pequeña, mejora primero el descubrimiento, la incorporación y la activación. La prospección individual puede costar más de lo que permite la cuenta. Un alta de prueba no es un lead cualificado para ventas."
+          ],
+          [
+            "Venta asistida",
+            "El uso del producto puede señalar una cuenta a la que conviene ayudar. Aun así, comprueba el encaje de la empresa, la función del usuario y la necesidad pendiente. Un usuario activo de la versión gratuita no tiene por qué decidir el presupuesto. Coordina el historial del producto y de ventas antes de contactar."
+          ],
+          [
+            "Venta consultiva o a grandes empresas",
+            "Un cambio de procesos, una integración, una revisión de seguridad o un comité de compra pueden justificar una demo adaptada. Parte de un problema concreto e incorpora al experto de producto adecuado. No obligues a todos los visitantes a reservar una llamada."
+          ]
+        ]
+      },
+      {
+        "id": "saas-is-not-a-complete-icp",
+        "title": "Define un segmento que puedas investigar",
+        "p": [
+          "Concreta el proceso de trabajo, el contexto de la empresa, el mercado, los requisitos del producto y las personas afectadas. Separa las cuentas a las que puedes atender hoy de un mercado atractivo que tu producto todavía no cubre. Utiliza lo aprendido de tus clientes con permiso; una categoría de una base de datos no demuestra necesidad."
+        ],
+        "headers": [
+          "Segmento ilustrativo",
+          "Motivo para investigar",
+          "Exclusión o pregunta pendiente"
+        ],
+        "rows": [
+          [
+            "Operadores con varios centros que evalúan software de planificación de turnos",
+            "Una publicación de operaciones explica cómo coordinan equipos locales",
+            "¿El producto admite sus centros, permisos y sistemas? Excluye los requisitos que no puedes cubrir."
+          ],
+          [
+            "Equipos de software que evalúan herramientas para desarrolladores",
+            "Una publicación técnica describe un proceso que el producto resuelve de verdad",
+            "¿El autor es usuario, evaluador o patrocinador? Un repositorio público o una oferta de empleo no prueban que exista una compra en marcha."
+          ],
+          [
+            "Pequeños equipos que utilizan una herramienta de productividad de autoservicio",
+            "Los usuarios pueden probar la función principal sin un proceso comercial",
+            "Si la contribución no financia la prospección individual, prioriza el autoservicio en vez de vender una campaña costosa de demos."
+          ]
+        ]
+      },
+      {
+        "id": "saas-readiness",
+        "title": "Comprueba la preparación sin inventar una puntuación de intención",
+        "aliases": [
+          "industry-fit-check",
+          "industry-encaje-check",
+          "industry-encaix-check",
+          "industry-adéquation-check"
+        ],
+        "p": [
+          "Conserva los ocho criterios de preparación originales, pero úsalos para decidir. Ocho casillas marcadas no certifican que haya demanda."
+        ],
+        "dl": [
+          [
+            "¿Podemos explicar y respaldar la oferta?",
+            "Un caso de uso concreto; pruebas relevantes y autorizadas; una oferta con clientes de pago. Si falta esto, trabaja primero en el producto y en conversaciones de aprendizaje dirigidas por el fundador."
+          ],
+          [
+            "¿Podemos llegar a un mercado defendible?",
+            "Un universo suficiente de empresas; compradores económicos y técnicos identificados; exclusiones por escrito. Si quedan pocas cuentas adecuadas, planifica cada cuenta de forma individual en lugar de aumentar los envíos."
+          ],
+          [
+            "¿Podemos asumir el coste y atender las respuestas?",
+            "Una contribución por cliente que permita la adquisición asistida; un responsable comercial disponible para responder y hacer discovery. Si algo se desconoce, aclara los costes y las responsabilidades antes de aprobar la prueba."
+          ]
+        ]
+      },
+      {
+        "id": "map-the-full-buying-committee",
+        "title": "Identifica a las personas y las preguntas que deben resolver",
+        "p": [
+          "El cargo es un punto de partida. Averigua quién vive el problema, quién puede aprobar el cambio y quién debe validarlo. Una persona puede asumir varias funciones; una cuenta atractiva no justifica contactar a todo el departamento."
+        ],
+        "headers": [
+          "Función",
+          "Pregunta que resolver",
+          "Prueba útil para avanzar"
+        ],
+        "rows": [
+          [
+            "Usuario o responsable operativo",
+            "¿Qué tarea resulta difícil y qué cambiaría en el trabajo diario?",
+            "Una demostración realista del proceso y sus requisitos de adopción"
+          ],
+          [
+            "Promotor interno o responsable económico",
+            "¿Por qué plantearse un cambio, quién decide y qué justificaría el esfuerzo?",
+            "Una explicación del valor con límites claros y supuestos del propio comprador"
+          ],
+          [
+            "Evaluador técnico, de seguridad o de integración",
+            "¿Qué requisitos debe cumplir el producto?",
+            "Documentación actual y respuestas de un responsable técnico autorizado"
+          ],
+          [
+            "Finanzas, asesoría jurídica o compras",
+            "¿Qué aprobaciones, condiciones y pasos de contratación se exigen?",
+            "Las condiciones reales del cliente y su proceso de revisión; nunca garantías inventadas por quien hace la prospección"
+          ]
+        ]
+      },
+      {
+        "id": "saas-signals",
+        "title": "Separa el hecho público de la hipótesis comercial",
+        "p": [
+          "La financiación, la contratación, la entrada en un mercado, el uso del producto o un cambio tecnológico pueden motivar una investigación. Nada de eso demuestra presupuesto aprobado, insatisfacción o permiso para contactar. Utiliza información y vías de contacto apropiadas para la campaña."
+        ],
+        "dl": [
+          [
+            "Observado",
+            "Un responsable de operaciones ficticio publica las dificultades de coordinar varios centros. Guarda la fuente y la fecha."
+          ],
+          [
+            "Supuesto",
+            "Un software de turnos podría ayudar. Todavía desconoces su sistema, sus restricciones, sus plazos y su interés en cambiar."
+          ],
+          [
+            "Confirmado",
+            "La persona responsable explica el proceso real y acepta un siguiente paso pertinente. Registra fielmente lo que dice y lo que sigue sin saberse."
+          ]
+        ],
+        "after": [
+          "El motivo para escribir también puede ser personal: una publicación relevante, un interés profesional, un evento o una ubicación compartida de verdad. Conéctalo con naturalidad a la conversación. Vivir cerca o responder de forma amable no demuestra un proyecto de compra."
+        ]
+      },
+      {
+        "id": "coordinate-outbound-with-existing-demand",
+        "title": "Asigna una función a cada canal",
+        "p": [
+          "Coordina la prospección, el uso del producto, el contenido útil y las recomendaciones con un mismo historial de cuenta. No necesitas activar todos los canales a la vez."
+        ],
+        "headers": [
+          "Vía",
+          "Para qué sirve",
+          "Condición o límite"
+        ],
+        "rows": [
+          [
+            "Email frío o LinkedIn",
+            "Iniciar una conversación concreta con una persona adecuada que puedes identificar",
+            "Elige donde esté activa o sea razonable localizarla. Revisa la investigación y los permisos; evita secuencias duplicadas simultáneas."
+          ],
+          [
+            "Crecimiento impulsado por el producto o venta asistida",
+            "Ayudar a usuarios adecuados a evaluar un proceso o un despliegue mayor",
+            "Acuerda las señales de uso, la titularidad de la cuenta y las reglas de contacto. El uso no demuestra presupuesto ni intención."
+          ],
+          [
+            "Contenido de búsqueda y demostraciones",
+            "Responder una pregunta real sobre evaluación, integración o uso",
+            "Adapta el siguiente paso a la pregunta. Leer una guía o descargarla no equivale a una demo cualificada."
+          ],
+          [
+            "Socios, recomendaciones y comunidades",
+            "Llegar al público adecuado mediante experiencia real o una presentación pertinente",
+            "Respeta la relación y las normas de la comunidad. No intercambies listas privadas ni extraigas contactos de comunidades como atajo."
+          ],
+          [
+            "Publicidad, eventos o llamadas",
+            "Probar una audiencia y una oferta definidas si los costes y la capacidad lo permiten",
+            "Explicita costes y resultados. Las llamadas tienen un alcance separado; no se incluyen automáticamente en una campaña de email o LinkedIn."
+          ]
+        ]
+      },
+      {
+        "id": "saas-proof-and-setup",
+        "title": "Prepara las pruebas y a las personas que respaldan la campaña",
+        "p": [
+          "El comprador necesita información suficiente para juzgar el software. Una demostración pertinente aporta más que promesas de crecimiento sin respaldo. Antes del lanzamiento, acuerda quién puede contestar cada tipo de pregunta."
+        ],
+        "ul": [
+          "Prepara una breve demo del proceso, requisitos actuales, responsabilidades de implantación y limitaciones conocidas.",
+          "Utiliza pruebas autorizadas con su situación inicial, contribución, periodo y límites. Si son confidenciales, crea una demostración claramente ficticia; quitar los nombres no basta si los detalles permiten identificar a alguien.",
+          "Asigna un responsable de producto o técnico para integraciones, seguridad, tratamiento de datos y hoja de ruta. No prometas funciones ni certificaciones sin verificar.",
+          "Aprueba el encaje de las cuentas, las exclusiones, la identidad del remitente, los permisos de mensajes y los límites de acceso. Asigna las comprobaciones de datos y los registros de exclusión.",
+          "Acuerda quién configura y revisa la infraestructura de envío, resuelve fallos y vigila el estado de las cuentas. Automatizar no garantiza llegar a la bandeja de entrada ni elimina los límites de las plataformas.",
+          "Comprueba clientes, oportunidades abiertas, socios y negativas anteriores antes de incluir a alguien. Mantén un historial común entre canales."
+        ]
+      },
+      {
+        "id": "saas-worked-account",
+        "title": "Trabaja una cuenta completa antes de ampliar la lista",
+        "p": [
+          "Imagina un proveedor ficticio de software de turnos para empresas de servicios con varios centros. Su producto admite unos procesos e integraciones concretos; ese límite importa más que el tamaño de la marca del prospecto."
+        ],
+        "dl": [
+          [
+            "Investigación",
+            "Un responsable de operaciones publica cómo organiza sustituciones entre centros. La cuenta parece encajar en el mercado admitido. Guarda la evidencia; no inventes plantilla, gasto en software ni frustración."
+          ],
+          [
+            "Decisión",
+            "Comprueba si el problema está dentro de las capacidades documentadas del producto. Si una integración necesaria no existe, aparca la cuenta o consulta al responsable de producto antes de afirmar nada."
+          ],
+          [
+            "Conversación",
+            "Pregunta cómo gestionan el proceso y si les serviría un ejemplo breve. No anuncies una transformación ni un ahorro supuesto."
+          ],
+          [
+            "Traspaso",
+            "Si la persona confirma una necesidad pertinente y quiere evaluarla, acordad quién debería asistir a la demo. Lleva las dudas técnicas pendientes al calendario y al CRM del cliente."
+          ]
+        ]
+      },
+      {
+        "id": "saas-outreach-examples",
+        "title": "Escribe para esa persona y esa situación",
+        "p": [
+          "En estos ejemplos ficticios, el remitente representa al proveedor del software. Son alternativas; no deben enviarse a la misma persona al mismo tiempo. Sustituye cada premisa por algo verdadero."
+        ],
+        "samples": [
+          [
+            "Email: un motivo concreto y un siguiente paso útil",
+            "Hola, [nombre]:\n\nTu publicación sobre las sustituciones entre centros me dejó una pregunta: ¿cada centro sigue buscando por su cuenta o el equipo de operaciones puede ver todos los turnos sin cubrir en un mismo lugar?\n\nDesarrollamos software de planificación para equipos con varios centros. Podemos mostrar cómo un responsable revisa un turno sin cubrir antes de pedir ayuda a otro centro. El encaje dependería de vuestra forma de trabajar y de los sistemas con los que habría que conectarlo.\n\n¿Te serviría una breve demostración de ese proceso o ya lo tenéis cubierto?",
+            "El hecho público da pie a una pregunta específica. El remitente explica abiertamente el motivo comercial, describe una capacidad real y permite que la respuesta sea que no encaja. No inventa dolor, ahorro ni conocimiento de los sistemas del comprador."
+          ],
+          [
+            "Un segundo email breve",
+            "Hola, [nombre], ¿te serviría esa demostración o ya lo resolvéis con vuestro sistema actual?",
+            "Un seguimiento breve unos cuatro días después ilustra el enfoque habitual de dos mensajes de Beespoke; no es un calendario universal. Una respuesta, una negativa o una preferencia de contacto tienen prioridad."
+          ],
+          [
+            "LinkedIn: una alternativa si la persona participa allí",
+            "Hola, [nombre], me interesó tu comentario sobre dejar que cada centro resuelva las sustituciones. ¿Cómo ve el equipo de operaciones los huecos que necesitan ayuda de otro centro? Desarrollamos software para ese tipo de coordinación. Si te sirve, puedo enviarte un ejemplo breve.",
+            "El mensaje participa en una conversación real y explica su relación con el producto. Un evento compartido o un interés personal pertinente también podrían iniciar el contacto; nunca una familiaridad inventada."
+          ]
+        ],
+        "after": [
+          "Lee el mensaje en voz alta y elimina los halagos vacíos, las promesas genéricas y las observaciones intercambiables. La IA puede ayudar a redactar, pero una persona debe comprobar los hechos y el sentido. «He visto» no es un detector fiable de IA; importan más la precisión y la naturalidad."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar el método de redacción completo"
+          ]
+        ]
+      },
+      {
+        "id": "saas-replies-and-follow-up",
+        "title": "Deja que la respuesta cambie el plan",
+        "p": [
+          "Elige el primer canal según la actividad de la persona y dónde resulte razonable localizarla. Si no responde al email, reconsidera si LinkedIn o una llamada con alcance separado tienen sentido; no reinicies automáticamente el mismo discurso en todas partes. Comparte el historial y las instrucciones de cese."
+        ],
+        "dl": [
+          [
+            "«Envíame el ejemplo».",
+            "Envía el proceso prometido y una pregunta útil. Pedir información no equivale a aceptar una reunión ni a crear una oportunidad."
+          ],
+          [
+            "«¿Se conecta a nuestro sistema?»",
+            "Lleva la pregunta exacta al responsable de producto. Responde con documentación actual, sin convertir la incertidumbre en una promesa."
+          ],
+          [
+            "«Hasta que terminemos la revisión, no».",
+            "Pregunta si quieren que retomes el contacto más adelante. Anota la fecha acordada y saca a esa persona del seguimiento inmediato."
+          ],
+          [
+            "«Ya lo tenemos cubierto».",
+            "Respeta la respuesta. Explora otra necesidad solo si la persona te invita; en caso contrario, cierra el contacto."
+          ],
+          [
+            "Una negativa, un requisito que no se cubre o una solicitud de cese",
+            "Detén esa vía o descarta la cuenta y conserva el motivo. No contactes con compañeros para eludir una negativa."
+          ]
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Planificar un seguimiento moderado"
+          ]
+        ]
+      },
+      {
+        "id": "saas-qualified-demo",
+        "title": "Acuerda qué significa una demo cualificada",
+        "p": [
+          "Define los criterios de aceptación por escrito antes de empezar. Una reserva, un lead cualificado por el producto (PQL) y un lead cualificado para ventas (SQL) son cosas distintas. Define esas etiquetas para tu negocio en lugar de depender de una puntuación del proveedor."
+        ],
+        "ul": [
+          "Empresa: encaja en el mercado, las exclusiones y los requisitos del producto acordados.",
+          "Persona: tiene una función pertinente; indica si es usuaria, evaluadora, patrocinadora o quien hace una presentación.",
+          "Necesidad: se ha confirmado un proceso o una pregunta de evaluación relevante. Mantén como desconocidos el presupuesto, la autoridad y los plazos que no se hayan aclarado.",
+          "Interés: entiende el propósito de la conversación y la acepta; una descarga o un alta de prueba no bastan.",
+          "Encaje práctico: registra los requisitos que podrían impedir la venta y quién debe responderlos.",
+          "Resultado: separa reservada, celebrada, celebrada y cualificada, y oportunidad aceptada por ventas. Una ausencia no cuenta como demo celebrada."
+        ]
+      },
+      {
+        "id": "saas-handoff",
+        "title": "Lleva el contexto al calendario y al CRM del cliente",
+        "ol": [
+          "Utiliza el enlace de calendario aprobado por el cliente y confirma propósito y asistentes. Un clic no demuestra que se haya completado una reserva.",
+          "Conserva el ID del evento o reserva original y su fecha de creación. Vincula cambios de fecha y cancelaciones al evento original; no los cuentes como demanda nueva.",
+          "Transfiere el motivo de selección, el origen del interés, la función de la persona, la conversación, las dudas y el siguiente responsable mediante accesos aprobados.",
+          "El responsable comercial del cliente debe registrar si la llamada se celebró, se cualificó y se aceptó como oportunidad, con el motivo de rechazo o de aplazamiento.",
+          "El cliente conserva el discovery de producto, las demos adaptadas, las propuestas y el cierre. Usa los resultados acordados para mejorar la selección y los mensajes; solicita solo el acceso necesario."
+        ]
+      },
+      {
+        "id": "saas-funnel",
+        "title": "Sigue las mismas cuentas por el mismo embudo",
+        "p": [
+          "Esta cohorte ficticia ha tenido tiempo suficiente para comprobar todos los resultados indicados. Es un ejemplo de cálculo, no una referencia ni una previsión. Cuenta empresas y personas por separado; varios contactos de una empresa no son varios clientes nuevos."
+        ],
+        "headers": [
+          "Etapa",
+          "Cifra ficticia",
+          "Qué demuestra"
+        ],
+        "rows": [
+          [
+            "Cuentas aprobadas contactadas",
+            "120",
+            "Cumplen los criterios de investigación; no son 120 compradores interesados"
+          ],
+          [
+            "Reservas originales de demos",
+            "15",
+            "IDs sin duplicados; los cambios de fecha no son reservas nuevas"
+          ],
+          [
+            "Demos celebradas",
+            "10",
+            "Cinco reservas no llegaron a celebrarse en esta cohorte conciliada"
+          ],
+          [
+            "Demos celebradas y cualificadas",
+            "8",
+            "Dos conversaciones celebradas no cumplieron los criterios escritos"
+          ],
+          [
+            "Oportunidades aceptadas por ventas",
+            "5",
+            "El responsable del cliente aceptó un siguiente paso definido"
+          ],
+          [
+            "Clientes nuevos de pago",
+            "3",
+            "Resultados comprobados; no tres cierres previstos"
+          ]
+        ],
+        "after": [
+          "En esta cohorte ficticia, 8 ÷ 10 = 80 % de las demos celebradas se cualifican; 10 ÷ 15, aproximadamente el 67 %, de las reservadas se celebran. No son tasas esperadas. Las altas de prueba y las cuentas activadas necesitan su propio embudo definido antes de incorporarse al informe por empresa.",
+          "En informes reales, muestra la fecha de entrada de la cohorte, la fecha de corte, la madurez del ciclo comercial y los resultados desconocidos. La actividad de un mes puede diferir de la conversión de una cohorte: un cliente que cierra hoy puede proceder de una campaña anterior.",
+          "Separa el origen de adquisición, la página de entrada observada, las visitas posteriores y la explicación del comprador. Una reserva en la web tras prospección no es automáticamente tráfico orgánico. Conserva la atribución desconocida y excluye las visitas de auditoría. Un clic, un uso de la herramienta o un cambio de fecha no son un lead nuevo."
+        ]
+      },
+      {
+        "id": "use-saas-economics-to-set-acquisition-limits",
+        "title": "Fija límites con la contribución y los costes completos",
+        "p": [
+          "El valor anual del contrato (ACV), los ingresos recurrentes anuales (ARR), la retención y el coste de adquisición de clientes (CAC) requieren definiciones explícitas. Los ingresos no son beneficio bruto y una factura de campaña no es el CAC completo."
+        ],
+        "dl": [
+          [
+            "Supuestos ilustrativos",
+            "Una cohorte ficticia cuesta 12.000 unidades monetarias de adquisición, con la asignación acordada del tiempo del equipo debidamente valorado, herramientas, datos y trabajo comercial. Produce tres clientes nuevos de pago y ocho demos celebradas y cualificadas."
+          ],
+          [
+            "Cálculo",
+            "12.000 ÷ 8 = 1.500 por demo celebrada y cualificada. 12.000 ÷ 3 = 4.000 por cliente nuevo. Con ingresos de 9.000 por cliente el primer año y un margen bruto supuesto del 80 %, el beneficio bruto sería de 7.200 antes de adquisición y otros gastos generales."
+          ],
+          [
+            "Decisión y límites",
+            "Con un beneficio bruto supuesto de 600 al mes, recuperar 4.000 llevaría unos 6,7 meses si ingresos y margen fueran constantes. No es una previsión de caja, retención ni recuperación. Las bajas tempranas, la implantación, los descuentos y las fechas de cobro pueden cambiar la decisión. Si faltan costes o resultados, marca el cálculo como incompleto."
+          ]
+        ],
+        "cost": true,
+        "after": [
+          "Utiliza una sola moneda y una cohorte coherente. No justifiques tu presupuesto con el objetivo LTV:CAC o la tasa de respuestas de otra empresa. Un cálculo unitario atractivo no demuestra que existan suficientes cuentas adecuadas."
+        ]
+      },
+      {
+        "id": "saas-pilot",
+        "title": "Usa una prueba pequeña para localizar el cuello de botella",
+        "p": [
+          "Acuerda segmento, oferta, responsable, periodo de revisión y criterio de decisión antes de lanzar. Respeta la duración del ciclo comercial; las primeras respuestas no establecen el coste de adquisición. Detente ante problemas de producto, permisos o estado de las cuentas."
+        ],
+        "headers": [
+          "Problema observado",
+          "Qué revisar primero",
+          "Siguiente cambio razonable"
+        ],
+        "rows": [
+          [
+            "Las empresas no encajan",
+            "Criterios de investigación y exclusiones",
+            "Corrige o acota el segmento antes de reescribir los mensajes"
+          ],
+          [
+            "Los mensajes fallan o llegan a la persona equivocada",
+            "Datos de contacto, configuración de envío y funciones",
+            "Resuelve la causa comprobada; aumentar volumen no la corrige"
+          ],
+          [
+            "Las respuestas relevantes no llevan a demos útiles",
+            "Pregunta, cualificación, disponibilidad y traspaso",
+            "Aclara el siguiente paso y el requisito pendiente"
+          ],
+          [
+            "Las demos cualificadas no avanzan",
+            "Notas de discovery, encaje, pruebas, decisión y responsabilidad comercial",
+            "Revisa con el cliente la restricción real y mantén abiertos los resultados de la cohorte"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Pide a la agencia que muestre cómo trabajará",
+        "p": [
+          "Solicita una justificación de cuenta, una revisión de mensaje, los criterios de cualificación y un registro de traspaso. Una lista de software o una promesa de demos no sustituyen esos materiales."
+        ],
+        "downloadTitle": "Abrir el brief de campaña SaaS",
+        "downloadNote": "Lee las preguntas aquí o descarga el mismo CSV estático. No se pide email. La calculadora opcional funciona solo en esta página: no guarda ni envía lo que introduces. El CSV contiene preguntas de planificación, no tus cifras.",
+        "downloadLabel": "Descargar el brief de campaña (CSV)",
+        "questions": [
+          [
+            "Modelo de venta",
+            "¿Qué siguiente paso debe dar el comprador y por qué?"
+          ],
+          [
+            "Segmento",
+            "¿Qué proceso, contexto empresarial y mercado podemos atender?"
+          ],
+          [
+            "Pruebas y exclusiones",
+            "¿Qué respalda la relevancia, qué se desconoce y qué descarta una cuenta?"
+          ],
+          [
+            "Grupo de compra",
+            "¿Quién usa, impulsa, valida y aprueba el cambio?"
+          ],
+          [
+            "Pruebas del producto",
+            "¿Qué demo, documentación y resultados autorizados podemos mostrar?"
+          ],
+          [
+            "Ejecución",
+            "¿Quién aprueba lista, remitente, accesos y permisos de mensajes?"
+          ],
+          [
+            "Respuestas y cese",
+            "¿Quién gestiona preguntas técnicas, aplazamientos, negativas y exclusiones?"
+          ],
+          [
+            "Demo cualificada",
+            "¿Qué criterios exactos de empresa, persona, necesidad, interés y encaje se exigen?"
+          ],
+          [
+            "Traspaso y medición",
+            "¿Qué calendario, ID de evento, responsable de CRM, cohorte y fuentes permiten conciliar resultados?"
+          ],
+          [
+            "Costes y revisión",
+            "¿Qué costes completos, contribución, fecha de corte y decisión de prueba utilizaremos?"
+          ]
+        ]
+      },
+      {
+        "id": "beespoke-s-scope-and-limits",
+        "title": "Dónde encaja Beespoke",
+        "p": [
+          "Beespoke gestiona campañas de email frío y/o LinkedIn, dirigidas por el fundador, para ofertas B2B adecuadas. Investigamos empresas y personas, redactamos mensajes individuales, ejecutamos con autorización, gestionamos respuestas, cualificamos el interés y facilitamos reservas según criterios acordados. Tu equipo aprueba el encaje de los contactos y confirma la información del producto; conserva el discovery técnico, las demos, las propuestas y el cierre.",
+          "Elegimos el primer canal según la actividad y la accesibilidad de la persona. Habitualmente usamos un mensaje inicial y un seguimiento breve, coordinando los contactos posteriores. El software, los datos y los costes de terceros necesarios se cobran aparte salvo inclusión por escrito. Las llamadas se presupuestan por mercado; el servicio base no incluye un SDR a jornada completa ni garantiza un volumen de reuniones.",
+          "El fundador ofrece el servicio en inglés, español, catalán y francés. Esto no implica un equipo ilimitado de llamadas nativas ni interfaces de terceros en los cuatro idiomas. La llamada de encaje sirve para aclarar oferta, restricciones, pruebas y la prueba mínima defendible."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Ver el servicio de email frío"
+          ],
+          [
+            "/services/linkedin-lead-generation/",
+            "Ver prospección en LinkedIn"
+          ],
+          [
+            "/pricing/",
+            "Consultar alcance y precios actuales"
+          ],
+          [
+            "/guides/account-based-prospecting/",
+            "Planificar cuentas concretas"
+          ]
+        ]
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Preguntas sobre generación de leads B2B SaaS",
+        "faqs": [
+          [
+            "¿Todas las empresas SaaS deberían hacer outbound?",
+            "No. Encaja cuando puedes identificar cuentas adecuadas, explicar un motivo creíble para evaluar el producto y financiar la adquisición asistida con la contribución de los clientes y la capacidad comercial. Una oferta de autoservicio de baja contribución o un producto sin validar pueden necesitar otro paso."
+          ],
+          [
+            "¿Un usuario de prueba es un lead cualificado para ventas?",
+            "No automáticamente. El uso puede señalar una cuenta a la que ayudar, pero importan el encaje de la empresa, la función, la necesidad y el interés. Define PQL y SQL para tu negocio y separa las cifras de pruebas, demos y oportunidades."
+          ],
+          [
+            "¿Qué hace que una demo SaaS esté cualificada?",
+            "Los criterios escritos deben cubrir empresa, función del asistente, necesidad, interés y requisitos del producto, dejando visibles las incógnitas. Separa reserva, celebración, celebración cualificada y oportunidad aceptada por ventas."
+          ],
+          [
+            "¿Cuánto tiempo hace falta para evaluar una campaña?",
+            "No hay un plazo universal. Define el periodo según el universo de cuentas, la gestión de respuestas y el ciclo comercial. La interacción temprana ayuda a diagnosticar selección y mensajes; los costes por cliente exigen costes completos y resultados suficientemente maduros."
+          ],
+          [
+            "¿Beespoke hace las demos y cierra las ventas?",
+            "Beespoke investiga prospectos con autorización, redacta, gestiona respuestas, cualifica y facilita reservas. Los expertos del cliente conservan el discovery técnico y de producto, las demos, las propuestas y el cierre. Acordamos el traspaso y el retorno de resultados antes de lanzar."
+          ],
+          [
+            "¿Un brief o una calculadora demuestran intención de compra?",
+            "No. Ayudan a ordenar una decisión. Una descarga, una lista completada o una ratio no demuestran necesidad, presupuesto ni ganas de reunirse. La calculadora opcional de esta página es local y no envía ni guarda las cifras introducidas."
+          ]
+        ]
+      }
+    ],
+    "cost": {
+      "title": "Opcional: calcular el coste de adquisición por resultado",
+      "note": "Utiliza costes completos en una sola moneda y resultados comprobados de la misma cohorte, suficientemente madura. Deja en blanco una cifra desconocida; escribe cero solo si está confirmado. No se envía ni guarda lo que introduces.",
+      "labels": [
+        "Coste completo de adquisición",
+        "Demos celebradas y cualificadas",
+        "Clientes nuevos de pago"
+      ],
+      "complete": "He comprobado la cobertura de costes y que los resultados pertenecen a la misma cohorte, suficientemente madura.",
+      "calculate": "Calcular",
+      "reset": "Borrar cifras",
+      "missingCost": "Introduce primero el coste completo de adquisición.",
+      "invalidCost": "Introduce un coste finito igual o superior a cero.",
+      "invalidCount": "Utiliza un número entero igual o superior a cero o deja en blanco una cifra desconocida.",
+      "incomplete": "Comprueba la cobertura de costes y la madurez de la cohorte antes de interpretar el resultado.",
+      "unknown": "Desconocido: no se ha indicado la cifra.",
+      "zero": "No calculable: no hay resultados verificados.",
+      "unit": "unidades monetarias",
+      "callLabel": "Coste por demo celebrada y cualificada",
+      "clientLabel": "Coste de adquisición por cliente nuevo de pago",
+      "basis": "Cálculo con tus cifras; no es una previsión ni una puntuación de intención de compra. Con costes incompletos no se obtiene el CAC completo."
+    },
+    "headerH1": "Generación de leads B2B SaaS para captar empresas adecuadas"
+  },
+  "ca": {
+    "answer": "La generació de leads B2B SaaS connecta empreses adequades amb un motiu creïble per avaluar el teu programari. Comença pel problema, les persones que intervenen en la compra i el model de venda; combina el correu o LinkedIn amb la demanda que ja tens. Defineix què fa útil una demo i mesura per separat les converses fetes i qualificades, les oportunitats acceptades, les altes de prova i les reserves.",
+    "description": "Generació de leads B2B SaaS: segmentació, demos qualificades i prospecció per correu o LinkedIn. Exemples, costos d’adquisició i un brífing de campanya.",
+    "jump": "Veure un exemple de prospecció SaaS",
+    "dateLabel": "9 de novembre de 2026",
+    "fiction": "Totes les situacions, els missatges i les xifres següents són exemples didàctics ficticis i originals. No contenen dades de clients ni de prospectes i no són resultats de Beespoke.",
+    "sourceTitle": "Fonts i metodologia",
+    "sourceNote": "Revisió del 9 de novembre de 2026. Aquests articles i pàgines de serveis han servit per a la comparació. Els resultats, preus, percentatges de conversió i terminis que anuncien no s’utilitzen com a referències de mercat. Els exemples i les eines són originals; un càlcul no demostra intenció de compra.",
+    "sections": [
+      {
+        "id": "saas-sales-motion",
+        "title": "Tria el model de venda abans que el canal",
+        "p": [
+          "L’etiqueta SaaS no explica com haurien de comprar els teus clients. El pas següent ha d’ajudar una empresa adequada a avaluar el producte. Una demo té sentit quan resol alguna cosa que el comprador no pot aclarir fàcilment tot sol."
+        ],
+        "cards": [
+          [
+            "Autoservei",
+            "Si el comprador pot obtenir valor pel seu compte i la contribució de cada client és petita, millora primer la descoberta, la incorporació i l’activació. La prospecció individual pot costar més del que permet el compte. Una alta de prova no és un lead qualificat per a vendes."
+          ],
+          [
+            "Venda assistida",
+            "L’ús del producte pot indicar un compte al qual convé ajudar. Tot i això, comprova l’encaix de l’empresa, el paper de l’usuari i la necessitat pendent. Un usuari actiu de la versió gratuïta no té per què decidir el pressupost. Coordina l’historial del producte i de vendes abans de contactar-hi."
+          ],
+          [
+            "Venda consultiva o a grans empreses",
+            "Un canvi de processos, una integració, una revisió de seguretat o un comitè de compra poden justificar una demo adaptada. Parteix d’un problema concret i incorpora-hi l’expert de producte adequat. No obliguis tots els visitants a reservar una trucada."
+          ]
+        ]
+      },
+      {
+        "id": "saas-is-not-a-complete-icp",
+        "title": "Defineix un segment que puguis investigar",
+        "p": [
+          "Concreta el procés de treball, el context de l’empresa, el mercat, els requisits del producte i les persones afectades. Separa els comptes que pots atendre avui d’un mercat atractiu que el producte encara no cobreix. Fes servir el que has après dels clients amb permís; una categoria d’una base de dades no demostra necessitat."
+        ],
+        "headers": [
+          "Segment il·lustratiu",
+          "Motiu per investigar",
+          "Exclusió o pregunta pendent"
+        ],
+        "rows": [
+          [
+            "Operadors amb diversos centres que avaluen programari de planificació de torns",
+            "Una publicació d’operacions explica com coordinen equips locals",
+            "El producte admet els centres, permisos i sistemes que necessiten? Exclou els requisits que no pots cobrir."
+          ],
+          [
+            "Equips de programari que avaluen eines per a desenvolupadors",
+            "Una publicació tècnica descriu un procés que el producte resol de debò",
+            "L’autor és usuari, avaluador o patrocinador? Un repositori públic o una oferta de feina no demostren que hi hagi una compra en marxa."
+          ],
+          [
+            "Equips petits que utilitzen una eina de productivitat d’autoservei",
+            "Els usuaris poden provar la funció principal sense un procés comercial",
+            "Si la contribució no finança la prospecció individual, prioritza l’autoservei en lloc d’una campanya costosa de demos."
+          ]
+        ]
+      },
+      {
+        "id": "saas-readiness",
+        "title": "Comprova la preparació sense inventar una puntuació d’intenció",
+        "aliases": [
+          "industry-fit-check",
+          "industry-encaje-check",
+          "industry-encaix-check",
+          "industry-adéquation-check"
+        ],
+        "p": [
+          "Conserva els vuit criteris de preparació originals, però fes-los servir per decidir. Vuit caselles marcades no certifiquen que hi hagi demanda."
+        ],
+        "dl": [
+          [
+            "Podem explicar i demostrar l’oferta?",
+            "Un cas d’ús concret; proves rellevants i autoritzades; una oferta amb clients de pagament. Si falta això, treballa primer en el producte i en converses d’aprenentatge dirigides pel fundador."
+          ],
+          [
+            "Podem arribar a un mercat defensable?",
+            "Un univers suficient d’empreses; compradors econòmics i tècnics identificats; exclusions per escrit. Si queden pocs comptes adequats, planifica cada compte individualment en lloc d’augmentar els enviaments."
+          ],
+          [
+            "Podem assumir el cost i atendre les respostes?",
+            "Una contribució per client que permeti l’adquisició assistida; un responsable comercial disponible per respondre i explorar les necessitats. Si hi ha incògnites, aclareix costos i responsabilitats abans d’aprovar la prova."
+          ]
+        ]
+      },
+      {
+        "id": "map-the-full-buying-committee",
+        "title": "Identifica les persones i les preguntes que han de resoldre",
+        "p": [
+          "El càrrec és un punt de partida. Esbrina qui viu el problema, qui pot aprovar el canvi i qui l’ha de validar. Una persona pot assumir diversos papers; un compte atractiu no justifica contactar amb tot el departament."
+        ],
+        "headers": [
+          "Paper",
+          "Pregunta que cal resoldre",
+          "Prova útil per avançar"
+        ],
+        "rows": [
+          [
+            "Usuari o responsable operatiu",
+            "Quina tasca és difícil i què canviaria en la feina diària?",
+            "Una demostració realista del procés i els requisits d’adopció"
+          ],
+          [
+            "Promotor intern o responsable econòmic",
+            "Per què plantejar-se un canvi, qui decideix i què justificaria l’esforç?",
+            "Una explicació del valor amb límits clars i supòsits del mateix comprador"
+          ],
+          [
+            "Avaluador tècnic, de seguretat o d’integració",
+            "Quins requisits ha de complir el producte?",
+            "Documentació actual i respostes d’un responsable tècnic autoritzat"
+          ],
+          [
+            "Finances, assessoria jurídica o compres",
+            "Quines aprovacions, condicions i passos de contractació calen?",
+            "Les condicions reals del client i el seu procés de revisió; mai garanties inventades per qui fa la prospecció"
+          ]
+        ]
+      },
+      {
+        "id": "saas-signals",
+        "title": "Separa el fet públic de la hipòtesi comercial",
+        "p": [
+          "El finançament, la contractació, l’entrada en un mercat, l’ús del producte o un canvi tecnològic poden motivar una investigació. Res d’això demostra pressupost aprovat, insatisfacció o permís per contactar. Utilitza informació i vies de contacte adequades per a la campanya."
+        ],
+        "dl": [
+          [
+            "Observat",
+            "Un responsable d’operacions fictici publica les dificultats de coordinar diversos centres. Desa la font i la data."
+          ],
+          [
+            "Suposat",
+            "Un programari de torns podria ajudar. Encara desconeixes el sistema, les restriccions, els terminis i l’interès a canviar."
+          ],
+          [
+            "Confirmat",
+            "La persona responsable explica el procés real i accepta un pas següent pertinent. Registra fidelment què diu i què encara no se sap."
+          ]
+        ],
+        "after": [
+          "El motiu per escriure també pot ser personal: una publicació rellevant, un interès professional, un esdeveniment o una ubicació compartida de debò. Connecta-ho amb naturalitat a la conversa. Viure a prop o respondre amablement no demostra un projecte de compra."
+        ]
+      },
+      {
+        "id": "coordinate-outbound-with-existing-demand",
+        "title": "Assigna una funció a cada canal",
+        "p": [
+          "Coordina la prospecció, l’ús del producte, el contingut útil i les recomanacions amb un mateix historial de compte. No cal activar tots els canals alhora."
+        ],
+        "headers": [
+          "Via",
+          "Per a què serveix",
+          "Condició o límit"
+        ],
+        "rows": [
+          [
+            "Correu fred o LinkedIn",
+            "Iniciar una conversa concreta amb una persona adequada que pots identificar",
+            "Tria on és activa o és raonable trobar-la. Revisa la investigació i els permisos; evita seqüències duplicades simultànies."
+          ],
+          [
+            "Creixement impulsat pel producte o venda assistida",
+            "Ajudar usuaris adequats a avaluar un procés o un desplegament més ampli",
+            "Acorda els senyals d’ús, la titularitat del compte i les regles de contacte. L’ús no demostra pressupost ni intenció."
+          ],
+          [
+            "Contingut de cerca i demostracions",
+            "Respondre una pregunta real sobre avaluació, integració o ús",
+            "Adapta el pas següent a la pregunta. Llegir una guia o descarregar-la no equival a una demo qualificada."
+          ],
+          [
+            "Socis, recomanacions i comunitats",
+            "Arribar al públic adequat amb experiència real o una presentació pertinent",
+            "Respecta la relació i les normes de la comunitat. No intercanviïs llistes privades ni extreguis contactes de comunitats com a drecera."
+          ],
+          [
+            "Publicitat, esdeveniments o trucades",
+            "Provar una audiència i una oferta definides si els costos i la capacitat ho permeten",
+            "Explicita costos i resultats. Les trucades tenen un abast separat; no s’inclouen automàticament en una campanya de correu o LinkedIn."
+          ]
+        ]
+      },
+      {
+        "id": "saas-proof-and-setup",
+        "title": "Prepara les proves i les persones que sostenen la campanya",
+        "p": [
+          "El comprador necessita prou informació per valorar el programari. Una demostració pertinent aporta més que promeses de creixement sense fonament. Abans del llançament, acorda qui pot respondre cada tipus de pregunta."
+        ],
+        "ul": [
+          "Prepara una demo breu del procés, requisits actuals, responsabilitats d’implantació i limitacions conegudes.",
+          "Utilitza proves autoritzades amb la situació inicial, la contribució, el període i els límits. Si són confidencials, crea una demostració clarament fictícia; treure els noms no basta si els detalls permeten identificar algú.",
+          "Assigna un responsable de producte o tècnic per a integracions, seguretat, tractament de dades i full de ruta. No prometis funcions ni certificacions sense verificar.",
+          "Aprova l’encaix dels comptes, les exclusions, la identitat del remitent, els permisos dels missatges i els límits d’accés. Assigna les comprovacions de dades i els registres d’exclusió.",
+          "Acorda qui configura i revisa la infraestructura d’enviament, resol errors i vigila l’estat dels comptes. Automatitzar no garanteix arribar a la safata d’entrada ni elimina els límits de les plataformes.",
+          "Comprova clients, oportunitats obertes, socis i negatives anteriors abans d’incloure-hi algú. Mantén un historial comú entre canals."
+        ]
+      },
+      {
+        "id": "saas-worked-account",
+        "title": "Treballa un compte complet abans d’ampliar la llista",
+        "p": [
+          "Imagina un proveïdor fictici de programari de torns per a empreses de serveis amb diversos centres. El producte admet uns processos i unes integracions concrets; aquest límit importa més que la mida de la marca del prospecte."
+        ],
+        "dl": [
+          [
+            "Investigació",
+            "Un responsable d’operacions publica com organitza substitucions entre centres. El compte sembla encaixar en el mercat admès. Desa’n la prova; no inventis plantilla, despesa en programari ni frustració."
+          ],
+          [
+            "Decisió",
+            "Comprova si el problema és dins de les capacitats documentades del producte. Si una integració necessària no existeix, aparca el compte o consulta el responsable de producte abans d’afirmar res."
+          ],
+          [
+            "Conversa",
+            "Pregunta com gestionen el procés i si els serviria un exemple breu. No anunciïs una transformació ni un estalvi suposat."
+          ],
+          [
+            "Traspàs",
+            "Si la persona confirma una necessitat pertinent i vol avaluar-la, acordeu qui hauria d’assistir a la demo. Porta els dubtes tècnics pendents al calendari i al CRM del client."
+          ]
+        ]
+      },
+      {
+        "id": "saas-outreach-examples",
+        "title": "Escriu per a aquella persona i aquella situació",
+        "p": [
+          "En aquests exemples ficticis, el remitent representa el proveïdor del programari. Són alternatives; no s’han d’enviar a la mateixa persona al mateix temps. Substitueix cada premissa per una cosa certa."
+        ],
+        "samples": [
+          [
+            "Correu: un motiu concret i un pas següent útil",
+            "Hola, [nom],\n\nLa teva publicació sobre les substitucions entre centres em va deixar una pregunta: cada centre encara busca pel seu compte o l’equip d’operacions pot veure tots els torns sense cobrir en un mateix lloc?\n\nDesenvolupem programari de planificació per a equips amb diversos centres. Podem mostrar com un responsable revisa un torn sense cobrir abans de demanar ajuda a un altre centre. L’encaix dependria de com treballeu i dels sistemes amb què caldria connectar-lo.\n\nEt serviria una demostració breu d’aquest procés o ja ho teniu cobert?",
+            "El fet públic dona peu a una pregunta específica. El remitent explica obertament el motiu comercial, descriu una capacitat real i permet que la resposta sigui que no encaixa. No inventa problemes, estalvis ni coneixement dels sistemes del comprador."
+          ],
+          [
+            "Un segon correu breu",
+            "Hola, [nom], et serviria aquella demostració o ja ho resoleu amb el sistema actual?",
+            "Un seguiment breu al cap d’uns quatre dies il·lustra l’enfocament habitual de dos missatges de Beespoke; no és un calendari universal. Una resposta, una negativa o una preferència de contacte tenen prioritat."
+          ],
+          [
+            "LinkedIn: una alternativa si la persona hi participa",
+            "Hola, [nom], em va interessar el teu comentari sobre deixar que cada centre resolgui les substitucions. Com veu l’equip d’operacions els buits que necessiten ajuda d’un altre centre? Desenvolupem programari per a aquesta coordinació. Si et serveix, et puc enviar un exemple breu.",
+            "El missatge participa en una conversa real i explica la relació amb el producte. Un esdeveniment compartit o un interès personal pertinent també podrien iniciar el contacte; mai una familiaritat inventada."
+          ]
+        ],
+        "after": [
+          "Llegeix el missatge en veu alta i elimina els elogis buits, les promeses genèriques i les observacions intercanviables. La IA pot ajudar a redactar, però una persona ha de comprovar els fets i el sentit. «He vist» no és un detector fiable d’IA; importen més la precisió i la naturalitat."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar el mètode de redacció complet"
+          ]
+        ]
+      },
+      {
+        "id": "saas-replies-and-follow-up",
+        "title": "Deixa que la resposta canviï el pla",
+        "p": [
+          "Tria el primer canal segons l’activitat de la persona i on sigui raonable trobar-la. Si no respon al correu, reconsidera si LinkedIn o una trucada amb abast separat tenen sentit; no reiniciïs automàticament el mateix discurs a tot arreu. Comparteix l’historial i les instruccions de cessament."
+        ],
+        "dl": [
+          [
+            "«Envia’m l’exemple».",
+            "Envia el procés promès i una pregunta útil. Demanar informació no equival a acceptar una reunió ni a crear una oportunitat."
+          ],
+          [
+            "«Es connecta al nostre sistema?»",
+            "Porta la pregunta exacta al responsable de producte. Respon amb documentació actual, sense convertir la incertesa en una promesa."
+          ],
+          [
+            "«Fins que no acabem la revisió, no».",
+            "Pregunta si volen que reprenguis el contacte més endavant. Anota la data acordada i treu aquella persona del seguiment immediat."
+          ],
+          [
+            "«Ja ho tenim cobert».",
+            "Respecta la resposta. Explora una altra necessitat només si la persona t’hi convida; si no, tanca el contacte."
+          ],
+          [
+            "Una negativa, un requisit que no es cobreix o una petició de cessament",
+            "Atura aquella via o descarta el compte i conserva el motiu. No contactis amb companys per esquivar una negativa."
+          ]
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Planificar un seguiment moderat"
+          ]
+        ]
+      },
+      {
+        "id": "saas-qualified-demo",
+        "title": "Acorda què significa una demo qualificada",
+        "p": [
+          "Defineix els criteris d’acceptació per escrit abans de començar. Una reserva, un lead qualificat pel producte (PQL) i un lead qualificat per a vendes (SQL) són coses diferents. Defineix aquestes etiquetes per al teu negoci en lloc de dependre d’una puntuació del proveïdor."
+        ],
+        "ul": [
+          "Empresa: encaixa en el mercat, les exclusions i els requisits del producte acordats.",
+          "Persona: té un paper pertinent; indica si és usuària, avaluadora, patrocinadora o qui fa una presentació.",
+          "Necessitat: s’ha confirmat un procés o una pregunta d’avaluació rellevant. Mantén com a desconeguts el pressupost, l’autoritat i els terminis que no s’hagin aclarit.",
+          "Interès: entén el propòsit de la conversa i l’accepta; una descàrrega o una alta de prova no basten.",
+          "Encaix pràctic: registra els requisits que podrien impedir la venda i qui els ha de respondre.",
+          "Resultat: separa reservada, feta, feta i qualificada, i oportunitat acceptada per vendes. Una absència no compta com a demo feta."
+        ]
+      },
+      {
+        "id": "saas-handoff",
+        "title": "Porta el context al calendari i al CRM del client",
+        "ol": [
+          "Utilitza l’enllaç de calendari aprovat pel client i confirma propòsit i assistents. Un clic no demostra que s’hagi completat una reserva.",
+          "Conserva l’ID de l’esdeveniment o reserva original i la data de creació. Vincula canvis de data i cancel·lacions a l’esdeveniment original; no els comptis com a demanda nova.",
+          "Transfereix el motiu de selecció, l’origen de l’interès, el paper de la persona, la conversa, els dubtes i el responsable següent mitjançant accessos aprovats.",
+          "El responsable comercial del client ha de registrar si la trucada s’ha fet, s’ha qualificat i s’ha acceptat com a oportunitat, amb el motiu de rebuig o d’ajornament.",
+          "El client conserva l’exploració de necessitats de producte, les demos adaptades, les propostes i el tancament. Utilitza els resultats acordats per millorar la selecció i els missatges; demana només l’accés necessari."
+        ]
+      },
+      {
+        "id": "saas-funnel",
+        "title": "Segueix els mateixos comptes pel mateix embut",
+        "p": [
+          "Aquesta cohort fictícia ha tingut prou temps per comprovar tots els resultats indicats. És un exemple de càlcul, no una referència ni una previsió. Compta empreses i persones per separat; diversos contactes d’una empresa no són diversos clients nous."
+        ],
+        "headers": [
+          "Etapa",
+          "Xifra fictícia",
+          "Què demostra"
+        ],
+        "rows": [
+          [
+            "Comptes aprovats contactats",
+            "120",
+            "Compleixen els criteris de recerca; no són 120 compradors interessats"
+          ],
+          [
+            "Reserves originals de demos",
+            "15",
+            "IDs sense duplicats; els canvis de data no són reserves noves"
+          ],
+          [
+            "Demos fetes",
+            "10",
+            "Cinc reserves no s’han arribat a fer en aquesta cohort conciliada"
+          ],
+          [
+            "Demos fetes i qualificades",
+            "8",
+            "Dues converses fetes no compleixen els criteris escrits"
+          ],
+          [
+            "Oportunitats acceptades per vendes",
+            "5",
+            "El responsable del client ha acceptat un pas següent definit"
+          ],
+          [
+            "Clients nous de pagament",
+            "3",
+            "Resultats comprovats; no tres tancaments previstos"
+          ]
+        ],
+        "after": [
+          "En aquesta cohort fictícia, 8 ÷ 10 = 80 % de les demos fetes es qualifiquen; 10 ÷ 15, aproximadament el 67 %, de les reservades es fan. No són percentatges esperats. Les altes de prova i els comptes activats necessiten el seu propi embut definit abans d’incorporar-se a l’informe per empresa.",
+          "En informes reals, mostra la data d’entrada de la cohort, la data de tall, la maduresa del cicle comercial i els resultats desconeguts. L’activitat d’un mes pot diferir de la conversió d’una cohort: un client que tanca avui pot venir d’una campanya anterior.",
+          "Separa l’origen d’adquisició, la pàgina d’entrada observada, les visites posteriors i l’explicació del comprador. Una reserva al web després de prospecció no és automàticament trànsit orgànic. Conserva l’atribució desconeguda i exclou les visites d’auditoria. Un clic, un ús de l’eina o un canvi de data no són un lead nou."
+        ]
+      },
+      {
+        "id": "use-saas-economics-to-set-acquisition-limits",
+        "title": "Fixa límits amb la contribució i els costos complets",
+        "p": [
+          "El valor anual del contracte (ACV), els ingressos recurrents anuals (ARR), la retenció i el cost d’adquisició de clients (CAC) necessiten definicions explícites. Els ingressos no són benefici brut i una factura de campanya no és el CAC complet."
+        ],
+        "dl": [
+          [
+            "Supòsits il·lustratius",
+            "Una cohort fictícia costa 12.000 unitats monetàries d’adquisició, amb l’assignació acordada del temps de l’equip degudament valorat, eines, dades i feina comercial. Produeix tres clients nous de pagament i vuit demos fetes i qualificades."
+          ],
+          [
+            "Càlcul",
+            "12.000 ÷ 8 = 1.500 per demo feta i qualificada. 12.000 ÷ 3 = 4.000 per client nou. Amb ingressos de 9.000 per client el primer any i un marge brut suposat del 80 %, el benefici brut seria de 7.200 abans d’adquisició i altres despeses generals."
+          ],
+          [
+            "Decisió i límits",
+            "Amb un benefici brut suposat de 600 al mes, recuperar 4.000 costaria uns 6,7 mesos si ingressos i marge fossin constants. No és una previsió de caixa, retenció ni recuperació. Les baixes primerenques, la implantació, els descomptes i les dates de cobrament poden canviar la decisió. Si falten costos o resultats, marca el càlcul com a incomplet."
+          ]
+        ],
+        "cost": true,
+        "after": [
+          "Utilitza una sola moneda i una cohort coherent. No justifiquis el pressupost amb l’objectiu LTV:CAC o el percentatge de respostes d’una altra empresa. Un càlcul unitari atractiu no demostra que hi hagi prou comptes adequats."
+        ]
+      },
+      {
+        "id": "saas-pilot",
+        "title": "Fes una prova petita per trobar el coll d’ampolla",
+        "p": [
+          "Acorda segment, oferta, responsable, període de revisió i criteri de decisió abans de llançar. Respecta la durada del cicle comercial; les primeres respostes no estableixen el cost d’adquisició. Atura’t davant problemes de producte, permisos o estat dels comptes."
+        ],
+        "headers": [
+          "Problema observat",
+          "Què cal revisar primer",
+          "Canvi següent raonable"
+        ],
+        "rows": [
+          [
+            "Les empreses no encaixen",
+            "Criteris de recerca i exclusions",
+            "Corregeix o acota el segment abans de reescriure els missatges"
+          ],
+          [
+            "Els missatges fallen o arriben a la persona equivocada",
+            "Dades de contacte, configuració d’enviament i papers",
+            "Resol la causa comprovada; augmentar volum no la corregeix"
+          ],
+          [
+            "Les respostes rellevants no porten a demos útils",
+            "Pregunta, qualificació, disponibilitat i traspàs",
+            "Aclareix el pas següent i el requisit pendent"
+          ],
+          [
+            "Les demos qualificades no avancen",
+            "Notes de necessitats, encaix, proves, decisió i responsabilitat comercial",
+            "Revisa amb el client la restricció real i mantén oberts els resultats de la cohort"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Demana a l’agència que mostri com treballarà",
+        "p": [
+          "Demana una justificació de compte, una revisió de missatge, els criteris de qualificació i un registre de traspàs. Una llista de programari o una promesa de demos no substitueixen aquests materials."
+        ],
+        "downloadTitle": "Obrir el brífing de campanya SaaS",
+        "downloadNote": "Llegeix les preguntes aquí o descarrega el mateix CSV estàtic. No es demana correu. La calculadora opcional funciona només en aquesta pàgina: no desa ni envia allò que hi introdueixes. El CSV conté preguntes de planificació, no les teves xifres.",
+        "downloadLabel": "Descarregar el brífing de campanya (CSV)",
+        "questions": [
+          [
+            "Model de venda",
+            "Quin pas següent ha de fer el comprador i per què?"
+          ],
+          [
+            "Segment",
+            "Quin procés, context empresarial i mercat podem atendre?"
+          ],
+          [
+            "Proves i exclusions",
+            "Què demostra la rellevància, què es desconeix i què descarta un compte?"
+          ],
+          [
+            "Grup de compra",
+            "Qui utilitza, impulsa, valida i aprova el canvi?"
+          ],
+          [
+            "Proves del producte",
+            "Quina demo, documentació i resultats autoritzats podem mostrar?"
+          ],
+          [
+            "Execució",
+            "Qui aprova la llista, el remitent, els accessos i els permisos dels missatges?"
+          ],
+          [
+            "Respostes i cessament",
+            "Qui gestiona preguntes tècniques, ajornaments, negatives i exclusions?"
+          ],
+          [
+            "Demo qualificada",
+            "Quins criteris exactes d’empresa, persona, necessitat, interès i encaix calen?"
+          ],
+          [
+            "Traspàs i mesurament",
+            "Quin calendari, ID d’esdeveniment, responsable de CRM, cohort i fonts permeten conciliar els resultats?"
+          ],
+          [
+            "Costos i revisió",
+            "Quins costos complets, contribució, data de tall i decisió de prova utilitzarem?"
+          ]
+        ]
+      },
+      {
+        "id": "beespoke-s-scope-and-limits",
+        "title": "On encaixa Beespoke",
+        "p": [
+          "Beespoke gestiona campanyes de correu fred i/o LinkedIn dirigides pel fundador per a ofertes B2B adequades. Investiguem empreses i persones, redactem missatges individuals, executem amb autorització, gestionem respostes, qualifiquem l’interès i facilitem reserves segons criteris acordats. El teu equip aprova l’encaix dels contactes i confirma la informació del producte; conserva l’exploració tècnica de necessitats, les demos, les propostes i el tancament.",
+          "Triem el primer canal segons l’activitat i l’accessibilitat de la persona. Habitualment fem servir un missatge inicial i un seguiment breu, coordinant els contactes posteriors. El programari, les dades i els costos de tercers necessaris es cobren a part llevat que s’incloguin per escrit. Les trucades es pressuposten per mercat; el servei base no inclou un SDR a jornada completa ni garanteix un volum de reunions.",
+          "El fundador ofereix el servei en anglès, castellà, català i francès. Això no implica un equip il·limitat de trucades natives ni interfícies de tercers en els quatre idiomes. La trucada d’encaix serveix per aclarir l’oferta, les restriccions, les proves i la prova mínima defensable."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Veure el servei de correu fred"
+          ],
+          [
+            "/services/linkedin-lead-generation/",
+            "Veure prospecció a LinkedIn"
+          ],
+          [
+            "/pricing/",
+            "Consultar l’abast i els preus actuals"
+          ],
+          [
+            "/guides/account-based-prospecting/",
+            "Planificar comptes concrets"
+          ]
+        ]
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Preguntes sobre generació de leads B2B SaaS",
+        "faqs": [
+          [
+            "Totes les empreses SaaS haurien de fer outbound?",
+            "No. Encaixa quan pots identificar comptes adequats, explicar un motiu creïble per avaluar el producte i finançar l’adquisició assistida amb la contribució dels clients i la capacitat comercial. Una oferta d’autoservei de baixa contribució o un producte sense validar poden necessitar un altre pas."
+          ],
+          [
+            "Un usuari de prova és un lead qualificat per a vendes?",
+            "No automàticament. L’ús pot indicar un compte al qual ajudar, però importen l’encaix de l’empresa, el paper, la necessitat i l’interès. Defineix PQL i SQL per al teu negoci i separa les xifres de proves, demos i oportunitats."
+          ],
+          [
+            "Què fa que una demo SaaS estigui qualificada?",
+            "Els criteris escrits han de cobrir empresa, paper de l’assistent, necessitat, interès i requisits del producte, deixant visibles les incògnites. Separa reserva, realització, realització qualificada i oportunitat acceptada per vendes."
+          ],
+          [
+            "Quant de temps cal per avaluar una campanya?",
+            "No hi ha un termini universal. Defineix el període segons l’univers de comptes, la gestió de respostes i el cicle comercial. La interacció primerenca ajuda a diagnosticar selecció i missatges; els costos per client exigeixen costos complets i resultats prou madurs."
+          ],
+          [
+            "Beespoke fa les demos i tanca les vendes?",
+            "Beespoke investiga prospectes amb autorització, redacta, gestiona respostes, qualifica i facilita reserves. Els experts del client conserven l’exploració tècnica i de producte, les demos, les propostes i el tancament. Acordem el traspàs i el retorn de resultats abans de llançar."
+          ],
+          [
+            "Un brífing o una calculadora demostren intenció de compra?",
+            "No. Ajuden a ordenar una decisió. Una descàrrega, una llista completada o una ràtio no demostren necessitat, pressupost ni ganes de reunir-se. La calculadora opcional d’aquesta pàgina és local i no envia ni desa les xifres introduïdes."
+          ]
+        ]
+      }
+    ],
+    "cost": {
+      "title": "Opcional: calcular el cost d’adquisició per resultat",
+      "note": "Utilitza costos complets en una sola moneda i resultats comprovats de la mateixa cohort, prou madura. Deixa en blanc una xifra desconeguda; escriu zero només si està confirmat. No s’envia ni es desa allò que hi introdueixes.",
+      "labels": [
+        "Cost complet d’adquisició",
+        "Demos fetes i qualificades",
+        "Clients nous de pagament"
+      ],
+      "complete": "He comprovat la cobertura de costos i que els resultats pertanyen a la mateixa cohort, prou madura.",
+      "calculate": "Calcular",
+      "reset": "Esborrar xifres",
+      "missingCost": "Introdueix primer el cost complet d’adquisició.",
+      "invalidCost": "Introdueix un cost finit igual o superior a zero.",
+      "invalidCount": "Utilitza un nombre enter igual o superior a zero o deixa en blanc una xifra desconeguda.",
+      "incomplete": "Comprova la cobertura de costos i la maduresa de la cohort abans d’interpretar el resultat.",
+      "unknown": "Desconegut: no s’ha indicat la xifra.",
+      "zero": "No es pot calcular: no hi ha resultats verificats.",
+      "unit": "unitats monetàries",
+      "callLabel": "Cost per demo feta i qualificada",
+      "clientLabel": "Cost d’adquisició per client nou de pagament",
+      "basis": "Càlcul amb les teves xifres; no és una previsió ni una puntuació d’intenció de compra. Amb costos incomplets no s’obté el CAC complet."
+    },
+    "headerH1": "Generació de leads B2B SaaS per captar les empreses adequades"
+  },
+  "fr": {
+    "answer": "La génération de leads B2B SaaS met des entreprises pertinentes en relation avec une raison crédible d’évaluer votre logiciel. Partez du problème, du groupe d’achat et du mode de vente ; associez une prospection adaptée par email ou LinkedIn à la demande existante. Définissez ce qui rend une démonstration utile, puis mesurez séparément les échanges tenus et qualifiés, les opportunités acceptées, les inscriptions à un essai et les réservations.",
+    "description": "Génération de leads B2B SaaS : ciblage, démonstrations qualifiées et prospection par email ou LinkedIn. Exemples, coûts d’acquisition et brief de campagne.",
+    "jump": "Voir un exemple de prospection SaaS",
+    "dateLabel": "9 novembre 2026",
+    "fiction": "Toutes les situations, tous les messages et tous les chiffres ci-dessous sont des exemples pédagogiques fictifs et originaux. Ils ne contiennent aucune donnée de client ou de prospect et ne représentent pas des résultats de Beespoke.",
+    "sourceTitle": "Sources et méthode",
+    "sourceNote": "Revue du 9 novembre 2026. Ces articles et pages de services ont alimenté la comparaison. Leurs résultats annoncés, prix, taux de conversion et délais ne servent pas de références de marché. Les exemples et les outils sont originaux ; un résultat calculé ne démontre pas une intention d’achat.",
+    "sections": [
+      {
+        "id": "saas-sales-motion",
+        "title": "Choisir le mode de vente avant le canal",
+        "p": [
+          "L’étiquette SaaS ne dit pas comment vos clients devraient acheter. L’étape suivante doit aider une entreprise pertinente à évaluer le produit. Une démonstration est utile lorsqu’un échange permet de résoudre une question que l’acheteur ne peut pas facilement éclaircir seul."
+        ],
+        "cards": [
+          [
+            "Libre-service",
+            "Si l’acheteur peut obtenir de la valeur seul et que la contribution de chaque client est faible, améliorez d’abord la découverte, la prise en main et l’activation. Une prospection individuelle peut coûter plus que le compte ne le permet. Une inscription à un essai n’est pas un lead qualifié pour les ventes."
+          ],
+          [
+            "Vente assistée",
+            "L’usage du produit peut signaler un compte qu’il serait utile d’accompagner. Vérifiez néanmoins l’adéquation de l’entreprise, le rôle de l’utilisateur et le besoin restant. Un utilisateur actif de l’offre gratuite ne décide pas forcément du budget. Coordonnez l’historique produit et commercial avant de le contacter."
+          ],
+          [
+            "Vente accompagnée ou grands comptes",
+            "Un changement de processus, une intégration, une revue de sécurité ou un comité d’achat peuvent justifier une démonstration adaptée. Partez d’un problème précis et faites intervenir le bon expert produit. N’imposez pas un rendez-vous à chaque visiteur."
+          ]
+        ]
+      },
+      {
+        "id": "saas-is-not-a-complete-icp",
+        "title": "Définir un segment que vous pouvez réellement étudier",
+        "p": [
+          "Précisez le processus de travail, le contexte de l’entreprise, le marché, les prérequis du produit et les personnes concernées. Distinguez les comptes que vous pouvez servir aujourd’hui d’un marché séduisant que votre produit ne couvre pas encore. Utilisez vos enseignements clients avec autorisation ; une catégorie de base de données ne prouve pas un besoin."
+        ],
+        "headers": [
+          "Segment illustratif",
+          "Raison d’étudier le compte",
+          "Exclusion ou question ouverte"
+        ],
+        "rows": [
+          [
+            "Exploitants de plusieurs sites évaluant un logiciel de planification",
+            "Une publication opérationnelle décrit la coordination des équipes locales",
+            "Le produit prend-il en charge leurs sites, droits d’accès et systèmes ? Exclure les exigences non couvertes."
+          ],
+          [
+            "Équipes logicielles évaluant des outils pour développeurs",
+            "Une publication technique décrit un processus auquel le produit répond réellement",
+            "L’auteur est-il utilisateur, évaluateur ou sponsor ? Du code public ou une offre d’emploi ne prouvent pas un projet d’achat."
+          ],
+          [
+            "Petites équipes utilisant un outil de productivité en libre-service",
+            "Les utilisateurs peuvent essayer la fonction principale sans processus commercial",
+            "Si la contribution ne finance pas la prospection individuelle, privilégier le libre-service plutôt qu’une campagne coûteuse de démonstrations."
+          ]
+        ]
+      },
+      {
+        "id": "saas-readiness",
+        "title": "Vérifier la préparation sans inventer un score d’intention",
+        "aliases": [
+          "industry-fit-check",
+          "industry-encaje-check",
+          "industry-encaix-check",
+          "industry-adéquation-check"
+        ],
+        "p": [
+          "Conservez les huit critères de préparation d’origine, mais utilisez-les pour décider. Huit cases cochées ne certifient pas l’existence d’une demande."
+        ],
+        "dl": [
+          [
+            "Pouvons-nous expliquer et étayer l’offre ?",
+            "Un cas d’usage précis ; des preuves pertinentes et autorisées ; une offre avec des clients payants. Si ces éléments manquent, travaillez d’abord sur le produit et sur des échanges d’apprentissage menés par le fondateur."
+          ],
+          [
+            "Pouvons-nous atteindre un marché défendable ?",
+            "Un nombre suffisant de comptes ; des acheteurs économiques et techniques identifiés ; des exclusions écrites. S’il reste peu de comptes adaptés, préparez chaque approche individuellement plutôt que d’augmenter le volume d’envoi."
+          ],
+          [
+            "Pouvons-nous financer et traiter les résultats ?",
+            "Une contribution client permettant l’acquisition accompagnée ; un responsable commercial disponible pour répondre et explorer le besoin. Si l’un de ces points est inconnu, clarifiez coûts et responsabilités avant d’approuver le test."
+          ]
+        ]
+      },
+      {
+        "id": "map-the-full-buying-committee",
+        "title": "Identifier les personnes et les questions à résoudre",
+        "p": [
+          "L’intitulé de poste est un point de départ. Demandez qui rencontre le problème, qui peut approuver un changement et qui doit le valider. Une même personne peut tenir plusieurs rôles ; un compte intéressant ne justifie pas de contacter tout un service."
+        ],
+        "headers": [
+          "Rôle",
+          "Question à résoudre",
+          "Élément utile pour avancer"
+        ],
+        "rows": [
+          [
+            "Utilisateur ou responsable opérationnel",
+            "Quelle tâche est difficile et que changerait le produit au quotidien ?",
+            "Une démonstration réaliste du processus et les conditions d’adoption"
+          ],
+          [
+            "Promoteur interne ou sponsor économique",
+            "Pourquoi envisager un changement, qui décide et qu’est-ce qui justifierait l’effort ?",
+            "Une explication délimitée de la valeur, fondée sur les hypothèses de l’acheteur"
+          ],
+          [
+            "Évaluateur technique, sécurité ou intégration",
+            "Quelles exigences le produit doit-il satisfaire ?",
+            "La documentation actuelle et les réponses d’un responsable technique autorisé"
+          ],
+          [
+            "Finance, juridique ou achats",
+            "Quelles validations, conditions et étapes de référencement s’appliquent ?",
+            "Les conditions réelles du client et son processus de revue ; jamais une assurance inventée par la personne qui prospecte"
+          ]
+        ]
+      },
+      {
+        "id": "saas-signals",
+        "title": "Séparer le fait public de l’hypothèse commerciale",
+        "p": [
+          "Une levée de fonds, des recrutements, un nouveau marché, l’usage du produit ou un changement technologique peuvent motiver une recherche. Rien de cela ne prouve un budget approuvé, une insatisfaction ou une autorisation de contact. Utilisez des informations et des voies de contact adaptées à la campagne."
+        ],
+        "dl": [
+          [
+            "Observé",
+            "Un responsable des opérations fictif décrit publiquement la difficulté de coordonner plusieurs sites. Conservez la source et la date."
+          ],
+          [
+            "Supposé",
+            "Un logiciel de planification pourrait aider. Vous ignorez encore le système actuel, les contraintes, le calendrier et l’envie de changer."
+          ],
+          [
+            "Confirmé",
+            "La personne responsable explique le processus réel et accepte une prochaine étape pertinente. Consignez fidèlement ses propos, y compris les inconnues."
+          ]
+        ],
+        "after": [
+          "Le point de départ peut aussi être personnel : une publication pertinente, un intérêt professionnel, un événement ou un lieu réellement partagé. Reliez-le naturellement à la discussion. Une proximité géographique ou une réponse aimable ne démontre pas un projet d’achat."
+        ]
+      },
+      {
+        "id": "coordinate-outbound-with-existing-demand",
+        "title": "Donner un rôle précis à chaque canal",
+        "p": [
+          "Coordonnez prospection, activité produit, contenus utiles et recommandations autour d’un même historique de compte. Vous n’avez pas besoin de tous les canaux à la fois."
+        ],
+        "headers": [
+          "Voie",
+          "Rôle utile",
+          "Condition ou limite"
+        ],
+        "rows": [
+          [
+            "Email à froid ou LinkedIn",
+            "Engager un échange précis avec une personne pertinente que vous pouvez identifier",
+            "Choisissez le canal où elle est active ou raisonnablement joignable. Vérifiez recherche et autorisations ; évitez les séquences simultanées en double."
+          ],
+          [
+            "Croissance par le produit ou vente assistée",
+            "Aider des utilisateurs pertinents à évaluer un processus ou un déploiement plus large",
+            "Convenez des signaux produit, du responsable du compte et des règles de contact. L’usage ne prouve ni budget ni intention."
+          ],
+          [
+            "Contenus de recherche et démonstrations",
+            "Répondre à une vraie question d’évaluation, d’intégration ou d’usage",
+            "Adaptez la prochaine étape à la question. Lire ou télécharger un guide ne constitue pas une démonstration qualifiée."
+          ],
+          [
+            "Partenaires, recommandations et communautés",
+            "Toucher un public pertinent grâce à une expertise réelle ou une présentation appropriée",
+            "Respectez la relation et les règles de la communauté. N’échangez pas de listes clients privées et n’extrayez pas des contacts communautaires comme raccourci."
+          ],
+          [
+            "Publicité, événements ou appels",
+            "Tester une audience et une offre définies si les coûts et la capacité le permettent",
+            "Explicitez coûts et résultats. Les appels relèvent d’un périmètre distinct ; ils ne font pas automatiquement partie d’une campagne email ou LinkedIn."
+          ]
+        ]
+      },
+      {
+        "id": "saas-proof-and-setup",
+        "title": "Préparer les preuves et les personnes derrière la campagne",
+        "p": [
+          "L’acheteur a besoin de matière pour juger le logiciel. Une démonstration pertinente apporte plus que des promesses de croissance sans fondement. Avant le lancement, convenez de qui peut répondre à chaque type de question."
+        ],
+        "ul": [
+          "Préparez une courte démonstration du processus, les prérequis actuels, les responsabilités de déploiement et les limites connues.",
+          "Utilisez des preuves autorisées avec leur situation initiale, contribution, période et limites. Si elles sont confidentielles, créez une démonstration clairement fictive ; retirer les noms ne suffit pas si les détails restent reconnaissables.",
+          "Nommez un responsable produit ou technique pour les intégrations, la sécurité, le traitement des données et la feuille de route. Ne promettez pas une fonctionnalité ou une certification non vérifiée.",
+          "Approuvez l’adéquation des comptes, les exclusions, l’identité de l’expéditeur, les autorisations de messages et les limites d’accès. Attribuez les contrôles des données et la gestion des exclusions.",
+          "Convenez de qui configure et vérifie l’infrastructure d’envoi, traite les erreurs et surveille l’état des comptes. L’automatisation ne garantit pas l’arrivée en boîte de réception et ne supprime pas les contraintes des plateformes.",
+          "Vérifiez clients existants, opportunités ouvertes, partenaires et refus antérieurs avant l’inscription. Conservez un historique commun entre canaux."
+        ]
+      },
+      {
+        "id": "saas-worked-account",
+        "title": "Travailler un compte de bout en bout avant d’élargir la liste",
+        "p": [
+          "Prenons un éditeur fictif de logiciel de planification pour des entreprises de services multisites. Son produit couvre des processus et des intégrations définis ; cette limite compte plus que la notoriété d’un prospect."
+        ],
+        "dl": [
+          [
+            "Recherche",
+            "Un responsable des opérations publie un message sur l’organisation des remplacements entre sites. Le compte semble correspondre au marché couvert. Conservez cette preuve ; n’inventez ni effectif, ni dépenses logicielles, ni frustration."
+          ],
+          [
+            "Décision",
+            "Vérifiez que le problème entre dans les capacités documentées du produit. Si une intégration nécessaire manque, mettez le compte en attente ou consultez le responsable produit avant toute affirmation."
+          ],
+          [
+            "Conversation",
+            "Demandez comment le processus fonctionne et si un exemple court serait utile. N’annoncez pas une transformation ou une économie supposée."
+          ],
+          [
+            "Transmission",
+            "Si la personne confirme un besoin pertinent et veut l’évaluer, convenez des participants à la démonstration. Transmettez les questions techniques ouvertes dans le calendrier et le CRM du client."
+          ]
+        ]
+      },
+      {
+        "id": "saas-outreach-examples",
+        "title": "Écrire pour cette personne et cette situation",
+        "p": [
+          "Dans ces exemples fictifs, l’expéditeur représente l’éditeur du logiciel. Il s’agit d’approches alternatives, à ne pas envoyer simultanément à la même personne. Remplacez chaque prémisse par un fait exact."
+        ],
+        "samples": [
+          [
+            "Email : un motif précis et une prochaine étape utile",
+            "Bonjour [prénom],\n\nVotre publication sur les remplacements entre sites m’a laissé une question : chaque site cherche-t-il encore de son côté, ou l’équipe des opérations peut-elle voir les créneaux non couverts au même endroit ?\n\nNous développons un logiciel de planification pour des équipes multisites. Nous pouvons montrer comment un responsable examine un créneau non couvert avant de demander de l’aide à un autre site. La pertinence dépendrait de votre organisation actuelle et des systèmes à connecter.\n\nUne courte démonstration de ce processus vous serait-elle utile, ou est-ce déjà couvert ?",
+            "Le fait public conduit à une question précise. L’expéditeur assume le motif commercial, décrit une capacité réelle et permet une réponse négative. Il n’invente ni problème, ni économie, ni connaissance des systèmes de l’acheteur."
+          ],
+          [
+            "Un second email bref",
+            "Bonjour [prénom], cette démonstration vous serait-elle utile, ou votre système actuel couvre-t-il déjà ce point ?",
+            "Une relance brève environ quatre jours plus tard illustre l’approche habituelle de deux messages de Beespoke ; ce n’est pas un calendrier universel. Une réponse, un refus ou une préférence de contact prévaut."
+          ],
+          [
+            "LinkedIn : une alternative si la personne y participe",
+            "Bonjour [prénom], votre remarque sur l’autonomie de chaque site pour les remplacements m’a intéressé. Comment l’équipe des opérations repère-t-elle les créneaux qui nécessitent l’aide d’un autre site ? Nous développons un logiciel pour ce type de coordination. Je peux vous envoyer un court exemple si cela vous est utile.",
+            "Le message rejoint une vraie discussion et explique le lien avec le produit. Un événement partagé ou un intérêt personnel pertinent pourraient aussi ouvrir l’échange ; jamais une familiarité fabriquée."
+          ]
+        ],
+        "after": [
+          "Lisez le message à voix haute et retirez compliments creux, promesses génériques et observations interchangeables. L’IA peut aider à rédiger, mais une personne doit vérifier les faits et le sens. « J’ai vu » n’est pas un détecteur fiable d’IA ; précision et naturel comptent davantage."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Consulter la méthode de rédaction complète"
+          ]
+        ]
+      },
+      {
+        "id": "saas-replies-and-follow-up",
+        "title": "Laisser la réponse modifier le plan",
+        "p": [
+          "Choisissez le premier canal selon l’activité de la personne et la possibilité raisonnable de la joindre. Sans réponse par email, réévaluez l’intérêt de LinkedIn ou d’un appel au périmètre distinct ; ne relancez pas automatiquement le même discours partout. Partagez l’historique et les consignes d’arrêt."
+        ],
+        "dl": [
+          [
+            "« Envoyez-moi l’exemple. »",
+            "Envoyez le processus promis et une question utile. Une demande d’information ne vaut ni acceptation d’un rendez-vous ni opportunité commerciale."
+          ],
+          [
+            "« Cela se connecte-t-il à notre système ? »",
+            "Transmettez la question exacte au responsable produit. Répondez à partir de la documentation actuelle, sans transformer une incertitude en promesse."
+          ],
+          [
+            "« Pas avant la fin de notre revue actuelle. »",
+            "Demandez si un contact ultérieur est souhaité. Notez la date convenue et retirez la personne des relances immédiates."
+          ],
+          [
+            "« Nous avons déjà ce qu’il faut. »",
+            "Respectez cette réponse. Explorez un autre besoin uniquement si la personne vous y invite ; sinon, clôturez l’échange."
+          ],
+          [
+            "Un refus, une exigence non couverte ou une demande d’arrêt",
+            "Arrêtez la voie concernée ou disqualifiez le compte en conservant le motif. Ne contactez pas des collègues pour contourner un refus."
+          ]
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Préparer des relances mesurées"
+          ]
+        ]
+      },
+      {
+        "id": "saas-qualified-demo",
+        "title": "Définir ce qu’est une démonstration qualifiée",
+        "p": [
+          "Fixez les critères d’acceptation par écrit avant le lancement. Un créneau réservé, un lead qualifié par le produit (PQL) et un lead qualifié pour les ventes (SQL) désignent des choses différentes. Définissez ces termes pour votre activité plutôt que de vous fier au score d’un prestataire."
+        ],
+        "ul": [
+          "Entreprise : elle correspond au marché, aux exclusions et aux prérequis convenus.",
+          "Personne : son rôle est pertinent ; précisez s’il s’agit d’un utilisateur, évaluateur, sponsor ou intermédiaire.",
+          "Besoin : un processus ou une question d’évaluation pertinente est confirmé. Laissez budget, pouvoir de décision et calendrier inconnus s’ils n’ont pas été clarifiés.",
+          "Intérêt : la personne comprend et accepte l’objet de l’échange ; un téléchargement ou une inscription à un essai ne suffit pas.",
+          "Adéquation pratique : notez les exigences susceptibles de bloquer la vente et l’expert qui doit y répondre.",
+          "Résultat : distinguez réservé, tenu, tenu et qualifié, puis opportunité acceptée par les ventes. Une absence ne compte pas comme une démonstration tenue."
+        ]
+      },
+      {
+        "id": "saas-handoff",
+        "title": "Transmettre le contexte au calendrier et au CRM du client",
+        "ol": [
+          "Utilisez le lien de calendrier approuvé par le client et confirmez l’objet et les participants. Un clic ne prouve pas qu’une réservation a été finalisée.",
+          "Conservez l’identifiant de réservation ou d’événement d’origine et sa date de création. Reliez reports et annulations à cet événement plutôt que de les compter comme une nouvelle demande.",
+          "Transmettez le motif du ciblage, l’origine de l’intérêt, le rôle, la conversation, les questions ouvertes et le prochain responsable par les seuls accès approuvés.",
+          "Le responsable commercial du client indique si l’échange a eu lieu, a été qualifié et a été accepté comme opportunité, avec le motif d’un rejet ou d’une remise en attente.",
+          "Le client garde l’exploration produit et technique, les démonstrations adaptées, les propositions et la conclusion de la vente. Réutilisez les résultats convenus pour améliorer ciblage et messages ; ne demandez que l’accès nécessaire."
+        ]
+      },
+      {
+        "id": "saas-funnel",
+        "title": "Suivre les mêmes comptes dans le même parcours",
+        "p": [
+          "Cette cohorte fictive a eu suffisamment de temps pour vérifier chacun des résultats indiqués. Il s’agit d’un exemple arithmétique, pas d’une référence ni d’une prévision. Comptez séparément entreprises et personnes ; plusieurs contacts d’un même compte ne sont pas plusieurs nouveaux clients."
+        ],
+        "headers": [
+          "Étape",
+          "Chiffre fictif",
+          "Ce que le chiffre établit"
+        ],
+        "rows": [
+          [
+            "Comptes approuvés contactés",
+            "120",
+            "Ils remplissent les critères de recherche ; ce ne sont pas 120 acheteurs intéressés"
+          ],
+          [
+            "Réservations initiales de démonstrations",
+            "15",
+            "Identifiants dédupliqués ; les reports ne sont pas de nouvelles réservations"
+          ],
+          [
+            "Démonstrations tenues",
+            "10",
+            "Cinq réservations n’ont pas abouti à un échange dans cette cohorte dont les résultats ont été vérifiés"
+          ],
+          [
+            "Démonstrations tenues et qualifiées",
+            "8",
+            "Deux échanges tenus ne remplissent pas les critères écrits"
+          ],
+          [
+            "Opportunités acceptées par les ventes",
+            "5",
+            "Le responsable du client a accepté une prochaine étape définie"
+          ],
+          [
+            "Nouveaux clients payants",
+            "3",
+            "Résultats vérifiés, et non trois ventes prévues"
+          ]
+        ],
+        "after": [
+          "Dans cette cohorte fictive, 8 ÷ 10 = 80 % des démonstrations tenues sont qualifiées ; 10 ÷ 15, soit environ 67 %, des réservations aboutissent à un échange. Ce ne sont pas des taux attendus. Inscriptions à un essai et comptes activés ont besoin de leur propre parcours défini avant d’intégrer un rapport au niveau du compte.",
+          "Dans un vrai rapport, indiquez les dates d’entrée de la cohorte, la date d’arrêté, la maturité du cycle de vente et les résultats inconnus. L’activité d’un mois peut différer de la conversion d’une cohorte : un client signé ce mois-ci peut venir d’une campagne antérieure.",
+          "Séparez la source d’acquisition initiale, la page d’entrée observée, les visites suivantes et l’explication de l’acheteur. Une réservation sur le site après prospection n’est pas automatiquement une conversion issue de la recherche naturelle. Conservez l’attribution inconnue et excluez les visites d’audit. Un clic, un usage de l’outil ou un report n’est pas un nouveau lead."
+        ]
+      },
+      {
+        "id": "use-saas-economics-to-set-acquisition-limits",
+        "title": "Fixer les limites avec la contribution et les coûts complets",
+        "p": [
+          "La valeur annuelle du contrat (ACV), le revenu annuel récurrent (ARR), la rétention et le coût d’acquisition client (CAC) exigent des définitions explicites. Le chiffre d’affaires n’est pas une marge brute, et une facture de campagne n’est pas le CAC complet."
+        ],
+        "dl": [
+          [
+            "Hypothèses illustratives",
+            "Une cohorte fictive coûte 12 000 unités monétaires d’acquisition, avec la répartition convenue du temps de l’équipe correctement valorisé, des outils, des données et du travail commercial. Elle produit trois nouveaux clients payants et huit démonstrations tenues et qualifiées."
+          ],
+          [
+            "Calcul",
+            "12 000 ÷ 8 = 1 500 par démonstration tenue et qualifiée. 12 000 ÷ 3 = 4 000 par nouveau client. Avec un revenu de première année de 9 000 par client et un taux de marge brute supposé de 80 %, la marge brute serait de 7 200 avant acquisition et autres frais généraux."
+          ],
+          [
+            "Décision et limites",
+            "Avec une marge brute supposée de 600 par mois, récupérer 4 000 prendrait environ 6,7 mois à revenu et marge constants. Ce n’est pas une prévision de trésorerie, de rétention ou de récupération. Départs précoces, déploiement, remises et délais de paiement peuvent modifier la décision. Si les coûts ou les résultats sont incomplets, indiquez-le."
+          ]
+        ],
+        "cost": true,
+        "after": [
+          "Utilisez une seule devise et une cohorte cohérente. Ne justifiez pas votre budget avec l’objectif LTV:CAC ou le taux de réponse d’une autre entreprise. Un calcul unitaire séduisant ne prouve pas qu’il existe assez de comptes adaptés."
+        ]
+      },
+      {
+        "id": "saas-pilot",
+        "title": "Utiliser un petit test pour repérer le vrai blocage",
+        "p": [
+          "Convenez du segment, de l’offre, du responsable, de la période de revue et de la règle de décision avant le lancement. Tenez compte du cycle de vente ; les premières réponses n’établissent pas l’économie d’acquisition. Suspendez en cas de problème produit, d’autorisation ou d’état des comptes."
+        ],
+        "headers": [
+          "Problème observé",
+          "À examiner d’abord",
+          "Changement suivant raisonnable"
+        ],
+        "rows": [
+          [
+            "Les comptes ne correspondent pas",
+            "Critères de recherche et exclusions",
+            "Corriger ou resserrer le segment avant de réécrire les messages"
+          ],
+          [
+            "Les messages échouent ou arrivent à la mauvaise personne",
+            "Coordonnées, configuration d’envoi et responsabilités",
+            "Réparer la cause vérifiée ; ajouter du volume ne la résout pas"
+          ],
+          [
+            "Les réponses pertinentes ne deviennent pas des démonstrations utiles",
+            "Question, qualification, disponibilité et transmission",
+            "Clarifier la prochaine étape et l’exigence ouverte"
+          ],
+          [
+            "Les démonstrations qualifiées n’avancent pas",
+            "Notes de découverte, adéquation produit, preuves, décision et responsabilité commerciale",
+            "Examiner la contrainte réelle avec le client et garder les résultats de cohorte ouverts"
+          ]
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Demander à l’agence de montrer son plan de travail",
+        "p": [
+          "Demandez une justification de compte, une revue de message, les règles de qualification et une fiche de transmission. Une longue liste d’outils ou une promesse de démonstrations ne remplace pas ces éléments."
+        ],
+        "downloadTitle": "Ouvrir le brief de campagne SaaS",
+        "downloadNote": "Lisez les questions ici ou téléchargez le même CSV statique. Aucune adresse email n’est demandée. Le calcul facultatif fonctionne uniquement dans cette page ; les données saisies ne sont ni enregistrées ni envoyées. Le CSV contient les questions de préparation, pas vos chiffres.",
+        "downloadLabel": "Télécharger le brief de campagne (CSV)",
+        "questions": [
+          [
+            "Mode de vente",
+            "Quelle prochaine étape proposer à l’acheteur, et pourquoi ?"
+          ],
+          [
+            "Segment",
+            "Quels processus, contextes d’entreprise et marchés pouvons-nous servir ?"
+          ],
+          [
+            "Preuves et exclusions",
+            "Qu’est-ce qui étaye la pertinence, reste inconnu ou disqualifie le compte ?"
+          ],
+          [
+            "Groupe d’achat",
+            "Qui utilise, soutient, valide et approuve le changement ?"
+          ],
+          [
+            "Preuves produit",
+            "Quelles démonstrations, documentations et preuves autorisées pouvons-nous montrer ?"
+          ],
+          [
+            "Exécution",
+            "Qui approuve liste, expéditeur, accès et autorisations de messages ?"
+          ],
+          [
+            "Réponses et arrêt",
+            "Qui traite questions techniques, reports, refus et exclusions ?"
+          ],
+          [
+            "Démonstration qualifiée",
+            "Quels critères exacts d’entreprise, de personne, de besoin, d’intérêt et d’adéquation appliquer ?"
+          ],
+          [
+            "Transmission et mesure",
+            "Quels calendrier, ID d’événement, responsable CRM, cohorte et champs de source rapprochent les résultats ?"
+          ],
+          [
+            "Coûts et revue",
+            "Quels coûts complets, contribution, date d’arrêté et décision de test utiliserons-nous ?"
+          ]
+        ]
+      },
+      {
+        "id": "beespoke-s-scope-and-limits",
+        "title": "Quand Beespoke est adapté",
+        "p": [
+          "Beespoke gère des campagnes de prospection par email à froid et/ou LinkedIn, pilotées par le fondateur, pour des offres B2B adaptées. Nous étudions comptes et personnes, rédigeons des messages individuels, exécutons avec autorisation, traitons les réponses, qualifions l’intérêt et facilitons les réservations selon les critères convenus. Votre équipe approuve le ciblage et confirme les faits produit ; elle garde la découverte technique, les démonstrations, les propositions et la conclusion des ventes.",
+          "Nous choisissons le premier canal selon l’activité de la personne et la possibilité de la joindre. Nous utilisons habituellement un premier message et une relance brève, puis coordonnons les contacts suivants. Logiciels, données et frais de tiers nécessaires sont séparés sauf inclusion écrite. Les appels font l’objet d’un devis par marché ; l’offre de base n’inclut pas un SDR à temps plein ni un volume garanti de rendez-vous.",
+          "Le fondateur accompagne les clients en anglais, espagnol, catalan et français. Cela ne signifie ni équipe illimitée de téléprospecteurs natifs, ni interfaces de tous les outils dans les quatre langues. L’échange de cadrage doit préciser l’offre, les contraintes, les preuves et le plus petit test défendable."
+        ],
+        "links": [
+          [
+            "/services/cold-email-lead-generation/",
+            "Découvrir la prospection email gérée"
+          ],
+          [
+            "/services/linkedin-lead-generation/",
+            "Découvrir la prospection LinkedIn"
+          ],
+          [
+            "/pricing/",
+            "Consulter le périmètre et les tarifs actuels"
+          ],
+          [
+            "/guides/account-based-prospecting/",
+            "Préparer des comptes ciblés"
+          ]
+        ]
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Questions sur la génération de leads B2B SaaS",
+        "faqs": [
+          [
+            "Toutes les entreprises SaaS devraient-elles prospecter à froid ?",
+            "Non. Cette approche convient lorsque vous pouvez identifier des comptes adaptés, expliquer une raison crédible d’évaluer le produit et financer l’acquisition accompagnée avec la contribution client et la capacité commerciale. Une offre en libre-service à faible contribution ou un produit non validé peuvent nécessiter une autre étape."
+          ],
+          [
+            "Un utilisateur en essai est-il un lead qualifié pour les ventes ?",
+            "Pas automatiquement. L’usage peut signaler un compte à accompagner, mais l’adéquation de l’entreprise, le rôle, le besoin et l’intérêt comptent toujours. Définissez PQL et SQL pour votre activité et séparez essais, démonstrations et opportunités."
+          ],
+          [
+            "Qu’est-ce qu’une démonstration SaaS qualifiée ?",
+            "Les critères écrits doivent couvrir entreprise, rôle du participant, besoin, intérêt et prérequis produit, en laissant les inconnues visibles. Distinguez réservé, tenu, tenu et qualifié, puis opportunité acceptée par les ventes."
+          ],
+          [
+            "Combien de temps faut-il pour juger une campagne ?",
+            "Il n’existe pas de délai universel. Définissez une période selon le nombre de comptes, le traitement des réponses et le cycle de vente. Les premiers échanges aident à diagnostiquer ciblage et messages ; les coûts par client exigent des coûts complets et des résultats suffisamment mûrs."
+          ],
+          [
+            "Beespoke réalise-t-il les démonstrations et conclut-il les ventes ?",
+            "Beespoke prend en charge la recherche autorisée, les messages, les réponses, la qualification et la facilitation des réservations. Les experts du client gardent la découverte produit et technique, les démonstrations, les propositions et la conclusion. Le transfert et le retour des résultats sont convenus avant le lancement."
+          ],
+          [
+            "Un brief ou un calculateur prouvent-ils une intention d’achat ?",
+            "Non. Ils aident à structurer une décision. Un téléchargement, une liste remplie ou un ratio ne démontrent ni besoin, ni budget, ni volonté de rendez-vous. Le calcul facultatif de cette page est local ; les chiffres saisis ne sont ni envoyés ni enregistrés."
+          ]
+        ]
+      }
+    ],
+    "cost": {
+      "title": "Facultatif : calculer le coût d’acquisition par résultat",
+      "note": "Utilisez des coûts complets dans une seule devise et des résultats vérifiés pour la même cohorte suffisamment mûre. Laissez un nombre inconnu vide ; saisissez zéro uniquement s’il est confirmé. Aucune saisie n’est envoyée ou enregistrée.",
+      "labels": [
+        "Coût complet d’acquisition",
+        "Démonstrations tenues et qualifiées",
+        "Nouveaux clients payants"
+      ],
+      "complete": "J’ai vérifié la couverture des coûts et l’appartenance des résultats à la même cohorte suffisamment mûre.",
+      "calculate": "Calculer",
+      "reset": "Effacer les chiffres",
+      "missingCost": "Saisissez d’abord le coût complet d’acquisition.",
+      "invalidCost": "Saisissez un coût fini supérieur ou égal à zéro.",
+      "invalidCount": "Utilisez un nombre entier supérieur ou égal à zéro, ou laissez un nombre inconnu vide.",
+      "incomplete": "Vérifiez la couverture des coûts et la maturité de la cohorte avant d’interpréter le résultat.",
+      "unknown": "Inconnu : nombre non renseigné.",
+      "zero": "Non calculable : aucun résultat vérifié.",
+      "unit": "unités monétaires",
+      "callLabel": "Coût par démonstration tenue et qualifiée",
+      "clientLabel": "Coût d’acquisition par nouveau client payant",
+      "basis": "Calcul à partir de vos chiffres, pas une prévision ni un score d’intention d’achat. Des coûts incomplets ne constituent pas un CAC complet."
+    }
+  }
+}
