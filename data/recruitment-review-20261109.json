@@ -1,0 +1,1762 @@
+{
+  "date": "2026-11-09",
+  "revision": "2026-11-09T11:13:58+00:00",
+  "en": {
+    "answer": "Recruitment-agency lead generation should produce conversations with employers who may buy your recruitment service. Start with one role market and geography you can serve, check the hiring signal and supplier restrictions, then approach the appropriate person with a relevant reason to talk. Keep candidate acquisition separate. A vacancy, funding round or booked call does not yet establish an accepted job order.",
+    "jump": "Work through three employer examples",
+    "dateLabel": "November 9, 2026",
+    "fiction": "All employers, situations, messages and numbers in the worked examples are fictional. They illustrate decisions, not Beespoke or customer results.",
+    "sourceTitle": "Sources and limits",
+    "sourceNote": "Reviewed November 9, 2026. We compared recruitment-specific guides, employer-acquisition service pages and relevant search results. The sources below inform the distinctions between hiring signals, supplier access, outreach and commercial outcomes. We do not adopt their provider rankings, software prices, response benchmarks, legal summaries or claims that a job posting guarantees budget or agency demand. Worked examples and review questions are our own; no client, candidate or prospect records are used.",
+    "sections": [
+      {
+        "id": "separate-employer-demand-from-candidate-demand",
+        "title": "Choose the employer work you want to win",
+        "p": [
+          "An employer lead is a potential buyer of your recruitment service. A candidate is someone you may place. Both matter to an agency, but they have different messages, records and outcomes. This guide focuses on winning suitable employer conversations and progressing them toward an agreed brief.",
+          "Choose a defined role family, service model and geography. Check that your delivery team can credibly handle the work before adding employers to an outreach list. Temporary staffing, permanent recruitment, executive search and embedded recruiting do not share one buying process."
+        ],
+        "headers": [
+          "Service",
+          "Reason to investigate",
+          "Relevant people",
+          "What to confirm"
+        ],
+        "rows": [
+          [
+            "Specialist permanent recruitment",
+            "A relevant role or recurring role pattern.",
+            "Talent lead and the functional hiring owner.",
+            "Role scope, external-agency fit and the route to an approved search."
+          ],
+          [
+            "Temporary or contract staffing",
+            "A project, seasonal requirement or capacity change.",
+            "Operations, HR and supplier/procurement owners.",
+            "Permitted labour model, requirements and supplier process."
+          ],
+          [
+            "Executive search",
+            "A publicly disclosed leadership change or an authorised conversation.",
+            "Executive sponsor, board or senior HR owner.",
+            "Mandate, confidentiality, search model and decision process."
+          ],
+          [
+            "Embedded recruiting",
+            "A sustained hiring programme the agency can support.",
+            "Talent leadership and the operational sponsor.",
+            "Duration, internal capability, scope and responsibilities."
+          ],
+          [
+            "Niche recruitment",
+            "Specialist skills within the agency’s actual market.",
+            "Functional owner and the person responsible for suppliers.",
+            "Relevant expertise and whether external support is appropriate."
+          ]
+        ]
+      },
+      {
+        "id": "recruitment-signal-test",
+        "title": "Keep observation, inference and qualification separate",
+        "p": [
+          "Use three distinct states for each signal. It prevents a useful research trigger from becoming an unsupported sales claim."
+        ],
+        "dl": [
+          [
+            "Observed",
+            "Record the public role, business update or permitted relationship context, with source and date. Verify that it is still current."
+          ],
+          [
+            "Inferred",
+            "Explain why it might connect to your service, then state what could make that inference wrong. A repost may reflect routine publishing; funding may support something other than recruitment."
+          ],
+          [
+            "Qualified",
+            "Confirm the employer’s relevant need, the agency’s fit, supplier access, the person’s responsibility and an agreed next step. Record what is still unknown rather than awarding points for assumptions."
+          ]
+        ],
+        "after": [
+          "A strong signal cannot cancel an explicit supplier restriction or a poor service fit. Treat missing evidence as a question to resolve, not as either a confirmed need or an automatic rejection."
+        ]
+      },
+      {
+        "id": "use-hiring-signals-without-confusing-them-with-intent",
+        "title": "Check the supplier route before contacting anyone",
+        "p": [
+          "Review the employer’s careers and supplier information alongside the signal. An open role does not invite unsolicited candidate submissions. A preferred supplier list (PSL) is an approved group of providers; a managed service provider (MSP) or vendor management system (VMS) may control the route for contingent staffing."
+        ],
+        "headers": [
+          "What you find",
+          "Decision",
+          "Next step"
+        ],
+        "rows": [
+          [
+            "Explicit no-agency contact or submission instruction",
+            "Stop the affected outreach or submission.",
+            "Respect the instruction. Use an official supplier application only if one is offered and appropriate."
+          ],
+          [
+            "Closed supplier list or an MSP/VMS route",
+            "Check the permitted process.",
+            "Find the published supplier owner or process; do not bypass it by messaging multiple hiring managers."
+          ],
+          [
+            "No clear supplier information",
+            "Keep access unconfirmed.",
+            "If fit and channel rules permit a relevant business approach, ask the appropriate owner whether external support is considered. Do not claim approval."
+          ],
+          [
+            "Existing permission or supplier status",
+            "Verify its scope and currency.",
+            "Check which entity, roles, territory and terms it covers; permission for one brief is not blanket permission for all work."
+          ]
+        ],
+        "after": [
+          "Do not use invented jobs, confidential candidate interview information or private application details to discover hiring managers. Confirm applicable channel, privacy and employer requirements with the person responsible for them before execution."
+        ]
+      },
+      {
+        "id": "rc-worked-signals",
+        "title": "Three signals, three different decisions",
+        "cards": [
+          [
+            "A relevant role; access still unknown",
+            "A fictional technical recruiter finds a current maintenance-supervisor vacancy in its actual territory. The role fits its expertise, but the supplier policy and hiring owner are unclear. Record the source and role requirements, check the supplier route, and identify the responsible person. A permitted approach may ask about external support. Do not claim a hard-to-fill role, available candidates or an accepted mandate."
+          ],
+          [
+            "A vacancy with a clear restriction",
+            "A fictional employer advertises several suitable roles but expressly says no agency contact. The agency stops this prospecting route. A high role count or an attractive fee does not override the instruction. If an official supplier application exists, assess that process separately rather than working around the restriction."
+          ],
+          [
+            "Funding without a hiring brief",
+            "A fictional business announces funding, with no relevant role, hiring plan or agency-access information. Keep it as a research hypothesis. Establish what the business intends to do and whether that connects to the agency’s service. Do not write that budget is approved, the team is struggling or recruiters are being selected."
+          ]
+        ],
+        "after": [
+          "These cases show why ‘hiring signal’ and ‘agency buying intent’ need separate fields. The correct next step can be research, a narrow clarification, the official supplier process or no contact."
+        ]
+      },
+      {
+        "id": "map-the-hiring-buying-group",
+        "title": "Find the decision route, not just a senior title",
+        "dl": [
+          [
+            "Functional hiring owner",
+            "Can clarify what the role needs to achieve and which skills matter. This person may influence a brief without approving supplier terms."
+          ],
+          [
+            "Talent or HR owner",
+            "Can explain internal recruitment, competing priorities and how external agencies are assessed. Do not assume every HR title owns the relevant role."
+          ],
+          [
+            "Procurement or programme owner",
+            "May control supplier approval, commercial terms or contingent-workforce processes. An interested hiring manager does not replace this approval."
+          ]
+        ],
+        "p": [
+          "Smaller employers may combine these responsibilities in one person. Larger employers may separate them. Record the actual route rather than always starting with a CEO or always starting with HR. Coordinate contact history so the same employer does not receive competing messages from several consultants."
+        ],
+        "links": [
+          [
+            "/guides/account-based-prospecting/",
+            "Map accounts and buying roles"
+          ]
+        ]
+      },
+      {
+        "id": "rc-messages",
+        "title": "Make the message useful before asking for a meeting",
+        "p": [
+          "Fictional example: an operations leader has publicly discussed how a new team will split maintenance and controls work. The recruiter has relevant expertise; the employer’s need for outside help is unconfirmed. The opening should connect that context to a useful question, without pretending candidates or results exist."
+        ],
+        "samples": [
+          [
+            "Email opening",
+            "Maintenance and controls appear as separate responsibilities in your update about the new team. We recruit technical operations roles. Before suggesting a search, I would want to understand whether you need one person spanning both or two different profiles, and whether you use external recruiters for this work. If useful, I can send a short outline of how we would define that brief. No CVs attached.",
+            "The public update provides a specific reason to write. The service connection is explicit, the need remains a question and the next step is modest. Use this structure only when its facts and expertise are true."
+          ],
+          [
+            "Short follow-up",
+            "Hi, just checking whether that outline would be useful.",
+            "A brief follow-up about four days later is an illustrative practice, not a compulsory timetable. Stop or adapt when the person declines, answers or asks for a later contact."
+          ],
+          [
+            "LinkedIn alternative",
+            "Your discussion about the maintenance and controls split raises a useful question for the brief: one combined profile or two specialists? That is the type of operations search we work on. Would an outline of the trade-offs be useful?",
+            "Use LinkedIn first when relevant public activity makes it a sensible channel. Do not send both versions simultaneously or invent a connection request note for every person."
+          ]
+        ],
+        "after": [
+          "Personalisation can come from a relevant public discussion, event, location, shared interest, role or company context. It does not have to be a corporate announcement. Explain why the connection matters; avoid scraped compliments, invented familiarity and repeated long follow-ups. Keep any later channel change coordinated with the same record."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Review the reasoning behind individual messages"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Plan useful follow-up"
+          ]
+        ]
+      },
+      {
+        "id": "rc-replies",
+        "title": "Use the reply to clarify the next step",
+        "dl": [
+          [
+            "‘We already have suppliers.’",
+            "If the message permits a reply, ask whether there is an official route for future specialist requirements. If the list is closed or they decline contact, record that and stop; do not seek a workaround."
+          ],
+          [
+            "‘We handle hiring internally.’",
+            "Acknowledge the process. Clarify whether external support is ever considered only when that is appropriate to the response. Internal hiring is not an objection that must be defeated."
+          ],
+          [
+            "‘Not now; contact us next quarter.’",
+            "Record the requested timing and context, assign an owner and avoid continuing the current sequence. Recheck circumstances before the agreed later approach."
+          ],
+          [
+            "‘Send candidates.’",
+            "Route the request to the recruitment expert. Confirm the brief, authority, supplier process and permitted candidate sharing. Do not send real CVs simply to keep a sales conversation moving."
+          ]
+        ]
+      },
+      {
+        "id": "make-specialization-verifiable",
+        "title": "Show relevant expertise without exposing people",
+        "p": [
+          "Employers need to understand which roles, markets and search decisions the agency can handle. Show a usable methodology or an authorised, properly bounded public case. A claimed network size does not establish suitability or current candidate availability."
+        ],
+        "ul": [
+          "Explain the role family, seniority, territory and search approach.",
+          "Use a fictional market-map or briefing example when permission for genuine proof is absent.",
+          "For a real result, retain its dates, sample, definitions and permission; do not turn one placement into a general guarantee.",
+          "Keep candidate identities, CVs, salary histories and confidential mandates out of cold-sales material.",
+          "State who handles specialist questions and what the receiving recruiter needs before accepting a brief."
+        ]
+      },
+      {
+        "id": "rc-relationships",
+        "title": "Use existing relationships with the right boundaries",
+        "p": [
+          "Past clients, appropriate referrals and professional partners can provide another route to employer conversations. Check current ownership, previous preferences and the context of the relationship before reactivating a record. A new role for a former contact is a reason to review relevance, not automatic permission to use old private information.",
+          "Keep candidate records and employer sales records distinct. A person’s application, interview or placement history is not a ready-made sales lead list. Use only information and contact routes appropriate to the business-development purpose. Do not disclose a candidate’s move or ask for confidential interview details to find a vacancy.",
+          "A referral should make the connection understandable to both sides. Record who introduced whom, what can be shared and the agreed next step. Do not add invented referral incentives or assume a warm introduction proves a live mandate."
+        ]
+      },
+      {
+        "id": "rc-weekly-workflow",
+        "title": "Give the work an owner each week",
+        "ol": [
+          "Research: review permitted relationship signals and relevant public hiring changes. Record sources, dates, fit, exclusions and unknowns in the employer record.",
+          "Review: a recruitment expert checks service fit, supplier restrictions and the actual message reasoning. Approve the list and any claims before authorised execution.",
+          "Conversations: the delivery owner handles replies, respects declines and timing requests, and routes specialist questions to the recruiter. Keep one shared contact history across agreed channels.",
+          "Reconcile: the commercial owner reviews original bookings, held conversations, accepted briefs and later outcomes. Decide what to clarify, pause or improve before increasing activity."
+        ],
+        "after": [
+          "Agree the actual workload and available review time. A calendar routine does not create capacity by itself. Automation can help organise records and approved tasks, but it should not convert every new vacancy into an unreviewed message or candidate submission."
+        ]
+      },
+      {
+        "id": "qualify-a-recruitment-agency-opportunity",
+        "title": "Separate replies, meetings and accepted job orders",
+        "p": [
+          "Before calling an employer conversation qualified, record employer and role fit, the contact’s responsibility, whether external support is possible, the hiring context and the agreed next step. Keep unknown budget or timing visible. A request for information can be useful without being a confirmed job order."
+        ],
+        "dl": [
+          [
+            "Original booking",
+            "Retain its original identity and creation date. A reschedule updates the same booking; cancellations are separate status changes."
+          ],
+          [
+            "Held and qualified conversation",
+            "Confirm attendance and assess it against the agreed criteria. The client recruiter accepts, rejects or requests clarification with a reason."
+          ],
+          [
+            "Accepted brief or job order",
+            "The agency confirms the requirements and commercial/supplier process needed to work the mandate. A positive reply or a calendar event is not that confirmation."
+          ],
+          [
+            "Placement and commercial outcome",
+            "Track the later start or placement and the agency’s actual financial outcome separately. Neither follows automatically from a meeting."
+          ]
+        ],
+        "case": [
+          "Fictional reporting example",
+          "Twelve researched employers produce six plausible-fit records, two excluded by policy and four needing more evidence. Of the six approached through permitted routes, two reply: one says ‘not now’, the other agrees to a call. That call is booked once and later rescheduled. Report one original booking, not two. Attendance, qualification and a job order remain unconfirmed until evidence arrives. These numbers illustrate recordkeeping, not expected conversion rates."
+        ],
+        "after": [
+          "Keep acquisition source separate from later assistance. An outreach-originated prospect who visits the website to book is different from an employer first acquired through organic search. Preserve source evidence and leave missing attribution unknown."
+        ],
+        "links": [
+          [
+            "/services/b2b-appointment-setting/",
+            "Define a useful meeting"
+          ],
+          [
+            "/guides/b2b-sales-prospecting-plan/",
+            "Plan the prospecting work"
+          ]
+        ]
+      },
+      {
+        "id": "rc-review-decisions",
+        "title": "Fix the constraint before adding volume",
+        "headers": [
+          "What you observe",
+          "What to check",
+          "Useful decision"
+        ],
+        "rows": [
+          [
+            "Plenty of signals, poor employer fit",
+            "Role market, geography, supplier restrictions and actual delivery capability.",
+            "Narrow or correct the research brief before buying more contacts."
+          ],
+          [
+            "Relevant contacts, weak replies",
+            "Current responsibilities, message accuracy, channel fit and whether the next step helps.",
+            "Review a complete sample; do not add repeated long follow-ups by default."
+          ],
+          [
+            "Replies and bookings, few accepted briefs",
+            "Attendance, qualification, supplier route, receiving-recruiter capacity and sales-cycle length.",
+            "Review the handoff and reasons for rejection; do not call every booking revenue."
+          ],
+          [
+            "A promising but small sample",
+            "Source quality, comparable periods, open opportunities and uncertainty.",
+            "Keep learning before projecting a stable meeting or placement rate."
+          ]
+        ],
+        "after": [
+          "Compare like periods and sources. Include delivery and client-review time when comparing costs, and count shared costs once. With no verified outcome, do not present a finite cost per job order or extrapolate a guaranteed return."
+        ]
+      },
+      {
+        "id": "where-beespoke-can-fit",
+        "title": "What Beespoke handles and what stays with the agency",
+        "p": [
+          "Beespoke provides founder-led managed cold email and/or cold LinkedIn prospecting within an agreed scope. We research suitable employers and people, write individual messages, prepare authorised activity, handle replies, qualify conversations and facilitate booking against agreed criteria. The recruitment agency supplies judgment on list fit, permitted proof, specialist answers and the discovery needed to agree a mandate.",
+          "The agency remains responsible for recruitment delivery, candidate permission and sharing, supplier terms, proposals and closing. Beespoke does not source candidates, submit CVs, operate your applicant-tracking system or guarantee job orders, placements or a fixed meeting volume.",
+          "Required software, data and third-party costs are separate unless included in writing. Cold calling is separately quoted by market; native callers would be hired where appropriate. The founder supports English, Spanish, Catalan and French. Review the current scope and minimum commitment rather than treating a focused campaign as a shorter or unlimited service."
+        ],
+        "links": [
+          [
+            "/services/b2b-lead-generation/",
+            "Review managed B2B lead generation"
+          ],
+          [
+            "/services/cold-email-lead-generation/",
+            "Review the cold-email service"
+          ],
+          [
+            "/pricing/",
+            "See current terms and pricing"
+          ]
+        ],
+        "aliases": []
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Keep a brief you can actually review",
+        "p": [
+          "Use these questions before approving an employer list or a delivery proposal. The optional download contains the questions only. No name, email, candidate data or upload is required, and nothing is submitted."
+        ],
+        "questions": [
+          [
+            "Service fit",
+            "Which roles, territory and recruitment model can we credibly deliver?"
+          ],
+          [
+            "Evidence",
+            "What is observed, from which public or permitted source, and when was it checked?"
+          ],
+          [
+            "Unknowns",
+            "Which need, timing, budget or responsibility is still unconfirmed?"
+          ],
+          [
+            "Supplier route",
+            "What restrictions, approvals or published supplier process apply?"
+          ],
+          [
+            "Contact and message",
+            "Who is appropriate, why this channel, and which message claims are supported?"
+          ],
+          [
+            "Ownership",
+            "Who reviews the list, handles replies and answers recruitment questions?"
+          ],
+          [
+            "Acceptance",
+            "What makes a held conversation useful, and who accepts the brief?"
+          ],
+          [
+            "Reporting",
+            "How will original bookings, mandates, placements and acquisition source remain separate?"
+          ]
+        ],
+        "downloadTitle": "Open the employer-brief questions",
+        "downloadNote": "Read the questions here or download a local CSV. Keep real employer and candidate records in your approved business systems.",
+        "downloadLabel": "Download the brief questions as CSV"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Questions about winning recruitment clients",
+        "faqs": [
+          [
+            "How can a recruitment agency generate client leads?",
+            "Start with a role market and geography the agency can serve, research relevant employers and supplier routes, and approach the responsible person with a supported reason to talk. Appropriate referrals, past-client relationships and useful hiring content can complement outbound. Candidate applications are a separate acquisition job."
+          ],
+          [
+            "Does a job posting prove an employer wants an agency?",
+            "No. It may justify research, but it does not establish difficulty, approved external spend or permission for submissions. Check current context, service fit, supplier restrictions and the responsible person before treating it as an agency opportunity."
+          ],
+          [
+            "Who should a recruitment agency contact?",
+            "Follow the actual buying route. A functional owner may define the need, talent or HR may manage recruitment, and procurement or an MSP may control suppliers. Smaller firms may combine these roles. A senior title alone does not prove authority."
+          ],
+          [
+            "What if the employer already has preferred suppliers?",
+            "Respect the stated policy. If an official application or review route is available, assess it separately. A closed list or no-contact instruction is not a reason to bypass HR and message several hiring managers."
+          ],
+          [
+            "Can we generate employer leads without buying another database?",
+            "You can start with suitable public sources and appropriately permitted relationships in your existing systems. Time, verification, message work and reply handling still have costs. A contact database can assist research; it does not establish demand or run the whole process."
+          ],
+          [
+            "What counts as a qualified recruitment lead?",
+            "It should fit the employer and role market, involve an appropriate contact, have a plausible route for external support and an agreed useful next step. Distinguish a reply, a booking, a held qualified conversation and an accepted brief; missing evidence remains unconfirmed."
+          ],
+          [
+            "Does Beespoke supply candidates or guarantee job orders?",
+            "No. Beespoke manages the agreed cold email and/or LinkedIn employer-prospecting work. The recruitment agency provides recruitment expertise, candidate handling and sales decisions. Calling and third-party costs have their own scope; meetings, mandates and placements are not guaranteed."
+          ]
+        ]
+      }
+    ]
+  },
+  "es": {
+    "answer": "La captación de leads para agencias de selección debe generar conversaciones con empresas que puedan contratar sus servicios. Empieza por un mercado de puestos y una zona que puedas atender, comprueba la señal de contratación y las restricciones de proveedores, y contacta con la persona adecuada por un motivo relevante. Separa la captación de candidatos. Una vacante, una ronda de financiación o una llamada reservada todavía no constituyen un encargo aceptado.",
+    "jump": "Ver tres ejemplos de empresas",
+    "dateLabel": "9 de noviembre de 2026",
+    "fiction": "Todas las empresas, situaciones, mensajes y cifras de los ejemplos son ficticios. Ilustran decisiones; no son resultados de Beespoke ni de sus clientes.",
+    "sourceTitle": "Fuentes y límites",
+    "sourceNote": "Revisión del 9 de noviembre de 2026. Comparamos guías de selección, páginas de servicios de captación de empresas y resultados de búsqueda pertinentes. Las fuentes siguientes ayudan a distinguir señales de contratación, acceso como proveedor, prospección y resultados comerciales. No adoptamos sus clasificaciones de proveedores, precios de software, tasas de respuesta, resúmenes jurídicos ni afirmaciones de que una oferta de empleo garantiza presupuesto o demanda de agencias. Los ejemplos y preguntas son propios; no usamos registros de clientes, candidatos ni prospectos.",
+    "sections": [
+      {
+        "id": "separate-employer-demand-from-candidate-demand",
+        "title": "Elige qué trabajo quieres conseguir de las empresas",
+        "p": [
+          "Un lead de empresa es un posible comprador de tus servicios de selección. Un candidato es alguien a quien puedes colocar. Ambos importan, pero requieren mensajes, registros y resultados distintos. Esta guía se centra en conseguir conversaciones adecuadas con empresas y avanzar hacia un encargo acordado.",
+          "Define una familia de puestos, un modelo de servicio y una zona. Comprueba que tu equipo puede realizar el trabajo antes de añadir empresas a la lista. Trabajo temporal, selección permanente, búsqueda de directivos y selección integrada no comparten un único proceso de compra."
+        ],
+        "headers": [
+          "Servicio",
+          "Motivo para investigar",
+          "Personas relevantes",
+          "Qué confirmar"
+        ],
+        "rows": [
+          [
+            "Selección permanente especializada",
+            "Un puesto relevante o un patrón recurrente de vacantes.",
+            "Responsable de talento y responsable funcional de contratación.",
+            "Alcance del puesto, encaje de una agencia y vía para aprobar la búsqueda."
+          ],
+          [
+            "Trabajo temporal o contratación de profesionales por proyecto",
+            "Un proyecto, necesidad estacional o cambio de capacidad.",
+            "Operaciones, RR. HH. y responsables de proveedores o compras.",
+            "Modelo laboral permitido, requisitos y proceso de proveedores."
+          ],
+          [
+            "Búsqueda de directivos",
+            "Un cambio de liderazgo público o una conversación autorizada.",
+            "Patrocinador ejecutivo, consejo o responsable sénior de RR. HH.",
+            "Encargo, confidencialidad, modelo de búsqueda y decisión."
+          ],
+          [
+            "Selección integrada",
+            "Un programa sostenido de contratación que la agencia pueda atender.",
+            "Dirección de talento y patrocinador operativo.",
+            "Duración, capacidad interna, alcance y responsabilidades."
+          ],
+          [
+            "Selección de nicho",
+            "Competencias especializadas del mercado real de la agencia.",
+            "Responsable funcional y responsable de proveedores.",
+            "Experiencia pertinente y adecuación del apoyo externo."
+          ]
+        ]
+      },
+      {
+        "id": "recruitment-signal-test",
+        "title": "Separa observación, inferencia y cualificación",
+        "p": [
+          "Usa tres estados distintos para cada señal. Así evitas convertir un motivo de investigación en una afirmación comercial sin respaldo."
+        ],
+        "dl": [
+          [
+            "Observado",
+            "Registra el puesto público, la novedad empresarial o el contexto de relación permitido, con fuente y fecha. Comprueba que sigue vigente."
+          ],
+          [
+            "Inferido",
+            "Explica por qué podría conectar con tu servicio y qué podría invalidar esa hipótesis. Una republicación puede ser rutinaria; la financiación puede destinarse a otra cosa."
+          ],
+          [
+            "Cualificado",
+            "Confirma necesidad relevante, encaje de la agencia, acceso como proveedor, responsabilidad del contacto y siguiente paso acordado. Registra lo desconocido sin puntuar suposiciones."
+          ]
+        ],
+        "after": [
+          "Una señal fuerte no anula una restricción expresa ni un mal encaje. La falta de evidencia es una pregunta por resolver, no una necesidad confirmada ni un rechazo automático."
+        ]
+      },
+      {
+        "id": "use-hiring-signals-without-confusing-them-with-intent",
+        "title": "Comprueba la vía de proveedores antes de contactar",
+        "p": [
+          "Revisa la información de empleo y proveedores junto con la señal. Una vacante no invita a enviar candidatos sin solicitud. Una lista de proveedores preferentes (PSL) reúne proveedores aprobados; un proveedor de servicios gestionados (MSP) o un sistema de gestión de proveedores (VMS) puede controlar el acceso al trabajo temporal o por proyecto."
+        ],
+        "headers": [
+          "Lo que encuentras",
+          "Decisión",
+          "Siguiente paso"
+        ],
+        "rows": [
+          [
+            "Instrucción expresa de no contactar ni enviar candidatos como agencia",
+            "Detén la prospección o el envío afectados.",
+            "Respeta la instrucción. Usa una solicitud oficial de alta como proveedor solo si existe y corresponde."
+          ],
+          [
+            "Lista cerrada o vía MSP/VMS",
+            "Comprueba el proceso permitido.",
+            "Localiza al responsable o proceso publicado; no lo eludas escribiendo a varios responsables de contratación."
+          ],
+          [
+            "Información de proveedores poco clara",
+            "El acceso sigue sin confirmarse.",
+            "Si el encaje y las reglas del canal permiten un contacto profesional relevante, pregunta al responsable si consideran apoyo externo. No afirmes estar aprobado."
+          ],
+          [
+            "Permiso o condición de proveedor existente",
+            "Verifica alcance y vigencia.",
+            "Comprueba entidad, puestos, territorio y condiciones; un encargo no autoriza todo trabajo futuro."
+          ]
+        ],
+        "after": [
+          "No uses ofertas inventadas, información confidencial de entrevistas ni datos privados de candidaturas para localizar decisores. Confirma con el responsable los requisitos del canal, privacidad y empresa antes de ejecutar."
+        ]
+      },
+      {
+        "id": "rc-worked-signals",
+        "title": "Tres señales, tres decisiones distintas",
+        "cards": [
+          [
+            "Puesto pertinente; acceso desconocido",
+            "Una agencia técnica ficticia encuentra una vacante vigente de supervisor de mantenimiento en su territorio. Encaja con su experiencia, pero desconoce la política de proveedores y el responsable. Registra fuente y requisitos, comprueba la vía e identifica a la persona adecuada. Un contacto permitido puede preguntar por apoyo externo. No afirmes dificultad del puesto, candidatos disponibles ni encargo aceptado."
+          ],
+          [
+            "Vacante con restricción clara",
+            "Una empresa ficticia anuncia varios puestos adecuados y pide expresamente que no contacten agencias. La agencia detiene esa vía. El número de vacantes o un honorario atractivo no anulan la instrucción. Si hay una solicitud oficial para proveedores, evalúala por separado en vez de sortear la restricción."
+          ],
+          [
+            "Financiación sin encargo de contratación",
+            "Una empresa ficticia anuncia financiación sin puestos relevantes, plan de contratación ni información de acceso para agencias. Conserva una hipótesis de investigación. Comprueba sus planes y su relación con el servicio. No escribas que tiene presupuesto aprobado, dificultades de equipo o un proceso abierto de selección de agencias."
+          ]
+        ],
+        "after": [
+          "Estos casos muestran por qué señal de contratación e intención de contratar una agencia necesitan campos separados. El siguiente paso puede ser investigar, pedir una aclaración concreta, seguir el proceso oficial o no contactar."
+        ]
+      },
+      {
+        "id": "map-the-hiring-buying-group",
+        "title": "Encuentra la vía de decisión, no solo un cargo sénior",
+        "dl": [
+          [
+            "Responsable funcional",
+            "Puede aclarar qué debe conseguir el puesto y qué competencias importan. Puede influir en el encargo sin aprobar condiciones de proveedores."
+          ],
+          [
+            "Responsable de talento o RR. HH.",
+            "Puede explicar la selección interna, prioridades y evaluación de agencias. No todo cargo de RR. HH. dirige el puesto relevante."
+          ],
+          [
+            "Responsable de compras o del programa",
+            "Puede controlar homologación, condiciones comerciales o contratación temporal. El interés del responsable funcional no sustituye esa aprobación."
+          ]
+        ],
+        "p": [
+          "Las empresas pequeñas pueden reunir estas funciones en una persona; las grandes pueden separarlas. Registra la vía real, en vez de empezar siempre por el CEO o por RR. HH. Coordina el historial para que distintos consultores no envíen mensajes incompatibles a la misma empresa."
+        ],
+        "links": [
+          [
+            "/guides/account-based-prospecting/",
+            "Mapear cuentas y funciones de compra"
+          ]
+        ]
+      },
+      {
+        "id": "rc-messages",
+        "title": "Haz útil el mensaje antes de pedir una reunión",
+        "p": [
+          "Ejemplo ficticio: un responsable de operaciones ha explicado públicamente cómo un nuevo equipo repartirá mantenimiento y control. La agencia tiene experiencia pertinente; la necesidad de apoyo externo no está confirmada. Conecta el contexto con una pregunta útil sin fingir candidatos ni resultados."
+        ],
+        "samples": [
+          [
+            "Primer email",
+            "Mantenimiento y control aparecen como responsabilidades separadas en tu publicación sobre el nuevo equipo. Seleccionamos perfiles de operaciones técnicas. Antes de proponer una búsqueda, querría entender si necesitáis una persona que cubra ambas áreas o dos perfiles distintos, y si recurrís a agencias para este trabajo. Si te sirve, puedo enviar un esquema breve de cómo definiríamos el encargo. No adjunto CVs.",
+            "La publicación aporta un motivo concreto. La conexión con el servicio es explícita, la necesidad sigue siendo una pregunta y el siguiente paso es modesto. Usa esta estructura solo cuando sus hechos y experiencia sean ciertos."
+          ],
+          [
+            "Seguimiento breve",
+            "Hola, te escribo por si ese esquema pudiera serte útil.",
+            "Un recordatorio breve unos cuatro días después ilustra una práctica, no un calendario obligatorio. Detén o adapta el contacto si la persona rechaza, responde o pide otra fecha."
+          ],
+          [
+            "Alternativa en LinkedIn",
+            "Tu comentario sobre separar mantenimiento y control plantea una pregunta útil para el encargo: ¿un perfil combinado o dos especialistas? Trabajamos ese tipo de selección de operaciones. ¿Te serviría un esquema de las diferencias?",
+            "Empieza por LinkedIn cuando la actividad pública pertinente haga razonable ese canal. No envíes ambas versiones a la vez ni inventes una nota personalizada para cada invitación."
+          ]
+        ],
+        "after": [
+          "La personalización puede partir de una conversación pública, evento, lugar, interés compartido, función o contexto empresarial pertinente. No necesita una noticia corporativa. Explica la conexión; evita halagos copiados, familiaridad inventada y seguimientos largos repetidos. Coordina cualquier cambio de canal con el mismo registro."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar el razonamiento de mensajes individuales"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Planificar un seguimiento útil"
+          ]
+        ]
+      },
+      {
+        "id": "rc-replies",
+        "title": "Usa la respuesta para aclarar el siguiente paso",
+        "dl": [
+          [
+            "«Ya tenemos proveedores»",
+            "Si la respuesta permite continuar, pregunta si existe una vía oficial para futuras necesidades especializadas. Si la lista está cerrada o rechazan contacto, regístralo y detente; no busques un atajo."
+          ],
+          [
+            "«Seleccionamos internamente»",
+            "Reconoce su proceso. Aclara si consideran apoyo externo solo cuando sea apropiado según la respuesta. La selección interna no es una objeción que haya que vencer."
+          ],
+          [
+            "«Ahora no; contacta el próximo trimestre»",
+            "Registra fecha y contexto solicitados, asigna responsable y detén la secuencia actual. Revisa circunstancias antes del contacto posterior acordado."
+          ],
+          [
+            "«Envíanos candidatos»",
+            "Deriva la petición al experto de selección. Confirma encargo, autoridad, proceso de proveedores y permiso para compartir candidatos. No envíes CVs reales solo para sostener la conversación comercial."
+          ]
+        ]
+      },
+      {
+        "id": "make-specialization-verifiable",
+        "title": "Demuestra experiencia sin exponer a las personas",
+        "p": [
+          "La empresa debe entender qué puestos, mercados y decisiones de búsqueda puede atender la agencia. Muestra un método útil o un caso público autorizado y bien delimitado. El tamaño declarado de una red no demuestra idoneidad ni disponibilidad actual de candidatos."
+        ],
+        "ul": [
+          "Explica familia de puestos, nivel, territorio y método de búsqueda.",
+          "Usa un mapa de mercado o un encargo ficticio si no hay permiso para pruebas reales.",
+          "Conserva fechas, muestra, definiciones y permiso de cualquier resultado real; una colocación no es una garantía general.",
+          "Mantén identidades, CVs, historiales salariales y encargos confidenciales fuera de la venta en frío.",
+          "Indica quién responde preguntas especializadas y qué necesita el reclutador receptor antes de aceptar un encargo."
+        ]
+      },
+      {
+        "id": "rc-relationships",
+        "title": "Aprovecha relaciones existentes con límites adecuados",
+        "p": [
+          "Antiguos clientes, recomendaciones apropiadas y socios profesionales pueden facilitar conversaciones. Comprueba responsable actual, preferencias previas y contexto antes de reactivar un registro. Un nuevo puesto de un antiguo contacto invita a revisar pertinencia, no autoriza automáticamente datos privados antiguos.",
+          "Separa registros de candidatos y ventas a empresas. La historia de candidaturas, entrevistas o colocaciones no es una lista comercial preparada. Usa información y vías de contacto apropiadas para desarrollo de negocio. No reveles movimientos de candidatos ni pidas datos confidenciales de entrevistas para descubrir una vacante.",
+          "Una recomendación debe hacer comprensible la conexión a ambas partes. Registra quién presenta a quién, qué se puede compartir y el siguiente paso. No inventes incentivos ni des por hecho que una presentación demuestra un encargo activo."
+        ]
+      },
+      {
+        "id": "rc-weekly-workflow",
+        "title": "Asigna un responsable al trabajo de cada semana",
+        "ol": [
+          "Investigación: revisa señales permitidas de relaciones y cambios públicos relevantes. Registra fuentes, fechas, encaje, exclusiones e incógnitas en la ficha de empresa.",
+          "Revisión: un experto de selección comprueba servicio, restricciones y razonamiento del mensaje. Aprueba lista y afirmaciones antes de la ejecución autorizada.",
+          "Conversaciones: el responsable de ejecución gestiona respuestas, respeta rechazos y fechas, y deriva preguntas especializadas. Mantén un historial compartido entre canales acordados.",
+          "Conciliación: el responsable comercial revisa reservas originales, conversaciones celebradas, encargos aceptados y resultados posteriores. Decide qué aclarar, pausar o mejorar antes de aumentar actividad."
+        ],
+        "after": [
+          "Acuerda carga de trabajo y tiempo real de revisión. Una rutina de calendario no crea capacidad. La automatización puede organizar registros y tareas aprobadas, pero no debe convertir cada vacante en un mensaje o envío de candidatos sin revisión."
+        ]
+      },
+      {
+        "id": "qualify-a-recruitment-agency-opportunity",
+        "title": "Distingue respuestas, reuniones y encargos aceptados",
+        "p": [
+          "Antes de calificar una conversación, registra encaje de empresa y puestos, responsabilidad del contacto, posibilidad de apoyo externo, contexto de contratación y siguiente paso. Mantén visibles presupuesto y plazos desconocidos. Pedir información puede ser útil sin constituir un encargo confirmado."
+        ],
+        "dl": [
+          [
+            "Reserva original",
+            "Conserva identidad y fecha de creación originales. Reprogramar actualiza la misma reserva; cancelar es otro cambio de estado."
+          ],
+          [
+            "Conversación celebrada y cualificada",
+            "Confirma asistencia y evalúa los criterios acordados. El reclutador del cliente acepta, rechaza o pide aclaraciones con motivos."
+          ],
+          [
+            "Encargo aceptado",
+            "La agencia confirma requisitos y proceso comercial y de proveedores necesarios para trabajar. Una respuesta positiva o evento de calendario no equivalen a esa confirmación."
+          ],
+          [
+            "Colocación y resultado comercial",
+            "Registra incorporación o colocación posterior y resultado económico real por separado. Ninguno se deduce automáticamente de una reunión."
+          ]
+        ],
+        "case": [
+          "Ejemplo ficticio de informes",
+          "Doce empresas investigadas producen seis registros con encaje plausible, dos excluidos por política y cuatro pendientes de evidencia. De las seis contactadas por vías permitidas, dos responden: una dice «ahora no» y otra acepta una llamada. Esa llamada se reserva una vez y después cambia de fecha. Cuenta una reserva original, no dos. Asistencia, cualificación y encargo siguen sin confirmar hasta disponer de evidencia. Las cifras ilustran registros, no tasas esperadas."
+        ],
+        "after": [
+          "Separa origen de captación y ayuda posterior. Un prospecto originado por prospección que visita la web para reservar es distinto de una empresa captada inicialmente por búsqueda orgánica. Conserva la evidencia de origen y deja desconocida la atribución que falte."
+        ],
+        "links": [
+          [
+            "/services/b2b-appointment-setting/",
+            "Definir una reunión útil"
+          ],
+          [
+            "/guides/b2b-sales-prospecting-plan/",
+            "Planificar la prospección"
+          ]
+        ]
+      },
+      {
+        "id": "rc-review-decisions",
+        "title": "Resuelve la limitación antes de añadir volumen",
+        "headers": [
+          "Lo que observas",
+          "Qué comprobar",
+          "Decisión útil"
+        ],
+        "rows": [
+          [
+            "Muchas señales, poco encaje",
+            "Puestos, territorio, restricciones y capacidad real de entrega.",
+            "Corrige o acota el encargo de investigación antes de comprar más contactos."
+          ],
+          [
+            "Contactos pertinentes, pocas respuestas útiles",
+            "Funciones actuales, precisión, canal y utilidad del siguiente paso.",
+            "Revisa una muestra completa; no añadas seguimientos largos por defecto."
+          ],
+          [
+            "Respuestas y reservas, pocos encargos aceptados",
+            "Asistencia, cualificación, vía de proveedores, capacidad receptora y ciclo comercial.",
+            "Revisa traspaso y rechazos; no llames ingresos a toda reserva."
+          ],
+          [
+            "Muestra prometedora pero pequeña",
+            "Calidad de origen, periodos comparables, oportunidades abiertas e incertidumbre.",
+            "Sigue aprendiendo antes de proyectar una tasa estable de reuniones o colocaciones."
+          ]
+        ],
+        "after": [
+          "Compara periodos y fuentes equivalentes. Incluye tiempo de ejecución y revisión del cliente al comparar costes y cuenta partidas compartidas una vez. Sin resultados verificados, no presentes un coste finito por encargo ni una rentabilidad garantizada."
+        ]
+      },
+      {
+        "id": "where-beespoke-can-fit",
+        "title": "Qué gestiona Beespoke y qué corresponde a la agencia",
+        "p": [
+          "Beespoke ofrece prospección gestionada por el fundador mediante email en frío y/o LinkedIn en frío con alcance acordado. Investigamos empresas y personas adecuadas, escribimos mensajes individuales, preparamos actividad autorizada, gestionamos respuestas, cualificamos conversaciones y facilitamos reservas según criterios pactados. La agencia aporta criterio sobre listas, pruebas permitidas, respuestas especializadas y la conversación comercial necesaria para acordar un encargo.",
+          "La agencia conserva la selección, permisos y envío de candidatos, condiciones de proveedores, propuestas y cierre. Beespoke no busca candidatos, envía CVs, opera tu sistema de seguimiento de candidaturas ni garantiza encargos, colocaciones o un volumen fijo de reuniones.",
+          "Software, datos y terceros necesarios se pagan aparte salvo inclusión escrita. Las llamadas en frío se presupuestan por mercado; se contratarían profesionales nativos cuando corresponda. El fundador trabaja en inglés, español, catalán y francés. Consulta alcance y compromiso mínimo vigentes: una campaña concreta no implica un servicio más corto o ilimitado."
+        ],
+        "links": [
+          [
+            "/services/b2b-lead-generation/",
+            "Revisar captación B2B gestionada"
+          ],
+          [
+            "/services/cold-email-lead-generation/",
+            "Revisar el servicio de email en frío"
+          ],
+          [
+            "/pricing/",
+            "Ver condiciones y precios vigentes"
+          ]
+        ],
+        "aliases": [
+          "where-beespoke-can-encaje"
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Conserva un encargo que puedas revisar",
+        "p": [
+          "Usa estas preguntas antes de aprobar una lista o propuesta. La descarga opcional contiene solo preguntas. No pide nombre, email, datos de candidatos ni archivos, y no se envía nada."
+        ],
+        "questions": [
+          [
+            "Encaje del servicio",
+            "¿Qué puestos, territorio y modelo podemos atender con credibilidad?"
+          ],
+          [
+            "Evidencia",
+            "¿Qué se ha observado, en qué fuente pública o permitida y cuándo se comprobó?"
+          ],
+          [
+            "Incógnitas",
+            "¿Qué necesidad, plazo, presupuesto o responsabilidad sigue sin confirmarse?"
+          ],
+          [
+            "Vía de proveedores",
+            "¿Qué restricciones, aprobaciones o proceso publicado se aplican?"
+          ],
+          [
+            "Contacto y mensaje",
+            "¿Quién corresponde, por qué ese canal y qué afirmaciones tienen respaldo?"
+          ],
+          [
+            "Responsabilidad",
+            "¿Quién revisa listas, gestiona respuestas y contesta preguntas de selección?"
+          ],
+          [
+            "Aceptación",
+            "¿Qué hace útil una conversación celebrada y quién acepta el encargo?"
+          ],
+          [
+            "Informes",
+            "¿Cómo se separarán reservas originales, encargos, colocaciones y origen?"
+          ]
+        ],
+        "downloadTitle": "Abrir las preguntas del encargo de empresa",
+        "downloadNote": "Lee aquí o descarga un CSV local. Conserva registros reales de empresas y candidatos en tus sistemas aprobados.",
+        "downloadLabel": "Descargar las preguntas en CSV"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Preguntas sobre captar clientes de selección",
+        "faqs": [
+          [
+            "¿Cómo puede una agencia generar leads de empresas?",
+            "Empieza por puestos y territorio que puedas atender, investiga empresas y vías de proveedores, y contacta al responsable por un motivo respaldado. Recomendaciones apropiadas, antiguos clientes y contenido útil pueden complementar la prospección. Las candidaturas son una captación distinta."
+          ],
+          [
+            "¿Una vacante demuestra que quieren una agencia?",
+            "No. Puede justificar investigar, pero no confirma dificultad, presupuesto externo ni permiso para enviar candidatos. Comprueba contexto, servicio, restricciones y responsable antes de considerarla una oportunidad."
+          ],
+          [
+            "¿Con quién debe contactar una agencia?",
+            "Sigue la vía real de compra. El responsable funcional puede definir la necesidad; talento o RR. HH., gestionar selección; compras o un MSP, controlar proveedores. Una empresa pequeña puede combinar funciones. Un cargo sénior no demuestra autoridad."
+          ],
+          [
+            "¿Qué ocurre si ya tienen proveedores preferentes?",
+            "Respeta la política. Si existe solicitud o revisión oficial, evalúala por separado. Una lista cerrada o prohibición de contacto no justifica eludir RR. HH. y escribir a varios responsables."
+          ],
+          [
+            "¿Podemos captar empresas sin otra base de datos?",
+            "Puedes empezar con fuentes públicas pertinentes y relaciones cuyo uso sea apropiado en tus sistemas. Tiempo, verificación, mensajes y respuestas siguen teniendo coste. Una base puede ayudar a investigar; no demuestra demanda ni ejecuta todo el proceso."
+          ],
+          [
+            "¿Qué es un lead de selección cualificado?",
+            "Debe encajar en empresa y mercado de puestos, implicar un contacto apropiado, tener vía plausible de apoyo externo y un siguiente paso útil acordado. Distingue respuesta, reserva, conversación celebrada y cualificada y encargo aceptado; la evidencia ausente sigue sin confirmarse."
+          ],
+          [
+            "¿Beespoke aporta candidatos o garantiza encargos?",
+            "No. Beespoke gestiona la prospección de empresas acordada por email en frío y/o LinkedIn. La agencia aporta experiencia de selección, gestiona candidatos y decide ventas. Llamadas y terceros tienen alcance propio; reuniones, encargos y colocaciones no están garantizados."
+          ]
+        ]
+      }
+    ]
+  },
+  "ca": {
+    "answer": "La captació de leads per a agències de selecció ha de generar converses amb empreses que puguin contractar-ne els serveis. Comença per un mercat de llocs de treball i una zona que puguis atendre, comprova el senyal de contractació i les restriccions de proveïdors, i contacta la persona adequada amb un motiu rellevant. Separa la captació de candidats. Una vacant, una ronda de finançament o una trucada reservada encara no constitueixen un encàrrec acceptat.",
+    "jump": "Veure tres exemples d’empreses",
+    "dateLabel": "9 de novembre de 2026",
+    "fiction": "Totes les empreses, situacions, missatges i xifres dels exemples són ficticis. Il·lustren decisions; no són resultats de Beespoke ni dels seus clients.",
+    "sourceTitle": "Fonts i límits",
+    "sourceNote": "Revisió del 9 de novembre de 2026. Comparem guies de selecció, pàgines de serveis de captació d’empreses i resultats de cerca pertinents. Les fonts següents ajuden a distingir senyals de contractació, accés com a proveïdor, prospecció i resultats comercials. No adoptem les seves classificacions de proveïdors, preus de programari, taxes de resposta, resums jurídics ni afirmacions que una oferta de feina garanteix pressupost o demanda d’agències. Els exemples i les preguntes són propis; no fem servir registres de clients, candidats ni prospectes.",
+    "sections": [
+      {
+        "id": "separate-employer-demand-from-candidate-demand",
+        "title": "Tria quina feina vols aconseguir de les empreses",
+        "p": [
+          "Un lead d’empresa és un possible comprador dels teus serveis de selecció. Un candidat és algú que pots col·locar. Tots dos importen, però requereixen missatges, registres i resultats diferents. Aquesta guia se centra a aconseguir converses adequades amb empreses i avançar cap a un encàrrec acordat.",
+          "Defineix una família de llocs, un model de servei i una zona. Comprova que l’equip pot fer la feina abans d’afegir empreses a la llista. Treball temporal, selecció permanent, cerca de directius i selecció integrada no comparteixen un únic procés de compra."
+        ],
+        "headers": [
+          "Servei",
+          "Motiu per investigar",
+          "Persones rellevants",
+          "Què confirmar"
+        ],
+        "rows": [
+          [
+            "Selecció permanent especialitzada",
+            "Un lloc rellevant o un patró recurrent de vacants.",
+            "Responsable de talent i responsable funcional de contractació.",
+            "Abast del lloc, encaix d’una agència i via per aprovar la cerca."
+          ],
+          [
+            "Treball temporal o contractació de professionals per projecte",
+            "Un projecte, necessitat estacional o canvi de capacitat.",
+            "Operacions, RR. HH. i responsables de proveïdors o compres.",
+            "Model laboral permès, requisits i procés de proveïdors."
+          ],
+          [
+            "Cerca de directius",
+            "Un canvi de lideratge públic o una conversa autoritzada.",
+            "Patrocinador executiu, consell o responsable sènior de RR. HH.",
+            "Encàrrec, confidencialitat, model de cerca i decisió."
+          ],
+          [
+            "Selecció integrada",
+            "Un programa sostingut de contractació que l’agència pugui atendre.",
+            "Direcció de talent i patrocinador operatiu.",
+            "Durada, capacitat interna, abast i responsabilitats."
+          ],
+          [
+            "Selecció de nínxol",
+            "Competències especialitzades del mercat real de l’agència.",
+            "Responsable funcional i responsable de proveïdors.",
+            "Experiència pertinent i adequació del suport extern."
+          ]
+        ]
+      },
+      {
+        "id": "recruitment-signal-test",
+        "title": "Separa observació, inferència i qualificació",
+        "p": [
+          "Fes servir tres estats diferents per a cada senyal. Així evites convertir un motiu de recerca en una afirmació comercial sense suport."
+        ],
+        "dl": [
+          [
+            "Observat",
+            "Registra el lloc públic, la novetat empresarial o el context de relació permès, amb font i data. Comprova que continua vigent."
+          ],
+          [
+            "Inferit",
+            "Explica per què podria connectar amb el servei i què podria invalidar la hipòtesi. Una republicació pot ser rutinària; el finançament pot destinar-se a una altra cosa."
+          ],
+          [
+            "Qualificat",
+            "Confirma necessitat rellevant, encaix de l’agència, accés com a proveïdor, responsabilitat del contacte i següent pas acordat. Registra allò desconegut sense puntuar suposicions."
+          ]
+        ],
+        "after": [
+          "Un senyal fort no anul·la una restricció expressa ni un mal encaix. La manca d’evidència és una pregunta per resoldre, no una necessitat confirmada ni un rebuig automàtic."
+        ]
+      },
+      {
+        "id": "use-hiring-signals-without-confusing-them-with-intent",
+        "title": "Comprova la via de proveïdors abans de contactar",
+        "p": [
+          "Revisa la informació de feina i proveïdors juntament amb el senyal. Una vacant no convida a enviar candidats sense sol·licitud. Una llista de proveïdors preferents (PSL) reuneix proveïdors aprovats; un proveïdor de serveis gestionats (MSP) o un sistema de gestió de proveïdors (VMS) pot controlar l’accés al treball temporal o per projecte."
+        ],
+        "headers": [
+          "Què trobes",
+          "Decisió",
+          "Següent pas"
+        ],
+        "rows": [
+          [
+            "Instrucció expressa de no contactar ni enviar candidats com a agència",
+            "Atura la prospecció o l’enviament afectats.",
+            "Respecta la instrucció. Utilitza una sol·licitud oficial d’alta com a proveïdor només si existeix i correspon."
+          ],
+          [
+            "Llista tancada o via MSP/VMS",
+            "Comprova el procés permès.",
+            "Localitza el responsable o procés publicat; no l’eludeixis escrivint a diversos responsables de contractació."
+          ],
+          [
+            "Informació de proveïdors poc clara",
+            "L’accés continua sense confirmar-se.",
+            "Si l’encaix i les regles del canal permeten un contacte professional rellevant, pregunta al responsable si consideren suport extern. No afirmis estar aprovat."
+          ],
+          [
+            "Permís o condició de proveïdor existent",
+            "Verifica abast i vigència.",
+            "Comprova entitat, llocs, territori i condicions; un encàrrec no autoritza tota la feina futura."
+          ]
+        ],
+        "after": [
+          "No utilitzis ofertes inventades, informació confidencial d’entrevistes ni dades privades de candidatures per localitzar decisors. Confirma amb el responsable els requisits del canal, privacitat i empresa abans d’executar."
+        ]
+      },
+      {
+        "id": "rc-worked-signals",
+        "title": "Tres senyals, tres decisions diferents",
+        "cards": [
+          [
+            "Lloc pertinent; accés desconegut",
+            "Una agència tècnica fictícia troba una vacant vigent de supervisor de manteniment al seu territori. Encaixa amb l’experiència, però desconeix la política de proveïdors i el responsable. Registra font i requisits, comprova la via i identifica la persona adequada. Un contacte permès pot preguntar per suport extern. No afirmis dificultat del lloc, candidats disponibles ni encàrrec acceptat."
+          ],
+          [
+            "Vacant amb restricció clara",
+            "Una empresa fictícia anuncia diversos llocs adequats i demana expressament que no contactin agències. L’agència atura aquesta via. El nombre de vacants o uns honoraris atractius no anul·len la instrucció. Si hi ha una sol·licitud oficial per a proveïdors, avalua-la separadament en lloc d’esquivar la restricció."
+          ],
+          [
+            "Finançament sense encàrrec de contractació",
+            "Una empresa fictícia anuncia finançament sense llocs rellevants, pla de contractació ni informació d’accés per a agències. Conserva una hipòtesi de recerca. Comprova els plans i la relació amb el servei. No escriguis que té pressupost aprovat, dificultats d’equip o un procés obert de selecció d’agències."
+          ]
+        ],
+        "after": [
+          "Aquests casos mostren per què senyal de contractació i intenció de contractar una agència necessiten camps separats. El següent pas pot ser investigar, demanar un aclariment concret, seguir el procés oficial o no contactar."
+        ]
+      },
+      {
+        "id": "map-the-hiring-buying-group",
+        "title": "Troba la via de decisió, no només un càrrec sènior",
+        "dl": [
+          [
+            "Responsable funcional",
+            "Pot aclarir què ha d’aconseguir el lloc i quines competències importen. Pot influir en l’encàrrec sense aprovar condicions de proveïdors."
+          ],
+          [
+            "Responsable de talent o RR. HH.",
+            "Pot explicar selecció interna, prioritats i avaluació d’agències. No tot càrrec de RR. HH. dirigeix el lloc rellevant."
+          ],
+          [
+            "Responsable de compres o del programa",
+            "Pot controlar homologació, condicions comercials o contractació temporal. L’interès del responsable funcional no substitueix aquesta aprovació."
+          ]
+        ],
+        "p": [
+          "Les empreses petites poden reunir aquestes funcions en una persona; les grans poden separar-les. Registra la via real, en lloc de començar sempre pel CEO o per RR. HH. Coordina l’historial perquè diferents consultors no enviïn missatges incompatibles a la mateixa empresa."
+        ],
+        "links": [
+          [
+            "/guides/account-based-prospecting/",
+            "Mapar comptes i funcions de compra"
+          ]
+        ]
+      },
+      {
+        "id": "rc-messages",
+        "title": "Fes útil el missatge abans de demanar una reunió",
+        "p": [
+          "Exemple fictici: un responsable d’operacions ha explicat públicament com un equip nou repartirà manteniment i control. L’agència té experiència pertinent; la necessitat de suport extern no està confirmada. Connecta el context amb una pregunta útil sense fingir candidats ni resultats."
+        ],
+        "samples": [
+          [
+            "Primer correu",
+            "Manteniment i control apareixen com a responsabilitats separades a la teva publicació sobre el nou equip. Seleccionem perfils d’operacions tècniques. Abans de proposar una cerca, voldria entendre si necessiteu una persona que cobreixi les dues àrees o dos perfils diferents, i si recorreu a agències per a aquesta feina. Si et serveix, puc enviar un esquema breu de com definiríem l’encàrrec. No adjunto CVs.",
+            "La publicació aporta un motiu concret. La connexió amb el servei és explícita, la necessitat continua sent una pregunta i el següent pas és modest. Utilitza aquesta estructura només quan els fets i l’experiència siguin certs."
+          ],
+          [
+            "Seguiment breu",
+            "Hola, t’escric per si aquell esquema et pogués ser útil.",
+            "Un recordatori breu uns quatre dies després il·lustra una pràctica, no un calendari obligatori. Atura o adapta el contacte si la persona rebutja, respon o demana una altra data."
+          ],
+          [
+            "Alternativa a LinkedIn",
+            "El teu comentari sobre separar manteniment i control planteja una pregunta útil per a l’encàrrec: un perfil combinat o dos especialistes? Treballem aquest tipus de selecció d’operacions. Et serviria un esquema de les diferències?",
+            "Comença per LinkedIn quan l’activitat pública pertinent faci raonable aquest canal. No enviïs les dues versions alhora ni inventis una nota personalitzada per a cada invitació."
+          ]
+        ],
+        "after": [
+          "La personalització pot partir d’una conversa pública, esdeveniment, lloc, interès compartit, funció o context empresarial pertinent. No necessita una notícia corporativa. Explica la connexió; evita elogis copiats, familiaritat inventada i seguiments llargs repetits. Coordina qualsevol canvi de canal amb el mateix registre."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar el raonament dels missatges individuals"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Planificar un seguiment útil"
+          ]
+        ]
+      },
+      {
+        "id": "rc-replies",
+        "title": "Utilitza la resposta per aclarir el següent pas",
+        "dl": [
+          [
+            "«Ja tenim proveïdors»",
+            "Si la resposta permet continuar, pregunta si hi ha una via oficial per a futures necessitats especialitzades. Si la llista està tancada o rebutgen contacte, registra-ho i atura’t; no busquis una drecera."
+          ],
+          [
+            "«Seleccionem internament»",
+            "Reconeix el seu procés. Aclareix si consideren suport extern només quan sigui apropiat segons la resposta. La selecció interna no és una objecció que calgui vèncer."
+          ],
+          [
+            "«Ara no; contacta el trimestre vinent»",
+            "Registra data i context sol·licitats, assigna responsable i atura la seqüència actual. Revisa circumstàncies abans del contacte posterior acordat."
+          ],
+          [
+            "«Envia’ns candidats»",
+            "Deriva la petició a l’expert de selecció. Confirma encàrrec, autoritat, procés de proveïdors i permís per compartir candidats. No enviïs CVs reals només per sostenir la conversa comercial."
+          ]
+        ]
+      },
+      {
+        "id": "make-specialization-verifiable",
+        "title": "Demostra experiència sense exposar les persones",
+        "p": [
+          "L’empresa ha d’entendre quins llocs, mercats i decisions de cerca pot atendre l’agència. Mostra un mètode útil o un cas públic autoritzat i ben delimitat. La mida declarada d’una xarxa no demostra idoneïtat ni disponibilitat actual de candidats."
+        ],
+        "ul": [
+          "Explica família de llocs, nivell, territori i mètode de cerca.",
+          "Utilitza un mapa de mercat o un encàrrec fictici si no hi ha permís per a proves reals.",
+          "Conserva dates, mostra, definicions i permís de qualsevol resultat real; una col·locació no és una garantia general.",
+          "Mantén identitats, CVs, historials salarials i encàrrecs confidencials fora de la venda en fred.",
+          "Indica qui respon preguntes especialitzades i què necessita el reclutador receptor abans d’acceptar un encàrrec."
+        ]
+      },
+      {
+        "id": "rc-relationships",
+        "title": "Aprofita relacions existents amb límits adequats",
+        "p": [
+          "Antics clients, recomanacions apropiades i socis professionals poden facilitar converses. Comprova responsable actual, preferències prèvies i context abans de reactivar un registre. Un nou càrrec d’un antic contacte convida a revisar pertinència, no autoritza automàticament dades privades antigues.",
+          "Separa registres de candidats i vendes a empreses. La història de candidatures, entrevistes o col·locacions no és una llista comercial preparada. Utilitza informació i vies de contacte apropiades per a desenvolupament de negoci. No revelis moviments de candidats ni demanis dades confidencials d’entrevistes per descobrir una vacant.",
+          "Una recomanació ha de fer comprensible la connexió a totes dues parts. Registra qui presenta qui, què es pot compartir i el següent pas. No inventis incentius ni donis per fet que una presentació demostra un encàrrec actiu."
+        ]
+      },
+      {
+        "id": "rc-weekly-workflow",
+        "title": "Assigna un responsable a la feina de cada setmana",
+        "ol": [
+          "Recerca: revisa senyals permesos de relacions i canvis públics rellevants. Registra fonts, dates, encaix, exclusions i incògnites a la fitxa d’empresa.",
+          "Revisió: un expert de selecció comprova servei, restriccions i raonament del missatge. Aprova llista i afirmacions abans de l’execució autoritzada.",
+          "Converses: el responsable d’execució gestiona respostes, respecta rebutjos i dates, i deriva preguntes especialitzades. Mantén un historial compartit entre canals acordats.",
+          "Conciliació: el responsable comercial revisa reserves originals, converses celebrades, encàrrecs acceptats i resultats posteriors. Decideix què aclarir, pausar o millorar abans d’augmentar activitat."
+        ],
+        "after": [
+          "Acorda càrrega de feina i temps real de revisió. Una rutina de calendari no crea capacitat. L’automatització pot organitzar registres i tasques aprovades, però no ha de convertir cada vacant en un missatge o enviament de candidats sense revisió."
+        ]
+      },
+      {
+        "id": "qualify-a-recruitment-agency-opportunity",
+        "title": "Distingeix respostes, reunions i encàrrecs acceptats",
+        "p": [
+          "Abans de qualificar una conversa, registra encaix d’empresa i llocs, responsabilitat del contacte, possibilitat de suport extern, context de contractació i següent pas. Mantén visibles pressupost i terminis desconeguts. Demanar informació pot ser útil sense constituir un encàrrec confirmat."
+        ],
+        "dl": [
+          [
+            "Reserva original",
+            "Conserva identitat i data de creació originals. Reprogramar actualitza la mateixa reserva; cancel·lar és un altre canvi d’estat."
+          ],
+          [
+            "Conversa celebrada i qualificada",
+            "Confirma assistència i avalua els criteris acordats. El reclutador del client accepta, rebutja o demana aclariments amb motius."
+          ],
+          [
+            "Encàrrec acceptat",
+            "L’agència confirma requisits i procés comercial i de proveïdors necessaris per treballar. Una resposta positiva o un esdeveniment de calendari no equivalen a aquesta confirmació."
+          ],
+          [
+            "Col·locació i resultat comercial",
+            "Registra incorporació o col·locació posterior i resultat econòmic real separadament. Cap dels dos es dedueix automàticament d’una reunió."
+          ]
+        ],
+        "case": [
+          "Exemple fictici d’informes",
+          "Dotze empreses investigades produeixen sis registres amb encaix plausible, dos exclosos per política i quatre pendents d’evidència. De les sis contactades per vies permeses, dues responen: una diu «ara no» i una altra accepta una trucada. La trucada es reserva una vegada i després canvia de data. Compta una reserva original, no dues. Assistència, qualificació i encàrrec continuen sense confirmar-se fins que hi hagi evidència. Les xifres il·lustren registres, no taxes esperades."
+        ],
+        "after": [
+          "Separa origen de captació i ajuda posterior. Un prospecte originat per prospecció que visita la web per reservar és diferent d’una empresa captada inicialment per cerca orgànica. Conserva l’evidència d’origen i deixa desconeguda l’atribució que falti."
+        ],
+        "links": [
+          [
+            "/services/b2b-appointment-setting/",
+            "Definir una reunió útil"
+          ],
+          [
+            "/guides/b2b-sales-prospecting-plan/",
+            "Planificar la prospecció"
+          ]
+        ]
+      },
+      {
+        "id": "rc-review-decisions",
+        "title": "Resol la limitació abans d’afegir volum",
+        "headers": [
+          "Què observes",
+          "Què comprovar",
+          "Decisió útil"
+        ],
+        "rows": [
+          [
+            "Molts senyals, poc encaix",
+            "Llocs, territori, restriccions i capacitat real de lliurament.",
+            "Corregeix o acota l’encàrrec de recerca abans de comprar més contactes."
+          ],
+          [
+            "Contactes pertinents, poques respostes útils",
+            "Funcions actuals, precisió, canal i utilitat del següent pas.",
+            "Revisa una mostra completa; no afegeixis seguiments llargs per defecte."
+          ],
+          [
+            "Respostes i reserves, pocs encàrrecs acceptats",
+            "Assistència, qualificació, via de proveïdors, capacitat receptora i cicle comercial.",
+            "Revisa traspàs i rebutjos; no anomenis ingressos totes les reserves."
+          ],
+          [
+            "Mostra prometedora però petita",
+            "Qualitat d’origen, períodes comparables, oportunitats obertes i incertesa.",
+            "Continua aprenent abans de projectar una taxa estable de reunions o col·locacions."
+          ]
+        ],
+        "after": [
+          "Compara períodes i fonts equivalents. Inclou temps d’execució i revisió del client en comparar costos i compta partides compartides una vegada. Sense resultats verificats, no presentis un cost finit per encàrrec ni una rendibilitat garantida."
+        ]
+      },
+      {
+        "id": "where-beespoke-can-fit",
+        "title": "Què gestiona Beespoke i què correspon a l’agència",
+        "p": [
+          "Beespoke ofereix prospecció gestionada pel fundador amb correu en fred i/o LinkedIn en fred amb abast acordat. Investiguem empreses i persones adequades, escrivim missatges individuals, preparem activitat autoritzada, gestionem respostes, qualifiquem converses i facilitem reserves segons criteris pactats. L’agència aporta criteri sobre llistes, proves permeses, respostes especialitzades i la conversa comercial necessària per acordar un encàrrec.",
+          "L’agència conserva selecció, permisos i enviament de candidats, condicions de proveïdors, propostes i tancament. Beespoke no cerca candidats, envia CVs, opera el teu sistema de seguiment de candidatures ni garanteix encàrrecs, col·locacions o un volum fix de reunions.",
+          "Programari, dades i tercers necessaris es paguen a part llevat d’inclusió escrita. Les trucades en fred es pressuposten per mercat; es contractarien professionals natius quan correspongués. El fundador treballa en anglès, espanyol, català i francès. Consulta abast i compromís mínim vigents: una campanya concreta no implica un servei més curt o il·limitat."
+        ],
+        "links": [
+          [
+            "/services/b2b-lead-generation/",
+            "Revisar captació B2B gestionada"
+          ],
+          [
+            "/services/cold-email-lead-generation/",
+            "Revisar el servei de correu en fred"
+          ],
+          [
+            "/pricing/",
+            "Veure condicions i preus vigents"
+          ]
+        ],
+        "aliases": [
+          "where-beespoke-can-encaix"
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Conserva un encàrrec que puguis revisar",
+        "p": [
+          "Utilitza aquestes preguntes abans d’aprovar una llista o proposta. La descàrrega opcional només conté preguntes. No demana nom, correu, dades de candidats ni fitxers, i no s’envia res."
+        ],
+        "questions": [
+          [
+            "Encaix del servei",
+            "Quins llocs, territori i model podem atendre amb credibilitat?"
+          ],
+          [
+            "Evidència",
+            "Què s’ha observat, en quina font pública o permesa i quan es va comprovar?"
+          ],
+          [
+            "Incògnites",
+            "Quina necessitat, termini, pressupost o responsabilitat continua sense confirmar-se?"
+          ],
+          [
+            "Via de proveïdors",
+            "Quines restriccions, aprovacions o procés publicat s’apliquen?"
+          ],
+          [
+            "Contacte i missatge",
+            "Qui correspon, per què aquest canal i quines afirmacions tenen suport?"
+          ],
+          [
+            "Responsabilitat",
+            "Qui revisa llistes, gestiona respostes i contesta preguntes de selecció?"
+          ],
+          [
+            "Acceptació",
+            "Què fa útil una conversa celebrada i qui accepta l’encàrrec?"
+          ],
+          [
+            "Informes",
+            "Com se separaran reserves originals, encàrrecs, col·locacions i origen?"
+          ]
+        ],
+        "downloadTitle": "Obrir les preguntes de l’encàrrec d’empresa",
+        "downloadNote": "Llegeix aquí o descarrega un CSV local. Conserva registres reals d’empreses i candidats als teus sistemes aprovats.",
+        "downloadLabel": "Descarregar les preguntes en CSV"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Preguntes sobre captar clients de selecció",
+        "faqs": [
+          [
+            "Com pot una agència generar leads d’empreses?",
+            "Comença per llocs i territori que puguis atendre, investiga empreses i vies de proveïdors, i contacta el responsable amb un motiu fonamentat. Recomanacions apropiades, antics clients i contingut útil poden complementar la prospecció. Les candidatures són una captació diferent."
+          ],
+          [
+            "Una vacant demostra que volen una agència?",
+            "No. Pot justificar investigar, però no confirma dificultat, pressupost extern ni permís per enviar candidats. Comprova context, servei, restriccions i responsable abans de considerar-la una oportunitat."
+          ],
+          [
+            "Amb qui ha de contactar una agència?",
+            "Segueix la via real de compra. El responsable funcional pot definir la necessitat; talent o RR. HH., gestionar selecció; compres o un MSP, controlar proveïdors. Una empresa petita pot combinar funcions. Un càrrec sènior no demostra autoritat."
+          ],
+          [
+            "Què passa si ja tenen proveïdors preferents?",
+            "Respecta la política. Si hi ha sol·licitud o revisió oficial, avalua-la separadament. Una llista tancada o prohibició de contacte no justifica eludir RR. HH. i escriure a diversos responsables."
+          ],
+          [
+            "Podem captar empreses sense una altra base de dades?",
+            "Pots començar amb fonts públiques pertinents i relacions d’ús apropiat als teus sistemes. Temps, verificació, missatges i respostes continuen tenint cost. Una base pot ajudar a investigar; no demostra demanda ni executa tot el procés."
+          ],
+          [
+            "Què és un lead de selecció qualificat?",
+            "Ha d’encaixar en empresa i mercat de llocs, implicar un contacte apropiat, tenir via plausible de suport extern i un següent pas útil acordat. Distingeix resposta, reserva, conversa celebrada i qualificada i encàrrec acceptat; l’evidència absent continua sense confirmar-se."
+          ],
+          [
+            "Beespoke aporta candidats o garanteix encàrrecs?",
+            "No. Beespoke gestiona la prospecció d’empreses acordada per correu en fred i/o LinkedIn. L’agència aporta experiència de selecció, gestiona candidats i decideix vendes. Trucades i tercers tenen abast propi; reunions, encàrrecs i col·locacions no estan garantits."
+          ]
+        ]
+      }
+    ]
+  },
+  "fr": {
+    "answer": "La génération de prospects d’un cabinet de recrutement doit ouvrir des conversations avec des employeurs susceptibles d’acheter ses services. Partez d’un marché de postes et d’une zone que vous savez servir, vérifiez le signal de recrutement et les restrictions fournisseurs, puis contactez la personne pertinente avec une raison précise. Séparez l’acquisition de candidats. Une offre d’emploi, une levée de fonds ou un appel réservé ne constituent pas encore un mandat accepté.",
+    "jump": "Examiner trois exemples d’employeurs",
+    "dateLabel": "9 novembre 2026",
+    "fiction": "Tous les employeurs, situations, messages et chiffres des exemples sont fictifs. Ils illustrent des décisions ; ce ne sont pas des résultats de Beespoke ou de ses clients.",
+    "sourceTitle": "Sources et limites",
+    "sourceNote": "Revue du 9 novembre 2026. Nous avons comparé des guides du recrutement, des pages de services d’acquisition d’employeurs et des résultats de recherche pertinents. Les sources ci-dessous éclairent les distinctions entre signaux, accès fournisseur, prospection et résultats commerciaux. Nous ne reprenons pas leurs classements de prestataires, prix de logiciels, taux de réponse, résumés juridiques ou affirmations qu’une offre d’emploi garantit un budget ou une demande de cabinets. Les exemples et questions sont nos propres illustrations ; aucun dossier client, candidat ou prospect n’est utilisé.",
+    "sections": [
+      {
+        "id": "separate-employer-demand-from-candidate-demand",
+        "title": "Choisissez les missions employeurs que vous voulez gagner",
+        "p": [
+          "Un prospect employeur peut acheter votre prestation de recrutement. Un candidat est une personne que vous pouvez placer. Les deux comptent, avec des messages, dossiers et résultats différents. Ce guide vise les conversations employeurs pertinentes et leur progression vers un brief convenu.",
+          "Définissez une famille de postes, un modèle de service et une zone. Vérifiez votre capacité réelle à livrer avant d’ajouter des employeurs à une liste. Intérim, recrutement permanent, chasse de dirigeants et recrutement intégré n’ont pas un processus d’achat unique."
+        ],
+        "headers": [
+          "Service",
+          "Raison d’enquêter",
+          "Personnes pertinentes",
+          "À confirmer"
+        ],
+        "rows": [
+          [
+            "Recrutement permanent spécialisé",
+            "Un poste pertinent ou un besoin récurrent de profils.",
+            "Responsable du recrutement et responsable métier.",
+            "Périmètre du poste, pertinence d’un cabinet et voie d’approbation de la recherche."
+          ],
+          [
+            "Intérim ou renfort contractuel",
+            "Un projet, un besoin saisonnier ou un changement de capacité.",
+            "Opérations, RH et responsables fournisseurs ou achats.",
+            "Modèle d’emploi autorisé, exigences et processus fournisseur."
+          ],
+          [
+            "Chasse de dirigeants",
+            "Un changement de direction public ou une conversation autorisée.",
+            "Sponsor exécutif, conseil ou responsable RH senior.",
+            "Mandat, confidentialité, modèle de recherche et décision."
+          ],
+          [
+            "Recrutement intégré",
+            "Un programme durable que le cabinet peut accompagner.",
+            "Direction du recrutement et sponsor opérationnel.",
+            "Durée, capacité interne, périmètre et responsabilités."
+          ],
+          [
+            "Recrutement de niche",
+            "Compétences spécialisées dans le véritable marché du cabinet.",
+            "Responsable métier et personne chargée des fournisseurs.",
+            "Expertise pertinente et adéquation du soutien externe."
+          ]
+        ]
+      },
+      {
+        "id": "recruitment-signal-test",
+        "title": "Séparez observation, hypothèse et qualification",
+        "p": [
+          "Utilisez trois états distincts pour chaque signal. Vous éviterez de transformer une raison d’enquêter en affirmation commerciale non étayée."
+        ],
+        "dl": [
+          [
+            "Observé",
+            "Consignez le poste public, l’actualité de l’entreprise ou le contexte relationnel autorisé, avec source et date. Vérifiez que l’information reste actuelle."
+          ],
+          [
+            "Supposé",
+            "Expliquez le lien possible avec votre service et ce qui pourrait l’invalider. Une republication peut être routinière ; un financement peut servir autre chose que le recrutement."
+          ],
+          [
+            "Qualifié",
+            "Confirmez besoin pertinent, adéquation du cabinet, accès fournisseur, responsabilité du contact et prochaine étape convenue. Consignez les inconnues sans attribuer de points aux suppositions."
+          ]
+        ],
+        "after": [
+          "Un signal fort n’annule ni une restriction explicite ni une mauvaise adéquation. Une preuve manquante est une question à résoudre, pas un besoin confirmé ou un rejet automatique."
+        ]
+      },
+      {
+        "id": "use-hiring-signals-without-confusing-them-with-intent",
+        "title": "Vérifiez le parcours fournisseur avant tout contact",
+        "p": [
+          "Examinez les informations carrières et fournisseurs avec le signal. Un poste ouvert n’invite pas à envoyer des candidatures spontanées au nom d’un cabinet. Une liste de fournisseurs privilégiés (PSL) regroupe les prestataires approuvés ; un prestataire de services gérés (MSP) ou un système de gestion des fournisseurs (VMS) peut encadrer les ressources temporaires."
+        ],
+        "headers": [
+          "Ce que vous trouvez",
+          "Décision",
+          "Prochaine étape"
+        ],
+        "rows": [
+          [
+            "Consigne explicite de ne pas contacter ou soumettre de candidats en tant que cabinet",
+            "Arrêtez la prospection ou soumission concernée.",
+            "Respectez la consigne. Utilisez une candidature fournisseur officielle seulement si elle existe et convient."
+          ],
+          [
+            "Liste fermée ou parcours MSP/VMS",
+            "Vérifiez le processus permis.",
+            "Identifiez le responsable ou parcours publié ; ne le contournez pas en écrivant à plusieurs responsables métier."
+          ],
+          [
+            "Informations fournisseurs floues",
+            "L’accès reste non confirmé.",
+            "Si l’adéquation et les règles du canal permettent une approche professionnelle pertinente, demandez au bon responsable si un soutien externe est envisagé. Ne prétendez pas être approuvé."
+          ],
+          [
+            "Permission ou statut fournisseur existant",
+            "Vérifiez périmètre et validité.",
+            "Confirmez entité, postes, territoire et conditions ; une mission n’autorise pas tout travail futur."
+          ]
+        ],
+        "after": [
+          "N’utilisez pas de faux postes, d’informations confidentielles d’entretien ou de données privées de candidature pour découvrir les décideurs. Confirmez les exigences applicables au canal, aux données et à l’employeur avec leur responsable avant l’exécution."
+        ]
+      },
+      {
+        "id": "rc-worked-signals",
+        "title": "Trois signaux, trois décisions différentes",
+        "cards": [
+          [
+            "Poste pertinent ; accès inconnu",
+            "Un cabinet technique fictif trouve un poste actuel de responsable maintenance dans son territoire. Le poste correspond à son expertise, mais la politique fournisseurs et le responsable sont inconnus. Consignez source et exigences, vérifiez le parcours et trouvez la bonne personne. Une approche permise peut demander si une aide externe est envisagée. Ne prétendez pas le poste difficile, des candidats disponibles ou un mandat accepté."
+          ],
+          [
+            "Vacance avec restriction claire",
+            "Un employeur fictif publie plusieurs postes adaptés et demande explicitement aux cabinets de ne pas le contacter. Le cabinet arrête cette voie. Le nombre de postes ou des honoraires attractifs n’annulent pas la consigne. Si une candidature fournisseur officielle existe, évaluez-la séparément plutôt que de contourner la restriction."
+          ],
+          [
+            "Financement sans brief de recrutement",
+            "Une entreprise fictive annonce un financement, sans poste pertinent, plan d’embauche ou information d’accès aux cabinets. Gardez une hypothèse de recherche. Établissez ses intentions et leur lien avec le service. N’écrivez pas que son budget est approuvé, son équipe en difficulté ou sa sélection de cabinets ouverte."
+          ]
+        ],
+        "after": [
+          "Ces cas montrent pourquoi signal de recrutement et intention d’acheter une prestation exigent des champs distincts. La bonne étape peut être une recherche, une précision ciblée, le processus officiel ou l’absence de contact."
+        ]
+      },
+      {
+        "id": "map-the-hiring-buying-group",
+        "title": "Trouvez le parcours de décision, pas seulement un titre senior",
+        "dl": [
+          [
+            "Responsable métier",
+            "Peut préciser la finalité du poste et les compétences nécessaires. Cette personne peut influencer un brief sans approuver les conditions fournisseurs."
+          ],
+          [
+            "Responsable recrutement ou RH",
+            "Peut expliquer le recrutement interne, les priorités et l’évaluation des cabinets. Tout titre RH ne signifie pas la responsabilité du poste concerné."
+          ],
+          [
+            "Responsable achats ou programme",
+            "Peut contrôler agrément, conditions commerciales et ressources temporaires. L’intérêt d’un responsable métier ne remplace pas cette approbation."
+          ]
+        ],
+        "p": [
+          "Les petits employeurs peuvent réunir ces fonctions ; les grands peuvent les séparer. Consignez le parcours réel au lieu de toujours commencer par le dirigeant ou les RH. Coordonnez l’historique pour éviter que plusieurs consultants envoient des messages concurrents au même employeur."
+        ],
+        "links": [
+          [
+            "/guides/account-based-prospecting/",
+            "Cartographier comptes et rôles d’achat"
+          ]
+        ]
+      },
+      {
+        "id": "rc-messages",
+        "title": "Rendez le message utile avant de demander un rendez-vous",
+        "p": [
+          "Exemple fictif : un responsable des opérations a expliqué publiquement comment une nouvelle équipe répartira maintenance et contrôle. Le cabinet possède une expertise pertinente ; le besoin de soutien externe n’est pas confirmé. Reliez ce contexte à une question utile sans inventer candidats ou résultats."
+        ],
+        "samples": [
+          [
+            "Premier email",
+            "Maintenance et contrôle apparaissent comme deux responsabilités distinctes dans votre publication sur la nouvelle équipe. Nous recrutons des profils d’opérations techniques. Avant de proposer une recherche, j’aimerais comprendre si vous cherchez une personne couvrant les deux ou deux profils différents, et si vous faites appel à des cabinets pour ce travail. Si cela vous est utile, je peux envoyer un bref aperçu de notre manière de définir le besoin. Aucun CV en pièce jointe.",
+            "La publication donne une raison précise d’écrire. Le lien avec le service est explicite, le besoin reste une question et la prochaine étape est modeste. Utilisez cette structure uniquement si les faits et l’expertise sont réels."
+          ],
+          [
+            "Relance brève",
+            "Bonjour, je reviens vers vous pour savoir si cet aperçu vous serait utile.",
+            "Une courte relance environ quatre jours plus tard illustre une pratique, pas un calendrier obligatoire. Arrêtez ou adaptez si la personne refuse, répond ou demande un contact ultérieur."
+          ],
+          [
+            "Alternative LinkedIn",
+            "Votre discussion sur la séparation maintenance/contrôle pose une question utile pour le brief : un profil combiné ou deux spécialistes ? C’est le type de recherche opérationnelle que nous menons. Un aperçu des différences vous serait-il utile ?",
+            "Commencez par LinkedIn lorsque l’activité publique pertinente rend ce canal judicieux. N’envoyez pas les deux versions simultanément et n’inventez pas une note personnalisée pour chaque invitation."
+          ]
+        ],
+        "after": [
+          "La personnalisation peut partir d’une discussion publique, d’un événement, lieu, intérêt partagé, rôle ou contexte d’entreprise pertinent. Elle n’exige pas une annonce officielle. Expliquez le lien ; évitez compliments copiés, familiarité inventée et longues relances répétées. Coordonnez tout changement de canal avec le même historique."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Examiner le raisonnement des messages individuels"
+          ],
+          [
+            "/guides/cold-email-follow-up/",
+            "Préparer une relance utile"
+          ]
+        ]
+      },
+      {
+        "id": "rc-replies",
+        "title": "Utilisez la réponse pour préciser la prochaine étape",
+        "dl": [
+          [
+            "« Nous avons déjà des fournisseurs. »",
+            "Si la réponse permet de poursuivre, demandez s’il existe un parcours officiel pour de futurs besoins spécialisés. Si la liste est fermée ou le contact refusé, consignez-le et arrêtez ; ne cherchez pas un contournement."
+          ],
+          [
+            "« Nous recrutons en interne. »",
+            "Reconnaissez leur processus. Précisez si un soutien externe est parfois envisagé seulement lorsque la réponse s’y prête. Le recrutement interne n’est pas une objection à vaincre."
+          ],
+          [
+            "« Pas maintenant ; recontactez-nous au prochain trimestre. »",
+            "Consignez le calendrier et le contexte demandés, attribuez un responsable et arrêtez la séquence actuelle. Revérifiez la situation avant l’approche ultérieure convenue."
+          ],
+          [
+            "« Envoyez des candidats. »",
+            "Transmettez à l’expert recrutement. Confirmez brief, autorité, parcours fournisseur et partage autorisé. N’envoyez pas de vrais CV simplement pour prolonger une conversation commerciale."
+          ]
+        ]
+      },
+      {
+        "id": "make-specialization-verifiable",
+        "title": "Montrez l’expertise sans exposer les personnes",
+        "p": [
+          "Les employeurs doivent comprendre quels postes, marchés et décisions de recherche le cabinet sait gérer. Montrez une méthode utilisable ou un cas public autorisé et délimité. Une taille de réseau déclarée ne prouve ni adéquation ni disponibilité actuelle de candidats."
+        ],
+        "ul": [
+          "Expliquez famille de postes, séniorité, territoire et méthode de recherche.",
+          "Utilisez un exemple fictif de cartographie ou de brief si la preuve réelle n’est pas autorisée.",
+          "Pour un vrai résultat, conservez dates, échantillon, définitions et permission ; un placement ne devient pas une garantie générale.",
+          "Gardez identités, CV, historiques salariaux et mandats confidentiels hors des supports de vente à froid.",
+          "Précisez qui répond aux questions expertes et ce dont le recruteur destinataire a besoin avant d’accepter un brief."
+        ]
+      },
+      {
+        "id": "rc-relationships",
+        "title": "Exploitez les relations existantes avec les bonnes limites",
+        "p": [
+          "Anciens clients, recommandations appropriées et partenaires professionnels peuvent ouvrir d’autres conversations. Vérifiez responsable actuel, préférences passées et contexte relationnel avant réactivation. Le nouveau poste d’un ancien contact invite à revoir la pertinence ; il n’autorise pas automatiquement l’usage d’anciennes informations privées.",
+          "Séparez dossiers candidats et vente aux employeurs. Une candidature, un entretien ou un placement ne constituent pas une liste commerciale prête à l’emploi. Utilisez des informations et canaux appropriés au développement commercial. Ne révélez pas le changement de poste d’un candidat et ne demandez pas de détails confidentiels d’entretien pour trouver une vacance.",
+          "Une recommandation doit rendre le lien compréhensible aux deux parties. Consignez qui présente qui, ce qui peut être partagé et l’étape convenue. N’inventez pas d’incitations et ne supposez pas qu’une introduction prouve un mandat actif."
+        ]
+      },
+      {
+        "id": "rc-weekly-workflow",
+        "title": "Attribuez un responsable au travail de chaque semaine",
+        "ol": [
+          "Recherche : examinez les signaux relationnels autorisés et changements publics pertinents. Consignez sources, dates, adéquation, exclusions et inconnues dans la fiche employeur.",
+          "Revue : un expert recrutement vérifie service, restrictions et raisonnement du message. Validez liste et affirmations avant l’exécution autorisée.",
+          "Conversations : le responsable de l’exécution traite les réponses, respecte refus et calendriers et transmet les questions expertes au recruteur. Gardez un historique commun aux canaux convenus.",
+          "Rapprochement : le responsable commercial examine réservations d’origine, conversations tenues, briefs acceptés et résultats ultérieurs. Décidez quoi préciser, suspendre ou améliorer avant d’augmenter l’activité."
+        ],
+        "after": [
+          "Convenez de la charge réelle et du temps de revue disponible. Une routine de calendrier ne crée pas de capacité. L’automatisation peut organiser fiches et tâches approuvées ; elle ne doit pas transformer chaque nouveau poste en message ou soumission de candidat sans revue."
+        ]
+      },
+      {
+        "id": "qualify-a-recruitment-agency-opportunity",
+        "title": "Distinguez réponses, rendez-vous et mandats acceptés",
+        "p": [
+          "Avant de qualifier une conversation employeur, consignez adéquation de l’entreprise et des postes, responsabilité du contact, possibilité de soutien externe, contexte d’embauche et prochaine étape. Gardez visibles budget et calendrier inconnus. Une demande d’information peut être utile sans être un mandat confirmé."
+        ],
+        "dl": [
+          [
+            "Réservation d’origine",
+            "Conservez identité et date de création originales. Un report actualise la même réservation ; l’annulation est un autre changement de statut."
+          ],
+          [
+            "Conversation tenue et qualifiée",
+            "Confirmez présence et critères convenus. Le recruteur client accepte, refuse ou demande des précisions avec un motif."
+          ],
+          [
+            "Brief ou mandat accepté",
+            "Le cabinet confirme exigences et processus commercial et fournisseur nécessaires pour travailler. Une réponse positive ou un événement de calendrier ne vaut pas cette confirmation."
+          ],
+          [
+            "Placement et résultat commercial",
+            "Suivez séparément la prise de poste ou le placement et le résultat financier réel. Aucun ne découle automatiquement d’un rendez-vous."
+          ]
+        ],
+        "case": [
+          "Exemple fictif de reporting",
+          "Douze employeurs étudiés donnent six fiches d’adéquation plausible, deux exclusions de politique et quatre besoins de preuve. Parmi les six contactés par des voies permises, deux répondent : l’un dit « pas maintenant », l’autre accepte un appel. Cet appel est réservé une fois, puis reporté. Comptez une réservation d’origine, pas deux. Présence, qualification et mandat restent non confirmés jusqu’à réception des preuves. Ces chiffres illustrent les dossiers, pas des taux attendus."
+        ],
+        "after": [
+          "Séparez source d’acquisition et aide ultérieure. Un prospect issu de la prospection qui visite le site pour réserver diffère d’un employeur acquis d’abord par recherche organique. Conservez les preuves d’origine et laissez inconnue l’attribution manquante."
+        ],
+        "links": [
+          [
+            "/services/b2b-appointment-setting/",
+            "Définir un rendez-vous utile"
+          ],
+          [
+            "/guides/b2b-sales-prospecting-plan/",
+            "Préparer la prospection"
+          ]
+        ]
+      },
+      {
+        "id": "rc-review-decisions",
+        "title": "Résolvez la contrainte avant d’ajouter du volume",
+        "headers": [
+          "Ce que vous observez",
+          "À vérifier",
+          "Décision utile"
+        ],
+        "rows": [
+          [
+            "Beaucoup de signaux, faible adéquation",
+            "Marché des postes, territoire, restrictions et capacité réelle à livrer.",
+            "Précisez ou corrigez le brief de recherche avant d’acheter davantage de contacts."
+          ],
+          [
+            "Contacts pertinents, réponses faibles",
+            "Responsabilités actuelles, précision, canal et utilité de la prochaine étape.",
+            "Examinez un échantillon complet ; n’ajoutez pas de longues relances par défaut."
+          ],
+          [
+            "Réponses et réservations, peu de briefs acceptés",
+            "Présence, qualification, parcours fournisseur, capacité de réception et cycle commercial.",
+            "Revoyez passation et motifs de refus ; toute réservation n’est pas du revenu."
+          ],
+          [
+            "Échantillon prometteur mais petit",
+            "Qualité des sources, périodes comparables, opportunités ouvertes et incertitude.",
+            "Continuez à apprendre avant de projeter un taux stable de rendez-vous ou placements."
+          ]
+        ],
+        "after": [
+          "Comparez des périodes et sources équivalentes. Incluez temps d’exécution et de revue client dans les coûts, sans compter deux fois les frais communs. Sans résultat vérifié, ne présentez pas un coût fini par mandat ou un rendement garanti."
+        ]
+      },
+      {
+        "id": "where-beespoke-can-fit",
+        "title": "Ce que Beespoke gère et ce qui reste au cabinet",
+        "p": [
+          "Beespoke propose une prospection gérée par le fondateur via email à froid et/ou LinkedIn à froid, dans un périmètre convenu. Nous recherchons les employeurs et personnes pertinents, écrivons des messages individuels, préparons l’activité autorisée, traitons les réponses, qualifions les conversations et facilitons la réservation selon les critères définis. Le cabinet apporte son jugement sur les listes, les preuves autorisées, les réponses expertes et la découverte commerciale nécessaire au mandat.",
+          "Le cabinet conserve recrutement, autorisations et partage de candidats, conditions fournisseurs, propositions et conclusion. Beespoke ne source pas de candidats, n’envoie pas de CV, n’exploite pas votre système de suivi des candidatures et ne garantit ni mandats, ni placements, ni volume fixe de rendez-vous.",
+          "Logiciels, données et frais de tiers nécessaires sont séparés sauf inclusion écrite. Les appels à froid font l’objet d’un devis par marché ; des interlocuteurs natifs seraient recrutés si nécessaire. Le fondateur travaille en anglais, espagnol, catalan et français. Vérifiez périmètre et engagement minimum actuels : une campagne ciblée ne signifie pas un service plus court ou illimité."
+        ],
+        "links": [
+          [
+            "/services/b2b-lead-generation/",
+            "Examiner la génération B2B gérée"
+          ],
+          [
+            "/services/cold-email-lead-generation/",
+            "Examiner la prestation d’email à froid"
+          ],
+          [
+            "/pricing/",
+            "Voir conditions et tarifs actuels"
+          ]
+        ],
+        "aliases": [
+          "where-beespoke-can-adéquation"
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Gardez un brief que vous pouvez vraiment examiner",
+        "p": [
+          "Utilisez ces questions avant de valider une liste employeurs ou une proposition. Le téléchargement facultatif ne contient que les questions. Aucun nom, email, dossier candidat ou fichier n’est demandé et rien n’est envoyé."
+        ],
+        "questions": [
+          [
+            "Adéquation du service",
+            "Quels postes, territoire et modèle pouvons-nous servir avec crédibilité ?"
+          ],
+          [
+            "Preuves",
+            "Qu’a-t-on observé, dans quelle source publique ou autorisée et à quelle date de vérification ?"
+          ],
+          [
+            "Inconnues",
+            "Quels besoin, calendrier, budget ou responsabilité restent non confirmés ?"
+          ],
+          [
+            "Parcours fournisseur",
+            "Quelles restrictions, validations ou procédure publiée s’appliquent ?"
+          ],
+          [
+            "Contact et message",
+            "Qui est pertinent, pourquoi ce canal et quelles affirmations sont étayées ?"
+          ],
+          [
+            "Responsabilité",
+            "Qui contrôle les listes, traite les réponses et répond aux questions de recrutement ?"
+          ],
+          [
+            "Acceptation",
+            "Qu’est-ce qui rend une conversation tenue utile et qui accepte le brief ?"
+          ],
+          [
+            "Reporting",
+            "Comment distinguer réservations d’origine, mandats, placements et source d’acquisition ?"
+          ]
+        ],
+        "downloadTitle": "Ouvrir les questions du brief employeur",
+        "downloadNote": "Lisez ici ou téléchargez un CSV local. Gardez les véritables dossiers employeurs et candidats dans vos systèmes approuvés.",
+        "downloadLabel": "Télécharger les questions en CSV"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Questions sur l’acquisition de clients du recrutement",
+        "faqs": [
+          [
+            "Comment un cabinet peut-il générer des prospects employeurs ?",
+            "Partez d’un marché de postes et d’une zone que vous savez servir, recherchez employeurs et parcours fournisseurs, puis approchez le responsable avec une raison étayée. Recommandations appropriées, anciens clients et contenu utile peuvent compléter la prospection. Les candidatures relèvent d’une acquisition distincte."
+          ],
+          [
+            "Une offre d’emploi prouve-t-elle le besoin d’un cabinet ?",
+            "Non. Elle peut justifier une recherche, sans établir difficulté, budget externe ou permission de soumettre des candidats. Vérifiez contexte, service, restrictions et responsable avant d’en faire une opportunité."
+          ],
+          [
+            "Qui un cabinet doit-il contacter ?",
+            "Suivez le véritable parcours d’achat. Le responsable métier peut définir le besoin, le recrutement ou les RH gérer le processus et les achats ou un MSP contrôler les fournisseurs. Une petite entreprise peut réunir ces rôles. Un titre senior ne prouve pas l’autorité."
+          ],
+          [
+            "Que faire si l’employeur a déjà des fournisseurs privilégiés ?",
+            "Respectez la politique. Si un parcours officiel de candidature ou de revue existe, évaluez-le séparément. Une liste fermée ou une consigne de non-contact ne justifie pas de contourner les RH en écrivant à plusieurs responsables."
+          ],
+          [
+            "Peut-on acquérir des employeurs sans nouvelle base de données ?",
+            "Vous pouvez commencer avec des sources publiques pertinentes et des relations dont l’usage est approprié dans vos systèmes. Temps, vérification, messages et réponses ont toujours un coût. Une base peut aider la recherche ; elle ne prouve pas la demande et ne gère pas tout le processus."
+          ],
+          [
+            "Qu’est-ce qu’un prospect recrutement qualifié ?",
+            "Il correspond à l’employeur et au marché de postes, implique un contact pertinent, présente une voie plausible de soutien externe et une prochaine étape utile convenue. Distinguez réponse, réservation, conversation tenue qualifiée et brief accepté ; une preuve absente reste non confirmée."
+          ],
+          [
+            "Beespoke fournit-il des candidats ou garantit-il des mandats ?",
+            "Non. Beespoke gère la prospection employeurs convenue par email à froid et/ou LinkedIn. Le cabinet apporte expertise de recrutement, gestion des candidats et décisions de vente. Appels et tiers ont un périmètre propre ; rendez-vous, mandats et placements ne sont pas garantis."
+          ]
+        ]
+      }
+    ]
+  }
+}
