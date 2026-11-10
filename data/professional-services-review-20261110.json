@@ -1,0 +1,2926 @@
+{
+  "date": "2026-11-10",
+  "revision": "2026-11-10T16:40:00+00:00",
+  "en": {
+    "description": "Build a professional-services lead-generation plan: service focus, referrals versus outbound, original messages, expert handoff and an honest campaign review.",
+    "answer": "Professional services lead generation helps a firm turn relevant interest into conversations about work it can actually deliver. Define one service, the organizations it suits and the evidence a buyer can inspect. Choose a suitable route—referrals, search, events, email or LinkedIn—then qualify the situation and hand it to the right expert. A contact, a reply, a booked call and a signed engagement are different outcomes.",
+    "jump": "Work through a complete example",
+    "dateLabel": "November 10, 2026",
+    "fiction": "Every situation, message, record and number below is original fiction for planning. None describes a client, prospect or campaign, and none is a performance benchmark.",
+    "sourceTitle": "Sources and limits",
+    "sourceNote": "Reviewed November 10, 2026. The research covered 20 complete relevant written pages, including adjacent channel, consulting and provider-selection guidance. The list records reading sources, not endorsements. Linked reports, gated downloads and videos were not independently verified. Supplier results, prices, legal assertions and timelines are not Beespoke claims. The examples and planning methods here are original; use your own evidence before making an investment decision.",
+    "sections": [
+      {
+        "id": "turn-a-broad-practice-into-a-buyable-problem",
+        "title": "Choose the work you want to win",
+        "p": [
+          "A firm can have several practices and still test one clear offer. Start with a decision the buyer recognizes, the person responsible for it and the work your firm can credibly undertake. Avoid describing every capability in the first message.",
+          "This guide helps a practice lead choose and run that test. Use the dedicated accounting, consulting, IT or agency guide for its particular buying process; a law firm, a household-facing practice and an engineering tender should not inherit the same campaign."
+        ],
+        "headers": [
+          "Practice",
+          "A bounded starting point",
+          "Check before outreach"
+        ],
+        "rows": [
+          [
+            "Management advisory",
+            "Ownership of a defined operating change",
+            "Can the firm help with this decision and its implementation boundaries?"
+          ],
+          [
+            "Legal or compliance advisory",
+            "A question for an appropriately qualified specialist",
+            "Jurisdiction, conflicts, permitted solicitation and claims need the firm's own review."
+          ],
+          [
+            "Finance advisory",
+            "Decision support beyond routine reporting",
+            "Confirm mandate and eligibility; a transaction announcement proves neither a need nor entitlement."
+          ],
+          [
+            "People advisory",
+            "A defined workforce or management-process change",
+            "Keep employee cases and personal information out of prospecting."
+          ],
+          [
+            "Technical or engineering advice",
+            "A scoped design, evaluation or project decision",
+            "Check credentials, delivery geography and any prescribed procurement route."
+          ]
+        ],
+        "links": [
+          [
+            "/industries/accounting-firm-lead-generation/",
+            "Accounting-firm acquisition"
+          ],
+          [
+            "/industries/consulting-lead-generation/",
+            "Consulting acquisition"
+          ],
+          [
+            "/industries/it-services-lead-generation/",
+            "IT-services acquisition"
+          ]
+        ]
+      },
+      {
+        "id": "professional-services-wedge",
+        "title": "Make the offer clear in three sentences",
+        "p": [
+          "Keep the original condition–work–evidence exercise. Here is a filled version for a fictional people-advisory practice considering firms opening a second workplace."
+        ],
+        "cards": [
+          [
+            "Condition",
+            "We help organizations deciding how first-line managers will work across a new second site."
+          ],
+          [
+            "Work",
+            "We map which management routines should stay local and which need a shared owner; employment-law advice and individual employee cases are outside this brief."
+          ],
+          [
+            "Evidence",
+            "Buyers can inspect an original sample responsibility map, our method and the relevant experts' actual credentials."
+          ]
+        ],
+        "after": [
+          "Those are service boundaries, not a claim that every expansion creates a management problem. If the buyer has already settled the question, there may be no useful conversation. A short fit discussion is not a free consulting project; agree separately on any diagnostic or deliverable."
+        ]
+      },
+      {
+        "id": "ps-channels",
+        "title": "Choose the route that fits how buyers buy",
+        "p": [
+          "Separate capturing an existing request from starting a new conversation. A small firm does not need to activate every channel. Pick a primary route with a responsible owner and keep public evidence available to anyone checking the firm."
+        ],
+        "headers": [
+          "Route",
+          "Useful when",
+          "Limit / next action"
+        ],
+        "rows": [
+          [
+            "Existing relationships and referrals",
+            "A client or adviser understands the specific work",
+            "Ask for an appropriate introduction with permission. Do not assume referrals, incentives or client names can be shared."
+          ],
+          [
+            "Search and useful content",
+            "Buyers already research that problem or specialist",
+            "Answer the decision, show real credentials and give a clear next step. A visit is not an inquiry."
+          ],
+          [
+            "Events and small expert sessions",
+            "The right buyers gather around a specific issue",
+            "Have a real discussion and agree on follow-up; attendance is not a request for a sales sequence."
+          ],
+          [
+            "LinkedIn",
+            "The relevant person is visibly active there",
+            "Use their actual public context. A profile or job title does not prove activity or authority."
+          ],
+          [
+            "Cold email",
+            "A relevant professional address and a credible reason to write exist",
+            "Verify fit and the applicable channel requirements; keep the message individual and easy to decline."
+          ],
+          [
+            "Calling",
+            "A conversation is appropriate and the firm has approved it",
+            "Use capable callers and agreed boundaries. Calling is separately scoped, not automatically included with email or LinkedIn."
+          ],
+          [
+            "Tender or approved supplier route",
+            "The buyer prescribes a formal process",
+            "Use that route and respect its communication rules. A private approach must not bypass procurement."
+          ]
+        ]
+      },
+      {
+        "id": "industry-fit-check",
+        "title": "Check the foundations before sending",
+        "p": [
+          "An optional planning checklist makes unresolved decisions visible. Marking a box records your judgment; it does not verify compliance, certify readiness or predict meetings."
+        ],
+        "readiness": {
+          "title": "Review eight launch decisions",
+          "intro": "Keep this closed if you are just reading. The checks run in this page and do not submit prospect information.",
+          "items": [
+            "One service and its exclusions are clear.",
+            "The target organizations and reasons to exclude are agreed.",
+            "The relevant buying roles have been checked.",
+            "An appropriate channel and stop rules are agreed.",
+            "The firm's responsible expert has approved claims and professional requirements.",
+            "The proof is accurate and authorized for sharing.",
+            "Discovery and delivery capacity are available.",
+            "A record owner, outcome definitions and review date are assigned."
+          ],
+          "marked": "Decisions you have marked",
+          "note": "This is a completion count only. An unchecked item needs an owner and a decision; a full count is not a quality score."
+        }
+      },
+      {
+        "id": "use-triggers-as-research-clues-not-private-knowledge",
+        "title": "Keep the fact separate from the hypothesis",
+        "p": [
+          "Public hiring, an expansion, a post or an event contribution can give you a reason to research. They do not reveal pain, budget, dissatisfaction or a confidential mandate. Record the source and date, what it actually says and what remains unknown.",
+          "Context can come from a person as well as a company: a useful public comment, a talk, a genuine shared connection or a relevant local event. Do not pretend to have attended, imply a referral without permission or infer sensitive personal circumstances."
+        ],
+        "headers": [
+          "Record",
+          "Fictional example",
+          "What it does not prove"
+        ],
+        "rows": [
+          [
+            "Observed fact",
+            "A manufacturer announces a second workplace on campaign day 1; record the announcement and access date internally.",
+            "That management routines are failing."
+          ],
+          [
+            "Service hypothesis",
+            "The people team may be deciding which routines need a shared owner.",
+            "That a project exists or the firm should be hired."
+          ],
+          [
+            "Person and channel",
+            "The people lead publicly discusses manager training and is active on LinkedIn.",
+            "That this person controls the budget or wants a pitch."
+          ],
+          [
+            "Unknown / exclusion",
+            "Existing internal plan, incumbent adviser, timing, professional boundaries and budget remain unconfirmed.",
+            "That an unknown answer can be filled with an AI guess."
+          ]
+        ]
+      },
+      {
+        "id": "ps-worked-account",
+        "title": "Work through one account from evidence to decision",
+        "case": [
+          "Fictional working record: PS-DEMO-01",
+          "A people-advisory practice is considering the manufacturer above. This is a teaching situation, not an anonymized result."
+        ],
+        "dl": [
+          [
+            "Service and fit",
+            "Map management responsibilities across the two sites. The practice can help with operating routines; legal advice, recruitment and personal employee matters are excluded."
+          ],
+          [
+            "Why this person",
+            "Start with the people lead's public training discussion. Ask whether the relevant work sits with them; do not assume the chief executive is the only useful contact."
+          ],
+          [
+            "Channel and proof",
+            "Because this person is active on LinkedIn, use one relevant note there. Offer a blank sample responsibility map rather than claim to know the manufacturer's internal process."
+          ],
+          [
+            "Decision before sending",
+            "The client approves the account's fit; the responsible expert approves the message and evidence. If there is no appropriate route or the question is already resolved, park or exclude it."
+          ],
+          [
+            "Decision after a reply",
+            "If the buyer confirms this is a live question, clarify the decision, timing and expert needed. If they decline, stop the coordinated outreach across channels."
+          ]
+        ],
+        "after": [
+          "A public announcement is only a research clue. The buyer’s own response can establish a useful next step."
+        ]
+      },
+      {
+        "id": "ps-procurement",
+        "title": "A different account may require a different process",
+        "p": [
+          "Contrast that with a fictional engineering practice finding a published facilities-planning tender. A live requirement exists, but the decision is now eligibility and bid fit, not whether to send a creative cold message."
+        ],
+        "ol": [
+          "Read the actual scope, credentials, location, timetable and published clarification route.",
+          "Have the practice lead confirm capability, capacity and any conflicts before deciding to bid.",
+          "Use the permitted question or submission process; do not approach another employee to get around it.",
+          "If the practice lacks a required qualification or the scope is unsuitable, record the non-fit and stop."
+        ],
+        "after": [
+          "Neither a public tender nor a cold reply is a won engagement. Formal procurement and open-ended relationship development need separate records and expectations."
+        ]
+      },
+      {
+        "id": "map-sponsors-evaluators-and-affected-operators",
+        "title": "Map the buying roles and the delivery owner",
+        "p": [
+          "Keep one coherent service promise while answering each person's concern. A title suggests where to start; the conversation must confirm responsibility. Do not contact colleagues to bypass a decline."
+        ],
+        "headers": [
+          "Role",
+          "Question to establish",
+          "Evidence / owner"
+        ],
+        "rows": [
+          [
+            "Sponsor",
+            "Why consider this work now, and who authorizes it?",
+            "A buyer-confirmed decision and a named senior owner."
+          ],
+          [
+            "Evaluator",
+            "How will the method and relevant expertise be assessed?",
+            "Actual credentials, method and a permitted sample; the responsible expert answers."
+          ],
+          [
+            "Affected operator",
+            "What would change in daily work?",
+            "A bounded responsibility map and explicit handoff; involve them by agreement."
+          ],
+          [
+            "Procurement or risk owner",
+            "What process, information or approvals are required?",
+            "The actual buyer requirements, not an assumed universal checklist."
+          ],
+          [
+            "Delivery lead",
+            "Can the firm deliver the accepted brief?",
+            "Capacity, scope, dependencies and unresolved questions checked before a proposal."
+          ]
+        ]
+      },
+      {
+        "id": "make-expertise-inspectable",
+        "title": "Show the work without exposing a client",
+        "p": [
+          "Keep proof inspectable: context, decision, your work, observed outcome, limitations and permission to share. Credentials and logos do not substitute for that explanation. Removing a name alone may still leave a client identifiable.",
+          "For the fictional people-advisory offer, create an original blank responsibility-map excerpt: management routine, current owner to confirm, desired decision, stakeholder to consult and open question. Explain how a workshop would use it. Do not populate it with a customer's real staff, systems or internal problems."
+        ],
+        "ul": [
+          "Label a made-up artifact as fictional; it is not a completed client deliverable.",
+          "Use a real outcome only when its evidence, scope and publication permission are established.",
+          "State the expert's actual credentials and their limits; never invent accreditation.",
+          "Keep legal, financial, safety and other specialist advice with the appropriately qualified person."
+        ],
+        "links": [
+          [
+            "/editorial-policy/",
+            "Editorial and evidence policy"
+          ],
+          [
+            "/case-studies/cybersecurity-linkedin-lead-generation/",
+            "A bounded published case study"
+          ]
+        ]
+      },
+      {
+        "id": "ps-messages",
+        "title": "Write for this person, not a profession label",
+        "p": [
+          "These are alternative openings for their stated situations, not messages to stack onto one prospect. Replace the structure with genuine research and your own truthful scope. AI can help draft, but it must not invent a source, a relationship or a problem."
+        ],
+        "samples": [
+          [
+            "LinkedIn: respond to a relevant public point",
+            "Your point about giving first-line managers time to learn a new routine is useful.\n\nFor a team opening a second workplace, would the question of local versus shared management routines sit with you? We help map those responsibilities, without taking over employment-law advice.\n\nIf useful, I can send a blank example of the map. If it is already settled, no need to make a project of it.",
+            "The opening refers to an actual point in the fictional post, checks responsibility and offers something the reader can inspect. It does not assume a management failure."
+          ],
+          [
+            "Email: use the same service with different verified context",
+            "Hello,\n\nRegarding the second workplace in your announcement: is the team deciding which management routines need a shared owner, or is that already covered?\n\nOur work is to map those responsibilities with the people and operations teams. Legal advice and individual employee cases stay outside that brief. A blank sample map can show the method before we discuss any work.\n\nWould that be relevant to the person coordinating the two sites?",
+            "This is an email alternative when email is the appropriate route. It connects the observation to a question instead of declaring a hidden need; it makes no savings promise."
+          ],
+          [
+            "A genuine event conversation",
+            "Good speaking about manager training at the local operations session. You asked how a shared routine can leave room for each site.\n\nThe blank responsibility map we discussed is ready to send. Would you like it here, or was the conversation enough for now?",
+            "Use this only if that conversation and offer actually happened. A public attendee list does not create a relationship or permission."
+          ],
+          [
+            "A short reminder",
+            "Hello, just checking whether the responsibility-map example would be useful. If this is already covered, I will leave it there.",
+            "The reminder adds no invented urgency or long second pitch. It belongs to the same short, coordinated sequence, not a new campaign on every channel."
+          ]
+        ],
+        "after": [
+          "Edit stock phrases such as “I noticed,” “I was impressed,” “unlock your potential,” and “in today's fast-paced world” when they conceal a generic pitch. They are not AI detectors or forbidden words: the test is whether the fact is true, the connection is meaningful and the message sounds like something you would actually send."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Review the writing process"
+          ]
+        ]
+      },
+      {
+        "id": "ps-follow-up",
+        "title": "Keep cold follow-up short and coordinated",
+        "p": [
+          "Beespoke's usual cold pattern is an individual opening and a brief reminder, often around four days later. That is a working preference, not an optimal interval for every market. A reader can understand the first message without another long argument.",
+          "Choose LinkedIn first when the person is active there; otherwise a relevant email may be more suitable. If moving to another appropriate channel after silence, coordinate the history and avoid sending the same pitch simultaneously. Calling needs separate scope and approval. Stop on a decline, objection or other stop condition across the account.",
+          "A buyer asking you to return near a planning date is a different situation. Record what they permitted and when; do not turn a download, an event attendance or silence into a newsletter subscription."
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Cold-email follow-up guidance"
+          ]
+        ]
+      },
+      {
+        "id": "ps-replies",
+        "title": "Give each reply a sensible route",
+        "headers": [
+          "Response",
+          "What it establishes",
+          "Next action"
+        ],
+        "rows": [
+          [
+            "This is a live question",
+            "Possible relevance, not a confirmed engagement",
+            "Clarify scope and who should join the expert conversation."
+          ],
+          [
+            "Speak with another person",
+            "A suggested route, not blanket permission",
+            "Confirm how to introduce the context and avoid contacting everyone."
+          ],
+          [
+            "We already have support",
+            "An existing arrangement",
+            "Respect it. Do not invent dissatisfaction or demand a comparison."
+          ],
+          [
+            "Come back at a stated time",
+            "A limited future invitation",
+            "Record the permitted date and subject; pause the cold sequence."
+          ],
+          [
+            "Send the example",
+            "Interest in that artifact",
+            "Send the promised permitted material; do not count a meeting."
+          ],
+          [
+            "No / stop / unsuitable",
+            "A stop or non-fit",
+            "Suppress coordinated follow-up; retain only necessary stop information."
+          ],
+          [
+            "No answer",
+            "No confirmed position",
+            "Do not label it interest, rejection, need or buying intent."
+          ]
+        ]
+      },
+      {
+        "id": "qualify-economic-and-delivery-fit",
+        "title": "Decide whether to accept, park or exclude",
+        "p": [
+          "Preserve the six fit checks: organization and service, buying responsibility, a recognized problem or change, commercial suitability, access to the necessary people and information, and an agreed next step. A polite answer cannot fill the missing fields."
+        ],
+        "dl": [
+          [
+            "Accept for discovery",
+            "The buyer confirms a relevant decision, the firm can help, an appropriate expert can attend and both sides understand why they are meeting. Unconfirmed budget or procurement details remain open."
+          ],
+          [
+            "Park with permission",
+            "The service may fit but the timing, owner or route is unresolved. Assign the next decision and permitted contact date; do not silently promote the record to an opportunity."
+          ],
+          [
+            "Exclude / stop",
+            "Wrong work, territory, professional eligibility, conflicts, existing decline or a delivery constraint makes proceeding unsuitable. Record a minimal reason and stop."
+          ]
+        ],
+        "after": [
+          "The firm's own commercial threshold and professional requirements must be decided internally. This guide does not set a universal minimum engagement value or determine whether solicitation is permitted in a jurisdiction."
+        ]
+      },
+      {
+        "id": "ps-handoff",
+        "title": "Make the expert handoff usable",
+        "case": [
+          "Fictional handoff: PS-DEMO-01",
+          "The people lead confirms that the two-site responsibility decision is active and asks for an expert discussion. That confirmation, not the original announcement, supports the meeting."
+        ],
+        "dl": [
+          [
+            "Why meet",
+            "Agree which management routines the practice could help map and what remains with the firm."
+          ],
+          [
+            "People and evidence",
+            "People lead attending; operations involvement to confirm. Record the public source/date, the buyer's exact relevant question and the permitted sample sent."
+          ],
+          [
+            "Scope and unknowns",
+            "No employee-case data requested. Budget, procurement, delivery dates and legal-advice needs are still unconfirmed."
+          ],
+          [
+            "Owner and calendar",
+            "Named practice expert owns discovery. Original booking created day 8 for day 14; moved to day 21 and held. Keep the original booking ID/date and linked reschedule, so this remains one original booking."
+          ],
+          [
+            "After the call",
+            "Record held status separately. Accept for scoping only if the expert confirms fit and an agreed next action; this is not a signed engagement."
+          ]
+        ],
+        "ol": [
+          "For a sample 30-minute fit discussion, use the first five minutes to confirm the decision and attendees.",
+          "Use the next ten to understand the current approach without collecting unnecessary sensitive detail.",
+          "Use ten to explain method, limits and dependencies; verify what remains unknown.",
+          "Use the final five to agree on no further work, a specific follow-up or separately scoped discovery. This agenda is an example, not a promised free deliverable."
+        ]
+      },
+      {
+        "id": "ps-capacity",
+        "title": "Budget expert time before asking for more calls",
+        "p": [
+          "This fictional practice allocates six hours to a small campaign week. Two expert conversations fit the stated time allowance; the arithmetic describes capacity, not expected demand or a meeting forecast."
+        ],
+        "headers": [
+          "Task",
+          "Illustrative minutes",
+          "Owner / constraint"
+        ],
+        "rows": [
+          [
+            "Review scope, claims and evidence",
+            "60",
+            "Responsible expert"
+          ],
+          [
+            "Research and fit checks",
+            "75",
+            "Research owner; client approves target fit"
+          ],
+          [
+            "Individual writing and setup",
+            "45",
+            "Campaign owner, within approved permissions"
+          ],
+          [
+            "Replies and coordination",
+            "30",
+            "Named response owner"
+          ],
+          [
+            "Two conversations with preparation",
+            "150",
+            "Two × (45 minutes discussion + 30 minutes preparation)"
+          ],
+          [
+            "Total",
+            "360",
+            "Six hours; delivery and proposals need separate capacity"
+          ]
+        ],
+        "after": [
+          "For economics, count research, writing, software, data and expert time as well as cash spend. Acquisition cost is total agreed acquisition cost divided by genuinely new clients won in the defined cohort. With no wins it is not a measured cost per acquired client. Do not justify spend using invented close rates or assumed lifetime value; use the firm's own realized fees, delivery costs, retention and payback policy."
+        ]
+      },
+      {
+        "id": "ps-measurement",
+        "title": "Review a dated cohort, not a pile of activity",
+        "p": [
+          "Use a fictional cohort of 50 accounts first contacted on days 1–14, reviewed at the end of day 28. Keep a stable account/booking record and the same outcome definitions. These counts illustrate reporting; they are not rates to copy into a forecast."
+        ],
+        "headers": [
+          "Stage",
+          "Fictional count",
+          "Interpretation"
+        ],
+        "rows": [
+          [
+            "Accounts first contacted",
+            "50",
+            "The cohort denominator; not messages, people or website sessions."
+          ],
+          [
+            "Substantive two-way replies",
+            "6",
+            "Replies discussing the service; not every acknowledgment."
+          ],
+          [
+            "Original bookings created by cutoff",
+            "3",
+            "Count once by original ID/date; PS-DEMO-01's move is not a fourth booking."
+          ],
+          [
+            "Calls held by cutoff",
+            "2",
+            "The third call is still scheduled for day 35; attendance is not final."
+          ],
+          [
+            "Accepted for scoping",
+            "1",
+            "Confirmed by the responsible expert after discussion."
+          ],
+          [
+            "Proposals / signed engagements",
+            "0 / 0",
+            "Do not report pipeline value or revenue that has not been established."
+          ]
+        ],
+        "after": [
+          "Store the known acquisition source, first landing page if reliably captured, booking page and the buyer's own account of how they found you as separate fields. A referral, a LinkedIn conversation and a later website visit can all be real parts of one journey. A missing source is unknown; the page visited immediately before booking is not automatically the original source.",
+          "Keep internal tests and duplicate/rescheduled records out of genuine-demand counts. Analytics records, clicks, calendar visits and tool downloads do not by themselves prove a booking. Compare similar service cohorts after enough outcomes have matured; a handful of calls cannot establish a dependable channel forecast."
+        ]
+      },
+      {
+        "id": "buyer-decision-guide",
+        "title": "Use the evidence to decide what changes next",
+        "headers": [
+          "Area",
+          "Evidence needed",
+          "If it is missing"
+        ],
+        "rows": [
+          [
+            "Offer",
+            "A specific problem, service boundary and exclusions",
+            "Narrow the offer instead of adding volume."
+          ],
+          [
+            "Market",
+            "An observable condition and confirmed buying roles",
+            "Review the list and source quality before rewriting every message."
+          ],
+          [
+            "Proof",
+            "Relevant, permitted evidence and an inspectable method",
+            "Build the missing artifact or expert explanation; do not invent a result."
+          ],
+          [
+            "Sales",
+            "An expert who can respond and lead useful discovery",
+            "Fix the owner, handoff and available slots before seeking more bookings."
+          ],
+          [
+            "Economics",
+            "Work the firm can profitably and credibly deliver",
+            "Review actual costs, service fit and capacity before scaling."
+          ]
+        ],
+        "after": [
+          "If suitable conversations are happening but not progressing, ask what the expert learned about the offer, timing and decision path. Change one important assumption at a time and record the next review cutoff. Neither one quiet week nor one early win proves the whole system."
+        ]
+      },
+      {
+        "id": "where-a-focused-outbound-partner-can-fit",
+        "title": "What the firm keeps and what Beespoke can handle",
+        "p": [
+          "Beespoke can handle account and person research, individual messaging, approved campaign setup, replies, qualification and booking against agreed criteria. The client supplies the judgment needed to approve the target list and validates its expertise, professional requirements and evidence. The firm retains expert discovery, proposals, closing and delivery.",
+          "The base outbound service covers cold email and/or LinkedIn; channel choice follows the relevant person's activity and fit. Cold calling is separately quoted by market, with native callers hired where appropriate. This is founder-led managed work, not an automatically included full-time SDR or a guaranteed number of meetings."
+        ],
+        "ol": [
+          "Ask a provider what counts as a reply, original booking, held call and accepted opportunity.",
+          "Review a proposed account and an original message before agreeing to volume.",
+          "Confirm who approves claims, lists, evidence and sending permissions.",
+          "Ask who coordinates stop requests, existing relationships and activity across channels.",
+          "Agree on expert response capacity, handoff acceptance and incomplete-cohort reporting.",
+          "Confirm scope, software/data extras, records and exit arrangements in writing; use the current pricing page for Beespoke's approved terms."
+        ],
+        "links": [
+          [
+            "/services/b2b-lead-generation/",
+            "Managed B2B lead generation"
+          ],
+          [
+            "/compare/lead-generation-agency-vs-in-house-team/",
+            "Agency and internal models"
+          ],
+          [
+            "/industries/recruitment-agency-lead-generation/",
+            "Recruitment-agency acquisition"
+          ],
+          [
+            "/industries/marketing-agency-lead-generation/",
+            "Marketing-agency acquisition"
+          ]
+        ]
+      },
+      {
+        "id": "ps-brief",
+        "title": "Take the decisions into your own planning meeting",
+        "p": [
+          "The optional file contains blank planning questions, not a lead list. No sign-up or contact information is required. Keep actual client, employee and prospect information in your approved private system."
+        ],
+        "downloadTitle": "Open the campaign-planning questions",
+        "downloadLabel": "Download the blank planning questions (CSV)",
+        "downloadNote": "Ten questions to take into your own document. This static download does not save an entered prospect record.",
+        "questions": [
+          [
+            "Service",
+            "What decision will the practice help with, and what is excluded?"
+          ],
+          [
+            "Market",
+            "Which organizations fit and which should be excluded?"
+          ],
+          [
+            "Evidence",
+            "What is observed, where was it found, and what is still a hypothesis?"
+          ],
+          [
+            "People",
+            "Who owns, evaluates and experiences this decision?"
+          ],
+          [
+            "Channel",
+            "Where is contact appropriate, and what would require stopping?"
+          ],
+          [
+            "Proof",
+            "What accurate, permitted artifact or credential can a buyer inspect?"
+          ],
+          [
+            "Professional review",
+            "Who approves claims, conflicts, jurisdiction and channel requirements?"
+          ],
+          [
+            "Handoff",
+            "Who owns discovery, what is accepted and how are calendar moves reconciled?"
+          ],
+          [
+            "Capacity and economics",
+            "What time, delivery capacity and actual acquisition costs can the firm support?"
+          ],
+          [
+            "Review",
+            "Which cohort, cutoff, genuine outcomes and next decision will be recorded?"
+          ]
+        ]
+      },
+      {
+        "id": "frequently-asked-questions",
+        "title": "Frequently asked questions",
+        "faqs": [
+          [
+            "How do professional services firms generate leads?",
+            "Through appropriate referrals, partnerships, search, useful content, events and targeted outreach. Choose the mix around a specific service, the buyer's actual route to a decision and the firm's evidence and capacity. No channel is universally best."
+          ],
+          [
+            "Does outbound work for professional services?",
+            "It can create relevant conversations where a clear service, suitable accounts, appropriate contact and credible expert follow-through exist. It does not turn a public signal into a need or replace discovery. Urgent household demand and formal tenders may require different routes."
+          ],
+          [
+            "What should count as a qualified lead?",
+            "Define service and organization fit, relevant responsibility, a buyer-confirmed reason to talk, commercial suitability and an agreed next step. Record booked, held and accepted-for-scoping stages separately. A downloaded record, polite reply or calendar click is insufficient."
+          ],
+          [
+            "What content supports outreach when clients are confidential?",
+            "Use original fictional sample artifacts, transparent methods, actual permitted credentials and approved bounded evidence. Label fiction clearly. Removing a name alone may not prevent identification, and a fictional example is not a client outcome."
+          ],
+          [
+            "Should professional services firms use LinkedIn or email?",
+            "Choose based on the relevant person's activity, the available contact route, context and applicable requirements. An active LinkedIn participant may be best reached there; a relevant email may suit another buyer. Coordinate channels rather than repeat the pitch everywhere."
+          ],
+          [
+            "How many follow-ups should we send?",
+            "Beespoke usually uses an individual opening and a short reminder, often around four days later. Treat that as a working preference, not a universal rule. Respect declines and permitted future dates, and distinguish cold outreach from requested follow-up."
+          ],
+          [
+            "How quickly should lead generation produce clients?",
+            "There is no dependable universal timetable. Research quality, market, buying process, expert capacity and the decision itself matter. Review dated cohorts and unresolved future meetings; do not forecast signed work from a few early replies or bookings."
+          ],
+          [
+            "What does Beespoke manage for a professional services firm?",
+            "Research, individual messaging, approved setup, replies, qualification and booking against agreed criteria. The client approves target fit and expert claims, then owns discovery, proposals, closing and delivery. Cold email and/or LinkedIn are the base outbound channels; calling is separately quoted."
+          ]
+        ]
+      }
+    ]
+  },
+  "es": {
+    "description": "Diseña un plan de captación para servicios profesionales: especialización, recomendaciones y outbound, mensajes originales, traspaso al experto y evaluación rigurosa.",
+    "answer": "La captación para servicios profesionales convierte el interés relevante en conversaciones sobre trabajos que la firma puede realizar. Define un servicio, las organizaciones para las que resulta adecuado y las pruebas que un comprador puede revisar. Elige una vía adecuada —recomendaciones, búsqueda, eventos, email o LinkedIn—, confirma la situación y traslada el contexto al experto correspondiente. Un contacto, una respuesta, una llamada reservada y un encargo firmado son resultados distintos.",
+    "jump": "Ver un ejemplo completo",
+    "dateLabel": "10 de noviembre de 2026",
+    "fiction": "Todas las situaciones, mensajes, fichas y cifras siguientes son ficticios y originales, creados para planificar. No describen a clientes, prospectos ni campañas, ni representan resultados de referencia.",
+    "sourceTitle": "Fuentes y límites",
+    "sourceNote": "Revisión del 10 de noviembre de 2026: 20 páginas escritas relevantes leídas íntegramente, incluidas guías relacionadas sobre canales, consultoría y selección de proveedores. La lista documenta las lecturas, no recomendaciones de contratación. No se verificaron de forma independiente los informes enlazados, las descargas restringidas ni los vídeos. Los resultados, precios, afirmaciones legales y plazos de terceros no son promesas de Beespoke. Los ejemplos y métodos de planificación son originales; utiliza tus propias pruebas antes de decidir una inversión.",
+    "sections": [
+      {
+        "title": "Elige el trabajo que quieres captar",
+        "p": [
+          "Una firma puede tener varias áreas de práctica y probar una oferta concreta. Empieza por una decisión reconocible para el comprador, la persona responsable y el trabajo que podéis realizar con credibilidad. No intentes presentar todas las capacidades en el primer mensaje.",
+          "Esta guía ayuda al responsable de un área a elegir y gestionar esa prueba. Para procesos específicos, utiliza las guías de contabilidad, consultoría, servicios informáticos o agencias. Un despacho jurídico, una práctica dirigida a particulares y una licitación de ingeniería necesitan enfoques distintos."
+        ],
+        "headers": [
+          "Especialidad",
+          "Punto de partida acotado",
+          "Qué comprobar antes de contactar"
+        ],
+        "rows": [
+          [
+            "Consultoría de gestión",
+            "La responsabilidad sobre un cambio operativo concreto",
+            "¿Puede la firma ayudar en esa decisión y delimitar su papel en la ejecución?"
+          ],
+          [
+            "Asesoramiento jurídico o de cumplimiento",
+            "Una cuestión para el especialista debidamente cualificado",
+            "La firma debe revisar jurisdicción, conflictos, captación permitida y afirmaciones."
+          ],
+          [
+            "Asesoramiento financiero",
+            "Apoyo a decisiones más allá de los informes habituales",
+            "Confirma el mandato y los requisitos; un anuncio de operación no demuestra necesidad ni derecho a una ventaja."
+          ],
+          [
+            "Asesoramiento de personas",
+            "Un cambio definido en la organización o gestión del trabajo",
+            "Mantén los casos de empleados y sus datos personales fuera de la prospección."
+          ],
+          [
+            "Asesoramiento técnico o ingeniería",
+            "Una decisión de diseño, evaluación o proyecto con alcance definido",
+            "Comprueba credenciales, territorio de prestación y procedimiento de contratación."
+          ]
+        ],
+        "links": [
+          [
+            "/industries/accounting-firm-lead-generation/",
+            "Captación para despachos contables"
+          ],
+          [
+            "/industries/consulting-lead-generation/",
+            "Captación para consultoras"
+          ],
+          [
+            "/industries/it-services-lead-generation/",
+            "Captación para servicios informáticos"
+          ]
+        ],
+        "id": "turn-a-broad-practice-into-a-buyable-problem"
+      },
+      {
+        "title": "Explica la oferta en tres frases",
+        "p": [
+          "Conservamos el ejercicio de situación, trabajo y pruebas. Esta versión completa corresponde a una asesoría de personas ficticia que estudia empresas que abren un segundo centro."
+        ],
+        "cards": [
+          [
+            "Situación",
+            "Ayudamos a organizaciones que deciden cómo trabajarán sus mandos de primera línea entre dos centros."
+          ],
+          [
+            "Trabajo",
+            "Definimos qué rutinas de gestión deben seguir siendo locales y cuáles necesitan un responsable común; el asesoramiento laboral jurídico y los casos individuales quedan fuera."
+          ],
+          [
+            "Pruebas",
+            "El comprador puede revisar una muestra original de un mapa de responsabilidades, nuestro método y las credenciales reales de los expertos pertinentes."
+          ]
+        ],
+        "after": [
+          "Son límites del servicio, no una afirmación de que toda expansión provoca un problema de gestión. Si el comprador ya lo ha resuelto, quizá no haya nada útil que tratar. Una conversación de encaje no es un proyecto de consultoría gratuito; cualquier diagnóstico o entregable debe acordarse por separado."
+        ],
+        "id": "professional-services-wedge"
+      },
+      {
+        "title": "Elige la vía según cómo compra tu cliente",
+        "p": [
+          "Distingue entre responder a una solicitud existente e iniciar una conversación nueva. Una firma pequeña no necesita activar todos los canales. Elige una vía principal con un responsable y deja las pruebas públicas accesibles para quien quiera evaluar la firma."
+        ],
+        "headers": [
+          "Vía",
+          "Cuándo puede encajar",
+          "Límite o siguiente paso"
+        ],
+        "rows": [
+          [
+            "Relaciones existentes y recomendaciones",
+            "Un cliente o asesor entiende el trabajo concreto",
+            "Pide una presentación adecuada con permiso. No des por autorizados incentivos, recomendaciones ni nombres de clientes."
+          ],
+          [
+            "Búsqueda y contenido útil",
+            "El comprador ya investiga ese problema o especialidad",
+            "Responde a la decisión, muestra credenciales reales y ofrece un siguiente paso claro. Una visita no es una consulta comercial."
+          ],
+          [
+            "Eventos y sesiones con expertos",
+            "Los compradores adecuados se reúnen en torno a un asunto",
+            "Conversa de verdad y acuerda el seguimiento; asistir no equivale a pedir una secuencia comercial."
+          ],
+          [
+            "LinkedIn",
+            "La persona pertinente participa visiblemente en la plataforma",
+            "Utiliza su contexto público real. Un perfil o cargo no demuestra actividad ni autoridad."
+          ],
+          [
+            "Email en frío",
+            "Existe una dirección profesional pertinente y un motivo creíble",
+            "Verifica el encaje y los requisitos aplicables; escribe de forma individual y facilita que puedan declinar."
+          ],
+          [
+            "Llamadas",
+            "La conversación es adecuada y la firma la ha aprobado",
+            "Cuenta con personas capacitadas y límites acordados. Se presupuestan aparte; no van incluidas automáticamente con email o LinkedIn."
+          ],
+          [
+            "Licitación o proveedores homologados",
+            "El comprador establece un procedimiento formal",
+            "Utilízalo y respeta las reglas de comunicación. El contacto privado no debe eludir compras."
+          ]
+        ],
+        "id": "ps-channels"
+      },
+      {
+        "title": "Revisa las bases antes de enviar",
+        "p": [
+          "Esta lista opcional permite identificar decisiones pendientes. Marcar una casilla refleja tu criterio: no verifica el cumplimiento, certifica la preparación ni predice reuniones."
+        ],
+        "readiness": {
+          "title": "Revisar ocho decisiones de lanzamiento",
+          "intro": "Puedes dejarla cerrada si solo estás leyendo. Las casillas funcionan en esta página y no envían información de prospectos.",
+          "items": [
+            "Un servicio y sus exclusiones están claros.",
+            "Se han acordado las organizaciones objetivo y los motivos de exclusión.",
+            "Se han comprobado las funciones de compra pertinentes.",
+            "Se han acordado el canal adecuado y las condiciones de parada.",
+            "El experto responsable ha aprobado afirmaciones y requisitos profesionales.",
+            "Las pruebas son exactas y está autorizada su difusión.",
+            "Hay capacidad para las conversaciones y la prestación.",
+            "Se han asignado un responsable del registro, definiciones de resultados y fecha de revisión."
+          ],
+          "marked": "Decisiones que has marcado",
+          "note": "Es solo un recuento. Cada decisión pendiente necesita un responsable; completar la lista no es una puntuación de calidad."
+        },
+        "id": "industry-fit-check"
+      },
+      {
+        "title": "Separa el hecho de la hipótesis",
+        "p": [
+          "Un anuncio de contratación de personal, una expansión, una publicación o una intervención en un evento pueden justificar investigar. No revelan dificultades, presupuesto, insatisfacción ni un encargo confidencial. Registra fuente, fecha, contenido observado y lo que sigue sin saberse.",
+          "El contexto también puede venir de una persona: un comentario público útil, una charla, un contacto compartido auténtico o un evento local pertinente. No finjas haber asistido, insinúes una recomendación sin permiso ni deduzcas circunstancias personales sensibles."
+        ],
+        "headers": [
+          "Registro",
+          "Ejemplo ficticio",
+          "Qué no demuestra"
+        ],
+        "rows": [
+          [
+            "Hecho observado",
+            "Un fabricante anuncia un segundo centro el día 1 de campaña; guarda internamente el anuncio y la fecha de consulta.",
+            "Que las rutinas de gestión estén fallando."
+          ],
+          [
+            "Hipótesis de servicio",
+            "El equipo de personas quizá esté decidiendo qué rutinas necesitan un responsable común.",
+            "Que exista un proyecto o deban contratar a la asesoría."
+          ],
+          [
+            "Persona y canal",
+            "La responsable de personas habla públicamente de formación de mandos y participa en LinkedIn.",
+            "Que controle el presupuesto o quiera recibir una propuesta."
+          ],
+          [
+            "Incógnitas y exclusiones",
+            "Plan interno, asesor actual, momento, límites profesionales y presupuesto por confirmar.",
+            "Que una IA pueda completar lo desconocido con una suposición."
+          ]
+        ],
+        "id": "use-triggers-as-research-clues-not-private-knowledge"
+      },
+      {
+        "title": "Sigue una cuenta desde la prueba hasta la decisión",
+        "case": [
+          "Ficha de trabajo ficticia: PS-DEMO-01",
+          "La asesoría de personas estudia al fabricante anterior. Es una situación didáctica, no un resultado real anonimizado."
+        ],
+        "dl": [
+          [
+            "Servicio y encaje",
+            "Definir responsabilidades de gestión entre los dos centros. La asesoría puede ayudar con rutinas operativas; quedan fuera asesoramiento jurídico, selección de personal y casos individuales."
+          ],
+          [
+            "Por qué esa persona",
+            "Parte de su conversación pública sobre formación. Pregunta si lleva ese trabajo; no presupongas que solo merece la pena contactar con el director general."
+          ],
+          [
+            "Canal y pruebas",
+            "Como participa en LinkedIn, envía una nota relevante allí. Ofrece un mapa de responsabilidades en blanco, sin afirmar que conoces sus procesos internos."
+          ],
+          [
+            "Decisión antes de enviar",
+            "El cliente aprueba el encaje de la cuenta; el experto responsable aprueba mensaje y pruebas. Si no hay vía adecuada o la cuestión ya está resuelta, aplaza o excluye."
+          ],
+          [
+            "Decisión tras responder",
+            "Si confirma que la cuestión está vigente, aclara decisión, momento y experto necesario. Si declina, detén el contacto coordinado en todos los canales."
+          ]
+        ],
+        "after": [
+          "El anuncio público solo justifica investigar; la respuesta del comprador puede establecer un siguiente paso útil."
+        ],
+        "id": "ps-worked-account",
+        "aliases": [
+          "professional-services-worked-example"
+        ]
+      },
+      {
+        "title": "Otra cuenta puede necesitar otro procedimiento",
+        "p": [
+          "Compáralo con una ingeniería ficticia que encuentra una licitación de planificación de instalaciones. Existe una necesidad publicada, pero ahora hay que valorar requisitos y encaje de la oferta, no redactar un mensaje en frío creativo."
+        ],
+        "ol": [
+          "Lee el alcance, las credenciales, el territorio, el calendario y la vía publicada para aclaraciones.",
+          "El responsable de la firma confirma capacidad, disponibilidad y conflictos antes de decidir si presenta oferta.",
+          "Utiliza el proceso permitido de consultas o presentación; no contactes con otra persona para eludirlo.",
+          "Si falta una cualificación requerida o el alcance no encaja, registra el motivo y detente."
+        ],
+        "after": [
+          "Ni una licitación publicada ni una respuesta en frío son un encargo ganado. La contratación formal y el desarrollo de relaciones necesitan registros y expectativas diferentes."
+        ],
+        "id": "ps-procurement"
+      },
+      {
+        "title": "Identifica las funciones de compra y el responsable de prestar el servicio",
+        "p": [
+          "Mantén una promesa de servicio coherente al responder a las preocupaciones de cada persona. El cargo orienta; la conversación confirma la responsabilidad. No contactes con compañeros para sortear una negativa."
+        ],
+        "headers": [
+          "Función",
+          "Qué aclarar",
+          "Prueba o responsable"
+        ],
+        "rows": [
+          [
+            "Promotor",
+            "¿Por qué plantearse el trabajo ahora y quién lo autoriza?",
+            "Decisión confirmada por el comprador y responsable senior identificado."
+          ],
+          [
+            "Evaluador",
+            "¿Cómo se valorarán método y experiencia pertinente?",
+            "Credenciales reales, método y muestra autorizada; responde el experto."
+          ],
+          [
+            "Persona afectada por la ejecución",
+            "¿Qué cambiaría en el trabajo diario?",
+            "Mapa de responsabilidades acotado y traspaso claro; participación acordada."
+          ],
+          [
+            "Compras o riesgos",
+            "¿Qué proceso, información y aprobaciones se necesitan?",
+            "Requisitos reales del comprador, sin imponer una lista universal."
+          ],
+          [
+            "Responsable de prestación",
+            "¿Puede la firma ejecutar el encargo aceptado?",
+            "Capacidad, alcance, dependencias e incógnitas revisados antes de proponer."
+          ]
+        ],
+        "id": "map-sponsors-evaluators-and-affected-operators"
+      },
+      {
+        "title": "Muestra cómo trabajas sin revelar a un cliente",
+        "p": [
+          "Ofrece pruebas que puedan revisarse: contexto, decisión, trabajo realizado, resultado observado, límites y permiso de publicación. Credenciales y logotipos no sustituyen esa explicación. Eliminar un nombre puede no impedir que se identifique al cliente.",
+          "Para la oferta ficticia de asesoramiento de personas, crea una muestra original en blanco: rutina, responsable actual por confirmar, decisión deseada, persona a consultar y pregunta pendiente. Explica cómo se usaría en un taller. No añadas empleados, sistemas ni problemas internos reales de un cliente."
+        ],
+        "ul": [
+          "Identifica el material inventado como ficticio; no es un entregable realizado para un cliente.",
+          "Utiliza un resultado real solo cuando estén establecidos pruebas, alcance y permiso de publicación.",
+          "Indica las credenciales reales del experto y sus límites; no inventes acreditaciones.",
+          "Deja el asesoramiento jurídico, financiero, de seguridad y otras especialidades a la persona debidamente cualificada."
+        ],
+        "links": [
+          [
+            "/editorial-policy/",
+            "Política editorial y de pruebas"
+          ],
+          [
+            "/case-studies/cybersecurity-linkedin-lead-generation/",
+            "Un caso publicado con alcance delimitado"
+          ]
+        ],
+        "id": "make-expertise-inspectable"
+      },
+      {
+        "title": "Escribe para esa persona, no para una etiqueta profesional",
+        "p": [
+          "Son aperturas alternativas para sus respectivas situaciones, no mensajes para acumular sobre un mismo prospecto. Adapta la estructura a una investigación auténtica y a tu alcance real. La IA puede ayudar a redactar, pero no inventar fuentes, relaciones ni problemas."
+        ],
+        "samples": [
+          [
+            "LinkedIn: responde a una idea pública pertinente",
+            "Es útil lo que comentabas sobre dar tiempo a los mandos para aprender una rutina nueva.\n\nEn un equipo que abre un segundo centro, ¿te correspondería decidir qué rutinas siguen siendo locales y cuáles se comparten? Ayudamos a definir esas responsabilidades, sin asumir asesoramiento jurídico laboral.\n\nSi te sirve, puedo enviarte una muestra en blanco del mapa. Si ya está resuelto, no hace falta convertirlo en un proyecto.",
+            "Se refiere a una idea concreta de la publicación ficticia, comprueba la responsabilidad y ofrece algo revisable. No presupone un fallo de gestión."
+          ],
+          [
+            "Email: mismo servicio, otro contexto verificado",
+            "Hola:\n\nSobre el segundo centro del anuncio: ¿estáis decidiendo qué rutinas de gestión necesitan un responsable común o ya está cubierto?\n\nNuestro trabajo consiste en definir esas responsabilidades con los equipos de personas y operaciones. El asesoramiento jurídico y los casos individuales quedan fuera. Una muestra en blanco permite revisar el método antes de hablar de un encargo.\n\n¿Sería pertinente para quien coordina los dos centros?",
+            "Es una alternativa cuando el email es la vía adecuada. Convierte la observación en una pregunta, sin declarar una necesidad oculta ni prometer ahorros."
+          ],
+          [
+            "Una conversación real en un evento",
+            "Fue un gusto hablar de formación de mandos en la sesión local de operaciones. Preguntaste cómo combinar una rutina común con margen para cada centro.\n\nLa muestra en blanco que comentamos está lista. ¿Te la envío por aquí o con la conversación ya fue suficiente por ahora?",
+            "Úsalo solo si la conversación y el ofrecimiento ocurrieron. Aparecer en una lista de asistentes no crea una relación ni un permiso."
+          ],
+          [
+            "Un recordatorio breve",
+            "Hola, solo quería comprobar si te serviría la muestra del mapa de responsabilidades. Si ya lo tenéis cubierto, lo dejo aquí.",
+            "No inventa urgencia ni añade otro argumento largo. Forma parte de la misma secuencia breve y coordinada, no de una campaña nueva en cada canal."
+          ]
+        ],
+        "after": [
+          "Revisa expresiones prefabricadas como «he visto que», «me ha impresionado», «desbloquea tu potencial» o «en el vertiginoso mundo actual» si esconden una propuesta genérica. No son detectores de IA ni palabras prohibidas: importa que el hecho sea cierto, la relación tenga sentido y el mensaje suene a algo que enviarías tú."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisar el proceso de redacción"
+          ]
+        ],
+        "id": "ps-messages"
+      },
+      {
+        "title": "Haz un seguimiento breve y coordinado",
+        "p": [
+          "El patrón habitual de Beespoke es una apertura individual y un recordatorio breve, a menudo unos cuatro días después. Es una preferencia de trabajo, no el intervalo óptimo para todos los mercados. Quien lee puede entender el primer mensaje sin otro argumento largo.",
+          "Empieza por LinkedIn si la persona participa allí; en otro caso puede encajar mejor un email relevante. Si pasas a otro canal adecuado tras el silencio, coordina el historial y evita repetir el mismo mensaje simultáneamente. Las llamadas requieren alcance y aprobación separados. Detén el contacto en toda la cuenta ante una negativa, objeción u otra condición de parada.",
+          "Que un comprador pida retomar cerca de una fecha de planificación es distinto. Registra qué permitió y cuándo; no conviertas una descarga, asistencia o silencio en una suscripción a boletines."
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Guía de seguimiento por email en frío"
+          ]
+        ],
+        "id": "ps-follow-up"
+      },
+      {
+        "title": "Da a cada respuesta el siguiente paso adecuado",
+        "headers": [
+          "Respuesta",
+          "Qué establece",
+          "Siguiente acción"
+        ],
+        "rows": [
+          [
+            "La cuestión está vigente",
+            "Posible relevancia, no un encargo confirmado",
+            "Aclara alcance y quién debe participar con el experto."
+          ],
+          [
+            "Habla con otra persona",
+            "Una vía sugerida, no permiso general",
+            "Confirma cómo presentar el contexto; no contactes con todo el mundo."
+          ],
+          [
+            "Ya tenemos apoyo",
+            "Existe una relación",
+            "Respétala; no inventes insatisfacción ni exijas una comparación."
+          ],
+          [
+            "Vuelve en una fecha concreta",
+            "Una invitación futura limitada",
+            "Registra fecha y asunto permitidos; pausa la secuencia en frío."
+          ],
+          [
+            "Envíame la muestra",
+            "Interés en ese material",
+            "Envía lo prometido y autorizado; no cuentes una reunión."
+          ],
+          [
+            "No / para / no encaja",
+            "Parada o falta de encaje",
+            "Suprime el seguimiento coordinado y conserva solo la información de parada necesaria."
+          ],
+          [
+            "Sin respuesta",
+            "No hay una posición confirmada",
+            "No lo etiquetes como interés, rechazo, necesidad ni intención de compra."
+          ]
+        ],
+        "id": "ps-replies"
+      },
+      {
+        "title": "Decide si aceptar, aplazar o excluir",
+        "p": [
+          "Conserva los seis criterios: organización y servicio, responsabilidad de compra, problema o cambio reconocido, encaje comercial, acceso a personas e información necesarias y siguiente paso acordado. Una respuesta educada no completa los campos pendientes."
+        ],
+        "dl": [
+          [
+            "Aceptar para una conversación exploratoria",
+            "El comprador confirma una decisión pertinente, la firma puede ayudar, el experto adecuado puede asistir y ambas partes entienden el motivo. Presupuesto y compras no confirmados siguen pendientes."
+          ],
+          [
+            "Aplazar con permiso",
+            "Puede haber encaje, pero momento, responsable o vía no están claros. Asigna próxima decisión y fecha de contacto permitida; no lo conviertas silenciosamente en oportunidad."
+          ],
+          [
+            "Excluir o detener",
+            "Servicio, territorio, requisitos profesionales, conflictos, negativa previa o capacidad impiden avanzar. Registra un motivo mínimo y detente."
+          ]
+        ],
+        "after": [
+          "La firma debe decidir su propio umbral comercial y requisitos profesionales. Esta guía no fija un importe mínimo universal ni determina si está permitida la captación en una jurisdicción."
+        ],
+        "id": "qualify-economic-and-delivery-fit",
+        "aliases": [
+          "qualify-economic-and-delivery-encaje"
+        ]
+      },
+      {
+        "title": "Haz que el traspaso al experto sea útil",
+        "case": [
+          "Traspaso ficticio: PS-DEMO-01",
+          "La responsable de personas confirma que la decisión entre centros está vigente y solicita hablar con un experto. Esa confirmación, no el anuncio original, justifica la reunión."
+        ],
+        "dl": [
+          [
+            "Motivo",
+            "Acordar qué rutinas puede ayudar a definir la asesoría y qué queda en manos de la firma."
+          ],
+          [
+            "Personas y pruebas",
+            "Asiste la responsable de personas; operaciones por confirmar. Registra fuente pública y fecha, pregunta pertinente exacta del comprador y muestra autorizada enviada."
+          ],
+          [
+            "Alcance e incógnitas",
+            "No se solicitan datos de casos de empleados. Presupuesto, compras, fechas de prestación y necesidad de asesoramiento jurídico siguen pendientes."
+          ],
+          [
+            "Responsable y calendario",
+            "El experto designado lleva la conversación. Reserva original creada el día 8 para el 14; se mueve al 21 y se celebra. Conserva identificador y fecha originales y enlaza el cambio: sigue siendo una reserva original."
+          ],
+          [
+            "Después de la llamada",
+            "Registra asistencia por separado. Acepta para definir alcance solo si el experto confirma encaje y un siguiente paso; no es un encargo firmado."
+          ]
+        ],
+        "ol": [
+          "En un ejemplo de conversación de encaje de 30 minutos, dedica cinco a confirmar decisión y participantes.",
+          "Dedica diez al enfoque actual sin recopilar detalles sensibles innecesarios.",
+          "Dedica diez a método, límites y dependencias; comprueba lo que sigue sin saberse.",
+          "Usa los cinco finales para acordar no continuar, un seguimiento concreto o un diagnóstico con alcance separado. La agenda es ilustrativa, no un entregable gratuito prometido."
+        ],
+        "id": "ps-handoff"
+      },
+      {
+        "title": "Presupuesta tiempo del experto antes de pedir más llamadas",
+        "p": [
+          "La firma ficticia dedica seis horas semanales a una campaña pequeña. En ese tiempo caben dos conversaciones con preparación. El cálculo describe capacidad, no demanda esperada ni una previsión de reuniones."
+        ],
+        "headers": [
+          "Tarea",
+          "Minutos ilustrativos",
+          "Responsable o límite"
+        ],
+        "rows": [
+          [
+            "Revisar alcance, afirmaciones y pruebas",
+            "60",
+            "Experto responsable"
+          ],
+          [
+            "Investigar y comprobar encaje",
+            "75",
+            "Investigación; el cliente aprueba objetivos"
+          ],
+          [
+            "Redacción individual y preparación",
+            "45",
+            "Responsable de campaña, dentro de los permisos"
+          ],
+          [
+            "Respuestas y coordinación",
+            "30",
+            "Responsable de responder"
+          ],
+          [
+            "Dos conversaciones con preparación",
+            "150",
+            "Dos × (45 minutos de conversación + 30 de preparación)"
+          ],
+          [
+            "Total",
+            "360",
+            "Seis horas; prestación y propuestas necesitan capacidad aparte"
+          ]
+        ],
+        "after": [
+          "En costes, incluye investigación, redacción, software, datos y tiempo experto, además del desembolso. El coste de adquisición divide el coste total acordado entre clientes realmente nuevos ganados en la cohorte definida. Si no hay ventas, no existe un coste medido por cliente adquirido. No justifiques una inversión con cierres o valor futuro del cliente inventados: utiliza honorarios realizados, costes de prestación, permanencia y política de recuperación propios."
+        ],
+        "id": "ps-capacity"
+      },
+      {
+        "title": "Evalúa una cohorte con fecha, no un montón de actividad",
+        "p": [
+          "Ejemplo ficticio: 50 cuentas contactadas por primera vez entre los días 1 y 14, revisadas al terminar el día 28. Mantén registros estables y las mismas definiciones. Las cifras enseñan a informar; no son tasas para una previsión."
+        ],
+        "headers": [
+          "Etapa",
+          "Recuento ficticio",
+          "Interpretación"
+        ],
+        "rows": [
+          [
+            "Cuentas contactadas por primera vez",
+            "50",
+            "Denominador de la cohorte; no mensajes, personas ni sesiones web."
+          ],
+          [
+            "Conversaciones bidireccionales sustantivas",
+            "6",
+            "Respuestas sobre el servicio, no cualquier acuse de recibo."
+          ],
+          [
+            "Reservas originales creadas hasta el corte",
+            "3",
+            "Una por identificador y fecha originales; mover PS-DEMO-01 no crea una cuarta."
+          ],
+          [
+            "Llamadas celebradas hasta el corte",
+            "2",
+            "La tercera sigue prevista para el día 35; la asistencia aún no es definitiva."
+          ],
+          [
+            "Aceptadas para definir alcance",
+            "1",
+            "El experto lo confirma tras la conversación."
+          ],
+          [
+            "Propuestas / encargos firmados",
+            "0 / 0",
+            "No atribuyas valor de oportunidad ni ingresos sin establecerlos."
+          ]
+        ],
+        "after": [
+          "Registra por separado origen conocido, primera página de entrada si se captó con fiabilidad, página de reserva y explicación del comprador sobre cómo os encontró. Recomendación, conversación en LinkedIn y visita web pueden pertenecer al mismo recorrido. Un origen ausente es desconocido; la última página visitada no es automáticamente la fuente inicial.",
+          "Excluye pruebas internas, duplicados y cambios de fecha de los recuentos de demanda real. Registros de Analytics, clics, visitas al calendario y descargas no prueban por sí solos una reserva. Compara cohortes equivalentes con resultados suficientemente maduros; unas pocas llamadas no sustentan una previsión fiable del canal."
+        ],
+        "id": "ps-measurement"
+      },
+      {
+        "title": "Decide qué cambiar a partir de las pruebas",
+        "headers": [
+          "Área",
+          "Prueba necesaria",
+          "Si falta"
+        ],
+        "rows": [
+          [
+            "Oferta",
+            "Problema concreto, alcance y exclusiones",
+            "Acota la oferta en lugar de aumentar volumen."
+          ],
+          [
+            "Mercado",
+            "Situación observable y funciones de compra confirmadas",
+            "Revisa lista y fuentes antes de reescribirlo todo."
+          ],
+          [
+            "Pruebas",
+            "Evidencia pertinente y autorizada, método revisable",
+            "Crea la muestra o explicación que falta; no inventes resultados."
+          ],
+          [
+            "Ventas",
+            "Un experto que responde y puede conducir la conversación",
+            "Arregla responsable, traspaso y disponibilidad antes de buscar más reservas."
+          ],
+          [
+            "Economía",
+            "Trabajo que pueda realizarse con rentabilidad y credibilidad",
+            "Revisa costes reales, encaje y capacidad antes de escalar."
+          ]
+        ],
+        "after": [
+          "Si hay conversaciones adecuadas sin avances, pregunta al experto qué ha aprendido sobre oferta, momento y decisión. Cambia una hipótesis importante cada vez y registra el próximo corte. Ni una semana tranquila ni una venta temprana demuestran todo el sistema."
+        ],
+        "id": "buyer-decision-guide"
+      },
+      {
+        "title": "Qué conserva la firma y qué puede gestionar Beespoke",
+        "p": [
+          "Beespoke puede gestionar investigación de cuentas y personas, mensajes individuales, preparación autorizada, respuestas, cualificación y reservas según criterios acordados. El cliente aporta el criterio para aprobar la lista y valida experiencia, requisitos profesionales y pruebas. La firma conserva conversaciones expertas, propuestas, cierre y prestación.",
+          "El servicio outbound base cubre email en frío y/o LinkedIn; el canal depende de actividad y encaje de la persona. Las llamadas se presupuestan aparte según mercado, contratando hablantes nativos cuando corresponda. Es un servicio gestionado y dirigido por el fundador, no un SDR a jornada completa incluido ni una cantidad garantizada de reuniones."
+        ],
+        "ol": [
+          "Pregunta qué cuenta como respuesta, reserva original, llamada celebrada y oportunidad aceptada.",
+          "Revisa una cuenta propuesta y un mensaje original antes de acordar volumen.",
+          "Confirma quién aprueba afirmaciones, listas, pruebas y permisos de envío.",
+          "Pregunta quién coordina paradas, relaciones existentes y actividad entre canales.",
+          "Acuerda capacidad experta, aceptación del traspaso e información sobre cohortes incompletas.",
+          "Confirma por escrito alcance, extras de software y datos, registros y condiciones de finalización; consulta los términos vigentes de Beespoke en precios."
+        ],
+        "links": [
+          [
+            "/services/b2b-lead-generation/",
+            "Captación B2B gestionada"
+          ],
+          [
+            "/compare/lead-generation-agency-vs-in-house-team/",
+            "Agencia y equipo interno"
+          ],
+          [
+            "/industries/recruitment-agency-lead-generation/",
+            "Captación para agencias de selección"
+          ],
+          [
+            "/industries/marketing-agency-lead-generation/",
+            "Captación para agencias de marketing"
+          ]
+        ],
+        "id": "where-a-focused-outbound-partner-can-fit",
+        "aliases": [
+          "where-a-focused-outbound-partner-can-encaje"
+        ]
+      },
+      {
+        "title": "Lleva las decisiones a tu reunión de planificación",
+        "p": [
+          "El archivo opcional contiene preguntas en blanco, no una lista de leads. No requiere registro ni datos de contacto. Guarda información real de clientes, empleados y prospectos en tu sistema privado autorizado."
+        ],
+        "downloadTitle": "Abrir las preguntas de planificación",
+        "downloadLabel": "Descargar preguntas en blanco (CSV)",
+        "downloadNote": "Diez preguntas para tu propio documento. La descarga estática no guarda fichas de prospectos introducidas en la página.",
+        "questions": [
+          [
+            "Servicio",
+            "¿Qué decisión abordará la firma y qué queda fuera?"
+          ],
+          [
+            "Mercado",
+            "¿Qué organizaciones encajan y cuáles deben excluirse?"
+          ],
+          [
+            "Pruebas",
+            "¿Qué se observa, cuál es la fuente y qué sigue siendo una hipótesis?"
+          ],
+          [
+            "Personas",
+            "¿Quién decide, evalúa y vive las consecuencias?"
+          ],
+          [
+            "Canal",
+            "¿Dónde es adecuado contactar y cuándo debe detenerse?"
+          ],
+          [
+            "Evidencia",
+            "¿Qué muestra o credencial exacta y autorizada puede revisar el comprador?"
+          ],
+          [
+            "Revisión profesional",
+            "¿Quién aprueba afirmaciones, conflictos, jurisdicción y requisitos del canal?"
+          ],
+          [
+            "Traspaso",
+            "¿Quién lleva la conversación, qué se acepta y cómo se concilian cambios del calendario?"
+          ],
+          [
+            "Capacidad y economía",
+            "¿Qué tiempo, capacidad de prestación y costes reales admite la firma?"
+          ],
+          [
+            "Evaluación",
+            "¿Qué cohorte, corte, resultados reales y próxima decisión se registrarán?"
+          ]
+        ],
+        "id": "ps-brief"
+      },
+      {
+        "title": "Preguntas frecuentes",
+        "faqs": [
+          [
+            "¿Cómo captan clientes las firmas de servicios profesionales?",
+            "Mediante recomendaciones, alianzas, búsqueda, contenido útil, eventos y prospección adecuados. Elige la combinación según servicio, proceso real de decisión, pruebas y capacidad. Ningún canal es universalmente mejor."
+          ],
+          [
+            "¿Funciona el outbound para servicios profesionales?",
+            "Puede abrir conversaciones pertinentes si existen servicio definido, cuentas adecuadas, contacto apropiado y seguimiento experto creíble. No convierte una señal pública en necesidad ni sustituye la exploración. La demanda urgente de particulares y las licitaciones pueden requerir otras vías."
+          ],
+          [
+            "¿Qué debe contar como lead cualificado?",
+            "Define encaje de organización y servicio, responsabilidad pertinente, motivo confirmado para hablar, idoneidad comercial y siguiente paso. Separa reservas, asistencia y aceptación para definir alcance. Una ficha, respuesta educada o clic al calendario no bastan."
+          ],
+          [
+            "¿Qué contenido sirve si los clientes son confidenciales?",
+            "Muestras ficticias originales, métodos transparentes, credenciales reales autorizadas y pruebas aprobadas con límites. Identifica claramente la ficción. Quitar un nombre puede no impedir la identificación; un ejemplo ficticio no es un resultado de cliente."
+          ],
+          [
+            "¿Conviene usar LinkedIn o email?",
+            "Depende de la actividad de la persona, la vía disponible, el contexto y los requisitos aplicables. LinkedIn puede encajar para alguien activo allí; para otra persona puede servir un email relevante. Coordina los canales sin repetir la propuesta por todas partes."
+          ],
+          [
+            "¿Cuántos seguimientos debemos enviar?",
+            "Beespoke suele usar una apertura individual y un recordatorio breve, a menudo unos cuatro días después. Es una preferencia de trabajo, no una regla universal. Respeta negativas y fechas permitidas y distingue el contacto en frío del seguimiento solicitado."
+          ],
+          [
+            "¿Cuánto tarda la captación en producir clientes?",
+            "No hay un plazo universal fiable. Importan investigación, mercado, proceso de compra, capacidad experta y decisión. Evalúa cohortes fechadas y reuniones futuras pendientes; no pronostiques encargos firmados por unas pocas respuestas o reservas iniciales."
+          ],
+          [
+            "¿Qué gestiona Beespoke para una firma profesional?",
+            "Investigación, mensajes individuales, preparación autorizada, respuestas, cualificación y reservas con criterios acordados. El cliente aprueba objetivos y afirmaciones expertas y conserva diagnóstico comercial, propuestas, cierre y prestación. El servicio base usa email en frío y/o LinkedIn; las llamadas se presupuestan aparte."
+          ]
+        ],
+        "id": "frequently-asked-questions"
+      }
+    ]
+  },
+  "ca": {
+    "description": "Prepara un pla de captació per a serveis professionals: especialització, recomanacions i outbound, missatges originals, traspàs a l'expert i revisió amb criteri.",
+    "answer": "La captació per a serveis professionals transforma l'interès pertinent en converses sobre feines que el despatx pot dur a terme. Defineix un servei, les organitzacions per a les quals és adequat i les proves que el comprador pot examinar. Tria una via adequada —recomanacions, cerca, esdeveniments, correu o LinkedIn—, confirma la situació i traspassa el context a l'expert corresponent. Un contacte, una resposta, una trucada reservada i un encàrrec signat són resultats diferents.",
+    "jump": "Segueix un exemple complet",
+    "dateLabel": "10 de novembre de 2026",
+    "fiction": "Totes les situacions, missatges, fitxes i xifres següents són ficticis i originals, creats per planificar. No descriuen clients, possibles clients ni campanyes, i no són valors de referència de rendiment.",
+    "sourceTitle": "Fonts i límits",
+    "sourceNote": "Revisió del 10 de novembre de 2026: lectura completa de 20 pàgines escrites pertinents, incloses guies relacionades sobre canals, consultoria i selecció de proveïdors. La llista documenta les lectures, no recomanacions de contractació. No s'han verificat independentment els informes enllaçats, les descàrregues restringides ni els vídeos. Els resultats, preus, afirmacions legals i terminis de tercers no són promeses de Beespoke. Els exemples i mètodes de planificació són originals; fes servir proves pròpies abans de decidir una inversió.",
+    "sections": [
+      {
+        "title": "Tria la feina que vols captar",
+        "p": [
+          "Un despatx pot tenir diverses especialitats i provar una oferta concreta. Comença per una decisió que el comprador reconegui, la persona que n'és responsable i la feina que podeu assumir amb credibilitat. No intentis explicar totes les capacitats al primer missatge.",
+          "Aquesta guia ajuda el responsable d'una pràctica a triar i gestionar la prova. Per als processos específics, consulta les guies de comptabilitat, consultoria, serveis informàtics o agències. Un despatx jurídic, una pràctica per a particulars i una licitació d'enginyeria necessiten enfocaments diferents."
+        ],
+        "headers": [
+          "Especialitat",
+          "Punt de partida delimitat",
+          "Què cal comprovar abans de contactar"
+        ],
+        "rows": [
+          [
+            "Consultoria de gestió",
+            "La responsabilitat sobre un canvi operatiu concret",
+            "Pot el despatx ajudar en aquesta decisió i delimitar el seu paper en l'execució?"
+          ],
+          [
+            "Assessorament jurídic o de compliment",
+            "Una qüestió per a un especialista degudament qualificat",
+            "El despatx ha de revisar jurisdicció, conflictes, captació permesa i afirmacions."
+          ],
+          [
+            "Assessorament financer",
+            "Suport a decisions més enllà dels informes habituals",
+            "Confirma l'encàrrec i els requisits; anunciar una operació no demostra necessitat ni dret a cap avantatge."
+          ],
+          [
+            "Assessorament de persones",
+            "Un canvi definit en l'organització o la gestió de la feina",
+            "Deixa els casos de treballadors i les dades personals fora de la prospecció."
+          ],
+          [
+            "Assessorament tècnic o enginyeria",
+            "Una decisió de disseny, avaluació o projecte amb abast definit",
+            "Comprova credencials, territori de prestació i procediment de contractació."
+          ]
+        ],
+        "links": [
+          [
+            "/industries/accounting-firm-lead-generation/",
+            "Captació per a despatxos comptables"
+          ],
+          [
+            "/industries/consulting-lead-generation/",
+            "Captació per a consultories"
+          ],
+          [
+            "/industries/it-services-lead-generation/",
+            "Captació per a serveis informàtics"
+          ]
+        ],
+        "id": "turn-a-broad-practice-into-a-buyable-problem"
+      },
+      {
+        "title": "Explica l'oferta en tres frases",
+        "p": [
+          "Conservem l'exercici de situació, feina i proves. Aquesta versió completa correspon a una assessoria de persones fictícia que estudia empreses que obren un segon centre."
+        ],
+        "cards": [
+          [
+            "Situació",
+            "Ajudem organitzacions que decideixen com treballaran els comandaments de primera línia entre dos centres."
+          ],
+          [
+            "Feina",
+            "Definim quines rutines de gestió han de continuar sent locals i quines necessiten un responsable compartit; l'assessorament jurídic laboral i els casos individuals en queden fora."
+          ],
+          [
+            "Proves",
+            "El comprador pot examinar una mostra original d'un mapa de responsabilitats, el mètode i les credencials reals dels experts pertinents."
+          ]
+        ],
+        "after": [
+          "Són límits del servei, no una afirmació que qualsevol expansió provoca problemes de gestió. Si el comprador ja ho ha resolt, potser no hi ha cap conversa útil a tenir. Una conversa d'encaix no és un projecte de consultoria gratuït; qualsevol diagnosi o lliurable s'ha d'acordar per separat."
+        ],
+        "id": "professional-services-wedge"
+      },
+      {
+        "title": "Tria la via segons com compra el client",
+        "p": [
+          "Distingeix entre respondre una petició existent i començar una conversa nova. Un despatx petit no necessita activar tots els canals. Tria una via principal amb un responsable i deixa les proves públiques accessibles per a qui vulgui avaluar el despatx."
+        ],
+        "headers": [
+          "Via",
+          "Quan pot encaixar",
+          "Límit o pas següent"
+        ],
+        "rows": [
+          [
+            "Relacions existents i recomanacions",
+            "Un client o assessor entén la feina concreta",
+            "Demana una presentació adequada amb permís. No donis per autoritzats incentius, recomanacions ni noms de clients."
+          ],
+          [
+            "Cerca i contingut útil",
+            "Els compradors ja investiguen el problema o l'especialitat",
+            "Respon a la decisió, mostra credencials reals i ofereix un pas clar. Una visita no és una consulta comercial."
+          ],
+          [
+            "Esdeveniments i sessions amb experts",
+            "Els compradors adequats es reuneixen al voltant d'una qüestió",
+            "Conversa de debò i acorda el seguiment; assistir-hi no equival a demanar una seqüència comercial."
+          ],
+          [
+            "LinkedIn",
+            "La persona pertinent hi participa visiblement",
+            "Fes servir el seu context públic real. Un perfil o càrrec no prova activitat ni autoritat."
+          ],
+          [
+            "Correu en fred",
+            "Hi ha una adreça professional pertinent i un motiu creïble",
+            "Verifica l'encaix i els requisits aplicables; escriu individualment i facilita que puguin declinar."
+          ],
+          [
+            "Trucades",
+            "La conversa és adequada i el despatx l'ha aprovada",
+            "Calen persones capacitades i límits acordats. Es pressuposten a part; no van incloses automàticament amb correu o LinkedIn."
+          ],
+          [
+            "Licitació o proveïdors homologats",
+            "El comprador estableix un procediment formal",
+            "Utilitza'l i respecta les regles de comunicació. El contacte privat no ha d'eludir compres."
+          ]
+        ],
+        "id": "ps-channels"
+      },
+      {
+        "title": "Revisa les bases abans d'enviar",
+        "p": [
+          "Aquesta llista opcional permet veure les decisions pendents. Marcar una casella reflecteix el teu criteri: no verifica el compliment, certifica la preparació ni prediu reunions."
+        ],
+        "readiness": {
+          "title": "Revisa vuit decisions de llançament",
+          "intro": "La pots deixar tancada si només llegeixes. Les caselles funcionen en aquesta pàgina i no envien informació de possibles clients.",
+          "items": [
+            "Un servei i les seves exclusions són clars.",
+            "S'han acordat les organitzacions objectiu i els motius d'exclusió.",
+            "S'han comprovat les funcions de compra pertinents.",
+            "S'han acordat el canal adequat i les condicions d'aturada.",
+            "L'expert responsable ha aprovat les afirmacions i els requisits professionals.",
+            "Les proves són exactes i se n'ha autoritzat la difusió.",
+            "Hi ha capacitat per a les converses i la prestació.",
+            "S'han assignat un responsable del registre, definicions dels resultats i una data de revisió."
+          ],
+          "marked": "Decisions que has marcat",
+          "note": "Només és un recompte. Cada decisió pendent necessita un responsable; completar la llista no és una puntuació de qualitat."
+        },
+        "id": "industry-fit-check"
+      },
+      {
+        "title": "Separa el fet de la hipòtesi",
+        "p": [
+          "Un anunci de contractació de personal, una expansió, una publicació o una intervenció en un esdeveniment poden justificar una recerca. No revelen dificultats, pressupost, insatisfacció ni cap encàrrec confidencial. Registra font, data, contingut observat i què encara no se sap.",
+          "El context també pot venir d'una persona: un comentari públic útil, una xerrada, un contacte compartit autèntic o un esdeveniment local pertinent. No facis veure que hi has assistit, insinuïs una recomanació sense permís ni dedueixis circumstàncies personals sensibles."
+        ],
+        "headers": [
+          "Registre",
+          "Exemple fictici",
+          "Què no demostra"
+        ],
+        "rows": [
+          [
+            "Fet observat",
+            "Un fabricant anuncia un segon centre el dia 1 de campanya; desa internament l'anunci i la data de consulta.",
+            "Que les rutines de gestió fallin."
+          ],
+          [
+            "Hipòtesi de servei",
+            "L'equip de persones potser decideix quines rutines necessiten un responsable compartit.",
+            "Que hi hagi un projecte o que s'hagi de contractar l'assessoria."
+          ],
+          [
+            "Persona i canal",
+            "La responsable de persones parla públicament de formació de comandaments i participa a LinkedIn.",
+            "Que controli el pressupost o vulgui rebre una proposta."
+          ],
+          [
+            "Incògnites i exclusions",
+            "Cal confirmar el pla intern, l'assessor actual, el moment, els límits professionals i el pressupost.",
+            "Que una IA pugui omplir els buits amb una suposició."
+          ]
+        ],
+        "id": "use-triggers-as-research-clues-not-private-knowledge"
+      },
+      {
+        "title": "Segueix un compte des de les proves fins a la decisió",
+        "case": [
+          "Fitxa de treball fictícia: PS-DEMO-01",
+          "L'assessoria de persones estudia el fabricant anterior. És una situació didàctica, no un resultat real anonimitzat."
+        ],
+        "dl": [
+          [
+            "Servei i encaix",
+            "Definir responsabilitats de gestió entre els dos centres. L'assessoria pot ajudar amb rutines operatives; en queden fora l'assessorament jurídic, la selecció de personal i els casos individuals."
+          ],
+          [
+            "Per què aquesta persona",
+            "Parteix de la conversa pública sobre formació. Pregunta si aquesta feina li correspon; no pressuposis que només val la pena contactar amb el director general."
+          ],
+          [
+            "Canal i proves",
+            "Com que participa a LinkedIn, envia-hi una nota pertinent. Ofereix un mapa de responsabilitats en blanc, sense afirmar que coneixes els processos interns."
+          ],
+          [
+            "Decisió abans d'enviar",
+            "El client aprova l'encaix del compte; l'expert responsable aprova missatge i proves. Si no hi ha via adequada o la qüestió ja està resolta, ajorna o exclou."
+          ],
+          [
+            "Decisió després de la resposta",
+            "Si confirma que la qüestió és vigent, aclareix decisió, moment i expert necessari. Si declina, atura el contacte coordinat a tots els canals."
+          ]
+        ],
+        "after": [
+          "L’anunci públic només justifica investigar; la resposta del comprador pot establir un pas útil."
+        ],
+        "id": "ps-worked-account"
+      },
+      {
+        "title": "Un altre compte pot requerir un altre procediment",
+        "p": [
+          "Compara-ho amb una enginyeria fictícia que troba una licitació de planificació d'instal·lacions. Hi ha una necessitat publicada, però ara cal valorar requisits i encaix de l'oferta, no redactar un missatge en fred creatiu."
+        ],
+        "ol": [
+          "Llegeix l'abast, les credencials, el territori, el calendari i la via publicada d'aclariments.",
+          "El responsable del despatx confirma capacitat, disponibilitat i conflictes abans de decidir si presenta oferta.",
+          "Utilitza el procés permès de consultes o presentació; no contactis amb una altra persona per eludir-lo.",
+          "Si falta una qualificació requerida o l'abast no encaixa, registra'n el motiu i atura't."
+        ],
+        "after": [
+          "Ni una licitació publicada ni una resposta en fred són un encàrrec guanyat. La contractació formal i el desenvolupament de relacions necessiten registres i expectatives diferents."
+        ],
+        "id": "ps-procurement"
+      },
+      {
+        "title": "Identifica les funcions de compra i qui prestarà el servei",
+        "p": [
+          "Mantén una promesa de servei coherent en respondre a les preocupacions de cadascú. El càrrec orienta; la conversa confirma la responsabilitat. No contactis amb companys per esquivar una negativa."
+        ],
+        "headers": [
+          "Funció",
+          "Què cal aclarir",
+          "Prova o responsable"
+        ],
+        "rows": [
+          [
+            "Promotor",
+            "Per què plantejar-se la feina ara i qui l'autoritza?",
+            "Decisió confirmada pel comprador i responsable sènior identificat."
+          ],
+          [
+            "Avaluador",
+            "Com es valoraran mètode i experiència pertinent?",
+            "Credencials reals, mètode i mostra autoritzada; respon l'expert."
+          ],
+          [
+            "Persona afectada per l'execució",
+            "Què canviaria en la feina diària?",
+            "Mapa de responsabilitats delimitat i traspàs clar; participació acordada."
+          ],
+          [
+            "Compres o riscos",
+            "Quin procés, informació i aprovacions calen?",
+            "Requisits reals del comprador, sense imposar una llista universal."
+          ],
+          [
+            "Responsable de prestació",
+            "Pot el despatx executar l'encàrrec acceptat?",
+            "Capacitat, abast, dependències i incògnites revisats abans de proposar."
+          ]
+        ],
+        "id": "map-sponsors-evaluators-and-affected-operators"
+      },
+      {
+        "title": "Mostra com treballes sense revelar un client",
+        "p": [
+          "Ofereix proves examinables: context, decisió, feina feta, resultat observat, límits i permís de publicació. Credencials i logotips no substitueixen l'explicació. Eliminar un nom pot no impedir que s'identifiqui el client.",
+          "Per a l'oferta fictícia de persones, crea una mostra original en blanc: rutina, responsable actual per confirmar, decisió desitjada, persona a consultar i pregunta pendent. Explica com s'utilitzaria en un taller. No hi afegeixis empleats, sistemes ni problemes interns reals d'un client."
+        ],
+        "ul": [
+          "Identifica el material inventat com a fictici; no és un lliurable fet per a un client.",
+          "Fes servir un resultat real només amb proves, abast i permís de publicació establerts.",
+          "Indica les credencials reals de l'expert i els seus límits; no inventis acreditacions.",
+          "Deixa l'assessorament jurídic, financer, de seguretat i altres especialitats a la persona degudament qualificada."
+        ],
+        "links": [
+          [
+            "/editorial-policy/",
+            "Política editorial i de proves"
+          ],
+          [
+            "/case-studies/cybersecurity-linkedin-lead-generation/",
+            "Un cas publicat amb abast delimitat"
+          ]
+        ],
+        "id": "make-expertise-inspectable"
+      },
+      {
+        "title": "Escriu per a aquesta persona, no per a una etiqueta professional",
+        "p": [
+          "Són obertures alternatives per a les situacions indicades, no missatges per acumular sobre una mateixa persona. Adapta l'estructura a una recerca autèntica i al teu abast real. La IA pot ajudar a redactar, però no inventar fonts, relacions ni problemes."
+        ],
+        "samples": [
+          [
+            "LinkedIn: respon a una idea pública pertinent",
+            "És útil el que comentaves sobre donar temps als comandaments per aprendre una rutina nova.\n\nEn un equip que obre un segon centre, et correspondria decidir quines rutines continuen sent locals i quines es comparteixen? Ajudem a definir aquestes responsabilitats, sense assumir assessorament jurídic laboral.\n\nSi et serveix, puc enviar-te una mostra en blanc del mapa. Si ja està resolt, no cal convertir-ho en un projecte.",
+            "Parteix d'una idea concreta de la publicació fictícia, comprova la responsabilitat i ofereix material examinable. No pressuposa cap fallada de gestió."
+          ],
+          [
+            "Correu: mateix servei, un altre context verificat",
+            "Hola,\n\nSobre el segon centre de l'anunci: esteu decidint quines rutines de gestió necessiten un responsable compartit o ja està cobert?\n\nLa nostra feina és definir aquestes responsabilitats amb els equips de persones i operacions. L'assessorament jurídic i els casos individuals en queden fora. Una mostra en blanc permet revisar el mètode abans de parlar d'un encàrrec.\n\nSeria pertinent per a qui coordina els dos centres?",
+            "És una alternativa quan el correu és la via adequada. Converteix l'observació en una pregunta, sense declarar una necessitat oculta ni prometre estalvis."
+          ],
+          [
+            "Una conversa real en un esdeveniment",
+            "Va estar bé parlar de formació de comandaments a la sessió local d'operacions. Vas preguntar com combinar una rutina compartida amb marge per a cada centre.\n\nLa mostra en blanc que vam comentar ja està preparada. Te l'envio per aquí o amb la conversa ja n'hi havia prou, de moment?",
+            "Fes-la servir només si la conversa i l'oferiment van passar. Una llista d'assistents no crea una relació ni un permís."
+          ],
+          [
+            "Un recordatori breu",
+            "Hola, només volia comprovar si et seria útil la mostra del mapa de responsabilitats. Si ja ho teniu cobert, ho deixo aquí.",
+            "No inventa urgència ni afegeix un segon argument llarg. Forma part de la mateixa seqüència breu i coordinada, no d'una campanya nova a cada canal."
+          ]
+        ],
+        "after": [
+          "Revisa fórmules com «he vist que», «m'ha impressionat», «desbloqueja el teu potencial» o «en el món vertiginós actual» si amaguen una proposta genèrica. No són detectors d'IA ni paraules prohibides: importa que el fet sigui cert, la connexió tingui sentit i el missatge soni com una cosa que enviaries tu."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revisa el procés de redacció"
+          ]
+        ],
+        "id": "ps-messages"
+      },
+      {
+        "title": "Fes un seguiment breu i coordinat",
+        "p": [
+          "El patró habitual de Beespoke és una obertura individual i un recordatori breu, sovint uns quatre dies després. És una preferència de treball, no l'interval òptim per a tots els mercats. Qui llegeix pot entendre el primer missatge sense un altre argument llarg.",
+          "Comença per LinkedIn si la persona hi participa; en un altre cas, pot encaixar més un correu pertinent. Si passes a un altre canal adequat després del silenci, coordina l'historial i evita repetir el mateix missatge simultàniament. Les trucades requereixen abast i aprovació separats. Atura el contacte a tot el compte davant una negativa, objecció o altra condició d'aturada.",
+          "Que un comprador demani reprendre el contacte prop d'una data de planificació és diferent. Registra què ha permès i quan; no converteixis una descàrrega, assistència o silenci en una subscripció a butlletins."
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Guia de seguiment per correu en fred"
+          ]
+        ],
+        "id": "ps-follow-up"
+      },
+      {
+        "title": "Dona a cada resposta el pas següent adequat",
+        "headers": [
+          "Resposta",
+          "Què estableix",
+          "Acció següent"
+        ],
+        "rows": [
+          [
+            "La qüestió és vigent",
+            "Possible rellevància, no un encàrrec confirmat",
+            "Aclareix l'abast i qui ha de participar amb l'expert."
+          ],
+          [
+            "Parla amb una altra persona",
+            "Una via suggerida, no un permís general",
+            "Confirma com presentar el context; no contactis amb tothom."
+          ],
+          [
+            "Ja tenim suport",
+            "Hi ha una relació existent",
+            "Respecta-la; no inventis insatisfacció ni exigeixis una comparació."
+          ],
+          [
+            "Torna en una data concreta",
+            "Una invitació futura limitada",
+            "Registra data i assumpte permesos; pausa la seqüència en fred."
+          ],
+          [
+            "Envia'm la mostra",
+            "Interès en aquell material",
+            "Envia el que has promès i està autoritzat; no comptis una reunió."
+          ],
+          [
+            "No / atura't / no encaixa",
+            "Aturada o manca d'encaix",
+            "Suprimeix el seguiment coordinat i conserva només la informació d'aturada necessària."
+          ],
+          [
+            "Sense resposta",
+            "No hi ha cap posició confirmada",
+            "No ho etiquetis com a interès, rebuig, necessitat ni intenció de compra."
+          ]
+        ],
+        "id": "ps-replies"
+      },
+      {
+        "title": "Decideix si acceptar, ajornar o excloure",
+        "p": [
+          "Conserva els sis criteris: organització i servei, responsabilitat de compra, problema o canvi reconegut, encaix comercial, accés a persones i informació necessàries, i pas següent acordat. Una resposta educada no completa els camps pendents."
+        ],
+        "dl": [
+          [
+            "Acceptar per a una conversa exploratòria",
+            "El comprador confirma una decisió pertinent, el despatx pot ajudar, l'expert adequat pot assistir-hi i totes dues parts entenen el motiu. Pressupost i compres no confirmats continuen pendents."
+          ],
+          [
+            "Ajornar amb permís",
+            "Pot haver-hi encaix, però moment, responsable o via no estan clars. Assigna decisió següent i data de contacte permesa; no ho converteixis silenciosament en oportunitat."
+          ],
+          [
+            "Excloure o aturar",
+            "Servei, territori, requisits professionals, conflictes, negativa prèvia o capacitat impedeixen avançar. Registra un motiu mínim i atura't."
+          ]
+        ],
+        "after": [
+          "El despatx ha de decidir el seu llindar comercial i requisits professionals. Aquesta guia no fixa un import mínim universal ni determina si la captació és permesa en una jurisdicció."
+        ],
+        "id": "qualify-economic-and-delivery-fit",
+        "aliases": [
+          "qualify-economic-and-delivery-encaix"
+        ]
+      },
+      {
+        "title": "Fes que el traspàs a l'expert sigui útil",
+        "case": [
+          "Traspàs fictici: PS-DEMO-01",
+          "La responsable de persones confirma que la decisió entre centres és vigent i demana parlar amb un expert. Aquesta confirmació, no l'anunci original, justifica la reunió."
+        ],
+        "dl": [
+          [
+            "Motiu",
+            "Acordar quines rutines pot ajudar a definir l'assessoria i què queda en mans del despatx."
+          ],
+          [
+            "Persones i proves",
+            "Hi assisteix la responsable de persones; operacions, per confirmar. Registra font pública i data, pregunta pertinent exacta del comprador i mostra autoritzada enviada."
+          ],
+          [
+            "Abast i incògnites",
+            "No es demanen dades de casos de treballadors. Pressupost, compres, dates de prestació i necessitat d'assessorament jurídic continuen pendents."
+          ],
+          [
+            "Responsable i calendari",
+            "L'expert designat porta la conversa. Reserva original creada el dia 8 per al 14; es trasllada al 21 i se celebra. Conserva identificador i data originals i enllaça el canvi: continua sent una reserva original."
+          ],
+          [
+            "Després de la trucada",
+            "Registra l'assistència per separat. Accepta per definir l'abast només si l'expert confirma encaix i un pas acordat; no és un encàrrec signat."
+          ]
+        ],
+        "ol": [
+          "En un exemple de conversa d'encaix de 30 minuts, dedica'n cinc a confirmar decisió i participants.",
+          "Dedica'n deu a l'enfocament actual sense recollir detalls sensibles innecessaris.",
+          "Dedica'n deu a mètode, límits i dependències; comprova què encara no se sap.",
+          "Fes servir els cinc finals per acordar no continuar, un seguiment concret o una diagnosi amb abast separat. L'agenda és il·lustrativa, no un lliurable gratuït promès."
+        ],
+        "id": "ps-handoff"
+      },
+      {
+        "title": "Reserva temps de l'expert abans de demanar més trucades",
+        "p": [
+          "El despatx fictici dedica sis hores setmanals a una campanya petita. En aquest temps hi caben dues converses amb preparació. El càlcul descriu capacitat, no demanda esperada ni una previsió de reunions."
+        ],
+        "headers": [
+          "Tasca",
+          "Minuts il·lustratius",
+          "Responsable o límit"
+        ],
+        "rows": [
+          [
+            "Revisar abast, afirmacions i proves",
+            "60",
+            "Expert responsable"
+          ],
+          [
+            "Investigar i comprovar l'encaix",
+            "75",
+            "Recerca; el client aprova els objectius"
+          ],
+          [
+            "Redacció individual i preparació",
+            "45",
+            "Responsable de campanya, dins dels permisos"
+          ],
+          [
+            "Respostes i coordinació",
+            "30",
+            "Responsable de respondre"
+          ],
+          [
+            "Dues converses amb preparació",
+            "150",
+            "Dues × (45 minuts de conversa + 30 de preparació)"
+          ],
+          [
+            "Total",
+            "360",
+            "Sis hores; prestació i propostes necessiten capacitat a part"
+          ]
+        ],
+        "after": [
+          "En costos, inclou recerca, redacció, programari, dades i temps expert, a més dels diners desemborsats. El cost d'adquisició divideix el cost total acordat entre els clients realment nous guanyats en la cohort definida. Sense vendes no hi ha un cost mesurat per client adquirit. No justifiquis una inversió amb tancaments o valor futur del client inventats: utilitza honoraris realitzats, costos de prestació, permanència i política de recuperació propis."
+        ],
+        "id": "ps-capacity"
+      },
+      {
+        "title": "Avalua una cohort amb data, no un munt d'activitat",
+        "p": [
+          "Exemple fictici: 50 comptes contactats per primera vegada entre els dies 1 i 14, revisats en acabar el dia 28. Mantén registres estables i les mateixes definicions. Les xifres ensenyen a informar; no són taxes per a una previsió."
+        ],
+        "headers": [
+          "Etapa",
+          "Recompte fictici",
+          "Interpretació"
+        ],
+        "rows": [
+          [
+            "Comptes contactats per primera vegada",
+            "50",
+            "Denominador de la cohort; no missatges, persones ni sessions web."
+          ],
+          [
+            "Converses bidireccionals substancials",
+            "6",
+            "Respostes sobre el servei, no qualsevol confirmació de recepció."
+          ],
+          [
+            "Reserves originals creades fins al tall",
+            "3",
+            "Una per identificador i data originals; moure PS-DEMO-01 no en crea una quarta."
+          ],
+          [
+            "Trucades celebrades fins al tall",
+            "2",
+            "La tercera continua prevista per al dia 35; l'assistència encara no és definitiva."
+          ],
+          [
+            "Acceptades per definir l'abast",
+            "1",
+            "L'expert ho confirma després de la conversa."
+          ],
+          [
+            "Propostes / encàrrecs signats",
+            "0 / 0",
+            "No atribueixis valor d'oportunitat ni ingressos sense establir-los."
+          ]
+        ],
+        "after": [
+          "Registra per separat origen conegut, primera pàgina d'entrada si s'ha captat amb fiabilitat, pàgina de reserva i explicació del comprador sobre com us ha trobat. Recomanació, conversa a LinkedIn i visita web poden formar part del mateix recorregut. Un origen absent és desconegut; l'última pàgina visitada no és automàticament la font inicial.",
+          "Exclou proves internes, duplicats i canvis de data dels recomptes de demanda real. Registres d'Analytics, clics, visites al calendari i descàrregues no proven per si sols una reserva. Compara cohorts equivalents amb resultats prou madurs; unes quantes trucades no sostenen una previsió fiable del canal."
+        ],
+        "id": "ps-measurement"
+      },
+      {
+        "title": "Decideix què canviar a partir de les proves",
+        "headers": [
+          "Àrea",
+          "Prova necessària",
+          "Si falta"
+        ],
+        "rows": [
+          [
+            "Oferta",
+            "Problema concret, abast i exclusions",
+            "Delimita l'oferta en lloc d'augmentar el volum."
+          ],
+          [
+            "Mercat",
+            "Situació observable i funcions de compra confirmades",
+            "Revisa llista i fonts abans de reescriure-ho tot."
+          ],
+          [
+            "Proves",
+            "Evidència pertinent i autoritzada, mètode examinable",
+            "Crea la mostra o explicació que falta; no inventis resultats."
+          ],
+          [
+            "Vendes",
+            "Un expert que respon i pot portar la conversa",
+            "Resol responsable, traspàs i disponibilitat abans de buscar més reserves."
+          ],
+          [
+            "Economia",
+            "Feina que es pugui fer amb rendibilitat i credibilitat",
+            "Revisa costos reals, encaix i capacitat abans de créixer."
+          ]
+        ],
+        "after": [
+          "Si hi ha converses adequades sense avenços, pregunta a l'expert què ha après sobre oferta, moment i decisió. Canvia una hipòtesi important cada vegada i registra el pròxim tall. Ni una setmana tranquil·la ni una venda primerenca demostren tot el sistema."
+        ],
+        "id": "buyer-decision-guide"
+      },
+      {
+        "title": "Què conserva el despatx i què pot gestionar Beespoke",
+        "p": [
+          "Beespoke pot gestionar recerca de comptes i persones, missatges individuals, preparació autoritzada, respostes, qualificació i reserves segons criteris acordats. El client aporta el criteri per aprovar la llista i valida experiència, requisits professionals i proves. El despatx conserva converses expertes, propostes, tancament i prestació.",
+          "El servei outbound base cobreix correu en fred i/o LinkedIn; el canal depèn de l'activitat i l'encaix de la persona. Les trucades es pressuposten a part segons mercat, amb parlants natius contractats quan correspongui. És un servei gestionat i dirigit pel fundador, no un SDR a jornada completa inclòs ni un nombre garantit de reunions."
+        ],
+        "ol": [
+          "Pregunta què compta com a resposta, reserva original, trucada celebrada i oportunitat acceptada.",
+          "Revisa un compte proposat i un missatge original abans d'acordar volum.",
+          "Confirma qui aprova afirmacions, llistes, proves i permisos d'enviament.",
+          "Pregunta qui coordina aturades, relacions existents i activitat entre canals.",
+          "Acorda capacitat experta, acceptació del traspàs i informació sobre cohorts incompletes.",
+          "Confirma per escrit abast, extres de programari i dades, registres i condicions de finalització; consulta els termes vigents de Beespoke a preus."
+        ],
+        "links": [
+          [
+            "/services/b2b-lead-generation/",
+            "Captació B2B gestionada"
+          ],
+          [
+            "/compare/lead-generation-agency-vs-in-house-team/",
+            "Agència i equip intern"
+          ],
+          [
+            "/industries/recruitment-agency-lead-generation/",
+            "Captació per a agències de selecció"
+          ],
+          [
+            "/industries/marketing-agency-lead-generation/",
+            "Captació per a agències de màrqueting"
+          ]
+        ],
+        "id": "where-a-focused-outbound-partner-can-fit",
+        "aliases": [
+          "where-a-focused-outbound-partner-can-encaix"
+        ]
+      },
+      {
+        "title": "Porta les decisions a la reunió de planificació",
+        "p": [
+          "El fitxer opcional conté preguntes en blanc, no una llista de contactes. No demana registre ni dades de contacte. Desa informació real de clients, treballadors i possibles clients al sistema privat autoritzat."
+        ],
+        "downloadTitle": "Obre les preguntes de planificació",
+        "downloadLabel": "Descarrega les preguntes en blanc (CSV)",
+        "downloadNote": "Deu preguntes per al teu document. La descàrrega estàtica no desa fitxes de possibles clients introduïdes a la pàgina.",
+        "questions": [
+          [
+            "Servei",
+            "Quina decisió abordarà el despatx i què en queda fora?"
+          ],
+          [
+            "Mercat",
+            "Quines organitzacions encaixen i quines s'han d'excloure?"
+          ],
+          [
+            "Proves",
+            "Què s'observa, quina és la font i què continua sent una hipòtesi?"
+          ],
+          [
+            "Persones",
+            "Qui decideix, avalua i viu les conseqüències?"
+          ],
+          [
+            "Canal",
+            "On és adequat contactar i quan s'ha d'aturar?"
+          ],
+          [
+            "Evidència",
+            "Quina mostra o credencial exacta i autoritzada pot examinar el comprador?"
+          ],
+          [
+            "Revisió professional",
+            "Qui aprova afirmacions, conflictes, jurisdicció i requisits del canal?"
+          ],
+          [
+            "Traspàs",
+            "Qui porta la conversa, què s'accepta i com es concilien els canvis de calendari?"
+          ],
+          [
+            "Capacitat i economia",
+            "Quin temps, capacitat de prestació i costos reals admet el despatx?"
+          ],
+          [
+            "Avaluació",
+            "Quina cohort, tall, resultats reals i decisió següent es registraran?"
+          ]
+        ],
+        "id": "ps-brief"
+      },
+      {
+        "title": "Preguntes freqüents",
+        "faqs": [
+          [
+            "Com capten clients els despatxos de serveis professionals?",
+            "Amb recomanacions, aliances, cerca, contingut útil, esdeveniments i prospecció adequats. Tria la combinació segons el servei, el procés real de decisió, les proves i la capacitat. Cap canal no és universalment millor."
+          ],
+          [
+            "Funciona l'outbound per a serveis professionals?",
+            "Pot obrir converses pertinents si hi ha servei definit, comptes adequats, contacte apropiat i seguiment expert creïble. No converteix una pista pública en necessitat ni substitueix l'exploració. La demanda urgent de particulars i les licitacions poden requerir altres vies."
+          ],
+          [
+            "Què ha de comptar com a contacte qualificat?",
+            "Defineix encaix d'organització i servei, responsabilitat pertinent, motiu confirmat per parlar, adequació comercial i pas següent. Separa reserves, assistència i acceptació per definir l'abast. Una fitxa, una resposta educada o un clic al calendari no basten."
+          ],
+          [
+            "Quin contingut serveix si els clients són confidencials?",
+            "Mostres fictícies originals, mètodes transparents, credencials reals autoritzades i proves aprovades amb límits. Identifica clarament la ficció. Treure un nom pot no impedir la identificació; un exemple fictici no és un resultat de client."
+          ],
+          [
+            "Convé fer servir LinkedIn o correu?",
+            "Depèn de l'activitat de la persona, la via disponible, el context i els requisits aplicables. LinkedIn pot encaixar per a qui hi participa; per a una altra persona, un correu pertinent. Coordina els canals sense repetir la proposta pertot arreu."
+          ],
+          [
+            "Quants seguiments hem d'enviar?",
+            "Beespoke sol fer una obertura individual i un recordatori breu, sovint uns quatre dies després. És una preferència de treball, no una regla universal. Respecta negatives i dates permeses i distingeix el contacte en fred del seguiment sol·licitat."
+          ],
+          [
+            "Quant triga la captació a produir clients?",
+            "No hi ha un termini universal fiable. Importen recerca, mercat, procés de compra, capacitat experta i decisió. Avalua cohorts amb data i reunions futures pendents; no pronostiquis encàrrecs signats a partir d'unes quantes respostes o reserves inicials."
+          ],
+          [
+            "Què gestiona Beespoke per a un despatx professional?",
+            "Recerca, missatges individuals, preparació autoritzada, respostes, qualificació i reserves amb criteris acordats. El client aprova objectius i afirmacions expertes i conserva diagnosi comercial, propostes, tancament i prestació. El servei base utilitza correu en fred i/o LinkedIn; les trucades es pressuposten a part."
+          ]
+        ],
+        "id": "frequently-asked-questions"
+      }
+    ],
+    "eyebrow": "Captació per a serveis professionals"
+  },
+  "fr": {
+    "description": "Construisez un plan de prospection pour les services professionnels : spécialisation, recommandations et outbound, messages originaux, transmission à l'expert et bilan rigoureux.",
+    "answer": "La génération de leads pour les services professionnels transforme un intérêt pertinent en échanges sur des missions que le cabinet peut réellement assurer. Définissez un service, les organisations concernées et les preuves qu'un acheteur peut examiner. Choisissez une voie adaptée —recommandations, recherche, événements, email ou LinkedIn—, vérifiez la situation et transmettez le contexte au bon expert. Un contact, une réponse, un rendez-vous réservé et une mission signée sont des résultats distincts.",
+    "jump": "Suivre un exemple complet",
+    "dateLabel": "10 novembre 2026",
+    "fiction": "Toutes les situations, messages, fiches et données chiffrées ci-dessous sont des créations fictives destinées à la planification. Ils ne décrivent aucun client, prospect ou campagne et ne constituent pas des références de performance.",
+    "sourceTitle": "Sources et limites",
+    "sourceNote": "Revue du 10 novembre 2026 : lecture intégrale de 20 pages écrites pertinentes, dont des guides connexes sur les canaux, le conseil et le choix d'un prestataire. La liste documente les lectures, sans recommander de fournisseurs. Les rapports liés, téléchargements soumis à inscription et vidéos n'ont pas été vérifiés indépendamment. Les résultats, prix, affirmations juridiques et délais des fournisseurs ne sont pas des promesses de Beespoke. Les exemples et méthodes de planification sont originaux ; appuyez vos décisions d'investissement sur vos propres données.",
+    "sections": [
+      {
+        "title": "Choisissez les missions que vous souhaitez obtenir",
+        "p": [
+          "Un cabinet peut avoir plusieurs spécialités et tester une offre précise. Partez d'une décision que l'acheteur reconnaît, de la personne qui en répond et du travail que vous pouvez assurer avec crédibilité. Le premier message n'a pas à présenter toutes vos capacités.",
+          "Ce guide aide le responsable d'une pratique à choisir et gérer ce test. Consultez les guides dédiés à la comptabilité, au conseil, aux services informatiques ou aux agences pour leurs processus particuliers. Un cabinet juridique, une activité destinée aux particuliers et un appel d'offres d'ingénierie ne doivent pas reprendre la même campagne."
+        ],
+        "headers": [
+          "Spécialité",
+          "Point de départ délimité",
+          "À vérifier avant de contacter"
+        ],
+        "rows": [
+          [
+            "Conseil en management",
+            "La responsabilité d'un changement opérationnel précis",
+            "Le cabinet peut-il aider à cette décision et délimiter son rôle dans la mise en œuvre ?"
+          ],
+          [
+            "Conseil juridique ou conformité",
+            "Une question pour le spécialiste dûment qualifié",
+            "Le cabinet doit examiner juridiction, conflits, démarchage autorisé et affirmations."
+          ],
+          [
+            "Conseil financier",
+            "Une aide à la décision au-delà des rapports habituels",
+            "Confirmez mandat et conditions ; l'annonce d'une opération ne prouve ni besoin ni droit à un avantage."
+          ],
+          [
+            "Conseil en organisation et ressources humaines",
+            "Un changement défini dans l'organisation ou les pratiques de management",
+            "Gardez les dossiers individuels et données personnelles des salariés hors de la prospection."
+          ],
+          [
+            "Conseil technique ou ingénierie",
+            "Une décision de conception, d'évaluation ou de projet au périmètre défini",
+            "Vérifiez qualifications, zone d'intervention et procédure d'achat prescrite."
+          ]
+        ],
+        "links": [
+          [
+            "/industries/accounting-firm-lead-generation/",
+            "Acquisition pour les cabinets comptables"
+          ],
+          [
+            "/industries/consulting-lead-generation/",
+            "Acquisition pour les cabinets de conseil"
+          ],
+          [
+            "/industries/it-services-lead-generation/",
+            "Acquisition pour les services informatiques"
+          ]
+        ],
+        "id": "turn-a-broad-practice-into-a-buyable-problem"
+      },
+      {
+        "title": "Expliquez l'offre en trois phrases",
+        "p": [
+          "Conservons l'exercice situation–travail–preuves. Voici une version remplie pour un cabinet RH fictif qui étudie des entreprises ouvrant un deuxième site."
+        ],
+        "cards": [
+          [
+            "Situation",
+            "Nous aidons les organisations qui décident comment leurs managers de proximité travailleront entre deux sites."
+          ],
+          [
+            "Travail",
+            "Nous précisons les routines de management qui doivent rester locales et celles qui nécessitent un responsable commun ; le droit du travail et les dossiers individuels sont hors périmètre."
+          ],
+          [
+            "Preuves",
+            "L'acheteur peut examiner un exemple original de carte des responsabilités, notre méthode et les qualifications réelles des experts concernés."
+          ]
+        ],
+        "after": [
+          "Il s'agit de limites de service, pas d'une affirmation selon laquelle toute expansion crée un problème de management. Si l'acheteur a déjà réglé la question, un échange peut être inutile. Un entretien d'adéquation n'est pas une mission gratuite ; tout diagnostic ou livrable doit être convenu séparément."
+        ],
+        "id": "professional-services-wedge"
+      },
+      {
+        "title": "Choisissez la voie adaptée au processus d'achat",
+        "p": [
+          "Distinguez la réponse à une demande existante de l'ouverture d'une nouvelle conversation. Un petit cabinet n'a pas besoin d'activer tous les canaux. Choisissez une voie principale et son responsable, en laissant les preuves publiques accessibles à ceux qui évaluent le cabinet."
+        ],
+        "headers": [
+          "Voie",
+          "Quand elle peut convenir",
+          "Limite ou prochaine action"
+        ],
+        "rows": [
+          [
+            "Relations existantes et recommandations",
+            "Un client ou conseiller comprend la mission précise",
+            "Demandez une présentation pertinente avec autorisation. Ne présumez pas que recommandations, incitations ou noms de clients peuvent être partagés."
+          ],
+          [
+            "Recherche et contenu utile",
+            "Les acheteurs cherchent déjà ce problème ou ce spécialiste",
+            "Répondez à la décision, montrez les qualifications réelles et indiquez une suite claire. Une visite n'est pas une demande commerciale."
+          ],
+          [
+            "Événements et petits échanges d'experts",
+            "Les bons acheteurs se réunissent autour d'un sujet précis",
+            "Discutez réellement et convenez de la suite ; la présence ne vaut pas demande de séquence commerciale."
+          ],
+          [
+            "LinkedIn",
+            "La personne concernée y participe visiblement",
+            "Utilisez son véritable contexte public. Un profil ou un titre ne prouve ni activité ni autorité."
+          ],
+          [
+            "Email à froid",
+            "Une adresse professionnelle pertinente et un motif crédible existent",
+            "Vérifiez l'adéquation et les exigences applicables ; écrivez individuellement et permettez de décliner facilement."
+          ],
+          [
+            "Téléphone",
+            "Une conversation est appropriée et approuvée par le cabinet",
+            "Prévoyez des personnes compétentes et des limites convenues. Les appels ont un périmètre distinct, sans inclusion automatique avec email ou LinkedIn."
+          ],
+          [
+            "Appel d'offres ou fournisseurs agréés",
+            "L'acheteur impose un processus formel",
+            "Respectez-le, y compris ses règles de communication. Une approche privée ne doit pas contourner les achats."
+          ]
+        ],
+        "id": "ps-channels"
+      },
+      {
+        "title": "Vérifiez les bases avant d'envoyer",
+        "p": [
+          "Cette liste facultative rend les décisions en attente visibles. Cocher une case exprime votre jugement ; cela ne vérifie pas la conformité, ne certifie pas la préparation et ne prédit pas des rendez-vous."
+        ],
+        "readiness": {
+          "title": "Revoir huit décisions de lancement",
+          "intro": "Laissez la liste fermée si vous souhaitez simplement lire. Les cases fonctionnent sur cette page et n'envoient aucune information sur les prospects.",
+          "items": [
+            "Un service et ses exclusions sont clairement définis.",
+            "Les organisations ciblées et les motifs d'exclusion sont convenus.",
+            "Les rôles d'achat pertinents ont été vérifiés.",
+            "Le canal approprié et les conditions d'arrêt sont convenus.",
+            "L'expert responsable a validé affirmations et exigences professionnelles.",
+            "Les preuves sont exactes et leur partage autorisé.",
+            "La capacité de découverte et de réalisation est disponible.",
+            "Un responsable du suivi, des définitions de résultats et une date de revue sont désignés."
+          ],
+          "marked": "Décisions que vous avez cochées",
+          "note": "Il s'agit uniquement d'un compteur. Chaque point en suspens nécessite un responsable ; tout cocher ne constitue pas une note de qualité."
+        },
+        "id": "industry-fit-check"
+      },
+      {
+        "title": "Séparez le fait de l'hypothèse",
+        "p": [
+          "Une annonce de recrutement, une expansion, une publication ou une intervention peuvent justifier une recherche. Ils ne révèlent ni difficulté, budget, insatisfaction ou mandat confidentiel. Notez la source, sa date, ce qu'elle dit réellement et ce qui reste inconnu.",
+          "Le contexte peut aussi venir d'une personne : commentaire public utile, conférence, relation commune réelle ou événement local pertinent. Ne prétendez pas y avoir assisté, ne suggérez pas une recommandation sans autorisation et n'inférez pas de situation personnelle sensible."
+        ],
+        "headers": [
+          "Élément",
+          "Exemple fictif",
+          "Ce qu'il ne prouve pas"
+        ],
+        "rows": [
+          [
+            "Fait observé",
+            "Un fabricant annonce un deuxième site au jour 1 de la campagne ; conservez l'annonce et la date de consultation dans le dossier interne.",
+            "Que ses routines de management fonctionnent mal."
+          ],
+          [
+            "Hypothèse de service",
+            "L'équipe RH pourrait décider quelles routines nécessitent un responsable commun.",
+            "Qu'un projet existe ou qu'elle doive recruter le cabinet."
+          ],
+          [
+            "Personne et canal",
+            "La responsable RH parle publiquement de formation des managers et participe à LinkedIn.",
+            "Qu'elle contrôle le budget ou souhaite recevoir une proposition."
+          ],
+          [
+            "Inconnues et exclusions",
+            "Plan interne, conseiller actuel, calendrier, limites professionnelles et budget restent à confirmer.",
+            "Qu'une IA puisse remplacer une réponse manquante par une supposition."
+          ]
+        ],
+        "id": "use-triggers-as-research-clues-not-private-knowledge"
+      },
+      {
+        "title": "Suivez un compte des preuves à la décision",
+        "case": [
+          "Fiche de travail fictive : PS-DEMO-01",
+          "Le cabinet RH examine le fabricant ci-dessus. C'est une situation pédagogique, pas un résultat réel anonymisé."
+        ],
+        "dl": [
+          [
+            "Service et adéquation",
+            "Préciser les responsabilités de management entre les deux sites. Le cabinet peut aider sur les routines opérationnelles ; droit du travail, recrutement et dossiers individuels sont exclus."
+          ],
+          [
+            "Pourquoi cette personne",
+            "Partez de son échange public sur la formation. Demandez si cette mission relève d'elle ; ne supposez pas que seul le directeur général mérite d'être contacté."
+          ],
+          [
+            "Canal et preuves",
+            "Puisqu'elle participe à LinkedIn, adressez-lui une note pertinente sur ce canal. Proposez une carte des responsabilités vierge sans prétendre connaître son fonctionnement interne."
+          ],
+          [
+            "Décision avant l'envoi",
+            "Le client valide l'adéquation du compte ; l'expert responsable approuve message et preuves. Sans voie appropriée, ou si la question est réglée, mettez en attente ou excluez."
+          ],
+          [
+            "Décision après la réponse",
+            "Si l'acheteur confirme que la question est actuelle, précisez décision, calendrier et expert requis. S'il décline, arrêtez l'approche coordonnée sur tous les canaux."
+          ]
+        ],
+        "after": [
+          "L’annonce publique justifie seulement une recherche ; la réponse de l’acheteur peut établir une suite utile."
+        ],
+        "id": "ps-worked-account"
+      },
+      {
+        "title": "Un autre compte peut imposer une autre procédure",
+        "p": [
+          "Comparez ce cas à celui d'un bureau d'ingénierie fictif qui trouve un appel d'offres de planification d'installations. Un besoin publié existe, mais il faut maintenant décider de l'éligibilité et de l'adéquation d'une candidature, plutôt que rédiger un message à froid créatif."
+        ],
+        "ol": [
+          "Lisez le périmètre, les qualifications, la zone, le calendrier et la procédure publiée de clarification.",
+          "Le responsable du cabinet confirme compétence, capacité et conflits avant de décider de candidater.",
+          "Utilisez la voie autorisée pour les questions ou la soumission ; ne contactez pas un autre salarié pour la contourner.",
+          "S'il manque une qualification exigée ou si le périmètre ne convient pas, notez le motif et arrêtez."
+        ],
+        "after": [
+          "Ni un appel d'offres publié ni une réponse à froid ne sont une mission gagnée. Un achat formel et le développement d'une relation nécessitent des dossiers et attentes distincts."
+        ],
+        "id": "ps-procurement"
+      },
+      {
+        "title": "Identifiez les rôles d'achat et le responsable de réalisation",
+        "p": [
+          "Gardez une promesse cohérente tout en répondant aux préoccupations de chacun. Un titre indique un point de départ ; l'échange doit confirmer la responsabilité. Ne contactez pas des collègues pour contourner un refus."
+        ],
+        "headers": [
+          "Rôle",
+          "Question à établir",
+          "Preuve ou responsable"
+        ],
+        "rows": [
+          [
+            "Commanditaire",
+            "Pourquoi envisager ce travail maintenant, et qui l'autorise ?",
+            "Décision confirmée par l'acheteur et responsable senior désigné."
+          ],
+          [
+            "Évaluateur",
+            "Comment juger la méthode et l'expertise pertinente ?",
+            "Qualifications réelles, méthode et exemple autorisé ; l'expert répond."
+          ],
+          [
+            "Personne concernée par l'exécution",
+            "Qu'est-ce qui changerait dans le travail quotidien ?",
+            "Carte des responsabilités délimitée et transmission claire ; participation convenue."
+          ],
+          [
+            "Achats ou risques",
+            "Quel processus, quelles informations et validations faut-il ?",
+            "Exigences réelles de l'acheteur, sans liste universelle présumée."
+          ],
+          [
+            "Responsable de réalisation",
+            "Le cabinet peut-il exécuter le brief accepté ?",
+            "Capacité, périmètre, dépendances et questions ouvertes vérifiés avant la proposition."
+          ]
+        ],
+        "id": "map-sponsors-evaluators-and-affected-operators"
+      },
+      {
+        "title": "Montrez votre travail sans exposer un client",
+        "p": [
+          "Rendez les preuves examinables : contexte, décision, travail effectué, résultat observé, limites et autorisation de partage. Qualifications et logos ne remplacent pas cette explication. Supprimer un nom peut laisser un client identifiable.",
+          "Pour l'offre RH fictive, créez un extrait original vierge : routine, responsable actuel à confirmer, décision souhaitée, personne à consulter et question ouverte. Expliquez son utilisation en atelier. Ne le remplissez pas avec les salariés, systèmes ou difficultés internes réels d'un client."
+        ],
+        "ul": [
+          "Étiquetez un document inventé comme fictif ; ce n'est pas un livrable réalisé pour un client.",
+          "Utilisez un résultat réel seulement si preuves, périmètre et autorisation de publication sont établis.",
+          "Précisez les qualifications réelles de l'expert et leurs limites ; n'inventez pas d'accréditation.",
+          "Laissez les conseils juridiques, financiers, de sécurité et autres spécialités à la personne dûment qualifiée."
+        ],
+        "links": [
+          [
+            "/editorial-policy/",
+            "Politique éditoriale et de preuves"
+          ],
+          [
+            "/case-studies/cybersecurity-linkedin-lead-generation/",
+            "Un cas publié au périmètre délimité"
+          ]
+        ],
+        "id": "make-expertise-inspectable"
+      },
+      {
+        "title": "Écrivez à cette personne, pas à une catégorie professionnelle",
+        "p": [
+          "Ces ouvertures sont des alternatives pour leurs situations respectives, pas des messages à cumuler auprès d'un prospect. Adaptez la structure à une vraie recherche et à votre périmètre réel. L'IA peut aider à rédiger, sans inventer une source, une relation ou un problème."
+        ],
+        "samples": [
+          [
+            "LinkedIn : réagir à un point public pertinent",
+            "Votre remarque sur le temps nécessaire aux managers pour apprendre une nouvelle routine est utile.\n\nPour une équipe qui ouvre un deuxième site, la question des routines locales ou communes relèverait-elle de vous ? Nous aidons à préciser ces responsabilités, sans prendre en charge le conseil en droit du travail.\n\nSi cela vous sert, je peux envoyer un exemple vierge de la carte. Si la question est réglée, inutile d'en faire un projet.",
+            "L'ouverture reprend un point précis de la publication fictive, vérifie la responsabilité et propose un document examinable. Elle ne suppose pas un échec du management."
+          ],
+          [
+            "Email : même service, autre contexte vérifié",
+            "Bonjour,\n\nConcernant le deuxième site de votre annonce : l'équipe décide-t-elle quelles routines de management nécessitent un responsable commun, ou est-ce déjà couvert ?\n\nNotre travail consiste à préciser ces responsabilités avec les équipes RH et opérations. Le conseil juridique et les dossiers individuels restent hors périmètre. Un exemple vierge permet d'examiner la méthode avant de parler d'une mission.\n\nCela serait-il pertinent pour la personne qui coordonne les deux sites ?",
+            "C'est une alternative lorsque l'email est la voie appropriée. L'observation mène à une question, sans affirmer un besoin caché ni promettre des économies."
+          ],
+          [
+            "Une véritable conversation lors d'un événement",
+            "J'ai apprécié notre échange sur la formation des managers à la rencontre locale consacrée aux opérations. Vous demandiez comment une routine commune pouvait laisser de la place à chaque site.\n\nL'exemple vierge de carte dont nous avons parlé est prêt. Souhaitez-vous le recevoir ici, ou notre échange suffisait-il pour le moment ?",
+            "Utilisez-le seulement si l'échange et l'offre ont réellement eu lieu. Une liste de participants ne crée ni relation ni autorisation."
+          ],
+          [
+            "Un rappel bref",
+            "Bonjour, je vérifie simplement si l'exemple de carte des responsabilités vous serait utile. Si le sujet est déjà couvert, j'en reste là.",
+            "Le rappel n'invente aucune urgence et n'ajoute pas de longue deuxième argumentation. Il appartient à la même séquence courte et coordonnée, pas à une campagne nouvelle sur chaque canal."
+          ]
+        ],
+        "after": [
+          "Révisez les formules comme « j'ai remarqué », « j'ai été impressionné », « libérez votre potentiel » ou « dans un monde en constante évolution » lorsqu'elles masquent un discours générique. Ce ne sont ni des détecteurs d'IA ni des mots interdits : le fait doit être vrai, le lien pertinent et le message naturel pour son expéditeur."
+        ],
+        "links": [
+          [
+            "/guides/b2b-cold-email-copywriting/",
+            "Revoir le travail de rédaction"
+          ]
+        ],
+        "id": "ps-messages"
+      },
+      {
+        "title": "Gardez les relances à froid courtes et coordonnées",
+        "p": [
+          "Le schéma habituel de Beespoke est une ouverture individuelle suivie d'un rappel bref, souvent environ quatre jours plus tard. C'est une préférence de travail, pas l'intervalle optimal pour tous les marchés. Le lecteur peut comprendre le premier message sans une autre longue démonstration.",
+          "Privilégiez LinkedIn si la personne y est active ; sinon, un email pertinent peut mieux convenir. Si vous passez à une autre voie appropriée après un silence, coordonnez l'historique sans envoyer la même proposition simultanément. Les appels nécessitent un périmètre et une approbation distincts. Arrêtez l'approche du compte en cas de refus, d'objection ou d'autre condition d'arrêt.",
+          "Un acheteur qui demande de revenir à une date de planification est dans une autre situation. Notez ce qu'il a permis et quand ; ni téléchargement, présence à un événement ou silence ne vaut abonnement à une newsletter."
+        ],
+        "links": [
+          [
+            "/guides/cold-email-follow-up/",
+            "Guide des relances par email à froid"
+          ]
+        ],
+        "id": "ps-follow-up"
+      },
+      {
+        "title": "Donnez à chaque réponse une suite adaptée",
+        "headers": [
+          "Réponse",
+          "Ce qu'elle établit",
+          "Prochaine action"
+        ],
+        "rows": [
+          [
+            "La question est actuelle",
+            "Une pertinence possible, pas une mission confirmée",
+            "Précisez le périmètre et qui doit participer avec l'expert."
+          ],
+          [
+            "Parlez à une autre personne",
+            "Une voie suggérée, pas une autorisation générale",
+            "Confirmez comment présenter le contexte ; ne contactez pas tout le monde."
+          ],
+          [
+            "Nous sommes déjà accompagnés",
+            "Une relation existe",
+            "Respectez-la ; n'inventez pas d'insatisfaction et n'exigez pas de comparaison."
+          ],
+          [
+            "Revenez à une date précise",
+            "Une invitation future limitée",
+            "Notez date et sujet autorisés ; suspendez la séquence à froid."
+          ],
+          [
+            "Envoyez l'exemple",
+            "Un intérêt pour ce document",
+            "Envoyez le matériel promis et autorisé ; ne comptez pas un rendez-vous."
+          ],
+          [
+            "Non / stop / hors cible",
+            "Un arrêt ou une inadéquation",
+            "Supprimez les relances coordonnées et gardez seulement les données d'arrêt nécessaires."
+          ],
+          [
+            "Pas de réponse",
+            "Aucune position confirmée",
+            "N'y voyez ni intérêt, rejet, besoin ou intention d'achat."
+          ]
+        ],
+        "id": "ps-replies"
+      },
+      {
+        "title": "Décidez d'accepter, de mettre en attente ou d'exclure",
+        "p": [
+          "Conservez les six critères : adéquation de l'organisation et du service, responsabilité d'achat, problème ou changement reconnu, pertinence commerciale, accès aux personnes et informations nécessaires, et suite convenue. Une réponse polie ne remplit pas les champs manquants."
+        ],
+        "dl": [
+          [
+            "Accepter pour un échange de découverte",
+            "L'acheteur confirme une décision pertinente, le cabinet peut aider, le bon expert peut participer et chacun comprend pourquoi se rencontrer. Budget et achats non confirmés restent ouverts."
+          ],
+          [
+            "Mettre en attente avec autorisation",
+            "Le service peut convenir mais calendrier, responsable ou voie restent flous. Attribuez la prochaine décision et une date de contact permise ; ne transformez pas discrètement la fiche en opportunité."
+          ],
+          [
+            "Exclure ou arrêter",
+            "Travail inadapté, territoire, conditions professionnelles, conflit, refus antérieur ou manque de capacité empêchent d'avancer. Notez un motif minimal et arrêtez."
+          ]
+        ],
+        "after": [
+          "Le cabinet doit définir son propre seuil commercial et ses exigences professionnelles. Ce guide ne fixe pas un montant minimum universel et ne détermine pas si le démarchage est autorisé dans une juridiction."
+        ],
+        "id": "qualify-economic-and-delivery-fit",
+        "aliases": [
+          "qualify-economic-and-delivery-adéquation"
+        ]
+      },
+      {
+        "title": "Rendez la transmission à l'expert exploitable",
+        "case": [
+          "Transmission fictive : PS-DEMO-01",
+          "La responsable RH confirme que la décision entre les deux sites est actuelle et demande un échange avec l'expert. Cette confirmation, pas l'annonce initiale, justifie le rendez-vous."
+        ],
+        "dl": [
+          [
+            "Pourquoi se rencontrer",
+            "Convenir des routines que le cabinet peut aider à préciser et de ce qui reste à la charge du client."
+          ],
+          [
+            "Personnes et preuves",
+            "La responsable RH participe ; les opérations restent à confirmer. Notez source publique et date, question pertinente exacte de l'acheteur et exemple autorisé envoyé."
+          ],
+          [
+            "Périmètre et inconnues",
+            "Aucune donnée de dossier salarié demandée. Budget, achats, calendrier de réalisation et besoin de conseil juridique restent inconnus."
+          ],
+          [
+            "Responsable et calendrier",
+            "L'expert désigné conduit la découverte. Réservation créée au jour 8 pour le jour 14, reportée au jour 21 puis tenue. Conservez identifiant et date d'origine et reliez le report : cela reste une seule réservation initiale."
+          ],
+          [
+            "Après l'appel",
+            "Notez la tenue de l'appel séparément. Acceptez pour cadrage seulement si l'expert confirme l'adéquation et une suite convenue ; ce n'est pas une mission signée."
+          ]
+        ],
+        "ol": [
+          "Pour un exemple d'entretien d'adéquation de 30 minutes, prenez cinq minutes pour confirmer décision et participants.",
+          "Consacrez-en dix à l'approche actuelle sans recueillir de détails sensibles inutiles.",
+          "Prenez dix minutes pour expliquer méthode, limites et dépendances et vérifier les inconnues.",
+          "Utilisez les cinq dernières pour convenir de ne pas poursuivre, d'un suivi précis ou d'une découverte au périmètre distinct. Cet ordre du jour est illustratif, pas un livrable gratuit promis."
+        ],
+        "id": "ps-handoff"
+      },
+      {
+        "title": "Prévoyez le temps expert avant de demander plus d'appels",
+        "p": [
+          "Ce cabinet fictif réserve six heures hebdomadaires à une petite campagne. Deux échanges avec préparation tiennent dans cette enveloppe. Le calcul décrit une capacité, pas la demande attendue ni une prévision de rendez-vous."
+        ],
+        "headers": [
+          "Tâche",
+          "Minutes illustratives",
+          "Responsable ou limite"
+        ],
+        "rows": [
+          [
+            "Revoir périmètre, affirmations et preuves",
+            "60",
+            "Expert responsable"
+          ],
+          [
+            "Recherche et vérification de l'adéquation",
+            "75",
+            "Responsable recherche ; le client valide les cibles"
+          ],
+          [
+            "Rédaction individuelle et préparation",
+            "45",
+            "Responsable campagne, dans les autorisations convenues"
+          ],
+          [
+            "Réponses et coordination",
+            "30",
+            "Responsable des réponses"
+          ],
+          [
+            "Deux échanges avec préparation",
+            "150",
+            "Deux × (45 minutes d'échange + 30 minutes de préparation)"
+          ],
+          [
+            "Total",
+            "360",
+            "Six heures ; réalisation et propositions nécessitent une capacité séparée"
+          ]
+        ],
+        "after": [
+          "Comptez recherche, rédaction, logiciels, données et temps expert, en plus des dépenses. Le coût d'acquisition divise le coût total convenu par les clients réellement nouveaux gagnés dans la cohorte définie. Sans vente, ce n'est pas un coût mesuré par client acquis. Ne justifiez pas une dépense par des taux de signature ou une valeur client inventés : utilisez honoraires réalisés, coûts de réalisation, fidélité et politique de retour sur investissement propres au cabinet."
+        ],
+        "id": "ps-capacity"
+      },
+      {
+        "title": "Analysez une cohorte datée, pas une accumulation d'activité",
+        "p": [
+          "Prenez une cohorte fictive de 50 comptes contactés pour la première fois entre les jours 1 et 14, examinée à la fin du jour 28. Gardez des fiches stables et les mêmes définitions. Ces chiffres illustrent le reporting ; ce ne sont pas des taux à reprendre dans une prévision."
+        ],
+        "headers": [
+          "Étape",
+          "Nombre fictif",
+          "Interprétation"
+        ],
+        "rows": [
+          [
+            "Comptes contactés pour la première fois",
+            "50",
+            "Dénominateur de cohorte ; pas des messages, personnes ou sessions web."
+          ],
+          [
+            "Échanges bilatéraux substantiels",
+            "6",
+            "Réponses sur le service, pas tous les accusés de réception."
+          ],
+          [
+            "Réservations initiales créées avant l'arrêté",
+            "3",
+            "Une par identifiant et date d'origine ; le report de PS-DEMO-01 n'en crée pas une quatrième."
+          ],
+          [
+            "Appels tenus avant l'arrêté",
+            "2",
+            "Le troisième est encore prévu au jour 35 ; la présence n'est pas définitive."
+          ],
+          [
+            "Acceptés pour cadrage",
+            "1",
+            "Confirmé par l'expert après l'échange."
+          ],
+          [
+            "Propositions / missions signées",
+            "0 / 0",
+            "Ne déclarez pas une valeur d'opportunité ou un revenu non établi."
+          ]
+        ],
+        "after": [
+          "Enregistrez séparément source d'acquisition connue, première page d'entrée si captée de manière fiable, page de réservation et récit de l'acheteur sur sa découverte du cabinet. Recommandation, échange LinkedIn et visite web peuvent appartenir au même parcours. Une source manquante est inconnue ; la dernière page visitée n'est pas automatiquement la source initiale.",
+          "Écartez tests internes, doublons et reports des décomptes de demande réelle. Données Analytics, clics, visites du calendrier et téléchargements ne prouvent pas seuls une réservation. Comparez des cohortes équivalentes après maturation suffisante ; quelques appels ne permettent pas une prévision fiable du canal."
+        ],
+        "id": "ps-measurement"
+      },
+      {
+        "title": "Décidez de la prochaine correction à partir des preuves",
+        "headers": [
+          "Domaine",
+          "Preuve nécessaire",
+          "Si elle manque"
+        ],
+        "rows": [
+          [
+            "Offre",
+            "Problème précis, périmètre et exclusions",
+            "Précisez l'offre plutôt que d'augmenter le volume."
+          ],
+          [
+            "Marché",
+            "Situation observable et rôles d'achat confirmés",
+            "Vérifiez la liste et les sources avant de réécrire tous les messages."
+          ],
+          [
+            "Preuves",
+            "Éléments pertinents autorisés et méthode examinable",
+            "Créez l'exemple ou l'explication manquante ; n'inventez pas de résultat."
+          ],
+          [
+            "Ventes",
+            "Un expert qui répond et conduit une découverte utile",
+            "Réglez responsable, transmission et disponibilité avant de chercher plus de réservations."
+          ],
+          [
+            "Économie",
+            "Missions que le cabinet peut réaliser de façon rentable et crédible",
+            "Vérifiez coûts réels, adéquation du service et capacité avant d'accélérer."
+          ]
+        ],
+        "after": [
+          "Si les bons échanges n'avancent pas, demandez à l'expert ce qu'il apprend sur offre, calendrier et décision. Changez une hypothèse importante à la fois et notez la prochaine date d'arrêté. Ni une semaine calme ni une première vente ne démontrent tout le système."
+        ],
+        "id": "buyer-decision-guide"
+      },
+      {
+        "title": "Ce que garde le cabinet et ce que Beespoke peut gérer",
+        "p": [
+          "Beespoke peut gérer recherche de comptes et de personnes, messages individuels, préparation autorisée, réponses, qualification et réservation selon les critères convenus. Le client apporte le jugement nécessaire à la validation des cibles et valide expertise, exigences professionnelles et preuves. Le cabinet conserve découverte experte, propositions, signature et réalisation.",
+          "Le service outbound de base couvre email à froid et/ou LinkedIn ; le canal suit l'activité et la pertinence pour la personne. Les appels sont chiffrés séparément selon le marché, avec recrutement de locuteurs natifs si nécessaire. C'est un service géré et dirigé par le fondateur, pas un SDR à temps plein automatiquement inclus ni un volume garanti de rendez-vous."
+        ],
+        "ol": [
+          "Demandez ce qui compte comme réponse, réservation initiale, appel tenu et opportunité acceptée.",
+          "Examinez un compte proposé et un message original avant de convenir d'un volume.",
+          "Confirmez qui approuve affirmations, listes, preuves et autorisations d'envoi.",
+          "Demandez qui coordonne arrêts, relations existantes et activité entre canaux.",
+          "Convenez de la disponibilité de l'expert, de l'acceptation des transmissions et du traitement des cohortes incomplètes.",
+          "Confirmez par écrit périmètre, frais logiciels et données, dossiers et sortie ; consultez les conditions actuelles de Beespoke sur la page tarifs."
+        ],
+        "links": [
+          [
+            "/services/b2b-lead-generation/",
+            "Génération de leads B2B gérée"
+          ],
+          [
+            "/compare/lead-generation-agency-vs-in-house-team/",
+            "Agence et équipe interne"
+          ],
+          [
+            "/industries/recruitment-agency-lead-generation/",
+            "Acquisition pour les cabinets de recrutement"
+          ],
+          [
+            "/industries/marketing-agency-lead-generation/",
+            "Acquisition pour les agences marketing"
+          ]
+        ],
+        "id": "where-a-focused-outbound-partner-can-fit",
+        "aliases": [
+          "where-a-focused-outbound-partner-can-adéquation"
+        ]
+      },
+      {
+        "title": "Emportez les décisions dans votre réunion de planification",
+        "p": [
+          "Le fichier facultatif contient des questions vierges, pas une liste de leads. Aucune inscription ni coordonnée n'est requise. Gardez les informations réelles sur clients, salariés et prospects dans votre système privé autorisé."
+        ],
+        "downloadTitle": "Ouvrir les questions de planification",
+        "downloadLabel": "Télécharger les questions vierges (CSV)",
+        "downloadNote": "Dix questions pour votre propre document. Ce téléchargement statique n'enregistre aucune fiche prospect saisie sur la page.",
+        "questions": [
+          [
+            "Service",
+            "Quelle décision le cabinet aidera-t-il à prendre, et qu'est-ce qui est exclu ?"
+          ],
+          [
+            "Marché",
+            "Quelles organisations conviennent et lesquelles faut-il exclure ?"
+          ],
+          [
+            "Preuves",
+            "Qu'est-ce qui est observé, quelle est la source et que reste-t-il à confirmer ?"
+          ],
+          [
+            "Personnes",
+            "Qui décide, évalue et vit les conséquences ?"
+          ],
+          [
+            "Canal",
+            "Où est-il approprié de contacter, et quand faut-il arrêter ?"
+          ],
+          [
+            "Éléments de preuve",
+            "Quel exemple exact ou quelle qualification autorisée l’acheteur peut-il examiner ?"
+          ],
+          [
+            "Validation professionnelle",
+            "Qui approuve affirmations, conflits, juridiction et exigences du canal ?"
+          ],
+          [
+            "Transmission",
+            "Qui conduit la découverte, qu'accepte-t-on et comment rapproche-t-on les reports ?"
+          ],
+          [
+            "Capacité et économie",
+            "Quels temps, capacité de réalisation et coûts réels le cabinet peut-il supporter ?"
+          ],
+          [
+            "Revue",
+            "Quelle cohorte, date d'arrêté, quels résultats réels et prochaine décision seront enregistrés ?"
+          ]
+        ],
+        "id": "ps-brief"
+      },
+      {
+        "title": "Questions fréquentes",
+        "faqs": [
+          [
+            "Comment les cabinets de services professionnels génèrent-ils des leads ?",
+            "Par des recommandations, partenariats, recherches, contenus utiles, événements et approches ciblées adaptés. Choisissez le mix autour du service, du véritable processus de décision, des preuves et de la capacité du cabinet. Aucun canal n'est universellement meilleur."
+          ],
+          [
+            "L'outbound fonctionne-t-il pour les services professionnels ?",
+            "Il peut créer des échanges pertinents avec un service clair, les bons comptes, une approche appropriée et un suivi expert crédible. Il ne transforme pas un signal public en besoin et ne remplace pas la découverte. Demandes urgentes de particuliers et appels d'offres peuvent nécessiter d'autres voies."
+          ],
+          [
+            "Qu'est-ce qu'un lead qualifié ?",
+            "Définissez adéquation du service et de l'organisation, responsabilité pertinente, raison confirmée de parler, pertinence commerciale et suite convenue. Séparez réservé, tenu et accepté pour cadrage. Une fiche, réponse polie ou visite du calendrier ne suffit pas."
+          ],
+          [
+            "Quel contenu utiliser si les clients sont confidentiels ?",
+            "Des exemples fictifs originaux, méthodes transparentes, qualifications réelles autorisées et preuves approuvées avec leurs limites. Indiquez clairement la fiction. Retirer un nom peut laisser une personne identifiable ; un exemple fictif n'est pas un résultat client."
+          ],
+          [
+            "Faut-il utiliser LinkedIn ou l'email ?",
+            "Selon activité de la personne, voie disponible, contexte et exigences applicables. LinkedIn peut convenir à un participant actif ; un email pertinent peut mieux servir un autre acheteur. Coordonnez les canaux sans répéter la proposition partout."
+          ],
+          [
+            "Combien de relances envoyer ?",
+            "Beespoke utilise habituellement une ouverture individuelle et un rappel bref, souvent environ quatre jours après. C'est une préférence de travail, pas une règle universelle. Respectez refus et dates autorisées, en distinguant prospection à froid et suivi demandé."
+          ],
+          [
+            "En combien de temps peut-on obtenir des clients ?",
+            "Il n'existe pas de délai universel fiable. Recherche, marché, processus d'achat, capacité experte et décision comptent. Examinez les cohortes datées et rendez-vous futurs en attente ; ne prévoyez pas des missions signées à partir de quelques premières réponses ou réservations."
+          ],
+          [
+            "Que gère Beespoke pour un cabinet professionnel ?",
+            "Recherche, messages individuels, préparation autorisée, réponses, qualification et réservations selon les critères convenus. Le client valide cibles et affirmations expertes, puis garde découverte, propositions, signature et réalisation. Les canaux outbound de base sont l'email à froid et/ou LinkedIn ; les appels sont chiffrés séparément."
+          ]
+        ],
+        "id": "frequently-asked-questions"
+      }
+    ]
+  }
+}
