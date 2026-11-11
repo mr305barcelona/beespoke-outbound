@@ -40,8 +40,10 @@ for (const page of pages) {
     if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g)||[]).length !== 1) failures.push(`${page.path}: expected the preserved header booking control`);
     if (!html.includes(modelGuide ? 'data-model-record' : page.path === '/guides/how-to-choose-an-outbound-lead-generation-agency/' ? 'data-evaluation' : page.path === '/guides/b2b-lead-generation-audit/' ? 'data-calculator' : page.path === '/guides/account-based-prospecting/' ? 'data-register' : page.path === '/guides/b2b-sales-prospecting-plan/' ? 'data-planner' : 'data-workbook') || !html.includes(modelGuide ? 'id="m-cases"' : page.path === '/guides/how-to-choose-an-outbound-lead-generation-agency/' ? 'id="s-brief"' : page.path === '/guides/b2b-lead-generation-audit/' ? 'id="d-web"' : page.path === '/guides/account-based-prospecting/' ? 'id="a-cases"' : page.path === '/guides/b2b-sales-prospecting-plan/' ? 'id="p-plan"' : page.path === '/guides/cold-email-agency/' ? 'id="a-choice"' : page.path.includes('/logistics-lead-generation/') ? 'id="g-fit"' : page.path.includes('/cold-email-follow-up/') ? 'id="f-decision"' : page.path.includes('/linkedin-prospecting-messages/') ? 'id="l-route"' : 'id="j-offer"')) failures.push(`${page.path}: missing message utility or decision guidance`);
   } else {
-    if ((html.match(/class="inline-cta"/g) || []).length < 2) failures.push(`${page.path}: fewer than two contextual inline CTAs`);
-    if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g) || []).length < 5) failures.push(`${page.path}: insufficient booking CTA coverage`);
+    const founderProfile = page.path === "/about/noah-levy/";
+    const inlineCount = (html.match(/class="inline-cta"/g) || []).length;
+    if (founderProfile ? inlineCount !== 0 : inlineCount < 2) failures.push(`${page.path}: unexpected contextual inline CTA coverage`);
+    if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g) || []).length < (founderProfile ? 3 : 5)) failures.push(`${page.path}: insufficient booking CTA coverage`);
     if (!html.includes("class=\"original-tool")) failures.push(`${page.path}: missing original page utility`);
     if (!html.includes("class=\"competitive-depth\"")) failures.push(`${page.path}: missing buyer decision depth`);
   }

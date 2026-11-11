@@ -116,6 +116,8 @@ function labelFor(link) {
 }
 
 function renderInlineCta(page, position) {
+  // A short founder biography already has hero, contact and closing booking links.
+  if (page.path === "/about/noah-levy/") return "";
   const isInbound = page.serviceFamily === "inbound" || [
     "/services/b2b-ppc-agency/",
     "/services/b2b-seo-agency/",
