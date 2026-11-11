@@ -1,0 +1,906 @@
+{
+  "date": "2026-11-11",
+  "revision": "2026-11-11T00:00:00+01:00",
+  "en": {
+    "updated": "Updated November 11, 2026",
+    "caption": "Provider positioning: dated source checks, not performance ratings",
+    "providerNote": "The provider table preserves the October 15, 2026 review, except memoryBlue’s approved November 4 scope correction and Beespoke’s current November 11 service description. This article’s revision does not mean every supplier was reverified today. Confirm current delivery and terms in writing. The list is unpaid and unranked; Beespoke sells a competing service. Earlier selection references retain their August dates.",
+    "archive": "Download the archived October 15 provider review (JSON) →",
+    "ownScope": "Founder-led managed cold email and/or LinkedIn; USD 1,500/month or EUR 1,500/month in Europe; three-month minimum. Required software and data are separate; calling is quoted separately.",
+    "ownCheck": "Agreed capacity, channel fit and client responsibility for discovery, proposals and closing; no dedicated full-time SDR or meeting guarantee included.",
+    "gateIntro": "Record evidence before choosing finalists. Mark an essential requirement as demonstrated, awaiting clarification or confirmed mismatch. A total score cannot settle a missing essential term.",
+    "gateEnd": "Compare complete costs over the same period once the essential scope is clear. An unanswered question needs clarification; it is not proof of poor service.",
+    "title": "A completed buying exercise: three proposals, one provisional choice",
+    "fiction": "Entirely fictional buying exercise. No supplier below represents a named provider, customer or prospect. The records and outcomes are invented to explain a decision, not to forecast results.",
+    "briefTitle": "Start with the work your team cannot cover",
+    "brief": "A small B2B software team sells to operations leaders. It has a CRM and a sales owner who takes discovery calls, but nobody owns account research or reply triage. The agreed initial channels are email and LinkedIn. The team can approve targeting and answer product questions; it cannot coach a dedicated SDR every day.",
+    "criteria": [
+      [
+        "Scope to transfer",
+        "Account research, individually relevant messages, approved sending and reply triage."
+      ],
+      [
+        "Client contribution",
+        "Approve roles, regions and exclusions; resolve product questions; attend sales calls and close."
+      ],
+      [
+        "Qualified meeting",
+        "The attendee has the agreed buying responsibility, matches the approved account criteria, expresses relevant interest and actually attends. Record an accepted opportunity separately."
+      ],
+      [
+        "Evidence before signature",
+        "A delivery-owner demonstration, backup coverage, a sample CRM record and an export with access-removal terms."
+      ]
+    ],
+    "proposalsTitle": "Read the proposals, then make a decision",
+    "evidenceLabel": "Evidence in this fictional proposal",
+    "decisionLabel": "Decision for this brief",
+    "nextLabel": "What would change it",
+    "proposals": [
+      [
+        "Managed campaign",
+        "The proposed delivery lead demonstrates research and reply triage in a fictional CRM record and names a backup role. The proposal assigns list approval and sales calls to the buyer. Export ownership is mentioned but no sample or exit clause is supplied.",
+        "Keep as a conditional finalist. The work matches; the exit requirement is still unverified. Do not sign on the strength of the demonstration alone.",
+        "Ask the delivery owner for a usable sample export and written ownership, access-removal and notice terms. Only treat that requirement as satisfied after inspection."
+      ],
+      [
+        "Dedicated SDR seat",
+        "The proposal supplies a rep, while the client is expected to coach daily and own list research and reply escalation. The buyer has no manager available for that work.",
+        "Exclude under the current brief: a confirmed responsibility mismatch. This does not establish that the supplier is poor at its stated service.",
+        "Reconsider if the buyer appoints a manager and funds the retained work, or the supplier revises the actual scope in writing."
+      ],
+      [
+        "Calling support",
+        "The proposal covers calls and call dispositions. It does not cover the agreed email/LinkedIn work, research or inbox replies.",
+        "Exclude under the current brief: the purchased work would not fill the gap. Do not score phone volume as evidence for the missing channels.",
+        "Rebrief only if calling becomes an agreed need. Confirm language, market, native-caller requirements and separate cost before comparing that scope."
+      ]
+    ],
+    "decisionTitle": "The filled decision record",
+    "decisionRows": [
+      [
+        "Provisional choice",
+        "The managed campaign remains a finalist, not an awarded contract."
+      ],
+      [
+        "Unresolved requirement",
+        "Export and exit evidence: no sample or clause has been inspected."
+      ],
+      [
+        "Next owner",
+        "The buyer’s sales owner requests the missing material from the delivery lead."
+      ],
+      [
+        "Stop or reopen",
+        "Do not sign if the essential ownership term remains unresolved. Reopen the model decision if client management capacity or agreed channels change."
+      ]
+    ],
+    "handoffTitle": "Rehearse an uncertain reply before counting a meeting",
+    "reply": "“Someone else handles this. Can you tell me what it is about?”",
+    "handoff": "Record this as an open referral, not a qualified meeting. Keep the original reply and route, verify the referred person’s role, decide whether a relevant answer is justified, and name who handles it. A job title, forwarded message or calendar invitation alone does not establish qualification. Request a redacted work sample with permission; never collect passwords, private lead lists or unnecessary contact details for a buying exercise.",
+    "ledgerTitle": "Check the meeting claim against four original records",
+    "ledgerIntro": "The same fictional supplier reports “four bookings.” Inspect the original creation cohort through Day 16. COUNT-01–04 are invented identifiers. A reschedule retains its original booking identity and creation date; it is not a second booking.",
+    "ledgerLabels": [
+      "Created",
+      "Record through Day 16",
+      "Classification"
+    ],
+    "ledger": [
+      [
+        "COUNT-01",
+        "Day 10",
+        "Held on Day 15. Agreed account/role fit and relevant interest are documented.",
+        "Held and qualified. Sales has not recorded opportunity acceptance."
+      ],
+      [
+        "COUNT-02",
+        "Day 11",
+        "Originally scheduled for Day 16; moved to Day 18 with the same original identity.",
+        "One original booking; pending. Not held or qualified-held yet."
+      ],
+      [
+        "COUNT-03",
+        "Day 12",
+        "Cancelled on Day 14 before its Day 15 appointment.",
+        "One original booking; cancelled. Not held."
+      ],
+      [
+        "COUNT-04",
+        "Day 13",
+        "Held on Day 16, but the attendee is outside the agreed buyer criteria.",
+        "Held; not qualified under this brief."
+      ]
+    ],
+    "totalsTitle": "What the evidence actually supports",
+    "totals": "4 original bookings; 2 held meetings; 1 qualified, held meeting; 1 rescheduled meeting still pending; 1 cancelled booking. Opportunity and revenue outcomes remain unknown. These categories overlap: the one qualified meeting is part of the two held meetings, not an extra meeting.",
+    "ledgerLimit": "Do not turn this tiny, unfinished example into a conversion benchmark or a supplier forecast. Compare cohorts with the same original booking dates, observation cutoff and qualification rules. Ask the provider to reproduce its claim from permitted, redacted records and document disagreements. A dashboard total alone does not resolve them.",
+    "routeTitle": "Take the next step that matches the uncertainty",
+    "routeIntro": "Choose the operating model before judging suppliers. If the model fits, inspect what the managed work would look like; if cost is the unresolved question, normalize the complete proposal.",
+    "links": [
+      [
+        "/compare/outsourced-sdr-vs-in-house-sdr/",
+        "Compare an outsourced function with an in-house SDR"
+      ],
+      [
+        "/services/outsourced-sdr/",
+        "See a worked managed-prospecting handoff"
+      ],
+      [
+        "/guides/outsourced-sdr-cost/",
+        "Compare complete outsourced SDR costs"
+      ]
+    ],
+    "cta1": [
+      "Need help deciding which work to transfer?",
+      "A fit call can clarify targeting, approval points and the sales work your team keeps. Bring the unresolved part of your brief."
+    ],
+    "cta2": [
+      "Already have a clear outbound brief?",
+      "Discuss whether a founder-led email and/or LinkedIn campaign fits the work. Calling and a dedicated SDR seat are separate scope questions."
+    ],
+    "checkTitle": "Evidence to request from a finalist",
+    "jump": "See the completed buying exercise",
+    "serviceLabel": "Beespoke managed outbound scope →",
+    "exitTitle": "Agree the review and exit before signature",
+    "exitText": "Inspect an export containing account identifiers, message versions, reply history and dispositions. Agree a review date, continuation evidence, cancellation notice and who can revoke access. Return to the decision if backup coverage or promised ownership cannot be demonstrated."
+  },
+  "es": {
+    "updated": "Actualizado el 11 de noviembre de 2026",
+    "caption": "Posicionamiento de proveedores: fechas de comprobación, sin valorar resultados",
+    "providerNote": "La tabla conserva la revisión del 15 de octubre de 2026, salvo la corrección de memoryBlue aprobada el 4 de noviembre y la descripción actual de Beespoke del 11 de noviembre. Actualizar el artículo no significa haber vuelto a verificar hoy a todos los proveedores. Confirma por escrito el servicio y las condiciones actuales. La lista no es de pago ni establece un orden de calidad; Beespoke ofrece un servicio competidor. Las referencias anteriores conservan sus fechas de agosto.",
+    "archive": "Descargar la revisión archivada del 15 de octubre (JSON) →",
+    "ownScope": "Prospección gestionada por el fundador mediante email y/o LinkedIn; 1.500 USD/mes o 1.500 EUR/mes en Europa; mínimo de tres meses. Software y datos necesarios aparte; llamadas con presupuesto separado.",
+    "ownCheck": "Capacidad y canales acordados; el cliente conserva las reuniones comerciales, las propuestas y el cierre. No incluye un SDR dedicado a jornada completa ni garantiza reuniones.",
+    "gateIntro": "Antes de elegir finalistas, clasifica cada requisito esencial: demostrado, pendiente de aclarar o incompatibilidad confirmada. Una puntuación total no resuelve una condición esencial sin verificar.",
+    "gateEnd": "Compara el coste total durante el mismo periodo cuando el alcance esencial esté claro. Una pregunta sin respuesta necesita aclaración; no demuestra un mal servicio.",
+    "title": "Ejercicio completo: tres propuestas y una decisión provisional",
+    "fiction": "Ejercicio de compra completamente ficticio. Ninguna opción representa a un proveedor, cliente o contacto real. Los registros y resultados son inventados para explicar una decisión, no para pronosticar resultados.",
+    "briefTitle": "Empieza por el trabajo que tu equipo no puede cubrir",
+    "brief": "Una pequeña empresa de software B2B vende a responsables de operaciones. Tiene CRM y una persona que atiende reuniones comerciales, pero nadie investiga cuentas ni clasifica respuestas. Los canales iniciales acordados son email y LinkedIn. El equipo puede aprobar la segmentación y resolver dudas de producto; no puede supervisar a un SDR dedicado a diario.",
+    "criteria": [
+      [
+        "Trabajo que se delega",
+        "Investigar cuentas, redactar mensajes relevantes para cada persona, realizar envíos autorizados y clasificar respuestas."
+      ],
+      [
+        "Aportación del cliente",
+        "Aprobar cargos, mercados y exclusiones; resolver dudas de producto; atender reuniones y cerrar ventas."
+      ],
+      [
+        "Reunión cualificada",
+        "La persona tiene la responsabilidad de compra acordada, encaja en los criterios aprobados, expresa interés pertinente y asiste. Registra por separado la aceptación como oportunidad."
+      ],
+      [
+        "Pruebas antes de firmar",
+        "Demostración del responsable del servicio, cobertura de ausencias, registro de CRM de muestra y exportación con condiciones de retirada de accesos."
+      ]
+    ],
+    "proposalsTitle": "Lee las propuestas y toma una decisión",
+    "evidenceLabel": "Pruebas de esta propuesta ficticia",
+    "decisionLabel": "Decisión para este encargo",
+    "nextLabel": "Qué haría cambiar la decisión",
+    "proposals": [
+      [
+        "Campaña gestionada",
+        "El responsable propuesto demuestra la investigación y la clasificación de respuestas en un CRM ficticio y asigna un suplente. El comprador aprueba las listas y atiende reuniones. Se menciona la propiedad de la exportación, pero no hay muestra ni cláusula de finalización.",
+        "Mantener como finalista condicionado. El trabajo encaja; la finalización sigue sin verificar. La demostración por sí sola no basta para firmar.",
+        "Pedir al responsable una exportación utilizable y condiciones escritas de propiedad, retirada de accesos y preaviso. Dar el requisito por cumplido solo tras revisarlas."
+      ],
+      [
+        "SDR dedicado",
+        "La propuesta aporta un SDR, pero exige al cliente supervisión diaria, investigación de listas y resolución de respuestas dudosas. El comprador no dispone de nadie para dirigir ese trabajo.",
+        "Descartar con el encargo actual: hay una incompatibilidad de responsabilidades confirmada. Esto no demuestra que el proveedor haga mal el servicio que ofrece.",
+        "Reconsiderar si el comprador nombra a un responsable y cubre el trabajo que conserva, o si el proveedor modifica el alcance por escrito."
+      ],
+      [
+        "Apoyo telefónico",
+        "La propuesta cubre llamadas y su registro. No cubre el trabajo acordado de email/LinkedIn, la investigación ni las respuestas del buzón.",
+        "Descartar con el encargo actual: no cubre el trabajo pendiente. El volumen de llamadas no demuestra capacidad en los canales que faltan.",
+        "Replantear el encargo solo si se acuerda que hacen falta llamadas. Confirmar idioma, mercado, necesidad de personal nativo y coste separado antes de comparar ese servicio."
+      ]
+    ],
+    "decisionTitle": "Ficha de decisión cumplimentada",
+    "decisionRows": [
+      [
+        "Elección provisional",
+        "La campaña gestionada sigue como finalista; no se ha adjudicado el servicio."
+      ],
+      [
+        "Requisito pendiente",
+        "Exportación y finalización: no se ha revisado una muestra ni una cláusula."
+      ],
+      [
+        "Siguiente responsable",
+        "La persona que dirige las ventas del comprador pide el material al responsable del servicio."
+      ],
+      [
+        "Cuándo parar o revisar",
+        "No firmar si la propiedad sigue sin aclararse. Revisar el modelo si cambian la capacidad de supervisión o los canales acordados."
+      ]
+    ],
+    "handoffTitle": "Ensaya una respuesta ambigua antes de contar una reunión",
+    "reply": "«Esto lo lleva otra persona. ¿De qué se trata?»",
+    "handoff": "Regístrala como una derivación abierta, no como reunión cualificada. Conserva la respuesta y su contexto, verifica el cargo de la persona indicada, decide si procede una respuesta relevante y asigna quién la gestiona. Un cargo, un reenvío o una invitación de calendario no bastan para cualificar. Pide muestras anonimizadas con autorización; no recopiles contraseñas, listas privadas ni datos de contacto innecesarios para este ejercicio.",
+    "ledgerTitle": "Comprueba cuatro registros originales detrás de la cifra",
+    "ledgerIntro": "El mismo proveedor ficticio declara «cuatro reservas». Revisa las creadas en el periodo hasta el día 16. COUNT-01–04 son identificadores inventados. Al reprogramar, se conserva la identidad y la fecha de creación originales: no es otra reserva.",
+    "ledgerLabels": [
+      "Creación",
+      "Registro hasta el día 16",
+      "Clasificación"
+    ],
+    "ledger": [
+      [
+        "COUNT-01",
+        "Día 10",
+        "Celebrada el día 15. Constan el encaje de cuenta y cargo y un interés pertinente.",
+        "Celebrada y cualificada. Ventas no ha registrado la aceptación como oportunidad."
+      ],
+      [
+        "COUNT-02",
+        "Día 11",
+        "Prevista para el día 16; trasladada al día 18 con la misma identidad original.",
+        "Una reserva original; pendiente. Aún no se ha celebrado ni cuenta como cualificada celebrada."
+      ],
+      [
+        "COUNT-03",
+        "Día 12",
+        "Cancelada el día 14 antes de la reunión del día 15.",
+        "Una reserva original; cancelada. No celebrada."
+      ],
+      [
+        "COUNT-04",
+        "Día 13",
+        "Celebrada el día 16, pero la persona no cumple los criterios de comprador acordados.",
+        "Celebrada; no cualificada para este encargo."
+      ]
+    ],
+    "totalsTitle": "Lo que permiten afirmar los registros",
+    "totals": "4 reservas originales; 2 reuniones celebradas; 1 reunión cualificada celebrada; 1 reunión reprogramada aún pendiente; 1 reserva cancelada. Se desconocen las oportunidades y los ingresos. Las categorías se solapan: la reunión cualificada forma parte de las dos celebradas, no es una reunión adicional.",
+    "ledgerLimit": "Este ejemplo pequeño e incompleto no es una referencia de conversión ni un pronóstico. Compara grupos con las mismas fechas originales de creación, fecha de corte y reglas de cualificación. Pide al proveedor que reproduzca la cifra con registros anonimizados y autorizados, y documenta las discrepancias. Un total en un panel no las resuelve.",
+    "routeTitle": "Elige el siguiente paso según la duda pendiente",
+    "routeIntro": "Decide el modelo antes de juzgar proveedores. Si encaja, examina cómo se ejecutaría el trabajo; si la duda es el coste, compara propuestas completas.",
+    "links": [
+      [
+        "/compare/outsourced-sdr-vs-in-house-sdr/",
+        "Comparar un servicio externalizado con un SDR interno"
+      ],
+      [
+        "/services/outsourced-sdr/",
+        "Ver un ejemplo de prospección gestionada y traspaso a ventas"
+      ],
+      [
+        "/guides/outsourced-sdr-cost/",
+        "Comparar los costes totales de SDR externos"
+      ]
+    ],
+    "cta1": [
+      "¿Necesitas decidir qué trabajo delegar?",
+      "Una llamada de evaluación permite aclarar la segmentación, las aprobaciones y el trabajo comercial que conservas. Trae la duda concreta de tu encargo."
+    ],
+    "cta2": [
+      "¿Ya tienes un encargo de prospección definido?",
+      "Valora si una campaña de email y/o LinkedIn dirigida por el fundador encaja. Las llamadas y un SDR dedicado requieren un alcance distinto."
+    ],
+    "checkTitle": "Pruebas que pedir a un finalista",
+    "jump": "Ver el ejercicio de compra completo",
+    "serviceLabel": "Alcance de la prospección gestionada por Beespoke →",
+    "exitTitle": "Acuerda la revisión y la finalización antes de firmar",
+    "exitText": "Examina una exportación con identificadores de cuenta, versiones de mensajes, respuestas y estados. Acuerda la fecha de revisión, las pruebas para continuar, el preaviso y quién puede revocar accesos. Revisa la decisión si no se demuestran la cobertura o la propiedad prometidas.",
+    "editorial": {
+      "verify-the-people-who-will-perform-the-work": [
+        "Comprueba quién hará el trabajo",
+        [
+          "Una marca no indica quién investiga cuentas, redacta, envía, gestiona respuestas o participa en las revisiones. Pregunta por funciones, ubicación, experiencia, capacidad, sustituciones y número de clientes atendidos por cada responsable.",
+          "Pide una muestra autorizada y anonimizada: por qué se eligió la cuenta, qué indicios se usaron, a quién se contactó, qué mensaje se envió y cómo se decidió la cualificación. Un panel de actividad no basta."
+        ],
+        [
+          "Responsable del servicio y de las incidencias",
+          "Personas a cargo de investigación, redacción, envíos y respuestas",
+          "Carga aproximada de clientes por función",
+          "Formación y supervisión",
+          "Sustitución y continuidad",
+          "Aprobaciones que corresponden al cliente"
+        ]
+      ],
+      "normalize-scope-and-pricing": [
+        "Compara el mismo alcance antes de mirar el precio",
+        [
+          "Una propuesta puede aportar un SDR dedicado; otra, una campaña gestionada, reuniones o software. Identifica el trabajo y la capacidad incluidos antes de comparar importes.",
+          "Anota puesta en marcha, plazo mínimo, herramientas, datos, dominios o perfiles, capacidad por canal, cargos fijos y variables, tiempo del cliente, hecho que genera el cobro y cancelación. Registra por separado reuniones celebradas dentro del perfil acordado y oportunidades aceptadas."
+        ],
+        []
+      ],
+      "test-qualification-and-sales-handoff": [
+        "Prueba la cualificación y el traspaso a ventas",
+        [
+          "Pide que se evalúe una reunión hipotética con los criterios de la propuesta. Comprueba si se distingue un cargo de la responsabilidad de compra y cómo se documentan interés, momento y pertinencia comercial.",
+          "El traspaso debe incluir contexto, mensajes, cargo, necesidad expresada, notas de cualificación, estado de la reserva y compromisos asumidos. Ventas debe poder aceptar o rechazar una oportunidad con motivos documentados.",
+          "Una reserva no equivale a una reunión cualificada; una reunión cualificada tampoco equivale automáticamente a una oportunidad comercial."
+        ],
+        []
+      ],
+      "protect-data-accounts-and-learning": [
+        "Protege datos, cuentas y aprendizaje",
+        [
+          "Confirma qué CRM, buzones, perfiles, teléfonos y fuentes se usan y a quién pertenecen. Acuerda accesos, afirmaciones autorizadas, solicitudes de no contacto, gestión de incidencias y devolución de datos.",
+          "Conserva un historial revisable de criterios de selección, mensajes, respuestas, resultados y decisiones. Sin ese registro, será difícil aprovechar lo aprendido o continuar con otro equipo."
+        ],
+        [
+          "CRM accesible o exportación utilizable",
+          "Procedencia de cuentas y contactos",
+          "Mensajes y afirmaciones aprobados",
+          "Retirada de accesos y transferencia segura de activos",
+          "Estados de respuesta y motivos de descarte",
+          "Conclusiones al finalizar el servicio"
+        ]
+      ]
+    },
+    "faqs": [
+      [
+        "¿Cuál es la mejor empresa de SDR externos?",
+        "Ningún proveedor es el mejor para todos. Compara modelo, canales, mercados, equipo, cualificación y condiciones con el trabajo que necesitas, y verifica cómo se ejecuta."
+      ],
+      [
+        "¿Cómo se eligieron las empresas de esta lista?",
+        "Anuncian servicios de SDR, concertación de reuniones o captación B2B relacionados y aparecieron en las fuentes revisadas. La inclusión no es de pago, no certifica resultados y no establece un orden de calidad."
+      ],
+      [
+        "¿Cuánto cobran las empresas de SDR externos?",
+        "Depende de la dedicación del personal, mercados, canales, datos, gestión y resultados incluidos. Compara el coste total y usa el mismo criterio de reunión cualificada celebrada."
+      ],
+      [
+        "¿Beespoke aparece en primer lugar por publicar la página?",
+        "No. Beespoke declara su interés comercial y aparece como una opción en una lista sin clasificación. Elige otro proveedor si su escala, canales o modelo encajan mejor."
+      ]
+    ],
+    "checkSteps": [
+      "Habla con quien dirige el servicio, además de con ventas.",
+      "Revisa una muestra antes de firmar.",
+      "Acuerda una prueba con criterios de continuidad y parada.",
+      "Pide referencias del mismo modelo de servicio que vas a contratar."
+    ],
+    "checkHeads": [
+      "Área",
+      "Pregunta",
+      "Prueba necesaria"
+    ],
+    "checkRows": [
+      [
+        "Equipo",
+        "¿Quién trabaja en la cuenta?",
+        "Funciones, experiencia, ubicación y capacidad"
+      ],
+      [
+        "Mercado",
+        "¿Cómo se aprueba la segmentación?",
+        "Justificación de cuentas, exclusiones y revisión"
+      ],
+      [
+        "Resultado",
+        "¿Qué cuenta como cualificado?",
+        "Criterios escritos de aceptación y cobro"
+      ],
+      [
+        "Control",
+        "¿Qué puede revisar el cliente?",
+        "CRM, mensajes, respuestas e historial de pruebas"
+      ],
+      [
+        "Riesgo",
+        "¿Cómo se gestionan datos, plataformas y afirmaciones?",
+        "Accesos, procedencia, no contacto e incidencias"
+      ],
+      [
+        "Finalización",
+        "¿Qué conserva el cliente?",
+        "Cláusulas de exportación, propiedad y traspaso"
+      ]
+    ]
+  },
+  "ca": {
+    "updated": "Actualitzat l’11 de novembre de 2026",
+    "caption": "Posicionament dels proveïdors: comprovacions datades, sense valorar resultats",
+    "providerNote": "La taula conserva la revisió del 15 d’octubre de 2026, excepte la correcció de memoryBlue aprovada el 4 de novembre i la descripció actual de Beespoke de l’11 de novembre. La revisió de l’article no vol dir que avui s’hagin tornat a verificar tots els proveïdors. Confirma per escrit el servei i les condicions actuals. La llista no és de pagament ni estableix un ordre de qualitat; Beespoke ofereix un servei competidor. Les referències anteriors conserven les dates d’agost.",
+    "archive": "Descarrega la revisió arxivada del 15 d’octubre (JSON) →",
+    "ownScope": "Prospecció gestionada pel fundador per email i/o LinkedIn; 1.500 USD/mes o 1.500 EUR/mes a Europa; mínim de tres mesos. Programari i dades necessaris a part; trucades amb pressupost separat.",
+    "ownCheck": "Capacitat i canals acordats; el client conserva les reunions comercials, les propostes i el tancament. No inclou un SDR dedicat a jornada completa ni garanteix reunions.",
+    "gateIntro": "Abans de triar finalistes, classifica cada requisit essencial: demostrat, pendent d’aclarir o incompatibilitat confirmada. Una puntuació total no resol una condició essencial sense verificar.",
+    "gateEnd": "Compara el cost total durant el mateix període quan l’abast essencial estigui clar. Una pregunta sense resposta necessita aclariment; no demostra un mal servei.",
+    "title": "Exercici complet: tres propostes i una decisió provisional",
+    "fiction": "Exercici de compra del tot fictici. Cap opció representa un proveïdor, client o contacte real. Els registres i els resultats són inventats per explicar una decisió, no per predir resultats.",
+    "briefTitle": "Comença per la feina que l’equip no pot cobrir",
+    "brief": "Una petita empresa de programari B2B ven a responsables d’operacions. Té un CRM i una persona que atén reunions comercials, però ningú investiga comptes ni classifica respostes. Els canals inicials acordats són email i LinkedIn. L’equip pot aprovar la segmentació i resoldre dubtes de producte; no pot supervisar un SDR dedicat cada dia.",
+    "criteria": [
+      [
+        "Feina que es delega",
+        "Investigar comptes, redactar missatges rellevants per a cada persona, fer enviaments autoritzats i classificar respostes."
+      ],
+      [
+        "Aportació del client",
+        "Aprovar càrrecs, mercats i exclusions; resoldre dubtes de producte; atendre reunions i tancar vendes."
+      ],
+      [
+        "Reunió qualificada",
+        "La persona té la responsabilitat de compra acordada, compleix els criteris aprovats, expressa interès pertinent i hi assisteix. Registra a part l’acceptació com a oportunitat."
+      ],
+      [
+        "Proves abans de signar",
+        "Demostració del responsable del servei, cobertura d’absències, registre de CRM de mostra i exportació amb condicions de retirada d’accessos."
+      ]
+    ],
+    "proposalsTitle": "Llegeix les propostes i pren una decisió",
+    "evidenceLabel": "Proves d’aquesta proposta fictícia",
+    "decisionLabel": "Decisió per a aquest encàrrec",
+    "nextLabel": "Què faria canviar la decisió",
+    "proposals": [
+      [
+        "Campanya gestionada",
+        "El responsable proposat demostra la recerca i la classificació de respostes en un CRM fictici i assigna un suplent. El comprador aprova les llistes i atén reunions. S’esmenta la propietat de l’exportació, però no hi ha mostra ni clàusula de finalització.",
+        "Mantenir com a finalista condicionat. La feina encaixa; la finalització encara no s’ha verificat. La demostració sola no basta per signar.",
+        "Demanar al responsable una exportació utilitzable i condicions escrites de propietat, retirada d’accessos i preavís. Donar el requisit per complert només després de revisar-les."
+      ],
+      [
+        "SDR dedicat",
+        "La proposta aporta un SDR, però exigeix al client supervisió diària, recerca de llistes i resolució de respostes dubtoses. El comprador no té ningú per dirigir aquesta feina.",
+        "Descartar amb l’encàrrec actual: hi ha una incompatibilitat de responsabilitats confirmada. Això no demostra que el proveïdor faci malament el servei que ofereix.",
+        "Reconsiderar si el comprador nomena un responsable i cobreix la feina que conserva, o si el proveïdor modifica l’abast per escrit."
+      ],
+      [
+        "Suport telefònic",
+        "La proposta cobreix trucades i el registre dels resultats. No cobreix la feina acordada d’email/LinkedIn, la recerca ni les respostes de la bústia.",
+        "Descartar amb l’encàrrec actual: no cobreix la feina pendent. El volum de trucades no demostra capacitat en els canals que falten.",
+        "Replantejar l’encàrrec només si s’acorda que calen trucades. Confirmar llengua, mercat, necessitat de personal natiu i cost separat abans de comparar aquest servei."
+      ]
+    ],
+    "decisionTitle": "Fitxa de decisió emplenada",
+    "decisionRows": [
+      [
+        "Tria provisional",
+        "La campanya gestionada continua com a finalista; no s’ha adjudicat el servei."
+      ],
+      [
+        "Requisit pendent",
+        "Exportació i finalització: no s’ha revisat cap mostra ni clàusula."
+      ],
+      [
+        "Següent responsable",
+        "La persona que dirigeix les vendes del comprador demana el material al responsable del servei."
+      ],
+      [
+        "Quan cal aturar o revisar",
+        "No signar si la propietat continua sense aclarir. Revisar el model si canvien la capacitat de supervisió o els canals acordats."
+      ]
+    ],
+    "handoffTitle": "Assaja una resposta ambigua abans de comptar una reunió",
+    "reply": "«Això ho porta una altra persona. De què es tracta?»",
+    "handoff": "Registra-la com una derivació oberta, no com una reunió qualificada. Conserva la resposta i el context, verifica el càrrec de la persona indicada, decideix si cal una resposta rellevant i assigna qui la gestiona. Un càrrec, un reenviament o una invitació de calendari no basten per qualificar. Demana mostres anonimitzades amb autorització; no recullis contrasenyes, llistes privades ni dades de contacte innecessàries per a l’exercici.",
+    "ledgerTitle": "Comprova els quatre registres originals darrere de la xifra",
+    "ledgerIntro": "El mateix proveïdor fictici declara «quatre reserves». Revisa les creades en el període fins al dia 16. COUNT-01–04 són identificadors inventats. Una reprogramació conserva la identitat i la data de creació originals: no és una altra reserva.",
+    "ledgerLabels": [
+      "Creació",
+      "Registre fins al dia 16",
+      "Classificació"
+    ],
+    "ledger": [
+      [
+        "COUNT-01",
+        "Dia 10",
+        "Celebrada el dia 15. Consten l’encaix de compte i càrrec i un interès pertinent.",
+        "Celebrada i qualificada. Vendes no ha registrat l’acceptació com a oportunitat."
+      ],
+      [
+        "COUNT-02",
+        "Dia 11",
+        "Prevista per al dia 16; traslladada al dia 18 amb la mateixa identitat original.",
+        "Una reserva original; pendent. Encara no s’ha celebrat ni compta com a qualificada celebrada."
+      ],
+      [
+        "COUNT-03",
+        "Dia 12",
+        "Cancel·lada el dia 14 abans de la reunió del dia 15.",
+        "Una reserva original; cancel·lada. No celebrada."
+      ],
+      [
+        "COUNT-04",
+        "Dia 13",
+        "Celebrada el dia 16, però la persona no compleix els criteris de comprador acordats.",
+        "Celebrada; no qualificada per a aquest encàrrec."
+      ]
+    ],
+    "totalsTitle": "Què permeten afirmar els registres",
+    "totals": "4 reserves originals; 2 reunions celebrades; 1 reunió qualificada celebrada; 1 reunió reprogramada encara pendent; 1 reserva cancel·lada. Es desconeixen les oportunitats i els ingressos. Les categories se solapen: la reunió qualificada forma part de les dues celebrades, no és una reunió addicional.",
+    "ledgerLimit": "Aquest exemple petit i incomplet no és una referència de conversió ni una previsió. Compara grups amb les mateixes dates originals de creació, data de tall i regles de qualificació. Demana al proveïdor que reprodueixi la xifra amb registres anonimitzats i autoritzats, i documenta les discrepàncies. Un total en un tauler no les resol.",
+    "routeTitle": "Tria el següent pas segons el dubte pendent",
+    "routeIntro": "Decideix el model abans de jutjar proveïdors. Si encaixa, examina com es faria la feina; si el dubte és el cost, compara propostes completes.",
+    "links": [
+      [
+        "/compare/outsourced-sdr-vs-in-house-sdr/",
+        "Compara un servei externalitzat amb un SDR intern"
+      ],
+      [
+        "/services/outsourced-sdr/",
+        "Mira un exemple de prospecció gestionada i traspàs a vendes"
+      ],
+      [
+        "/guides/outsourced-sdr-cost/",
+        "Compara els costos totals d’SDR externs"
+      ]
+    ],
+    "cta1": [
+      "Necessites decidir quina feina delegar?",
+      "Una trucada d’avaluació permet aclarir la segmentació, les aprovacions i la feina comercial que conserves. Porta el dubte concret del teu encàrrec."
+    ],
+    "cta2": [
+      "Ja tens un encàrrec de prospecció definit?",
+      "Valora si una campanya d’email i/o LinkedIn dirigida pel fundador encaixa. Les trucades i un SDR dedicat requereixen un abast diferent."
+    ],
+    "checkTitle": "Proves que cal demanar a un finalista",
+    "jump": "Mira l’exercici de compra complet",
+    "serviceLabel": "Abast de la prospecció gestionada per Beespoke →",
+    "exitTitle": "Acorda la revisió i la finalització abans de signar",
+    "exitText": "Examina una exportació amb identificadors de compte, versions de missatges, respostes i estats. Acorda la data de revisió, les proves per continuar, el preavís i qui pot revocar accessos. Revisa la decisió si no es demostren la cobertura o la propietat promeses.",
+    "editorial": {
+      "verify-the-people-who-will-perform-the-work": [
+        "Comprova qui farà la feina",
+        [
+          "Una marca no indica qui investiga comptes, redacta, envia, gestiona respostes o participa en les revisions. Pregunta per funcions, ubicació, experiència, capacitat, substitucions i nombre de clients per responsable.",
+          "Demana una mostra autoritzada i anonimitzada: per què es va triar el compte, quins indicis es van fer servir, a qui es va contactar, quin missatge es va enviar i com es va decidir la qualificació. Un tauler d’activitat no basta."
+        ],
+        [
+          "Responsable del servei i de les incidències",
+          "Persones a càrrec de recerca, redacció, enviaments i respostes",
+          "Càrrega aproximada de clients per funció",
+          "Formació i supervisió",
+          "Substitució i continuïtat",
+          "Aprovacions que corresponen al client"
+        ]
+      ],
+      "normalize-scope-and-pricing": [
+        "Compara el mateix abast abans de mirar el preu",
+        [
+          "Una proposta pot aportar un SDR dedicat; una altra, una campanya gestionada, reunions o programari. Identifica la feina i la capacitat incloses abans de comparar imports.",
+          "Anota posada en marxa, termini mínim, eines, dades, dominis o perfils, capacitat per canal, càrrecs fixos i variables, temps del client, fet que genera el cobrament i cancel·lació. Registra a part les reunions celebrades dins del perfil acordat i les oportunitats acceptades."
+        ],
+        []
+      ],
+      "test-qualification-and-sales-handoff": [
+        "Prova la qualificació i el traspàs a vendes",
+        [
+          "Demana que s’avaluï una reunió hipotètica amb els criteris de la proposta. Comprova si es distingeix un càrrec de la responsabilitat de compra i com es documenten interès, moment i rellevància comercial.",
+          "El traspàs ha d’incloure context, missatges, càrrec, necessitat expressada, notes de qualificació, estat de la reserva i compromisos assumits. Vendes ha de poder acceptar o rebutjar una oportunitat amb motius documentats.",
+          "Una reserva no equival a una reunió qualificada; una reunió qualificada tampoc equival automàticament a una oportunitat comercial."
+        ],
+        []
+      ],
+      "protect-data-accounts-and-learning": [
+        "Protegeix dades, comptes i aprenentatge",
+        [
+          "Confirma quins CRM, bústies, perfils, telèfons i fonts es fan servir i a qui pertanyen. Acorda accessos, afirmacions autoritzades, peticions de no contacte, gestió d’incidències i retorn de dades.",
+          "Conserva un historial revisable dels criteris de selecció, missatges, respostes, resultats i decisions. Sense aquest registre serà difícil aprofitar l’aprenentatge o continuar amb un altre equip."
+        ],
+        [
+          "CRM accessible o exportació utilitzable",
+          "Procedència de comptes i contactes",
+          "Missatges i afirmacions aprovats",
+          "Retirada d’accessos i transferència segura dels actius",
+          "Estats de resposta i motius de descart",
+          "Conclusions en acabar el servei"
+        ]
+      ]
+    },
+    "faqs": [
+      [
+        "Quina és la millor empresa d’SDR externs?",
+        "Cap proveïdor és el millor per a tothom. Compara model, canals, mercats, equip, qualificació i condicions amb la feina que necessites, i comprova com s’executa."
+      ],
+      [
+        "Com es van triar les empreses de la llista?",
+        "Anuncien serveis d’SDR, concertació de reunions o captació B2B relacionats i van aparèixer a les fonts revisades. La inclusió no és de pagament, no certifica resultats i no estableix un ordre de qualitat."
+      ],
+      [
+        "Quant cobren les empreses d’SDR externs?",
+        "Depèn de la dedicació del personal, mercats, canals, dades, gestió i resultats inclosos. Compara el cost total i fes servir el mateix criteri de reunió qualificada celebrada."
+      ],
+      [
+        "Beespoke apareix primer perquè publica la pàgina?",
+        "No. Beespoke declara el seu interès comercial i apareix com una opció en una llista sense classificació. Tria un altre proveïdor si la seva escala, canals o model encaixen millor."
+      ]
+    ],
+    "checkSteps": [
+      "Parla amb qui dirigeix el servei, a més de vendes.",
+      "Revisa una mostra abans de signar.",
+      "Acorda una prova amb criteris per continuar o aturar.",
+      "Demana referències del mateix model de servei que contractaràs."
+    ],
+    "checkHeads": [
+      "Àrea",
+      "Pregunta",
+      "Prova necessària"
+    ],
+    "checkRows": [
+      [
+        "Equip",
+        "Qui treballa al compte?",
+        "Funcions, experiència, ubicació i capacitat"
+      ],
+      [
+        "Mercat",
+        "Com s’aprova la segmentació?",
+        "Justificació de comptes, exclusions i revisió"
+      ],
+      [
+        "Resultat",
+        "Què compta com a qualificat?",
+        "Criteris escrits d’acceptació i cobrament"
+      ],
+      [
+        "Control",
+        "Què pot revisar el client?",
+        "CRM, missatges, respostes i historial de proves"
+      ],
+      [
+        "Risc",
+        "Com es gestionen dades, plataformes i afirmacions?",
+        "Accessos, procedència, no contacte i incidències"
+      ],
+      [
+        "Finalització",
+        "Què conserva el client?",
+        "Clàusules d’exportació, propietat i traspàs"
+      ]
+    ]
+  },
+  "fr": {
+    "updated": "Mis à jour le 11 novembre 2026",
+    "caption": "Positionnement des prestataires : vérifications datées, sans évaluation des résultats",
+    "providerNote": "Le tableau conserve la vérification du 15 octobre 2026, sauf la correction de memoryBlue approuvée le 4 novembre et la description actuelle de Beespoke du 11 novembre. La révision de cet article ne signifie pas que tous les prestataires ont été revérifiés aujourd’hui. Confirmez par écrit la prestation et les conditions actuelles. La liste est non rémunérée et sans classement ; Beespoke vend un service concurrent. Les références antérieures conservent leurs dates d’août.",
+    "archive": "Télécharger la vérification archivée du 15 octobre (JSON) →",
+    "ownScope": "Prospection gérée par le fondateur, par email et/ou LinkedIn ; 1 500 USD/mois ou 1 500 EUR/mois en Europe ; engagement minimum de trois mois. Logiciels et données nécessaires en supplément ; appels sur devis séparé.",
+    "ownCheck": "Capacité et canaux convenus ; le client assure les rendez-vous commerciaux, les propositions et la conclusion des ventes. Aucun SDR dédié à temps plein ni volume de rendez-vous garanti n’est inclus.",
+    "gateIntro": "Avant de choisir des finalistes, classez chaque exigence essentielle : démontrée, à clarifier ou incompatibilité confirmée. Une note globale ne résout pas une condition essentielle non vérifiée.",
+    "gateEnd": "Comparez le coût complet sur la même période une fois le périmètre essentiel clarifié. Une question sans réponse appelle une clarification ; elle ne prouve pas une mauvaise prestation.",
+    "title": "Exercice complet : trois propositions, un choix provisoire",
+    "fiction": "Exercice d’achat entièrement fictif. Aucune option ne représente un prestataire, client ou prospect réel. Les données et résultats sont inventés pour expliquer une décision, pas pour prévoir des performances.",
+    "briefTitle": "Partez du travail que votre équipe ne peut pas assurer",
+    "brief": "Un petit éditeur B2B vend aux responsables des opérations. Il dispose d’un CRM et d’une personne qui assure les rendez-vous commerciaux, mais personne ne recherche les comptes ni ne trie les réponses. Les premiers canaux convenus sont l’email et LinkedIn. L’équipe peut valider le ciblage et répondre aux questions produit ; elle ne peut pas encadrer un SDR dédié au quotidien.",
+    "criteria": [
+      [
+        "Travail à déléguer",
+        "Recherche de comptes, messages pertinents pour chaque personne, envois autorisés et tri des réponses."
+      ],
+      [
+        "Contribution du client",
+        "Valider les fonctions, marchés et exclusions ; répondre aux questions produit ; assurer les rendez-vous et conclure les ventes."
+      ],
+      [
+        "Rendez-vous qualifié",
+        "La personne a la responsabilité d’achat convenue, correspond aux critères approuvés, exprime un intérêt pertinent et participe effectivement. Enregistrez séparément l’acceptation comme opportunité."
+      ],
+      [
+        "Preuves avant signature",
+        "Démonstration du responsable de la prestation, relais en cas d’absence, exemple de fiche CRM et export avec conditions de retrait des accès."
+      ]
+    ],
+    "proposalsTitle": "Lisez les propositions, puis décidez",
+    "evidenceLabel": "Éléments de cette proposition fictive",
+    "decisionLabel": "Décision pour ce brief",
+    "nextLabel": "Ce qui ferait changer la décision",
+    "proposals": [
+      [
+        "Campagne gérée",
+        "Le responsable proposé montre la recherche et le tri des réponses dans une fiche CRM fictive et désigne un relais. L’acheteur valide les listes et assure les rendez-vous. La propriété de l’export est mentionnée, mais aucun exemple ni clause de sortie n’est fourni.",
+        "Conserver comme finaliste sous condition. Le travail correspond ; la sortie reste à vérifier. La démonstration seule ne suffit pas pour signer.",
+        "Demander au responsable un export utilisable et les conditions écrites de propriété, de retrait des accès et de préavis. Ne valider l’exigence qu’après examen."
+      ],
+      [
+        "SDR dédié",
+        "La proposition fournit un SDR, mais laisse au client l’encadrement quotidien, la recherche des listes et les réponses nécessitant un arbitrage. L’acheteur n’a personne pour diriger ce travail.",
+        "Écarter pour le brief actuel : incompatibilité de responsabilités confirmée. Cela ne prouve pas que le prestataire exécute mal le service qu’il propose.",
+        "Réexaminer si l’acheteur désigne un responsable et finance le travail conservé, ou si le prestataire modifie le périmètre par écrit."
+      ],
+      [
+        "Soutien téléphonique",
+        "La proposition couvre les appels et leur suivi. Elle ne couvre ni l’email/LinkedIn convenu, ni la recherche, ni les réponses des boîtes mail.",
+        "Écarter pour le brief actuel : l’achat ne comble pas le manque. Un volume d’appels ne démontre pas la capacité sur les canaux absents.",
+        "Revoir le brief uniquement si les appels deviennent un besoin convenu. Confirmer langue, marché, besoin de personnes de langue maternelle et coût séparé avant de comparer ce périmètre."
+      ]
+    ],
+    "decisionTitle": "La fiche de décision remplie",
+    "decisionRows": [
+      [
+        "Choix provisoire",
+        "La campagne gérée reste finaliste ; le contrat n’est pas attribué."
+      ],
+      [
+        "Exigence non résolue",
+        "Export et sortie : aucun exemple ni clause n’a été examiné."
+      ],
+      [
+        "Prochain responsable",
+        "Le responsable commercial de l’acheteur demande les pièces au responsable de la prestation."
+      ],
+      [
+        "Quand arrêter ou réexaminer",
+        "Ne pas signer si la propriété reste indéterminée. Revoir le modèle si la capacité d’encadrement ou les canaux convenus changent."
+      ]
+    ],
+    "handoffTitle": "Testez une réponse ambiguë avant de compter un rendez-vous",
+    "reply": "« Quelqu’un d’autre s’en occupe. De quoi s’agit-il ? »",
+    "handoff": "Enregistrez une orientation à traiter, pas un rendez-vous qualifié. Gardez la réponse et son contexte, vérifiez la fonction de la personne indiquée, décidez si une réponse pertinente se justifie et désignez qui s’en charge. Un titre, un transfert d’email ou une invitation ne suffit pas à qualifier. Demandez des exemples anonymisés avec autorisation ; ne recueillez ni mots de passe, ni listes privées, ni coordonnées inutiles pour cet exercice.",
+    "ledgerTitle": "Vérifiez les quatre réservations dans leurs fiches d’origine",
+    "ledgerIntro": "Le même prestataire fictif annonce « quatre réservations ». Examinez les réservations créées dans la période jusqu’au jour 16. COUNT-01–04 sont des identifiants inventés. Un report conserve l’identité et la date de création d’origine : ce n’est pas une nouvelle réservation.",
+    "ledgerLabels": [
+      "Création",
+      "Fiche au jour 16",
+      "Classement"
+    ],
+    "ledger": [
+      [
+        "COUNT-01",
+        "Jour 10",
+        "Rendez-vous tenu au jour 15. L’adéquation du compte, de la fonction et l’intérêt pertinent sont documentés.",
+        "Tenu et qualifié. L’équipe commerciale n’a pas enregistré d’acceptation comme opportunité."
+      ],
+      [
+        "COUNT-02",
+        "Jour 11",
+        "Prévu au jour 16 ; déplacé au jour 18 avec la même identité d’origine.",
+        "Une réservation initiale ; en attente. Pas encore tenu ni compté comme qualifié et tenu."
+      ],
+      [
+        "COUNT-03",
+        "Jour 12",
+        "Annulé au jour 14 avant le rendez-vous du jour 15.",
+        "Une réservation initiale ; annulée. Non tenu."
+      ],
+      [
+        "COUNT-04",
+        "Jour 13",
+        "Tenu au jour 16, mais la personne ne correspond pas aux critères d’acheteur convenus.",
+        "Tenu ; non qualifié selon ce brief."
+      ]
+    ],
+    "totalsTitle": "Ce que les fiches permettent réellement d’affirmer",
+    "totals": "4 réservations initiales ; 2 rendez-vous tenus ; 1 rendez-vous qualifié et tenu ; 1 rendez-vous reporté encore en attente ; 1 réservation annulée. Opportunités et revenus restent inconnus. Les catégories se recoupent : le rendez-vous qualifié fait partie des deux rendez-vous tenus, il ne s’y ajoute pas.",
+    "ledgerLimit": "Ce petit exemple inachevé n’est ni une référence de conversion ni une prévision. Comparez des groupes ayant les mêmes dates de création d’origine, date de clôture de l’observation et règles de qualification. Demandez au prestataire de reproduire son chiffre à partir de fiches anonymisées et autorisées, et documentez les désaccords. Un total dans un tableau de bord ne les résout pas.",
+    "routeTitle": "Choisissez la prochaine étape selon le doute à lever",
+    "routeIntro": "Choisissez le modèle avant de juger les prestataires. S’il convient, examinez l’exécution concrète ; si le coût reste incertain, comparez des propositions complètes.",
+    "links": [
+      [
+        "/compare/outsourced-sdr-vs-in-house-sdr/",
+        "Comparer un service externalisé avec un SDR interne"
+      ],
+      [
+        "/services/outsourced-sdr/",
+        "Voir un exemple de prospection gérée et de passage aux ventes"
+      ],
+      [
+        "/guides/outsourced-sdr-cost/",
+        "Comparer les coûts complets des SDR externalisés"
+      ]
+    ],
+    "cta1": [
+      "Besoin de préciser le travail à déléguer ?",
+      "Un appel d’évaluation permet de clarifier ciblage, validations et responsabilités commerciales conservées. Apportez la question encore ouverte dans votre brief."
+    ],
+    "cta2": [
+      "Votre brief de prospection est déjà clair ?",
+      "Voyons si une campagne email et/ou LinkedIn gérée par le fondateur convient. Les appels et un SDR dédié relèvent d’un périmètre distinct."
+    ],
+    "checkTitle": "Les preuves à demander à un finaliste",
+    "jump": "Voir l’exercice d’achat complet",
+    "serviceLabel": "Périmètre de la prospection gérée par Beespoke →",
+    "exitTitle": "Fixez le bilan et la sortie avant de signer",
+    "exitText": "Examinez un export avec identifiants de compte, versions des messages, réponses et statuts. Convenez de la date de bilan, des preuves nécessaires pour poursuivre, du préavis et de la personne qui peut révoquer les accès. Réexaminez le choix si le relais ou la propriété annoncés ne sont pas démontrés.",
+    "editorial": {
+      "verify-the-people-who-will-perform-the-work": [
+        "Vérifiez qui fera le travail",
+        [
+          "Une marque ne dit pas qui recherche les comptes, rédige, envoie, traite les réponses ou participe aux bilans. Demandez les fonctions, lieux, niveaux d’expérience, capacités, modalités de remplacement et nombre de clients par responsable.",
+          "Demandez un exemple autorisé et anonymisé : raison du choix du compte, indices utilisés, personne contactée, message envoyé et décision de qualification. Un tableau d’activité ne suffit pas."
+        ],
+        [
+          "Responsable de la prestation et des incidents",
+          "Personnes chargées de la recherche, de la rédaction, des envois et des réponses",
+          "Nombre approximatif de clients par fonction",
+          "Formation et encadrement",
+          "Remplacement et continuité",
+          "Validations à la charge du client"
+        ]
+      ],
+      "normalize-scope-and-pricing": [
+        "Comparez le même périmètre avant les prix",
+        [
+          "Une proposition peut fournir un SDR dédié ; une autre, une campagne gérée, des rendez-vous ou un logiciel. Identifiez le travail et la capacité inclus avant de comparer les montants.",
+          "Notez mise en place, engagement minimum, outils, données, domaines ou profils, capacité par canal, frais fixes et variables, temps du client, événement déclenchant la facturation et résiliation. Distinguez les rendez-vous tenus dans la cible convenue des opportunités acceptées."
+        ],
+        []
+      ],
+      "test-qualification-and-sales-handoff": [
+        "Testez la qualification et le passage aux ventes",
+        [
+          "Demandez l’évaluation d’un rendez-vous fictif selon les critères de la proposition. Vérifiez que l’équipe distingue un titre d’une responsabilité d’achat et documente intérêt, calendrier et pertinence commerciale.",
+          "Le passage aux ventes doit inclure contexte, messages, fonction, besoin exprimé, notes de qualification, statut de la réservation et engagements pris. Les ventes doivent pouvoir accepter ou refuser une opportunité avec des motifs documentés.",
+          "Une réservation n’est pas un rendez-vous qualifié ; un rendez-vous qualifié n’est pas automatiquement une opportunité commerciale."
+        ],
+        []
+      ],
+      "protect-data-accounts-and-learning": [
+        "Protégez les données, les comptes et les enseignements",
+        [
+          "Confirmez les CRM, boîtes mail, profils, numéros et sources utilisés ainsi que leur propriétaire. Convenez des accès, affirmations autorisées, demandes de ne plus être contacté, gestion des incidents et restitution des données.",
+          "Gardez un historique consultable des critères de sélection, messages, réponses, résultats et décisions. Sans ce relevé, il sera difficile d’exploiter les enseignements ou de poursuivre avec une autre équipe."
+        ],
+        [
+          "CRM accessible ou export exploitable",
+          "Origine des comptes et des contacts",
+          "Messages et affirmations approuvés",
+          "Retrait des accès et transfert sécurisé des actifs",
+          "Statuts des réponses et motifs de disqualification",
+          "Enseignements à la fin de la prestation"
+        ]
+      ]
+    },
+    "faqs": [
+      [
+        "Quel est le meilleur prestataire de SDR externalisés ?",
+        "Aucun prestataire ne convient à tous. Comparez modèle, canaux, marchés, équipe, qualification et conditions avec le travail à assurer, puis vérifiez l’exécution."
+      ],
+      [
+        "Comment les entreprises de cette liste ont-elles été choisies ?",
+        "Elles annoncent des services de SDR, de prise de rendez-vous ou de génération de leads B2B connexes et figuraient dans les sources examinées. L’inclusion est non rémunérée, ne certifie pas les résultats et n’établit aucun classement."
+      ],
+      [
+        "Combien coûtent les prestataires de SDR externalisés ?",
+        "Le coût dépend de la disponibilité de l’équipe, des marchés, canaux, données, encadrement et résultats inclus. Comparez le coût complet avec la même définition d’un rendez-vous qualifié et tenu."
+      ],
+      [
+        "Beespoke est-il placé en tête parce qu’il publie la page ?",
+        "Non. Beespoke déclare son intérêt commercial et figure comme une option dans une liste sans classement. Choisissez un autre prestataire si sa taille, ses canaux ou son modèle conviennent mieux."
+      ]
+    ],
+    "checkSteps": [
+      "Rencontrez le responsable de la prestation, en plus des ventes.",
+      "Examinez un exemple de travail avant signature.",
+      "Convenez d’un test avec des critères de poursuite et d’arrêt.",
+      "Demandez des références portant sur le même modèle de prestation."
+    ],
+    "checkHeads": [
+      "Domaine",
+      "Question",
+      "Preuve attendue"
+    ],
+    "checkRows": [
+      [
+        "Équipe",
+        "Qui travaille sur le compte ?",
+        "Fonctions, expérience, localisation et capacité"
+      ],
+      [
+        "Marché",
+        "Comment le ciblage est-il validé ?",
+        "Justification des comptes, exclusions et revue"
+      ],
+      [
+        "Résultat",
+        "Que considère-t-on comme qualifié ?",
+        "Critères écrits d’acceptation et de facturation"
+      ],
+      [
+        "Contrôle",
+        "Que peut examiner le client ?",
+        "CRM, messages, réponses et historique des tests"
+      ],
+      [
+        "Risque",
+        "Comment les données, plateformes et affirmations sont-elles gérées ?",
+        "Accès, provenance, demandes de non-contact et incidents"
+      ],
+      [
+        "Fin du contrat",
+        "Que conserve le client ?",
+        "Clauses d’export, de propriété et de transfert"
+      ]
+    ]
+  }
+}
