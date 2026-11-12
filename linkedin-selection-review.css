@@ -1,0 +1,14 @@
+.linkedin-selection-review .selection-checklist{border:1px solid #cbd5d8;border-radius:8px;background:#fff;color:#182d36;padding:0 20px;margin:24px 0}
+.linkedin-selection-review .selection-checklist>summary{font:inherit;font-weight:650;cursor:pointer;padding:20px 4px;min-height:44px;color:#182d36}
+.linkedin-selection-review [data-agency-proposal-checklist] .proposal-groups{grid-template-columns:1fr;gap:12px}
+.linkedin-selection-review [data-agency-proposal-checklist] fieldset{border-radius:6px;background:#fff;color:#182d36}
+.linkedin-selection-review [data-agency-proposal-checklist] legend{color:#182d36;font-weight:650}
+.linkedin-selection-review [data-agency-proposal-checklist] .proposal-result{border-radius:6px;background:#f2f5f4;color:#182d36;margin-bottom:16px}
+.linkedin-selection-review #selection-brief{display:block;width:100%;max-width:100%;box-sizing:border-box;resize:vertical;background:#fff;color:#182d36;border:1px solid #bdc9ce;border-radius:6px;font:inherit;line-height:1.7;padding:18px;margin:12px 0 26px}
+.linkedin-selection-review .table-wrap{max-width:100%;overflow-x:auto;margin:24px 0}
+.linkedin-selection-review .table-wrap:focus-visible,.linkedin-selection-review summary:focus-visible,.linkedin-selection-review textarea:focus-visible{outline:3px solid #166c69;outline-offset:4px}
+.linkedin-selection-review .selection-source{overflow-wrap:anywhere}
+.linkedin-selection-review section{scroll-margin-top:110px}
+@media(max-width:600px){.linkedin-selection-review .selection-checklist{padding:0 12px}.linkedin-selection-review [data-agency-proposal-checklist] fieldset{padding:14px}.linkedin-selection-review .table-wrap table{min-width:600px}}
+
+.linkedin-selection-review #linkedin-agency-score{background:transparent;border:0;padding:0;box-shadow:none;color:inherit}

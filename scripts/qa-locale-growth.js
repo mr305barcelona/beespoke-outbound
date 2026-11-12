@@ -9,6 +9,7 @@ const esc = value => value.replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 for(const [route,priorCopy] of Object.entries(growth.pages)) {
   const copy={...priorCopy,...(require('../data/query-improvements-20261026.json').find(row=>row.path===route)||{}),...(require('../data/buyer-clarity-20261027').metadata[route]||{})};
   if(route==='/es/guides/appointment-setting-pricing/')copy.faqs=require('../data/appointment-pricing-review-20261112.json').es.faqs.map(([q,a])=>({q,a}));
+  if(route.includes('/guides/best-linkedin-lead-generation-agencies/'))copy.faqs=[...copy.faqs,...require('../data/linkedin-selection-review-'+copy.locale+'-20261112').extraFaq.map(([q,a])=>({q,a}))];
   const html=fs.readFileSync(path.join(root,route,'index.html'),'utf8').replace(/&#39;/g,"'");
   assert(html.includes(`<title>${esc(copy.title)}</title>`));
   assert.equal((html.match(/<h1>/g)||[]).length,1);
@@ -36,6 +37,7 @@ for(const [route,priorCopy] of Object.entries(growth.pages)) {
   // Full-pipeline byte stability is checked for this release; later owner/editorial layers intentionally follow growth.apply.
 }
 for(const [route,link] of Object.entries(growth.links)) {
+  if(route.includes('/guides/best-linkedin-lead-generation-agencies/'))copy.faqs=[...copy.faqs,...require('../data/linkedin-selection-review-'+copy.locale+'-20261112').extraFaq.map(([q,a])=>({q,a}))];
   const html=fs.readFileSync(path.join(root,route,'index.html'),'utf8').replace(/&#39;/g,"'");
   const article=html.match(/<article>([\s\S]*?)<\/article>/)[1];
   assert(article.includes(`href="${link.href}"`));assert(article.includes(`id="${link.id}"`));
