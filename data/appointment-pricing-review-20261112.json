@@ -1,0 +1,988 @@
+{
+  "date": "2026-11-12",
+  "revision": "2026-11-12T12:43:08Z",
+  "en": {
+    "answer": "Appointment-setting pricing depends on the work included and the event that triggers payment: time, a monthly program, a booking or a held meeting. Compare the full cost over the same period and qualification rules. Beespoke’s managed cold email and/or LinkedIn costs USD 1,500/month, or EUR 1,500/month in Europe, with a three-month minimum and no per-meeting fee. Calling and required third-party costs are separate.",
+    "updated": "Updated November 12, 2026",
+    "jump": "Compare two quotes",
+    "historical": "Historical price context — not a current market average",
+    "models": [
+      "What each appointment-setting pricing model buys",
+      "A pricing model defines the invoice, not the quality of the service. A retainer can fund careful work or unproductive activity; a per-meeting contract can reward useful conversations or calendar volume. Inspect the scope and the acceptance rule together.",
+      [
+        "Model",
+        "Invoice trigger",
+        "What to resolve"
+      ],
+      [
+        [
+          "Monthly retainer",
+          "An agreed period of managed work",
+          "Channels, research, reply handling, capacity, tools and review responsibilities. A monthly fee does not imply a full-time SDR."
+        ],
+        [
+          "Per booked meeting",
+          "A calendar booking under the contract",
+          "Whether cancellations, no-shows, duplicates and off-target bookings still bill."
+        ],
+        [
+          "Per held meeting",
+          "An attended meeting under the contract",
+          "Attendance alone does not establish buyer fit. State the qualification rule and evidence."
+        ],
+        [
+          "Hybrid",
+          "Base fee plus a defined variable fee",
+          "Minimum spend, which work the base covers, the variable trigger and any spending cap."
+        ],
+        [
+          "Hourly or project fee",
+          "Time worked or a defined project",
+          "Who supplies targeting, data, messaging and supervision; what happens when the project ends."
+        ],
+        [
+          "Per lead",
+          "A contact or inquiry meeting a definition",
+          "A lead is not necessarily a booked meeting. Add the work and cost of turning it into one."
+        ]
+      ]
+    ],
+    "drivers": [
+      "Why the same meeting can involve different work",
+      "Translate a higher quote into specific tasks. A narrow account list, a technical buyer, several markets or a stricter acceptance rule can require more research and coordination. A high price does not prove better execution; a low price does not establish poor quality.",
+      [
+        "Target: buyer responsibility, account scarcity, exclusions and technical context.",
+        "Channel: email infrastructure, LinkedIn account access or separately staffed calling.",
+        "Coverage: languages, time zones and the people actually handling replies.",
+        "Quality: fit checks, stated interest, attendance, handoff notes and dispute review.",
+        "Governance: data sources, opt-outs, access controls, CRM work and handover."
+      ]
+    ],
+    "budget": [
+      "Compare two complete budgets, not two headline fees",
+      "Fictional planning example. These are invented quotes and outcomes, not market rates, Beespoke packages or client results. All figures are USD for the same three-month period. Taxes are excluded; confirm their actual treatment. Meeting counts cover that whole period.",
+      [
+        "Three-month comparison",
+        "Quote A · retainer",
+        "Quote B · base + bookings"
+      ],
+      [
+        [
+          "Provider fees",
+          "2,200 × 3 = 6,600",
+          "600 × 3 + 24 bookings × 175 = 6,000"
+        ],
+        [
+          "One-time setup",
+          "600",
+          "300"
+        ],
+        [
+          "Tools and data",
+          "180 × 3 = 540",
+          "180 × 3 = 540"
+        ],
+        [
+          "Internal review time, valued as a cost",
+          "150 × 3 = 450",
+          "150 × 3 = 450"
+        ],
+        [
+          "Total cost",
+          "8,190",
+          "7,290"
+        ],
+        [
+          "Original bookings / held meetings",
+          "24 / 16",
+          "24 / 18"
+        ],
+        [
+          "Held meetings accepted as qualified",
+          "12",
+          "9"
+        ],
+        [
+          "Distinct new opportunities",
+          "4",
+          "3"
+        ],
+        [
+          "Cost per held meeting",
+          "511.88",
+          "405.00"
+        ],
+        [
+          "Cost per accepted qualified meeting",
+          "682.50",
+          "810.00"
+        ],
+        [
+          "Cost per new opportunity",
+          "2,047.50",
+          "2,430.00"
+        ]
+      ],
+      "B has the lower total cost and lower cost per held meeting. A costs less per accepted qualified meeting and per opportunity. That does not make A the right purchase: both still need to fit your economics, cash runway and required scope. An accepted qualified meeting and a new sales opportunity are separate decisions.",
+      "Formula: total cost ÷ the relevant count from the same cohort. Add internal time once; do not add an included tool again. Credit only a documented adjustment linked to the original invoice."
+    ],
+    "commitment": [
+      "Check minimum commitment separately from unit cost",
+      "A three-month comparison is not necessarily the full contract. In the fictional example, suppose A requires three months and B one month. Fixed provider fees plus setup commit 7,200 for A and 900 for B before variable charges, external costs and any notice-period fees. Those are different exposures even though both were modeled over three months.",
+      "Ask for the payment calendar, minimum spend, renewal and notice dates, pause terms, treatment of unfinished meetings and the cost of leaving with usable data. Allocating setup across months can help analysis; it does not postpone the payment. A replacement is not a cash refund unless the contract says so."
+    ],
+    "stress": [
+      "Test a weak period before choosing",
+      "Keep A’s fictional 8,190 cost, but reduce accepted qualified meetings from twelve to six. Cost per accepted meeting doubles from 682.50 to 1,365.00. If there are zero accepted meetings, show the spend and zero outcomes; the unit cost is undefined.",
+      "For a per-booking quote, lower attendance can leave the invoice unchanged. For a held-meeting quote, the fee may fall, but setup, minimums and internal work can remain. Ask each provider to price the same downside case. Do not assume a higher fee causes better attendance."
+    ],
+    "economics": [
+      "Work backward from gross profit",
+      "Fictional illustration: a customer contributes 8,000 in first-year gross profit and one in ten accepted qualified meetings becomes a customer. Expected gross profit is 800 per accepted meeting. If you reserve 400 for closing effort, overhead and uncertainty, at most 400 remains for generating that meeting. Neither fictional quote above meets that assumed ceiling.",
+      "This is a conditional planning calculation, not a forecast or ROI claim. Use a supported conversion rate for the same stage, segment and observation window. Do not multiply revenue by a close rate and call the result profit. Keep forecast pipeline, closed revenue and cash collected separate.",
+      "Recent cohorts may not have had time to close. Review targeting, replies and meeting quality while waiting for outcomes to mature; do not declare every open deal a loss or a sale."
+    ],
+    "briefTitle": "Send every provider the same buying brief",
+    "briefIntro": "Use a short, non-confidential brief. Leave unknowns explicit so the provider can explain assumptions rather than quietly change the scope.",
+    "brief": "Target accounts and buyer roles: [describe]\nMarkets, languages and channels: [describe]\nExclude: current customers, active opportunities and [other exclusions]\nA qualified meeting must show: [company fit, role, reason to talk, agreed purpose]\nBillable event and evidence: [booked / held / held and qualified]\nNo-shows, reschedules, duplicates and disputes: [rules and owner]\nEvaluation period and minimum contract: [dates / term]\nFees, setup, tools, data and internal work: [included / separate / unknown]\nData, accounts, messages and exports at exit: [owner and access]\nReview: [date, decision owner and evidence needed]",
+    "decision": [
+      "Before signing, resolve the disputed case",
+      "Use the preserved 12-booking example above. Ask two reviewers to decide whether F-012 bills when it was held but rejected for the wrong role. If their answers differ, clarify the written rule before launch. A guarantee needs a measurable unit, exclusions, evidence, a decision owner, a remedy and a deadline.",
+      [
+        "A cancellation, a reschedule and a duplicate are different records. Keep the original ID when a date moves.",
+        "Qualification evidence should describe company fit, the attendee’s buying responsibility and the actual reason for agreeing to talk. A title alone is insufficient.",
+        "The client accepts or rejects a sales opportunity separately. One opportunity can involve several meetings; count that opportunity once.",
+        "Confirm who owns response handling, reminders, CRM updates, data review and suppression handling. A software subscription does not supply those people."
+      ]
+    ],
+    "own": [
+      "Where Beespoke fits",
+      "The founder-led outbound plan covers cold email and/or LinkedIn at USD 1,500 per month, or EUR 1,500 per month in Europe, with a three-month minimum and no per-meeting fee. Software, data and other required third-party costs are separate unless included in the written scope.",
+      "Beespoke handles targeting, research, individual messaging, authorized campaign setup, replies, qualification and calendar coordination. Your team approves the target lists and provides judgment on fit, then owns discovery, proposals and closing. This is managed execution, not an automatically included full-time SDR or calling team.",
+      "Service delivery is supported in English, Spanish, Catalan and French through the founder. Cold calling is separately quoted for the target market; native callers would be hired where appropriate. No fixed meeting volume or revenue is guaranteed."
+    ],
+    "routeTitle": "Choose the next step that matches the decision",
+    "routes": [
+      [
+        "/services/b2b-appointment-setting/",
+        "See the appointment-setting responsibilities"
+      ],
+      [
+        "/guides/pay-per-meeting-lead-generation/",
+        "Inspect per-meeting contract terms"
+      ],
+      [
+        "/compare/outsourced-sdr-vs-in-house-sdr/",
+        "Compare internal and outsourced capacity"
+      ],
+      [
+        "/pricing/",
+        "Review Beespoke’s current terms"
+      ]
+    ],
+    "faqTitle": "Appointment-setting pricing questions",
+    "faqs": [
+      [
+        "How much does B2B appointment setting cost?",
+        "There is no single comparable rate: providers sell different channels, capacity and billing units. Compare total cost, term and held meetings accepted under the same written criteria. Beespoke’s cold email and/or LinkedIn is USD 1,500/month, or EUR 1,500/month in Europe, with a three-month minimum, no per-meeting fee and separate third-party costs unless included in writing."
+      ],
+      [
+        "Is a booked appointment the same as a held or qualified meeting?",
+        "No. Booked means a calendar booking; held means it took place; accepted as qualified means it passed the agreed criteria. A sales opportunity is a further decision. State which event triggers billing and how cancellations, no-shows, reschedules and disputes are treated."
+      ],
+      [
+        "How do I calculate cost per qualified meeting?",
+        "Add the provider fees, applicable setup, separate tools and data, and internal work for a consistent period. Subtract documented credits. Divide by held meetings accepted as qualified from the same cohort. With zero accepted meetings, the unit cost is undefined, not zero."
+      ],
+      [
+        "How should I compare a quote for Europe, Chile or another market?",
+        "Align target country, language, channels, billing currency and applicable tax treatment. Do not convert a published regional service price as though it were a live exchange rate. Beespoke publishes USD 1,500/month or EUR 1,500/month in Europe; calling depends on a separate market-specific quote."
+      ],
+      [
+        "Does Beespoke charge per appointment or guarantee a number?",
+        "The outbound plan has a flat monthly fee and no per-meeting fee. It covers cold email and/or LinkedIn under agreed scope. Calling and necessary third-party costs are separate. It does not guarantee a fixed number of meetings, opportunities or sales."
+      ],
+      [
+        "Does a monthly quote mean I can cancel after one month?",
+        "No. Check the minimum term, minimum spend, payment schedule, renewal and notice clauses. Beespoke’s outbound plan has a three-month minimum. Your total commitment can differ from the cost shown for a shorter comparison window."
+      ],
+      [
+        "Can I count this month’s bookings against this month’s closed deals?",
+        "Only when the cohort and attribution support that comparison. Track original booking IDs through attendance, qualification and distinct opportunities; allow for the sales cycle. Do not attribute older closes to recent spend simply because both appear in the same calendar month."
+      ]
+    ],
+    "tool": {
+      "title": "Try your two quotes",
+      "open": "Open the optional quote calculator",
+      "intro": "Use one period, one currency and the same meeting definition. Enter fully loaded total cost, including the internal work above. The starting figures reproduce the fictional table; they are not targets or forecasts.",
+      "fields": [
+        "Total cost for the period",
+        "Original bookings",
+        "Held meetings",
+        "Accepted qualified meetings",
+        "Distinct new opportunities"
+      ],
+      "quotes": [
+        "Quote A",
+        "Quote B"
+      ],
+      "currency": "Currency label · no conversion",
+      "compute": "Compare quotes",
+      "reset": "Restore fictional example",
+      "export": "Download comparison CSV",
+      "result": "Comparison results",
+      "rows": [
+        "Cost per booking",
+        "Cost per held meeting",
+        "Cost per accepted qualified meeting",
+        "Cost per new opportunity"
+      ],
+      "na": "Not calculated · zero outcomes",
+      "invalid": "Enter finite, non-negative costs and whole counts. Bookings ≥ held ≥ accepted qualified meetings ≥ distinct new opportunities. Each cost must be at most 100,000,000 and each count at most 100,000.",
+      "privacy": "Calculations stay in this page. No account, email, saving or transmission of your inputs. The CSV contains your numeric assumptions, not evidence of results.",
+      "note": "For this comparison, each distinct new opportunity must have at least one accepted meeting in the cohort. A cheaper unit cost is only one part of the buying decision."
+    },
+    "sourcesNote": "The article and decision examples were revised November 12, 2026. Existing provider prices remain historical references with their original check dates; this revision does not revalidate those rates. Beespoke is the publisher and sells an outbound service. No provider paid for inclusion. Fictional arithmetic is not a market benchmark.",
+    "references": [
+      "Editorial comparison, November 12, 2026: TaskBlink, taskblink.com/blog/appointment-setting-cost; Snipe Outbound, snipeoutbound.com/blog/appointment-setting-cost and its Demo Pipeline Calculator. Used to review buyer questions and tools, not to adopt their rates or performance claims."
+    ]
+  },
+  "es": {
+    "answer": "El precio de concertar reuniones B2B depende del trabajo incluido y de lo que activa el cobro: horas, una cuota mensual, una reserva o una reunión celebrada. Compara el coste completo para el mismo periodo y con los mismos criterios. Beespoke gestiona cold email y/o LinkedIn por 1.500 USD al mes, o 1.500 EUR al mes en Europa, con un mínimo de tres meses y sin tarifa por reunión. Las llamadas y los costes necesarios de terceros se presupuestan aparte.",
+    "updated": "Actualizado el 12 de noviembre de 2026",
+    "jump": "Comparar dos presupuestos",
+    "historical": "Referencia histórica de precios; no es una media actual del mercado",
+    "models": [
+      "Qué compras con cada modelo de precios",
+      "El modelo determina la factura, no la calidad del servicio. Una cuota puede financiar un trabajo cuidadoso o actividad improductiva; una tarifa por reunión puede premiar conversaciones útiles o llenar el calendario. Revisa a la vez el alcance y los criterios de aceptación.",
+      [
+        "Modelo",
+        "Qué activa el cobro",
+        "Qué debes aclarar"
+      ],
+      [
+        [
+          "Cuota mensual",
+          "Un periodo de trabajo gestionado",
+          "Canales, investigación, respuestas, capacidad, herramientas y revisión. Una cuota no implica un SDR a tiempo completo."
+        ],
+        [
+          "Por cita reservada",
+          "Una reserva según el contrato",
+          "Si también se cobran cancelaciones, ausencias, duplicados y citas fuera del perfil."
+        ],
+        [
+          "Por reunión celebrada",
+          "Una reunión a la que asiste el contacto",
+          "La asistencia no demuestra encaje. Define los criterios y las pruebas necesarias."
+        ],
+        [
+          "Híbrido",
+          "Cuota base más una tarifa variable",
+          "Gasto mínimo, trabajo cubierto por la base, resultado facturable y posible límite de gasto."
+        ],
+        [
+          "Por horas o proyecto",
+          "Tiempo trabajado o un proyecto definido",
+          "Quién aporta segmentación, datos, mensajes y supervisión; qué ocurre al terminar."
+        ],
+        [
+          "Por lead",
+          "Un contacto o consulta que cumple una definición",
+          "Un lead no es necesariamente una reunión reservada. Añade el trabajo y coste de convertirlo en una."
+        ]
+      ]
+    ],
+    "drivers": [
+      "Por qué una misma reunión puede exigir un trabajo distinto",
+      "Traduce un presupuesto más alto en tareas concretas. Una lista pequeña, un comprador técnico, varios mercados o criterios más exigentes pueden requerir más investigación y coordinación. Un precio alto no demuestra mejor ejecución; uno bajo no demuestra mala calidad.",
+      [
+        "Perfil: responsabilidad de compra, cuentas disponibles, exclusiones y contexto técnico.",
+        "Canal: infraestructura de email, acceso a LinkedIn o profesionales dedicados a las llamadas.",
+        "Cobertura: idiomas, horarios y personas que gestionan las respuestas.",
+        "Calidad: encaje, interés expresado, asistencia, notas de traspaso y revisión de incidencias.",
+        "Gestión: origen de los datos, bajas, accesos, CRM y entrega de materiales al finalizar."
+      ]
+    ],
+    "budget": [
+      "Compara dos presupuestos completos",
+      "Ejemplo ficticio de planificación. Los presupuestos y resultados son inventados: no son tarifas de mercado, paquetes de Beespoke ni resultados de clientes. Todos los importes están en USD para los mismos tres meses. Se excluyen impuestos; confirma su tratamiento real. Las reuniones corresponden a todo ese periodo.",
+      [
+        "Comparación de tres meses",
+        "Presupuesto A · cuota",
+        "Presupuesto B · base y reservas"
+      ],
+      [
+        [
+          "Honorarios del proveedor",
+          "2.200 × 3 = 6.600",
+          "600 × 3 + 24 reservas × 175 = 6.000"
+        ],
+        [
+          "Puesta en marcha",
+          "600",
+          "300"
+        ],
+        [
+          "Herramientas y datos",
+          "180 × 3 = 540",
+          "180 × 3 = 540"
+        ],
+        [
+          "Tiempo de revisión interna, valorado como coste",
+          "150 × 3 = 450",
+          "150 × 3 = 450"
+        ],
+        [
+          "Coste total",
+          "8.190",
+          "7.290"
+        ],
+        [
+          "Reservas originales / reuniones celebradas",
+          "24 / 16",
+          "24 / 18"
+        ],
+        [
+          "Reuniones celebradas y aceptadas como cualificadas",
+          "12",
+          "9"
+        ],
+        [
+          "Oportunidades nuevas y distintas",
+          "4",
+          "3"
+        ],
+        [
+          "Coste por reunión celebrada",
+          "511,88",
+          "405,00"
+        ],
+        [
+          "Coste por reunión cualificada aceptada",
+          "682,50",
+          "810,00"
+        ],
+        [
+          "Coste por nueva oportunidad",
+          "2.047,50",
+          "2.430,00"
+        ]
+      ],
+      "B tiene menor coste total y por reunión celebrada. A cuesta menos por reunión cualificada aceptada y por oportunidad. Eso no convierte A en la compra adecuada: ambas opciones deben encajar con tus márgenes, tesorería y necesidades. Aceptar una reunión como cualificada y abrir una oportunidad comercial son decisiones distintas.",
+      "Fórmula: coste total dividido por el resultado correspondiente del mismo grupo de reservas. Cuenta el tiempo interno una sola vez y no sumes de nuevo una herramienta incluida. Resta únicamente abonos documentados y vinculados a su factura original."
+    ],
+    "commitment": [
+      "Revisa el compromiso mínimo por separado",
+      "Comparar tres meses no significa cubrir todo el contrato. En el ejemplo ficticio, supongamos que A exige tres meses y B uno. Honorarios fijos más puesta en marcha comprometen 7.200 en A y 900 en B, antes de cargos variables, costes externos y posibles cuotas durante el preaviso. Son exposiciones distintas aunque hayamos calculado tres meses en ambos casos.",
+      "Pide calendario de pagos, gasto mínimo, renovación, preaviso, condiciones de pausa, tratamiento de reuniones pendientes y entrega de datos utilizables al terminar. Repartir la puesta en marcha entre varios meses ayuda al análisis; no retrasa el pago. Una sustitución no es una devolución de dinero salvo que el contrato lo indique."
+    ],
+    "stress": [
+      "Comprueba qué ocurre en un periodo flojo",
+      "Mantén el coste ficticio de A en 8.190, pero reduce las reuniones cualificadas aceptadas de doce a seis. El coste unitario se duplica: de 682,50 a 1.365,00. Con cero reuniones aceptadas, informa de la inversión y del cero; el coste unitario queda indefinido.",
+      "Si se cobra por reserva, una menor asistencia puede dejar la factura igual. Si se cobra por reunión celebrada, la parte variable puede bajar, pero seguirán existiendo puesta en marcha, mínimos y trabajo interno. Pide que ambos proveedores calculen el mismo escenario adverso. Pagar más no garantiza mejor asistencia."
+    ],
+    "economics": [
+      "Parte del beneficio bruto de una venta",
+      "Ejemplo ficticio: un cliente aporta 8.000 de beneficio bruto el primer año y se cierra una venta por cada diez reuniones cualificadas aceptadas. El beneficio esperado por reunión es 800. Si reservas 400 para cierre, estructura e incertidumbre, quedan como máximo 400 para generar esa reunión. Ninguno de los presupuestos ficticios anteriores cumple ese límite supuesto.",
+      "Es un cálculo condicionado para planificar, no una previsión ni una promesa de rentabilidad. Usa una conversión respaldada por datos de la misma fase, segmento y periodo de seguimiento. Multiplicar ingresos por una conversión no da beneficio. Separa pipeline previsto, ventas cerradas y dinero cobrado.",
+      "Las reservas recientes pueden necesitar más tiempo para cerrar. Mientras maduran, revisa segmentación, respuestas y calidad de las reuniones. Una oportunidad abierta no es todavía una venta ni una pérdida."
+    ],
+    "briefTitle": "Envía el mismo briefing a todos los proveedores",
+    "briefIntro": "Usa un documento breve sin información confidencial. Señala lo que no sabes para que cada proveedor explique sus supuestos sin cambiar el alcance en silencio.",
+    "brief": "Empresas y funciones objetivo: [describir]\nMercados, idiomas y canales: [describir]\nExcluir: clientes actuales, oportunidades activas y [otras exclusiones]\nReunión cualificada: [encaje de empresa, función, motivo para hablar y propósito acordado]\nResultado facturable y prueba: [reserva / celebrada / celebrada y cualificada]\nAusencias, cambios de fecha, duplicados e incidencias: [reglas y responsable]\nPeriodo de evaluación y contrato mínimo: [fechas / duración]\nHonorarios, puesta en marcha, herramientas, datos y trabajo interno: [incluido / aparte / desconocido]\nDatos, cuentas, mensajes y exportaciones al finalizar: [propiedad y acceso]\nRevisión: [fecha, responsable y pruebas necesarias]",
+    "decision": [
+      "Resuelve el caso dudoso antes de firmar",
+      "Usa el ejemplo de las doce reservas que se conserva arriba. Pide a dos personas que decidan si F-012 se factura cuando la reunión se celebró pero se rechazó por un cargo fuera del perfil. Si discrepan, aclara la regla antes del lanzamiento. Una garantía necesita una unidad medible, exclusiones, pruebas, responsable, solución y plazo.",
+      [
+        "Una cancelación, un cambio de fecha y un duplicado son situaciones distintas. Conserva el identificador original al mover una cita.",
+        "Las pruebas deben explicar encaje de la empresa, responsabilidad del interlocutor y motivo real para hablar. Un cargo por sí solo no basta.",
+        "El cliente acepta o rechaza la oportunidad por separado. Una oportunidad puede incluir varias reuniones; cuéntala una sola vez.",
+        "Aclara quién gestiona respuestas, recordatorios, CRM, revisión de datos y bajas. Una suscripción de software no aporta esas personas."
+      ]
+    ],
+    "own": [
+      "Dónde encaja Beespoke",
+      "El plan outbound dirigido por el fundador cubre cold email y/o LinkedIn por 1.500 USD al mes, o 1.500 EUR al mes en Europa, con un mínimo de tres meses y sin tarifa por reunión. Software, datos y otros costes necesarios de terceros se pagan aparte salvo inclusión en el alcance escrito.",
+      "Beespoke se ocupa de segmentación, investigación, mensajes individuales, configuración autorizada de campañas, respuestas, cualificación y coordinación de agenda. Tu equipo aprueba las listas y aporta su criterio sobre el encaje; después se encarga de las llamadas comerciales, propuestas y cierre. El servicio no incluye automáticamente un SDR a tiempo completo ni un equipo de llamadas.",
+      "El fundador permite prestar el servicio en inglés, español, catalán y francés. Las llamadas en frío se presupuestan según el mercado objetivo; se contratarían profesionales nativos cuando corresponda. No se garantiza un volumen fijo de reuniones ni de ingresos."
+    ],
+    "routeTitle": "Elige el siguiente paso según tu decisión",
+    "routes": [
+      [
+        "/services/b2b-appointment-setting/",
+        "Ver las responsabilidades del servicio"
+      ],
+      [
+        "/guides/pay-per-meeting-lead-generation/",
+        "Revisar contratos de pago por reunión"
+      ],
+      [
+        "/compare/outsourced-sdr-vs-in-house-sdr/",
+        "Comparar capacidad interna y externa"
+      ],
+      [
+        "/pricing/",
+        "Consultar las condiciones actuales de Beespoke"
+      ]
+    ],
+    "faqTitle": "Preguntas sobre precios de concertación de citas",
+    "faqs": [
+      [
+        "¿Cuánto cuesta la concertación de citas comerciales B2B?",
+        "No existe una tarifa única comparable: cambian los canales, la capacidad y lo que se factura. Compara coste total, duración y reuniones celebradas aceptadas con los mismos criterios. Beespoke gestiona cold email y/o LinkedIn por 1.500 USD al mes, o 1.500 EUR al mes en Europa, con un mínimo de tres meses y sin tarifa por reunión. Los costes de terceros van aparte salvo inclusión escrita."
+      ],
+      [
+        "¿Es lo mismo pagar por cita reservada que por reunión celebrada?",
+        "No. Una reserva es una cita en el calendario; una reunión celebrada ha tenido lugar; una reunión cualificada aceptada cumple los criterios acordados. Abrir una oportunidad es otra decisión. Define qué activa el cobro y cómo se tratan cancelaciones, ausencias, cambios de fecha e incidencias."
+      ],
+      [
+        "¿Cómo se calcula el coste por reunión cualificada?",
+        "Suma honorarios, puesta en marcha aplicable, herramientas, datos y trabajo interno del mismo periodo. Resta abonos documentados. Divide por las reuniones celebradas aceptadas como cualificadas del mismo grupo de reservas. Con cero reuniones aceptadas, el coste queda indefinido; no es cero."
+      ],
+      [
+        "¿Cómo comparo un presupuesto para Chile, España u otro mercado?",
+        "Alinea país objetivo, idioma, canales, moneda e impuestos aplicables. Un precio regional no es una conversión con el tipo de cambio actual. Beespoke publica 1.500 USD al mes o 1.500 EUR al mes en Europa; las llamadas requieren un presupuesto específico del mercado."
+      ],
+      [
+        "¿Beespoke garantiza una cantidad de citas o cobra por cada una?",
+        "El plan outbound tiene cuota mensual y no cobra por reunión. Cubre cold email y/o LinkedIn según el alcance acordado. Las llamadas y los costes necesarios de terceros van aparte. No garantiza una cantidad fija de reuniones, oportunidades ni ventas."
+      ],
+      [
+        "¿Una cuota mensual permite cancelar al terminar el primer mes?",
+        "No necesariamente. Revisa duración mínima, gasto mínimo, pagos, renovación y preaviso. El plan outbound de Beespoke tiene un mínimo de tres meses. El compromiso total puede superar el coste mostrado para un periodo de comparación más corto."
+      ],
+      [
+        "¿Puedo comparar las reservas de este mes con las ventas cerradas este mes?",
+        "Solo si el grupo de reservas y la atribución permiten hacerlo. Sigue los identificadores originales hasta asistencia, cualificación y oportunidades distintas, respetando el ciclo comercial. No atribuyas ventas antiguas a gastos recientes por coincidir en el calendario."
+      ]
+    ],
+    "tool": {
+      "title": "Prueba tus dos presupuestos",
+      "open": "Abrir la calculadora opcional",
+      "intro": "Usa el mismo periodo, moneda y definición de reunión. Introduce el coste completo, incluido el trabajo interno. Los valores iniciales reproducen la tabla ficticia; no son objetivos ni previsiones.",
+      "fields": [
+        "Coste total del periodo",
+        "Reservas originales",
+        "Reuniones celebradas",
+        "Reuniones cualificadas aceptadas",
+        "Oportunidades nuevas y distintas"
+      ],
+      "quotes": [
+        "Presupuesto A",
+        "Presupuesto B"
+      ],
+      "currency": "Moneda de referencia · sin conversión",
+      "compute": "Comparar presupuestos",
+      "reset": "Restaurar el ejemplo ficticio",
+      "export": "Descargar comparación en CSV",
+      "result": "Resultado de la comparación",
+      "rows": [
+        "Coste por reserva",
+        "Coste por reunión celebrada",
+        "Coste por reunión cualificada aceptada",
+        "Coste por nueva oportunidad"
+      ],
+      "na": "Sin cálculo · cero resultados",
+      "invalid": "Introduce costes finitos no negativos y cantidades enteras. Reservas ≥ celebradas ≥ cualificadas aceptadas ≥ oportunidades nuevas. Máximo por coste: 100.000.000; por cantidad: 100.000.",
+      "privacy": "El cálculo se realiza en esta página. No requiere cuenta ni email y no guarda ni transmite tus valores. El CSV contiene supuestos numéricos, no pruebas de resultados.",
+      "note": "En esta comparación, cada oportunidad nueva necesita al menos una reunión aceptada del mismo grupo. El coste unitario es solo una parte de la decisión."
+    },
+    "sourcesNote": "El artículo y los ejemplos se revisaron el 12 de noviembre de 2026. Los precios de proveedores existentes siguen siendo referencias históricas con sus fechas originales; esta revisión no vuelve a verificarlos. Beespoke publica la guía y vende un servicio outbound. Ningún proveedor ha pagado por aparecer. Los cálculos ficticios no son un benchmark del mercado.",
+    "references": [
+      "Comparación editorial del 12 de noviembre de 2026: TaskBlink, taskblink.com/blog/appointment-setting-cost; Snipe Outbound, snipeoutbound.com/blog/appointment-setting-cost y su Demo Pipeline Calculator. Se revisaron preguntas y herramientas, sin adoptar sus tarifas ni afirmaciones de rendimiento."
+    ]
+  },
+  "ca": {
+    "answer": "El preu de concertar reunions B2B depèn de la feina inclosa i de què activa el cobrament: hores, una quota mensual, una reserva o una reunió feta. Compara el cost complet per al mateix període i amb els mateixos criteris. Beespoke gestiona cold email i/o LinkedIn per 1.500 USD al mes, o 1.500 EUR al mes a Europa, amb un mínim de tres mesos i sense tarifa per reunió. Les trucades i els costos necessaris de tercers es pressuposten a part.",
+    "updated": "Actualitzat el 12 de novembre de 2026",
+    "jump": "Compara dos pressupostos",
+    "historical": "Referència històrica de preus; no és una mitjana actual del mercat",
+    "models": [
+      "Què compres amb cada model de preus",
+      "El model determina la factura, no la qualitat del servei. Una quota pot finançar una feina acurada o activitat improductiva; una tarifa per reunió pot premiar converses útils o omplir el calendari. Revisa alhora l’abast i els criteris d’acceptació.",
+      [
+        "Model",
+        "Què activa el cobrament",
+        "Què has d’aclarir"
+      ],
+      [
+        [
+          "Quota mensual",
+          "Un període de feina gestionada",
+          "Canals, recerca, respostes, capacitat, eines i revisió. Una quota no implica un SDR a jornada completa."
+        ],
+        [
+          "Per cita reservada",
+          "Una reserva segons el contracte",
+          "Si també es cobren cancel·lacions, absències, duplicats i cites fora del perfil."
+        ],
+        [
+          "Per reunió feta",
+          "Una reunió amb assistència del contacte",
+          "L’assistència no demostra encaix. Defineix els criteris i les proves necessàries."
+        ],
+        [
+          "Híbrid",
+          "Quota base més una tarifa variable",
+          "Despesa mínima, feina coberta per la base, resultat facturable i possible límit de despesa."
+        ],
+        [
+          "Per hores o projecte",
+          "Temps treballat o un projecte definit",
+          "Qui aporta segmentació, dades, missatges i supervisió; què passa en acabar."
+        ],
+        [
+          "Per lead",
+          "Un contacte o consulta que compleix una definició",
+          "Un lead no és necessàriament una reunió reservada. Afegeix-hi la feina i el cost de convertir-lo en una."
+        ]
+      ]
+    ],
+    "drivers": [
+      "Per què una mateixa reunió pot exigir una feina diferent",
+      "Tradueix un pressupost més alt en tasques concretes. Una llista petita, un comprador tècnic, diversos mercats o criteris més exigents poden requerir més recerca i coordinació. Un preu alt no demostra una millor execució; un de baix no demostra mala qualitat.",
+      [
+        "Perfil: responsabilitat de compra, comptes disponibles, exclusions i context tècnic.",
+        "Canal: infraestructura de correu, accés a LinkedIn o professionals dedicats a les trucades.",
+        "Cobertura: idiomes, horaris i persones que gestionen les respostes.",
+        "Qualitat: encaix, interès expressat, assistència, notes de traspàs i revisió d’incidències.",
+        "Gestió: origen de les dades, baixes, accessos, CRM i lliurament de materials en acabar."
+      ]
+    ],
+    "budget": [
+      "Compara dos pressupostos complets",
+      "Exemple fictici de planificació. Els pressupostos i els resultats són inventats: no són tarifes del mercat, paquets de Beespoke ni resultats de clients. Tots els imports són en USD per als mateixos tres mesos. Se n’exclouen els impostos; confirma’n el tractament real. Les reunions corresponen a tot aquest període.",
+      [
+        "Comparació de tres mesos",
+        "Pressupost A · quota",
+        "Pressupost B · base i reserves"
+      ],
+      [
+        [
+          "Honoraris del proveïdor",
+          "2.200 × 3 = 6.600",
+          "600 × 3 + 24 reserves × 175 = 6.000"
+        ],
+        [
+          "Posada en marxa",
+          "600",
+          "300"
+        ],
+        [
+          "Eines i dades",
+          "180 × 3 = 540",
+          "180 × 3 = 540"
+        ],
+        [
+          "Temps de revisió interna, valorat com a cost",
+          "150 × 3 = 450",
+          "150 × 3 = 450"
+        ],
+        [
+          "Cost total",
+          "8.190",
+          "7.290"
+        ],
+        [
+          "Reserves originals / reunions fetes",
+          "24 / 16",
+          "24 / 18"
+        ],
+        [
+          "Reunions fetes i acceptades com a qualificades",
+          "12",
+          "9"
+        ],
+        [
+          "Oportunitats noves i diferents",
+          "4",
+          "3"
+        ],
+        [
+          "Cost per reunió feta",
+          "511,88",
+          "405,00"
+        ],
+        [
+          "Cost per reunió qualificada acceptada",
+          "682,50",
+          "810,00"
+        ],
+        [
+          "Cost per nova oportunitat",
+          "2.047,50",
+          "2.430,00"
+        ]
+      ],
+      "B té un cost total i per reunió feta més baix. A costa menys per reunió qualificada acceptada i per oportunitat. Això no converteix A en la compra adequada: totes dues opcions han d’encaixar amb els marges, la tresoreria i les necessitats. Acceptar una reunió com a qualificada i obrir una oportunitat comercial són decisions diferents.",
+      "Fórmula: cost total dividit pel resultat corresponent del mateix grup de reserves. Compta el temps intern una sola vegada i no tornis a sumar una eina inclosa. Resta només abonaments documentats i vinculats a la factura original."
+    ],
+    "commitment": [
+      "Revisa el compromís mínim per separat",
+      "Comparar tres mesos no vol dir cobrir tot el contracte. En l’exemple fictici, suposem que A exigeix tres mesos i B un. Els honoraris fixos més la posada en marxa comprometen 7.200 a A i 900 a B, abans de càrrecs variables, costos externs i possibles quotes durant el preavís. Són riscos diferents encara que hàgim calculat tres mesos en tots dos casos.",
+      "Demana calendari de pagaments, despesa mínima, renovació, preavís, condicions de pausa, tractament de reunions pendents i lliurament de dades utilitzables en acabar. Repartir la posada en marxa entre diversos mesos ajuda a analitzar; no ajorna el pagament. Una substitució no és una devolució de diners si el contracte no ho diu."
+    ],
+    "stress": [
+      "Comprova què passa en un període fluix",
+      "Mantén el cost fictici d’A en 8.190, però redueix les reunions qualificades acceptades de dotze a sis. El cost unitari es duplica: de 682,50 a 1.365,00. Amb zero reunions acceptades, informa de la despesa i del zero; el cost unitari queda indefinit.",
+      "Si es cobra per reserva, una assistència més baixa pot deixar la factura igual. Si es cobra per reunió feta, la part variable pot baixar, però continuen existint posada en marxa, mínims i feina interna. Demana que tots dos proveïdors calculin el mateix escenari advers. Pagar més no garanteix una millor assistència."
+    ],
+    "economics": [
+      "Parteix del benefici brut d’una venda",
+      "Exemple fictici: un client aporta 8.000 de benefici brut el primer any i es tanca una venda per cada deu reunions qualificades acceptades. El benefici esperat per reunió és 800. Si reserves 400 per al tancament, l’estructura i la incertesa, queden com a màxim 400 per generar aquella reunió. Cap dels pressupostos ficticis anteriors compleix aquest límit suposat.",
+      "És un càlcul condicionat per planificar, no una previsió ni una promesa de rendibilitat. Fes servir una conversió avalada per dades de la mateixa fase, segment i període de seguiment. Multiplicar ingressos per una conversió no dona benefici. Separa oportunitats previstes, vendes tancades i diners cobrats.",
+      "Les reserves recents poden necessitar més temps per tancar. Mentre maduren, revisa segmentació, respostes i qualitat de les reunions. Una oportunitat oberta encara no és una venda ni una pèrdua."
+    ],
+    "briefTitle": "Envia el mateix document a tots els proveïdors",
+    "briefIntro": "Fes servir un document breu sense informació confidencial. Indica què desconeixes perquè cada proveïdor expliqui els supòsits sense canviar l’abast d’amagat.",
+    "brief": "Empreses i funcions objectiu: [descriu-les]\nMercats, idiomes i canals: [descriu-los]\nExcloure: clients actuals, oportunitats actives i [altres exclusions]\nReunió qualificada: [encaix d’empresa, funció, motiu per parlar i propòsit acordat]\nResultat facturable i prova: [reserva / feta / feta i qualificada]\nAbsències, canvis de data, duplicats i incidències: [regles i responsable]\nPeríode d’avaluació i contracte mínim: [dates / durada]\nHonoraris, posada en marxa, eines, dades i feina interna: [inclòs / a part / desconegut]\nDades, comptes, missatges i exportacions en acabar: [propietat i accés]\nRevisió: [data, responsable i proves necessàries]",
+    "decision": [
+      "Resol el cas dubtós abans de signar",
+      "Fes servir l’exemple de les dotze reserves que es conserva més amunt. Demana a dues persones que decideixin si F-012 es factura quan la reunió es va fer però es va rebutjar pel càrrec del contacte. Si discrepen, aclareix la regla abans del llançament. Una garantia necessita una unitat mesurable, exclusions, proves, responsable, solució i termini.",
+      [
+        "Una cancel·lació, un canvi de data i un duplicat són situacions diferents. Conserva l’identificador original quan mous una cita.",
+        "Les proves han d’explicar l’encaix de l’empresa, la responsabilitat de l’interlocutor i el motiu real per parlar. Un càrrec sol no basta.",
+        "El client accepta o rebutja l’oportunitat per separat. Una oportunitat pot incloure diverses reunions; compta-la una sola vegada.",
+        "Aclareix qui gestiona respostes, recordatoris, CRM, revisió de dades i baixes. Una subscripció de programari no aporta aquestes persones."
+      ]
+    ],
+    "own": [
+      "On encaixa Beespoke",
+      "El pla outbound dirigit pel fundador cobreix cold email i/o LinkedIn per 1.500 USD al mes, o 1.500 EUR al mes a Europa, amb un mínim de tres mesos i sense tarifa per reunió. Programari, dades i altres costos necessaris de tercers es paguen a part si no s’inclouen en l’abast escrit.",
+      "Beespoke s’ocupa de segmentació, recerca, missatges individuals, configuració autoritzada de campanyes, respostes, qualificació i coordinació d’agenda. El teu equip aprova les llistes i aporta criteri sobre l’encaix; després s’encarrega de les converses comercials, propostes i tancament. El servei no inclou automàticament un SDR a jornada completa ni un equip de trucades.",
+      "El fundador permet prestar el servei en anglès, castellà, català i francès. Les trucades en fred es pressuposten segons el mercat objectiu; es contractarien professionals nadius quan correspongués. No es garanteix un volum fix de reunions ni d’ingressos."
+    ],
+    "routeTitle": "Tria el pas següent segons la decisió",
+    "routes": [
+      [
+        "/services/b2b-appointment-setting/",
+        "Consulta les responsabilitats del servei"
+      ],
+      [
+        "/guides/pay-per-meeting-lead-generation/",
+        "Revisa contractes de pagament per reunió"
+      ],
+      [
+        "/compare/outsourced-sdr-vs-in-house-sdr/",
+        "Compara capacitat interna i externa"
+      ],
+      [
+        "/pricing/",
+        "Consulta les condicions actuals de Beespoke"
+      ]
+    ],
+    "faqTitle": "Preguntes sobre preus de concertació de reunions",
+    "faqs": [
+      [
+        "Quant costa la concertació de reunions B2B?",
+        "No hi ha una tarifa única comparable: canvien els canals, la capacitat i què es factura. Compara cost total, durada i reunions fetes acceptades amb els mateixos criteris. Beespoke gestiona cold email i/o LinkedIn per 1.500 USD al mes, o 1.500 EUR al mes a Europa, amb un mínim de tres mesos i sense tarifa per reunió. Els costos de tercers van a part si no s’inclouen per escrit."
+      ],
+      [
+        "És el mateix pagar per cita reservada que per reunió feta?",
+        "No. Una reserva és una cita al calendari; una reunió feta ha tingut lloc; una reunió qualificada acceptada compleix els criteris acordats. Obrir una oportunitat és una altra decisió. Defineix què activa el cobrament i com es tracten cancel·lacions, absències, canvis de data i incidències."
+      ],
+      [
+        "Com es calcula el cost per reunió qualificada?",
+        "Suma honoraris, posada en marxa aplicable, eines, dades i feina interna del mateix període. Resta els abonaments documentats. Divideix per les reunions fetes acceptades com a qualificades del mateix grup de reserves. Amb zero reunions acceptades, el cost queda indefinit; no és zero."
+      ],
+      [
+        "Com comparo un pressupost per a Europa, Xile o un altre mercat?",
+        "Alinea país objectiu, idioma, canals, moneda i impostos aplicables. Un preu regional no és una conversió amb el tipus de canvi actual. Beespoke publica 1.500 USD al mes o 1.500 EUR al mes a Europa; les trucades necessiten un pressupost específic del mercat."
+      ],
+      [
+        "Beespoke garanteix una quantitat de cites o cobra per cadascuna?",
+        "El pla outbound té quota mensual i no cobra per reunió. Cobreix cold email i/o LinkedIn segons l’abast acordat. Les trucades i els costos necessaris de tercers van a part. No garanteix una quantitat fixa de reunions, oportunitats ni vendes."
+      ],
+      [
+        "Una quota mensual permet cancel·lar al final del primer mes?",
+        "No necessàriament. Revisa durada mínima, despesa mínima, pagaments, renovació i preavís. El pla outbound de Beespoke té un mínim de tres mesos. El compromís total pot superar el cost mostrat per a un període de comparació més curt."
+      ],
+      [
+        "Puc comparar les reserves d’aquest mes amb les vendes tancades aquest mes?",
+        "Només si el grup de reserves i l’atribució ho permeten. Segueix els identificadors originals fins a assistència, qualificació i oportunitats diferents, respectant el cicle comercial. No atribueixis vendes antigues a despeses recents perquè coincideixen al calendari."
+      ]
+    ],
+    "tool": {
+      "title": "Prova els teus dos pressupostos",
+      "open": "Obre la calculadora opcional",
+      "intro": "Fes servir el mateix període, moneda i definició de reunió. Introdueix el cost complet, inclosa la feina interna. Els valors inicials reprodueixen la taula fictícia; no són objectius ni previsions.",
+      "fields": [
+        "Cost total del període",
+        "Reserves originals",
+        "Reunions fetes",
+        "Reunions qualificades acceptades",
+        "Oportunitats noves i diferents"
+      ],
+      "quotes": [
+        "Pressupost A",
+        "Pressupost B"
+      ],
+      "currency": "Moneda de referència · sense conversió",
+      "compute": "Compara pressupostos",
+      "reset": "Restaura l’exemple fictici",
+      "export": "Descarrega la comparació en CSV",
+      "result": "Resultat de la comparació",
+      "rows": [
+        "Cost per reserva",
+        "Cost per reunió feta",
+        "Cost per reunió qualificada acceptada",
+        "Cost per nova oportunitat"
+      ],
+      "na": "Sense càlcul · zero resultats",
+      "invalid": "Introdueix costos finits no negatius i quantitats enteres. Reserves ≥ fetes ≥ qualificades acceptades ≥ oportunitats noves. Màxim per cost: 100.000.000; per quantitat: 100.000.",
+      "privacy": "El càlcul es fa en aquesta pàgina. No cal compte ni correu i no desa ni transmet els valors. El CSV conté supòsits numèrics, no proves de resultats.",
+      "note": "En aquesta comparació, cada oportunitat nova necessita almenys una reunió acceptada del mateix grup. El cost unitari és només una part de la decisió."
+    },
+    "sourcesNote": "L’article i els exemples es van revisar el 12 de novembre de 2026. Els preus de proveïdors existents continuen sent referències històriques amb les dates originals; aquesta revisió no els torna a verificar. Beespoke publica la guia i ven un servei outbound. Cap proveïdor ha pagat per aparèixer-hi. Els càlculs ficticis no són una referència de rendiment del mercat.",
+    "references": [
+      "Comparació editorial del 12 de novembre de 2026: TaskBlink, taskblink.com/blog/appointment-setting-cost; Snipe Outbound, snipeoutbound.com/blog/appointment-setting-cost i la seva Demo Pipeline Calculator. Es van revisar preguntes i eines, sense adoptar-ne les tarifes ni les afirmacions de rendiment."
+    ]
+  },
+  "fr": {
+    "answer": "Le tarif de prise de rendez-vous B2B dépend du travail inclus et du fait générateur de la facture : heures, forfait mensuel, réservation ou rendez-vous tenu. Comparez le coût complet sur la même période et avec les mêmes critères. Beespoke gère le cold email et/ou LinkedIn pour 1 500 USD par mois, ou 1 500 EUR par mois en Europe, avec un engagement minimum de trois mois, sans frais par rendez-vous. Les appels et les frais nécessaires de tiers sont facturés séparément.",
+    "updated": "Mis à jour le 12 novembre 2026",
+    "jump": "Comparer deux devis",
+    "historical": "Repère tarifaire historique, pas une moyenne actuelle du marché",
+    "models": [
+      "Ce que vous achetez avec chaque modèle tarifaire",
+      "Le modèle détermine la facture, pas la qualité du service. Un forfait peut financer un travail soigné ou une activité improductive ; une rémunération au rendez-vous peut encourager des échanges utiles ou simplement remplir le calendrier. Examinez ensemble le périmètre et les critères d’acceptation.",
+      [
+        "Modèle",
+        "Déclencheur de facturation",
+        "Point à clarifier"
+      ],
+      [
+        [
+          "Forfait mensuel",
+          "Une période de prestation définie",
+          "Canaux, recherche, réponses, capacité, outils et contrôle. Un forfait ne signifie pas un SDR à temps plein."
+        ],
+        [
+          "Par rendez-vous réservé",
+          "Une réservation selon le contrat",
+          "Facturation éventuelle des annulations, absences, doublons et contacts hors cible."
+        ],
+        [
+          "Par rendez-vous tenu",
+          "Un échange auquel le contact assiste",
+          "La présence ne prouve pas l’adéquation. Précisez les critères et les justificatifs nécessaires."
+        ],
+        [
+          "Hybride",
+          "Forfait de base et part variable",
+          "Dépense minimale, travail couvert par la base, résultat facturable et éventuel plafond."
+        ],
+        [
+          "À l’heure ou au projet",
+          "Du temps de travail ou un projet défini",
+          "Qui fournit ciblage, données, messages et supervision ; ce qui se passe à la fin."
+        ],
+        [
+          "Par lead",
+          "Un contact ou une demande répondant à une définition",
+          "Un lead n’est pas forcément un rendez-vous réservé. Ajoutez le travail et le coût de cette conversion."
+        ]
+      ]
+    ],
+    "drivers": [
+      "Pourquoi un même rendez-vous peut demander un travail différent",
+      "Traduisez un devis plus élevé en tâches précises. Une liste restreinte, un acheteur technique, plusieurs marchés ou des critères plus exigeants peuvent demander davantage de recherche et de coordination. Un prix élevé ne prouve pas une meilleure exécution ; un prix bas ne prouve pas une mauvaise qualité.",
+      [
+        "Cible : responsabilité d’achat, comptes accessibles, exclusions et contexte technique.",
+        "Canal : infrastructure email, accès LinkedIn ou personnes chargées des appels.",
+        "Couverture : langues, horaires et personnes qui traitent réellement les réponses.",
+        "Qualité : adéquation, intérêt exprimé, présence, notes de transmission et examen des litiges.",
+        "Gestion : provenance des données, désinscriptions, accès, CRM et restitution des éléments en fin de mission."
+      ]
+    ],
+    "budget": [
+      "Comparez deux budgets complets",
+      "Exemple fictif de planification. Les devis et résultats sont inventés : ce ne sont ni des tarifs du marché, ni des offres Beespoke, ni des résultats clients. Tous les montants sont en USD pour les mêmes trois mois. Les taxes sont exclues ; vérifiez leur traitement réel. Les rendez-vous couvrent toute cette période.",
+      [
+        "Comparaison sur trois mois",
+        "Devis A · forfait",
+        "Devis B · base et réservations"
+      ],
+      [
+        [
+          "Honoraires du prestataire",
+          "2 200 × 3 = 6 600",
+          "600 × 3 + 24 réservations × 175 = 6 000"
+        ],
+        [
+          "Mise en place",
+          "600",
+          "300"
+        ],
+        [
+          "Outils et données",
+          "180 × 3 = 540",
+          "180 × 3 = 540"
+        ],
+        [
+          "Temps de contrôle interne, valorisé en coût",
+          "150 × 3 = 450",
+          "150 × 3 = 450"
+        ],
+        [
+          "Coût total",
+          "8 190",
+          "7 290"
+        ],
+        [
+          "Réservations initiales / rendez-vous tenus",
+          "24 / 16",
+          "24 / 18"
+        ],
+        [
+          "Rendez-vous tenus et acceptés comme qualifiés",
+          "12",
+          "9"
+        ],
+        [
+          "Nouvelles opportunités distinctes",
+          "4",
+          "3"
+        ],
+        [
+          "Coût par rendez-vous tenu",
+          "511,88",
+          "405,00"
+        ],
+        [
+          "Coût par rendez-vous qualifié accepté",
+          "682,50",
+          "810,00"
+        ],
+        [
+          "Coût par nouvelle opportunité",
+          "2 047,50",
+          "2 430,00"
+        ]
+      ],
+      "B coûte moins cher au total et par rendez-vous tenu. A coûte moins par rendez-vous qualifié accepté et par opportunité. Cela ne suffit pas à choisir A : les deux options doivent aussi respecter vos marges, votre trésorerie et le périmètre nécessaire. Accepter un rendez-vous comme qualifié et ouvrir une opportunité commerciale sont deux décisions distinctes.",
+      "Formule : coût total divisé par le résultat correspondant dans le même groupe de réservations. Comptez le temps interne une seule fois et ne rajoutez pas un outil déjà inclus. Déduisez uniquement les avoirs justifiés et rattachés à leur facture initiale."
+    ],
+    "commitment": [
+      "Vérifiez séparément l’engagement minimum",
+      "Comparer trois mois ne couvre pas forcément tout le contrat. Dans l’exemple fictif, supposons que A exige trois mois et B un mois. Honoraires fixes et mise en place engagent 7 200 pour A et 900 pour B, avant frais variables, coûts externes et éventuelles mensualités de préavis. Les risques diffèrent malgré une comparaison sur trois mois pour les deux.",
+      "Demandez l’échéancier, la dépense minimale, les dates de renouvellement et de préavis, les conditions de pause, le traitement des rendez-vous en attente et la restitution de données utilisables à la sortie. Répartir la mise en place entre plusieurs mois facilite l’analyse ; cela ne reporte pas le paiement. Un remplacement n’est pas un remboursement, sauf disposition du contrat."
+    ],
+    "stress": [
+      "Testez une période faible avant de choisir",
+      "Gardez le coût fictif de A à 8 190, mais réduisez les rendez-vous qualifiés acceptés de douze à six. Le coût unitaire double : de 682,50 à 1 365,00. Avec zéro rendez-vous accepté, indiquez la dépense et le zéro ; le coût unitaire est indéfini.",
+      "Avec une facturation à la réservation, une baisse de présence peut laisser la facture inchangée. Avec une facturation au rendez-vous tenu, la part variable peut diminuer, mais mise en place, minimums et travail interne restent possibles. Demandez aux deux prestataires de chiffrer le même scénario défavorable. Un prix supérieur ne garantit pas une meilleure présence."
+    ],
+    "economics": [
+      "Partez de la marge brute d’une vente",
+      "Exemple fictif : un client apporte 8 000 de marge brute la première année et une vente se conclut pour dix rendez-vous qualifiés acceptés. La marge brute attendue par rendez-vous est de 800. Si vous réservez 400 à la vente, aux frais généraux et à l’incertitude, il reste au plus 400 pour générer ce rendez-vous. Aucun des deux devis fictifs ne respecte ce plafond supposé.",
+      "Il s’agit d’un calcul conditionnel de planification, pas d’une prévision ni d’une promesse de rentabilité. Utilisez un taux de conversion étayé pour la même étape, le même segment et la même période de suivi. Multiplier le chiffre d’affaires par une conversion ne donne pas le bénéfice. Séparez pipeline prévisionnel, ventes conclues et encaissements.",
+      "Les réservations récentes peuvent demander plus de temps avant une vente. En attendant, examinez ciblage, réponses et qualité des rendez-vous. Une opportunité ouverte n’est encore ni une vente ni une perte."
+    ],
+    "briefTitle": "Envoyez le même brief à tous les prestataires",
+    "briefIntro": "Utilisez un document court sans information confidentielle. Signalez les inconnues pour que chaque prestataire explique ses hypothèses sans modifier discrètement le périmètre.",
+    "brief": "Entreprises et fonctions ciblées : [décrire]\nMarchés, langues et canaux : [décrire]\nExclure : clients actuels, opportunités actives et [autres exclusions]\nRendez-vous qualifié : [adéquation, fonction, raison d’échanger et objet convenu]\nRésultat facturable et justificatif : [réservé / tenu / tenu et qualifié]\nAbsences, reports, doublons et litiges : [règles et responsable]\nPériode d’évaluation et contrat minimum : [dates / durée]\nHonoraires, mise en place, outils, données et travail interne : [inclus / séparé / inconnu]\nDonnées, comptes, messages et exports à la sortie : [propriété et accès]\nRevue : [date, responsable de la décision et preuves nécessaires]",
+    "decision": [
+      "Résolvez le cas litigieux avant de signer",
+      "Utilisez l’exemple des douze réservations conservé plus haut. Demandez à deux personnes si F-012 doit être facturé alors que le rendez-vous a eu lieu, mais a été refusé pour une fonction hors cible. En cas de désaccord, précisez la règle avant le lancement. Une garantie exige une unité mesurable, des exclusions, des preuves, un responsable, une solution et un délai.",
+      [
+        "Une annulation, un report et un doublon sont des situations différentes. Gardez l’identifiant initial si la date change.",
+        "Les justificatifs doivent expliquer l’adéquation de l’entreprise, le rôle de l’interlocuteur dans l’achat et la raison réelle de l’échange. Un intitulé de poste ne suffit pas.",
+        "Le client accepte ou refuse l’opportunité séparément. Une opportunité peut comprendre plusieurs rendez-vous ; comptez-la une seule fois.",
+        "Précisez qui gère réponses, rappels, CRM, contrôle des données et désinscriptions. Un abonnement logiciel ne fournit pas ces personnes."
+      ]
+    ],
+    "own": [
+      "Où se situe Beespoke",
+      "Le forfait outbound piloté par le fondateur couvre le cold email et/ou LinkedIn à 1 500 USD par mois, ou 1 500 EUR par mois en Europe, avec un minimum de trois mois, sans frais par rendez-vous. Logiciels, données et autres frais nécessaires de tiers sont facturés séparément sauf inclusion dans le périmètre écrit.",
+      "Beespoke assure ciblage, recherche, messages individualisés, configuration autorisée des campagnes, réponses, qualification et coordination des agendas. Votre équipe valide les listes et apporte son jugement sur l’adéquation ; elle prend ensuite en charge découverte commerciale, propositions et conclusion des ventes. La prestation n’inclut pas automatiquement un SDR à temps plein ni une équipe d’appels.",
+      "Le fondateur permet d’assurer la prestation en anglais, espagnol, catalan et français. Les appels à froid font l’objet d’un devis selon le marché cible ; des professionnels natifs seraient recrutés si nécessaire. Aucun volume fixe de rendez-vous ni de revenus n’est garanti."
+    ],
+    "routeTitle": "Choisissez la suite selon votre décision",
+    "routes": [
+      [
+        "/services/b2b-appointment-setting/",
+        "Voir les responsabilités de la prestation"
+      ],
+      [
+        "/guides/pay-per-meeting-lead-generation/",
+        "Examiner les contrats au rendez-vous"
+      ],
+      [
+        "/compare/outsourced-sdr-vs-in-house-sdr/",
+        "Comparer capacités internes et externalisées"
+      ],
+      [
+        "/pricing/",
+        "Consulter les conditions actuelles de Beespoke"
+      ]
+    ],
+    "faqTitle": "Questions sur les tarifs de prise de rendez-vous",
+    "faqs": [
+      [
+        "Combien coûte la prise de rendez-vous B2B ?",
+        "Il n’existe pas de tarif unique comparable : canaux, capacité et unité facturée diffèrent. Comparez coût total, durée et rendez-vous tenus acceptés avec les mêmes critères. Beespoke gère le cold email et/ou LinkedIn à 1 500 USD par mois, ou 1 500 EUR par mois en Europe, avec un minimum de trois mois, sans frais par rendez-vous. Les frais de tiers sont séparés sauf inclusion écrite."
+      ],
+      [
+        "Un rendez-vous réservé équivaut-il à un rendez-vous tenu ou qualifié ?",
+        "Non. Réservé signifie inscrit au calendrier ; tenu signifie que l’échange a eu lieu ; accepté comme qualifié signifie conforme aux critères convenus. Ouvrir une opportunité est une autre décision. Définissez le déclencheur de facturation et le traitement des annulations, absences, reports et litiges."
+      ],
+      [
+        "Comment calculer le coût par rendez-vous qualifié ?",
+        "Additionnez honoraires, mise en place applicable, outils, données et travail interne sur une même période. Déduisez les avoirs justifiés. Divisez par les rendez-vous tenus acceptés comme qualifiés dans le même groupe de réservations. Avec zéro rendez-vous accepté, le coût est indéfini, pas nul."
+      ],
+      [
+        "Comment comparer un devis pour l’Europe, le Chili ou un autre marché ?",
+        "Alignez pays cible, langue, canaux, devise et traitement fiscal applicable. Un prix régional n’est pas une conversion au taux de change actuel. Beespoke publie 1 500 USD par mois ou 1 500 EUR par mois en Europe ; les appels demandent un devis propre au marché."
+      ],
+      [
+        "Beespoke facture-t-il chaque rendez-vous ou garantit-il un nombre ?",
+        "Le forfait outbound est mensuel, sans frais par rendez-vous. Il couvre le cold email et/ou LinkedIn selon le périmètre convenu. Appels et frais nécessaires de tiers sont séparés. Il ne garantit aucun nombre fixe de rendez-vous, d’opportunités ou de ventes."
+      ],
+      [
+        "Un forfait mensuel permet-il de résilier après un mois ?",
+        "Pas nécessairement. Vérifiez durée minimale, dépense minimale, échéances, renouvellement et préavis. Le forfait outbound Beespoke comporte un minimum de trois mois. L’engagement total peut dépasser le coût affiché pour une période de comparaison plus courte."
+      ],
+      [
+        "Puis-je comparer les réservations de ce mois aux ventes conclues ce mois-ci ?",
+        "Seulement si le groupe de réservations et l’attribution le permettent. Suivez les identifiants initiaux jusqu’à la présence, la qualification et aux opportunités distinctes, en respectant le cycle commercial. N’attribuez pas des ventes anciennes à des dépenses récentes parce qu’elles figurent dans le même mois."
+      ]
+    ],
+    "tool": {
+      "title": "Essayez vos deux devis",
+      "open": "Ouvrir le calculateur facultatif",
+      "intro": "Utilisez la même période, devise et définition du rendez-vous. Saisissez le coût complet, travail interne compris. Les valeurs initiales reprennent le tableau fictif ; ce ne sont ni objectifs ni prévisions.",
+      "fields": [
+        "Coût total de la période",
+        "Réservations initiales",
+        "Rendez-vous tenus",
+        "Rendez-vous qualifiés acceptés",
+        "Nouvelles opportunités distinctes"
+      ],
+      "quotes": [
+        "Devis A",
+        "Devis B"
+      ],
+      "currency": "Devise de référence · sans conversion",
+      "compute": "Comparer les devis",
+      "reset": "Rétablir l’exemple fictif",
+      "export": "Télécharger la comparaison CSV",
+      "result": "Résultat de la comparaison",
+      "rows": [
+        "Coût par réservation",
+        "Coût par rendez-vous tenu",
+        "Coût par rendez-vous qualifié accepté",
+        "Coût par nouvelle opportunité"
+      ],
+      "na": "Non calculé · aucun résultat",
+      "invalid": "Saisissez des coûts finis positifs ou nuls et des nombres entiers. Réservations ≥ tenus ≥ qualifiés acceptés ≥ nouvelles opportunités. Maximum par coût : 100 000 000 ; par nombre : 100 000.",
+      "privacy": "Le calcul reste sur cette page. Aucun compte ni email, aucun enregistrement ni transmission des valeurs. Le CSV contient des hypothèses numériques, pas des preuves de résultats.",
+      "note": "Dans cette comparaison, chaque nouvelle opportunité doit correspondre à au moins un rendez-vous accepté du même groupe. Le coût unitaire ne constitue qu’une partie de la décision."
+    },
+    "sourcesNote": "L’article et les exemples ont été révisés le 12 novembre 2026. Les tarifs existants de prestataires restent des références historiques avec leurs dates initiales ; cette révision ne les vérifie pas à nouveau. Beespoke publie ce guide et vend une prestation outbound. Aucun prestataire n’a payé pour y figurer. Les calculs fictifs ne sont pas des références de performance du marché.",
+    "references": [
+      "Comparaison éditoriale du 12 novembre 2026 : TaskBlink, taskblink.com/blog/appointment-setting-cost ; Snipe Outbound, snipeoutbound.com/blog/appointment-setting-cost et son Demo Pipeline Calculator. Questions et outils examinés, sans reprendre leurs tarifs ni leurs affirmations de performance."
+    ]
+  }
+}
