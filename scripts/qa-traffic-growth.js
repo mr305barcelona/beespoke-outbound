@@ -16,8 +16,8 @@ for(const [route,priorCopy] of Object.entries({...growth.english,...growth.spani
  for(const l of ['en','es','ca','fr','x-default'])assert(html.includes(`hreflang="${l}"`));
 }
 const cost=fs.readFileSync(path.join(root,'guides/outbound-lead-generation-cost/index.html'),'utf8');
-assert(cost.includes('7,100 USD'));assert.equal(3*(1500+300+400)+500,7100);
-assert(cost.includes('invented assumptions'));assert(cost.includes('not a contractual minimum'));assert(cost.includes('undefined'));
+assert(cost.includes('8,600'));assert.equal(3*(2000+300+400)+500,8600);
+assert(cost.includes('Every input is invented'));assert(cost.includes('three-month minimum'));assert(cost.includes('undefined'));
 assert(cost.includes('$10,000 monthly outbound retainer decision test'));
 const es=fs.readFileSync(path.join(root,'es/services/linkedin-lead-generation/index.html'),'utf8');
 assert.equal((es.match(/data-risk>/g)||[]).length,8);assert(es.includes('1.500 USD al mes'));assert(es.includes('sin tarifa por reunión'));
@@ -25,6 +25,6 @@ for(const bad of ['Que esta incluido','Lógica de orientación','su cerrador','l
 for(const locale of ['ca','fr','es'])for(const route of Object.keys(growth.english)){
  const html=fs.readFileSync(path.join(root,locale,route,'index.html'),'utf8');
  assert(!html.includes(growth.english[route].title),`${locale}${route}: English experiment leaked`);
- assert(!html.includes('id="first-90-day-budget"'));
+ if(route==='/guides/outbound-lead-generation-cost/')assert(html.includes('id="first-90-day-budget"'));else assert(!html.includes('id="first-90-day-budget"'));
 }
 console.log('Traffic-growth QA passed: scoped metadata, existing tools, translated boundaries, FAQ parity, anchors and fictional launch-budget arithmetic.');
