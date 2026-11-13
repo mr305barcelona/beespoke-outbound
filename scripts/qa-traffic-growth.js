@@ -11,7 +11,7 @@ for(const [route,priorCopy] of Object.entries({...growth.english,...growth.spani
  const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(ids.length,new Set(ids).size);
  for(const [,id]of html.matchAll(/href="#([^"]+)"/g))assert(ids.includes(id),route+': '+id);
  const graph=JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'];
- assert(graph.find(n=>n['@id']===origin+route+'#page').dateModified.startsWith(agency?'2026-11-02':reviewedDateFor(route,growth.updated)));
+ assert(graph.find(n=>n['@id']===origin+route+'#page').dateModified.startsWith(agency?'2026-11-13':reviewedDateFor(route,growth.updated)));
  for(const q of graph.find(n=>n['@type']==='FAQPage').mainEntity)assert(html.includes(`<summary${agency?' class="cursor-interaction"':''}>${esc(q.name)}</summary><p>${esc(q.acceptedAnswer.text)}</p>`));
  for(const l of ['en','es','ca','fr','x-default'])assert(html.includes(`hreflang="${l}"`));
 }
