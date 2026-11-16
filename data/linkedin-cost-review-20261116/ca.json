@@ -1,0 +1,250 @@
+{
+  "label": "Guia de costos d’agències de LinkedIn",
+  "updated": "Actualitzat el 16 de novembre de 2026",
+  "answer": "Compara la feina inclosa, la dedicació que demana al client i el compromís mínim abans de comparar quotes mensuals. El servei gestionat de cold email i/o prospecció en fred per LinkedIn de Beespoke costa 1.500 USD al mes, o 1.500 EUR a Europa, amb un mínim de tres mesos. Les trucades es pressuposten a part segons el mercat. Per comparar altres propostes, calcula el cost complet i defineix què és una reunió qualificada que s’ha celebrat: una llicència, una campanya publicitària i la prospecció gestionada cobreixen feines diferents.",
+  "sections": {
+    "the-price-depends-on-the-product-you-are-actually-buying": {
+      "title": "Comprova primer què estàs contractant",
+      "paragraphs": [
+        "Una subscripció de programari deixa al teu equip la responsabilitat de triar destinataris, redactar i gestionar respostes. Un servei gestionat assumeix la feina acordada. Un SDR dedicat ofereix una altra distribució de persones i temps. Una quota més alta no demostra, per si sola, una recerca més profunda ni una execució millor.",
+        "Separa la prospecció directa de la publicitat i la creació de contingut a LinkedIn. Un clic, un formulari enviat, una conversa i una reunió comercial celebrada són resultats diferents. El cost per lead d’una campanya publicitària no serveix com a pressupost de prospecció."
+      ],
+      "table": {
+        "caption": "Compara el model de treball abans que el preu",
+        "heads": [
+          "Model",
+          "Feina que has de concretar",
+          "Què pot continuar a càrrec del client"
+        ],
+        "rows": [
+          [
+            "Programari",
+            "Llicències, funcions permeses i suport",
+            "Recerca, redacció, ús diari i respostes"
+          ],
+          [
+            "Professional autònom o operador",
+            "Tasques concretes i disponibilitat",
+            "Estratègia, supervisió i substitucions si no s’inclouen"
+          ],
+          [
+            "Campanya gestionada",
+            "Recerca, missatges, configuració autoritzada, respostes i informes",
+            "Aprovació de llistes, informació comercial i trucades de venda"
+          ],
+          [
+            "Per resultats o híbrid",
+            "Càrrecs fixos, fet facturable i criteris de qualificació",
+            "Acceptació, discrepàncies i seguiment comercial"
+          ],
+          [
+            "Programa multicanal",
+            "Canals que comparteixen llista, historial i responsable",
+            "Tot el que queda fora de l’abast escrit"
+          ]
+        ]
+      },
+      "after": "Tria el canal segons les persones concretes a qui vols arribar. L’activitat recent a LinkedIn pot justificar començar-hi; el càrrec no demostra que llegeixin LinkedIn ni que necessitin la teva oferta."
+    },
+    "build-a-fully-loaded-monthly-cost": {
+      "title": "Calcula el mateix compromís de tres mesos",
+      "paragraphs": [
+        "Amplia l’exemple fictici de càrrega de feina anterior. Suposa que cada mes de facturació conté quatre setmanes de planificació, que valores el temps intern a 50 USD per hora i que totes dues propostes exigeixen tres mesos. Són condicions inventades, no tarifes de proveïdors ni preus de Beespoke.",
+        "La proposta A afegeix una quota de 2.000 USD al mes, 300 USD mensuals d’eines i 1.000 USD de posada en marxa, una sola vegada. La B cobra 2.800 USD al mes, inclou aquestes eines i no cobra posada en marxa. La dedicació del client continua sent de 211 enfront de 105 minuts setmanals."
+      ],
+      "table": {
+        "caption": "Pressupostos ficticis: separa les factures del temps del client",
+        "heads": [
+          "Cost durant el mateix compromís",
+          "Proposta A · USD",
+          "Proposta B · USD"
+        ],
+        "rows": [
+          [
+            "Primera factura: quota + eines + posada en marxa",
+            "3.300",
+            "2.800"
+          ],
+          [
+            "Factures de tres mesos: posada en marxa comptada una vegada",
+            "7.900",
+            "8.400"
+          ],
+          [
+            "Temps del client en tres mesos de quatre setmanes",
+            "42 h 12 min × 50 = 2.110",
+            "21 h × 50 = 1.050"
+          ],
+          [
+            "Cost econòmic total dels tres mesos",
+            "10.010",
+            "9.450"
+          ]
+        ]
+      },
+      "after": "A té la quota anunciada i les factures més baixes, però el seu cost econòmic és més alt en aquest cas. A més, continua demanant més de les dues hores setmanals disponibles: posar un preu a la feina no fa que càpiga a l’agenda. Assegura un relleu o redueix l’abast. Reparteix la posada en marxa només per analitzar el cost; la factura determina quan es paga. Afegeix impostos, canvi de moneda, altres canals o feina comercial si el teu cas els exigeix, i no sumis dues vegades una llicència inclosa."
+    },
+    "define-the-billing-event-before-signing": {
+      "title": "Defineix exactament què es pot facturar",
+      "paragraphs": [
+        "Separa el fet facturable de les etapes de l’informe. Una connexió, una resposta, una reserva original, una reunió celebrada, una reunió qualificada i celebrada i una oportunitat acceptada per vendes no són equivalents. Defineix de manera observable l’encaix de l’empresa, el paper de l’assistent, l’interès expressat i l’assistència, i qui accepta o qüestiona el registre.",
+        "Deixa clares les regles per a oportunitats existents, contactes duplicats, cancel·lacions, absències i canvis de data. Vincula el nou identificador d’una reserva reprogramada al registre original: moure una cita no implica automàticament un altre prospecte ni un altre fet facturable. El contracte determina la factura, no l’etiqueta del tauler.",
+        "Demana un registre mínim per conciliar: identificador i data de creació de la reserva original, canal o campanya, assistència, decisió de qualificació, acceptació comercial i identificador que substitueixi l’original, si n’hi ha. Conserva només el que cal i limita l’accés. Una reunió qualificada i celebrada no es converteix automàticament en oportunitat."
+      ]
+    },
+    "assess-linkedin-account-and-brand-risk": {
+      "title": "Aclareix l’accés, les restriccions i el traspàs",
+      "paragraphs": [
+        "Identifica la persona que enviarà els missatges, l’accés proposat, el programari utilitzat i qui podrà aturar l’activitat. Revisa l’Acord d’usuari vigent de LinkedIn abans d’autoritzar el mètode. L’apartat 8.2 restringeix compartir comptes i l’activitat automatitzada no autoritzada; un límit diari del proveïdor no garanteix el compliment ni la seguretat del compte.",
+        "Acorda com es gestionen les restriccions, les objeccions i les peticions de no rebre més missatges. En acabar, concreta què es pot exportar, en quin format i quan; conserva les exclusions de contacte i retira els accessos que pertoquin. No acceptis una promesa de recuperació garantida d’un compte restringit."
+      ]
+    },
+    "compare-proposals-with-an-evidence-pack": {
+      "title": "Demana les mateixes proves a tots els proveïdors",
+      "paragraphs": [
+        "Demana un exemple anònim o fictici de per què es tria una empresa, un missatge, la raó per escollir aquell canal i una mostra del traspàs de respostes. Comprova que el missatge tingui un motiu real i pertinent per escriure, sense atribuir al destinatari un problema que no s’ha confirmat. Un vincle personal pot ser rellevant sense demostrar intenció de compra.",
+        "Demana al proveïdor que resolgui la resposta de l’exemple original en què el paper de l’interlocutor no és clar. Comprova què falta saber i qui ho esbrina. Distingeix resultats verificats, afirmacions del proveïdor, exemples il·lustratius i testimonis seleccionats. Cap d’aquests elements, per si sol, permet preveure els teus resultats."
+      ],
+      "list": [
+        "Quina feina i quines eines inclou, amb quines persones i disponibilitat?",
+        "Què ha d’aprovar o aportar el client i quant temps demana?",
+        "Què es paga abans de començar i durant el termini mínim?",
+        "Què es factura i com es resolen els casos excepcionals?",
+        "Qui gestiona respostes, reserves i comentaris de vendes?",
+        "Quines dades i quina feina aprovada es poden traspassar en acabar?"
+      ]
+    },
+    "beespoke-pricing-in-context": {
+      "title": "On encaixa el servei de Beespoke",
+      "paragraphs": [
+        "El servei outbound estàndard de Beespoke cobreix cold email i/o prospecció en fred per LinkedIn, sota la direcció del fundador. La quota fixa és de 1.500 USD al mes fora d’Europa o 1.500 EUR a Europa, amb un mínim de tres mesos i sense tarifa per reunió. El compromís del servei base és, per tant, de 4.500 USD o 4.500 EUR abans dels costos de tercers acordats a part. Les trucades en fred queden fora del preu base i es pressuposten segons el mercat.",
+        "Beespoke investiga els prospectes, redacta missatges individuals i gestiona la configuració i la coordinació acordades de la campanya amb autorització. El client aprova les llistes i aporta les dades comercials i el seu criteri sobre l’encaix dels compradors; també assumeix les trucades de venda i el tancament. Els missatges comparteixen una estructura, però el motiu per escriure i la redacció canvien segons la persona.",
+        "El canal es tria segons l’activitat del prospecte, sense imposar LinkedIn com a primer pas. Beespoke acostuma a fer servir un primer missatge amb contingut i un seguiment breu; després valora un altre canal pertinent en lloc d’acumular recordatoris. Les reserves es fan al sistema del client i es comproven amb l’accés acordat al CRM o la informació que facilita el client.",
+        "És una campanya gestionada, no una llicència de programari ni l’assignació d’un SDR a temps complet. Les eines i les dades de tercers es cobren a part, llevat que l’abast escrit les inclogui. Confirma l’encàrrec i les responsabilitats abans de comparar només la quota."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Decideix abans de signar",
+      "paragraphs": [
+        "Tria només quan l’abast, la càrrega per al teu equip, el compromís i les proves encaixin amb el que necessites. Deixa les preguntes pendents obertes en lloc d’inventar una puntuació de qualitat. Si no saps qui envia, què es factura o qui atén les respostes, aclareix-ho abans de comparar quotes."
+      ],
+      "table": {
+        "caption": "El que hauries de poder comprovar en una proposta",
+        "heads": [
+          "Àrea",
+          "Prova que has de demanar",
+          "Què has de fer si falta"
+        ],
+        "rows": [
+          [
+            "Abast",
+            "Feina, persones, eines, canals i exclusions concrets",
+            "Demanar l’abast que falta"
+          ],
+          [
+            "Disponibilitat del client",
+            "Una setmana d’exemple i cobertura d’absències",
+            "Reduir l’abast o assignar un relleu"
+          ],
+          [
+            "Costos",
+            "Dates de pagament, termini mínim i costos que conserva el client",
+            "No donar per calculat el cost complet"
+          ],
+          [
+            "Resultats",
+            "Grups comparables i etapes separades d’assistència i qualificació",
+            "Marcar la comparació com a incompleta"
+          ],
+          [
+            "Control",
+            "Mètode d’accés, gestió d’incidències i traspàs utilitzable",
+            "Resoldre el mètode i la propietat abans de començar"
+          ]
+        ]
+      }
+    }
+  },
+  "brief": {
+    "title": "Posa cada pressupost als mateixos set camps",
+    "intro": "Fes servir una còpia per proposta. Una pregunta sense resposta continua pendent; no equival a zero. És una fitxa per a les teves notes, no una valoració automàtica del proveïdor.",
+    "summary": "Mostra els set camps de comparació",
+    "fields": [
+      [
+        "1. Objectiu i públic",
+        "Segment, mercat, idiomes i resultat que necessites."
+      ],
+      [
+        "2. Feina i disponibilitat",
+        "Persones, canals, recerca, missatges, respostes, eines i exclusions."
+      ],
+      [
+        "3. Dedicació del client",
+        "Aprovacions, informació comercial, responsable de vendes, minuts setmanals i relleu."
+      ],
+      [
+        "4. Imports i dates",
+        "Posada en marxa, quotes i variables, eines incloses, impostos, moneda, factures i termini mínim."
+      ],
+      [
+        "5. Fet facturable",
+        "Criteris observables d’acceptació, absències, cancel·lacions, discrepàncies i canvis de data."
+      ],
+      [
+        "6. Proves i revisió",
+        "Registres originals, assistència, qualificació, seguiment comparable i data de revisió."
+      ],
+      [
+        "7. Control i traspàs",
+        "Remitent, accés, incidències, exclusions, format d’exportació i responsabilitats en acabar."
+      ]
+    ]
+  },
+  "cohort": {
+    "title": "Canviar el denominador pot canviar la decisió",
+    "paragraphs": [
+      "Si la feina del client està coberta, continua la comparació fictícia de tres mesos amb el mateix públic, període actiu i criteri de seguiment. En una data comuna de revisió ja es coneix el desenllaç de totes les reserves: A té 12 reserves originals, vuit reunions celebrades, dues cancel·lacions i dues absències. B té deu reserves originals, vuit reunions celebrades, una cancel·lació i una absència. Sis de les reunions celebrades d’A i set de B compleixen els criteris de qualificació acordats.",
+      "El cost per reserva original és 10.010 ÷ 12 = 834,17 USD per a A i 9.450 ÷ 10 = 945 USD per a B. El cost per reunió qualificada i celebrada és 10.010 ÷ 6 = 1.668,33 USD per a A i 9.450 ÷ 7 = 1.350 USD per a B. L’opció que semblava més barata canvia. És un exemple aritmètic, no una previsió de rendiment.",
+      "Si la qualificació es desconeix, la comparació és incompleta. Si no hi ha reunions qualificades i celebrades, el cost unitari no es pot calcular; no és zero i la despesa continua existint. No comparis un trimestre madur amb la primera setmana d’una campanya ni comptis dues vegades una cita reprogramada. Separa les oportunitats acceptades i els clients guanyats."
+    ]
+  },
+  "economics": {
+    "title": "Calcula l’equilibri amb el marge, no amb els ingressos",
+    "paragraphs": [
+      "Suposa que cada client guanyat aporta 6.000 USD després dels costos de prestar el servei, però abans d’aquesta captació. Amb un cost complet del programa de 9.450 USD, necessites dues vendes per cobrir-lo; una només aporta 6.000 USD. Si falten hores de vendes o altres costos de captació, afegeix-los abans del càlcul.",
+      "És un llindar, no una previsió de vendes, benefici o terminis. Fes servir el teu marge, el cicle de venda real i les conversions observades. Una taxa de tancament desconeguda continua sent desconeguda; el valor anual d’un contracte no equival a efectiu cobrat ni a marge de contribució."
+    ]
+  },
+  "faqs": [
+    [
+      "Quin és el cost mitjà de contractar una agència de generació de leads a LinkedIn?",
+      "No hi ha una mitjana comparable si una proposta ven programari i una altra una campanya gestionada. Compara l’abast, el temps del client, els costos inclosos i el compromís mínim. El servei aprovat de Beespoke costa 1.500 USD al mes, o 1.500 EUR a Europa, per a cold email i/o LinkedIn en fred, amb un mínim de tres mesos; les trucades van a part."
+    ],
+    [
+      "És més barat pagar per reunió que una quota mensual?",
+      "Només el pressupost complet i els resultats observats permeten respondre-ho. Inclou quotes, eines, posada en marxa i temps del client, i fes servir la mateixa definició de reunió qualificada i celebrada. Comprova les regles sobre absències, cancel·lacions, duplicats i canvis de data."
+    ],
+    [
+      "L’agència hauria de fer servir el meu perfil de LinkedIn?",
+      "Identifica el remitent real i contrasta el mètode d’accés amb les condicions vigents de LinkedIn abans d’acceptar-lo. L’Acord d’usuari restringeix compartir comptes i l’automatització no autoritzada. El teu permís o un límit diari d’activitat no fan que qualsevol mètode compleixi les normes ni eliminen el risc de restricció."
+    ],
+    [
+      "Què hauria d’incloure el pressupost?",
+      "Els set camps són objectiu i públic, feina i disponibilitat, dedicació del client, imports i dates, fet facturable, proves i revisió, i control i traspàs. Anota les exclusions i les preguntes pendents, no només la quota mensual."
+    ],
+    [
+      "La quota de l’agència inclou Sales Navigator i les dades?",
+      "No necessàriament. Demana per escrit les llicències necessàries, els usuaris, els períodes de facturació i els límits inclosos. Compta cada càrrec obligatori una sola vegada. Accedir al programari no equival a investigar, escriure missatges individuals ni gestionar respostes."
+    ],
+    [
+      "Puc gestionar jo la prospecció a LinkedIn?",
+      "Sí, si pots investigar, escriure missatges pertinents, atendre respostes i mantenir la feina dins les condicions de la plataforma. Fes servir la teva disponibilitat setmanal real i l’activitat dels prospectes. Comprar una eina no vol dir que també necessitis un servei gestionat."
+    ],
+    [
+      "Com hauria de valorar els resultats dels primers mesos?",
+      "Acorda les condicions d’inici, el període actiu, la data de revisió i el seguiment necessari per conèixer els resultats. Separa reserves originals, assistència, qualificació, oportunitats i vendes. El termini mínim és un compromís de facturació, no una promesa d’un nombre de reunions o vendes."
+    ]
+  ],
+  "sourceIntro": "Aquest marc de compra es va revisar el 16 de novembre de 2026 a partir d’articles públics actuals i de l’Acord d’usuari de LinkedIn. Els preus i les afirmacions de rendiment dels proveïdors no s’utilitzen com a referències universals. Tots els càlculs de pressupostos, càrrega de feina i resultats són ficticis; no són resultats de clients.",
+  "sourceDate": "Les referències externes que apareixen a continuació es van tornar a llegir el 16 de novembre de 2026. Confirma qualsevol preu, abast o condició de cancel·lació real al pressupost escrit del proveïdor."
+}

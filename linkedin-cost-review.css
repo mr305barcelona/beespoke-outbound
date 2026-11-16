@@ -1,0 +1,12 @@
+body.linkedin-cost-review #linkedin-quote-normalizer{background:transparent;border:0;border-top:1px solid #d7d4ce;border-radius:0;padding:32px 0;box-shadow:none}
+body.linkedin-cost-review #linkedin-quote-normalizer h2{font-family:Georgia,'Times New Roman',serif;font-weight:400;font-size:clamp(1.55rem,2.4vw,2rem);line-height:1.25;letter-spacing:-.025em;text-transform:none}
+body.linkedin-cost-review #linkedin-quote-normalizer .quote-brief{background:#fff;border:1px solid #d3d5d6;border-radius:5px;margin-top:22px;color:#172e3c}
+body.linkedin-cost-review #linkedin-quote-normalizer .quote-brief summary{padding:18px 20px;font-family:Arial,sans-serif;font-weight:600;cursor:pointer;color:#172e3c;line-height:1.5}
+body.linkedin-cost-review #linkedin-quote-normalizer .brief-fields{margin:0;padding:0 20px 12px;font-family:Arial,sans-serif;color:#172e3c}
+body.linkedin-cost-review #linkedin-quote-normalizer .brief-fields div{padding:15px 0;border-top:1px solid #dde0e2}
+body.linkedin-cost-review #linkedin-quote-normalizer .brief-fields dt{font-weight:600;line-height:1.5}
+body.linkedin-cost-review #linkedin-quote-normalizer .brief-fields dd{margin:6px 0 0;line-height:1.65;font-size:1rem;color:#263b46}
+body.linkedin-cost-review #linkedin-quote-normalizer .quote-brief summary:focus-visible,body.journal-article.linkedin-cost-review .table-wrap:focus-visible{outline:3px solid #ad690a;outline-offset:4px}
+body.journal-article.linkedin-cost-review .table-wrap{max-width:100%;overflow-x:auto;overscroll-behavior-inline:contain}
+body.journal-article.linkedin-cost-review th[scope=row]{font-weight:600;text-align:left}
+@media(max-width:600px){body.linkedin-cost-review #linkedin-quote-normalizer .quote-brief summary{padding:16px}body.linkedin-cost-review #linkedin-quote-normalizer .brief-fields{padding:0 16px 8px}body.linkedin-cost-review #linkedin-quote-normalizer{padding:24px 0}}

@@ -1,0 +1,250 @@
+{
+  "label": "LinkedIn agency cost guide",
+  "updated": "Updated November 16, 2026",
+  "answer": "Compare the work, required client time and minimum commitment before comparing a LinkedIn agency’s monthly fee. Beespoke’s managed cold-email and/or cold-LinkedIn service is USD 1,500 per month, or EUR 1,500 in Europe, with a three-month minimum. Calling is quoted separately by market. For other quotes, establish the full cost and the definition of a held qualified meeting; a software license, an ad campaign and managed outreach buy different work.",
+  "sections": {
+    "the-price-depends-on-the-product-you-are-actually-buying": {
+      "title": "First, identify what the quote buys",
+      "paragraphs": [
+        "A software subscription leaves someone on your team responsible for targeting, messages and replies. A managed service takes on agreed work. A dedicated SDR provides a different allocation of people and time. A higher fee does not, by itself, prove deeper research or better execution.",
+        "Separate direct outreach from LinkedIn advertising and content production. An ad click, a form submission, a conversation and an attended sales meeting are different outputs. Do not import an advertising cost-per-lead average into an outreach budget."
+      ],
+      "table": {
+        "caption": "Compare the operating model before the price",
+        "heads": [
+          "Model",
+          "Work to define",
+          "What can remain with the client"
+        ],
+        "rows": [
+          [
+            "Software",
+            "Licenses, permitted features and support",
+            "Research, writing, daily operation and replies"
+          ],
+          [
+            "Freelancer or operator",
+            "Named tasks and available capacity",
+            "Strategy, supervision and backup unless included"
+          ],
+          [
+            "Managed campaign",
+            "Research, messages, approved setup, replies and reporting",
+            "Target-list judgment, commercial truth and sales calls"
+          ],
+          [
+            "Performance or hybrid",
+            "Fixed charges, billable event and qualification rules",
+            "Acceptance, disputes and sales follow-through"
+          ],
+          [
+            "Multichannel program",
+            "Which channels share a list, message history and owner",
+            "Anything excluded from the written scope"
+          ]
+        ]
+      },
+      "after": "Choose the channel from the actual people you want to reach. Recent LinkedIn activity can support starting there; a job title alone does not show that someone reads LinkedIn or wants your offer."
+    },
+    "build-a-fully-loaded-monthly-cost": {
+      "title": "Price the same three-month commitment",
+      "paragraphs": [
+        "Extend the fictional workload example above. Assume each billing month contains four planning weeks, internal time is valued at 50 USD per hour, and both quotes require three billing months. These are invented quote terms, not vendor rates or Beespoke prices.",
+        "Quote A adds a 2,000 USD monthly fee, 300 USD a month for tools and a 1,000 USD one-time setup fee. Quote B charges 2,800 USD a month with the relevant tools included and no setup fee. The client workload remains 211 versus 105 minutes a week."
+      ],
+      "table": {
+        "caption": "Fictional quotes: cash and client time are separate",
+        "heads": [
+          "Cost over the same commitment",
+          "Quote A · USD",
+          "Quote B · USD"
+        ],
+        "rows": [
+          [
+            "First invoice: fee + tools + setup",
+            "3,300",
+            "2,800"
+          ],
+          [
+            "Three-month invoices: setup counted once",
+            "7,900",
+            "8,400"
+          ],
+          [
+            "Client time over three four-week months",
+            "42 h 12 min × 50 = 2,110",
+            "21 h × 50 = 1,050"
+          ],
+          [
+            "Total economic cost over three months",
+            "10,010",
+            "9,450"
+          ]
+        ]
+      },
+      "after": "A has the lower monthly headline and cash invoices, but the higher economic cost in this example. Its work still exceeds the buyer’s two-hour weekly capacity: putting a price on the extra work does not make it fit. Confirm a backup or a smaller scope. Allocate setup only for analysis; the invoice determines when cash is actually due. Add tax, currency conversion, extra channels or sales work if your real scope requires them, and do not add an included license twice."
+    },
+    "define-the-billing-event-before-signing": {
+      "title": "Define exactly what can be invoiced",
+      "paragraphs": [
+        "Write the billing event and the reporting stages separately. A connection, a reply, an original booking, a held meeting, a qualified held meeting and a sales-accepted opportunity are not interchangeable. Specify observable company fit, attendee role, stated interest, attendance and who accepts or disputes the record.",
+        "State the rule for existing pipeline, duplicate contacts, cancellations, no-shows and reschedules. Link a replacement booking ID to its original record; a moved appointment is not automatically another new prospect or another billable event. The contract, not the dashboard label, determines the invoice.",
+        "Require a minimal reconciliation record: original booking identifier and creation date, channel or campaign, attendance, qualification decision, sales acceptance and any replacement identifier. Keep only necessary information and restrict access. A qualified held meeting does not automatically become an opportunity."
+      ]
+    },
+    "assess-linkedin-account-and-brand-risk": {
+      "title": "Ask how access, restrictions and handover work",
+      "paragraphs": [
+        "Name the real sender, the proposed access method, the software involved and the person who can stop activity. Review LinkedIn’s current User Agreement before authorizing the method. Its section 8.2 restricts account sharing and unauthorized automated activity; a vendor’s daily activity cap is not a guarantee of compliance or account safety.",
+        "Agree how restrictions, objections and opt-outs are escalated. At termination, specify what can be exported, in which format and by when; preserve suppression decisions and remove access appropriately. Do not accept a promise that a provider can guarantee recovery of a restricted account."
+      ]
+    },
+    "compare-proposals-with-an-evidence-pack": {
+      "title": "Use the same evidence request for every bidder",
+      "paragraphs": [
+        "Ask for an anonymized or fictional account rationale, a message example, the reason for choosing its channel and a sample reply handoff. Check whether the message uses a real, relevant reason to write rather than a claim about a problem the writer cannot know. Personal context can be relevant without proving buying intent.",
+        "Have the provider work through the unclear buyer-role reply in the original example. Ask what is still unknown and who resolves it. Separate verified outcomes from vendor claims, illustrative examples and selected testimonials. None of those, alone, forecasts your results."
+      ],
+      "list": [
+        "What work and tools are included, with which people and capacity?",
+        "What must the client approve or supply, and how much time does that take?",
+        "What is payable before launch and over the minimum term?",
+        "Which event is billable, and how are exceptions resolved?",
+        "Who handles replies, calendar handoff and sales feedback?",
+        "What data and approved work can be handed over when the engagement ends?"
+      ]
+    },
+    "beespoke-pricing-in-context": {
+      "title": "Where Beespoke’s service fits",
+      "paragraphs": [
+        "Beespoke’s standard outbound service covers cold email and/or cold LinkedIn, led by the founder. The flat monthly fee is USD 1,500 outside Europe or EUR 1,500 in Europe, with a three-month minimum and no per-meeting fee. The base service commitment is therefore USD 4,500 or EUR 4,500 before separately agreed third-party costs. Cold calling is outside that base price and quoted separately by market.",
+        "Beespoke researches the prospects, writes individual messages and handles the agreed campaign setup and coordination with authorization. The client approves the target lists and supplies the commercial facts and buyer-fit judgment; sales calls and closing remain with the client. Messages follow a structure, but the reason for writing and the wording vary by person.",
+        "Channel choice follows the prospect’s activity rather than a fixed LinkedIn-first rule. Beespoke generally uses a substantive opening and a brief follow-up, then considers another appropriate channel rather than adding endless reminders. Calendar handoff uses the client’s booking system, with booking confirmation checked through agreed CRM access or client feedback.",
+        "This is a managed campaign, not a software-only license or a full-time SDR placement. Third-party tools and data are separate unless included in the written scope. Confirm the specific brief and responsibilities before using the flat fee as a comparison."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Make the decision before signing",
+      "paragraphs": [
+        "Choose a provider only when its scope, client workload, commitment and evidence fit the job. Keep an unknown field open rather than giving the bid an invented quality score. If you cannot identify the sender, the billable event or the person who owns replies, resolve that before comparing fees."
+      ],
+      "table": {
+        "caption": "What a usable proposal should let you verify",
+        "heads": [
+          "Area",
+          "Evidence to request",
+          "Decision if missing"
+        ],
+        "rows": [
+          [
+            "Scope",
+            "Named work, people, tools, channels and exclusions",
+            "Request the missing scope"
+          ],
+          [
+            "Client capacity",
+            "A sample week and absence cover",
+            "Reduce scope or appoint a backup"
+          ],
+          [
+            "Economics",
+            "Cash dates, minimum term and retained client costs",
+            "Do not infer a fully loaded total"
+          ],
+          [
+            "Results",
+            "Matched cohorts and distinct attendance/qualification stages",
+            "Mark the comparison incomplete"
+          ],
+          [
+            "Control",
+            "Access method, escalation and usable handover",
+            "Resolve ownership and method before launch"
+          ]
+        ]
+      }
+    }
+  },
+  "brief": {
+    "title": "Put every quote in the same seven fields",
+    "intro": "Use one copy per proposal. An unanswered field stays unknown; it does not become zero. This is a short brief to use in your own notes, not an automated vendor rating.",
+    "summary": "Show the seven comparison fields",
+    "fields": [
+      [
+        "1. Job and audience",
+        "Target segment, market, languages and the outcome needed."
+      ],
+      [
+        "2. Work and capacity",
+        "Named people, channels, research, messages, replies, tools and exclusions."
+      ],
+      [
+        "3. Client workload",
+        "Approvals, commercial input, sales ownership, weekly minutes and backup."
+      ],
+      [
+        "4. Money and dates",
+        "Setup, recurring and variable fees, included tools, taxes, currency, invoices and minimum term."
+      ],
+      [
+        "5. Billable event",
+        "Observable acceptance criteria, no-shows, cancellations, disputes and reschedules."
+      ],
+      [
+        "6. Evidence and review",
+        "Original records, attendance, qualification, comparable follow-up and review date."
+      ],
+      [
+        "7. Control and handover",
+        "Sender, access, escalation, suppression, export format and end-of-service responsibilities."
+      ]
+    ]
+  },
+  "cohort": {
+    "title": "Change the denominator and the decision can change",
+    "paragraphs": [
+      "If the client work is covered, continue the same fictional three-month comparison, using the same audience, active period and follow-up standard. At a shared review date, all booking outcomes are known: A has 12 original bookings, eight held meetings, two cancellations and two no-shows. B has ten original bookings, eight held meetings, one cancellation and one no-show. Six of A’s held meetings and seven of B’s meet the agreed qualification rule.",
+      "Cost per original booking is 10,010 ÷ 12 = 834.17 USD for A and 9,450 ÷ 10 = 945 USD for B. Cost per qualified held meeting is 10,010 ÷ 6 = 1,668.33 USD for A and 9,450 ÷ 7 = 1,350 USD for B. The apparent winner reverses. These are arithmetic examples, not performance expectations.",
+      "If qualification is unknown, the comparison is incomplete. If there are zero qualified held meetings, unit cost is undefined, not zero; the spend still exists. Do not compare a mature quarter with a new campaign’s first week or count reschedules twice. Keep opportunity acceptance and won customers separate."
+    ]
+  },
+  "economics": {
+    "title": "Use contribution, not revenue, for break-even",
+    "paragraphs": [
+      "Suppose a won customer contributes 6,000 USD after delivery costs but before this acquisition work. At a fully included program cost of 9,450 USD, two wins are needed to cover that cost; one contributes only 6,000 USD. If sales work or other acquisition costs are missing, add them before using the calculation.",
+      "That is a threshold, not a forecast of wins, profit or timing. Use your own contribution, actual sales cycle and observed conversion data. Unknown close rates stay unknown, and a signed annual revenue figure is not cash received or contribution profit."
+    ]
+  },
+  "faqs": [
+    [
+      "What is the average cost of hiring a LinkedIn lead generation agency?",
+      "There is no single comparable average when one quote buys software and another buys a managed campaign. Compare scope, client time, included costs and minimum commitment. Beespoke’s own approved service is USD 1,500 per month, or EUR 1,500 in Europe, for cold email and/or cold LinkedIn, with a three-month minimum; calling is separate."
+    ],
+    [
+      "Is pay per meeting cheaper than a monthly retainer?",
+      "Only your complete quote and observed outcomes can answer that. Include fixed fees, tools, setup and client time, and use the same definition of a qualified held meeting. Check the treatment of no-shows, cancellations, duplicate records and reschedules."
+    ],
+    [
+      "Should an agency use my LinkedIn profile?",
+      "Identify the real sender and review the proposed access method against LinkedIn’s current terms before agreeing. The User Agreement restricts account sharing and unauthorized automated activity. Your permission or a daily activity limit does not make every method compliant or remove restriction risk."
+    ],
+    [
+      "What should the quote include?",
+      "The seven fields are the job and audience, work and capacity, client workload, money and dates, billable event, evidence and review, and control and handover. Record exclusions and unresolved questions, not just the headline monthly fee."
+    ],
+    [
+      "Does a LinkedIn agency fee include Sales Navigator and data?",
+      "Not automatically. Ask for the required licenses, seats, billing periods and included allowances in writing. Count a required charge once. Software access is not the same thing as research, individual message writing or reply handling."
+    ],
+    [
+      "Can I run LinkedIn outreach myself instead?",
+      "Yes, if you can do the research, write relevant messages, handle replies and sustain the work within the platform’s terms. Use your actual weekly capacity and prospect activity. A paid service is not necessary just because you have bought a prospecting tool."
+    ],
+    [
+      "How should I judge results in the first months?",
+      "Agree the launch conditions, active period, review date and follow-up needed for outcomes to mature. Track original bookings, attendance, qualification, opportunities and wins separately. A minimum contract term is a billing commitment, not a promise that a fixed number of meetings or sales will arrive."
+    ]
+  ],
+  "sourceIntro": "The buying framework was reviewed on November 16, 2026 using current public articles and LinkedIn’s User Agreement. Provider prices and performance claims are not used as universal benchmarks. All quote, workload and outcome calculations here are fictional and are not customer results.",
+  "sourceDate": "The existing external references below were re-read on November 16, 2026. Confirm any real price, scope or cancellation term in the provider’s written quote."
+}

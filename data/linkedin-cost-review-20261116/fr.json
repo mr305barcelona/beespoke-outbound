@@ -1,0 +1,250 @@
+{
+  "label": "Guide des tarifs des agences LinkedIn",
+  "updated": "Mis à jour le 16 novembre 2026",
+  "answer": "Comparez le travail inclus, le temps demandé au client et l’engagement minimum avant de comparer les forfaits mensuels. Le service géré de cold email et/ou de prospection à froid sur LinkedIn de Beespoke coûte 1 500 USD par mois, ou 1 500 EUR en Europe, avec un minimum de trois mois. Les appels font l’objet d’un devis distinct selon le marché. Pour comparer les autres devis, calculez le coût complet et définissez un rendez-vous qualifié réellement tenu : une licence, une campagne publicitaire et la prospection gérée couvrent des tâches différentes.",
+  "sections": {
+    "the-price-depends-on-the-product-you-are-actually-buying": {
+      "title": "Vérifiez d’abord ce que vous achetez",
+      "paragraphs": [
+        "Avec un abonnement logiciel, votre équipe reste chargée du ciblage, de la rédaction et des réponses. Un service géré prend en charge les tâches convenues. Un SDR dédié correspond à une autre répartition des personnes et du temps. Un forfait plus élevé ne prouve pas, à lui seul, que la recherche ou l’exécution sera meilleure.",
+        "Distinguez la prospection directe de la publicité et de la création de contenu sur LinkedIn. Un clic, un formulaire envoyé, une conversation et un rendez-vous commercial tenu sont des résultats différents. Le coût par prospect d’une campagne publicitaire ne constitue pas un budget de prospection."
+      ],
+      "table": {
+        "caption": "Comparez le mode de fonctionnement avant le prix",
+        "heads": [
+          "Modèle",
+          "Travail à préciser",
+          "Ce qui peut rester à la charge du client"
+        ],
+        "rows": [
+          [
+            "Logiciel",
+            "Licences, fonctions autorisées et assistance",
+            "Recherche, rédaction, utilisation quotidienne et réponses"
+          ],
+          [
+            "Indépendant ou opérateur",
+            "Tâches précises et disponibilité",
+            "Stratégie, supervision et remplacement sauf inclusion"
+          ],
+          [
+            "Campagne gérée",
+            "Recherche, messages, configuration autorisée, réponses et suivi",
+            "Validation des listes, informations commerciales et entretiens de vente"
+          ],
+          [
+            "À la performance ou hybride",
+            "Frais fixes, fait facturable et critères de qualification",
+            "Acceptation, litiges et suivi commercial"
+          ],
+          [
+            "Programme multicanal",
+            "Canaux partageant la liste, l’historique et le responsable",
+            "Tout ce qui est exclu du périmètre écrit"
+          ]
+        ]
+      },
+      "after": "Choisissez le canal selon les personnes que vous cherchez réellement à joindre. Une activité récente sur LinkedIn peut justifier d’y commencer ; un intitulé de poste ne prouve ni que la personne lit LinkedIn ni qu’elle a besoin de votre offre."
+    },
+    "build-a-fully-loaded-monthly-cost": {
+      "title": "Chiffrez le même engagement de trois mois",
+      "paragraphs": [
+        "Prolongez l’exemple fictif de charge de travail ci-dessus. Supposons que chaque mois facturé compte quatre semaines de planification, que le temps interne soit valorisé à 50 USD par heure et que les deux devis exigent trois mois. Ces conditions sont inventées : ce ne sont ni des tarifs de prestataires ni les prix de Beespoke.",
+        "Le devis A ajoute un forfait de 2 000 USD par mois, 300 USD d’outils mensuels et 1 000 USD de démarrage, une seule fois. Le devis B prévoit 2 800 USD par mois, outils concernés inclus, sans frais de démarrage. Le temps client reste de 211 contre 105 minutes par semaine."
+      ],
+      "table": {
+        "caption": "Devis fictifs : distinguez les factures du temps client",
+        "heads": [
+          "Coût sur le même engagement",
+          "Devis A · USD",
+          "Devis B · USD"
+        ],
+        "rows": [
+          [
+            "Première facture : forfait + outils + démarrage",
+            "3 300",
+            "2 800"
+          ],
+          [
+            "Factures sur trois mois : démarrage compté une fois",
+            "7 900",
+            "8 400"
+          ],
+          [
+            "Temps client sur trois mois de quatre semaines",
+            "42 h 12 min × 50 = 2 110",
+            "21 h × 50 = 1 050"
+          ],
+          [
+            "Coût économique total sur trois mois",
+            "10 010",
+            "9 450"
+          ]
+        ]
+      },
+      "after": "A affiche un forfait et des factures moins élevés, mais son coût économique est supérieur dans cet exemple. Sa charge dépasse toujours les deux heures hebdomadaires disponibles : donner un prix au travail ne lui fait pas trouver sa place dans l’agenda. Prévoyez un relais ou réduisez le périmètre. Répartir les frais de démarrage sert à l’analyse ; la facture détermine la date de paiement. Ajoutez taxes, change, autres canaux ou travail commercial si votre cas les exige, sans compter deux fois une licence incluse."
+    },
+    "define-the-billing-event-before-signing": {
+      "title": "Définissez précisément ce qui peut être facturé",
+      "paragraphs": [
+        "Séparez le fait facturable des étapes du suivi. Une connexion, une réponse, une réservation initiale, un rendez-vous tenu, un rendez-vous qualifié tenu et une opportunité acceptée par les commerciaux ne sont pas équivalents. Définissez des critères observables : adéquation de l’entreprise, rôle du participant, intérêt exprimé et présence. Précisez qui accepte ou conteste le dossier.",
+        "Fixez les règles pour les opportunités existantes, les contacts en double, les annulations, les absences et les changements de date. Reliez l’identifiant d’une réservation reportée au dossier initial : déplacer un rendez-vous ne crée pas automatiquement un nouveau prospect ni un nouveau fait facturable. Le contrat détermine la facture, pas le libellé du tableau de bord.",
+        "Demandez un registre minimal de rapprochement : identifiant et date de création de la réservation initiale, canal ou campagne, présence, décision de qualification, acceptation commerciale et nouvel identifiant en cas de remplacement. Ne conservez que le nécessaire et limitez les accès. Un rendez-vous qualifié tenu ne devient pas automatiquement une opportunité."
+      ]
+    },
+    "assess-linkedin-account-and-brand-risk": {
+      "title": "Précisez l’accès, les restrictions et le passage de relais",
+      "paragraphs": [
+        "Identifiez la personne qui enverra les messages, l’accès proposé, les logiciels utilisés et qui pourra arrêter l’activité. Consultez le Contrat d’utilisation en vigueur de LinkedIn avant d’autoriser la méthode. Son article 8.2 restreint le partage de comptes et l’activité automatisée non autorisée ; un plafond quotidien fixé par le prestataire ne garantit ni la conformité ni la sécurité du compte.",
+        "Convenez du traitement des restrictions, des objections et des demandes de ne plus être contacté. En fin de mission, précisez les données exportables, le format et le délai ; conservez les exclusions de contact et retirez les accès appropriés. N’acceptez pas une promesse de récupération garantie d’un compte restreint."
+      ]
+    },
+    "compare-proposals-with-an-evidence-pack": {
+      "title": "Demandez les mêmes preuves à chaque prestataire",
+      "paragraphs": [
+        "Demandez un exemple anonymisé ou fictif de sélection d’une entreprise, un message, la raison du choix du canal et un exemple de passage de relais après une réponse. Vérifiez que le message s’appuie sur une raison réelle et pertinente d’écrire, sans attribuer au destinataire un problème non confirmé. Un lien personnel peut être pertinent sans prouver une intention d’achat.",
+        "Faites traiter au prestataire la réponse de l’exemple initial où le rôle de l’interlocuteur reste incertain. Vérifiez ce qui manque et qui l’établit. Distinguez résultats vérifiés, affirmations du prestataire, exemples illustratifs et témoignages sélectionnés. Aucun ne permet, seul, de prévoir vos résultats."
+      ],
+      "list": [
+        "Quels travaux et outils sont inclus, avec quelles personnes et quelle disponibilité ?",
+        "Que doit valider ou fournir le client, et combien de temps cela prend-il ?",
+        "Que faut-il payer avant le lancement et sur la durée minimale ?",
+        "Quel fait est facturable, et comment les exceptions sont-elles résolues ?",
+        "Qui gère les réponses, les réservations et le retour des commerciaux ?",
+        "Quelles données et quels travaux validés peuvent être transmis en fin de mission ?"
+      ]
+    },
+    "beespoke-pricing-in-context": {
+      "title": "À quel besoin répond le service de Beespoke ?",
+      "paragraphs": [
+        "Le service outbound standard de Beespoke couvre le cold email et/ou la prospection à froid sur LinkedIn, sous la direction du fondateur. Le forfait est de 1 500 USD par mois hors Europe ou de 1 500 EUR en Europe, avec un minimum de trois mois et sans frais par rendez-vous. L’engagement pour le service de base est donc de 4 500 USD ou 4 500 EUR, avant les coûts de tiers convenus séparément. Les appels à froid sont exclus du prix de base et chiffrés selon le marché.",
+        "Beespoke recherche les prospects, rédige des messages individuels et assure, avec autorisation, la configuration et la coordination convenues de la campagne. Le client valide les listes et apporte les informations commerciales ainsi que son jugement sur l’adéquation des acheteurs ; il garde les entretiens de vente et la conclusion des contrats. Les messages suivent une structure, mais la raison d’écrire et la formulation varient selon la personne.",
+        "Le choix du canal suit l’activité du prospect, sans imposer LinkedIn en premier. Beespoke utilise généralement un premier message substantiel et une relance brève, puis envisage un autre canal pertinent plutôt que de multiplier les rappels. Le passage de relais utilise le système de réservation du client ; les réservations sont vérifiées par l’accès convenu au CRM ou par le retour du client.",
+        "Il s’agit d’une campagne gérée, pas d’une licence logicielle ni de la mise à disposition d’un SDR à temps plein. Les outils et données de tiers sont facturés séparément sauf inclusion dans le périmètre écrit. Confirmez la mission et les responsabilités avant de comparer uniquement le forfait."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Décidez avant de signer",
+      "paragraphs": [
+        "Choisissez seulement si le périmètre, la charge pour votre équipe, l’engagement et les preuves répondent au besoin. Laissez les questions ouvertes plutôt que d’inventer une note de qualité. Si l’expéditeur, le fait facturable ou le responsable des réponses reste inconnu, clarifiez-le avant de comparer les forfaits."
+      ],
+      "table": {
+        "caption": "Ce qu’une proposition utilisable doit permettre de vérifier",
+        "heads": [
+          "Sujet",
+          "Preuve à demander",
+          "Décision si elle manque"
+        ],
+        "rows": [
+          [
+            "Périmètre",
+            "Travaux, personnes, outils, canaux et exclusions précis",
+            "Demander le périmètre manquant"
+          ],
+          [
+            "Disponibilité du client",
+            "Une semaine type et la couverture des absences",
+            "Réduire le périmètre ou prévoir un relais"
+          ],
+          [
+            "Coûts",
+            "Échéances, durée minimale et coûts restant au client",
+            "Ne pas présumer du coût complet"
+          ],
+          [
+            "Résultats",
+            "Groupes comparables et étapes distinctes de présence et de qualification",
+            "Déclarer la comparaison incomplète"
+          ],
+          [
+            "Contrôle",
+            "Accès, traitement des incidents et passage de relais utilisable",
+            "Clarifier la méthode et la propriété avant le lancement"
+          ]
+        ]
+      }
+    }
+  },
+  "brief": {
+    "title": "Comparez chaque devis sur les mêmes sept points",
+    "intro": "Utilisez une copie par proposition. Une question sans réponse reste inconnue ; elle ne vaut pas zéro. Cette fiche sert à vos propres notes, pas à attribuer automatiquement une note au prestataire.",
+    "summary": "Voir les sept points de comparaison",
+    "fields": [
+      [
+        "1. Objectif et public",
+        "Segment, marché, langues et résultat recherché."
+      ],
+      [
+        "2. Travail et disponibilité",
+        "Personnes, canaux, recherche, messages, réponses, outils et exclusions."
+      ],
+      [
+        "3. Temps client",
+        "Validations, informations commerciales, responsable des ventes, minutes hebdomadaires et relais."
+      ],
+      [
+        "4. Montants et échéances",
+        "Démarrage, forfaits et variables, outils inclus, taxes, devise, factures et durée minimale."
+      ],
+      [
+        "5. Fait facturable",
+        "Critères observables d’acceptation, absences, annulations, litiges et reports."
+      ],
+      [
+        "6. Preuves et revue",
+        "Dossiers initiaux, présence, qualification, suivi comparable et date de revue."
+      ],
+      [
+        "7. Contrôle et transmission",
+        "Expéditeur, accès, incidents, exclusions de contact, format d’export et responsabilités en fin de mission."
+      ]
+    ]
+  },
+  "cohort": {
+    "title": "Changer de dénominateur peut changer la décision",
+    "paragraphs": [
+      "Si le travail client est couvert, poursuivez la comparaison fictive sur trois mois avec le même public, la même période active et le même suivi. À une date commune de revue, le résultat de toutes les réservations est connu : A compte 12 réservations initiales, huit rendez-vous tenus, deux annulations et deux absences. B compte dix réservations initiales, huit rendez-vous tenus, une annulation et une absence. Six des rendez-vous tenus d’A et sept de ceux de B remplissent les critères de qualification convenus.",
+      "Le coût par réservation initiale est de 10 010 ÷ 12 = 834,17 USD pour A et de 9 450 ÷ 10 = 945 USD pour B. Le coût par rendez-vous qualifié tenu est de 10 010 ÷ 6 = 1 668,33 USD pour A et de 9 450 ÷ 7 = 1 350 USD pour B. Le choix qui semblait le moins cher s’inverse. Il s’agit d’un calcul illustratif, pas d’une prévision de performance.",
+      "Si la qualification est inconnue, la comparaison est incomplète. Sans rendez-vous qualifié tenu, le coût unitaire est indéfini, pas nul ; la dépense existe toujours. Ne comparez pas un trimestre arrivé à maturité avec la première semaine d’une campagne et ne comptez pas deux fois un rendez-vous reporté. Séparez opportunités acceptées et clients gagnés."
+    ]
+  },
+  "economics": {
+    "title": "Calculez le seuil avec la marge, pas le chiffre d’affaires",
+    "paragraphs": [
+      "Supposons qu’un client gagné apporte 6 000 USD après les coûts de prestation, mais avant cette acquisition. Pour un programme entièrement chiffré à 9 450 USD, il faut deux ventes pour couvrir ce coût ; une seule n’apporte que 6 000 USD. Ajoutez les heures de vente et autres coûts d’acquisition manquants avant le calcul.",
+      "C’est un seuil, pas une prévision de ventes, de bénéfice ou de délai. Utilisez votre marge, votre cycle commercial réel et vos conversions observées. Un taux de conclusion inconnu reste inconnu ; le montant annuel d’un contrat n’est ni de la trésorerie encaissée ni une marge sur coûts variables."
+    ]
+  },
+  "faqs": [
+    [
+      "Quel est le coût moyen pour engager une agence de génération de leads sur LinkedIn ?",
+      "Il n’existe pas de moyenne comparable si un devis vend du logiciel et l’autre une campagne gérée. Comparez périmètre, temps client, coûts inclus et engagement minimum. Le service approuvé de Beespoke coûte 1 500 USD par mois, ou 1 500 EUR en Europe, pour le cold email et/ou LinkedIn à froid, avec un minimum de trois mois ; les appels sont séparés."
+    ],
+    [
+      "Le paiement par rendez-vous est-il moins cher qu’un forfait mensuel ?",
+      "Seuls le devis complet et les résultats observés permettent de répondre. Incluez forfaits, outils, démarrage et temps client, avec une même définition du rendez-vous qualifié tenu. Vérifiez les règles concernant absences, annulations, doublons et reports."
+    ],
+    [
+      "L’agence doit-elle utiliser mon profil LinkedIn ?",
+      "Identifiez l’expéditeur réel et vérifiez le mode d’accès proposé au regard des conditions en vigueur de LinkedIn avant d’accepter. Le Contrat d’utilisation restreint le partage de comptes et l’automatisation non autorisée. Votre permission ou un plafond quotidien ne rend pas toute méthode conforme et ne supprime pas le risque de restriction."
+    ],
+    [
+      "Que doit contenir le devis ?",
+      "Les sept points sont l’objectif et le public, le travail et la disponibilité, le temps client, les montants et échéances, le fait facturable, les preuves et la revue, puis le contrôle et la transmission. Notez les exclusions et questions ouvertes, pas seulement le forfait mensuel."
+    ],
+    [
+      "Le forfait inclut-il Sales Navigator et les données ?",
+      "Pas automatiquement. Demandez par écrit les licences nécessaires, les utilisateurs, les périodes de facturation et les quotas inclus. Comptez chaque dépense obligatoire une seule fois. L’accès au logiciel ne remplace ni la recherche ni la rédaction de messages individuels ni le traitement des réponses."
+    ],
+    [
+      "Puis-je gérer moi-même la prospection sur LinkedIn ?",
+      "Oui, si vous pouvez rechercher les prospects, écrire des messages pertinents, traiter les réponses et maintenir le travail dans le respect des conditions de la plateforme. Appuyez-vous sur votre disponibilité hebdomadaire réelle et l’activité des prospects. Acheter un outil n’impose pas de prendre aussi un service géré."
+    ],
+    [
+      "Comment évaluer les résultats des premiers mois ?",
+      "Convenez des conditions de lancement, de la période active, de la date de revue et du suivi nécessaire à la maturation des résultats. Séparez réservations initiales, présence, qualification, opportunités et ventes. La durée minimale est un engagement de facturation, pas une promesse d’un nombre de rendez-vous ou de ventes."
+    ]
+  ],
+  "sourceIntro": "Ce cadre d’achat a été revu le 16 novembre 2026 à partir d’articles publics actuels et du Contrat d’utilisation de LinkedIn. Les prix et les performances annoncés par les prestataires ne servent pas de références universelles. Tous les calculs de devis, de charge de travail et de résultats sont fictifs ; ce ne sont pas des résultats clients.",
+  "sourceDate": "Les références externes ci-dessous ont été relues le 16 novembre 2026. Confirmez tout prix, périmètre ou condition de résiliation réel dans le devis écrit du prestataire."
+}
