@@ -1,0 +1,222 @@
+{
+  "updated": "Actualitzat el 16 de novembre de 2026",
+  "answer": "Un centre de trucades outbound pot cobrar per hores assignades, capacitat reservada, ús o cites. Defineix primer el servei, inclou-hi els mínims i la posada en marxa i compara el mateix mes i moneda segons les reunions qualificades que realment s’hagin fet. Les llicències de programari són una altra compra. El servei gestionat habitual de Beespoke cobreix cold email i/o LinkedIn; les trucades en fred es pressuposten a part segons el mercat.",
+  "tool": {
+    "intro": "Fes servir el mateix mes, moneda i criteris escrits de qualificació per a totes dues propostes. Introdueix les teves xifres aprovades o carrega expressament l’exemple fictici en USD. Un cost desconegut no és zero.",
+    "summary": "Obre la calculadora opcional de pressupostos",
+    "load": "Carrega l’exemple fictici · USD",
+    "reset": "Esborra les xifres",
+    "empty": "Introdueix les deu xifres per calcular. Fes servir zero només si saps que el cost o el resultat és zero.",
+    "ready": "Totals mensuals calculats. El cost unitari queda indefinit si no s’ha fet cap reunió qualificada.",
+    "example": "Exemple fictici carregat. No són tarifes de proveïdors ni una previsió.",
+    "undefined": "Indefinit · cap reunió feta",
+    "noJs": "Les fórmules i els casos pràctics continuen disponibles sense JavaScript. Exemple fictici opcional: A suma 2.700 USD amb deu reunions qualificades fetes; B suma 3.700 USD amb dotze. Divideix els totals entre aquestes reunions, no entre les cites reservades."
+  },
+  "sections": {
+    "start-by-naming-the-call-center-service": {
+      "title": "Comprova primer què estàs contractant",
+      "paragraphs": [
+        "L’atenció compartida de trucades entrants, l’atenció al client dedicada, la prospecció outbound i el programari de centre de contacte cobreixen feines diferents. Una llicència econòmica no inclou una persona que investigui comptes i faci trucades. Un pla compartit d’atenció entrant tampoc no equival a una campanya outbound dedicada.",
+        "Concreta el mercat objectiu, l’idioma, la franja de trucades en el fus horari del comprador, la cobertura necessària i les responsabilitats del client. Pregunta quines hores es reserven per a la campanya, quines feines es comparteixen, qui aprova la llista i els missatges i com es cobreixen la formació, la supervisió, les absències i els traspassos. Comprova el domini de l’idioma i la competència per a la feina; el país, tot sol, no demostra la qualitat."
+      ],
+      "table": {
+        "caption": "Separa els serveis abans de comparar preus",
+        "heads": [
+          "Què contractes",
+          "Què has de comprovar"
+        ],
+        "rows": [
+          [
+            "Atenció compartida",
+            "Disponibilitat per a trucades entrants, desbordament i minuts facturables"
+          ],
+          [
+            "Capacitat outbound dedicada",
+            "Personal reservat, hores de trucades, recerca i supervisió"
+          ],
+          [
+            "Concertació de reunions",
+            "Reserves originals, assistència, qualificació i regles d’abonament"
+          ],
+          [
+            "Només programari",
+            "Llicències, ús i funcions; el personal es contracta a part"
+          ]
+        ]
+      }
+    },
+    "call-center-quote-audit": {
+      "title": "Compara les dues propostes amb les mateixes regles",
+      "paragraphs": [
+        "Defineix primer la feina: obtenció de llistes, recerca, guions, trucades, respostes, reserves, registres del CRM i revisions de qualitat. Assigna un responsable a cada tasca. Després, defineix la facturació: període, mínims, arrodoniment, ús inclòs i excepcions. Finalment, defineix el resultat: una reserva original, una reunió qualificada feta i una oportunitat comercial són fets diferents.",
+        "Demana a tots dos finalistes que reconstrueixin una factura a partir del mateix registre d’activitat. Si no pots vincular una partida amb una regla acordada i un registre, aclareix-la abans de comparar tarifes."
+      ]
+    },
+    "understand-the-main-outbound-pricing-models": {
+      "title": "Tria el model de cobrament segons la feina",
+      "paragraphs": [
+        "Una tarifa per hores o capacitat dedicada pot servir per a una càrrega de trucades definida, però has de saber qui paga el temps sense activitat. Les tarifes per minut o trucada necessiten definicions precises del temps connectat, la feina posterior, els intents fallits i l’arrodoniment. Una quota fixa necessita un abast i un límit de capacitat clars. Una tarifa per cita necessita regles d’acceptació, cancel·lació, duplicats i abonaments.",
+        "Un model híbrid pot combinar diversos càrrecs. No sumis dues vegades una quota de capacitat i un càrrec per ús si el pressupost diu que un ja inclou l’altre. Cap model no és sempre més barat o millor: el contracte i els resultats determinen la comparació."
+      ],
+      "list": [
+        "Capacitat: personal, hores assignades o un abast de campanya definit",
+        "Ús: trucades, minuts connectats o una altra unitat concreta",
+        "Resultat: reserves originals o un altre fet acceptat expressament",
+        "Híbrid: compromís base i càrrecs variables definits"
+      ]
+    },
+    "build-a-fully-loaded-quote-before-calculating-unit-cost": {
+      "title": "Reuneix tots els costos necessaris en un full",
+      "paragraphs": [
+        "Inclou-hi la posada en marxa i la formació, la capacitat reservada, la gestió, les dades i la recerca, la telefonia i els números, el programari, la feina al CRM, els enregistraments, les revisions de qualitat, els informes i la supervisió del client. Marca cada partida com a inclosa, addicional, no necessària o pendent de confirmar. Consulta el tractament fiscal aplicable amb l’assessor corresponent.",
+        "Si es cobra per ús, demana la definició del fet facturable i la regla d’arrodoniment. Com a comprovació aritmètica fictícia, una trucada connectada de 61 segons només passa a ser dos minuts si el contracte arrodoneix cada trucada al minut superior. Arrodonir cada trucada i arrodonir el total mensual pot donar factures diferents. No apliquis cap regla que no consti a l’oferta."
+      ]
+    },
+    "use-a-scenario-formula-instead-of-a-generic-market-average": {
+      "title": "Comprova què passa si es qualifiquen menys reunions",
+      "paragraphs": [
+        "Total mensual = càrrecs fixos + capacitat + ús facturable + extres necessaris + supervisió del client. Cost per reunió qualificada feta = aquest total dividit entre les reunions que realment s’han fet i han complert els mateixos criteris escrits. Anota d’on surt cada supòsit: els teus resultats, proves pertinents del proveïdor o una estimació sense contrastar.",
+        "L’exemple fictici de la calculadora fa servir A = 80 hores × 25 USD + 300 USD d’extres + 400 USD de supervisió = 2.700 USD. B = 20 reserves facturades × 150 USD + 300 USD d’extres + 400 USD de supervisió = 3.700 USD. Mantén aquests costos i canvia el nombre de reunions qualificades fetes. Són exemples, no preus de mercat ni resultats reals."
+      ],
+      "table": {
+        "caption": "L’opció més barata pot canviar segons els resultats · USD ficticis",
+        "heads": [
+          "Escenari",
+          "A: fetes / cost unitari",
+          "B: fetes / cost unitari"
+        ],
+        "rows": [
+          [
+            "Menys reunions compleixen els criteris",
+            "6 / 450,00 USD",
+            "8 / 462,50 USD"
+          ],
+          [
+            "Exemple carregat",
+            "10 / 270,00 USD",
+            "12 / 308,33 USD"
+          ],
+          [
+            "B millora l’assistència i l’encaix",
+            "10 / 270,00 USD",
+            "16 / 231,25 USD"
+          ]
+        ]
+      },
+      "after": "Si A costa 270 USD per reunió qualificada feta, B en necessita almenys catorze per resultar més barat: 3.700 ÷ 14 ≈ 264,29 USD. És un llindar per decidir, no un resultat promès. Amb zero reunions qualificades fetes, el cost unitari queda indefinit encara que la factura s’hagi de pagar."
+    },
+    "treat-compliance-and-brand-controls-as-scope-not-a-footnote": {
+      "title": "Assigna la responsabilitat del compliment i la marca",
+      "paragraphs": [
+        "Les obligacions aplicables depenen del públic, la jurisdicció, l’origen del número, el consentiment, la relació prèvia i la manera de trucar o enregistrar. Les fonts oficials de la FTC i l’ICO que trobaràs més avall serveixen com a punt de partida; no demostren que una campanya concreta sigui lícita.",
+        "Abans del llançament, demana a professionals qualificats que revisin el programa. Deixa per escrit qui gestiona les llistes d’exclusió, les baixes, la identificació de qui truca, els enregistraments, la conservació de dades, els subcontractistes i les incidències. Demana proves del procés, no una afirmació general que el proveïdor assumeix tots els riscos. Aquesta guia no és assessorament jurídic."
+      ]
+    },
+    "decide-whether-a-call-center-is-the-right-operating-model": {
+      "title": "Tria el model operatiu que necessites",
+      "paragraphs": [
+        "Un centre de trucades pot encaixar quan la feina se centra en el telèfon i necessita cobertura i supervisió definides. La prospecció gestionada pot encaixar si el fre és seleccionar comptes, investigar les persones, triar el canal, escriure missatges pertinents i atendre les respostes. Un lloc de trucades no resol tot sol un problema de segmentació o d’encaix de l’oferta."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Comprova les proves abans de signar",
+      "paragraphs": [
+        "Demana un registre d’hores de mostra, una factura desglossada, un exemple de revisió de qualitat i una conciliació entre reserves i CRM. Confirma qui aprova la feina addicional, com es gestionen les reclamacions i els abonaments, què es pot exportar i què passa quan s’acaba la campanya.",
+        "Si els resultats no arriben, identifica el fre abans de comprar més volum: dades inutilitzables, dificultat per contactar, converses febles, cites que no encaixen i absències requereixen respostes diferents. Acorda una data de revisió i les proves necessàries, en lloc d’inventar una nota de tall universal."
+      ]
+    }
+  },
+  "minimum": {
+    "title": "Comprova els pagaments i el compromís mínim",
+    "paragraphs": [
+      "Un pressupost fictici exigeix 100 hores al mes a 25 USD durant tres mesos, més 600 USD de posada en marxa. Fer servir només 80 hores no redueix la factura si es manté el mínim contractat. El compromís és de 8.100 USD abans d’altres costos necessaris; no és una oferta de trucades de Beespoke."
+    ],
+    "table": {
+      "caption": "El pagament efectiu i el cost repartit són diferents · contracte fictici",
+      "heads": [
+        "Període",
+        "Capacitat a pagar",
+        "Posada en marxa a pagar",
+        "Pagament total"
+      ],
+      "rows": [
+        [
+          "Mes 1",
+          "2.500 USD",
+          "600 USD",
+          "3.100 USD"
+        ],
+        [
+          "Mes 2",
+          "2.500 USD",
+          "0 USD",
+          "2.500 USD"
+        ],
+        [
+          "Mes 3",
+          "2.500 USD",
+          "0 USD",
+          "2.500 USD"
+        ],
+        [
+          "Compromís total",
+          "7.500 USD",
+          "600 USD",
+          "8.100 USD"
+        ]
+      ]
+    },
+    "after": "Repartir la posada en marxa a 200 USD al mes ajuda a comparar costos, però no canvia quan l’has de pagar. A l’exemple anterior de 68 hores productives, només els 2.500 USD de capacitat equivalen a uns 36,76 USD per hora productiva. Aquesta xifra exclou la posada en marxa i altres costos. Confirma l’inici de la facturació, les pauses, la capacitat no utilitzada, el preavís i la renovació abans de signar."
+  },
+  "ledger": {
+    "title": "Compta cada reserva original una sola vegada",
+    "paragraphs": [
+      "Revisa l’exemple anterior de sis reserves amb l’identificador original de cada cita. EX-01, EX-02 i EX-03 es van fer i es van acceptar; EX-04 es va fer, però no va complir els criteris; EX-05 i EX-06 continuen pendents. Són sis reserves originals, quatre reunions fetes i tres reunions qualificades fetes.",
+      "Si EX-02 canvia de data, vincula la nova cita amb EX-02 en lloc de comptar una setena reserva captada. Aplica els abonaments per cancel·lació o substitució segons el contracte i mantén oberts els casos pendents. Una entrada al calendari no demostra assistència, qualificació ni una oportunitat comercial."
+    ]
+  },
+  "brief": {
+    "title": "Dona el mateix brífing a tots dos proveïdors",
+    "paragraphs": [
+      "Fes servir el mateix abast fictici o aprovat per a totes les propostes. Un brífing útil concreta:"
+    ],
+    "list": [
+      "Comptes objectiu, càrrecs compradors, exclusions i responsable d’aprovar la llista",
+      "Mercat, idioma i franja de trucades amb fus horari",
+      "Responsables de recerca, guions, trucades, respostes i CRM",
+      "Capacitat necessària i definició d’hora o fet facturable",
+      "Posada en marxa, mínims, ús, extres i supervisió del client",
+      "Assistència, qualificació, duplicats i regles d’abonament",
+      "Proves, data de revisió, aprovació de canvis i finalització del servei i exportació"
+    ]
+  },
+  "faqs": [
+    [
+      "Com cobren els centres de trucades outbound?",
+      "Poden cobrar per personal, hores assignades o productives, trucades, minuts, abast de campanya o resultats definits. Compara el compromís total i el mateix resultat de reunions qualificades fetes, no només una tarifa destacada."
+    ],
+    [
+      "Quins costos he de comprovar a més de la tarifa principal?",
+      "Revisa la posada en marxa, la formació, la gestió, les dades, la telefonia, els números, el programari, el CRM, els enregistraments, la qualitat, els informes, la supervisió del client i els impostos aplicables. Deixa els imports desconeguts pendents de confirmar, no a zero."
+    ],
+    [
+      "He de pagar per cita?",
+      "Només després de definir l’empresa objectiu, el càrrec de l’assistent, la rellevància comercial, l’assistència, els duplicats, les cancel·lacions i els abonaments. Una reserva original i una reunió qualificada feta són fets diferents."
+    ],
+    [
+      "Repartir la posada en marxa canvia quan es paga?",
+      "No. Repartir un cost entre mesos serveix per comparar. La factura i el contracte determinen quan es paguen realment la posada en marxa i els altres càrrecs."
+    ],
+    [
+      "Què passa si no es fa cap reunió qualificada?",
+      "El cost per reunió qualificada feta queda indefinit. Mantén visible la factura total i investiga la feina i els resultats; no substitueixis el resultat absent per un cost unitari de zero."
+    ],
+    [
+      "Les xifres de l’exemple són preus de mercat?",
+      "No. Són supòsits ficticis per explicar el càlcul. Carrega l’exemple expressament o introdueix xifres aprovades de les propostes que estàs avaluant."
+    ]
+  ],
+  "serviceLink": "Consulta què inclou el servei gestionat de cold email",
+  "sourcesIntro": "Les fonts històriques següents expliquen models de facturació i límits del servei. Conserven la data de comprovació original; no són pressupostos actuals ni una mitjana universal del mercat. Els nous casos pràctics són ficticis. Revisa l’orientació oficial amb professionals qualificats segons la campanya concreta.",
+  "label": "Guia de compra de centres de trucades outbound"
+}

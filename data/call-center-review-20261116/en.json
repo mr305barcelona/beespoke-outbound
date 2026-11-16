@@ -1,0 +1,222 @@
+{
+  "updated": "Updated November 16, 2026",
+  "answer": "An outbound call-center quote can charge for staffed hours, reserved capacity, usage or appointments. Define the service first, include minimums and setup costs, and compare the same month and currency using qualified meetings actually held. Software seats are a different purchase. Beespoke’s standard managed service covers cold email and/or LinkedIn; cold calling is quoted separately by market.",
+  "tool": {
+    "intro": "Use the same month, currency and written qualification criteria for both proposals. Start with your own approved figures, or deliberately load the fictional USD example. Unknown costs are not zero.",
+    "summary": "Open the optional quote calculator",
+    "load": "Load fictional example · USD",
+    "reset": "Clear figures",
+    "empty": "Enter all ten figures to calculate. Use zero only when a cost or outcome is known to be zero.",
+    "ready": "Monthly totals calculated. A unit cost is undefined when no qualified meetings have been held.",
+    "example": "Fictional example loaded. These are not provider rates or a forecast.",
+    "undefined": "Undefined · zero held meetings",
+    "noJs": "The formulas and worked scenarios remain available without JavaScript. Optional fictional example: A totals 2,700 USD with ten held qualified meetings; B totals 3,700 USD with twelve. Divide the totals by those counts; do not divide by bookings."
+  },
+  "sections": {
+    "start-by-naming-the-call-center-service": {
+      "title": "First, check what the quote buys",
+      "paragraphs": [
+        "Shared answering, dedicated customer support, outbound prospecting and contact-center software buy different work. A low software seat price does not include a person researching accounts and making calls. A shared inbound answering plan is not a dedicated outbound campaign.",
+        "Write down the target market, language, calling window in the buyer’s time zone, required coverage and client responsibilities. Ask which hours are reserved for you, which work is shared, who approves the list and messages, and how training, supervision, absences and handoffs are covered. Check actual language and role competence rather than assuming quality from a country name."
+      ],
+      "table": {
+        "caption": "Separate the service before comparing the price",
+        "heads": [
+          "Purchase",
+          "What to verify"
+        ],
+        "rows": [
+          [
+            "Shared answering",
+            "Inbound availability, overflow and billable minutes"
+          ],
+          [
+            "Dedicated outbound capacity",
+            "Reserved people, calling hours, research and supervision"
+          ],
+          [
+            "Appointment setting",
+            "Original bookings, attendance, qualification and credit rules"
+          ],
+          [
+            "Software only",
+            "Seats, usage and features; staffing remains separate"
+          ]
+        ]
+      }
+    },
+    "call-center-quote-audit": {
+      "title": "Make both proposals use the same rules",
+      "paragraphs": [
+        "First define the work: list sourcing, research, scripts, calls, replies, booking, CRM records and quality reviews. Give each task an owner. Then define billing: period, minimums, rounding, included usage and exceptions. Finally define the result: an original booking, a held qualified meeting and a sales opportunity are different events.",
+        "Ask both finalists to reproduce one invoice from the same activity log. If a line cannot be traced to an agreed rule and record, clarify it before comparing headline rates."
+      ]
+    },
+    "understand-the-main-outbound-pricing-models": {
+      "title": "Match the billing model to the work",
+      "paragraphs": [
+        "Hourly or dedicated-capacity quotes can suit a defined calling workload, but ask who pays for unused time. Per-minute and per-call quotes need precise definitions of connected time, wrap-up, unsuccessful attempts and rounding. A retainer needs a clear scope and capacity limit. A booking fee needs acceptance, cancellation, duplicate and credit rules.",
+        "A hybrid can include several of these charges. Do not add a monthly capacity fee and a usage fee twice when the proposal says one already includes the other. No model is automatically cheaper or better; the contract and the outcomes determine the comparison."
+      ],
+      "list": [
+        "Capacity: agents, staffed hours or a defined campaign scope",
+        "Usage: calls, connected minutes or another stated unit",
+        "Outcome: original bookings or another explicitly accepted event",
+        "Hybrid: a base commitment plus defined variable charges"
+      ]
+    },
+    "build-a-fully-loaded-quote-before-calculating-unit-cost": {
+      "title": "Put every required cost on one sheet",
+      "paragraphs": [
+        "Include setup and training, reserved capacity, management, data and research, telephony and numbers, software, CRM work, recording, quality reviews, reporting and the client’s supervision. Mark each as included, additional, not required or still unknown. Confirm any applicable taxes with the relevant adviser rather than assuming a treatment.",
+        "For usage pricing, ask for the billable event and rounding rule. As a fictional arithmetic check, a 61-second connected call becomes two minutes only if the contract rounds each call up to a whole minute. Rounding individual calls and rounding a monthly total can produce different invoices. Do not apply either rule unless it is in the quote."
+      ]
+    },
+    "use-a-scenario-formula-instead-of-a-generic-market-average": {
+      "title": "Test what happens when fewer meetings qualify",
+      "paragraphs": [
+        "Monthly total = fixed charges + capacity + billable usage + required extras + client supervision. Cost per held qualified meeting = that total divided by meetings that actually took place and met the same written criteria. Keep a record of where each assumption came from: your own results, relevant provider evidence or an untested estimate.",
+        "The fictional calculator example uses A = 80 hours × 25 USD + 300 USD extras + 400 USD supervision = 2,700 USD. B = 20 billed bookings × 150 USD + 300 USD extras + 400 USD supervision = 3,700 USD. Keep those costs fixed and vary the held qualified meetings. These are illustrations, not market prices or results."
+      ],
+      "table": {
+        "caption": "The cheaper option can change with the outcome assumptions · fictional USD",
+        "heads": [
+          "Scenario",
+          "A held / unit cost",
+          "B held / unit cost"
+        ],
+        "rows": [
+          [
+            "Fewer meetings qualify",
+            "6 / 450.00 USD",
+            "8 / 462.50 USD"
+          ],
+          [
+            "Loaded example",
+            "10 / 270.00 USD",
+            "12 / 308.33 USD"
+          ],
+          [
+            "B has stronger attendance and fit",
+            "10 / 270.00 USD",
+            "16 / 231.25 USD"
+          ]
+        ]
+      },
+      "after": "At A’s example cost of 270 USD per held qualified meeting, B needs at least fourteen held qualified meetings to be cheaper: 3,700 ÷ 14 ≈ 264.29 USD. That is a decision threshold, not a promised result. With zero held qualified meetings, the unit cost is undefined even though the invoice is still payable."
+    },
+    "treat-compliance-and-brand-controls-as-scope-not-a-footnote": {
+      "title": "Name the compliance and brand owner",
+      "paragraphs": [
+        "Applicable duties depend on the audience, jurisdiction, number source, consent, existing relationship and how the calls are made or recorded. The official FTC and ICO sources below are starting points, not a finding that a particular campaign is lawful.",
+        "Before launch, have qualified advisers review the planned program. Put responsibility for suppression, opt-outs, caller identity, recording, data retention, subcontractors and incident handling in writing. Ask for the operating evidence, not a blanket statement that the vendor takes every risk. This guide is not legal advice."
+      ]
+    },
+    "decide-whether-a-call-center-is-the-right-operating-model": {
+      "title": "Choose the operating model you actually need",
+      "paragraphs": [
+        "A call center can fit a phone-led workload with defined coverage and supervision. Managed prospecting can fit when the bottleneck is selecting accounts, researching the people, choosing the channel, writing relevant messages and handling replies. Do not buy a calling seat to solve a problem that is mainly targeting or offer fit."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Check the evidence before signing",
+      "paragraphs": [
+        "Request a sample time log, a worked invoice, a quality-review example and a booking-to-CRM reconciliation. Confirm who approves extra work, how disputes and credits are handled, what can be exported and what happens when the campaign ends.",
+        "If results fall short, locate the constraint before buying more volume: unusable data, poor contactability, weak conversations, unsuitable bookings or missed meetings require different responses. Agree a review date and evidence requirements rather than inventing a universal pass mark."
+      ]
+    }
+  },
+  "minimum": {
+    "title": "Check cash due and the minimum commitment",
+    "paragraphs": [
+      "A fictional quote requires 100 hours per month at 25 USD for three months, plus 600 USD setup. Using only 80 hours does not reduce that invoice if the minimum is still due. The commitment is 8,100 USD before any other required costs; it is not the price of a Beespoke calling offer."
+    ],
+    "table": {
+      "caption": "Cash timing and allocated cost are different · fictional contract",
+      "heads": [
+        "Period",
+        "Capacity due",
+        "Setup due",
+        "Cash due"
+      ],
+      "rows": [
+        [
+          "Month 1",
+          "2,500 USD",
+          "600 USD",
+          "3,100 USD"
+        ],
+        [
+          "Month 2",
+          "2,500 USD",
+          "0 USD",
+          "2,500 USD"
+        ],
+        [
+          "Month 3",
+          "2,500 USD",
+          "0 USD",
+          "2,500 USD"
+        ],
+        [
+          "Total commitment",
+          "7,500 USD",
+          "600 USD",
+          "8,100 USD"
+        ]
+      ]
+    },
+    "after": "Allocating setup at 200 USD per month helps compare costs but does not change when cash is due. In the earlier 68-productive-hour example, 2,500 USD of capacity alone is about 36.76 USD per productive hour. That figure excludes setup and other costs. Confirm when billing starts, pause rights, unused capacity, notice and renewal before signing."
+  },
+  "ledger": {
+    "title": "Count the original booking once",
+    "paragraphs": [
+      "Reconcile the earlier six-booking example by original event identifier. EX-01, EX-02 and EX-03 were held and accepted; EX-04 took place but missed the criteria; EX-05 and EX-06 remain pending. There are six original bookings, four held meetings and three held qualified meetings.",
+      "If EX-02 moves to a new date, link the replacement to EX-02 rather than creating a seventh acquired booking. Apply any cancellation or replacement credit only under the agreed contract, and keep pending cases open. A calendar entry does not establish attendance, qualification or a sales opportunity."
+    ]
+  },
+  "brief": {
+    "title": "Give both bidders the same brief",
+    "paragraphs": [
+      "Use the same fictional or approved scope for every proposal. A useful brief specifies:"
+    ],
+    "list": [
+      "Target accounts, buyer roles, exclusions and list approval owner",
+      "Market, language and calling window with time zone",
+      "Who owns research, scripts, calls, replies and CRM updates",
+      "Required capacity and the definition of a billed hour or event",
+      "Setup, minimums, usage, extras and client supervision",
+      "Attendance, qualification, duplicate and credit rules",
+      "Evidence, review date, change approval and exit/export process"
+    ]
+  },
+  "faqs": [
+    [
+      "How do outbound call centers charge?",
+      "They may charge for agents, staffed or productive hours, calls, minutes, a campaign scope or defined outcomes. Compare the total commitment and the same held qualified outcome, not a headline unit alone."
+    ],
+    [
+      "What costs should I check beyond the headline rate?",
+      "Check setup, training, management, data, telephony, numbers, software, CRM work, recording, quality reviews, reporting, client supervision and any applicable taxes. Mark unknown items as unknown rather than zero."
+    ],
+    [
+      "Should I pay per appointment?",
+      "Only after defining the target company, attendee role, commercial relevance, attendance, duplicates, cancellations and credit rules. An original booking and a held qualified meeting are different events."
+    ],
+    [
+      "Does allocating setup change the cash payment?",
+      "No. An allocated monthly cost is a comparison method. The invoice and contract determine when setup and other charges are actually payable."
+    ],
+    [
+      "What if no qualified meetings take place?",
+      "The cost per held qualified meeting is undefined. Keep the total invoice visible, and investigate the work and outcomes rather than replacing the missing result with a zero unit cost."
+    ],
+    [
+      "Are the calculator example figures market rates?",
+      "No. They are fictional inputs used to explain the arithmetic. Load the example deliberately or enter approved figures from the proposals you are evaluating."
+    ]
+  ],
+  "serviceLink": "See what the managed cold-email service includes",
+  "sourcesIntro": "The historical sources below explain billing models and service boundaries. Their original check date remains visible; they are not current quotes or a universal market average. The new worked scenarios are fictional. Official guidance should be reviewed against the actual campaign with qualified advisers.",
+  "label": "Outbound call center buyer guide"
+}

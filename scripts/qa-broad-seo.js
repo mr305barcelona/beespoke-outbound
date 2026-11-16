@@ -7,6 +7,9 @@ assert(calc.validate(defaults));assert.deepEqual(calc.calculate(defaults),{aTota
 const zero={...defaults,aHeld:0,bHeld:0};assert(calc.validate(zero));assert.equal(calc.calculate(zero).aUnit,null);assert.equal(calc.calculate(zero).bUnit,null);
 assert.equal(calc.calculate({...defaults,aRate:0,aExtras:0,aInternal:0}).aUnit,0);
 for(const invalid of [{aHours:-1},{aRate:NaN},{aHeld:1.5},{bBookings:1.5},{bHeld:21},{aRate:Infinity},{aHours:1e308,aRate:1e308},{aHeld:Number.MAX_SAFE_INTEGER+1}])assert(!calc.validate({...defaults,...invalid}));
+assert(!calc.validate({...defaults,aHours:Number.MAX_SAFE_INTEGER,aRate:2}));
+assert(!calc.validate(Object.fromEntries(Object.entries(defaults).filter(([k])=>k!=='aExtras'))));
+const allZero=Object.fromEntries(Object.keys(defaults).map(k=>[k,0]));assert(calc.validate(allZero));assert.deepEqual(calc.calculate(allZero),{aTotal:0,bTotal:0,aUnit:null,bUnit:null});
 assert.equal(data.providers.length,12);assert.equal(new Set(data.providers.map(p=>p.provider)).size,12);assert.equal(data.historicalCheckedOn,'2026-07-24');
 for(const p of data.providers){assert(p.checkedOn===g.updated);assert(new URL(p.source).protocol==='https:');assert(p.status in data.statusDefinitions);if(['unavailable','conflicting','quote-only'].includes(p.status))assert.equal(p.currentQuotes.length,0);}
 for(const name of ['Cleverly','SaaS Leads','TargetFlow'])assert(data.providers.find(p=>p.provider===name).currentQuotes.every(q=>q.currency===null));

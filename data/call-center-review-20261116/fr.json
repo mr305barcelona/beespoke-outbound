@@ -1,0 +1,222 @@
+{
+  "updated": "Mis à jour le 16 novembre 2026",
+  "answer": "Un centre d’appels de prospection peut facturer des heures affectées, une capacité réservée, l’usage ou les rendez-vous. Définissez d’abord la prestation, intégrez les minimums et le démarrage, puis comparez le même mois et la même devise selon les rendez-vous qualifiés réellement tenus. Les licences logicielles constituent un autre achat. La prestation gérée habituelle de Beespoke couvre le cold email et/ou LinkedIn ; les appels à froid font l’objet d’un devis distinct selon le marché.",
+  "tool": {
+    "intro": "Utilisez le même mois, la même devise et les mêmes critères écrits de qualification pour les deux propositions. Saisissez vos chiffres approuvés ou chargez volontairement l’exemple fictif en USD. Un coût inconnu n’est pas nul.",
+    "summary": "Ouvrir le calculateur de devis facultatif",
+    "load": "Charger l’exemple fictif · USD",
+    "reset": "Effacer les chiffres",
+    "empty": "Saisissez les dix chiffres pour calculer. Utilisez zéro uniquement si le coût ou le résultat est réellement nul.",
+    "ready": "Totaux mensuels calculés. Le coût unitaire est indéfini si aucun rendez-vous qualifié n’a eu lieu.",
+    "example": "Exemple fictif chargé. Il ne s’agit ni de tarifs de prestataires ni d’une prévision.",
+    "undefined": "Indéfini · aucun rendez-vous tenu",
+    "noJs": "Les formules et les cas pratiques restent disponibles sans JavaScript. Exemple fictif facultatif : A totalise 2 700 USD pour dix rendez-vous qualifiés tenus ; B totalise 3 700 USD pour douze. Divisez les totaux par ces rendez-vous, et non par les réservations."
+  },
+  "sections": {
+    "start-by-naming-the-call-center-service": {
+      "title": "Vérifiez d’abord ce que vous achetez",
+      "paragraphs": [
+        "La réception d’appels partagée, le service client dédié, la prospection outbound et les logiciels de centre de contact couvrent des tâches différentes. Une licence peu coûteuse n’inclut pas une personne qui recherche des comptes et passe des appels. Une offre partagée de réception d’appels n’équivaut pas non plus à une campagne de prospection dédiée.",
+        "Précisez le marché cible, la langue, la plage d’appels dans le fuseau horaire de l’acheteur, la couverture nécessaire et les responsabilités du client. Demandez quelles heures vous sont réservées, quelles tâches sont partagées, qui approuve la liste et les messages, et comment sont couverts la formation, l’encadrement, les absences et les relais. Vérifiez la maîtrise de la langue et les compétences pour le poste ; un pays ne démontre pas à lui seul la qualité."
+      ],
+      "table": {
+        "caption": "Distinguez les prestations avant de comparer les prix",
+        "heads": [
+          "Achat",
+          "Points à vérifier"
+        ],
+        "rows": [
+          [
+            "Réception partagée",
+            "Disponibilité entrante, débordement et minutes facturables"
+          ],
+          [
+            "Capacité de prospection dédiée",
+            "Personnel réservé, heures d’appels, recherche et encadrement"
+          ],
+          [
+            "Prise de rendez-vous",
+            "Réservations initiales, présence, qualification et règles d’avoir"
+          ],
+          [
+            "Logiciel seul",
+            "Licences, usage et fonctionnalités ; le personnel reste distinct"
+          ]
+        ]
+      }
+    },
+    "call-center-quote-audit": {
+      "title": "Comparez les deux propositions selon les mêmes règles",
+      "paragraphs": [
+        "Définissez d’abord les tâches : constitution des listes, recherche, scripts, appels, réponses, réservations, saisie dans le CRM et contrôles qualité. Nommez un responsable pour chacune. Définissez ensuite la facturation : période, minimums, arrondis, usage inclus et exceptions. Enfin, définissez le résultat : une réservation initiale, un rendez-vous qualifié tenu et une opportunité commerciale sont des faits différents.",
+        "Demandez aux deux finalistes de reconstituer une facture à partir du même relevé d’activité. Si un poste ne peut pas être rattaché à une règle convenue et à un enregistrement, clarifiez-le avant de comparer les tarifs."
+      ]
+    },
+    "understand-the-main-outbound-pricing-models": {
+      "title": "Choisissez le mode de facturation selon le travail",
+      "paragraphs": [
+        "Un tarif horaire ou une capacité dédiée peut convenir à une charge d’appels définie, mais précisez qui paie les périodes sans activité. Les tarifs à la minute ou à l’appel nécessitent des définitions précises du temps connecté, du travail après appel, des tentatives infructueuses et des arrondis. Un forfait demande un périmètre et une limite de capacité clairs. Des frais par rendez-vous exigent des règles d’acceptation, d’annulation, de doublons et d’avoirs.",
+        "Un modèle hybride peut combiner plusieurs de ces frais. Ne comptez pas deux fois un forfait de capacité et des frais d’usage si le devis précise que l’un inclut déjà l’autre. Aucun modèle n’est systématiquement moins cher ou meilleur : le contrat et les résultats déterminent la comparaison."
+      ],
+      "list": [
+        "Capacité : personnel, heures affectées ou périmètre de campagne défini",
+        "Usage : appels, minutes connectées ou autre unité précisée",
+        "Résultat : réservations initiales ou autre fait expressément accepté",
+        "Hybride : engagement de base et frais variables définis"
+      ]
+    },
+    "build-a-fully-loaded-quote-before-calculating-unit-cost": {
+      "title": "Rassemblez tous les coûts nécessaires",
+      "paragraphs": [
+        "Incluez le démarrage et la formation, la capacité réservée, la gestion, les données et la recherche, la téléphonie et les numéros, les logiciels, le travail dans le CRM, les enregistrements, les contrôles qualité, les rapports et la supervision du client. Classez chaque poste : inclus, supplémentaire, non nécessaire ou à confirmer. Faites vérifier le traitement fiscal applicable par le conseiller compétent.",
+        "Pour une tarification à l’usage, demandez le fait générateur de facturation et la règle d’arrondi. À titre de vérification arithmétique fictive, un appel connecté de 61 secondes ne devient deux minutes que si le contrat arrondit chaque appel à la minute supérieure. Arrondir chaque appel ou le total mensuel peut produire des factures différentes. N’appliquez aucune règle qui ne figure pas dans l’offre."
+      ]
+    },
+    "use-a-scenario-formula-instead-of-a-generic-market-average": {
+      "title": "Testez une baisse des rendez-vous qualifiés tenus",
+      "paragraphs": [
+        "Total mensuel = frais fixes + capacité + usage facturable + suppléments nécessaires + supervision du client. Coût par rendez-vous qualifié tenu = ce total divisé par les rendez-vous qui ont réellement eu lieu et respectent les mêmes critères écrits. Notez l’origine de chaque hypothèse : vos résultats, des preuves pertinentes du prestataire ou une estimation non testée.",
+        "L’exemple fictif du calculateur utilise A = 80 heures × 25 USD + 300 USD de suppléments + 400 USD de supervision = 2 700 USD. B = 20 réservations facturées × 150 USD + 300 USD de suppléments + 400 USD de supervision = 3 700 USD. Conservez ces coûts et faites varier le nombre de rendez-vous qualifiés tenus. Il s’agit d’illustrations, pas de prix de marché ni de résultats réels."
+      ],
+      "table": {
+        "caption": "L’option la moins chère peut changer selon les résultats · USD fictifs",
+        "heads": [
+          "Scénario",
+          "A : tenus / coût unitaire",
+          "B : tenus / coût unitaire"
+        ],
+        "rows": [
+          [
+            "Moins de rendez-vous répondent aux critères",
+            "6 / 450,00 USD",
+            "8 / 462,50 USD"
+          ],
+          [
+            "Exemple chargé",
+            "10 / 270,00 USD",
+            "12 / 308,33 USD"
+          ],
+          [
+            "B améliore la présence et l’adéquation",
+            "10 / 270,00 USD",
+            "16 / 231,25 USD"
+          ]
+        ]
+      },
+      "after": "Si A coûte 270 USD par rendez-vous qualifié tenu, B doit en obtenir au moins quatorze pour être moins cher : 3 700 ÷ 14 ≈ 264,29 USD. C’est un seuil de décision, pas une promesse. Avec zéro rendez-vous qualifié tenu, le coût unitaire est indéfini même si la facture reste à payer."
+    },
+    "treat-compliance-and-brand-controls-as-scope-not-a-footnote": {
+      "title": "Nommez le responsable de la conformité et de la marque",
+      "paragraphs": [
+        "Les obligations applicables dépendent du public, de la juridiction, de l’origine du numéro, du consentement, de la relation préexistante et de la manière de passer ou d’enregistrer les appels. Les sources officielles de la FTC et de l’ICO ci-dessous sont des points de départ ; elles ne démontrent pas qu’une campagne précise est licite.",
+        "Avant le lancement, faites examiner le programme par des professionnels qualifiés. Précisez par écrit les responsabilités concernant les listes d’exclusion, les demandes de retrait, l’identification de l’appelant, les enregistrements, la conservation des données, les sous-traitants et les incidents. Demandez des preuves du fonctionnement, plutôt qu’une affirmation générale selon laquelle le prestataire assume tous les risques. Ce guide ne constitue pas un conseil juridique."
+      ]
+    },
+    "decide-whether-a-call-center-is-the-right-operating-model": {
+      "title": "Choisissez le modèle opérationnel dont vous avez besoin",
+      "paragraphs": [
+        "Un centre d’appels peut convenir à une activité principalement téléphonique avec une couverture et un encadrement définis. La prospection gérée peut convenir lorsque le frein réside dans le choix des comptes, la recherche sur les personnes, le canal, la rédaction de messages pertinents et le traitement des réponses. Un poste d’appels ne résout pas à lui seul un problème de ciblage ou d’adéquation de l’offre."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Vérifiez les preuves avant de signer",
+      "paragraphs": [
+        "Demandez un relevé d’heures type, une facture détaillée, un exemple de contrôle qualité et un rapprochement entre réservations et CRM. Confirmez qui approuve le travail supplémentaire, comment sont traités les litiges et les avoirs, quelles données sont exportables et ce qui se passe en fin de campagne.",
+        "Si les résultats ne suivent pas, identifiez le frein avant d’acheter davantage de volume : données inutilisables, difficulté à joindre les contacts, conversations faibles, rendez-vous hors cible et absences demandent des réponses différentes. Convenez d’une date de revue et des preuves nécessaires, plutôt que d’inventer une note de passage universelle."
+      ]
+    }
+  },
+  "minimum": {
+    "title": "Vérifiez les paiements et l’engagement minimum",
+    "paragraphs": [
+      "Un devis fictif impose 100 heures par mois à 25 USD pendant trois mois, plus 600 USD de démarrage. N’utiliser que 80 heures ne réduit pas la facture si le minimum contractuel reste dû. L’engagement est de 8 100 USD avant les autres coûts nécessaires ; il ne s’agit pas d’une offre d’appels de Beespoke."
+    ],
+    "table": {
+      "caption": "Paiement effectif et coût réparti sont différents · contrat fictif",
+      "heads": [
+        "Période",
+        "Capacité à payer",
+        "Démarrage à payer",
+        "Paiement total"
+      ],
+      "rows": [
+        [
+          "Mois 1",
+          "2 500 USD",
+          "600 USD",
+          "3 100 USD"
+        ],
+        [
+          "Mois 2",
+          "2 500 USD",
+          "0 USD",
+          "2 500 USD"
+        ],
+        [
+          "Mois 3",
+          "2 500 USD",
+          "0 USD",
+          "2 500 USD"
+        ],
+        [
+          "Engagement total",
+          "7 500 USD",
+          "600 USD",
+          "8 100 USD"
+        ]
+      ]
+    },
+    "after": "Répartir le démarrage à raison de 200 USD par mois facilite la comparaison, mais ne modifie pas son échéance de paiement. Dans l’exemple précédent de 68 heures productives, les seuls 2 500 USD de capacité représentent environ 36,76 USD par heure productive. Ce chiffre exclut le démarrage et les autres frais. Confirmez le début de facturation, les pauses, la capacité inutilisée, le préavis et le renouvellement avant de signer."
+  },
+  "ledger": {
+    "title": "Comptez chaque réservation initiale une seule fois",
+    "paragraphs": [
+      "Rapprochez les six réservations de l’exemple précédent à l’aide de leur identifiant initial. EX-01, EX-02 et EX-03 ont eu lieu et ont été acceptées ; EX-04 a eu lieu sans respecter les critères ; EX-05 et EX-06 restent en attente. Il y a six réservations initiales, quatre rendez-vous tenus et trois rendez-vous qualifiés tenus.",
+      "Si EX-02 change de date, rattachez le nouveau rendez-vous à EX-02 au lieu de compter une septième réservation acquise. Appliquez les avoirs pour annulation ou remplacement selon le contrat et laissez les cas en attente ouverts. Une entrée dans l’agenda ne démontre ni la présence, ni la qualification, ni une opportunité commerciale."
+    ]
+  },
+  "brief": {
+    "title": "Remettez le même brief aux deux prestataires",
+    "paragraphs": [
+      "Utilisez le même périmètre fictif ou approuvé pour toutes les propositions. Un brief utile précise :"
+    ],
+    "list": [
+      "Comptes cibles, fonctions acheteuses, exclusions et responsable de l’approbation de la liste",
+      "Marché, langue et plage d’appels avec fuseau horaire",
+      "Responsables de la recherche, des scripts, appels, réponses et mises à jour CRM",
+      "Capacité nécessaire et définition de l’heure ou du fait facturable",
+      "Démarrage, minimums, usage, suppléments et supervision du client",
+      "Présence, qualification, doublons et règles d’avoir",
+      "Preuves, date de revue, approbation des changements et sortie ou export"
+    ]
+  },
+  "faqs": [
+    [
+      "Comment facturent les centres d’appels de prospection ?",
+      "Ils peuvent facturer le personnel, les heures affectées ou productives, les appels, les minutes, un périmètre de campagne ou des résultats définis. Comparez l’engagement total et le même résultat de rendez-vous qualifiés tenus, plutôt qu’un seul tarif mis en avant."
+    ],
+    [
+      "Quels coûts vérifier au-delà du tarif principal ?",
+      "Vérifiez le démarrage, la formation, la gestion, les données, la téléphonie, les numéros, les logiciels, le CRM, les enregistrements, la qualité, les rapports, la supervision du client et les taxes applicables. Laissez les montants inconnus à confirmer, plutôt que de les remplacer par zéro."
+    ],
+    [
+      "Faut-il payer par rendez-vous ?",
+      "Seulement après avoir défini l’entreprise cible, la fonction du participant, la pertinence commerciale, la présence, les doublons, les annulations et les avoirs. Une réservation initiale et un rendez-vous qualifié tenu sont des faits différents."
+    ],
+    [
+      "Répartir le démarrage modifie-t-il sa date de paiement ?",
+      "Non. Répartir un coût entre plusieurs mois sert à comparer. La facture et le contrat déterminent les échéances réelles du démarrage et des autres frais."
+    ],
+    [
+      "Que se passe-t-il si aucun rendez-vous qualifié n’a lieu ?",
+      "Le coût par rendez-vous qualifié tenu est indéfini. Gardez la facture totale visible et examinez le travail et les résultats ; ne remplacez pas le résultat absent par un coût unitaire nul."
+    ],
+    [
+      "Les chiffres de l’exemple sont-ils des prix de marché ?",
+      "Non. Ce sont des hypothèses fictives destinées à expliquer le calcul. Chargez volontairement l’exemple ou saisissez les chiffres approuvés des propositions que vous évaluez."
+    ]
+  ],
+  "serviceLink": "Voir ce que comprend la prestation de cold email gérée",
+  "sourcesIntro": "Les sources historiques ci-dessous expliquent les modèles de facturation et les limites des prestations. Leur date de vérification initiale reste visible ; il ne s’agit ni de devis actuels ni d’une moyenne universelle du marché. Les nouveaux cas pratiques sont fictifs. Examinez les recommandations officielles avec des professionnels qualifiés selon la campagne envisagée.",
+  "label": "Guide d’achat des centres d’appels outbound"
+}

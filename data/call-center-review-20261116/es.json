@@ -1,0 +1,222 @@
+{
+  "updated": "Actualizado el 16 de noviembre de 2026",
+  "answer": "Un call center outbound puede cobrar por horas asignadas, capacidad reservada, uso o citas. Define primero el servicio, incluye los mínimos y la puesta en marcha y compara el mismo mes y moneda según las reuniones cualificadas que realmente se hayan celebrado. Las licencias de software son otra compra. El servicio gestionado habitual de Beespoke cubre cold email y/o LinkedIn; las llamadas en frío se presupuestan aparte según el mercado.",
+  "tool": {
+    "intro": "Usa el mismo mes, moneda y criterios escritos de cualificación para ambas propuestas. Introduce tus cifras aprobadas o carga expresamente el ejemplo ficticio en USD. Un coste desconocido no equivale a cero.",
+    "summary": "Abrir la calculadora opcional de presupuestos",
+    "load": "Cargar ejemplo ficticio · USD",
+    "reset": "Borrar cifras",
+    "empty": "Introduce las diez cifras para calcular. Usa cero solo si sabes que el coste o el resultado es cero.",
+    "ready": "Totales mensuales calculados. El coste unitario queda indefinido si no se ha celebrado ninguna reunión cualificada.",
+    "example": "Ejemplo ficticio cargado. No son tarifas de proveedores ni una previsión.",
+    "undefined": "Indefinido · ninguna reunión celebrada",
+    "noJs": "Las fórmulas y los casos prácticos siguen disponibles sin JavaScript. Ejemplo ficticio opcional: A suma 2.700 USD con diez reuniones cualificadas celebradas; B suma 3.700 USD con doce. Divide los totales entre esas reuniones, no entre las citas reservadas."
+  },
+  "sections": {
+    "start-by-naming-the-call-center-service": {
+      "title": "Comprueba primero qué estás contratando",
+      "paragraphs": [
+        "La atención compartida de llamadas entrantes, la atención al cliente dedicada, la prospección outbound y el software de centro de contacto cubren trabajos distintos. Una licencia económica no incluye a una persona que investigue cuentas y haga llamadas. Un plan compartido de atención entrante tampoco equivale a una campaña outbound dedicada.",
+        "Concreta el mercado objetivo, el idioma, la franja de llamadas en la zona horaria del comprador, la cobertura necesaria y las responsabilidades del cliente. Pregunta qué horas se reservan para tu campaña, qué tareas se comparten, quién aprueba la lista y los mensajes y cómo se cubren la formación, la supervisión, las ausencias y los traspasos. Comprueba el dominio del idioma y la competencia para el puesto; el país, por sí solo, no demuestra la calidad."
+      ],
+      "table": {
+        "caption": "Separa los servicios antes de comparar precios",
+        "heads": [
+          "Qué contratas",
+          "Qué debes comprobar"
+        ],
+        "rows": [
+          [
+            "Atención compartida",
+            "Disponibilidad para llamadas entrantes, desbordamiento y minutos facturables"
+          ],
+          [
+            "Capacidad outbound dedicada",
+            "Personal reservado, horas de llamadas, investigación y supervisión"
+          ],
+          [
+            "Concertación de reuniones",
+            "Reservas originales, asistencia, cualificación y reglas de abono"
+          ],
+          [
+            "Solo software",
+            "Licencias, uso y funciones; el personal se contrata aparte"
+          ]
+        ]
+      }
+    },
+    "call-center-quote-audit": {
+      "title": "Compara las dos propuestas con las mismas reglas",
+      "paragraphs": [
+        "Define primero el trabajo: obtención de listas, investigación, guiones, llamadas, respuestas, reservas, registros del CRM y revisiones de calidad. Asigna un responsable a cada tarea. Después, define la facturación: periodo, mínimos, redondeo, uso incluido y excepciones. Por último, define el resultado: una reserva original, una reunión cualificada celebrada y una oportunidad comercial son hechos distintos.",
+        "Pide a ambos finalistas que reconstruyan una factura a partir del mismo registro de actividad. Si una partida no se puede vincular con una regla acordada y un registro, aclárala antes de comparar tarifas."
+      ]
+    },
+    "understand-the-main-outbound-pricing-models": {
+      "title": "Elige el modelo de cobro según el trabajo",
+      "paragraphs": [
+        "Una tarifa por horas o capacidad dedicada puede servir para una carga de llamadas definida, pero debes saber quién paga el tiempo sin actividad. Las tarifas por minuto o llamada necesitan definiciones precisas del tiempo conectado, el trabajo posterior, los intentos fallidos y el redondeo. Una cuota fija necesita un alcance y un límite de capacidad claros. Una tarifa por cita necesita reglas de aceptación, cancelación, duplicados y abonos.",
+        "Un modelo híbrido puede combinar varios de estos cargos. No sumes dos veces una cuota de capacidad y un cargo por uso si el presupuesto indica que uno ya incluye al otro. Ningún modelo es siempre más barato o mejor: el contrato y los resultados determinan la comparación."
+      ],
+      "list": [
+        "Capacidad: personal, horas asignadas o un alcance de campaña definido",
+        "Uso: llamadas, minutos conectados u otra unidad concreta",
+        "Resultado: reservas originales u otro hecho aceptado de forma expresa",
+        "Híbrido: compromiso base y cargos variables definidos"
+      ]
+    },
+    "build-a-fully-loaded-quote-before-calculating-unit-cost": {
+      "title": "Reúne todos los costes necesarios en una hoja",
+      "paragraphs": [
+        "Incluye la puesta en marcha y la formación, la capacidad reservada, la gestión, los datos y la investigación, la telefonía y los números, el software, el trabajo en el CRM, las grabaciones, las revisiones de calidad, los informes y la supervisión del cliente. Marca cada partida como incluida, adicional, no necesaria o pendiente de confirmar. Consulta el tratamiento fiscal aplicable con el asesor correspondiente.",
+        "Si se cobra por uso, pide la definición del hecho facturable y la regla de redondeo. Como comprobación aritmética ficticia, una llamada conectada de 61 segundos solo pasa a ser dos minutos si el contrato redondea cada llamada al minuto superior. Redondear cada llamada y redondear el total mensual puede dar facturas distintas. No apliques ninguna regla que no figure en la oferta."
+      ]
+    },
+    "use-a-scenario-formula-instead-of-a-generic-market-average": {
+      "title": "Comprueba qué ocurre si se cualifican menos reuniones",
+      "paragraphs": [
+        "Total mensual = cargos fijos + capacidad + uso facturable + extras necesarios + supervisión del cliente. Coste por reunión cualificada celebrada = ese total dividido entre las reuniones que realmente se celebraron y cumplieron los mismos criterios escritos. Anota de dónde sale cada supuesto: tus resultados, pruebas pertinentes del proveedor o una estimación sin contrastar.",
+        "El ejemplo ficticio de la calculadora usa A = 80 horas × 25 USD + 300 USD de extras + 400 USD de supervisión = 2.700 USD. B = 20 reservas facturadas × 150 USD + 300 USD de extras + 400 USD de supervisión = 3.700 USD. Mantén esos costes y cambia el número de reuniones cualificadas celebradas. Son ejemplos, no precios de mercado ni resultados reales."
+      ],
+      "table": {
+        "caption": "La opción más barata puede cambiar según los resultados · USD ficticios",
+        "heads": [
+          "Escenario",
+          "A: celebradas / coste unitario",
+          "B: celebradas / coste unitario"
+        ],
+        "rows": [
+          [
+            "Menos reuniones cumplen los criterios",
+            "6 / 450,00 USD",
+            "8 / 462,50 USD"
+          ],
+          [
+            "Ejemplo cargado",
+            "10 / 270,00 USD",
+            "12 / 308,33 USD"
+          ],
+          [
+            "B mejora la asistencia y el encaje",
+            "10 / 270,00 USD",
+            "16 / 231,25 USD"
+          ]
+        ]
+      },
+      "after": "Si A cuesta 270 USD por reunión cualificada celebrada, B necesita al menos catorce para resultar más barato: 3.700 ÷ 14 ≈ 264,29 USD. Es un umbral para decidir, no un resultado prometido. Con cero reuniones cualificadas celebradas, el coste unitario queda indefinido aunque la factura siga siendo exigible."
+    },
+    "treat-compliance-and-brand-controls-as-scope-not-a-footnote": {
+      "title": "Asigna la responsabilidad del cumplimiento y la marca",
+      "paragraphs": [
+        "Las obligaciones aplicables dependen del público, la jurisdicción, el origen del número, el consentimiento, la relación previa y la forma de llamar o grabar. Las fuentes oficiales de la FTC y la ICO que aparecen más abajo sirven como punto de partida; no demuestran que una campaña concreta sea lícita.",
+        "Antes del lanzamiento, pide a profesionales cualificados que revisen el programa. Deja por escrito quién gestiona las listas de exclusión, las bajas, la identificación de quien llama, las grabaciones, la conservación de datos, los subcontratistas y las incidencias. Pide pruebas del proceso, no una afirmación general de que el proveedor asume todos los riesgos. Esta guía no es asesoramiento jurídico."
+      ]
+    },
+    "decide-whether-a-call-center-is-the-right-operating-model": {
+      "title": "Elige el modelo operativo que necesitas",
+      "paragraphs": [
+        "Un call center puede encajar cuando el trabajo se centra en el teléfono y necesita cobertura y supervisión definidas. La prospección gestionada puede encajar si el freno está en seleccionar cuentas, investigar a las personas, elegir el canal, escribir mensajes pertinentes y atender las respuestas. Un puesto de llamadas no resuelve por sí solo un problema de segmentación o de encaje de la oferta."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Comprueba las pruebas antes de firmar",
+      "paragraphs": [
+        "Pide un registro de horas de muestra, una factura desglosada, un ejemplo de revisión de calidad y una conciliación entre reservas y CRM. Confirma quién aprueba trabajo adicional, cómo se gestionan las reclamaciones y los abonos, qué se puede exportar y qué ocurre al terminar la campaña.",
+        "Si los resultados no llegan, identifica el freno antes de comprar más volumen: datos inutilizables, dificultad para contactar, conversaciones débiles, citas que no encajan y ausencias requieren respuestas distintas. Acuerda una fecha de revisión y las pruebas necesarias, en lugar de inventar una nota de corte universal."
+      ]
+    }
+  },
+  "minimum": {
+    "title": "Comprueba los pagos y el compromiso mínimo",
+    "paragraphs": [
+      "Un presupuesto ficticio exige 100 horas al mes a 25 USD durante tres meses, más 600 USD de puesta en marcha. Usar solo 80 horas no reduce la factura si se mantiene el mínimo contratado. El compromiso es de 8.100 USD antes de otros costes necesarios; no es una oferta de llamadas de Beespoke."
+    ],
+    "table": {
+      "caption": "El pago efectivo y el coste repartido son distintos · contrato ficticio",
+      "heads": [
+        "Periodo",
+        "Capacidad a pagar",
+        "Puesta en marcha a pagar",
+        "Pago total"
+      ],
+      "rows": [
+        [
+          "Mes 1",
+          "2.500 USD",
+          "600 USD",
+          "3.100 USD"
+        ],
+        [
+          "Mes 2",
+          "2.500 USD",
+          "0 USD",
+          "2.500 USD"
+        ],
+        [
+          "Mes 3",
+          "2.500 USD",
+          "0 USD",
+          "2.500 USD"
+        ],
+        [
+          "Compromiso total",
+          "7.500 USD",
+          "600 USD",
+          "8.100 USD"
+        ]
+      ]
+    },
+    "after": "Repartir la puesta en marcha a 200 USD al mes ayuda a comparar costes, pero no cambia cuándo debes pagarla. En el ejemplo anterior de 68 horas productivas, solo los 2.500 USD de capacidad equivalen a unos 36,76 USD por hora productiva. Esa cifra excluye la puesta en marcha y otros costes. Confirma el inicio de la facturación, las pausas, la capacidad no utilizada, el preaviso y la renovación antes de firmar."
+  },
+  "ledger": {
+    "title": "Cuenta una sola vez cada reserva original",
+    "paragraphs": [
+      "Revisa el ejemplo anterior de seis reservas con el identificador original de cada cita. EX-01, EX-02 y EX-03 se celebraron y se aceptaron; EX-04 se celebró, pero no cumplió los criterios; EX-05 y EX-06 siguen pendientes. Son seis reservas originales, cuatro reuniones celebradas y tres reuniones cualificadas celebradas.",
+      "Si EX-02 cambia de fecha, vincula la nueva cita con EX-02 en lugar de contar una séptima reserva captada. Aplica los abonos por cancelación o sustitución según el contrato y mantén abiertos los casos pendientes. Una entrada en el calendario no demuestra asistencia, cualificación ni una oportunidad comercial."
+    ]
+  },
+  "brief": {
+    "title": "Entrega el mismo brief a ambos proveedores",
+    "paragraphs": [
+      "Usa el mismo alcance ficticio o aprobado para todas las propuestas. Un brief útil concreta:"
+    ],
+    "list": [
+      "Cuentas objetivo, cargos compradores, exclusiones y responsable de aprobar la lista",
+      "Mercado, idioma y franja de llamadas con zona horaria",
+      "Responsables de investigación, guiones, llamadas, respuestas y CRM",
+      "Capacidad necesaria y definición de hora o hecho facturable",
+      "Puesta en marcha, mínimos, uso, extras y supervisión del cliente",
+      "Asistencia, cualificación, duplicados y reglas de abono",
+      "Pruebas, fecha de revisión, aprobación de cambios y finalización del servicio y exportación"
+    ]
+  },
+  "faqs": [
+    [
+      "¿Cómo cobran los call centers outbound?",
+      "Pueden cobrar por personal, horas asignadas o productivas, llamadas, minutos, alcance de campaña o resultados definidos. Compara el compromiso total y el mismo resultado de reuniones cualificadas celebradas, no solo una tarifa destacada."
+    ],
+    [
+      "¿Qué costes debo comprobar además de la tarifa principal?",
+      "Revisa la puesta en marcha, la formación, la gestión, los datos, la telefonía, los números, el software, el CRM, las grabaciones, la calidad, los informes, la supervisión del cliente y los impuestos aplicables. Deja los importes desconocidos pendientes de confirmar, no a cero."
+    ],
+    [
+      "¿Debo pagar por cita?",
+      "Solo después de definir la empresa objetivo, el cargo del asistente, la relevancia comercial, la asistencia, los duplicados, las cancelaciones y los abonos. Una reserva original y una reunión cualificada celebrada son hechos distintos."
+    ],
+    [
+      "¿Repartir la puesta en marcha cambia cuándo se paga?",
+      "No. Repartir un coste entre meses sirve para comparar. La factura y el contrato determinan cuándo se pagan realmente la puesta en marcha y los demás cargos."
+    ],
+    [
+      "¿Qué ocurre si no se celebra ninguna reunión cualificada?",
+      "El coste por reunión cualificada celebrada queda indefinido. Mantén visible la factura total e investiga el trabajo y los resultados; no sustituyas el resultado ausente por un coste unitario de cero."
+    ],
+    [
+      "¿Las cifras del ejemplo son precios de mercado?",
+      "No. Son supuestos ficticios para explicar el cálculo. Carga el ejemplo de forma expresa o introduce cifras aprobadas de las propuestas que estás evaluando."
+    ]
+  ],
+  "serviceLink": "Consulta qué incluye el servicio gestionado de cold email",
+  "sourcesIntro": "Las fuentes históricas siguientes explican modelos de facturación y límites del servicio. Conservan su fecha de comprobación original; no son presupuestos actuales ni un promedio universal del mercado. Los nuevos casos prácticos son ficticios. Revisa la orientación oficial con profesionales cualificados según la campaña concreta.",
+  "label": "Guía de compra de call centers outbound"
+}
