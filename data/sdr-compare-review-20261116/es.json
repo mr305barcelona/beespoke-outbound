@@ -1,0 +1,280 @@
+{
+  "label": "Contratar o externalizar un SDR",
+  "updated": "Actualizado el 16 de noviembre de 2026",
+  "answer": "Contrata internamente cuando el trabajo sea repetible, necesites desarrollar capacidad propia a largo plazo y alguien pueda formar al SDR. Externaliza un encargo definido cuando la disponibilidad y los métodos del proveedor encajen, manteniendo un responsable del cliente para las decisiones comerciales y el seguimiento de ventas. Compara el mismo calendario desde la decisión, el trabajo incluido, los compromisos de pago y el tiempo de gestión. Después compara periodos de actividad equivalentes: un salario y una cuota de agencia no compran necesariamente el mismo trabajo.",
+  "sections": {
+    "the-decision-in-one-table": {
+      "title": "Compara el trabajo, no solo quién contrata",
+      "paragraphs": [
+        "Un SDR externalizado puede ser una persona asignada, un equipo compartido o una campaña gestionada. Una persona que trabaja en remoto puede seguir bajo la dirección de tu responsable comercial. Confirma quién decide las prioridades diarias, redacta los mensajes, aporta los datos, revisa la calidad y atiende las respuestas antes de equiparar dos precios."
+      ],
+      "table": {
+        "caption": "Qué cambia al contratar o externalizar",
+        "heads": [
+          "Pregunta",
+          "Servicio externalizado",
+          "Puesto interno"
+        ],
+        "rows": [
+          [
+            "¿Cuándo puede empezar el trabajo?",
+            "Comprobar incorporación, aprobaciones y disponibilidad real",
+            "Planificar selección, fecha de inicio, accesos y formación supervisada"
+          ],
+          [
+            "¿Quién dirige la ejecución?",
+            "El proveedor asume solo el trabajo incluido en su alcance",
+            "Tu responsable forma y prioriza el trabajo del puesto"
+          ],
+          [
+            "¿Quién aporta el criterio comercial?",
+            "El cliente conserva la información sobre la oferta, el encaje y el seguimiento de ventas",
+            "La dirección comercial interna conserva esas mismas responsabilidades"
+          ],
+          [
+            "¿Qué capacidad hay?",
+            "Pedir personas, horas asignadas y otros compromisos",
+            "Repartir la semana entre las tareas reales"
+          ],
+          [
+            "¿Dónde queda el aprendizaje?",
+            "Exigir registros accesibles y un traspaso utilizable",
+            "Documentar el trabajo; contratar a alguien no lo conserva por sí solo"
+          ],
+          [
+            "¿Qué queda comprometido?",
+            "Cuotas, herramientas, puesta en marcha, plazo mínimo y renovaciones",
+            "Retribución, costes laborales, selección, herramientas y obligaciones de la contratación"
+          ]
+        ]
+      },
+      "after": "Ningún modelo garantiza reuniones, conocimiento inmediato del producto ni cobertura ininterrumpida. Pide el plan concreto en lugar de suponer que «dedicado», «gestionado» o «remoto» lo define."
+    },
+    "calculate-fully-loaded-cost": {
+      "title": "Calcula las primeras 12 semanas desde la decisión",
+      "paragraphs": [
+        "Amplía el calendario ficticio anterior con supuestos explícitos. La persona contratada empieza en la semana cinco y el primer contacto autorizado sigue en la semana siete. La prueba externa se factura desde la primera semana y empieza a contactar en la tercera si está preparada. Usa tres periodos de planificación de cuatro semanas, no un trimestre natural supuesto. Los importes no son referencias salariales, presupuestos de proveedores ni precios de Beespoke.",
+        "Para la contratación, supón 4.500 USD de retribución prevista y 900 USD de costes del empleador por periodo de cuatro semanas, durante dos periodos; herramientas a 300 USD durante dos periodos y una factura de selección de 2.000 USD. La gestión utiliza las tres horas semanales disponibles a un valor supuesto de 60 USD por hora. Para la prueba externa, supón 4.000 USD por periodo durante tres periodos, herramientas a 300 USD durante tres periodos, 1.000 USD de puesta en marcha y 1,5 horas semanales del cliente al mismo valor horario."
+      ],
+      "table": {
+        "caption": "Registro ficticio de pagos y gestión durante 12 semanas",
+        "heads": [
+          "Mismo periodo desde la decisión",
+          "Contratación interna · USD",
+          "Prueba externa · USD"
+        ],
+        "rows": [
+          [
+            "Retribución y costes laborales / honorarios",
+            "(4.500 + 900) × 2 = 10.800",
+            "4.000 × 3 = 12.000"
+          ],
+          [
+            "Herramientas",
+            "300 × 2 = 600",
+            "300 × 3 = 900"
+          ],
+          [
+            "Factura de selección / puesta en marcha",
+            "2.000",
+            "1.000"
+          ],
+          [
+            "Pagos totales de los conceptos indicados",
+            "13.400",
+            "13.900"
+          ],
+          [
+            "Tiempo de gestión valorado aparte",
+            "3 h × 12 × 60 = 2.160",
+            "1,5 h × 12 × 60 = 1.080"
+          ],
+          [
+            "Coste económico del trabajo indicado",
+            "15.560",
+            "14.980"
+          ]
+        ]
+      },
+      "after": "Los pagos y el coste económico dan respuestas distintas aquí, y ninguno demuestra la calidad de los resultados. La retribución durante la incorporación ya está incluida: no vuelvas a sumarla como «coste de adaptación». Separa el coste de oportunidad incierto de los pagos. Sustituye los supuestos por tus fechas y alcance, incluidos los incentivos, impuestos, equipos, datos o trabajo comercial que falten. Esto no es un cálculo completo del coste de adquisición de clientes. La diferencia económica es de 580 USD en este ejemplo; no demuestra que la capacidad ni la calidad de los resultados sean equivalentes."
+    },
+    "management-capacity-changes-the-answer": {
+      "title": "Comprueba a quien ejecutará y el tiempo real de gestión",
+      "paragraphs": [
+        "Una contratación necesita más que una descripción del puesto y un proveedor más que una presentación comercial. Entrega el mismo encargo ficticio o anonimizado a la persona que realmente ejecutaría el trabajo. Incluye solo datos aprobados del producto, criterios de selección y canales necesarios.",
+        "Pide una razón para escribir a una persona concreta, una elección de canal, un primer mensaje y un seguimiento breve. Después corrige un dato y solicita una revisión. Valora la precisión, la naturalidad, la moderación y la capacidad de aplicar comentarios, no la presentación impecable de alguien que no llevará la campaña.",
+        "Asigna quién resuelve dudas del producto, aprueba listas, atiende respuestas difíciles y lleva las primeras conversaciones de venta y el cierre. Reserva tiempo semanal real y cobertura de ausencias. Externalizar puede trasladar la dirección de la ejecución, pero no elimina tus responsabilidades comerciales. Si falta quien lleve el traspaso a ventas y los comentarios de seguimiento, resuélvelo antes de elegir."
+      ]
+    },
+    "control-learning-and-intellectual-property": {
+      "title": "Comprueba la continuidad antes de necesitarla",
+      "paragraphs": [
+        "Mantén a disposición del equipo autorizado el motivo del targeting, los mensajes aprobados, las respuestas, las decisiones de cualificación, las exclusiones y los siguientes pasos. Aclara los usos permitidos de los datos bajo licencia: pagar una cuota no concede automáticamente propiedad ni reutilización ilimitadas.",
+        "Haz la prueba de exportación y traspaso del ejemplo antes de depender de un empleado o de un proveedor. Otra persona autorizada debería poder identificar el siguiente paso sin reconstruir de memoria la conversación."
+      ],
+      "table": {
+        "caption": "Tres preguntas distintas sobre continuidad",
+        "heads": [
+          "Situación",
+          "Qué debes concretar",
+          "Prueba que debes comprobar"
+        ],
+        "rows": [
+          [
+            "Ausencia breve",
+            "¿Quién atiende respuestas y acciones previstas?",
+            "Una persona de relevo con acceso a las notas actualizadas"
+          ],
+          [
+            "Sustitución",
+            "¿Quién forma al sustituto y cubre el intervalo?",
+            "Información del producto, pasos de traspaso, plazos y posibles costes"
+          ],
+          [
+            "Final del encargo",
+            "¿Qué sigue siendo utilizable y quién retira los accesos?",
+            "Exportación probada, historial de exclusiones, permisos y responsabilidades escritas"
+          ]
+        ]
+      },
+      "after": "Una promesa de sustitución no garantiza productividad inmediata. Compartir un panel tampoco demuestra que se puedan transferir los registros de base."
+    },
+    "when-to-choose-each-model": {
+      "title": "Elige según la preparación y la demanda sostenida",
+      "paragraphs": [
+        "Contratar puede encajar si el modelo comercial está probado, hay trabajo sostenido para el puesto, el responsable puede formar a la persona y el aprendizaje directo del producto es importante. Un programa externo puede servir para una prueba definida o una falta de capacidad si se han comprobado las personas, el inicio y el trabajo que conserva el cliente. El equipo interno existente también puede ejecutar una prueba acotada.",
+        "Un modelo híbrido necesita un reparto real de responsabilidades. Por ejemplo, conserva internamente un segmento consolidado y utiliza ejecución externa para una prueba distinta. Comparte las exclusiones y asigna cada cuenta para que dos equipos no contacten por separado a la misma persona.",
+        "Revisa el plan inicial y otro de doce meses de funcionamiento estable con compromisos y capacidad reales. El ejemplo de 12 semanas no termina las obligaciones de la contratación ni establece el derecho a cancelar a un proveedor. Una cuota externa puede ser fija durante el plazo mínimo, y la capacidad interna puede aportar un valor que una tabla a corto plazo no refleja."
+      ],
+      "list": [
+        "Contrata internamente para trabajo sostenido comprobado y con formación disponible.",
+        "Elige ejecución externa para un encargo que el proveedor pueda cubrir de verdad.",
+        "Elige un modelo híbrido solo con responsabilidades y cuentas bien asignadas.",
+        "Aplaza la ampliación si siguen sin resolverse el público, la oferta, el responsable de ventas o la capacidad operativa."
+      ]
+    },
+    "where-beespoke-fits": {
+      "title": "Dónde encaja Beespoke en esta decisión",
+      "paragraphs": [
+        "Beespoke gestiona campañas de cold email y/o prospección en frío por LinkedIn, bajo la dirección del fundador. Investiga a los prospectos, redacta mensajes individuales y lleva la configuración y la coordinación autorizadas de la campaña. El cliente aprueba las listas, aporta los datos comerciales y su criterio sobre el encaje, y realiza las llamadas de venta y el cierre. El canal se elige según la actividad del prospecto, sin imponer LinkedIn como primer paso.",
+        "La cuota base es de 1.500 USD al mes fuera de Europa o 1.500 EUR en Europa, con un mínimo de tres meses y sin tarifa por reunión. Las llamadas se presupuestan aparte según el mercado. Los costes de terceros van aparte salvo que el alcance escrito los incluya. El fundador puede prestar el servicio en inglés, español, catalán y francés.",
+        "Es una campaña gestionada, no la asignación de un SDR a tiempo completo. Si necesitas una persona disponible cada día para llamadas, cualificación de solicitudes entrantes y administración del CRM, compara ese puesto con una propuesta de personal realmente equivalente. La cuota externa ficticia del cálculo no es una oferta de Beespoke."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Anota qué haría cambiar tu decisión",
+      "paragraphs": [
+        "Escribe una ficha breve antes de firmar o abrir el puesto. Deja abiertas las preguntas pendientes en lugar de inventar una puntuación de calidad. La opción más barata no está lista para empezar si no tiene una persona responsable de ejecutar, un responsable del cliente o un traspaso utilizable."
+      ],
+      "list": [
+        "Anota los supuestos sobre público y oferta que siguen sin demostrarse.",
+        "Estima el trabajo recurrente y las habilidades necesarias después de la prueba.",
+        "Asigna responsable de gestión y ventas, tiempo semanal y cobertura de ausencias.",
+        "Calcula el periodo inicial y el estable sin duplicar retribución ni herramientas incluidas.",
+        "Fija la fecha de revisión, las definiciones de resultados comparables y las pruebas necesarias para contratar, continuar, cambiar o parar."
+      ]
+    }
+  },
+  "model": {
+    "title": "¿Qué problema intentas resolver?",
+    "paragraphs": [
+      "Si el segmento o el mensaje aún no están probados, acota el aprendizaje antes de comprar capacidad permanente. Una persona interna o un proveedor externo pueden ejecutar una prueba bien definida.",
+      "Si falta capacidad de ejecución, compara disponibilidad real, horas asignadas y trabajo que conserva el cliente. Quién contrata a la persona no demuestra, por sí solo, la rapidez.",
+      "Si el modelo comercial es repetible y estratégico, sopesa la formación y el aprendizaje internos frente al alcance externo y su traspaso. Mantén visible la capacidad a largo plazo junto al coste inmediato."
+    ]
+  },
+  "record": {
+    "summary": "Ver una ficha breve de decisión",
+    "fields": [
+      [
+        "1. Decisión y encargo",
+        "¿Qué modelo, para qué trabajo y por qué ahora?"
+      ],
+      [
+        "2. Pruebas y preguntas abiertas",
+        "¿Qué se ha observado, supuesto o queda por saber?"
+      ],
+      [
+        "3. Preparación y responsables",
+        "¿Quién ejecuta, forma, aprueba listas y lleva el seguimiento comercial?"
+      ],
+      [
+        "4. Costes y compromisos",
+        "¿Qué son pagos, qué es tiempo valorado y qué sigue comprometido tras la revisión?"
+      ],
+      [
+        "5. Comparación justa",
+        "¿Qué periodos activos, público, canales, cualificación y seguimiento serán comparables?"
+      ],
+      [
+        "6. Revisión y cambio",
+        "¿Quién revisa cuándo, qué cambiaría la elección y cómo se hará el traspaso?"
+      ]
+    ]
+  },
+  "faqs": [
+    [
+      "¿Es más barato un SDR externalizado que uno interno?",
+      "No necesariamente. Compara el mismo encargo, fechas y compromiso, incluidas herramientas, costes laborales, puesta en marcha, selección y gestión que conservas. Separa las facturas del tiempo interno valorado. Una cuota externalizada puede seguir siendo fija durante el plazo mínimo."
+    ],
+    [
+      "¿Cuándo debería contratar una empresa a un SDR interno?",
+      "Cuando el trabajo sea suficientemente repetible y sostenido, importen el aprendizaje del producto o el control y un responsable pueda apoyar al SDR. Comprueba el público, el trabajo disponible, la formación y el traspaso a ventas, sin aplicar un umbral universal de ingresos o reuniones."
+    ],
+    [
+      "¿Cuándo encaja mejor externalizar?",
+      "Puede servir para una prueba acotada, una falta de capacidad comprobada o un encargo especializado si las personas y el alcance del proveedor encajan. Siguen importando la formación sobre el producto, las aprobaciones y el seguimiento comercial del cliente. Un inicio más rápido es un plan que comprobar, no una garantía."
+    ],
+    [
+      "¿Beespoke asigna un SDR a tiempo completo?",
+      "No. Ofrece una campaña gestionada por el fundador para cold email y/o LinkedIn en frío, no un refuerzo de plantilla SDR a tiempo completo. El servicio base cuesta 1.500 USD mensuales, o 1.500 EUR en Europa, con un mínimo de tres meses; las llamadas y los costes de terceros acordados van aparte."
+    ],
+    [
+      "¿Cómo se incluye el periodo de adaptación en el coste?",
+      "Usa la fecha real de incorporación y los periodos pagados. La retribución durante la formación ya está incluida en su partida; no vuelvas a sumarla como un segundo sueldo. Registra por separado el inicio tardío de actividad y compara periodos activos equivalentes con un seguimiento comparable."
+    ],
+    [
+      "¿Podemos combinar un SDR interno con un proveedor externo?",
+      "Sí, si se coordinan las cuentas, las responsabilidades, las exclusiones y los informes. Acuerda quién cambia los destinatarios y los mensajes, quién atiende respuestas y qué se puede traspasar. Dos equipos solapados con registros distintos no forman automáticamente un programa conjunto."
+    ],
+    [
+      "¿Qué resultados deberíamos comparar?",
+      "Separa reservas originales, asistencia, cualificación, aceptación comercial y ventas. Mantén comparables el público, el trabajo, el periodo activo y el seguimiento. Una cita reprogramada no es automáticamente una reserva nueva; la cualificación pendiente es desconocida, y no tener reuniones cualificadas y celebradas no significa no haber gastado."
+    ]
+  ],
+  "sourcesTitle": "Fuentes y método",
+  "sourcesIntro": "El 16 de noviembre de 2026 se revisaron artículos públicos de proveedores para comparar definiciones, gestión, incorporación y traspaso. Sus precios, ahorros y promesas de rendimiento no se adoptan como referencias universales. El calendario y el registro de costes son ficticios, no resultados de clientes ni ofertas actuales. Usa tus condiciones escritas y resultados observados.",
+  "pricingLink": "Consultar las condiciones actuales de Beespoke",
+  "references": [
+    {
+      "name": "Clarify",
+      "url": "https://clarifyb2b.com/resources/sdr-inhouse-vs-outsource-the-real-cost-of-an-either-or-approach/"
+    },
+    {
+      "name": "Kore BPO",
+      "url": "https://korebpo.com/in-house-vs-outsourced-sales-development-sdr/"
+    },
+    {
+      "name": "Lead Conneqt",
+      "url": "https://www.leadconneqt.com/blog/outsourced-sdr-vs-in-house"
+    },
+    {
+      "name": "AltiSales",
+      "url": "https://www.altisales.com/blog/sdr-as-a-service"
+    },
+    {
+      "name": "Televerde",
+      "url": "https://televerde.com/how-to-choose-between-in-house-vs-outsourced-sdr-teams/"
+    },
+    {
+      "name": "Hire Overseas",
+      "url": "https://www.hireoverseas.com/blogs/outsourced-sdr-agencies-vs-dedicated-remote-hires-for-saas"
+    }
+  ],
+  "linkLabels": {
+    "/guides/outsourced-sdr-cost/": "Calcular el coste de un servicio SDR externo",
+    "/research/2026-b2b-outbound-pricing-benchmark/": "Consultar el estudio de precios outbound",
+    "/guides/outsourced-sdr-vs-lead-generation-agency/": "Comparar personal SDR y campañas gestionadas",
+    "/services/outbound-sales-outsourcing/": "Ver el alcance outbound gestionado de Beespoke"
+  }
+}

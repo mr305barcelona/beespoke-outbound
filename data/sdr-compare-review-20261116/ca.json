@@ -1,0 +1,280 @@
+{
+  "label": "Contractar o externalitzar un SDR",
+  "updated": "Actualitzat el 16 de novembre de 2026",
+  "answer": "Contracta internament quan la feina sigui repetible, necessitis desenvolupar capacitat pròpia a llarg termini i algú pugui formar l’SDR. Externalitza un encàrrec definit quan la disponibilitat i els mètodes del proveïdor hi encaixin, mantenint un responsable del client per a les decisions comercials i el seguiment de vendes. Compara el mateix calendari des de la decisió, la feina inclosa, els compromisos de pagament i el temps de gestió. Després compara períodes d’activitat equivalents: un sou i una quota d’agència no compren necessàriament la mateixa feina.",
+  "sections": {
+    "the-decision-in-one-table": {
+      "title": "Compara la feina, no només qui contracta",
+      "paragraphs": [
+        "Un SDR externalitzat pot ser una persona assignada, un equip compartit o una campanya gestionada. Una persona que treballa en remot pot continuar sota la direcció del teu responsable comercial. Confirma qui decideix les prioritats diàries, redacta els missatges, aporta les dades, revisa la qualitat i atén les respostes abans d’equiparar dos preus."
+      ],
+      "table": {
+        "caption": "Què canvia quan contractes o externalitzes",
+        "heads": [
+          "Pregunta",
+          "Servei externalitzat",
+          "Lloc intern"
+        ],
+        "rows": [
+          [
+            "Quan pot començar la feina?",
+            "Comprovar incorporació, aprovacions i disponibilitat real",
+            "Planificar selecció, data d’inici, accessos i formació supervisada"
+          ],
+          [
+            "Qui dirigeix l’execució?",
+            "El proveïdor assumeix només la feina inclosa en l’abast",
+            "El teu responsable forma i prioritza la feina del lloc"
+          ],
+          [
+            "Qui aporta el criteri comercial?",
+            "El client conserva la informació de l’oferta, l’encaix i el seguiment de vendes",
+            "La direcció comercial interna conserva les mateixes responsabilitats"
+          ],
+          [
+            "Quina capacitat hi ha?",
+            "Demanar persones, hores assignades i altres compromisos",
+            "Repartir la setmana entre les tasques reals"
+          ],
+          [
+            "On queda l’aprenentatge?",
+            "Exigir registres accessibles i un traspàs utilitzable",
+            "Documentar la feina; contractar algú no la conserva per si sol"
+          ],
+          [
+            "Què queda compromès?",
+            "Quotes, eines, posada en marxa, termini mínim i renovacions",
+            "Retribució, costos laborals, selecció, eines i obligacions de la contractació"
+          ]
+        ]
+      },
+      "after": "Cap model garanteix reunions, coneixement immediat del producte ni cobertura ininterrompuda. Demana el pla concret en lloc de suposar que «dedicat», «gestionat» o «remot» el defineix."
+    },
+    "calculate-fully-loaded-cost": {
+      "title": "Calcula les primeres 12 setmanes des de la decisió",
+      "paragraphs": [
+        "Amplia el calendari fictici anterior amb supòsits explícits. La persona contractada comença a la cinquena setmana i el primer contacte autoritzat es manté a la setena. La prova externa es factura des de la primera setmana i comença a contactar a la tercera si està preparada. Fes servir tres períodes de planificació de quatre setmanes, no un trimestre natural suposat. Els imports no són referències salarials, pressupostos de proveïdors ni preus de Beespoke.",
+        "Per a la contractació, suposa 4.500 USD de retribució prevista i 900 USD de costos de l’ocupador per període de quatre setmanes, durant dos períodes; eines a 300 USD durant dos períodes i una factura de selecció de 2.000 USD. La gestió fa servir les tres hores setmanals disponibles a un valor suposat de 60 USD per hora. Per a la prova externa, suposa 4.000 USD per període durant tres períodes, eines a 300 USD durant tres períodes, 1.000 USD de posada en marxa i 1,5 hores setmanals del client al mateix valor horari."
+      ],
+      "table": {
+        "caption": "Registre fictici de pagaments i gestió durant 12 setmanes",
+        "heads": [
+          "Mateix període des de la decisió",
+          "Contractació interna · USD",
+          "Prova externa · USD"
+        ],
+        "rows": [
+          [
+            "Retribució i costos laborals / honoraris",
+            "(4.500 + 900) × 2 = 10.800",
+            "4.000 × 3 = 12.000"
+          ],
+          [
+            "Eines",
+            "300 × 2 = 600",
+            "300 × 3 = 900"
+          ],
+          [
+            "Factura de selecció / posada en marxa",
+            "2.000",
+            "1.000"
+          ],
+          [
+            "Pagaments totals dels conceptes indicats",
+            "13.400",
+            "13.900"
+          ],
+          [
+            "Temps de gestió valorat a part",
+            "3 h × 12 × 60 = 2.160",
+            "1,5 h × 12 × 60 = 1.080"
+          ],
+          [
+            "Cost econòmic de la feina indicada",
+            "15.560",
+            "14.980"
+          ]
+        ]
+      },
+      "after": "Els pagaments i el cost econòmic donen respostes diferents aquí, i cap dels dos demostra la qualitat dels resultats. La retribució durant la incorporació ja està inclosa: no la tornis a sumar com a «cost d’adaptació». Separa el cost d’oportunitat incert dels pagaments. Substitueix els supòsits per les teves dates i l’abast, inclosos els incentius, impostos, equips, dades o feina comercial que faltin. Això no és un càlcul complet del cost d’adquisició de clients. La diferència econòmica és de 580 USD en aquest exemple; no demostra que la capacitat ni la qualitat dels resultats siguin equivalents."
+    },
+    "management-capacity-changes-the-answer": {
+      "title": "Comprova qui executarà i el temps real de gestió",
+      "paragraphs": [
+        "Una contractació necessita més que una descripció del lloc i un proveïdor més que una presentació comercial. Dona el mateix encàrrec fictici o anonimitzat a la persona que realment faria la feina. Inclou només dades aprovades del producte, criteris de selecció i canals necessaris.",
+        "Demana un motiu per escriure a una persona concreta, una tria de canal, un primer missatge i un seguiment breu. Després corregeix una dada i demana una revisió. Valora la precisió, la naturalitat, la moderació i la capacitat d’aplicar comentaris, no la presentació impecable d’algú que no portarà la campanya.",
+        "Assigna qui resol dubtes del producte, aprova llistes, atén respostes difícils i porta les primeres converses de venda i el tancament. Reserva temps setmanal real i cobertura d’absències. Externalitzar pot traslladar la direcció de l’execució, però no elimina les teves responsabilitats comercials. Si falta qui assumeixi el traspàs a vendes i els comentaris de seguiment, resol-ho abans de triar."
+      ]
+    },
+    "control-learning-and-intellectual-property": {
+      "title": "Comprova la continuïtat abans de necessitar-la",
+      "paragraphs": [
+        "Mantén a disposició de l’equip autoritzat el motiu del targeting, els missatges aprovats, les respostes, les decisions de qualificació, les exclusions i els passos següents. Aclareix els usos permesos de les dades sota llicència: pagar una quota no concedeix automàticament propietat ni reutilització il·limitades.",
+        "Fes la prova d’exportació i traspàs de l’exemple abans de dependre d’un empleat o d’un proveïdor. Una altra persona autoritzada hauria de poder identificar el pas següent sense reconstruir la conversa de memòria."
+      ],
+      "table": {
+        "caption": "Tres preguntes diferents sobre continuïtat",
+        "heads": [
+          "Situació",
+          "Què has de concretar",
+          "Prova que has de comprovar"
+        ],
+        "rows": [
+          [
+            "Absència breu",
+            "Qui atén respostes i accions previstes?",
+            "Una persona de relleu amb accés a les notes actualitzades"
+          ],
+          [
+            "Substitució",
+            "Qui forma el substitut i cobreix l’interval?",
+            "Informació del producte, passos de traspàs, terminis i possibles costos"
+          ],
+          [
+            "Final de l’encàrrec",
+            "Què continua sent utilitzable i qui retira els accessos?",
+            "Exportació provada, historial d’exclusions, permisos i responsabilitats escrites"
+          ]
+        ]
+      },
+      "after": "Una promesa de substitució no garanteix productivitat immediata. Compartir un tauler tampoc demostra que es puguin transferir els registres de base."
+    },
+    "when-to-choose-each-model": {
+      "title": "Tria segons la preparació i la demanda sostinguda",
+      "paragraphs": [
+        "Contractar pot encaixar si el model comercial està provat, hi ha feina sostinguda per al lloc, el responsable pot formar la persona i l’aprenentatge directe del producte és important. Un programa extern pot servir per a una prova definida o una manca de capacitat si s’han comprovat les persones, l’inici i la feina que conserva el client. L’equip intern existent també pot executar una prova acotada.",
+        "Un model híbrid necessita un repartiment real de responsabilitats. Per exemple, conserva internament un segment consolidat i utilitza execució externa per a una prova diferent. Comparteix les exclusions i assigna cada compte perquè dos equips no contactin per separat amb la mateixa persona.",
+        "Revisa el pla inicial i un altre de dotze mesos de funcionament estable amb compromisos i capacitat reals. L’exemple de 12 setmanes no acaba les obligacions de la contractació ni estableix el dret de cancel·lar un proveïdor. Una quota externa pot ser fixa durant el termini mínim, i la capacitat interna pot aportar un valor que una taula a curt termini no reflecteix."
+      ],
+      "list": [
+        "Contracta internament per a feina sostinguda comprovada i amb formació disponible.",
+        "Tria execució externa per a un encàrrec que el proveïdor pugui cobrir de debò.",
+        "Tria un model híbrid només amb responsabilitats i comptes ben assignats.",
+        "Ajorna l’ampliació si continuen sense resoldre’s el públic, l’oferta, el responsable de vendes o la capacitat operativa."
+      ]
+    },
+    "where-beespoke-fits": {
+      "title": "On encaixa Beespoke en aquesta decisió",
+      "paragraphs": [
+        "Beespoke gestiona campanyes de cold email i/o prospecció en fred per LinkedIn, sota la direcció del fundador. Investiga els prospectes, redacta missatges individuals i porta la configuració i la coordinació autoritzades de la campanya. El client aprova les llistes, aporta les dades comercials i el seu criteri sobre l’encaix, i assumeix les trucades de venda i el tancament. El canal es tria segons l’activitat del prospecte, sense imposar LinkedIn com a primer pas.",
+        "La quota base és de 1.500 USD al mes fora d’Europa o 1.500 EUR a Europa, amb un mínim de tres mesos i sense tarifa per reunió. Les trucades es pressuposten a part segons el mercat. Els costos de tercers van a part llevat que l’abast escrit els inclogui. El fundador pot prestar el servei en anglès, castellà, català i francès.",
+        "És una campanya gestionada, no l’assignació d’un SDR a temps complet. Si necessites una persona disponible cada dia per a trucades, qualificació de consultes entrants i administració del CRM, compara aquest lloc amb una proposta de personal realment equivalent. La quota externa fictícia del càlcul no és una oferta de Beespoke."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Anota què faria canviar la teva decisió",
+      "paragraphs": [
+        "Escriu una fitxa breu abans de signar o obrir el lloc. Deixa obertes les preguntes pendents en lloc d’inventar una puntuació de qualitat. L’opció més barata no està a punt per començar si no té una persona responsable d’executar, un responsable del client o un traspàs utilitzable."
+      ],
+      "list": [
+        "Anota els supòsits sobre públic i oferta que continuen sense demostrar-se.",
+        "Estima la feina recurrent i les habilitats necessàries després de la prova.",
+        "Assigna responsable de gestió i vendes, temps setmanal i cobertura d’absències.",
+        "Calcula el període inicial i l’estable sense duplicar retribució ni eines incloses.",
+        "Fixa la data de revisió, les definicions de resultats comparables i les proves necessàries per contractar, continuar, canviar o aturar."
+      ]
+    }
+  },
+  "model": {
+    "title": "Quin problema intentes resoldre?",
+    "paragraphs": [
+      "Si el segment o el missatge encara no estan provats, acota l’aprenentatge abans de comprar capacitat permanent. Una persona interna o un proveïdor extern poden executar una prova ben definida.",
+      "Si falta capacitat d’execució, compara disponibilitat real, hores assignades i feina que conserva el client. Qui contracta la persona no demostra, per si sol, la rapidesa.",
+      "Si el model comercial és repetible i estratègic, sospesa la formació i l’aprenentatge interns davant l’abast extern i el seu traspàs. Mantén visible la capacitat a llarg termini al costat del cost immediat."
+    ]
+  },
+  "record": {
+    "summary": "Mostra una fitxa breu de decisió",
+    "fields": [
+      [
+        "1. Decisió i encàrrec",
+        "Quin model, per a quina feina i per què ara?"
+      ],
+      [
+        "2. Proves i preguntes obertes",
+        "Què s’ha observat, suposat o queda per saber?"
+      ],
+      [
+        "3. Preparació i responsables",
+        "Qui executa, forma, aprova llistes i porta el seguiment comercial?"
+      ],
+      [
+        "4. Costos i compromisos",
+        "Què són pagaments, què és temps valorat i què continua compromès després de la revisió?"
+      ],
+      [
+        "5. Comparació justa",
+        "Quins períodes actius, públic, canals, qualificació i seguiment seran comparables?"
+      ],
+      [
+        "6. Revisió i canvi",
+        "Qui revisa quan, què canviaria la tria i com es farà el traspàs?"
+      ]
+    ]
+  },
+  "faqs": [
+    [
+      "És més barat un SDR externalitzat que un d’intern?",
+      "No necessàriament. Compara el mateix encàrrec, dates i compromís, incloses eines, costos laborals, posada en marxa, selecció i gestió que conserves. Separa les factures del temps intern valorat. Una quota externalitzada pot continuar sent fixa durant el termini mínim."
+    ],
+    [
+      "Quan hauria de contractar una empresa un SDR intern?",
+      "Quan la feina sigui prou repetible i sostinguda, importin l’aprenentatge del producte o el control i un responsable pugui donar suport a l’SDR. Comprova el públic, la feina disponible, la formació i el traspàs a vendes, sense aplicar un llindar universal d’ingressos o reunions."
+    ],
+    [
+      "Quan encaixa millor externalitzar?",
+      "Pot servir per a una prova acotada, una manca de capacitat comprovada o un encàrrec especialitzat si les persones i l’abast del proveïdor hi encaixen. Continuen important la formació sobre el producte, les aprovacions i el seguiment comercial del client. Un inici més ràpid és un pla que cal comprovar, no una garantia."
+    ],
+    [
+      "Beespoke assigna un SDR a temps complet?",
+      "No. Ofereix una campanya gestionada pel fundador per a cold email i/o LinkedIn en fred, no un reforç de plantilla SDR a temps complet. El servei base costa 1.500 USD mensuals, o 1.500 EUR a Europa, amb un mínim de tres mesos; les trucades i els costos de tercers acordats van a part."
+    ],
+    [
+      "Com s’inclou el període d’adaptació al cost?",
+      "Fes servir la data real d’incorporació i els períodes pagats. La retribució durant la formació ja està inclosa a la seva partida; no la tornis a sumar com un segon sou. Registra per separat l’inici tardà de l’activitat i compara períodes actius equivalents amb un seguiment comparable."
+    ],
+    [
+      "Podem combinar un SDR intern amb un proveïdor extern?",
+      "Sí, si es coordinen els comptes, les responsabilitats, les exclusions i els informes. Acorda qui canvia els destinataris i els missatges, qui atén respostes i què es pot traspassar. Dos equips solapats amb registres diferents no formen automàticament un programa conjunt."
+    ],
+    [
+      "Quins resultats hauríem de comparar?",
+      "Separa reserves originals, assistència, qualificació, acceptació comercial i vendes. Mantén comparables el públic, la feina, el període actiu i el seguiment. Una cita reprogramada no és automàticament una reserva nova; la qualificació pendent és desconeguda, i no tenir reunions qualificades i celebrades no vol dir no haver gastat."
+    ]
+  ],
+  "sourcesTitle": "Fonts i mètode",
+  "sourcesIntro": "El 16 de novembre de 2026 es van revisar articles públics de proveïdors per comparar definicions, gestió, incorporació i traspàs. Els seus preus, estalvis i promeses de rendiment no s’adopten com a referències universals. El calendari i el registre de costos són ficticis, no resultats de clients ni ofertes actuals. Fes servir les teves condicions escrites i els resultats observats.",
+  "pricingLink": "Consulta les condicions actuals de Beespoke",
+  "references": [
+    {
+      "name": "Clarify",
+      "url": "https://clarifyb2b.com/resources/sdr-inhouse-vs-outsource-the-real-cost-of-an-either-or-approach/"
+    },
+    {
+      "name": "Kore BPO",
+      "url": "https://korebpo.com/in-house-vs-outsourced-sales-development-sdr/"
+    },
+    {
+      "name": "Lead Conneqt",
+      "url": "https://www.leadconneqt.com/blog/outsourced-sdr-vs-in-house"
+    },
+    {
+      "name": "AltiSales",
+      "url": "https://www.altisales.com/blog/sdr-as-a-service"
+    },
+    {
+      "name": "Televerde",
+      "url": "https://televerde.com/how-to-choose-between-in-house-vs-outsourced-sdr-teams/"
+    },
+    {
+      "name": "Hire Overseas",
+      "url": "https://www.hireoverseas.com/blogs/outsourced-sdr-agencies-vs-dedicated-remote-hires-for-saas"
+    }
+  ],
+  "linkLabels": {
+    "/guides/outsourced-sdr-cost/": "Calcula el cost d’un servei SDR extern",
+    "/research/2026-b2b-outbound-pricing-benchmark/": "Consulta l’estudi de preus outbound",
+    "/guides/outsourced-sdr-vs-lead-generation-agency/": "Compara personal SDR i campanyes gestionades",
+    "/services/outbound-sales-outsourcing/": "Consulta l’abast outbound gestionat de Beespoke"
+  }
+}

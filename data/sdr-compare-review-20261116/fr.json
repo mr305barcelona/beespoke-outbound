@@ -1,0 +1,280 @@
+{
+  "label": "Recruter ou externaliser un SDR",
+  "updated": "Mis à jour le 16 novembre 2026",
+  "answer": "Recrutez en interne lorsque le travail est reproductible, qu’une capacité durable est nécessaire et qu’un responsable peut accompagner le SDR. Externalisez une mission définie si la disponibilité réelle et les méthodes du prestataire y répondent, en gardant un responsable côté client pour les décisions commerciales et le suivi des ventes. Comparez le même calendrier depuis la décision, le travail inclus, les engagements de paiement et le temps de gestion. Comparez ensuite des périodes d’activité équivalentes : un salaire et un forfait d’agence n’achètent pas nécessairement le même travail.",
+  "sections": {
+    "the-decision-in-one-table": {
+      "title": "Comparez le travail, pas seulement l’employeur",
+      "paragraphs": [
+        "Un SDR externalisé peut être une personne affectée, une équipe partagée ou une campagne gérée. Un salarié à distance peut rester dirigé par votre responsable commercial. Précisez qui fixe les priorités quotidiennes, écrit les messages, fournit les données, contrôle la qualité et traite les réponses avant de considérer deux prix comme équivalents."
+      ],
+      "table": {
+        "caption": "Ce qui change entre recrutement et externalisation",
+        "heads": [
+          "Question",
+          "Prestation externalisée",
+          "Poste interne"
+        ],
+        "rows": [
+          [
+            "Quand le travail peut-il commencer ?",
+            "Vérifier intégration, validations et disponibilité réelle",
+            "Prévoir recrutement, date d’arrivée, accès et apprentissage supervisé"
+          ],
+          [
+            "Qui dirige l’exécution ?",
+            "Le prestataire assume seulement le travail inclus au périmètre",
+            "Votre responsable accompagne et priorise le poste"
+          ],
+          [
+            "Qui garde le jugement commercial ?",
+            "Le client conserve la vérité sur l’offre, l’adéquation de la cible et le suivi des ventes",
+            "La direction commerciale interne garde les mêmes responsabilités"
+          ],
+          [
+            "Quelle capacité est disponible ?",
+            "Demander les personnes, heures affectées et autres engagements",
+            "Répartir la semaine entre les tâches réelles"
+          ],
+          [
+            "Où reste l’apprentissage ?",
+            "Exiger des dossiers accessibles et un relais utilisable",
+            "Documenter le travail ; l’emploi seul ne le conserve pas"
+          ],
+          [
+            "Quels engagements restent dus ?",
+            "Forfaits, outils, démarrage, durée minimale et renouvellement",
+            "Rémunération, charges, recrutement, outils et obligations liées à l’emploi"
+          ]
+        ]
+      },
+      "after": "Aucun modèle ne garantit des rendez-vous, une connaissance immédiate du produit ou une couverture sans interruption. Demandez le plan concret plutôt que de supposer que « dédié », « géré » ou « à distance » le définit."
+    },
+    "calculate-fully-loaded-cost": {
+      "title": "Chiffrez les 12 premières semaines depuis la décision",
+      "paragraphs": [
+        "Prolongez le calendrier fictif précédent avec des hypothèses explicites. La personne recrutée arrive en semaine cinq et le premier contact autorisé reste en semaine sept. L’essai externe est facturé dès la première semaine et commence à prospecter en semaine trois s’il est prêt. Utilisez trois périodes de planification de quatre semaines, pas un trimestre civil présumé. Ces montants ne sont ni des références salariales ni des devis de prestataires ni les prix de Beespoke.",
+        "Pour le recrutement, supposons 4 500 USD de rémunération prévue et 900 USD de charges employeur par période de quatre semaines, pendant deux périodes ; des outils à 300 USD pendant deux périodes et une facture de recrutement de 2 000 USD. Le management utilise les trois heures hebdomadaires disponibles à une valeur supposée de 60 USD par heure. Pour l’essai externe, supposons 4 000 USD par période pendant trois périodes, des outils à 300 USD pendant trois périodes, 1 000 USD de démarrage et 1,5 heure client par semaine au même taux horaire."
+      ],
+      "table": {
+        "caption": "Registre fictif des paiements et du management sur 12 semaines",
+        "heads": [
+          "Même période depuis la décision",
+          "Recrutement interne · USD",
+          "Essai externe · USD"
+        ],
+        "rows": [
+          [
+            "Rémunération et charges / honoraires",
+            "(4 500 + 900) × 2 = 10 800",
+            "4 000 × 3 = 12 000"
+          ],
+          [
+            "Outils",
+            "300 × 2 = 600",
+            "300 × 3 = 900"
+          ],
+          [
+            "Facture de recrutement / démarrage",
+            "2 000",
+            "1 000"
+          ],
+          [
+            "Paiements totaux des éléments indiqués",
+            "13 400",
+            "13 900"
+          ],
+          [
+            "Temps de gestion valorisé séparément",
+            "3 h × 12 × 60 = 2 160",
+            "1,5 h × 12 × 60 = 1 080"
+          ],
+          [
+            "Coût économique du travail indiqué",
+            "15 560",
+            "14 980"
+          ]
+        ]
+      },
+      "after": "Les paiements et le coût économique donnent ici des réponses différentes, sans prouver la qualité des résultats. La rémunération pendant l’intégration est déjà incluse : ne l’ajoutez pas à nouveau comme « coût de montée en compétences ». Séparez le coût d’opportunité incertain des paiements. Remplacez les hypothèses par vos dates et votre périmètre, avec les primes, taxes, équipements, données ou tâches commerciales manquants. Ce n’est pas un calcul complet du coût d’acquisition client. L’écart économique est de 580 USD dans cette illustration ; il ne prouve pas une capacité ni une qualité de résultat équivalentes."
+    },
+    "management-capacity-changes-the-answer": {
+      "title": "Évaluez l’opérateur et le temps réel d’encadrement",
+      "paragraphs": [
+        "Un recrutement demande plus qu’une fiche de poste, et un prestataire plus qu’une présentation commerciale. Donnez le même brief fictif ou anonymisé à la personne qui ferait réellement le travail. Limitez-le aux faits produit validés, aux critères de ciblage et aux canaux nécessaires.",
+        "Demandez une raison d’écrire à un acheteur précis, un choix de canal, un premier message et une relance brève. Corrigez ensuite un fait et demandez une révision. Évaluez la précision, le naturel, la retenue et la capacité à intégrer les retours, plutôt que la présentation soignée d’une personne qui ne gérera pas la campagne.",
+        "Désignez qui répond aux questions produit, valide les listes, traite les réponses difficiles et assure les premiers entretiens de vente puis la conclusion. Réservez du temps hebdomadaire réel et une couverture des absences. Externaliser peut transférer le pilotage de l’exécution, mais pas vos responsabilités commerciales. Si personne ne prend en charge le relais vers les commerciaux et les retours, réglez ce point avant de choisir."
+      ]
+    },
+    "control-learning-and-intellectual-property": {
+      "title": "Vérifiez la continuité avant d’en avoir besoin",
+      "paragraphs": [
+        "Gardez à la disposition de l’équipe autorisée les raisons du ciblage, messages validés, réponses, décisions de qualification, exclusions de contact et prochaines actions. Clarifiez les usages permis des données sous licence : payer un forfait ne donne pas automatiquement une propriété ni une réutilisation illimitées.",
+        "Effectuez le test d’export et de passage de relais de l’exemple avant de dépendre d’un salarié ou d’un prestataire. Une autre personne autorisée devrait pouvoir trouver la prochaine action sans reconstituer la conversation de mémoire."
+      ],
+      "table": {
+        "caption": "Trois questions distinctes sur la continuité",
+        "heads": [
+          "Situation",
+          "Point à établir",
+          "Preuve à vérifier"
+        ],
+        "rows": [
+          [
+            "Absence courte",
+            "Qui couvre les réponses et les actions prévues ?",
+            "Une personne désignée ayant accès aux notes à jour"
+          ],
+          [
+            "Remplacement",
+            "Qui forme le remplaçant et couvre l’intervalle ?",
+            "Brief produit, étapes de relais, délais et éventuels coûts"
+          ],
+          [
+            "Fin de mission",
+            "Que reste-t-il d’utilisable et qui retire les accès ?",
+            "Export testé, historique des exclusions, permissions et responsabilités écrites"
+          ]
+        ]
+      },
+      "after": "Une promesse de remplacement ne garantit pas une productivité immédiate. Un tableau de bord partagé ne prouve pas que les dossiers sous-jacents peuvent être transmis."
+    },
+    "when-to-choose-each-model": {
+      "title": "Choisissez selon la préparation et la demande durable",
+      "paragraphs": [
+        "Recruter peut convenir si la démarche commerciale est éprouvée, le travail durable, le responsable disponible pour accompagner le SDR et l’apprentissage direct du produit important. Un programme externe peut répondre à un essai défini ou à un manque de capacité si les personnes, le démarrage et le travail restant au client ont été vérifiés. L’équipe interne existante peut aussi mener un essai limité.",
+        "Un modèle hybride exige une vraie répartition des responsabilités. Gardez, par exemple, un segment établi en interne et confiez un essai distinct à une équipe externe. Partagez les exclusions et attribuez chaque compte pour éviter que deux équipes contactent séparément la même personne.",
+        "Examinez le plan initial et un plan de douze mois en régime stable à partir des engagements et de la capacité réels. L’illustration sur 12 semaines ne met pas fin aux obligations d’emploi et n’établit pas les droits de résiliation du prestataire. Un forfait externe peut rester fixe pendant sa durée minimale, et la capacité interne peut avoir une valeur absente du tableau à court terme."
+      ],
+      "list": [
+        "Recrutez pour du travail durable vérifié, avec un encadrement disponible.",
+        "Externalisez une mission que le prestataire peut réellement couvrir.",
+        "Choisissez un modèle hybride seulement si responsabilités et comptes sont attribués.",
+        "Reportez l’expansion si la cible, l’offre, le responsable des ventes ou la capacité opérationnelle reste à préciser."
+      ]
+    },
+    "where-beespoke-fits": {
+      "title": "La place de Beespoke dans cette décision",
+      "paragraphs": [
+        "Beespoke gère des campagnes de cold email et/ou de prospection à froid sur LinkedIn, sous la direction du fondateur. Il recherche les prospects, rédige des messages individuels et assure la configuration et la coordination autorisées de la campagne. Le client valide les listes, apporte les informations commerciales et son jugement sur l’adéquation, puis assure les entretiens de vente et la conclusion. Le canal suit l’activité du prospect, sans imposer LinkedIn en premier.",
+        "Le forfait de base est de 1 500 USD par mois hors Europe ou de 1 500 EUR en Europe, avec un minimum de trois mois et sans frais par rendez-vous. Les appels font l’objet d’un devis distinct selon le marché. Les coûts de tiers sont séparés sauf inclusion dans le périmètre écrit. Le fondateur peut assurer la prestation en anglais, espagnol, catalan et français.",
+        "C’est une campagne gérée, pas la mise à disposition d’un SDR à temps plein. Si vous avez besoin d’une personne disponible chaque jour pour les appels, la qualification des demandes entrantes et l’administration CRM, comparez ce poste avec une proposition de personnel réellement équivalente. Le forfait externe fictif du calcul n’est pas une offre de Beespoke."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Notez ce qui ferait changer votre décision",
+      "paragraphs": [
+        "Rédigez une fiche courte avant de signer ou d’ouvrir le poste. Laissez les questions ouvertes plutôt que d’inventer une note de qualité. L’option moins chère n’est pas prête à démarrer si elle manque d’un opérateur responsable, d’un responsable client ou d’un passage de relais utilisable."
+      ],
+      "list": [
+        "Listez les hypothèses sur la cible et l’offre qui restent à vérifier.",
+        "Estimez le travail récurrent et les compétences nécessaires après l’essai.",
+        "Désignez les responsables de l’encadrement et des ventes, le temps hebdomadaire et la couverture des absences.",
+        "Chiffrez le démarrage et le régime stable sans compter deux fois la rémunération ou les outils inclus.",
+        "Fixez la date de revue, les définitions de résultats comparables et les preuves nécessaires pour recruter, poursuivre, changer ou arrêter."
+      ]
+    }
+  },
+  "model": {
+    "title": "Quel problème cherchez-vous à résoudre ?",
+    "paragraphs": [
+      "Si le segment ou le message reste à valider, limitez la tâche d’apprentissage avant d’acheter une capacité permanente. Un opérateur interne ou un prestataire externe peut mener un essai bien défini.",
+      "Si la capacité d’exécution manque, comparez la disponibilité réelle, les heures affectées et le travail restant au client. Le statut d’emploi ne prouve pas, à lui seul, la rapidité.",
+      "Si la démarche est reproductible et stratégique, pesez l’encadrement et l’apprentissage internes face au périmètre externe et au passage de relais. Gardez la capacité à long terme visible à côté du coût immédiat."
+    ]
+  },
+  "record": {
+    "summary": "Voir une courte fiche de décision",
+    "fields": [
+      [
+        "1. Décision et mission",
+        "Quel modèle, pour quel travail, et pourquoi maintenant ?"
+      ],
+      [
+        "2. Preuves et questions ouvertes",
+        "Qu’est-ce qui est observé, supposé ou encore inconnu ?"
+      ],
+      [
+        "3. Préparation et responsables",
+        "Qui exécute, accompagne, valide les listes et assure le suivi commercial ?"
+      ],
+      [
+        "4. Coûts et engagements",
+        "Quels sont les paiements, le temps valorisé et les engagements après la revue ?"
+      ],
+      [
+        "5. Comparaison équitable",
+        "Quelles périodes actives, cible, canaux, qualification et durée de suivi seront comparables ?"
+      ],
+      [
+        "6. Revue et changement",
+        "Qui examine quoi et quand, qu’est-ce qui changerait le choix, et comment transmettre le travail ?"
+      ]
+    ]
+  },
+  "faqs": [
+    [
+      "Un SDR externalisé coûte-t-il moins cher qu’un SDR interne ?",
+      "Pas automatiquement. Comparez la même mission, les dates et l’engagement, avec outils, charges employeur, démarrage, recrutement et gestion conservée. Séparez les factures du temps interne valorisé. Un forfait externe peut rester fixe pendant la durée minimale."
+    ],
+    [
+      "Quand une entreprise devrait-elle recruter un SDR en interne ?",
+      "Lorsque le travail est suffisamment reproductible et durable, que l’apprentissage du produit ou le contrôle compte et qu’un responsable peut soutenir le poste. Vérifiez cible, travail disponible, encadrement et relais commercial, sans seuil universel de chiffre d’affaires ou de rendez-vous."
+    ],
+    [
+      "Quand l’externalisation convient-elle mieux ?",
+      "Elle peut répondre à un essai limité, un manque de capacité vérifié ou une mission spécialisée si les personnes et le périmètre du prestataire conviennent. Formation produit, validations et suivi commercial client restent nécessaires. Un lancement plus rapide est un plan à vérifier, pas une garantie."
+    ],
+    [
+      "Beespoke met-il à disposition un SDR à temps plein ?",
+      "Non. Beespoke propose une campagne gérée par le fondateur pour le cold email et/ou LinkedIn à froid, pas un renfort SDR à temps plein. Le service de base coûte 1 500 USD par mois, ou 1 500 EUR en Europe, avec un minimum de trois mois ; appels et coûts de tiers convenus sont séparés."
+    ],
+    [
+      "Comment intégrer la montée en compétences au calcul ?",
+      "Utilisez la date d’arrivée réelle et les périodes payées. La rémunération pendant l’intégration est déjà dans sa ligne ; ne l’ajoutez pas comme un second salaire. Suivez séparément le démarrage différé et comparez des périodes actives équivalentes après un suivi comparable."
+    ],
+    [
+      "Peut-on combiner un SDR interne et un prestataire externe ?",
+      "Oui, si comptes, responsabilités, exclusions et reporting sont coordonnés. Convenez de qui change le ciblage et les messages, traite les réponses et transmet les dossiers. Deux équipes qui se chevauchent avec des données séparées ne forment pas automatiquement un seul programme."
+    ],
+    [
+      "Quels résultats faut-il comparer ?",
+      "Séparez réservations initiales, présence, qualification, acceptation commerciale et ventes. Gardez comparables cible, travail, période active et suivi. Un rendez-vous reporté ne devient pas automatiquement une nouvelle réservation ; une qualification manquante reste inconnue, et l’absence de rendez-vous qualifiés tenus n’efface pas les dépenses."
+    ]
+  ],
+  "sourcesTitle": "Sources et méthode",
+  "sourcesIntro": "Des articles publics de prestataires ont été examinés le 16 novembre 2026 pour comparer définitions, management, intégration et transmission. Leurs prix, économies et promesses de performance ne sont pas repris comme références universelles. Le calendrier et le registre de coûts sont fictifs, pas des résultats clients ni des offres actuelles. Utilisez vos conditions écrites et vos résultats observés.",
+  "pricingLink": "Consulter les conditions actuelles de Beespoke",
+  "references": [
+    {
+      "name": "Clarify",
+      "url": "https://clarifyb2b.com/resources/sdr-inhouse-vs-outsource-the-real-cost-of-an-either-or-approach/"
+    },
+    {
+      "name": "Kore BPO",
+      "url": "https://korebpo.com/in-house-vs-outsourced-sales-development-sdr/"
+    },
+    {
+      "name": "Lead Conneqt",
+      "url": "https://www.leadconneqt.com/blog/outsourced-sdr-vs-in-house"
+    },
+    {
+      "name": "AltiSales",
+      "url": "https://www.altisales.com/blog/sdr-as-a-service"
+    },
+    {
+      "name": "Televerde",
+      "url": "https://televerde.com/how-to-choose-between-in-house-vs-outsourced-sdr-teams/"
+    },
+    {
+      "name": "Hire Overseas",
+      "url": "https://www.hireoverseas.com/blogs/outsourced-sdr-agencies-vs-dedicated-remote-hires-for-saas"
+    }
+  ],
+  "linkLabels": {
+    "/guides/outsourced-sdr-cost/": "Chiffrer une mission SDR externalisée",
+    "/research/2026-b2b-outbound-pricing-benchmark/": "Consulter l’étude des prix outbound",
+    "/guides/outsourced-sdr-vs-lead-generation-agency/": "Comparer personnel SDR et campagnes gérées",
+    "/services/outbound-sales-outsourcing/": "Examiner le périmètre outbound géré de Beespoke"
+  }
+}

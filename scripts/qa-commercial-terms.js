@@ -52,6 +52,10 @@ for(const row of require('../data/editorial-reviewed-2026-10-19.json').filter(r=
  for(const file of row.pages){const html=fs.readFileSync(path.join(root,file),'utf8');
   if (/^(?:es|ca|fr)\/guides\/b2b-lead-generation-consultant-vs-agency\/index\.html$/.test(file)) {
    assert(html.includes('data-model-config'),file+': full localized replacement missing');
+  } else if (/^(?:es|ca|fr)\/compare\/outsourced-sdr-vs-in-house-sdr\/index\.html$/.test(file)) {
+   const native=require('../data/sdr-compare-review-20261116/'+file.split('/')[0]+'.json');
+   assert(html.includes('sdr-compare-review') && html.includes(esc(native.sections['where-beespoke-fits'].paragraphs[1])),file+': revised native scope and approved terms missing');
+   assert(native.faqs.every(([q,a])=>html.includes(esc(q))&&html.includes(esc(a))),file+': native visible FAQs missing');
   } else if(file==='fr/compare/sdr-outsourcing-vs-staff-augmentation/index.html' && !row.structuredOnly) {
    assert(html.includes('id="sdr-augmentation-review"') && html.includes('Quand le renfort externe convient'),file+': complete reviewed French replacement missing');
    assert(!html.includes('à le renfort'),file+': uncontracted French article remains');

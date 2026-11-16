@@ -1,0 +1,280 @@
+{
+  "label": "Hiring or outsourcing an SDR",
+  "updated": "Updated November 16, 2026",
+  "answer": "Build in-house when the work is repeatable, you need lasting internal capability and someone can coach the SDR. Outsource a defined job when the provider’s actual capacity and methods fit it, while keeping a client owner for commercial decisions and sales follow-through. Compare the same decision calendar, the work included, cash commitments and management time. Then compare equivalent active periods; a salary and an agency retainer do not automatically buy the same job.",
+  "sections": {
+    "the-decision-in-one-table": {
+      "title": "Compare the work, not just the employer",
+      "paragraphs": [
+        "An outsourced SDR can mean an assigned representative, a shared team or a managed campaign. A remote hire can still be directed by your own sales manager. Confirm who decides daily priorities, writes messages, supplies data, reviews quality and handles replies before treating two prices as equivalent."
+      ],
+      "table": {
+        "caption": "What changes when you hire or outsource",
+        "heads": [
+          "Question",
+          "Outsourced arrangement",
+          "In-house role"
+        ],
+        "rows": [
+          [
+            "When can work start?",
+            "Verify onboarding, approvals and actual availability",
+            "Plan recruiting, start date, access and supervised learning"
+          ],
+          [
+            "Who manages execution?",
+            "Provider owns only the work in its scope",
+            "Your manager coaches and prioritizes the role"
+          ],
+          [
+            "Who owns commercial judgment?",
+            "Client retains offer truth, target fit and sales follow-through",
+            "Internal sales leadership retains the same responsibilities"
+          ],
+          [
+            "How much capacity is available?",
+            "Ask for allocated people, hours and other commitments",
+            "Allocate the working week across the actual tasks"
+          ],
+          [
+            "Where does learning live?",
+            "Require accessible records and a usable handover",
+            "Document the work; employment alone does not preserve it"
+          ],
+          [
+            "What is committed?",
+            "Fees, tools, setup, minimum term and renewal rules",
+            "Pay, employer costs, recruiting, tools and employment obligations"
+          ]
+        ]
+      },
+      "after": "Neither model guarantees meetings, instant product knowledge or uninterrupted coverage. Ask for the specific operating plan rather than assuming that “dedicated,” “managed” or “remote” defines it."
+    },
+    "calculate-fully-loaded-cost": {
+      "title": "Cost the first 12 weeks from the decision date",
+      "paragraphs": [
+        "Extend the fictional calendar above with explicit assumptions. The hire starts in week five; first approved outreach remains week seven. The external test is billed from week one and begins approved outreach in week three if ready. Use three four-week planning periods, not an assumed calendar quarter. None of these inputs is a salary benchmark, provider quote or Beespoke price.",
+        "For the hire, assume 4,500 USD planned pay plus 900 USD employer costs per four-week period, paid for two periods, tools at 300 USD for two periods and a 2,000 USD recruiting invoice. Management uses the existing three-hour weekly allowance at an assumed 60 USD per hour. For the external test, assume 4,000 USD per period for three periods, tools at 300 USD for three periods, 1,000 USD setup and 1.5 client hours weekly at the same hourly value."
+      ],
+      "table": {
+        "caption": "Fictional 12-week cash and management ledger",
+        "heads": [
+          "Same decision window",
+          "Hire internally · USD",
+          "External test · USD"
+        ],
+        "rows": [
+          [
+            "Pay and employer costs / service fees",
+            "(4,500 + 900) × 2 = 10,800",
+            "4,000 × 3 = 12,000"
+          ],
+          [
+            "Tools",
+            "300 × 2 = 600",
+            "300 × 3 = 900"
+          ],
+          [
+            "Recruiting / setup invoice",
+            "2,000",
+            "1,000"
+          ],
+          [
+            "Cash total for the stated items",
+            "13,400",
+            "13,900"
+          ],
+          [
+            "Management time, valued separately",
+            "3 h × 12 × 60 = 2,160",
+            "1.5 h × 12 × 60 = 1,080"
+          ],
+          [
+            "Economic cost for the stated work",
+            "15,560",
+            "14,980"
+          ]
+        ]
+      },
+      "after": "Cash and economic cost give different answers here, and neither proves output quality. Count paid onboarding within the pay already included; do not add the same salary again under “ramp cost.” Show uncertain opportunity cost separately from cash. Replace all assumptions with your dates and scope, including any missing incentives, taxes, equipment, data or sales work. This is not a complete customer-acquisition-cost calculation. The economic difference is 580 USD in this illustration; that does not establish equivalent capacity or output quality."
+    },
+    "management-capacity-changes-the-answer": {
+      "title": "Test the operator and the available manager time",
+      "paragraphs": [
+        "A hire needs more than a job description, and a provider needs more than a sales presentation. Use the same fictional or sanitized brief for the actual person who would do the work. Include only approved product facts, account-fit criteria and the required channels.",
+        "Ask for a reason to contact a particular buyer, a channel choice, one opening and a brief follow-up. Then correct one fact and ask for a revision. Look for accurate reasoning, natural language, restraint and the ability to apply feedback—not a polished pitch by someone who will not operate the campaign.",
+        "Name who answers product questions, approves target lists, handles difficult replies and owns discovery and closing. Reserve real weekly time and absence cover. Outsourcing can move execution management; it does not remove your commercial responsibilities. If nobody can own the sales handoff and feedback, resolve that before choosing either model."
+      ]
+    },
+    "control-learning-and-intellectual-property": {
+      "title": "Check continuity before you need it",
+      "paragraphs": [
+        "Keep account rationale, approved messages, replies, qualification decisions, suppression records and next actions available to the authorized team. Clarify permitted use of licensed data; paying a fee does not automatically grant unrestricted ownership or reuse.",
+        "Run the export and handoff test in the worked example before depending on either an employee or a provider. Another authorized person should be able to identify the next action without reconstructing the conversation from memory."
+      ],
+      "table": {
+        "caption": "Three different continuity questions",
+        "heads": [
+          "Situation",
+          "What to establish",
+          "Evidence to check"
+        ],
+        "rows": [
+          [
+            "Short absence",
+            "Who covers replies and scheduled actions?",
+            "Named cover with access to current notes"
+          ],
+          [
+            "Replacement",
+            "Who trains the replacement and covers the gap?",
+            "Product briefing, handover steps, timing and any added cost"
+          ],
+          [
+            "End of engagement",
+            "What stays usable and who removes access?",
+            "Test export, suppression history, permissions and written responsibilities"
+          ]
+        ]
+      },
+      "after": "A replacement promise is not a guarantee of immediate productivity. Shared dashboards alone do not prove that the underlying records can be transferred."
+    },
+    "when-to-choose-each-model": {
+      "title": "Choose for readiness and durable demand",
+      "paragraphs": [
+        "Hiring can fit when the motion is proven, there is sustained work for the role, the manager can coach it and direct product learning matters. An external program can fit a defined test or capacity gap if its people, start date and retained client work have been verified. A bounded test can also run with existing internal staff.",
+        "A hybrid needs a real division of responsibility. For example, keep internal ownership of an established segment and use external execution for a distinct test. Share suppression decisions and define who owns each account so two teams do not contact the same person independently.",
+        "Review both the initial plan and a steady-state twelve-month plan using actual commitments and expected capacity. The 12-week illustration above does not end employment obligations or establish a supplier’s cancellation rights. External retainers can be fixed during a minimum term, and internal capability can have value that a short-term cost table does not capture."
+      ],
+      "list": [
+        "Choose in-house for verified ongoing work and available coaching.",
+        "Choose external execution for a defined job the provider can actually cover.",
+        "Choose a hybrid only when responsibilities and account ownership are clear.",
+        "Delay expansion when the audience, offer, sales owner or operating capacity remains unresolved."
+      ]
+    },
+    "where-beespoke-fits": {
+      "title": "Where Beespoke fits in this decision",
+      "paragraphs": [
+        "Beespoke runs founder-led managed cold-email and/or cold-LinkedIn campaigns. It researches prospects, writes individual messages and handles the authorized campaign setup and coordination. The client approves the target lists, supplies commercial facts and buyer-fit judgment, and runs sales calls and closing. Channel choice follows the prospect’s activity rather than a compulsory LinkedIn-first sequence.",
+        "The base fee is USD 1,500 per month outside Europe or EUR 1,500 in Europe, with a three-month minimum and no per-meeting fee. Calling is quoted separately by market. Third-party costs are separate unless included in the written scope. Service delivery is supported in English, Spanish, Catalan and French through the founder.",
+        "This is a managed campaign rather than a full-time SDR placement. If you need a representative available for a dedicated daily schedule of calling, inbound qualification and CRM administration, compare that role with a genuinely equivalent staffed proposal. The fictional external fee in the ledger is not a Beespoke offer."
+      ]
+    },
+    "buyer-decision-guide": {
+      "title": "Record what would change your decision",
+      "paragraphs": [
+        "Write one short record before signing or opening the role. Leave unknowns open instead of awarding an invented quality score. A cheaper option with no responsible operator, client owner or usable handoff is not ready to launch."
+      ],
+      "list": [
+        "List the audience and offer assumptions still unproven.",
+        "Estimate the recurring work and skills needed after the test.",
+        "Name the manager, sales owner, weekly time and absence cover.",
+        "Cost the initial and steady-state periods without double-counting pay or included tools.",
+        "Set the review date, comparable outcome definitions and evidence required to hire, continue, change or stop."
+      ]
+    }
+  },
+  "model": {
+    "title": "What problem are you trying to solve?",
+    "paragraphs": [
+      "If the segment or message is unproven, bound the learning task before buying permanent capacity. Either an internal operator or an external provider can run a well-defined test.",
+      "If execution capacity is missing, compare actual availability, assigned hours and retained client work. The employment label alone does not prove speed.",
+      "If the motion is repeatable and strategically important, weigh internal coaching and learning against the external scope and handover. Keep long-term capability visible alongside short-term cost."
+    ]
+  },
+  "record": {
+    "summary": "View a short decision record",
+    "fields": [
+      [
+        "1. Decision and job",
+        "Which model, for which work, and why now?"
+      ],
+      [
+        "2. Evidence and unknowns",
+        "What is observed, assumed or still missing?"
+      ],
+      [
+        "3. Readiness and ownership",
+        "Who operates, coaches, approves lists and owns sales follow-through?"
+      ],
+      [
+        "4. Cost and commitments",
+        "What is cash, what is valued time, and what remains committed after the review?"
+      ],
+      [
+        "5. Fair comparison",
+        "Which active periods, audience, channels, qualification and follow-up will match?"
+      ],
+      [
+        "6. Review and change",
+        "Who reviews when, what would change the choice, and how will handover work?"
+      ]
+    ]
+  },
+  "faqs": [
+    [
+      "Is an outsourced SDR cheaper than an in-house SDR?",
+      "Not automatically. Compare the same job, dates and commitment, including tools, employer costs, setup, recruiting and retained management. Separate invoices from valued internal time. An outsourced retainer can remain fixed during its minimum term."
+    ],
+    [
+      "When should a company hire an in-house SDR?",
+      "When the work is sufficiently repeatable and durable, product learning or control matters, and a manager can support the role. Verify the audience, available work, coaching and sales handoff rather than using a universal revenue or meeting threshold."
+    ],
+    [
+      "When does outsourcing fit better?",
+      "It can fit a bounded test, verified capacity gap or specialist job when the provider’s actual people and scope match the work. Product onboarding, approvals and client sales follow-through still matter. Faster launch is a plan to verify, not a guarantee."
+    ],
+    [
+      "Does Beespoke place a full-time SDR?",
+      "No. Beespoke provides a founder-led managed campaign for cold email and/or cold LinkedIn, not full-time SDR staff augmentation. The base service is USD 1,500 monthly, or EUR 1,500 in Europe, with a three-month minimum; calling and agreed third-party extras are separate."
+    ],
+    [
+      "How should ramp time enter the cost comparison?",
+      "Use the actual hire date and paid periods. Salary during onboarding is already part of the pay line; do not add it again as a second salary cost. Track delayed activity separately and compare equivalent active periods after comparable follow-up."
+    ],
+    [
+      "Can we combine an internal SDR with an external provider?",
+      "Yes, if account ownership, responsibilities, suppression records and reporting are coordinated. Agree who changes targeting and messages, who handles replies and what can be handed over. Two overlapping teams with separate records do not automatically form one program."
+    ],
+    [
+      "Which results should we compare?",
+      "Track original bookings, attendance, qualification, sales acceptance and wins separately. Keep the audience, work, active period and follow-up comparable. A rescheduled booking is not automatically another new booking; missing qualification is unknown, and zero qualified held meetings does not mean zero spend."
+    ]
+  ],
+  "sourcesTitle": "Sources and method",
+  "sourcesIntro": "Public provider articles were reviewed on November 16, 2026 to compare definitions, management, onboarding and handover. Their prices, savings and performance promises are not adopted as universal benchmarks. The calendar and cost ledger are fictional, not customer results or current offers. Use your own written terms and observed outcomes.",
+  "pricingLink": "Check Beespoke’s current terms",
+  "references": [
+    {
+      "name": "Clarify",
+      "url": "https://clarifyb2b.com/resources/sdr-inhouse-vs-outsource-the-real-cost-of-an-either-or-approach/"
+    },
+    {
+      "name": "Kore BPO",
+      "url": "https://korebpo.com/in-house-vs-outsourced-sales-development-sdr/"
+    },
+    {
+      "name": "Lead Conneqt",
+      "url": "https://www.leadconneqt.com/blog/outsourced-sdr-vs-in-house"
+    },
+    {
+      "name": "AltiSales",
+      "url": "https://www.altisales.com/blog/sdr-as-a-service"
+    },
+    {
+      "name": "Televerde",
+      "url": "https://televerde.com/how-to-choose-between-in-house-vs-outsourced-sdr-teams/"
+    },
+    {
+      "name": "Hire Overseas",
+      "url": "https://www.hireoverseas.com/blogs/outsourced-sdr-agencies-vs-dedicated-remote-hires-for-saas"
+    }
+  ],
+  "linkLabels": {
+    "/guides/outsourced-sdr-cost/": "Cost an outsourced SDR scope",
+    "/research/2026-b2b-outbound-pricing-benchmark/": "Review the existing outbound price benchmark",
+    "/guides/outsourced-sdr-vs-lead-generation-agency/": "Compare SDR staffing and managed campaigns",
+    "/services/outbound-sales-outsourcing/": "Explore Beespoke’s managed outbound scope"
+  }
+}
