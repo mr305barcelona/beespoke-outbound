@@ -28,7 +28,7 @@ for(const p of pages) for(const locale of ['en','es','ca','fr']) {
     assert(!visible.includes(esc(en)),`${route}: untranslated sprint text: ${en}`);
   }
   if(locale==='en') {
-    const body=html.split('<article>')[1]?.split('</main>')[0]||'';
+    const body=html.match(/<article\b[^>]*>([\s\S]*?)<\/main>/)?.[1]||'';
     for(const m of body.matchAll(/href="(\/[^"#?]+)"/g)) if(incoming.has(m[1])&&m[1]!==p.path)incoming.get(m[1]).add(p.path);
   }
 }

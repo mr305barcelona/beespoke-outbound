@@ -1975,5 +1975,81 @@
       "Crawl, indexation, buyer intent and commercial outcomes still need measurement",
       "Inspected source sample is bounded; native Google redirects were not treated as a universal domain ranking census"
     ]
+  },
+  {
+    "path": "/guides/cold-email-deliverability/",
+    "query": "cold email deliverability",
+    "reviewed": "2026-11-17",
+    "serpDifficulty": "Ahrefs qualitative Easy and range volume; direct Google challenged, not a current Google top20 census",
+    "keywordEvidence": {
+      "provider": "Ahrefs Free Keyword Generator",
+      "database": "Google United States",
+      "checkedOn": "2026-11-17",
+      "updatedOnDisplay": "31 October",
+      "estimatedMonthlyVolumeRange": ">100",
+      "qualitativeDifficulty": "Easy",
+      "numericKeywordDifficulty": null
+    },
+    "competitors": [
+      "https://www.mailreach.co/blog/cold-email-deliverability-sending-strategy",
+      "https://folderly.com/how-to-guides/cold-email-deliverability-checklist",
+      "https://www.clay.com/blog/b2b-cold-email-deliverability",
+      "https://www.aerosend.io/cold-email/glossary/cold-email-deliverability/",
+      "https://mailshake.com/features/email-deliverability/",
+      "https://oneaway.io/blog/cold-email-deliverability",
+      "https://mailmeteor.com/cold-email/deliverability",
+      "https://www.scaledmail.com/blogs/cold-email-deliverability-guide",
+      "https://www.outsoci.com/blog/cold-email-deliverability",
+      "https://automailer.io/cold-email-deliverability-guide",
+      "https://sparkle.io/blog/cold-email-deliverability/",
+      "https://salesbread.com/cold-email-deliverability-checklist/",
+      "https://www.aremsales.com/blog/email-deliverability-checklist",
+      "https://bouncezero.io/cold-email-deliverability-checklist",
+      "https://mailshake.com/blog/the-ultimate-2026-cold-email-deliverability-checklist/",
+      "https://coldmailer.ai/blog/email-deliverability-audit",
+      "https://quickmail.com/cold-email-deliverability-audit",
+      "https://www.warmforge.ai/blog/cold-email-deliverability-audit",
+      "https://glockapps.com/blog/how-to-fix-cold-email-deliverability-issues/",
+      "https://thunderbit.com/blog/cold-email-deliverability",
+      "https://prospectingtoolkit.com/cold-email-deliverability-audit-checklist/",
+      "https://getle.ad/blog/cold-email-deliverability-audit"
+    ],
+    "coverage": "20 main written articles plus glossary and service page; videos and gated assets excluded",
+    "serpRequirements": [
+      "Give one URL a distinct buyer job",
+      "Answer the question before the checklist",
+      "Separate every outcome stage",
+      "Publish a scoped provider requirements matrix",
+      "Make unsubscribe mechanisms precise",
+      "Show real-message authentication interpretation",
+      "Create a complete evidence inventory",
+      "Use cohorts and denominators that reconcile",
+      "Diagnose SMTP errors by stage and full response",
+      "Explain what placement tests can and cannot show",
+      "Handle missing provider reporting honestly",
+      "Keep complaint rates attached to their provider",
+      "Separate recipient expectations from address verification",
+      "Replace universal warm-up and safe-volume recipes",
+      "Explain infrastructure risk without promising containment",
+      "Make the incident workflow more useful than a generic recovery list",
+      "Define resume and rollback decisions",
+      "Give the reader a private usable worksheet",
+      "Keep human relevance without magical copy rules",
+      "Build a restrained readable article experience",
+      "Connect diagnosis to the correct existing buyer pages",
+      "Complete all four languages without changing the facts",
+      "Make answers and sources independently understandable",
+      "Measure qualified demand and preserve the evidence"
+    ],
+    "beespokeAdvantages": [
+      "Complete fictional incident with reconciled cohort, unknowns, alternatives and responsibility",
+      "Provider-scoped rules, denominators and reporting gaps",
+      "Private evidence register without uploads, account access or readiness score"
+    ],
+    "externalConstraints": [
+      "Direct Google access challenged; snapshot dated17days",
+      "US vendor demand ranges are not forecasts or localized demand",
+      "Authority,indexing and genuine bookings need separate measurement"
+    ]
   }
 ]

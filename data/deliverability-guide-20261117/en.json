@@ -1,0 +1,585 @@
+{
+  "title": "Cold Email Deliverability: Checks and Recovery | Beespoke",
+  "h1": "Cold email deliverability: diagnose the problem before sending more",
+  "description": "Distinguish rejected mail from inbox placement, check provider requirements, and work through a deliverability incident with clear evidence and owners.",
+  "answer": "Cold email deliverability is the ability of prospecting emails to reach a recipient’s inbox. A sending platform’s “delivered” status usually establishes server acceptance, not inbox placement or human interest. Diagnose the actual symptom, recipient provider and sending cohort before changing copy, buying domains or increasing volume. Authentication is necessary in the applicable circumstances; it cannot guarantee that unsolicited mail is wanted or reaches the inbox.",
+  "resources": "Resources",
+  "breadcrumb": "Cold email deliverability",
+  "contents": "Contents",
+  "author": "By",
+  "updated": "Published November 17, 2026",
+  "read": "Find your symptom",
+  "registerLink": "Use the private register",
+  "fiction": "All situations and figures below are fictional teaching examples, not client results. No mailbox access or contact data is needed.",
+  "sections": [
+    {
+      "id": "d-symptoms",
+      "label": "Start with the symptom",
+      "title": "Find the problem you actually have",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Fewer replies can mean a technical problem, a different audience, an unconvincing offer or a change in timing. It does not identify the cause by itself. Compare like periods and the same sending cohort; separate providers rather than treating a campaign average as a diagnosis."
+        },
+        {
+          "type": "table",
+          "caption": "Choose the next check",
+          "heads": [
+            "Observed symptom",
+            "Useful evidence",
+            "What it does not establish"
+          ],
+          "rows": [
+            [
+              "Rejected messages",
+              "Full response, recipient provider, SMTP stage and timestamp; ask the technical owner to interpret them.",
+              "Every rejected address is invalid."
+            ],
+            [
+              "Temporary deferrals",
+              "Outstanding queue, retry history and provider response; check rate or configuration changes.",
+              "The message has reached the inbox."
+            ],
+            [
+              "Accepted, few human replies",
+              "Actual-message authentication, controlled placement tests, audience and offer review.",
+              "A low reply rate proves spam placement."
+            ],
+            [
+              "Only one provider deteriorates",
+              "Provider-specific responses and a matched sending path before and after the change.",
+              "The entire domain is unusable."
+            ],
+            [
+              "Dashboard is blank",
+              "Access, destination scope, minimum volume and reporting delay.",
+              "There are zero complaints."
+            ],
+            [
+              "Interest but few bookings",
+              "Calendar handoff, original booking records and follow-through.",
+              "Sending more emails will fix the booking step."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Keep the affected scope visible. An outreach incident does not automatically mean stopping essential customer, billing or one-to-one business email. The responsible technical owner should assess shared infrastructure and risk."
+        }
+      ]
+    },
+    {
+      "id": "d-stages",
+      "label": "Read the numbers",
+      "title": "Delivery, placement and meetings are different outcomes",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Keep each stage attached to its evidence",
+          "heads": [
+            "Stage",
+            "Evidence and counting unit",
+            "Limit"
+          ],
+          "rows": [
+            [
+              "Queued / not attempted",
+              "Unique recipient records at a stated cutoff; separately record suppression.",
+              "A queued record is not a send."
+            ],
+            [
+              "Attempted",
+              "Unique first-attempt recipients in the cohort; retries have their own log.",
+              "Do not count each retry as another person."
+            ],
+            [
+              "Deferred / rejected",
+              "Full temporary or permanent response for the request and its SMTP stage.",
+              "A permanent policy failure need not mean a nonexistent address."
+            ],
+            [
+              "Accepted",
+              "Positive completion after the full message DATA transaction, or a clearly defined platform status.",
+              "Acceptance is not evidence of inbox placement."
+            ],
+            [
+              "Observed placement",
+              "Location in identified test inboxes, at a specified time and sending path.",
+              "A test sample is not every prospect’s inbox."
+            ],
+            [
+              "Human / positive replies",
+              "Unique human replies, with positive interest defined separately; exclude automatic replies.",
+              "A reply is not necessarily interest or a booking."
+            ],
+            [
+              "Booked / held / qualified",
+              "Original booking ID and created date, attendance and an agreed qualification disposition.",
+              "A calendar click, reschedule or invitation is not another qualified meeting."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "SMTP 4xx responses indicate temporary negative completion; 5xx indicates permanent failure for that request. Preserve the full provider text and stage. A fictional receiver returning 451 during message transfer has not accepted that message. A 550 at RCPT TO needs its full reason before an address is marked invalid. A 250 after completed DATA means acceptance of responsibility, not inbox placement; a 250 at an earlier stage does not prove acceptance of the whole message. Record the actual provider, timestamp and responsible technical role beside the response."
+        },
+        {
+          "type": "p",
+          "text": "Open tracking is not a dependable inbox-placement measure. Privacy protections, automated activity and blocked images change what it records. Google says it does not track opens or verify third-party open-rate accuracy. Use human replies as evidence of engagement, without treating silence as proof of filtering."
+        }
+      ]
+    },
+    {
+      "id": "d-providers",
+      "label": "Provider requirements",
+      "title": "Read the rule for the destination and sender class",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "These provider documents were checked on November 17, 2026. Requirements, recommendations and vendor operating habits are different things. A provider’s allowed account quota is not a universally safe cold-outreach volume. Rules for personal Gmail or Outlook.com consumer destinations are not a description of every business tenant’s inbound policy."
+        },
+        {
+          "type": "table",
+          "caption": "Provider scope and minimum authentication",
+          "heads": [
+            "Destination",
+            "All senders or high-volume scope",
+            "Key distinction"
+          ],
+          "rows": [
+            [
+              "Personal Gmail: gmail.com / googlemail.com",
+              "All senders: SPF or DKIM, plus the other all-sender requirements. Bulk: SPF and DKIM, DMARC and alignment, plus applicable additional rules.",
+              "Close to 5,000 or more messages in 24 hours can qualify; primary-domain traffic includes subdomains. Once classified bulk, reducing volume does not reset that status."
+            ],
+            [
+              "Yahoo",
+              "All senders: SPF or DKIM. Bulk: SPF and DKIM plus passing DMARC with alignment and additional requirements.",
+              "Yahoo does not publish a numerical bulk threshold. Do not import Gmail’s 5,000 figure."
+            ],
+            [
+              "Outlook.com consumer service, including Hotmail and Live",
+              "Microsoft specifies SPF and DKIM passing, plus DMARC at least p=none and alignment for domains sending over 5,000 messages per day.",
+              "Its updated notice describes authentication rejection with 550 5.7.515. This is not a universal Microsoft 365 inbound rule."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Google’s guidance also covers valid forward/reverse DNS, TLS and message formatting. Its recommended user-reported spam rate is below 0.1%; avoid reaching 0.3% or higher. Yahoo requires a rate below 0.3% and explains that its denominator is mail delivered to the inbox. Those provider figures must not be replaced with complaints divided by every attempted campaign message."
+        },
+        {
+          "type": "p",
+          "text": "For qualifying Gmail bulk marketing or promotional mail, one-click unsubscribe requires the appropriate RFC 8058 headers; a body mailto link or preferences page is not a substitute. Google also requires a visible body unsubscribe link. Yahoo requires header unsubscribe and a visible body link for relevant bulk mail; its current guidance strongly recommends POST while accepting a header mailto option. Honor requests promptly, maintain suppression across sequences, and check the applicable provider requirements rather than assuming one mechanism covers every case."
+        },
+        {
+          "type": "p",
+          "text": "Microsoft’s updated April 2025 post retains older junk-first timeline text alongside its revised rejection notice. Do not read either as a new 2026 deadline. Inspect the actual provider response. Meeting authentication rules does not establish recipient permission, legal compliance or guaranteed placement."
+        }
+      ]
+    },
+    {
+      "id": "d-auth",
+      "label": "Authentication in practice",
+      "title": "A record can exist while the actual message fails alignment",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ask the authorized mailbox or DNS administrator to inspect a message received through the actual sending path. A settings screenshot or a public record lookup is useful, but neither proves the result of that message. The receiving server’s Authentication-Results header supplies more specific evidence."
+        },
+        {
+          "type": "code",
+          "label": "Fictional, abbreviated header evidence; reserved example domains",
+          "text": "From: Campaign sender <sender@outreach.example>\nReturn-Path: <bounce@delivery.example>\nAuthentication-Results: receiver.example;\n  spf=pass smtp.mailfrom=delivery.example;\n  dkim=pass header.d=delivery.example;\n  dmarc=fail header.from=outreach.example"
+        },
+        {
+          "type": "p",
+          "text": "Here SPF and DKIM pass for delivery.example, but neither authenticated identity aligns with outreach.example in the visible From field. A pass beside each mechanism is not enough. This simplified example does not include every header or forwarding condition; it is not a DNS record to paste into a production account."
+        },
+        {
+          "type": "p",
+          "text": "An authorized technical owner should check the legitimate sending sources, active signing configuration and alignment using the mailbox provider’s instructions. Moving DMARC to p=reject on a calendar schedule can disrupt legitimate mail if sources are not ready. Conversely, p=none is not a promise that a failing message will be delivered normally."
+        }
+      ]
+    },
+    {
+      "id": "d-evidence",
+      "label": "Build the evidence",
+      "title": "Write down what you know and what you still need",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "A minimum incident record",
+          "heads": [
+            "Record",
+            "Useful detail",
+            "Owner"
+          ],
+          "rows": [
+            [
+              "Cohort and cutoff",
+              "Unique recipients, period, timezone, provider/segment and status definitions.",
+              "Campaign operator"
+            ],
+            [
+              "Change history",
+              "Tool migration, signing change, volume change, audience import or tracking change with dates.",
+              "Operator and technical owner"
+            ],
+            [
+              "Actual message / response",
+              "Authentication outcome, SMTP stage, code and redacted provider text; keep sensitive originals in authorized systems.",
+              "Mailbox administrator"
+            ],
+            [
+              "Placement and reputation",
+              "Test sample, actual path and date; provider dashboard scope, availability and delay.",
+              "Technical owner"
+            ],
+            [
+              "Recipient and commercial outcomes",
+              "Suppression applied, human reply categories, original booking IDs and held/qualified outcomes.",
+              "Campaign and sales owners"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "A missing field stays unknown. Google Postmaster Tools requires domain verification and can withhold low-volume data for privacy. Its data concerns personal Gmail traffic. Yahoo reporting also has access, volume and delay conditions. If a dashboard is empty, check those conditions and use actual-message evidence; do not assign a healthy reputation score by default."
+        }
+      ]
+    },
+    {
+      "id": "d-example",
+      "label": "A worked incident",
+      "title": "Read a complete fictional record",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Imagine a 200-record batch reviewed at a fixed cutoff. Each attempted record is one unique recipient’s first attempted message, not the number of SMTP retries. These figures illustrate accounting only; they are not recommended targets or Beespoke campaign results."
+        },
+        {
+          "type": "table",
+          "caption": "Fictional cohort at the cutoff",
+          "heads": [
+            "Status",
+            "Count",
+            "Interpretation"
+          ],
+          "rows": [
+            [
+              "Not attempted / suppressed",
+              "8",
+              "Excluded before a send."
+            ],
+            [
+              "Attempted",
+              "192",
+              "200 − 8; the three status groups below sum to this total."
+            ],
+            [
+              "Accepted",
+              "181",
+              "Accepted after message transfer; placement remains unknown."
+            ],
+            [
+              "Permanent failure",
+              "7",
+              "Recorded policy responses; do not automatically label recipients invalid."
+            ],
+            [
+              "Deferred, unresolved",
+              "4",
+              "Still outstanding at cutoff; no final outcome yet."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The arithmetic is 200 = 8 + 192 and 192 = 181 + 7 + 4. Later retries update the same recipient record; preserve the earlier cutoff when comparing reports. Eleven unique human replies comprise three positive, four negative, two “not now” and two referrals. Two original bookings followed, one meeting was held and qualification remains unknown. These later stages overlap; do not add them to the delivery total or infer an inbox-placement percentage."
+        },
+        {
+          "type": "table",
+          "caption": "Fictional investigation, with alternative explanations",
+          "heads": [
+            "When",
+            "Observed evidence",
+            "Decision and owner"
+          ],
+          "rows": [
+            [
+              "Before migration",
+              "Prior received-message sample shows aligned authentication.",
+              "Technical owner preserves the sample and sending-path record."
+            ],
+            [
+              "After migration",
+              "Affected consumer-provider responses show policy rejection; an actual message passes SPF/DKIM for the platform domain but fails From alignment. Audience and volume also need checking.",
+              "Operator pauses affected outreach. Administrator reviews the changed signing path; neither a bad list nor domain damage is declared proven."
+            ],
+            [
+              "After a configuration correction",
+              "New received-message sample shows aligned authentication. Outstanding deferrals and recipient-level placement remain separate checks.",
+              "Technical owner records the fix and limits; campaign owner decides a bounded restart only after suppression, current errors and monitoring are reviewed."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "If errors continue after the alignment change, the investigation is not finished. Compare provider-specific responses and the actual path rather than buying a replacement domain or rewriting every message. A correlation with migration gives a testable lead, not proof that it explains every lost reply."
+        }
+      ]
+    },
+    {
+      "id": "d-tests",
+      "label": "Limits of the tests",
+      "title": "Combine evidence without pretending it proves more",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "What each check answers",
+          "heads": [
+            "Check",
+            "Useful answer",
+            "Remaining uncertainty"
+          ],
+          "rows": [
+            [
+              "Received-message headers",
+              "Did this message authenticate and align at this receiver?",
+              "Where other recipients placed it; whether they wanted it."
+            ],
+            [
+              "Seed placement test",
+              "Where this content/path landed in a controlled panel at this time.",
+              "Personalized filtering and actual prospect inboxes."
+            ],
+            [
+              "SMTP responses and queue",
+              "What happened at a stated transfer stage; what is outstanding.",
+              "Placement after acceptance."
+            ],
+            [
+              "Provider dashboard",
+              "Provider-specific telemetry for the available period and eligible traffic.",
+              "Unavailable low-volume data and other providers."
+            ],
+            [
+              "Human replies / bookings",
+              "Observed conversations and separately verified next stages.",
+              "Why every silent recipient did not respond."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Disagreement is useful. A good seed result with continuing real-provider errors calls for a path, time and sample comparison, not a green “safe to send” badge. Blocklist checks concern particular lists and infrastructure; a clean scan does not certify universal placement. Fix the cause of a relevant listing before following that operator’s removal process."
+        }
+      ]
+    },
+    {
+      "id": "d-practice",
+      "label": "Recipient and sending checks",
+      "title": "A technical pass cannot make unwanted outreach useful",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Check the reason for contacting each person, data context and exclusions. An address verifier can reduce uncertainty about reachability; it cannot verify interest, permission or every catch-all recipient.",
+            "Apply opt-outs and agreed suppression at send time across accounts and sequences. Do not switch channels or domains to get around a decline.",
+            "Review real identity, accurate subjects, relevant personal or professional context, links and unnecessary tracking. A public post, shared interest or location can be relevant when true; inventing familiarity cannot.",
+            "Separate provider quotas from operating limits. No fixed number of emails per day, domain age or warm-up period guarantees safety. Gradual legitimate sending and actual feedback matter; artificial engagement scores are not recipient demand.",
+            "Operational separation can reduce some risks, but domains, subdomains and sending paths may share signals. New infrastructure or a dedicated IP is not an automatic fix. Avoid rotation to sidestep enforcement.",
+            "Do not treat spintax, a rigid word limit or a list of forbidden words as a technical cure. Read the message as a person would, and investigate actual errors before guessing at filters."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Applicable privacy, marketing law and sending-service policies need their own review. Publicly listed or freshly scraped information is not permission by itself. This guide explains delivery evidence, not a legal approval to send."
+        }
+      ]
+    },
+    {
+      "id": "d-recovery",
+      "label": "Pause and resume",
+      "title": "Make recovery a decision with an owner",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "A practical recovery record",
+          "heads": [
+            "Decision",
+            "Evidence needed",
+            "Responsible role"
+          ],
+          "rows": [
+            [
+              "Pause the affected outreach",
+              "Unusual errors, complaints or credible delivery problems; document the affected accounts/providers and shared risks.",
+              "Campaign owner, with technical review"
+            ],
+            [
+              "Investigate and correct",
+              "Change timeline, actual response, authentication, recipient quality and relevant infrastructure evidence. Change one factor where practical.",
+              "Authorized technical or data owner"
+            ],
+            [
+              "Consider a controlled restart",
+              "Cause addressed; actual-message checks repeated; suppression preserved; outstanding errors reviewed; bounded volume/window and rollback observations written.",
+              "Campaign owner with technical sign-off on the relevant fix"
+            ],
+            [
+              "Continue, reduce or stop again",
+              "Comparable observations over sending cycles: errors, deferrals, placement evidence and recipient feedback.",
+              "Named monitoring owner at an agreed review time"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Set the next review time, who can stop the campaign and what deterioration triggers another pause. Do not resume because a week has passed or one test looks good. Correction of a configuration, removal from a list and recovery of reputation are different events. There is no guaranteed recovery date."
+        }
+      ]
+    },
+    {
+      "id": "d-register",
+      "label": "Private evidence register",
+      "title": "Keep a short record for the next responsible person",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Use the optional register below to organize a redacted summary. It does not inspect DNS, connect a mailbox, send email, certify compliance or calculate inbox health. Keep original logs and sensitive details in your authorized systems. You can also use the evidence table above without JavaScript."
+        },
+        {
+          "type": "tool"
+        }
+      ]
+    },
+    {
+      "id": "d-next",
+      "label": "Choose the next step",
+      "title": "Fix the constraint you have identified",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "If acceptance and placement evidence look sound but relevant replies remain weak, revisit targeting, the offer and individual message reasoning. If interest does not become a call, inspect the calendar handoff rather than changing the sending setup. A delivery review is one part of the wider funnel."
+        },
+        {
+          "type": "links",
+          "items": [
+            [
+              "/guides/b2b-cold-email-copywriting/",
+              "Review the research-to-message examples"
+            ],
+            [
+              "/guides/cold-email-follow-up/",
+              "Review short follow-ups and stopping decisions"
+            ],
+            [
+              "/guides/b2b-lead-generation-audit/",
+              "Diagnose the wider meeting funnel"
+            ],
+            [
+              "/guides/cold-email-agency/",
+              "Evaluate an agency’s responsibilities"
+            ],
+            [
+              "/guides/cold-email-agency-pricing/",
+              "Check pricing and scope"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "If you want managed execution, Beespoke can run the agreed cold email and/or LinkedIn work. You supply judgment on whom to target and handle discovery, proposals and closing. Review the managed cold-email service before deciding whether a conversation would help."
+        },
+        {
+          "type": "handoff",
+          "service": "Managed cold-email prospecting",
+          "book": "Book a 30-minute conversation",
+          "note": "Optional. Bring a non-sensitive description of the constraint; no contact list or account access is needed to start."
+        }
+      ]
+    }
+  ],
+  "faqTitle": "Questions about deliverability",
+  "faqs": [
+    [
+      "Why are messages accepted but not getting replies?",
+      "Acceptance does not establish inbox placement. Placement tests and provider evidence can help, but weak targeting, timing or an unconvincing offer can also explain silence. Compare cohorts before choosing a fix."
+    ],
+    [
+      "How many cold emails per day are safe?",
+      "There is no universal safe count. Provider quotas, sender classification, sending history, audience and actual errors are different inputs. A fixed daily ceiling cannot guarantee placement or permission."
+    ],
+    [
+      "Why is Google Postmaster Tools empty?",
+      "Check verified access, personal Gmail traffic, volume/privacy limits and reporting availability. Missing data is unknown, not a zero complaint rate or a good reputation grade."
+    ],
+    [
+      "Will warm-up or a new domain fix the problem?",
+      "Neither proves recovery. Fix the underlying configuration or sending/recipient problem and evaluate real evidence. Artificial engagement and rotating domains do not establish that prospects want the messages."
+    ],
+    [
+      "Does every hard bounce mean an invalid address?",
+      "No. Permanent responses can concern recipient addresses, policy or authentication. Record the SMTP stage and full provider response, then involve the appropriate technical owner."
+    ],
+    [
+      "When can we resume?",
+      "After the relevant cause is addressed, evidence and suppression are reviewed, and a named owner defines a controlled restart, monitoring and rollback conditions. No calendar interval or score is sufficient by itself."
+    ]
+  ],
+  "sourcesTitle": "Sources and further reading",
+  "sourceIntro": "Provider guidance checked November 17, 2026. Scope and recommendation levels are explained above. Competitor case studies and vendor benchmarks are not used as Beespoke results.",
+  "sourceNotes": [
+    "Personal Gmail requirements and recommendations.",
+    "Bulk classification and one-click unsubscribe.",
+    "Verified access and missing low-volume data.",
+    "Yahoo sender requirements and unsubscribe options.",
+    "Bulk definition, reporting and complaint denominator.",
+    "Current consumer postmaster announcement.",
+    "Updated consumer high-volume authentication notice; older timeline text remains.",
+    "SMTP reply classes and acceptance after message DATA; sections 4.2.1 and 4.2.5."
+  ],
+  "ui": {
+    "summary": "Open the private evidence register",
+    "privacy": "Entries stay in this page’s memory. They are not uploaded, saved to browser storage or sent to Analytics. Copy or download what you need before leaving. Do not enter addresses, names, full headers or credentials.",
+    "fields": {
+      "period": "Period and timezone",
+      "cohort": "Affected provider / cohort",
+      "evidence": "Redacted observation and source",
+      "unknown": "Unknowns and next check",
+      "owner": "Responsible role",
+      "review": "Next review and rollback conditions"
+    },
+    "state": "Evidence status",
+    "states": {
+      "unknown": "Unknown",
+      "recorded": "Evidence noted, not independently verified",
+      "investigate": "Needs investigation"
+    },
+    "demo": "Load fictional example",
+    "blank": "Start blank",
+    "export": "Download my register",
+    "clear": "Clear my entries",
+    "confirm": "Replace the current entries? Download or copy anything you need first.",
+    "yes": "Replace entries",
+    "no": "Keep entries",
+    "changed": "Entries changed. This register makes no sending decision.",
+    "loaded": "Fictional example loaded; it is not real campaign evidence.",
+    "cleared": "Entries cleared.",
+    "empty": "The register is blank. No score or sending approval is calculated.",
+    "csv": "Copyable CSV",
+    "downloaded": "CSV prepared. It contains your entries; review it before sharing.",
+    "close": "Close CSV",
+    "demoValues": {
+      "period": "Fictional cutoff: day 2, 17:00 UTC",
+      "cohort": "Consumer-provider subset after a sending-tool migration",
+      "evidence": "Received-message sample: SPF/DKIM pass for the platform domain; visible From alignment fails.",
+      "unknown": "Placement for real recipients and the remaining deferrals are unresolved.",
+      "owner": "Authorized mailbox administrator / campaign owner",
+      "review": "Review actual-message alignment and current errors before deciding a bounded restart; pause again if the same policy failures recur."
+    }
+  },
+  "tableHint": "Scroll sideways to read all columns. With the table focused, use the left and right arrow keys."
+}

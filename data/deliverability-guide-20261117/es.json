@@ -1,0 +1,585 @@
+{
+  "title": "Entregabilidad del cold email: diagnóstico y revisión | Beespoke",
+  "h1": "Entregabilidad del cold email: identifica el problema antes de enviar más",
+  "description": "Distingue entre rechazo y llegada a la bandeja de entrada. Revisa los requisitos de cada proveedor y organiza las pruebas para decidir el siguiente paso.",
+  "answer": "La entregabilidad del cold email es la capacidad de los correos de prospección para llegar a la bandeja de entrada. El estado «entregado» de una plataforma suele indicar aceptación por el servidor, no llegada a la bandeja ni interés humano. Antes de cambiar los mensajes, comprar dominios o aumentar el volumen, identifica el síntoma, el proveedor receptor y el grupo de envíos. La autenticación no garantiza que un correo no solicitado sea deseado o llegue a la bandeja de entrada.",
+  "resources": "Recursos",
+  "breadcrumb": "Entregabilidad del cold email",
+  "contents": "Contenido",
+  "author": "Por",
+  "updated": "Publicado el 17 de noviembre de 2026",
+  "read": "Identificar el síntoma",
+  "registerLink": "Usar el registro privado",
+  "fiction": "Todas las situaciones y cifras son ejemplos ficticios para explicar el proceso, no resultados de clientes. No necesitas compartir contactos ni acceso al correo.",
+  "sections": [
+    {
+      "id": "d-symptoms",
+      "label": "Identifica el síntoma",
+      "title": "Investiga el problema que realmente tienes",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Una caída de respuestas puede deberse a un problema técnico, otro público, una oferta poco convincente o un cambio de momento. No identifica la causa por sí sola. Compara periodos equivalentes y el mismo grupo de envíos; separa proveedores en lugar de diagnosticar con la media de toda la campaña."
+        },
+        {
+          "type": "table",
+          "caption": "Elige la siguiente comprobación",
+          "heads": [
+            "Síntoma observado",
+            "Prueba útil",
+            "Lo que no demuestra"
+          ],
+          "rows": [
+            [
+              "Mensajes rechazados",
+              "Respuesta completa, proveedor receptor, fase SMTP y fecha; revisión del responsable técnico.",
+              "Que toda dirección rechazada sea inválida."
+            ],
+            [
+              "Aplazamientos temporales",
+              "Cola pendiente, reintentos y respuesta del proveedor; cambios de ritmo o configuración.",
+              "Que el mensaje haya llegado a la bandeja."
+            ],
+            [
+              "Aceptación, pocas respuestas humanas",
+              "Autenticación del mensaje real, pruebas controladas de ubicación y revisión de público y oferta.",
+              "Que pocas respuestas demuestren llegada a spam."
+            ],
+            [
+              "Empeora un solo proveedor",
+              "Respuestas por proveedor y la misma ruta de envío antes y después del cambio.",
+              "Que el dominio entero sea inutilizable."
+            ],
+            [
+              "Panel sin datos",
+              "Acceso, ámbito de destinatarios, volumen mínimo y demora del informe.",
+              "Que haya cero quejas."
+            ],
+            [
+              "Interés, pocas reservas",
+              "Traspaso al calendario, reservas originales y seguimiento comercial.",
+              "Que enviar más correos arregle la reserva."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Delimita el alcance afectado. Una incidencia de prospección no implica detener automáticamente el correo esencial de clientes, facturación o conversaciones individuales. El responsable técnico debe valorar la infraestructura compartida y el riesgo."
+        }
+      ]
+    },
+    {
+      "id": "d-stages",
+      "label": "Interpreta las cifras",
+      "title": "Entrega, ubicación y reuniones son resultados distintos",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Cada etapa necesita sus propias pruebas",
+          "heads": [
+            "Etapa",
+            "Prueba y unidad de recuento",
+            "Límite"
+          ],
+          "rows": [
+            [
+              "En cola / sin intentar",
+              "Destinatarios únicos en una fecha de corte; exclusiones registradas aparte.",
+              "Estar en cola no equivale a enviar."
+            ],
+            [
+              "Intentado",
+              "Destinatarios únicos del primer intento; reintentos en su propio registro.",
+              "Un reintento no es otra persona."
+            ],
+            [
+              "Aplazado / rechazado",
+              "Respuesta temporal o permanente y fase SMTP de esa solicitud.",
+              "Un rechazo por política no implica dirección inexistente."
+            ],
+            [
+              "Aceptado",
+              "Finalización positiva tras transferir el mensaje completo mediante DATA, o estado de plataforma bien definido.",
+              "No demuestra llegada a la bandeja."
+            ],
+            [
+              "Ubicación observada",
+              "Carpeta en buzones de prueba identificados, con fecha y ruta de envío.",
+              "La muestra no representa todas las bandejas reales."
+            ],
+            [
+              "Respuestas humanas / positivas",
+              "Personas únicas; interés positivo definido aparte; respuestas automáticas excluidas.",
+              "Responder no siempre significa interés o reserva."
+            ],
+            [
+              "Reservado / celebrado / cualificado",
+              "ID y fecha original de reserva, asistencia y valoración según criterios acordados.",
+              "Un clic, un cambio de fecha o una invitación no es otra reunión cualificada."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Las respuestas SMTP 4xx indican un fallo temporal; las 5xx, un fallo permanente de esa solicitud. Conserva el texto completo del proveedor y la fase. Un receptor ficticio que devuelve 451 durante la transferencia no ha aceptado el mensaje. Un 550 en RCPT TO necesita su motivo completo antes de marcar una dirección como inválida. Un 250 tras completar DATA indica aceptación de responsabilidad, no llegada a la bandeja; un 250 en una fase anterior no prueba la aceptación del mensaje completo. Registra proveedor real, fecha y función técnica responsable junto a la respuesta."
+        },
+        {
+          "type": "p",
+          "text": "Las aperturas no son una medida fiable de llegada a la bandeja. Las protecciones de privacidad, las cargas automáticas y las imágenes bloqueadas alteran el registro. Google indica que no registra aperturas ni verifica la precisión de herramientas externas. Las respuestas humanas aportan prueba de interacción; el silencio no demuestra filtrado."
+        }
+      ]
+    },
+    {
+      "id": "d-providers",
+      "label": "Requisitos por proveedor",
+      "title": "Lee la regla del destinatario y del tipo de remitente",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Documentación revisada el 17 de noviembre de 2026. Requisitos, recomendaciones y hábitos de proveedores comerciales no son equivalentes. La cuota permitida de una cuenta no es un volumen universalmente seguro de prospección. Las reglas de Gmail personal u Outlook.com no describen todas las políticas de recepción de las empresas."
+        },
+        {
+          "type": "table",
+          "caption": "Ámbito y autenticación mínima",
+          "heads": [
+            "Destino",
+            "Todos los remitentes o gran volumen",
+            "Distinción importante"
+          ],
+          "rows": [
+            [
+              "Gmail personal: gmail.com / googlemail.com",
+              "Todos: SPF o DKIM y los demás requisitos generales. Remitentes masivos: SPF y DKIM, DMARC y alineación, más reglas adicionales aplicables.",
+              "Un volumen cercano a 5.000 mensajes o superior en 24 horas puede determinar la clasificación. Se agrupan los subdominios bajo el dominio principal; reducir el volumen no elimina una clasificación ya adquirida."
+            ],
+            [
+              "Yahoo",
+              "Todos: SPF o DKIM. Masivos: SPF y DKIM, DMARC válido y alineación, más requisitos adicionales.",
+              "Yahoo no publica un umbral numérico de envío masivo. No copies los 5.000 de Gmail."
+            ],
+            [
+              "Outlook.com de consumo, incluidos Hotmail y Live",
+              "Microsoft exige SPF y DKIM válidos, DMARC al menos p=none y alineación para dominios que envían más de 5.000 mensajes diarios.",
+              "El aviso actualizado contempla rechazo por autenticación con 550 5.7.515. No es una regla universal de recepción de Microsoft 365."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Google también exige DNS directo e inverso válidos, TLS y formato de mensaje adecuado. Recomienda una tasa de spam denunciado inferior al 0,1% y evitar el 0,3% o más. Yahoo exige menos del 0,3% y explica que el denominador es el correo entregado en la bandeja de entrada. No sustituyas estas métricas por quejas divididas entre todos los intentos de la campaña."
+        },
+        {
+          "type": "p",
+          "text": "Para el correo masivo comercial o promocional cubierto por las reglas de Gmail, la baja con un clic necesita las cabeceras RFC 8058 correspondientes; un enlace mailto o una página de preferencias en el cuerpo no las sustituye. Google también exige un enlace visible en el cuerpo. Yahoo exige baja mediante cabecera y un enlace visible para el correo masivo pertinente; recomienda POST y acepta la opción mailto en la cabecera. Atiende las solicitudes con prontitud y mantén las exclusiones entre secuencias."
+        },
+        {
+          "type": "p",
+          "text": "El artículo de Microsoft actualizado en abril de 2025 conserva texto antiguo sobre el paso inicial a correo no deseado junto al aviso revisado de rechazo. No lo presentes como un plazo nuevo de 2026. Revisa la respuesta real. Autenticarse no demuestra permiso del destinatario, cumplimiento legal ni llegada garantizada."
+        }
+      ]
+    },
+    {
+      "id": "d-auth",
+      "label": "Autenticación real",
+      "title": "Publicar un registro no prueba la alineación del mensaje",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pide al administrador autorizado del correo o del DNS que examine un mensaje recibido mediante la ruta real. Una captura de ajustes o una consulta pública aporta información, pero no prueba el resultado de ese mensaje. La cabecera Authentication-Results del servidor receptor permite comprobarlo con más precisión."
+        },
+        {
+          "type": "code",
+          "label": "Cabeceras ficticias y abreviadas; dominios reservados de ejemplo",
+          "text": "From: Campaign sender <sender@outreach.example>\nReturn-Path: <bounce@delivery.example>\nAuthentication-Results: receiver.example;\n  spf=pass smtp.mailfrom=delivery.example;\n  dkim=pass header.d=delivery.example;\n  dmarc=fail header.from=outreach.example"
+        },
+        {
+          "type": "p",
+          "text": "SPF y DKIM pasan para delivery.example, pero ninguna identidad autenticada se alinea con outreach.example, el dominio visible en From. No basta con ver «pass» en cada mecanismo. El ejemplo omite otras cabeceras y casos de reenvío; no es un registro DNS para copiar en producción."
+        },
+        {
+          "type": "p",
+          "text": "El responsable técnico debe revisar las fuentes legítimas de envío, la firma activa y la alineación siguiendo las instrucciones del servicio. Pasar a DMARC p=reject por un plazo fijo puede interrumpir correo legítimo si falta preparación. A la vez, p=none no promete que un mensaje fallido se entregue normalmente."
+        }
+      ]
+    },
+    {
+      "id": "d-evidence",
+      "label": "Organiza las pruebas",
+      "title": "Registra lo conocido y lo que falta",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Registro mínimo de una incidencia",
+          "heads": [
+            "Dato",
+            "Detalle útil",
+            "Responsable"
+          ],
+          "rows": [
+            [
+              "Grupo y fecha de corte",
+              "Destinatarios únicos, periodo, zona horaria, proveedor/segmento y definición de estados.",
+              "Operador de campaña"
+            ],
+            [
+              "Historial de cambios",
+              "Migración, firma, volumen, importación de público o seguimiento, con fechas.",
+              "Operador y responsable técnico"
+            ],
+            [
+              "Mensaje / respuesta real",
+              "Autenticación, fase SMTP, código y texto del proveedor sin datos sensibles; originales en sistemas autorizados.",
+              "Administrador del correo"
+            ],
+            [
+              "Ubicación y reputación",
+              "Muestra, ruta real y fecha; ámbito del panel, disponibilidad y demora.",
+              "Responsable técnico"
+            ],
+            [
+              "Resultados del destinatario y comerciales",
+              "Exclusiones, categorías de respuesta humana, reservas originales y reuniones celebradas/cualificadas.",
+              "Responsables de campaña y ventas"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Un dato ausente sigue siendo desconocido. Google Postmaster Tools necesita verificación del dominio y puede ocultar datos de poco volumen por privacidad. Sus datos corresponden a Gmail personal. Yahoo también tiene condiciones de acceso, volumen y demora. Si el panel está vacío, revisa esas condiciones y los mensajes reales; no asignes una reputación saludable por defecto."
+        }
+      ]
+    },
+    {
+      "id": "d-example",
+      "label": "Un caso completo",
+      "title": "Interpreta un registro ficticio de principio a fin",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Imagina un lote de 200 registros revisado en una fecha de corte fija. Cada intento representa a un destinatario único en su primer envío, no cada reintento SMTP. Las cifras ilustran el recuento: no son objetivos ni resultados de Beespoke."
+        },
+        {
+          "type": "table",
+          "caption": "Grupo ficticio en la fecha de corte",
+          "heads": [
+            "Estado",
+            "Cantidad",
+            "Interpretación"
+          ],
+          "rows": [
+            [
+              "Sin intentar / excluidos",
+              "8",
+              "Exclusión previa al envío."
+            ],
+            [
+              "Intentados",
+              "192",
+              "200 − 8; los tres estados siguientes suman este total."
+            ],
+            [
+              "Aceptados",
+              "181",
+              "Aceptados tras transferir el mensaje; ubicación desconocida."
+            ],
+            [
+              "Fallo permanente",
+              "7",
+              "Rechazos por política registrados; no etiquetar automáticamente las direcciones como inválidas."
+            ],
+            [
+              "Aplazados sin resolver",
+              "4",
+              "Pendientes al corte; todavía sin resultado final."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "200 = 8 + 192 y 192 = 181 + 7 + 4. Los reintentos actualizan el registro del mismo destinatario; conserva el corte anterior para comparar. Once personas respondieron: tres con interés, cuatro negativamente, dos con «ahora no» y dos con referencias a otra persona. Hubo dos reservas originales, una reunión celebrada y cualificación desconocida. Son etapas que se solapan: no se suman al total de entrega ni permiten calcular una tasa de llegada a la bandeja."
+        },
+        {
+          "type": "table",
+          "caption": "Investigación ficticia y explicaciones alternativas",
+          "heads": [
+            "Momento",
+            "Prueba observada",
+            "Decisión y responsable"
+          ],
+          "rows": [
+            [
+              "Antes de la migración",
+              "La muestra recibida mostraba autenticación alineada.",
+              "El responsable técnico conserva muestra y ruta."
+            ],
+            [
+              "Después de la migración",
+              "Hay rechazos por política en el proveedor de consumo afectado. El mensaje real autentica el dominio de la plataforma, pero falla la alineación de From. Público y volumen también necesitan revisión.",
+              "Se pausa la prospección afectada. El administrador revisa la firma; no se declara probada una lista defectuosa ni daño al dominio."
+            ],
+            [
+              "Tras corregir la configuración",
+              "Una nueva muestra recibida tiene autenticación alineada. Siguen pendientes la ubicación real y los aplazamientos.",
+              "Se documentan corrección y límites. El responsable de campaña decide una reanudación acotada tras revisar exclusiones, errores y seguimiento."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Si los errores continúan tras corregir la alineación, la investigación no ha terminado. Compara respuestas por proveedor y rutas reales antes de sustituir dominios o reescribir todo. La coincidencia con una migración da una hipótesis comprobable, no demuestra la causa de cada respuesta perdida."
+        }
+      ]
+    },
+    {
+      "id": "d-tests",
+      "label": "Límites de las pruebas",
+      "title": "Combina pruebas sin exagerar sus conclusiones",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Qué responde cada comprobación",
+          "heads": [
+            "Comprobación",
+            "Respuesta útil",
+            "Incertidumbre restante"
+          ],
+          "rows": [
+            [
+              "Cabeceras recibidas",
+              "Autenticación y alineación de ese mensaje en ese receptor.",
+              "Ubicación y expectativas de otros destinatarios."
+            ],
+            [
+              "Buzones de prueba",
+              "Ubicación del contenido y la ruta en una muestra controlada.",
+              "Filtrado personalizado en los prospectos reales."
+            ],
+            [
+              "Respuestas SMTP y cola",
+              "Resultado de la fase registrada y lo pendiente.",
+              "Ubicación después de la aceptación."
+            ],
+            [
+              "Panel del proveedor",
+              "Telemetría del proveedor, periodo y tráfico disponibles.",
+              "Datos ocultos por poco volumen y otros proveedores."
+            ],
+            [
+              "Respuestas / reservas",
+              "Conversaciones observadas y etapas posteriores verificadas aparte.",
+              "Por qué no respondió cada persona que guardó silencio."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Las discrepancias ayudan. Un buen resultado de prueba con errores reales persistentes exige comparar ruta, fecha y muestra; no justifica un sello de «envío seguro». Las listas de bloqueo evalúan listas e infraestructura concretas: un resultado limpio no certifica ubicación universal. Corrige la causa de una inclusión relevante antes de seguir su proceso de retirada."
+        }
+      ]
+    },
+    {
+      "id": "d-practice",
+      "label": "Destinatarios y envío",
+      "title": "Un resultado técnico correcto no vuelve útil un correo no deseado",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Revisa el motivo de contacto, el contexto de los datos y las exclusiones. Verificar una dirección reduce incertidumbre sobre su alcance; no verifica interés, permiso ni todos los buzones catch-all.",
+            "Aplica bajas y exclusiones al enviar, entre cuentas y secuencias. No cambies de canal o dominio para eludir un rechazo.",
+            "Comprueba identidad, asunto, contexto personal o profesional real, enlaces y seguimiento innecesario. Una publicación, afición o ubicación puede ser pertinente si es auténtica; no inventes familiaridad.",
+            "Distingue cuotas del proveedor y decisiones operativas. Ningún número diario, antigüedad de dominio o plazo de calentamiento garantiza seguridad. Las señales artificiales no equivalen a interés real.",
+            "Separar operaciones puede reducir algunos riesgos, pero dominios, subdominios y rutas pueden compartir señales. Otra infraestructura o una IP dedicada no arregla todo; evita rotaciones para eludir controles.",
+            "Spintax, un límite rígido de palabras o una lista de términos prohibidos no son curas técnicas. Lee el mensaje como persona e investiga errores reales."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "La privacidad, la normativa comercial y las condiciones del servicio de envío requieren su propia revisión. Que un contacto esté publicado o recién extraído no implica permiso. Esta guía explica pruebas de entrega, no autoriza legalmente un envío."
+        }
+      ]
+    },
+    {
+      "id": "d-recovery",
+      "label": "Pausa y reanudación",
+      "title": "Asigna un responsable a cada decisión",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Registro de recuperación",
+          "heads": [
+            "Decisión",
+            "Prueba necesaria",
+            "Responsable"
+          ],
+          "rows": [
+            [
+              "Pausar la prospección afectada",
+              "Errores, quejas o problemas creíbles; documentar cuentas/proveedores afectados y riesgos compartidos.",
+              "Responsable de campaña, con revisión técnica"
+            ],
+            [
+              "Investigar y corregir",
+              "Cambios, respuesta real, autenticación, calidad del público e infraestructura pertinente. Cambiar un factor cuando sea viable.",
+              "Responsable técnico o de datos autorizado"
+            ],
+            [
+              "Valorar una reanudación controlada",
+              "Causa abordada, mensaje vuelto a comprobar, exclusiones preservadas, errores revisados, ventana/volumen acotados y condiciones de vuelta atrás.",
+              "Responsable de campaña con validación técnica de la corrección"
+            ],
+            [
+              "Continuar, reducir o pausar de nuevo",
+              "Observaciones comparables entre ciclos: errores, aplazamientos, ubicación y opinión de destinatarios.",
+              "Responsable de seguimiento, en el momento acordado"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Define la próxima revisión, quién puede detener la campaña y qué deterioro exige otra pausa. No reanudes porque haya pasado una semana o una prueba salga bien. Corregir ajustes, salir de una lista y recuperar reputación son eventos distintos. No existe un plazo garantizado de recuperación."
+        }
+      ]
+    },
+    {
+      "id": "d-register",
+      "label": "Registro privado",
+      "title": "Prepara un resumen para la siguiente persona responsable",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "El registro opcional organiza un resumen sin datos sensibles. No consulta DNS, conecta correo, envía mensajes, certifica cumplimiento ni calcula salud de la bandeja. Conserva los originales en sistemas autorizados. Sin JavaScript puedes usar la tabla de pruebas anterior."
+        },
+        {
+          "type": "tool"
+        }
+      ]
+    },
+    {
+      "id": "d-next",
+      "label": "Siguiente paso",
+      "title": "Trabaja en el obstáculo identificado",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Si aceptación y ubicación parecen correctas pero faltan respuestas relevantes, revisa segmentación, oferta y razonamiento individual del mensaje. Si hay interés sin reservas, examina el calendario en lugar de cambiar la infraestructura. La entrega es una parte del embudo."
+        },
+        {
+          "type": "links",
+          "items": [
+            [
+              "/guides/b2b-cold-email-copywriting/",
+              "Revisar los ejemplos de investigación y mensajes"
+            ],
+            [
+              "/guides/cold-email-follow-up/",
+              "Revisar seguimientos breves y reglas para detenerlos"
+            ],
+            [
+              "/guides/b2b-lead-generation-audit/",
+              "Diagnosticar el embudo completo"
+            ],
+            [
+              "/guides/cold-email-agency/",
+              "Evaluar las responsabilidades de una agencia"
+            ],
+            [
+              "/guides/cold-email-agency-pricing/",
+              "Consultar precios y alcance"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Si quieres delegar la ejecución, Beespoke puede gestionar el trabajo acordado de cold email y/o LinkedIn. Tú aportas criterio sobre los objetivos y diriges el diagnóstico comercial, las propuestas y el cierre. Consulta el servicio antes de decidir si una conversación sería útil."
+        },
+        {
+          "type": "handoff",
+          "service": "Prospección gestionada por cold email",
+          "book": "Reservar una conversación de 30 minutos",
+          "note": "Opcional. Empieza con una descripción sin datos sensibles; no necesitas compartir listas ni acceso a cuentas."
+        }
+      ]
+    }
+  ],
+  "faqTitle": "Preguntas sobre entregabilidad",
+  "faqs": [
+    [
+      "¿Por qué se aceptan los mensajes pero no hay respuestas?",
+      "La aceptación no demuestra llegada a la bandeja. Las pruebas controladas ayudan, pero la segmentación, el momento y la oferta también pueden explicar el silencio. Compara grupos antes de elegir una solución."
+    ],
+    [
+      "¿Cuántos correos diarios son seguros?",
+      "No hay una cifra universal. Cuota, clasificación del remitente, historial, público y errores son datos distintos. Un tope fijo no garantiza ubicación ni permiso."
+    ],
+    [
+      "¿Por qué no hay datos en Postmaster Tools?",
+      "Comprueba acceso verificado, tráfico a Gmail personal, límites de volumen/privacidad y disponibilidad. La ausencia no equivale a cero quejas ni buena reputación."
+    ],
+    [
+      "¿Calentar o cambiar de dominio arregla el problema?",
+      "Ninguna opción demuestra recuperación. Corrige la causa y evalúa pruebas reales. La interacción artificial o la rotación no demuestra interés de los destinatarios."
+    ],
+    [
+      "¿Todo rebote permanente significa dirección inválida?",
+      "No. Puede deberse a dirección, política o autenticación. Registra fase SMTP y respuesta completa e involucra al responsable técnico."
+    ],
+    [
+      "¿Cuándo podemos reanudar?",
+      "Cuando se haya abordado la causa, revisado pruebas y exclusiones, y un responsable defina reanudación controlada, seguimiento y vuelta atrás. Un plazo o puntuación no basta."
+    ]
+  ],
+  "sourcesTitle": "Fuentes y lecturas relacionadas",
+  "sourceIntro": "Documentación de proveedores revisada el 17 de noviembre de 2026. El ámbito y el nivel de exigencia se explican arriba. No se presentan cifras ni casos de competidores como resultados de Beespoke.",
+  "sourceNotes": [
+    "Requisitos y recomendaciones para Gmail personal.",
+    "Clasificación masiva y baja con un clic.",
+    "Acceso verificado y ausencia de datos con poco volumen.",
+    "Requisitos de Yahoo y opciones de baja.",
+    "Definición masiva, informes y denominador de quejas.",
+    "Aviso actual del servicio de consumo.",
+    "Aviso actualizado de autenticación; conserva texto antiguo del calendario.",
+    "Clases de respuesta SMTP y aceptación tras DATA; apartados 4.2.1 y 4.2.5."
+  ],
+  "ui": {
+    "summary": "Abrir el registro privado de pruebas",
+    "privacy": "Las entradas permanecen en la memoria de esta página. No se cargan, guardan en el navegador ni envían a Analytics. Copia o descarga lo necesario antes de salir. No introduzcas nombres, direcciones, cabeceras completas ni credenciales.",
+    "fields": {
+      "period": "Periodo y zona horaria",
+      "cohort": "Proveedor / grupo afectado",
+      "evidence": "Observación sin datos sensibles y fuente",
+      "unknown": "Incógnitas y próxima comprobación",
+      "owner": "Función responsable",
+      "review": "Próxima revisión y condiciones de vuelta atrás"
+    },
+    "state": "Estado de las pruebas",
+    "states": {
+      "unknown": "Sin datos",
+      "recorded": "Pruebas anotadas, sin verificación independiente",
+      "investigate": "Pendiente de investigar"
+    },
+    "demo": "Cargar un ejemplo ficticio",
+    "blank": "Empezar en blanco",
+    "export": "Descargar mi registro",
+    "clear": "Borrar mis entradas",
+    "confirm": "¿Sustituir las entradas actuales? Copia o descarga primero lo que necesites.",
+    "yes": "Sustituir entradas",
+    "no": "Conservar entradas",
+    "changed": "Entradas modificadas. El registro no decide si enviar.",
+    "loaded": "Ejemplo ficticio cargado; no es prueba de una campaña real.",
+    "cleared": "Entradas borradas.",
+    "empty": "Registro en blanco. No calcula puntuación ni aprobación de envío.",
+    "csv": "CSV para copiar",
+    "downloaded": "CSV preparado. Contiene tus entradas; revísalo antes de compartir.",
+    "close": "Cerrar CSV",
+    "demoValues": {
+      "period": "Corte ficticio: día 2, 17:00 UTC",
+      "cohort": "Subgrupo de proveedor de consumo tras migrar la herramienta",
+      "evidence": "Muestra recibida: SPF/DKIM válidos para la plataforma; falla la alineación con From.",
+      "unknown": "Ubicación real y aplazamientos pendientes sin resolver.",
+      "owner": "Administrador autorizado del correo / responsable de campaña",
+      "review": "Comprobar alineación y errores actuales antes de decidir una reanudación acotada; pausar si se repiten los rechazos por política."
+    }
+  },
+  "tableHint": "Desplázate hacia los lados para leer todas las columnas. Con la tabla enfocada, usa las flechas izquierda y derecha."
+}

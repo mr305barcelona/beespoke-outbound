@@ -1,0 +1,585 @@
+{
+  "title": "Correu en fred: lliurament i diagnòstic | Beespoke",
+  "h1": "Correu en fred: identifica el problema abans d’enviar més missatges",
+  "description": "Diferencia un rebuig de l’arribada a la safata d’entrada. Revisa els requisits de cada proveïdor i les proves necessàries per decidir el pas següent.",
+  "answer": "El lliurament del correu en fred té com a objectiu arribar a la safata d’entrada del destinatari. L’estat «lliurat» d’una plataforma sol indicar que el servidor ha acceptat el missatge, no que hagi arribat a la safata ni que hi hagi interès humà. Abans de canviar els textos, comprar dominis o augmentar el volum, identifica el símptoma, el proveïdor receptor i el grup d’enviaments. L’autenticació no garanteix que el correu no sol·licitat sigui desitjat o arribi a la safata.",
+  "resources": "Recursos",
+  "breadcrumb": "Lliurament del correu en fred",
+  "contents": "Contingut",
+  "author": "Per",
+  "updated": "Publicat el 17 de novembre de 2026",
+  "read": "Identifica el símptoma",
+  "registerLink": "Fes servir el registre privat",
+  "fiction": "Totes les situacions i xifres són exemples ficticis per explicar el procés, no resultats de clients. No cal compartir contactes ni accés al correu.",
+  "sections": [
+    {
+      "id": "d-symptoms",
+      "label": "Identifica el símptoma",
+      "title": "Investiga el problema que tens realment",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Una davallada de respostes pot venir d’un problema tècnic, un altre públic, una oferta poc convincent o un canvi de moment. No identifica la causa tota sola. Compara períodes equivalents i el mateix grup d’enviaments; separa proveïdors en lloc de diagnosticar amb la mitjana de tota la campanya."
+        },
+        {
+          "type": "table",
+          "caption": "Tria la comprovació següent",
+          "heads": [
+            "Símptoma observat",
+            "Prova útil",
+            "Què no demostra"
+          ],
+          "rows": [
+            [
+              "Missatges rebutjats",
+              "Resposta completa, proveïdor receptor, fase SMTP i data; revisió tècnica.",
+              "Que totes les adreces rebutjades siguin invàlides."
+            ],
+            [
+              "Ajornaments temporals",
+              "Cua pendent, reintents i resposta del proveïdor; canvis de ritme o configuració.",
+              "Que el missatge hagi arribat a la safata."
+            ],
+            [
+              "Acceptació, poques respostes humanes",
+              "Autenticació real, proves controlades d’ubicació i revisió de públic i oferta.",
+              "Que poques respostes provin l’arribada a correu brossa."
+            ],
+            [
+              "Empitjora un sol proveïdor",
+              "Respostes per proveïdor i el mateix recorregut abans i després del canvi.",
+              "Que tot el domini sigui inutilitzable."
+            ],
+            [
+              "Tauler sense dades",
+              "Accés, destinataris coberts, volum mínim i demora de l’informe.",
+              "Que no hi hagi cap queixa."
+            ],
+            [
+              "Interès, poques reserves",
+              "Traspàs al calendari, reserves originals i seguiment comercial.",
+              "Que enviar més correus resolgui la reserva."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Delimita l’abast afectat. Una incidència de prospecció no implica aturar automàticament el correu essencial de clients, facturació o converses individuals. La persona responsable de la part tècnica ha de valorar la infraestructura compartida i el risc."
+        }
+      ]
+    },
+    {
+      "id": "d-stages",
+      "label": "Interpreta les xifres",
+      "title": "Lliurament, ubicació i reunions són resultats diferents",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Cada etapa necessita proves pròpies",
+          "heads": [
+            "Etapa",
+            "Prova i unitat de recompte",
+            "Límit"
+          ],
+          "rows": [
+            [
+              "En cua / sense intentar",
+              "Destinataris únics en una data de tall; exclusions registrades a part.",
+              "Estar en cua no equival a enviar."
+            ],
+            [
+              "Intentat",
+              "Destinataris únics del primer intent; reintents en un registre separat.",
+              "Un reintent no és una altra persona."
+            ],
+            [
+              "Ajornat / rebutjat",
+              "Resposta temporal o permanent i fase SMTP d’aquella petició.",
+              "Un rebuig per política no implica una adreça inexistent."
+            ],
+            [
+              "Acceptat",
+              "Finalització positiva després de transferir el missatge complet amb DATA, o estat de plataforma ben definit.",
+              "No prova l’arribada a la safata."
+            ],
+            [
+              "Ubicació observada",
+              "Carpeta en bústies de prova identificades, amb data i recorregut.",
+              "La mostra no representa totes les bústies reals."
+            ],
+            [
+              "Respostes humanes / positives",
+              "Persones úniques; interès positiu definit a part; respostes automàtiques excloses.",
+              "Respondre no sempre vol dir interès o reserva."
+            ],
+            [
+              "Reservat / celebrat / qualificat",
+              "ID i data original de reserva, assistència i valoració segons criteris acordats.",
+              "Un clic, un canvi de data o una invitació no és una altra reunió qualificada."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Les respostes SMTP 4xx indiquen un error temporal; les 5xx, un error permanent d’aquella petició. Conserva el text complet del proveïdor i la fase. Un receptor fictici que retorna 451 durant la transferència no ha acceptat el missatge. Un 550 a RCPT TO necessita el motiu complet abans de marcar una adreça com a invàlida. Un 250 després de completar DATA indica acceptació de responsabilitat, no arribada a la safata; un 250 en una fase anterior no prova l’acceptació del missatge complet. Registra proveïdor real, data i funció tècnica responsable al costat de la resposta."
+        },
+        {
+          "type": "p",
+          "text": "Les obertures no són una mesura fiable d’arribada a la safata. Les proteccions de privadesa, les càrregues automàtiques i les imatges bloquejades alteren el registre. Google indica que no registra obertures ni verifica la precisió d’eines externes. Les respostes humanes són prova d’interacció; el silenci no demostra filtratge."
+        }
+      ]
+    },
+    {
+      "id": "d-providers",
+      "label": "Requisits per proveïdor",
+      "title": "Llegeix la regla del destinatari i del tipus de remitent",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Documentació revisada el 17 de novembre de 2026. Requisits, recomanacions i hàbits de proveïdors comercials no són equivalents. La quota permesa d’un compte no és un volum universalment segur de prospecció. Les regles de Gmail personal o Outlook.com no descriuen totes les polítiques de recepció de les empreses."
+        },
+        {
+          "type": "table",
+          "caption": "Abast i autenticació mínima",
+          "heads": [
+            "Destinació",
+            "Tots els remitents o gran volum",
+            "Distinció important"
+          ],
+          "rows": [
+            [
+              "Gmail personal: gmail.com / googlemail.com",
+              "Tots: SPF o DKIM i els altres requisits generals. Massius: SPF i DKIM, DMARC i alineació, més regles addicionals aplicables.",
+              "Un volum proper als 5.000 missatges o superior en 24 hores pot determinar la classificació. S’agrupen els subdominis sota el domini principal; reduir el volum no desfà una classificació ja adquirida."
+            ],
+            [
+              "Yahoo",
+              "Tots: SPF o DKIM. Massius: SPF i DKIM, DMARC vàlid i alineació, més requisits addicionals.",
+              "Yahoo no publica un llindar numèric d’enviament massiu. No hi traslladis els 5.000 de Gmail."
+            ],
+            [
+              "Outlook.com de consum, inclosos Hotmail i Live",
+              "Microsoft exigeix SPF i DKIM vàlids, DMARC almenys p=none i alineació per a dominis que envien més de 5.000 missatges diaris.",
+              "L’avís actualitzat preveu rebuig per autenticació amb 550 5.7.515. No és una regla universal de recepció de Microsoft 365."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Google també exigeix DNS directe i invers vàlids, TLS i format de missatge adequat. Recomana una taxa de correu brossa denunciat inferior al 0,1% i evitar el 0,3% o més. Yahoo exigeix menys del 0,3% i explica que el denominador és el correu lliurat a la safata d’entrada. No substitueixis aquestes mètriques per queixes dividides entre tots els intents de la campanya."
+        },
+        {
+          "type": "p",
+          "text": "Per al correu massiu comercial o promocional cobert per les regles de Gmail, la baixa amb un clic necessita les capçaleres RFC 8058 corresponents; un enllaç mailto o una pàgina de preferències al cos no les substitueix. Google també exigeix un enllaç visible al cos. Yahoo exigeix baixa mitjançant capçalera i un enllaç visible per al correu massiu pertinent; recomana POST i accepta mailto a la capçalera. Atén les peticions de seguida i mantén les exclusions entre seqüències."
+        },
+        {
+          "type": "p",
+          "text": "L’article de Microsoft actualitzat l’abril de 2025 conserva text antic sobre el pas inicial a correu brossa al costat de l’avís revisat de rebuig. No ho presentis com un termini nou de 2026. Revisa la resposta real. L’autenticació no demostra permís del destinatari, compliment legal ni arribada garantida."
+        }
+      ]
+    },
+    {
+      "id": "d-auth",
+      "label": "Autenticació real",
+      "title": "Publicar un registre no prova l’alineació del missatge",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Demana a l’administrador autoritzat del correu o del DNS que examini un missatge rebut mitjançant el recorregut real. Una captura de configuració o una consulta pública aporta informació, però no prova el resultat d’aquell missatge. La capçalera Authentication-Results del servidor receptor permet comprovar-lo amb més precisió."
+        },
+        {
+          "type": "code",
+          "label": "Capçaleres fictícies i abreujades; dominis reservats d’exemple",
+          "text": "From: Campaign sender <sender@outreach.example>\nReturn-Path: <bounce@delivery.example>\nAuthentication-Results: receiver.example;\n  spf=pass smtp.mailfrom=delivery.example;\n  dkim=pass header.d=delivery.example;\n  dmarc=fail header.from=outreach.example"
+        },
+        {
+          "type": "p",
+          "text": "SPF i DKIM passen per a delivery.example, però cap de les identitats autenticades s’alinea amb outreach.example, el domini visible a From. No n’hi ha prou amb veure «pass» en cada mecanisme. L’exemple omet altres capçaleres i casos de reenviament; no és un registre DNS per copiar en producció."
+        },
+        {
+          "type": "p",
+          "text": "La persona responsable ha de revisar les fonts legítimes d’enviament, la signatura activa i l’alineació seguint les instruccions del servei. Passar a DMARC p=reject per un termini fix pot interrompre correu legítim si falta preparació. Alhora, p=none no promet que un missatge amb errors es lliuri normalment."
+        }
+      ]
+    },
+    {
+      "id": "d-evidence",
+      "label": "Organitza les proves",
+      "title": "Anota el que saps i el que falta",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Registre mínim d’una incidència",
+          "heads": [
+            "Dada",
+            "Detall útil",
+            "Responsable"
+          ],
+          "rows": [
+            [
+              "Grup i data de tall",
+              "Destinataris únics, període, zona horària, proveïdor/segment i definició d’estats.",
+              "Operador de campanya"
+            ],
+            [
+              "Historial de canvis",
+              "Migració, signatura, volum, importació de públic o seguiment, amb dates.",
+              "Operador i responsable tècnic"
+            ],
+            [
+              "Missatge / resposta real",
+              "Autenticació, fase SMTP, codi i text del proveïdor sense dades sensibles; originals en sistemes autoritzats.",
+              "Administrador del correu"
+            ],
+            [
+              "Ubicació i reputació",
+              "Mostra, recorregut real i data; abast del tauler, disponibilitat i demora.",
+              "Responsable tècnic"
+            ],
+            [
+              "Resultats del destinatari i comercials",
+              "Exclusions, categories de resposta humana, reserves originals i reunions celebrades/qualificades.",
+              "Responsables de campanya i vendes"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Una dada absent continua sent desconeguda. Google Postmaster Tools necessita verificació del domini i pot ocultar dades de poc volum per privadesa. Les seves dades corresponen a Gmail personal. Yahoo també té condicions d’accés, volum i demora. Si el tauler és buit, revisa aquestes condicions i els missatges reals; no assignis una reputació saludable per defecte."
+        }
+      ]
+    },
+    {
+      "id": "d-example",
+      "label": "Un cas complet",
+      "title": "Interpreta un registre fictici de principi a fi",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Imagina un lot de 200 registres revisat en una data de tall fixa. Cada intent representa un destinatari únic en el primer enviament, no cada reintent SMTP. Les xifres il·lustren el recompte: no són objectius ni resultats de Beespoke."
+        },
+        {
+          "type": "table",
+          "caption": "Grup fictici en la data de tall",
+          "heads": [
+            "Estat",
+            "Quantitat",
+            "Interpretació"
+          ],
+          "rows": [
+            [
+              "Sense intentar / exclosos",
+              "8",
+              "Exclusió prèvia a l’enviament."
+            ],
+            [
+              "Intentats",
+              "192",
+              "200 − 8; els tres estats següents sumen aquest total."
+            ],
+            [
+              "Acceptats",
+              "181",
+              "Acceptats després de transferir el missatge; ubicació desconeguda."
+            ],
+            [
+              "Error permanent",
+              "7",
+              "Rebuigs per política registrats; no etiquetis les adreces com a invàlides automàticament."
+            ],
+            [
+              "Ajornats sense resoldre",
+              "4",
+              "Pendents al tall; encara sense resultat final."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "200 = 8 + 192 i 192 = 181 + 7 + 4. Els reintents actualitzen el registre del mateix destinatari; conserva el tall anterior per comparar. Onze persones han respost: tres amb interès, quatre negativament, dues amb «ara no» i dues amb referències a una altra persona. Hi ha dues reserves originals, una reunió celebrada i qualificació desconeguda. Són etapes que se solapen: no se sumen al total de lliurament ni permeten calcular una taxa d’arribada a la safata."
+        },
+        {
+          "type": "table",
+          "caption": "Investigació fictícia i explicacions alternatives",
+          "heads": [
+            "Moment",
+            "Prova observada",
+            "Decisió i responsable"
+          ],
+          "rows": [
+            [
+              "Abans de la migració",
+              "La mostra rebuda tenia autenticació alineada.",
+              "El responsable tècnic conserva mostra i recorregut."
+            ],
+            [
+              "Després de la migració",
+              "Hi ha rebuigs per política al proveïdor de consum afectat. El missatge real autentica el domini de la plataforma, però falla l’alineació de From. Públic i volum també necessiten revisió.",
+              "S’atura la prospecció afectada. L’administrador revisa la signatura; no es declara provada una llista defectuosa ni dany al domini."
+            ],
+            [
+              "Després de corregir la configuració",
+              "Una nova mostra rebuda té autenticació alineada. La ubicació real i els ajornaments continuen pendents.",
+              "Es documenten correcció i límits. El responsable de campanya decideix una represa acotada després de revisar exclusions, errors i seguiment."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Si els errors continuen després de corregir l’alineació, la investigació no s’ha acabat. Compara respostes per proveïdor i recorreguts reals abans de substituir dominis o reescriure-ho tot. La coincidència amb una migració dona una hipòtesi comprovable, no demostra la causa de cada resposta perduda."
+        }
+      ]
+    },
+    {
+      "id": "d-tests",
+      "label": "Límits de les proves",
+      "title": "Combina proves sense exagerar-ne les conclusions",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Què respon cada comprovació",
+          "heads": [
+            "Comprovació",
+            "Resposta útil",
+            "Incertesa restant"
+          ],
+          "rows": [
+            [
+              "Capçaleres rebudes",
+              "Autenticació i alineació d’aquell missatge en aquell receptor.",
+              "Ubicació i expectatives d’altres destinataris."
+            ],
+            [
+              "Bústies de prova",
+              "Ubicació del contingut i recorregut en una mostra controlada.",
+              "Filtratge personalitzat als contactes reals."
+            ],
+            [
+              "Respostes SMTP i cua",
+              "Resultat de la fase registrada i elements pendents.",
+              "Ubicació després de l’acceptació."
+            ],
+            [
+              "Tauler del proveïdor",
+              "Telemetria del proveïdor, període i trànsit disponibles.",
+              "Dades ocultes per poc volum i altres proveïdors."
+            ],
+            [
+              "Respostes / reserves",
+              "Converses observades i etapes posteriors verificades a part.",
+              "Per què no ha respost cada persona que ha guardat silenci."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Les discrepàncies ajuden. Una bona prova amb errors reals persistents exigeix comparar recorregut, data i mostra; no justifica un segell d’«enviament segur». Les llistes de bloqueig valoren llistes i infraestructura concretes: un resultat net no certifica ubicació universal. Corregeix la causa d’una inclusió rellevant abans de seguir-ne el procés de retirada."
+        }
+      ]
+    },
+    {
+      "id": "d-practice",
+      "label": "Destinataris i enviament",
+      "title": "Un resultat tècnic correcte no fa útil un correu no desitjat",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Revisa el motiu de contacte, el context de les dades i les exclusions. Verificar una adreça redueix incertesa sobre si és accessible; no verifica interès, permís ni totes les bústies catch-all.",
+            "Aplica baixes i exclusions en enviar, entre comptes i seqüències. No canviïs de canal o domini per esquivar un rebuig.",
+            "Comprova identitat, assumpte, context personal o professional real, enllaços i seguiment innecessari. Una publicació, afició o ubicació pot ser pertinent si és autèntica; no inventis familiaritat.",
+            "Distingeix quotes del proveïdor i decisions operatives. Cap nombre diari, antiguitat de domini o termini d’escalfament garanteix seguretat. Els senyals artificials no són interès real.",
+            "Separar operacions pot reduir alguns riscos, però dominis, subdominis i recorreguts poden compartir senyals. Una altra infraestructura o una IP dedicada no ho resol tot; evita rotacions per esquivar controls.",
+            "Spintax, un límit rígid de paraules o una llista de termes prohibits no són cures tècniques. Llegeix el missatge com a persona i investiga errors reals."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "La privadesa, la normativa comercial i les condicions del servei d’enviament necessiten una revisió pròpia. Que un contacte estigui publicat o acabat d’extreure no implica permís. Aquesta guia explica proves de lliurament, no autoritza legalment un enviament."
+        }
+      ]
+    },
+    {
+      "id": "d-recovery",
+      "label": "Pausa i represa",
+      "title": "Assigna un responsable a cada decisió",
+      "blocks": [
+        {
+          "type": "table",
+          "caption": "Registre de recuperació",
+          "heads": [
+            "Decisió",
+            "Prova necessària",
+            "Responsable"
+          ],
+          "rows": [
+            [
+              "Aturar la prospecció afectada",
+              "Errors, queixes o problemes creïbles; documentar comptes/proveïdors afectats i riscos compartits.",
+              "Responsable de campanya, amb revisió tècnica"
+            ],
+            [
+              "Investigar i corregir",
+              "Canvis, resposta real, autenticació, qualitat del públic i infraestructura pertinent. Canviar un factor quan sigui viable.",
+              "Responsable tècnic o de dades autoritzat"
+            ],
+            [
+              "Valorar una represa controlada",
+              "Causa abordada, missatge comprovat de nou, exclusions preservades, errors revisats, finestra/volum acotats i condicions per tornar enrere.",
+              "Responsable de campanya amb validació tècnica de la correcció"
+            ],
+            [
+              "Continuar, reduir o aturar de nou",
+              "Observacions comparables entre cicles: errors, ajornaments, ubicació i resposta dels destinataris.",
+              "Responsable de seguiment, en el moment acordat"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Defineix la revisió següent, qui pot aturar la campanya i quin deteriorament exigeix una altra pausa. No reprenguis l’activitat perquè hagi passat una setmana o una prova hagi anat bé. Corregir configuració, desaparèixer d’una llista i recuperar reputació són fets diferents. No hi ha un termini garantit de recuperació."
+        }
+      ]
+    },
+    {
+      "id": "d-register",
+      "label": "Registre privat",
+      "title": "Prepara un resum per a la persona responsable següent",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "El registre opcional organitza un resum sense dades sensibles. No consulta DNS, connecta correu, envia missatges, certifica compliment ni calcula la salut de la safata. Conserva els originals en sistemes autoritzats. Sense JavaScript pots fer servir la taula de proves anterior."
+        },
+        {
+          "type": "tool"
+        }
+      ]
+    },
+    {
+      "id": "d-next",
+      "label": "Pas següent",
+      "title": "Treballa en l’obstacle identificat",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Si acceptació i ubicació semblen correctes però falten respostes rellevants, revisa segmentació, oferta i raonament individual del missatge. Si hi ha interès sense reserves, examina el calendari en lloc de canviar la infraestructura. El lliurament és una part de l’embut."
+        },
+        {
+          "type": "links",
+          "items": [
+            [
+              "/guides/b2b-cold-email-copywriting/",
+              "Revisa els exemples de recerca i missatges"
+            ],
+            [
+              "/guides/cold-email-follow-up/",
+              "Revisa seguiments breus i criteris per aturar-los"
+            ],
+            [
+              "/guides/b2b-lead-generation-audit/",
+              "Diagnostica l’embut complet"
+            ],
+            [
+              "/guides/cold-email-agency/",
+              "Avalua les responsabilitats d’una agència"
+            ],
+            [
+              "/guides/cold-email-agency-pricing/",
+              "Consulta preus i abast"
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Si vols delegar l’execució, Beespoke pot gestionar la feina acordada de correu en fred i/o LinkedIn. Tu aportes criteri sobre els objectius i dirigeixes el diagnòstic comercial, les propostes i el tancament. Consulta el servei abans de decidir si una conversa seria útil."
+        },
+        {
+          "type": "handoff",
+          "service": "Prospecció gestionada per correu en fred",
+          "book": "Reserva una conversa de 30 minuts",
+          "note": "Opcional. Comença amb una descripció sense dades sensibles; no cal compartir llistes ni accés als comptes."
+        }
+      ]
+    }
+  ],
+  "faqTitle": "Preguntes sobre el lliurament",
+  "faqs": [
+    [
+      "Per què s’accepten els missatges però no hi ha respostes?",
+      "L’acceptació no prova l’arribada a la safata. Les proves controlades ajuden, però segmentació, moment i oferta també poden explicar el silenci. Compara grups abans de triar una solució."
+    ],
+    [
+      "Quants correus diaris són segurs?",
+      "No hi ha una xifra universal. Quota, classificació del remitent, historial, públic i errors són dades diferents. Un topall fix no garanteix ubicació ni permís."
+    ],
+    [
+      "Per què no hi ha dades a Postmaster Tools?",
+      "Comprova accés verificat, trànsit a Gmail personal, límits de volum/privadesa i disponibilitat. L’absència no equival a zero queixes ni bona reputació."
+    ],
+    [
+      "Escalfar o canviar de domini resol el problema?",
+      "Cap opció demostra recuperació. Corregeix la causa i avalua proves reals. La interacció artificial o la rotació no demostra interès dels destinataris."
+    ],
+    [
+      "Tot rebuig permanent vol dir adreça invàlida?",
+      "No. Pot venir de l’adreça, la política o l’autenticació. Registra la fase SMTP i la resposta completa, i implica el responsable tècnic."
+    ],
+    [
+      "Quan podem reprendre l’activitat?",
+      "Quan s’hagi abordat la causa, revisat proves i exclusions, i un responsable defineixi represa controlada, seguiment i retorn enrere. Un termini o una puntuació no és suficient."
+    ]
+  ],
+  "sourcesTitle": "Fonts i lectures relacionades",
+  "sourceIntro": "Documentació de proveïdors revisada el 17 de novembre de 2026. L’abast i el nivell d’exigència s’expliquen més amunt. No es presenten xifres ni casos de competidors com a resultats de Beespoke.",
+  "sourceNotes": [
+    "Requisits i recomanacions per a Gmail personal.",
+    "Classificació massiva i baixa amb un clic.",
+    "Accés verificat i absència de dades amb poc volum.",
+    "Requisits de Yahoo i opcions de baixa.",
+    "Definició massiva, informes i denominador de queixes.",
+    "Avís actual del servei de consum.",
+    "Avís actualitzat d’autenticació; conserva text antic del calendari.",
+    "Classes de resposta SMTP i acceptació després de DATA; apartats 4.2.1 i 4.2.5."
+  ],
+  "ui": {
+    "summary": "Obre el registre privat de proves",
+    "privacy": "Les entrades es mantenen a la memòria d’aquesta pàgina. No es carreguen, desen al navegador ni envien a Analytics. Copia o descarrega el que calgui abans de marxar. No hi introdueixis noms, adreces, capçaleres completes ni credencials.",
+    "fields": {
+      "period": "Període i zona horària",
+      "cohort": "Proveïdor / grup afectat",
+      "evidence": "Observació sense dades sensibles i font",
+      "unknown": "Incògnites i comprovació següent",
+      "owner": "Funció responsable",
+      "review": "Revisió següent i condicions de retorn enrere"
+    },
+    "state": "Estat de les proves",
+    "states": {
+      "unknown": "Sense dades",
+      "recorded": "Proves anotades, sense verificació independent",
+      "investigate": "Pendent d’investigar"
+    },
+    "demo": "Carrega un exemple fictici",
+    "blank": "Comença en blanc",
+    "export": "Descarrega el meu registre",
+    "clear": "Esborra les meves entrades",
+    "confirm": "Vols substituir les entrades actuals? Copia o descarrega primer el que necessitis.",
+    "yes": "Substitueix les entrades",
+    "no": "Conserva les entrades",
+    "changed": "Entrades modificades. El registre no decideix si cal enviar.",
+    "loaded": "Exemple fictici carregat; no és prova d’una campanya real.",
+    "cleared": "Entrades esborrades.",
+    "empty": "Registre en blanc. No calcula puntuació ni aprovació d’enviament.",
+    "csv": "CSV per copiar",
+    "downloaded": "CSV preparat. Conté les teves entrades; revisa’l abans de compartir-lo.",
+    "close": "Tanca el CSV",
+    "demoValues": {
+      "period": "Tall fictici: dia 2, 17:00 UTC",
+      "cohort": "Subgrup de proveïdor de consum després de migrar l’eina",
+      "evidence": "Mostra rebuda: SPF/DKIM vàlids per a la plataforma; falla l’alineació amb From.",
+      "unknown": "Ubicació real i ajornaments pendents sense resoldre.",
+      "owner": "Administrador autoritzat del correu / responsable de campanya",
+      "review": "Comprovar alineació i errors actuals abans d’una represa acotada; aturar si es repeteixen els rebuigs per política."
+    }
+  },
+  "tableHint": "Desplaça’t cap als costats per llegir totes les columnes. Amb la taula enfocada, fes servir les fletxes esquerra i dreta."
+}

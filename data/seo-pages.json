@@ -12419,5 +12419,27 @@
       "/services/b2b-appointment-setting/",
       "/guides/b2b-sales-prospecting-plan/"
     ]
+  },
+  {
+    "path": "/guides/cold-email-deliverability/",
+    "serviceFamily": "outbound",
+    "title": "Cold Email Deliverability: Checks and Recovery | Beespoke",
+    "description": "Distinguish rejected mail from inbox placement, check provider requirements, and work through a deliverability incident with clear evidence and owners.",
+    "h1": "Cold email deliverability: diagnose the problem before sending more",
+    "answer": "Cold email deliverability is the ability of prospecting emails to reach a recipient’s inbox. A sending platform’s “delivered” status usually establishes server acceptance, not inbox placement or human interest. Diagnose the actual symptom, recipient provider and sending cohort before changing copy, buying domains or increasing volume. Authentication is necessary in the applicable circumstances; it cannot guarantee that unsolicited mail is wanted or reaches the inbox.",
+    "eyebrow": "Evidence before more sending",
+    "sections": [
+      {
+        "heading": "Interpret the delivery evidence",
+        "body": [
+          "Distinguish transfer, placement and human outcomes before choosing a fix."
+        ]
+      }
+    ],
+    "related": [
+      "/guides/cold-email-agency/",
+      "/services/cold-email-lead-generation/",
+      "/guides/b2b-lead-generation-audit/"
+    ]
   }
 ]

@@ -29,7 +29,10 @@ for (const page of pages) {
     if (!ids.has(match[1])) failures.push(`${page.path}: broken section link #${match[1]}`);
   }
   if ((html.match(/<section /g) || []).length < 5) failures.push(`${page.path}: fewer than five substantive sections`);
-  if (page.path === '/guides/how-to-manage-an-outsourced-sdr-team/') {
+  if (page.path === '/guides/cold-email-deliverability/') {
+    for (const required of ['data-deliverability-register','id="d-example"','id="d-recovery"','href="/services/cold-email-lead-generation/"','href="/book/?lang=en&amp;cta=guide-deliverability"']) if (!html.includes(required)) failures.push(`${page.path}: missing deliverability evidence or next step ${required}`);
+    if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g)||[]).length !== 1) failures.push(`${page.path}: expected preserved header booking control`);
+  } else if (page.path === '/guides/how-to-manage-an-outsourced-sdr-team/') {
     if (!html.includes('id="worked-example"') || !html.includes('class="worked-record"') ||
         !html.includes('href="/book/?cta=guide-sdr-management"') ||
         !html.includes('href="/services/outbound-lead-generation/"')) {
