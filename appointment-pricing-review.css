@@ -32,3 +32,9 @@ body.appointment-pricing-review .inline-cta .eyebrow{font-size:.85rem}
 body.appointment-pricing-review .pricing-source-reference{overflow-wrap:anywhere}
 @media(max-width:650px){body.appointment-pricing-review .quote-inputs{grid-template-columns:1fr}body.appointment-pricing-review .quote-inputs fieldset{padding:.75rem}}
 @media print{body.appointment-pricing-review .quote-actions{display:none}body.appointment-pricing-review .quote-tool{background:white}}
+
+/* A single contextual handoff; all calculator and comparison styling stays above. */
+body.appointment-pricing-review #appointment-fit-call .inline-cta{display:block;margin:0;padding:0;background:transparent;border:0;border-radius:0;box-shadow:none}
+body.appointment-pricing-review #appointment-fit-call .button{box-sizing:border-box;max-width:100%;margin-top:1rem;white-space:normal;background:#173c52;color:#fff}
+body.appointment-pricing-review #appointment-fit-call details{margin-top:1rem;padding:0;border:0;background:transparent;box-shadow:none}
+body.appointment-pricing-review #appointment-fit-call summary{font:600 1rem/1.5 Arial,Helvetica,sans-serif;color:#173c52;cursor:pointer}

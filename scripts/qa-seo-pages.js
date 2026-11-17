@@ -47,8 +47,10 @@ for (const page of pages) {
       if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g) || []).length !== 4) failures.push(`${page.path}: preserve header, hero, preparation and final booking controls`);
     }
     const inlineCount = (html.match(/class="inline-cta"/g) || []).length;
-    if (founderProfile || restrainedGuide ? inlineCount !== 0 : inlineCount < 2) failures.push(`${page.path}: unexpected contextual inline CTA coverage`);
-    if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g) || []).length < (founderProfile || restrainedGuide ? 3 : 5)) failures.push(`${page.path}: insufficient booking CTA coverage`);
+    const appointmentHandoff = page.path === '/guides/appointment-setting-pricing/';
+    if (appointmentHandoff && (!html.includes('id="appointment-fit-call"') || (html.match(/calendly\.com\/noahlevybuilds\/30min/g)||[]).length !== 4)) failures.push(`${page.path}: missing preserved contextual booking handoff`);
+    if (appointmentHandoff ? inlineCount !== 1 : founderProfile || restrainedGuide ? inlineCount !== 0 : inlineCount < 2) failures.push(`${page.path}: unexpected contextual inline CTA coverage`);
+    if ((html.match(/calendly\.com\/noahlevybuilds\/30min/g) || []).length < (appointmentHandoff ? 4 : founderProfile || restrainedGuide ? 3 : 5)) failures.push(`${page.path}: insufficient booking CTA coverage`);
     if (!html.includes("class=\"original-tool")) failures.push(`${page.path}: missing original page utility`);
     if (!html.includes("class=\"competitive-depth\"")) failures.push(`${page.path}: missing buyer decision depth`);
   }
