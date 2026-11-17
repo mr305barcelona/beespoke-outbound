@@ -59,3 +59,10 @@
 @media(max-width:1100px){#beespoke-deliverability-full .d-table-hint{display:block}}
 
 #beespoke-deliverability-full .d-table{container-type:inline-size}
+
+/* Keep article headings and evidence tables readable in either scheme. */
+#beespoke-deliverability-full :is(h1,h2,h3,h4,summary,figcaption,strong,th,td){color:var(--d-ink)}
+#beespoke-deliverability-full :is(table,thead,tbody,tr){background:transparent}
+#beespoke-deliverability-full th{background:var(--d-soft)}
+#beespoke-deliverability-full td{background:var(--d-paper)}
+#beespoke-deliverability-full pre code{color:inherit;background:transparent}
